@@ -1,0 +1,27 @@
+---
+schema: foundry-doc-v1
+type: topic
+status: pre-build
+paired_with: topic-co-location-index-italy.es.md
+slug: topic-co-location-index-italy
+---
+
+# Co-location Index: Italy
+
+The Italy Co-location Index identifies the apex of commercial convergence within the Italian peninsula. Utilizing the [Retail Co-location Methodology](topic-co-location-methodology.md), the index maps the "Top 200" nodes where retail synergy achieves institutional-grade density.
+
+In these markets, the Primary Target is IKEA, with secondary validation provided by major operators such as Leroy Merlin and Makro, creating high-barrier commercial ecosystems.
+
+## Tier 4+ (★★★★+) — Institutional Grade Nodes
+
+A Tier 4+ rating signifies an institutional-grade node of remarkable commercial gravity. Mirroring the Michelin standard of excellence, these locations represent the most validated commercial environments in Italy, where primary anchors and essential civic infrastructure converge to create defensive retail hubs.
+
+| Rank | Municipality | Primary Anchor | Tier | Secondary Coverage (≤3km) | Civic Infrastructure (≤5km) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| *...* | *Data pending GIS Engine synchronization* | *...* | *...* | *...* | *...* |
+
+*(Note: The full index of 20+ primary evaluated sites is available via the Woodfine GIS platform. This document highlights the "Top 200" elite nodes.)*
+
+## See Also
+*   [European Tier Index](topic-tier-index-europe.md)
+*   [Retail Co-location Methodology](topic-co-location-methodology.md)
