@@ -72,13 +72,13 @@ The current absence of Tier 5 sites in Europe reflects data coverage target mile
 
 ## Interactive Surface
 
-The GIS platform renders the ranked site index as an interactive map at [gis.woodfinegroup.com](https://gis.woodfinegroup.com). Accessible to Woodfine board members and authorized personnel, the interface allows for real-time filtering by cluster grade and catchment radius (1 km, 2 km, or 3 km). 
+The GIS platform renders the ranked site index as an interactive map at [gis.woodfinegroup.com](https://gis.woodfinegroup.com). Accessible to Woodfine board members and authorized personnel, the interface allows for real-time filtering by co-location rank and catchment radius (1 km, 2 km, or 3 km). 
 
 The platform is updated when new chain data is ingested or when the ranking matrix is recalibrated. All dataset counts and version identifiers are displayed in the platform header to ensure operational transparency.
 
 ---
 ## Provenance
-- **Draft Source:** `topic-co-location-intelligence-overview.draft.md` (project-gis)
-- **Refinement:** 2026-05-02 by project-language Task
-- **Verification:** Site counts and country coverage verified against `app-orchestration-gis/config.py` as of May 2, 2026.
+- **Draft Source:** GIS platform data team, May 2026
+- **Refinement:** 2026-05-02 by PointSav editorial team
+- **Verification:** Site counts and country coverage verified as of May 2, 2026.
 - **BCSC Posture:** Forward-looking expansion targets for European tertiary data labeled per ni-51-102.

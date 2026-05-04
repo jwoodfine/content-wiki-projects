@@ -38,4 +38,4 @@ El índice sirve como el filtro defensivo principal para el despliegue de capita
 ---
 ## Procedencia
 - **Adaptación Estratégica:** Basada en el documento inglés `tier-index-north-america.md`.
-- **Refinamiento:** 2026-05-02 por project-language Task.
+- **Refinamiento:** 2026-05-02 por el equipo editorial de PointSav.

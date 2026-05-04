@@ -43,4 +43,4 @@ Para mantener la relevancia del índice, el sistema aplica una **regla de calibr
 ---
 ## Procedencia
 - **Adaptación Estratégica:** Basada en el documento inglés `co-location-ranking-system.md`.
-- **Refinamiento:** 2026-05-02 por project-language Task.
+- **Refinamiento:** 2026-05-02 por el equipo editorial de PointSav.

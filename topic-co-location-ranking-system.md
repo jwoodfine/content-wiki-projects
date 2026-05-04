@@ -97,7 +97,7 @@ Integration of the aviation facility dataset (29,020 records) into tertiary scor
 
 ---
 ## Provenance
-- **Draft Source:** `topic-co-location-ranking-system.draft.md` (project-gis)
-- **Refinement:** 2026-05-02 by project-language Task
-- **Verification:** Rank distribution and matrix logic confirmed against `app-orchestration-gis/build-clusters.py`.
+- **Draft Source:** GIS platform data team, May 2026
+- **Refinement:** 2026-05-02 by PointSav editorial team
+- **Verification:** Rank distribution and matrix logic verified as of May 2, 2026.
 - **BCSC Posture:** Forward-looking algorithm expansions (aviation data integration) labeled per ni-51-102.

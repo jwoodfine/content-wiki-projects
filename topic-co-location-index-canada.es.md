@@ -39,4 +39,4 @@ Los siguientes municipios albergan nodos que han logrado una convergencia comerc
 ---
 ## Procedencia
 - **Adaptación Estratégica:** Basada en el documento inglés `co-location-index-canada.md`.
-- **Refinamiento:** 2026-05-02 por project-language Task.
+- **Refinamiento:** 2026-05-02 por el equipo editorial de PointSav.

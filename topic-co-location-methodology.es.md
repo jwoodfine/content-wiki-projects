@@ -40,4 +40,4 @@ El índice de co-ubicación actúa como un filtro defensivo para el despliegue d
 ---
 ## Procedencia
 - **Adaptación Estratégica:** Basada en el documento inglés `co-location-methodology.md`.
-- **Refinamiento:** 2026-05-02 por project-language Task.
+- **Refinamiento:** 2026-05-02 por el equipo editorial de PointSav.

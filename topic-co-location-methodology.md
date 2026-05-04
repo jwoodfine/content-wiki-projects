@@ -62,7 +62,7 @@ The methodology is applied consistently across global markets by mapping regiona
 
 ---
 ## Provenance
-- **Draft Source:** `TOPIC-co-location-methodology.md` (project-gis)
-- **Refinement:** 2026-05-02 by project-language Task
-- **Verification:** Methodology definitions confirmed against `app-orchestration-gis` documentation and current regional configurations.
+- **Draft Source:** GIS platform data team, May 2026
+- **Refinement:** 2026-05-02 by PointSav editorial team
+- **Verification:** Methodology definitions verified against current regional configurations as of May 2, 2026.
 - **BCSC Posture:** Forward-looking methodology expansions (transport data) labeled per ni-51-102.
