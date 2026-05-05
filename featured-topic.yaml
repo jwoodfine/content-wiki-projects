@@ -1,0 +1,7 @@
+# featured-topic.yaml — pin file for projects.woodfinegroup.com home page
+# Engine reads on each request; absent → suppress featured panel; present → parse slug.
+# Update this file to rotate the featured TOPIC.
+
+slug: co-location-ranking-system
+since: 2026-05-05
+note: launch pin for iteration 1 — methodology cornerstone article
