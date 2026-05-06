@@ -1,9 +1,20 @@
 ---
 schema: foundry-doc-v1
-type: topic
-status: pre-build
-paired_with: topic-tier-index-europe.es.md
+title: "European Co-location Tier Index"
 slug: topic-tier-index-europe
+category: governance
+type: topic
+quality: complete
+status: active
+audience: customer-woodfine
+bcsc_class: current-fact
+language_protocol: PROSE-TOPIC
+last_edited: 2026-05-06
+editor: pointsav-engineering
+paired_with: topic-tier-index-europe.es.md
+cites:
+  - ni-51-102
+  - osc-sn-51-721
 ---
 
 # European Co-location Tier Index

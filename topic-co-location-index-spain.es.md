@@ -1,9 +1,20 @@
 ---
 schema: foundry-doc-v1
-type: topic
-status: pre-build
-paired_with: topic-co-location-index-spain.md
+title: "Índice de Co-ubicación: España"
 slug: topic-co-location-index-spain
+category: governance
+type: topic
+quality: complete
+status: active
+audience: customer-woodfine
+bcsc_class: current-fact
+language_protocol: PROSE-TOPIC
+last_edited: 2026-05-06
+editor: pointsav-engineering
+paired_with: topic-co-location-index-spain.md
+cites:
+  - ni-51-102
+  - osc-sn-51-721
 ---
 
 # Índice de Co-ubicación: España
