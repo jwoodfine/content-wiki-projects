@@ -47,7 +47,7 @@ Expansion of the Mexican and Canadian datasets to include tertiary healthcare da
 
 ---
 ## Provenance
-- **Draft Source:** GIS platform data team, May 2026
-- **Refinement:** 2026-05-02 by PointSav editorial team
-- **Verification:** Regional site counts and anchor mappings verified as of May 2, 2026.
+- **Draft Source:** `TOPIC-tier-index-north-america.md` (project-gis)
+- **Refinement:** 2026-05-02 by project-language Task
+- **Verification:** Regional site counts and anchor mappings confirmed against `app-orchestration-gis/config.py`.
 - **BCSC Posture:** Forward-looking data expansion targets for Mexico/Canada labeled per ni-51-102.

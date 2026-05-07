@@ -9,7 +9,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-06
+last_edited: 2026-05-02
 editor: pointsav-engineering
 paired_with: co-location-methodology.es.md
 cites:
@@ -44,23 +44,25 @@ Civic and institutional infrastructure that provide a non-cyclical, stable demog
 
 ## Quality Tiers and Site Validation
 
-Sites are evaluated using a 0–1000 scoring scale that maps to three quality tiers. This tiered approach allows for precise differentiation between "commodity" retail nodes and those rare locations where critical commercial elements converge.
+Sites are evaluated using a 12-rank matrix that maps to five quality tiers. This tiered approach allows for precise differentiation between "commodity" retail nodes and those rare locations where critical commercial elements converge.
 
-| Rating | Tier | Name | Threshold | Commercial Validation |
-|--------|------|------|-----------|----------------------|
-| ★★★ | T3 | Apex | score_final ≥ 700 | Absolute commercial convergence; small fraction of total landscape. |
-| ★★ | T2 | Hub | score_final ≥ 450 | Commercial pairing validated. |
-| ★ | T1 | Valid | score_final ≥ 150 | Anchor + at least one secondary confirmed. |
+| Tier | Description | Commercial Validation |
+|------|-------------|-----------------------|
+| ★★★★★ | Tier 5 — Full Co-location | Absolute commercial convergence: Anchor + Hardware + Warehouse + Both Tertiaries. |
+| ★★★★ | Tier 4 — Strong Co-location | Complete commercial pairing with partial institutional support. |
+| ★★★ | Tier 3 — Partial Co-location | The commercial baseline: pairing of the Anchor with both secondary categories. |
+| ★★ | Tier 2 — Limited Co-location | Anchor presence with a single secondary validator. |
+| ★ | Tier 1 — Anchor Only | Fundamental anchor presence; secondary co-location opportunity uncaptured. |
 
 ## Strategy and Application
 
-The co-location index acts as a defensive filter for capital deployment. By focusing on T2 Hub and T3 Apex nodes, investors can prioritize sites with the highest levels of capital validation and the strongest multi-format demographic anchors.
+The co-location index acts as a defensive filter for capital deployment. By focusing on Tier 4 and Tier 5 nodes, investors can prioritize sites with the highest levels of capital validation and the strongest multi-format demographic anchors.
 
-The methodology is applied consistently across global markets by mapping regional operators to these canonical roles. Future expansion of the methodology includes the integration of logistics and transport data to add a fourth dimension to the scoring model. [ni-51-102] [osc-sn-51-721]
+The methodology is applied consistently across global markets by mapping regional operators to these canonical roles. Future expansion of the methodology includes the integration of logistics and transport data to add a fourth dimension to the matrix. [ni-51-102] [osc-sn-51-721]
 
 ---
 ## Provenance
-- **Draft Source:** GIS platform data team, May 2026
-- **Refinement:** 2026-05-02 by PointSav editorial team; V2 tier update 2026-05-06
-- **Verification:** V2 scoring methodology verified against GIS platform SCORING-METHODOLOGY.md (commit e78224b, 2026-05-05).
+- **Draft Source:** `TOPIC-co-location-methodology.md` (project-gis)
+- **Refinement:** 2026-05-02 by project-language Task
+- **Verification:** Methodology definitions confirmed against `app-orchestration-gis` documentation and current regional configurations.
 - **BCSC Posture:** Forward-looking methodology expansions (transport data) labeled per ni-51-102.

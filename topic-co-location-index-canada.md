@@ -50,7 +50,7 @@ The following municipalities host nodes that have achieved full commercial conve
 
 ---
 ## Provenance
-- **Draft Source:** GIS platform data team, May 2026
-- **Refinement:** 2026-05-02 by PointSav editorial team
-- **Verification:** Municipal rankings and anchor coverage verified as of May 2, 2026.
+- **Draft Source:** `TOPIC-co-location-index-canada.md` (project-gis)
+- **Refinement:** 2026-05-02 by project-language Task
+- **Verification:** Municipal rankings and anchor coverage verified against `app-orchestration-gis` build results.
 - **BCSC Posture:** Standard current-fact reporting.

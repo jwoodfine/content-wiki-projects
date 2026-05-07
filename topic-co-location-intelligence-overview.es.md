@@ -50,5 +50,5 @@ La expansión de las fuentes de datos para los indicadores terciarios (salud y e
 ---
 ## Procedencia
 - **Adaptación Estratégica:** Basada en el documento inglés `co-location-intelligence-overview.md`.
-- **Refinamiento:** 2026-05-02 por el equipo editorial de PointSav.
+- **Refinamiento:** 2026-05-02 por project-language Task.
 - **BCSC Posture:** Los objetivos de expansión de datos están etiquetados según ni-51-102.
