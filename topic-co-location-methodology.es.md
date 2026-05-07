@@ -9,7 +9,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-05-02
+last_edited: 2026-05-06
 editor: pointsav-engineering
 paired_with: co-location-methodology.md
 cites:
@@ -33,11 +33,17 @@ La metodología categoriza a los operadores en tres niveles:
 
 ## Validación de Sitios y Tiers de Calidad
 
-Los sitios se clasifican en cinco niveles de calidad (Tiers) mediante una matriz de 12 rangos. Este enfoque permite diferenciar entre nodos comerciales comunes y aquellas ubicaciones excepcionales donde convergen todos los elementos comerciales críticos.
+Los sitios se evalúan mediante una escala de puntuación de 0 a 1.000 puntos que mapea a tres niveles de calidad (Tiers). Este enfoque permite diferenciar entre nodos comerciales comunes y aquellas ubicaciones excepcionales donde convergen todos los elementos comerciales críticos.
 
-El índice de co-ubicación actúa como un filtro defensivo para el despliegue de capital, priorizando los nodos con mayor validación institucional y comercial. [ni-51-102] [osc-sn-51-721]
+| Calificación | Nivel | Nombre | Umbral | Validación Comercial |
+|-------------|-------|--------|--------|---------------------|
+| ★★★ | T3 | Apex | score_final ≥ 700 | Convergencia comercial absoluta; pequeña fracción del total del mercado. |
+| ★★ | T2 | Hub | score_final ≥ 450 | Emparejamiento comercial validado. |
+| ★ | T1 | Valid | score_final ≥ 150 | Ancla + al menos un secundario confirmado. |
+
+El índice de co-ubicación actúa como un filtro defensivo para el despliegue de capital, priorizando los nodos T2 Hub y T3 Apex con mayor validación institucional y comercial. [ni-51-102] [osc-sn-51-721]
 
 ---
 ## Procedencia
 - **Adaptación Estratégica:** Basada en el documento inglés `co-location-methodology.md`.
-- **Refinamiento:** 2026-05-02 por el equipo editorial de PointSav.
+- **Refinamiento:** 2026-05-02 por el equipo editorial de PointSav; actualización a V2 el 2026-05-06.
