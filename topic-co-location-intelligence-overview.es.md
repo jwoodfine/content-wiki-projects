@@ -19,11 +19,9 @@ cites:
   - osc-sn-51-721
 ---
 
-# Inteligencia de Co-ubicación Minorista — Resumen
+La plataforma de inteligencia de co-ubicación de Woodfine Management Corp. clasifica 2.738 nodos comerciales en 8 mercados minoristas por convergencia de anclas — la co-ubicación independiente de hipermercados, clubs de almacén y tiendas de mejoras del hogar en el mismo área comercial. Cada nodo está validado por los compromisos de capital independientes de los minoristas que se instalaron allí.
 
-La inteligencia de co-ubicación minorista es el proceso sistemático de identificación y clasificación de sitios geográficos donde convergen categorías de comercio a gran escala dentro de un radio de influencia definido. Esta metodología permite responder a una pregunta comercial crítica: ¿en qué ubicaciones coexiste un hipermercado "ancla" con un club de precios, una tienda de mejoras para el hogar e infraestructura cívica de apoyo?
-
-Woodfine Management Corp. opera una plataforma de inteligencia GIS propia en [gis.woodfinegroup.com](https://gis.woodfinegroup.com), mantenida por PointSav Digital Systems.
+La plataforma opera en [gis.woodfinegroup.com](https://gis.woodfinegroup.com), mantenida por PointSav Digital Systems.
 
 ## Objetivo Estratégico
 

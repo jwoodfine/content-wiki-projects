@@ -17,8 +17,6 @@ cites:
   - osc-sn-51-721
 ---
 
-# Índice de Co-ubicación: México
-
 El Índice de Co-ubicación de México proporciona un análisis sofisticado de la liquidez comercial y la convergencia institucional en el mercado mexicano. Utilizando la [Metodología de Co-ubicación Retail](topic-co-location-methodology.md), el índice captura los "Top 200" nodos donde la sinergia minorista alcanza los estándares institucionales.
 
 Estas ubicaciones de primer nivel se caracterizan por la agrupación deliberada de Objetivos Primarios de alto volumen con anclas Secundarias, creando bastiones comerciales defensivos con características significativas de barrera de entrada.

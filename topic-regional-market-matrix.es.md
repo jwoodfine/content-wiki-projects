@@ -17,7 +17,7 @@ cites:
   - osc-sn-51-721
 ---
 
-La Matriz de Mercado Regional es el marco de orientación geográfica de Woodfine Management Corp. Define qué mercados cubre la plataforma de inteligencia de co-ubicación y sobre qué base se seleccionaron esos mercados. La matriz rechaza las previsiones económicas subjetivas — los criterios de selección son estructurales y verificables.
+La Matriz de Mercado Regional rechaza las previsiones económicas subjetivas — los mercados ingresan únicamente cuando la densidad de población, la disponibilidad de un vehículo de inversión inmobiliaria institucional y la densidad de anclas cumplen umbrales estructurales medibles hoy. Este marco define cuáles de los 8 mercados objetivo de Woodfine Management Corp. evalúa actualmente la plataforma de inteligencia de co-ubicación.
 
 ## Criterios de selección
 
@@ -43,6 +43,12 @@ Un mercado califica basándose en lo que es medible hoy — población, presenci
 ## Cobertura actual del mercado
 
 La matriz actualmente cubre ocho mercados minoristas en América del Norte y Europa. Cada mercado está representado en la plataforma de inteligencia de co-ubicación en gis.woodfinegroup.com con un índice clasificado de nodos calificados.
+
+## Véase también
+
+- [[topic-co-location-intelligence-overview]] — cómo la plataforma evalúa nodos dentro de estos mercados
+- [[topic-co-location-methodology]] — los criterios de puntuación aplicados a cada nodo
+- [[topic-zoning-acquisition-rules]] — requisitos previos a la adquisición que aplican dentro de cualquier mercado objetivo
 
 ---
 

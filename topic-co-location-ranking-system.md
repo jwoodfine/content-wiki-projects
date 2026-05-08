@@ -17,8 +17,6 @@ cites:
   - osc-sn-51-721
 ---
 
-# Retail Co-location Ranking System
-
 The Woodfine co-location ranking system evaluates retail sites using a **named-anchor combination matrix** — a deterministic algorithm that scores each hypermarket anchor location based on the convergence of secondary and tertiary retail and civic categories within defined catchment radii.
 
 The system produces a 12-rank index mapped to five quality tiers, visualised on the GIS platform using a warm-to-cool colour scale: deep amber (★★★★★ Tier 5, highest) through pale blue (★ Tier 1, lowest). This approach provides an objective, capital-validated framework for assessing commercial site defensibility.

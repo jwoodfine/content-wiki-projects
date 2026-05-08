@@ -17,7 +17,7 @@ cites:
   - osc-sn-51-721
 ---
 
-El Estándar de Arquitectura de Activos define los requisitos estructurales que cada desarrollo de Woodfine Management Corp. debe satisfacer antes de que se apruebe la adquisición del terreno. El estándar se aplica de manera uniforme en toda la cartera: sin excepciones por sitio, sin variaciones de diseño por comité.
+Cada desarrollo de Woodfine Management Corp. debe satisfacer una especificación estructural antes de que proceda la adquisición del terreno — construcción de hormigón y acero, placas de piso pre-dimensionadas, sin excepciones por sitio. El estándar elimina la negociación de diseño posterior a la adquisición y la variación presupuestaria que resulta de ella.
 
 ## Configuración estructural
 
@@ -32,6 +32,12 @@ Los límites de superficie se definen antes de que proceda cualquier adquisició
 El efecto operacionalmente más significativo del estándar es que elimina las decisiones de diseño subjetivas del flujo de trabajo de adquisición y desarrollo. Un comité no puede negociar el sistema estructural, la planta o la configuración. Estas son resultados del estándar aplicado al sitio, no entradas de un equipo de diseño.
 
 Esta disciplina mantiene el costo de desarrollo predecible entre mercados. Un activo de oficinas de hormigón y acero en un mercado se comporta, estructural y financieramente, como un activo de oficinas de hormigón y acero en otro.
+
+## Véase también
+
+- [[topic-co-location-anchors]] — requisito de adyacencia al ancla que se aplica junto con el estándar de arquitectura
+- [[topic-zoning-acquisition-rules]] — verificación de zonificación que aplica antes de que proceda cualquier desarrollo
+- [[topic-site-ledger-integration]] — cómo se registra el cumplimiento del estándar durante la construcción
 
 ---
 

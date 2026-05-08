@@ -17,8 +17,6 @@ cites:
   - osc-sn-51-721
 ---
 
-# Co-location Index: Spain
-
 The Spain Co-location Index assesses the premier commercial nodes across the Iberian Peninsula, focusing on the sophisticated convergence of retail power-centers. According to the [Retail Co-location Methodology](topic-co-location-methodology.md), these "Top 200" nodes represent the highest concentration of commercial scarcity and capital validation.
 
 In the European context, these sites are defined by the presence of IKEA as the Primary Target, flanked by essential Secondary operators such as Leroy Merlin and Makro.

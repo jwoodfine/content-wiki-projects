@@ -17,7 +17,7 @@ cites:
   - osc-sn-51-721
 ---
 
-La Integración del Libro Contable del Sitio es el vínculo operativo entre un sitio de construcción físico y su contenedor de registro digital. Cada sitio de desarrollo activo se mapea a un archivo digital aislado mantenido por la plataforma PointSav. Los dos están vinculados: los eventos en el sitio físico generan registros digitales inmutables; el libro contable es el rastro legal y de auditoría del desarrollo.
+Cada sitio de desarrollo activo de Woodfine genera un registro de auditoría digital inmutable mantenido por la plataforma PointSav — el registro legal de hitos de construcción, resultados de inspecciones y variaciones de cronograma que los inversores y reguladores pueden verificar de forma independiente. Cada sitio se asigna a su propio archivo aislado; los eventos en el sitio físico generan registros que no pueden sobrescribirse después de ser ingresados.
 
 ## El modelo de contenedor digital
 
@@ -30,6 +30,11 @@ Los gestores de sitio generan registros de progreso diarios que documentan hitos
 ## Auditorías de construcción verificables
 
 La acumulación de registros diarios a lo largo del período de construcción constituye un rastro de auditoría verificable. Un inversor, un organismo regulador o un futuro comprador puede reconstruir el historial de desarrollo a partir del libro contable sin depender del relato auto-informado del promotor. Esta transparencia es un resultado fiduciario del Mandato de Datos Fiduciarios — la obligación de mantener la propiedad matemática de los datos relevantes para los inversores se extiende a los registros de construcción de los activos mantenidos en la cartera de Tenencia Directa.
+
+## Véase también
+
+- [[topic-zoning-acquisition-rules]] — verificación previa a la adquisición que activa el libro contable
+- [[topic-asset-architecture-standard]] — especificación estructural cuyo cumplimiento registra el libro contable
 
 ---
 

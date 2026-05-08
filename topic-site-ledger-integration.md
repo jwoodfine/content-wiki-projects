@@ -17,7 +17,7 @@ cites:
   - osc-sn-51-721
 ---
 
-Site Ledger Integration is the operational link between a physical construction site and its digital record container. Each active development site maps to an isolated digital archive maintained by the PointSav platform. The two are bound: events on the physical site generate immutable digital records; the ledger is the legal and audit trail for the development.
+Every active Woodfine development site generates an immutable digital audit trail maintained by the PointSav platform — the legal record of construction milestones, inspection outcomes, and schedule variances that investors and regulators can independently verify. Each site maps to its own isolated archive; events on the physical site generate records that cannot be overwritten after entry.
 
 ## The digital container model
 
@@ -34,6 +34,11 @@ Once committed, entries are immutable. A daily log for a given date cannot be ov
 The accumulation of daily logs across the construction period constitutes a verifiable audit trail. An investor, a regulatory body, or a future buyer can reconstruct the development history from the ledger without relying on the developer's self-reported account. The records exist independently of the developer's ongoing custody.
 
 This transparency is a fiduciary output of the Fiduciary Data Mandate — the obligation to maintain mathematical ownership of investor-relevant data extends to construction records for assets held in the Direct-Hold portfolio.
+
+## See also
+
+- [[topic-zoning-acquisition-rules]] — pre-acquisition verification that triggers the ledger
+- [[topic-asset-architecture-standard]] — structural specification that the ledger records compliance with
 
 ---
 

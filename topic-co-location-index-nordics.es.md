@@ -17,8 +17,6 @@ cites:
   - osc-sn-51-721
 ---
 
-# Índice de Co-ubicación: Países Nórdicos
-
 El Índice de Co-ubicación de los Países Nórdicos proporciona un mapeo sofisticado de la convergencia comercial en el norte de Europa. Basado en la [Metodología de Co-ubicación Retail](topic-co-location-methodology.md), el índice identifica los "Top 200" nodos donde la sinergia minorista institucional es más pronunciada.
 
 Dada la planificación urbana única de la región, estos sitios representan el nivel absoluto de liquidez comercial, centrados en IKEA como Objetivo Primario y respaldados por infraestructura Secundaria y Terciaria de alta calidad.

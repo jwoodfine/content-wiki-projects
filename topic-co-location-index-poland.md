@@ -17,8 +17,6 @@ cites:
   - osc-sn-51-721
 ---
 
-# Co-location Index: Poland
-
 The Poland Co-location Index identifies the high-growth commercial nodes defining the Central European retail landscape. Utilizing the [Retail Co-location Methodology](topic-co-location-methodology.md), the index highlights the "Top 200" locations that demonstrate institutional-grade convergence.
 
 In Poland, these nodes are anchored by IKEA (Primary Target) and supported by major Secondary operators such as Makro and Leroy Merlin, creating high-value defensive commercial clusters.

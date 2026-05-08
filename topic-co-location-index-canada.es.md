@@ -17,8 +17,6 @@ cites:
   - osc-sn-51-721
 ---
 
-# Índice de Co-ubicación: Canadá
-
 Este índice identifica y clasifica los nodos comerciales de alto valor dentro del mercado canadiense, evaluados de acuerdo con la [Metodología de Co-ubicación](co-location-methodology.md). La lista representa el subconjunto canadiense del índice clasificado de América del Norte.
 
 Los sitios se evalúan según la proximidad de las anclas secundarias (Costco, Home Depot) y la infraestructura institucional terciaria (salud, educación superior) respecto al ancla principal (Walmart Supercentre).

@@ -17,7 +17,7 @@ cites:
   - osc-sn-51-721
 ---
 
-Los anclajes de co-ubicación son los minoristas nacionales de gran formato cuya presencia en un nodo comercial califica ese nodo para el proceso de selección de sitios de Woodfine Management Corp. El requisito de adyacencia no es una preferencia blanda — es un criterio binario. Un sitio sin un anclaje calificado dentro del umbral de proximidad definido no avanza.
+Un nodo comercial califica para el proceso de selección de sitios de Woodfine Management Corp. únicamente cuando un minorista nacional de gran formato está presente dentro del umbral de proximidad definido — el requisito de adyacencia al ancla es binario, no una cuestión de grado. Un sitio sin un ancla calificada no avanza, independientemente de otras características comerciales.
 
 ## Por qué importan los anclajes
 
@@ -36,6 +36,12 @@ Un sitio calificado debe lograr una combinación mínima de presencia de anclaje
 ## Calidad crediticia
 
 Los minoristas ancla nacionales tienen perfiles crediticios de grado institucional. Sus obligaciones de arrendamiento están respaldadas por balances nacionales, no por el resultado de una tienda individual. Esta calidad crediticia se traduce directamente al desarrollo de oficinas profesionales circundante.
+
+## Véase también
+
+- [[topic-co-location-methodology]] — cómo la convergencia de anclas se traduce en niveles de sitios clasificados
+- [[topic-co-location-intelligence-overview]] — la plataforma que evalúa 2.738 nodos a nivel mundial
+- [[topic-regional-market-matrix]] — qué mercados cubre actualmente la plataforma de co-ubicación
 
 ---
 

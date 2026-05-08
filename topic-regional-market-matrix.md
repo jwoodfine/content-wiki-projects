@@ -17,7 +17,7 @@ cites:
   - osc-sn-51-721
 ---
 
-The Regional Market Matrix is Woodfine Management Corp.'s geographic targeting framework. It defines which markets the co-location intelligence platform covers and on what basis those markets were selected. The matrix rejects subjective economic forecasting — selection criteria are structural and verifiable.
+The Regional Market Matrix rejects subjective economic forecasting — markets enter only when population density, institutional real estate vehicle availability, and anchor density meet structural thresholds measurable today. This framework defines which of Woodfine Management Corp.'s 8 target markets the co-location intelligence platform currently evaluates.
 
 ## Selection criteria
 
@@ -43,6 +43,12 @@ These inputs introduce subjective judgment and retrospective inaccuracy. A marke
 ## Current market coverage
 
 The matrix currently covers eight retail markets across North America and Europe. Each market is represented in the co-location intelligence platform at gis.woodfinegroup.com with a ranked index of qualifying nodes.
+
+## See also
+
+- [[topic-co-location-intelligence-overview]] — how the platform evaluates nodes within these markets
+- [[topic-co-location-methodology]] — the scoring criteria applied at each node
+- [[topic-zoning-acquisition-rules]] — pre-acquisition requirements that apply within any target market
 
 ---
 

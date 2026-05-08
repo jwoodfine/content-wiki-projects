@@ -19,11 +19,9 @@ cites:
   - osc-sn-51-721
 ---
 
-# Retail Co-location Intelligence — Overview
+Woodfine Management Corp.'s co-location intelligence platform ranks 2,738 commercial nodes across 8 retail markets by anchor convergence — the independent co-location of hypermarkets, warehouse clubs, and home improvement superstores at the same trade area. Each node is validated not by analyst forecasts, but by the independent capital commitments of the retailers who located there.
 
-Retail co-location intelligence is the systematic identification and ranking of geographic sites where large-format retail categories converge within a defined catchment radius. The methodology answers a specific commercial question: at which locations does a hypermarket anchor coexist with a warehouse club, a home improvement superstore, and supporting civic infrastructure — and how does the strength of that combination vary by market?
-
-Woodfine Management Corp. operates a proprietary co-location intelligence platform at [gis.woodfinegroup.com](https://gis.woodfinegroup.com), built and maintained by PointSav Digital Systems. The platform currently covers eight retail markets across North America and Europe.
+The platform is operated at [gis.woodfinegroup.com](https://gis.woodfinegroup.com), built and maintained by PointSav Digital Systems.
 
 ## Strategic Objective
 

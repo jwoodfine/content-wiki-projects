@@ -17,7 +17,7 @@ cites:
   - osc-sn-51-721
 ---
 
-The Zoning Acquisition Rules are the pre-purchase verification requirements that must be satisfied before Woodfine Management Corp. completes a land acquisition. The rules eliminate speculative land banking and ensure that every parcel acquired has a verified path to development under applicable municipal regulations.
+Woodfine Management Corp. verifies zoning approval and establishes an active development timeline before completing any land acquisition — speculative land banking is prohibited by the acquisition model, not just by policy. Every parcel has a verified path to development under applicable municipal regulations before the purchase contract is executed.
 
 ## Pre-acquisition zoning verification
 
@@ -36,6 +36,12 @@ This rule eliminates the carrying cost exposure of indefinitely held vacant land
 Speculative land banking — acquiring parcels with no defined development timeline in anticipation of future appreciation — is structurally prohibited. The prohibition is not a policy preference; it is a consequence of the development mandate. A parcel without an active development timeline does not satisfy the conditions for acquisition.
 
 This distinguishes the co-location platform's acquisition model from traditional real estate speculation, where land is purchased for future appreciation without commitment to productive use. Every parcel in the portfolio has a defined development purpose at the time of acquisition.
+
+## See also
+
+- [[topic-co-location-anchors]] — anchor adjacency requirements that apply alongside zoning verification
+- [[topic-asset-architecture-standard]] — the structural specification that defines the target development
+- [[topic-site-ledger-integration]] — how the development timeline is recorded after acquisition
 
 ---
 

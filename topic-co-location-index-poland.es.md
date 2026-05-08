@@ -17,8 +17,6 @@ cites:
   - osc-sn-51-721
 ---
 
-# Índice de Co-ubicación: Polonia
-
 El Índice de Co-ubicación de Polonia identifica los nodos comerciales de alto crecimiento que definen el panorama minorista de Europa Central. Utilizando la [Metodología de Co-ubicación Retail](topic-co-location-methodology.md), el índice destaca las "Top 200" ubicaciones que demuestran una convergencia de grado institucional.
 
 En Polonia, estos nodos están anclados por IKEA (Objetivo Primario) y respaldados por grandes operadores Secundarios como Makro y Leroy Merlin, creando clústeres comerciales defensivos de alto valor.

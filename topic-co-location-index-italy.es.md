@@ -17,8 +17,6 @@ cites:
   - osc-sn-51-721
 ---
 
-# Índice de Co-ubicación: Italia
-
 El Índice de Co-ubicación de Italia identifica el ápice de la convergencia comercial en la península italiana. Utilizando la [Metodología de Co-ubicación Retail](topic-co-location-methodology.md), el índice mapea los "Top 200" nodos donde la sinergia minorista alcanza una densidad de grado institucional.
 
 En estos mercados, el Objetivo Primario es IKEA, con validación secundaria proporcionada por grandes operadores como Leroy Merlin y Makro, creando ecosistemas comerciales con altas barreras de entrada.

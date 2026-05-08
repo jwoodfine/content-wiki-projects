@@ -17,8 +17,6 @@ cites:
   - osc-sn-51-721
 ---
 
-# Co-location Index: Mexico
-
 The Mexico Co-location Index provides a sophisticated analysis of commercial liquidity and institutional convergence within the Mexican market. Utilizing the [Retail Co-location Methodology](topic-co-location-methodology.md), the index captures the "Top 200" nodes where retail synergy reaches institutional benchmarks.
 
 These top-tier locations are characterized by the deliberate clustering of high-volume Primary Targets with Secondary anchors, creating defensive commercial bastions with significant barrier-to-entry characteristics.

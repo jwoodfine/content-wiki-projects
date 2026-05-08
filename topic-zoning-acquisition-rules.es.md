@@ -17,7 +17,7 @@ cites:
   - osc-sn-51-721
 ---
 
-Las Reglas de Adquisición de Zonificación son los requisitos de verificación previos a la compra que deben cumplirse antes de que Woodfine Management Corp. complete una adquisición de terreno. Las reglas eliminan la acumulación especulativa de terrenos y garantizan que cada parcela adquirida tenga una vía verificada hacia el desarrollo bajo las regulaciones municipales aplicables.
+Woodfine Management Corp. verifica la aprobación de zonificación y establece un cronograma de desarrollo activo antes de completar cualquier adquisición de terreno — la acumulación especulativa de terrenos está prohibida por el modelo de adquisición, no solo por política. Cada parcela tiene una vía verificada hacia el desarrollo bajo las regulaciones municipales aplicables antes de que se ejecute el contrato de compra.
 
 ## Verificación de zonificación previa a la adquisición
 
@@ -34,6 +34,12 @@ Esta regla elimina la exposición al costo de tenencia de terrenos baldíos mant
 ## Prohibición de la acumulación especulativa de terrenos
 
 La acumulación especulativa de terrenos — adquirir parcelas sin un cronograma de desarrollo definido en anticipación de la apreciación futura — está estructuralmente prohibida. Cada parcela de la cartera tiene un propósito de desarrollo definido en el momento de la adquisición.
+
+## Véase también
+
+- [[topic-co-location-anchors]] — requisitos de adyacencia al ancla que se aplican junto con la verificación de zonificación
+- [[topic-asset-architecture-standard]] — la especificación estructural que define el desarrollo objetivo
+- [[topic-site-ledger-integration]] — cómo se registra el cronograma de desarrollo después de la adquisición
 
 ---
 

@@ -17,7 +17,7 @@ cites:
   - osc-sn-51-721
 ---
 
-The Asset Architecture Standard defines the structural requirements that every Woodfine Management Corp. development must satisfy before land acquisition is approved. The standard is applied uniformly across the portfolio: no site-specific exceptions, no design-by-committee variations.
+Every Woodfine Management Corp. development must satisfy a structural specification before land acquisition proceeds — concrete and steel construction, pre-dimensioned floor plates, no site-specific exceptions. The standard eliminates post-acquisition design negotiation and the budget variance that follows from it.
 
 ## Structural configuration
 
@@ -36,6 +36,12 @@ This discipline keeps development cost predictable across markets. A concrete-an
 ## Relationship to co-location anchors
 
 The standard is applied in conjunction with the co-location anchor adjacency requirement. A site that passes the architectural standard but fails the anchor proximity test — or vice versa — does not proceed. The two criteria are applied together, not sequentially.
+
+## See also
+
+- [[topic-co-location-anchors]] — anchor adjacency requirement applied alongside the architecture standard
+- [[topic-zoning-acquisition-rules]] — zoning verification that applies before any development proceeds
+- [[topic-site-ledger-integration]] — how construction compliance with the standard is recorded
 
 ---
 

@@ -17,8 +17,6 @@ cites:
   - osc-sn-51-721
 ---
 
-# Sistema de Clasificación de Co-ubicación Minorista
-
 El sistema de clasificación de co-ubicación de Woodfine evalúa los sitios minoristas mediante una **matriz de combinación de anclas nominadas**. Este algoritmo determinista califica cada ubicación de hipermercado basándose en la convergencia de categorías secundarias y terciarias (comerciales y cívicas) dentro de radios de captación definidos.
 
 El sistema genera un índice de 12 rangos agrupados en cinco niveles de calidad (Tiers), visualizados en la plataforma GIS mediante una escala de colores que va desde el ámbar intenso (★★★★★ Tier 5, el más alto) hasta el azul pálido (★ Tier 1, el más bajo).

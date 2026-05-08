@@ -17,8 +17,6 @@ cites:
   - osc-sn-51-721
 ---
 
-# Co-location Index: Italy
-
 The Italy Co-location Index identifies the apex of commercial convergence within the Italian peninsula. Utilizing the [Retail Co-location Methodology](topic-co-location-methodology.md), the index maps the "Top 200" nodes where retail synergy achieves institutional-grade density.
 
 In these markets, the Primary Target is IKEA, with secondary validation provided by major operators such as Leroy Merlin and Makro, creating high-barrier commercial ecosystems.

@@ -17,8 +17,6 @@ cites:
   - osc-sn-51-721
 ---
 
-# Co-location Index: United States
-
 The United States Co-location Index serves as the definitive benchmark for commercial convergence across the North American market. Evaluated through the rigorous [Retail Co-location Methodology](topic-co-location-methodology.md), this index identifies the "Top 400" commercial nodes that exhibit the highest degree of institutional-grade retail synergy.
 
 In the Woodfine ranking system, these locations are not merely high-traffic zones; they represent the apex of validated commercial real estate, where the convergence of primary anchors and critical infrastructure creates a self-sustaining economic ecosystem.

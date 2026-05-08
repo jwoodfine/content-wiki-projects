@@ -17,7 +17,7 @@ cites:
   - osc-sn-51-721
 ---
 
-Co-location anchors are the large-format national retailers whose presence at a commercial node qualifies that node for Woodfine Management Corp.'s site selection process. The adjacency requirement is not a soft preference — it is a binary criterion. A site without a qualifying anchor within the defined proximity threshold does not proceed.
+A commercial node qualifies for Woodfine Management Corp.'s site selection only when a large-format national retailer is present within the defined proximity threshold — the anchor adjacency requirement is binary, not a matter of degree. A site without a qualifying anchor does not proceed, regardless of other commercial characteristics.
 
 ## Why anchors matter
 
@@ -38,6 +38,12 @@ A qualifying site must achieve a minimum combination of primary and secondary an
 ## Credit quality
 
 National anchor retailers carry institutional-grade credit profiles. Their lease obligations are supported by national balance sheets, not by individual store P&L. This credit quality translates directly to the surrounding professional office development: professional office tenants seeking adjacency to high-volume retail benefit from the same validated trade area.
+
+## See also
+
+- [[topic-co-location-methodology]] — how anchor convergence translates into ranked site tiers
+- [[topic-co-location-intelligence-overview]] — the platform that evaluates 2,738 nodes globally
+- [[topic-regional-market-matrix]] — which markets the co-location platform currently covers
 
 ---
 

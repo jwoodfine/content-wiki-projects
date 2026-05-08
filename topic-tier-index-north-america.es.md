@@ -17,8 +17,6 @@ cites:
   - osc-sn-51-721
 ---
 
-# Índice de Tiers de Co-ubicación — América del Norte
-
 El índice de inteligencia de ubicación para América del Norte evalúa la convergencia estructural de los principales operadores minoristas en Estados Unidos, Canadá y México. Utilizando la [Metodología de Co-ubicación](co-location-methodology.md), el índice identifica los nodos comerciales de mayor valor basados en la proximidad verificada de las anclas principales (Walmart Supercentres) con sus anclas de soporte secundarias y terciarias.
 
 ## Escasez de Mercado y Validación de Calidad
@@ -29,7 +27,7 @@ Alcanzar la designación **★★★★★ Tier 5** requiere la convergencia de 
 
 El índice resume la distribución de nodos de alta calidad en los mercados norteamericanos. Para obtener listas exhaustivas por país, consulte los índices específicos de Canadá, Estados Unidos y México.
 
-*Las cifras de sitios son dinámicas y reflejan el estado actual del motor GIS de Totebox al 2 de mayo de 2026. El conjunto de datos incluye 2,488 sitios clasificados en América del Norte.*
+*Las cifras de sitios son dinámicas y reflejan el estado actual del sistema de procesamiento de datos GIS al 2 de mayo de 2026. El conjunto de datos incluye 2,488 sitios clasificados en América del Norte.*
 
 ## Aplicación Operativa
 

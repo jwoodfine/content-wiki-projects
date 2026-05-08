@@ -17,8 +17,6 @@ cites:
   - osc-sn-51-721
 ---
 
-# Co-location Index: Canada
-
 This index identifies and ranks high-value commercial nodes within the Canadian market, evaluated according to the [Retail Co-location Methodology](co-location-methodology.md). The list represents the Canadian subset of the North American ranked index.
 
 Sites are evaluated based on the proximity of Secondary anchors (Costco, Home Depot) and Tertiary institutional infrastructure (Healthcare, Higher Education) to the Primary Target anchor (Walmart Supercentre).

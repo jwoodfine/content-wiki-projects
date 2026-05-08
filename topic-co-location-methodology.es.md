@@ -17,9 +17,7 @@ cites:
   - osc-sn-51-721
 ---
 
-# Metodología de Co-ubicación Minorista
-
-La metodología de co-ubicación de Woodfine es un marco de análisis espacial determinista utilizado para identificar y clasificar nodos inmobiliarios comerciales defendibles. Siguiendo la lógica de la Guía Michelin, esta metodología evalúa los sitios basándose en la convergencia objetiva de operadores independientes con inversiones intensivas de capital.
+La metodología de co-ubicación de Woodfine clasifica los sitios de desarrollo por la convergencia objetiva de operadores independientes con inversiones intensivas de capital — no por estimaciones subjetivas del mercado ni por pronósticos de analistas. Un nodo califica cuando un hipermercado, un club de almacén y una tienda de mejoras del hogar han comprometido capital independientemente dentro de 1,0–3,0 km entre sí.
 
 ## El Modelo de Anclas Nominadas
 

@@ -17,8 +17,6 @@ cites:
   - osc-sn-51-721
 ---
 
-# Índice de Co-ubicación: Estados Unidos
-
 El Índice de Co-ubicación de los Estados Unidos constituye el referente definitivo de convergencia comercial en el mercado norteamericano. Evaluados bajo la rigurosa [Metodología de Co-ubicación Retail](topic-co-location-methodology.md), este índice identifica los "Top 400" nodos comerciales que exhiben el mayor grado de sinergia minorista de grado institucional.
 
 En el sistema de clasificación de Woodfine, estas ubicaciones no son meras zonas de alto tráfico; representan el ápice de los activos inmobiliarios comerciales validados, donde la convergencia de anclas primarias e infraestructura crítica genera un ecosistema económico autosustentable.

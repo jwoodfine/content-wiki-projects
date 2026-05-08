@@ -17,9 +17,7 @@ cites:
   - osc-sn-51-721
 ---
 
-# Retail Co-location Methodology
-
-The Woodfine co-location methodology is a deterministic spatial analysis framework used to identify and rank commercially defensible real estate nodes. Analogous to the stringent criteria of the Michelin Guide, the methodology evaluates sites based on the objective convergence of independent, capital-intensive retail operators rather than subjective market sentiment.
+The Woodfine co-location methodology ranks development sites by the objective convergence of independent, capital-intensive retail operators — not by subjective market sentiment or analyst forecasts. A node qualifies when a hypermarket, warehouse club, and home improvement superstore have each independently committed capital within 1.0–3.0 km of each other.
 
 ## The Named-Anchor Model
 

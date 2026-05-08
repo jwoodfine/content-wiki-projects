@@ -17,8 +17,6 @@ cites:
   - osc-sn-51-721
 ---
 
-# Índice de Co-ubicación: España
-
 El Índice de Co-ubicación de España evalúa los principales nodos comerciales de la Península Ibérica, centrándose en la sofisticada convergencia de los centros de poder minorista. Según la [Metodología de Co-ubicación Retail](topic-co-location-methodology.md), estos "Top 200" nodos representan la mayor concentración de escasez comercial y validación de capital.
 
 En el contexto europeo, estos sitios se definen por la presencia de IKEA como Objetivo Primario, flanqueado por operadores Secundarios esenciales como Leroy Merlin y Makro.
