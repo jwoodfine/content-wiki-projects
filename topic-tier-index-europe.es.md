@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Índice de Niveles de Co-ubicación de Europa"
+title: "Índice de Niveles de Co-ubicación: Europa"
 slug: topic-tier-index-europe
 category: governance
 type: topic

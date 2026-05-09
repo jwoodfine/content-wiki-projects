@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "European Co-location Tier Index"
+title: "Co-location Tier Index: Europe"
 slug: topic-tier-index-europe
 category: governance
 type: topic

@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "North American Co-location Tier Index"
+title: "Co-location Tier Index: North America"
 slug: tier-index-north-america
 category: governance
 type: topic

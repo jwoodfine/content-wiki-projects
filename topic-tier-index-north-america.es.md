@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Índice de Tiers de Co-ubicación — América del Norte"
+title: "Índice de Niveles de Co-ubicación: América del Norte"
 slug: tier-index-north-america
 category: governance
 type: topic

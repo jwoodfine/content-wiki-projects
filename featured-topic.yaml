@@ -1,7 +1,42 @@
 # featured-topic.yaml — pin file for projects.woodfinegroup.com home page
 # Engine reads on each request; absent → suppress featured panel; present → parse slug.
-# Update this file to rotate the featured TOPIC.
+# Update the `slug:` line to rotate the featured methodology or index.
+#
+# Reader: institutional financial community — REIT analyst, private-equity
+# real-asset desk, sovereign-wealth real estate allocator, regional retail-
+# development banker. Bloomberg/FT register; deal-pipeline framing.
+#
+# Quarterly rotation pool (17 articles ranked by institutional banker relevance):
+#
+# Q1 — Flagship methodology (3 weeks):
+#   1. co-location-ranking-system          — 12-rank matrix; scarcity (102 NA Tier 5; 0 EU Tier 5)
+#   2. co-location-methodology             — Named-Anchor Model; rejects analyst forecasts
+#   3. co-location-intelligence-overview   — 7,594 clusters from 229,054 locations across 13 countries
+#
+# Q2 — Governance & risk control (4 weeks):
+#   4. asset-architecture-standard         — concrete-and-steel; eliminates design variance
+#   5. zoning-acquisition-rules            — no land banking; active-development requirement
+#   6. co-location-anchors                 — national retail credit quality validates adjacent office
+#   7. site-ledger-integration             — immutable daily construction audit trail
+#
+# Q3 — North America regional indices (5 weeks):
+#   8. tier-index-north-america            — 102 Tier 5 sites; scarcity baseline
+#   9. co-location-index-us                — Top 400 of 3,500+ nodes; Tier 5 = Michelin 3-star
+#  10. co-location-index-canada            — 12 Tier 5; Grande Prairie, Milton, Dartmouth lead
+#  11. co-location-index-mexico            — 300+ evaluated; Walmart/Home Depot/Costco convergence
+#
+# Q4 — Europe regional indices (5 weeks):
+#  12. tier-index-europe                   — 250 ranked nodes; data-maturity profile
+#  13. co-location-index-spain             — IKEA-anchored; Leroy Merlin + Makro support
+#  14. co-location-index-italy             — Tier 4+ (1) + Tier 3 (20); secondary-cities story
+#  15. co-location-index-nordics           — Bilka, Prisma, K-Citymarket regional variants
+#  16. co-location-index-poland            — central Europe high-growth; post-EU-accession
+#
+# Recurring thematic (rotates back at quarter boundaries):
+#  17. regional-market-matrix              — why 8 markets qualify; objective current-state criteria
+#
+# Operator advances the pin weekly by editing the slug line below.
 
 slug: co-location-ranking-system
-since: 2026-05-05
-note: launch pin for iteration 1 — methodology cornerstone article
+since: 2026-05-09
+note: Q1 rotation 1 — methodology cornerstone; the 12-rank matrix that converts capital convergence into defensible site tiers
