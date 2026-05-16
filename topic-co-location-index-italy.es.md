@@ -34,3 +34,4 @@ Una calificación de Nivel 4+ significa un nodo de grado institucional con una n
 ## Ver También
 *   [[topic-tier-index-europe]]
 *   [[topic-co-location-methodology]]
+*   [[topic-co-location-ranking-system]]

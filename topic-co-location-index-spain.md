@@ -34,3 +34,4 @@ A Tier 4+ designation in Spain indicates a node of exceptional quality, analogou
 ## See Also
 *   [[topic-tier-index-europe]]
 *   [[topic-co-location-methodology]]
+*   [[topic-co-location-ranking-system]]

@@ -39,3 +39,4 @@ The following table summarizes the distribution of the highest-quality nodes acr
 ## See Also
 *   [[topic-co-location-methodology]]
 *   [[topic-tier-index-north-america]]
+*   [[topic-co-location-ranking-system]]

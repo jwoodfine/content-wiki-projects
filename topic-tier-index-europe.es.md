@@ -39,3 +39,4 @@ La siguiente tabla resume la distribución de los nodos de mayor calidad en los 
 ## Ver También
 *   [[topic-co-location-methodology]]
 *   [[topic-tier-index-north-america]]
+*   [[topic-co-location-ranking-system]]

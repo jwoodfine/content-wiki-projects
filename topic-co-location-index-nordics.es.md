@@ -34,3 +34,4 @@ Una designación Nivel 4+ en la región nórdica representa un nodo de prestigio
 ## Ver También
 *   [[topic-tier-index-europe]]
 *   [[topic-co-location-methodology]]
+*   [[topic-co-location-ranking-system]]

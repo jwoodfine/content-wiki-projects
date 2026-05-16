@@ -34,3 +34,4 @@ A Tier 4+ rating signifies an institutional-grade node of remarkable commercial 
 ## See Also
 *   [[topic-tier-index-europe]]
 *   [[topic-co-location-methodology]]
+*   [[topic-co-location-ranking-system]]

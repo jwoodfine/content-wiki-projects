@@ -35,6 +35,11 @@ Los sitios se clasifican en cinco niveles de calidad (Tiers) mediante una matriz
 
 El índice de co-ubicación actúa como un filtro defensivo para el despliegue de capital, priorizando los nodos con mayor validación institucional y comercial. [ni-51-102] [osc-sn-51-721]
 
+## Ver También
+*   [[topic-co-location-ranking-system]]
+*   [[topic-co-location-intelligence-overview]]
+*   [[topic-co-location-anchors]]
+
 ---
 ## Procedencia
 - **Adaptación Estratégica:** Basada en el documento inglés `co-location-methodology.md`.

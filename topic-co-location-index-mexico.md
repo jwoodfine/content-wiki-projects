@@ -34,3 +34,4 @@ A Tier 5 rating in Mexico denotes a world-class commercial node. Much like a Mic
 ## See Also
 *   [[topic-tier-index-north-america]]
 *   [[topic-co-location-methodology]]
+*   [[topic-co-location-ranking-system]]

@@ -45,6 +45,11 @@ El índice identifica **2,738 sitios de co-ubicación** clasificados globalmente
 
 La expansión de las fuentes de datos para los indicadores terciarios (salud y educación) en los mercados europeos es un objetivo previsto para futuras iteraciones de la plataforma. [ni-51-102] [osc-sn-51-721]
 
+## Ver También
+*   [[topic-co-location-methodology]]
+*   [[topic-co-location-ranking-system]]
+*   [[topic-tier-index-north-america]]
+
 ---
 ## Procedencia
 - **Adaptación Estratégica:** Basada en el documento inglés `co-location-intelligence-overview.md`.

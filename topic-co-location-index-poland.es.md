@@ -34,3 +34,4 @@ Una calificación de Nivel 4+ en Polonia denota un nodo comercial de interés in
 ## Ver También
 *   [[topic-tier-index-europe]]
 *   [[topic-co-location-methodology]]
+*   [[topic-co-location-ranking-system]]

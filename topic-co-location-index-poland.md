@@ -34,3 +34,4 @@ A Tier 4+ rating in Poland denotes a commercial node of significant institutiona
 ## See Also
 *   [[topic-tier-index-europe]]
 *   [[topic-co-location-methodology]]
+*   [[topic-co-location-ranking-system]]

@@ -34,3 +34,4 @@ Una designación Nivel 4+ en España indica un nodo de calidad excepcional, aná
 ## Ver También
 *   [[topic-tier-index-europe]]
 *   [[topic-co-location-methodology]]
+*   [[topic-co-location-ranking-system]]

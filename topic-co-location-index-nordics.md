@@ -34,3 +34,4 @@ A Tier 4+ designation in the Nordic region represents a node of exceptional comm
 ## See Also
 *   [[topic-tier-index-europe]]
 *   [[topic-co-location-methodology]]
+*   [[topic-co-location-ranking-system]]

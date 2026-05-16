@@ -38,6 +38,11 @@ La combinación de categorías presentes determina el rango del sitio. El Tier 5
 
 Para mantener la relevancia del índice, el sistema aplica una **regla de calibración** automática: si los sitios de nivel superior exceden el 10% del total de anclas, el radio de proximidad se ajusta para mantener la escasez y la calidad del índice. Actualmente, los sitios Tier 5 representan el 3.7% del total, cumpliendo con los estándares de selectividad de la plataforma.
 
+## Ver También
+*   [[topic-co-location-methodology]]
+*   [[topic-co-location-intelligence-overview]]
+*   [[topic-co-location-anchors]]
+
 ---
 ## Procedencia
 - **Adaptación Estratégica:** Basada en el documento inglés `co-location-ranking-system.md`.

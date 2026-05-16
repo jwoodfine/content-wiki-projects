@@ -34,6 +34,11 @@ Los siguientes municipios albergan nodos que han logrado una convergencia comerc
 
 *Nota: La clasificación completa de los más de 400 sitios de anclaje canadienses, incluidos los niveles Tier 1 a Tier 4, está disponible a través de la plataforma [gis.woodfinegroup.com](https://gis.woodfinegroup.com).*
 
+## Ver También
+*   [[topic-tier-index-north-america]]
+*   [[topic-co-location-methodology]]
+*   [[topic-co-location-ranking-system]]
+
 ---
 ## Procedencia
 - **Adaptación Estratégica:** Basada en el documento inglés `co-location-index-canada.md`.

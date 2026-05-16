@@ -34,3 +34,4 @@ La designación Nivel 5 es el equivalente comercial a una calificación de tres 
 ## Ver También
 *   [[topic-tier-index-north-america]]
 *   [[topic-co-location-methodology]]
+*   [[topic-co-location-ranking-system]]

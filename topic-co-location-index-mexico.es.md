@@ -34,3 +34,4 @@ Una calificación de Nivel 5 en México denota un nodo comercial de clase mundia
 ## Ver También
 *   [[topic-tier-index-north-america]]
 *   [[topic-co-location-methodology]]
+*   [[topic-co-location-ranking-system]]
