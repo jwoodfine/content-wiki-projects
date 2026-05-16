@@ -4,6 +4,7 @@ title: "Woodfine Capital Projects — Co-location Intelligence Platform"
 slug: index
 category: root
 status: active
+bcsc_class: current-fact
 last_edited: 2026-05-07
 editor: pointsav-engineering
 ---
