@@ -1,7 +1,7 @@
 ---
 schema: foundry-doc-v1
 title: "Inteligencia de Co-ubicación Minorista — Resumen"
-slug: co-location-intelligence-overview
+slug: topic-co-location-intelligence-overview
 category: governance
 type: topic
 quality: complete

@@ -17,7 +17,7 @@ cites:
   - osc-sn-51-721
 ---
 
-El Índice de Niveles de Co-ubicación de Europa sirve como el mapa autoritativo de la convergencia comercial en los principales mercados europeos. Utilizando la [Metodología de Co-ubicación Retail](topic-co-location-methodology.md), el índice identifica los nodos comerciales de mayor valor basados en la convergencia de Objetivos Primarios (IKEA) con anclas Secundarias (Leroy Merlin, Makro) y Terciarias (Salud, Educación Superior) esenciales.
+El Índice de Niveles de Co-ubicación de Europa sirve como el mapa autoritativo de la convergencia comercial en los principales mercados europeos. Utilizando la [[topic-co-location-methodology]], el índice identifica los nodos comerciales de mayor valor basados en la convergencia de Objetivos Primarios (IKEA) con anclas Secundarias (Leroy Merlin, Makro) y Terciarias (Salud, Educación Superior) esenciales.
 
 ## Escasez de Mercado y Validación Institucional
 
@@ -29,13 +29,13 @@ La siguiente tabla resume la distribución de los nodos de mayor calidad en los 
 
 | País/Región | Anclas Primarias Evaluadas | Sitios Nivel 4+ (★★★★+) | Sitios Nivel 3 (★★★) | Índice Detallado |
 | :--- | :--- | :--- | :--- | :--- |
-| **España** | 20+ | 3 | 25 | [Índice de Co-ubicación: España](topic-co-location-index-spain.md) |
-| **Países Nórdicos** | 30+ | 2 | 35 | [Índice de Co-ubicación: Países Nórdicos](topic-co-location-index-nordics.md) |
-| **Italia** | 20+ | 1 | 20 | [Índice de Co-ubicación: Italia](topic-co-location-index-italy.md) |
-| **Polonia** | 15+ | 1 | 15 | [Índice de Co-ubicación: Polonia](topic-co-location-index-poland.md) |
+| **España** | 20+ | 3 | 25 | [[topic-co-location-index-spain]] |
+| **Países Nórdicos** | 30+ | 2 | 35 | [[topic-co-location-index-nordics]] |
+| **Italia** | 20+ | 1 | 20 | [[topic-co-location-index-italy]] |
+| **Polonia** | 15+ | 1 | 15 | [[topic-co-location-index-poland]] |
 
 *(Nota: Los conteos de sitios son dinámicos y reflejan la última ejecución de procesamiento del sistema de procesamiento de datos GIS. Actualizado a mayo de 2026. Los sitios de Nivel 5 en la UE son excepcionalmente raros y se agrupan con el Nivel 4 para este resumen general.)*
 
 ## Ver También
-*   [Metodología de Co-ubicación Retail](topic-co-location-methodology.md)
-*   [Índice de Niveles de Norteamérica](topic-tier-index-north-america.md)
+*   [[topic-co-location-methodology]]
+*   [[topic-tier-index-north-america]]

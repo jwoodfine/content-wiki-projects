@@ -17,7 +17,7 @@ cites:
   - osc-sn-51-721
 ---
 
-The Nordics Co-location Index provides a sophisticated mapping of commercial convergence across Northern Europe. Based on the [Retail Co-location Methodology](topic-co-location-methodology.md), the index identifies the "Top 200" nodes where institutional retail synergy is most pronounced.
+The Nordics Co-location Index provides a sophisticated mapping of commercial convergence across Northern Europe. Based on the [[topic-co-location-methodology]], the index identifies the "Top 200" nodes where institutional retail synergy is most pronounced.
 
 Given the region's unique urban planning, these sites represent the absolute tier of commercial liquidity, centered on IKEA as the Primary Target and supported by high-quality Secondary and Tertiary infrastructure.
 
@@ -32,5 +32,5 @@ A Tier 4+ designation in the Nordic region represents a node of exceptional comm
 *(Note: The full index of 30+ primary evaluated sites is available via the Woodfine GIS platform. This document highlights the "Top 200" elite nodes.)*
 
 ## See Also
-*   [European Tier Index](topic-tier-index-europe.md)
-*   [Retail Co-location Methodology](topic-co-location-methodology.md)
+*   [[topic-tier-index-europe]]
+*   [[topic-co-location-methodology]]

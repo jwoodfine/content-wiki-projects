@@ -1,7 +1,7 @@
 ---
 schema: foundry-doc-v1
 title: "Retail Co-location Ranking System"
-slug: co-location-ranking-system
+slug: topic-co-location-ranking-system
 category: governance
 type: topic
 quality: complete

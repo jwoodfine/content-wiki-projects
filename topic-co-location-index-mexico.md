@@ -17,7 +17,7 @@ cites:
   - osc-sn-51-721
 ---
 
-The Mexico Co-location Index provides a sophisticated analysis of commercial liquidity and institutional convergence within the Mexican market. Utilizing the [Retail Co-location Methodology](topic-co-location-methodology.md), the index captures the "Top 200" nodes where retail synergy reaches institutional benchmarks.
+The Mexico Co-location Index provides a sophisticated analysis of commercial liquidity and institutional convergence within the Mexican market. Utilizing the [[topic-co-location-methodology]], the index captures the "Top 200" nodes where retail synergy reaches institutional benchmarks.
 
 These top-tier locations are characterized by the deliberate clustering of high-volume Primary Targets with Secondary anchors, creating defensive commercial bastions with significant barrier-to-entry characteristics.
 
@@ -32,5 +32,5 @@ A Tier 5 rating in Mexico denotes a world-class commercial node. Much like a Mic
 *(Note: The full index of 300+ evaluated nodes is accessible via the Woodfine GIS platform. This document highlights the "Top 200" nodes.)*
 
 ## See Also
-*   [North American Tier Index](topic-tier-index-north-america.md)
-*   [Retail Co-location Methodology](topic-co-location-methodology.md)
+*   [[topic-tier-index-north-america]]
+*   [[topic-co-location-methodology]]

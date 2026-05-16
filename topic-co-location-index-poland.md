@@ -17,7 +17,7 @@ cites:
   - osc-sn-51-721
 ---
 
-The Poland Co-location Index identifies the high-growth commercial nodes defining the Central European retail landscape. Utilizing the [Retail Co-location Methodology](topic-co-location-methodology.md), the index highlights the "Top 200" locations that demonstrate institutional-grade convergence.
+The Poland Co-location Index identifies the high-growth commercial nodes defining the Central European retail landscape. Utilizing the [[topic-co-location-methodology]], the index highlights the "Top 200" locations that demonstrate institutional-grade convergence.
 
 In Poland, these nodes are anchored by IKEA (Primary Target) and supported by major Secondary operators such as Makro and Leroy Merlin, creating high-value defensive commercial clusters.
 
@@ -32,5 +32,5 @@ A Tier 4+ rating in Poland denotes a commercial node of significant institutiona
 *(Note: The full index of 15+ primary evaluated sites is available via the Woodfine GIS platform. This document highlights the "Top 200" elite nodes.)*
 
 ## See Also
-*   [European Tier Index](topic-tier-index-europe.md)
-*   [Retail Co-location Methodology](topic-co-location-methodology.md)
+*   [[topic-tier-index-europe]]
+*   [[topic-co-location-methodology]]

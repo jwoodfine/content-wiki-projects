@@ -1,7 +1,7 @@
 ---
 schema: foundry-doc-v1
 title: "Co-location Tier Index: North America"
-slug: tier-index-north-america
+slug: topic-tier-index-north-america
 category: governance
 type: topic
 quality: complete
@@ -17,7 +17,7 @@ cites:
   - osc-sn-51-721
 ---
 
-The North American Location Intelligence index evaluates the structural convergence of major retail operators across the United States, Canada, and Mexico. Utilizing the [Retail Co-location Methodology](co-location-methodology.md), the index identifies the highest-value commercial nodes based on the verified proximity of Primary Target anchors to secondary and tertiary supporting anchors.
+The North American Location Intelligence index evaluates the structural convergence of major retail operators across the United States, Canada, and Mexico. Utilizing the [[topic-co-location-methodology]], the index identifies the highest-value commercial nodes based on the verified proximity of Primary Target anchors to secondary and tertiary supporting anchors.
 
 ## Market Scarcity and Quality Validation
 
@@ -31,9 +31,9 @@ The following table summarizes the distribution of high-tier nodes across North 
 
 | Country | Primary Anchors Evaluated | Tier 5 (★★★★★) Sites | Tier 4 (★★★★) Sites | Detailed Index |
 | :--- | :--- | :--- | :--- | :--- |
-| **Canada** | 400+ | 12 | 15 | [[co-location-index-canada]] |
-| **United States** | 3,500+ | 85 | 220 | [[co-location-index-us]] |
-| **Mexico** | 300+ | 5 | 24 | [[co-location-index-mexico]] |
+| **Canada** | 400+ | 12 | 15 | [[topic-co-location-index-canada]] |
+| **United States** | 3,500+ | 85 | 220 | [[topic-co-location-index-us]] |
+| **Mexico** | 300+ | 5 | 24 | [[topic-co-location-index-mexico]] |
 
 *Site counts are dynamic and reflect the current state of the GIS data processing system as of 2 May 2026. The dataset includes 2,488 ranked sites across North America.*
 

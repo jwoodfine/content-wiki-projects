@@ -17,7 +17,7 @@ cites:
   - osc-sn-51-721
 ---
 
-El Índice de Co-ubicación de México proporciona un análisis sofisticado de la liquidez comercial y la convergencia institucional en el mercado mexicano. Utilizando la [Metodología de Co-ubicación Retail](topic-co-location-methodology.md), el índice captura los "Top 200" nodos donde la sinergia minorista alcanza los estándares institucionales.
+El Índice de Co-ubicación de México proporciona un análisis sofisticado de la liquidez comercial y la convergencia institucional en el mercado mexicano. Utilizando la [[topic-co-location-methodology]], el índice captura los "Top 200" nodos donde la sinergia minorista alcanza los estándares institucionales.
 
 Estas ubicaciones de primer nivel se caracterizan por la agrupación deliberada de Objetivos Primarios de alto volumen con anclas Secundarias, creando bastiones comerciales defensivos con características significativas de barrera de entrada.
 
@@ -32,5 +32,5 @@ Una calificación de Nivel 5 en México denota un nodo comercial de clase mundia
 *(Nota: El índice completo de más de 300 nodos evaluados es accesible a través de la plataforma GIS de Woodfine. Este documento destaca los "Top 200" nodos.)*
 
 ## Ver También
-*   [Índice de Niveles de Norteamérica](topic-tier-index-north-america.md)
-*   [Metodología de Co-ubicación Retail](topic-co-location-methodology.md)
+*   [[topic-tier-index-north-america]]
+*   [[topic-co-location-methodology]]

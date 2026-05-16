@@ -17,7 +17,7 @@ cites:
   - osc-sn-51-721
 ---
 
-El Índice de Co-ubicación de Polonia identifica los nodos comerciales de alto crecimiento que definen el panorama minorista de Europa Central. Utilizando la [Metodología de Co-ubicación Retail](topic-co-location-methodology.md), el índice destaca las "Top 200" ubicaciones que demuestran una convergencia de grado institucional.
+El Índice de Co-ubicación de Polonia identifica los nodos comerciales de alto crecimiento que definen el panorama minorista de Europa Central. Utilizando la [[topic-co-location-methodology]], el índice destaca las "Top 200" ubicaciones que demuestran una convergencia de grado institucional.
 
 En Polonia, estos nodos están anclados por IKEA (Objetivo Primario) y respaldados por grandes operadores Secundarios como Makro y Leroy Merlin, creando clústeres comerciales defensivos de alto valor.
 
@@ -32,5 +32,5 @@ Una calificación de Nivel 4+ en Polonia denota un nodo comercial de interés in
 *(Nota: El índice completo de más de 15 sitios primarios evaluados está disponible a través de la plataforma GIS de Woodfine. Este documento destaca los "Top 200" nodos de élite.)*
 
 ## Ver También
-*   [Índice de Niveles de Europa](topic-tier-index-europe.md)
-*   [Metodología de Co-ubicación Retail](topic-co-location-methodology.md)
+*   [[topic-tier-index-europe]]
+*   [[topic-co-location-methodology]]

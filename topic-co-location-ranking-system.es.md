@@ -1,7 +1,7 @@
 ---
 schema: foundry-doc-v1
 title: "Sistema de Clasificación de Co-ubicación Minorista"
-slug: co-location-ranking-system
+slug: topic-co-location-ranking-system
 category: governance
 type: topic
 quality: complete

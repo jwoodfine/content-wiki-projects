@@ -1,7 +1,7 @@
 ---
 schema: foundry-doc-v1
 title: "Retail Co-location Methodology"
-slug: co-location-methodology
+slug: topic-co-location-methodology
 category: governance
 type: topic
 quality: complete

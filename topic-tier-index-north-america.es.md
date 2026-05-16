@@ -1,7 +1,7 @@
 ---
 schema: foundry-doc-v1
 title: "Índice de Niveles de Co-ubicación: América del Norte"
-slug: tier-index-north-america
+slug: topic-tier-index-north-america
 category: governance
 type: topic
 quality: complete
@@ -17,7 +17,7 @@ cites:
   - osc-sn-51-721
 ---
 
-El índice de inteligencia de ubicación para América del Norte evalúa la convergencia estructural de los principales operadores minoristas en Estados Unidos, Canadá y México. Utilizando la [Metodología de Co-ubicación](co-location-methodology.md), el índice identifica los nodos comerciales de mayor valor basados en la proximidad verificada de las anclas principales (Walmart Supercentres) con sus anclas de soporte secundarias y terciarias.
+El índice de inteligencia de ubicación para América del Norte evalúa la convergencia estructural de los principales operadores minoristas en Estados Unidos, Canadá y México. Utilizando la [[topic-co-location-methodology]], el índice identifica los nodos comerciales de mayor valor basados en la proximidad verificada de las anclas principales (Walmart Supercentres) con sus anclas de soporte secundarias y terciarias.
 
 ## Escasez de Mercado y Validación de Calidad
 

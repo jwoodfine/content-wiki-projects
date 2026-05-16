@@ -17,7 +17,7 @@ cites:
   - osc-sn-51-721
 ---
 
-The Italy Co-location Index identifies the apex of commercial convergence within the Italian peninsula. Utilizing the [Retail Co-location Methodology](topic-co-location-methodology.md), the index maps the "Top 200" nodes where retail synergy achieves institutional-grade density.
+The Italy Co-location Index identifies the apex of commercial convergence within the Italian peninsula. Utilizing the [[topic-co-location-methodology]], the index maps the "Top 200" nodes where retail synergy achieves institutional-grade density.
 
 In these markets, the Primary Target is IKEA, with secondary validation provided by major operators such as Leroy Merlin and Makro, creating high-barrier commercial ecosystems.
 
@@ -32,5 +32,5 @@ A Tier 4+ rating signifies an institutional-grade node of remarkable commercial 
 *(Note: The full index of 20+ primary evaluated sites is available via the Woodfine GIS platform. This document highlights the "Top 200" elite nodes.)*
 
 ## See Also
-*   [European Tier Index](topic-tier-index-europe.md)
-*   [Retail Co-location Methodology](topic-co-location-methodology.md)
+*   [[topic-tier-index-europe]]
+*   [[topic-co-location-methodology]]

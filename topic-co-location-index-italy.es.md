@@ -17,7 +17,7 @@ cites:
   - osc-sn-51-721
 ---
 
-El Índice de Co-ubicación de Italia identifica el ápice de la convergencia comercial en la península italiana. Utilizando la [Metodología de Co-ubicación Retail](topic-co-location-methodology.md), el índice mapea los "Top 200" nodos donde la sinergia minorista alcanza una densidad de grado institucional.
+El Índice de Co-ubicación de Italia identifica el ápice de la convergencia comercial en la península italiana. Utilizando la [[topic-co-location-methodology]], el índice mapea los "Top 200" nodos donde la sinergia minorista alcanza una densidad de grado institucional.
 
 En estos mercados, el Objetivo Primario es IKEA, con validación secundaria proporcionada por grandes operadores como Leroy Merlin y Makro, creando ecosistemas comerciales con altas barreras de entrada.
 
@@ -32,5 +32,5 @@ Una calificación de Nivel 4+ significa un nodo de grado institucional con una n
 *(Nota: El índice completo de más de 20 sitios primarios evaluados está disponible a través de la plataforma GIS de Woodfine. Este documento destaca los "Top 200" nodos de élite.)*
 
 ## Ver También
-*   [Índice de Niveles de Europa](topic-tier-index-europe.md)
-*   [Metodología de Co-ubicación Retail](topic-co-location-methodology.md)
+*   [[topic-tier-index-europe]]
+*   [[topic-co-location-methodology]]

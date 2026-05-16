@@ -17,7 +17,7 @@ cites:
   - osc-sn-51-721
 ---
 
-The United States Co-location Index serves as the definitive benchmark for commercial convergence across the North American market. Evaluated through the rigorous [Retail Co-location Methodology](topic-co-location-methodology.md), this index identifies the "Top 400" commercial nodes that exhibit the highest degree of institutional-grade retail synergy.
+The United States Co-location Index serves as the definitive benchmark for commercial convergence across the North American market. Evaluated through the rigorous [[topic-co-location-methodology]], this index identifies the "Top 400" commercial nodes that exhibit the highest degree of institutional-grade retail synergy.
 
 In the Woodfine ranking system, these locations are not merely high-traffic zones; they represent the apex of validated commercial real estate, where the convergence of primary anchors and critical infrastructure creates a self-sustaining economic ecosystem.
 
@@ -32,5 +32,5 @@ A Tier 5 designation is the commercial equivalent of a three-star Michelin ratin
 *(Note: The full index of 3,500+ evaluated nodes is accessible via the Woodfine GIS platform. This document highlights the "Top 400" elite nodes.)*
 
 ## See Also
-*   [North American Tier Index](topic-tier-index-north-america.md)
-*   [Retail Co-location Methodology](topic-co-location-methodology.md)
+*   [[topic-tier-index-north-america]]
+*   [[topic-co-location-methodology]]

@@ -1,7 +1,7 @@
 ---
 schema: foundry-doc-v1
 title: "Co-location Index: Canada"
-slug: co-location-index-canada
+slug: topic-co-location-index-canada
 category: governance
 type: topic
 quality: complete
@@ -17,7 +17,7 @@ cites:
   - osc-sn-51-721
 ---
 
-This index identifies and ranks high-value commercial nodes within the Canadian market, evaluated according to the [Retail Co-location Methodology](co-location-methodology.md). The list represents the Canadian subset of the North American ranked index.
+This index identifies and ranks high-value commercial nodes within the Canadian market, evaluated according to the [[topic-co-location-methodology]]. The list represents the Canadian subset of the North American ranked index.
 
 Sites are evaluated based on the proximity of Secondary anchors (Costco, Home Depot) and Tertiary institutional infrastructure (Healthcare, Higher Education) to the Primary Target anchor (Walmart Supercentre).
 
@@ -43,8 +43,8 @@ The following municipalities host nodes that have achieved full commercial conve
 *Note: Rank is determined by the specific proximity distances within the matrix. The complete index of all 400+ Canadian anchor sites, including Tier 1 through Tier 4 rankings, is available via the [gis.woodfinegroup.com](https://gis.woodfinegroup.com) platform.*
 
 ## See Also
-*   [[tier-index-north-america]]
-*   [Retail Co-location Methodology](co-location-methodology.md)
+*   [[topic-tier-index-north-america]]
+*   [[topic-co-location-methodology]]
 
 ---
 ## Provenance

@@ -17,7 +17,7 @@ cites:
   - osc-sn-51-721
 ---
 
-The European Co-location Tier Index serves as the authoritative map of commercial convergence across key European markets. Utilizing the [Retail Co-location Methodology](topic-co-location-methodology.md), the index identifies the highest-value commercial nodes based on the convergence of Primary Targets (IKEA) with essential Secondary (Leroy Merlin, Makro) and Tertiary (Healthcare, Higher Education) anchors.
+The European Co-location Tier Index serves as the authoritative map of commercial convergence across key European markets. Utilizing the [[topic-co-location-methodology]], the index identifies the highest-value commercial nodes based on the convergence of Primary Targets (IKEA) with essential Secondary (Leroy Merlin, Makro) and Tertiary (Healthcare, Higher Education) anchors.
 
 ## Market Scarcity and Institutional Validation
 
@@ -29,13 +29,13 @@ The following table summarizes the distribution of the highest-quality nodes acr
 
 | Country/Region | Primary Anchors Evaluated | Tier 4+ (★★★★+) Sites | Tier 3 (★★★) Sites | Detailed Index |
 | :--- | :--- | :--- | :--- | :--- |
-| **Spain** | 20+ | 3 | 25 | [Co-location Index: Spain](topic-co-location-index-spain.md) |
-| **Nordics** | 30+ | 2 | 35 | [Co-location Index: Nordics](topic-co-location-index-nordics.md) |
-| **Italy** | 20+ | 1 | 20 | [Co-location Index: Italy](topic-co-location-index-italy.md) |
-| **Poland** | 15+ | 1 | 15 | [Co-location Index: Poland](topic-co-location-index-poland.md) |
+| **Spain** | 20+ | 3 | 25 | [[topic-co-location-index-spain]] |
+| **Nordics** | 30+ | 2 | 35 | [[topic-co-location-index-nordics]] |
+| **Italy** | 20+ | 1 | 20 | [[topic-co-location-index-italy]] |
+| **Poland** | 15+ | 1 | 15 | [[topic-co-location-index-poland]] |
 
 *(Note: Site counts are dynamic and reflect the latest processing run of the GIS data processing system. Current as of May 2026. Tier 5 sites in the EU are exceptionally rare and are grouped with Tier 4 for this overview.)*
 
 ## See Also
-*   [Retail Co-location Methodology](topic-co-location-methodology.md)
-*   [North American Tier Index](topic-tier-index-north-america.md)
+*   [[topic-co-location-methodology]]
+*   [[topic-tier-index-north-america]]
