@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: El salto tecnológico del BIM de archivo plano
+title: Salto tecnológico del BIM de archivo plano
 slug: topic-flat-file-bim-leapfrog
 language: es
 category: bim

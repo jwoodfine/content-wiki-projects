@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "The flat-file BIM leapfrog"
+title: "Flat-file BIM leapfrog"
 slug: topic-flat-file-bim-leapfrog
 language: en
 category: bim

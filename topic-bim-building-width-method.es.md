@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "El método inverso — dimensionado de edificios a partir del mobiliario"
+title: "Método inverso — dimensionado de edificios a partir del mobiliario"
 slug: topic-bim-building-width-method
 aliases:
   - topic-bim-building-width-method

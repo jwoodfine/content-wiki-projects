@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "The asset-anchored BIM vault"
+title: "Asset-anchored BIM vault"
 slug: topic-asset-anchored-bim-vault
 language: en
 category: bim

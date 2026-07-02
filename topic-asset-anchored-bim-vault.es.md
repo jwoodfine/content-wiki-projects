@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "La bóveda BIM anclada al activo"
+title: "Bóveda BIM anclada al activo"
 slug: topic-asset-anchored-bim-vault
 language: es
 category: bim

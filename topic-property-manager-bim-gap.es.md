@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "La brecha BIM del administrador de propiedades"
+title: "Brecha BIM del administrador de propiedades"
 slug: topic-property-manager-bim-gap
 language: es
 category: bim

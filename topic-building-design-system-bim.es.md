@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "El sistema de diseño de la construcción"
+title: "Sistema de diseño de la construcción"
 slug: topic-building-design-system-bim
 language: es
 category: bim

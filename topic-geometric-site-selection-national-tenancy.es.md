@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "La composición de la co-localización de anclas minoristas como indicador adelantado espacial de la actividad comercial"
+title: "Composición de la co-localización de anclas minoristas como indicador adelantado espacial de la actividad comercial"
 slug: topic-geometric-site-selection-national-tenancy
 language: es
 category: governance

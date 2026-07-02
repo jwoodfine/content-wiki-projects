@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "El código urbano como geometría composable"
+title: "Código urbano como geometría composable"
 slug: topic-city-code-as-composable-geometry
 language: es
 category: bim

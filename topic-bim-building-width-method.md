@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "The backwards method — sizing buildings from furniture"
+title: "Backwards method — sizing buildings from furniture"
 slug: topic-bim-building-width-method
 aliases:
   - topic-bim-building-width-method

@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "The property manager BIM gap"
+title: "Property manager BIM gap"
 slug: topic-property-manager-bim-gap
 language: en
 category: bim
