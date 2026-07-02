@@ -6,7 +6,7 @@ category: gis
 type: topic
 content_type: topic
 quality: complete
-short_description: "La clasificación de tres niveles que Woodfine utiliza en su conjunto de datos de co-ubicación geográfica — Primario (Walmart Supercentre), Secundario (Home Depot, Costco), Terciario (universidades, centros médicos) — definiendo qué minoristas e instituciones califican en cada nivel y por qué la presencia de cada nivel valida un Sitio de Desarrollo potencial."
+short_description: "Clasificación de tres niveles del dataset de co-ubicación de Woodfine: Primario (Walmart Supercentre), Secundario (Home Depot, Costco), Terciario (universidades, centros médicos)."
 status: stable
 bcsc_class: current-fact
 last_edited: 2026-07-01

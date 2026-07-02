@@ -12,7 +12,7 @@ bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
 last_edited: 2026-06-30
 editor: pointsav-engineering
-short_description: "El estilo arquitectónico medieval de finales del siglo XII al XVI, caracterizado por el arco apuntado, la bóveda de crucería y el arbotante, que fue revivido en el siglo XIX como Revival Gótico para producir las iglesias, edificios universitarios e instituciones cívicas que definen el carácter patrimonial de los distritos comerciales consolidados en los mercados secundarios norteamericanos."
+short_description: "Estilo medieval del arco apuntado, la bóveda de crucería y el arbotante, revivido en el siglo XIX como Revival Gótico en iglesias y edificios cívicos de mercados secundarios."
 paired_with: gothic-architecture.md
 tags:
   - domain:projects

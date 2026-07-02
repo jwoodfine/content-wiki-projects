@@ -6,7 +6,7 @@ category: gis
 type: topic
 content_type: topic
 quality: complete
-short_description: "The site-approval process by which co-location shortlisted Development Site candidates progress from geographic scoring to Independent Director review — covering the Transaction Summary Report template, the Optimum Mosaic comparison, land availability assessment, permitting timeline evaluation, and the board approval gate before a site enters active development."
+short_description: "Site-approval protocol advancing shortlisted Development Site candidates from geographic scoring to Independent Director review via the Transaction Summary Report."
 status: stable
 bcsc_class: current-fact
 last_edited: 2026-07-01

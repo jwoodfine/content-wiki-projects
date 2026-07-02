@@ -12,7 +12,7 @@ bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 last_edited: 2026-06-30
 editor: pointsav-engineering
-short_description: "The architectural movement of the 18th and early 19th centuries that revived Greek and Roman classical forms in reaction to Baroque excess — producing the bank buildings, court houses, and civic institutions that define the founding-era commercial fabric of most North American secondary market downtowns."
+short_description: "Architectural movement of the 18th and early 19th centuries reviving Greek and Roman forms, defining the founding-era banks and civic buildings of secondary market downtowns."
 paired_with: neoclassical-architecture.es.md
 tags:
   - domain:projects

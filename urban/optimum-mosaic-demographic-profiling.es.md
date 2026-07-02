@@ -6,7 +6,7 @@ category: urban
 type: topic
 content_type: topic
 quality: complete
-short_description: "La metodología demográfica que Woodfine utiliza para identificar el perfil de consumidor común a las zonas de influencia de los Walmart Supercentre de mayor rendimiento — clasificando los Objetivos Primarios por ventas por pie cuadrado y extrayendo las características demográficas compartidas de sus comunidades circundantes para producir el Mosaico Óptimo, la firma demográfica objetivo para los sitios de Woodfine Professional Centres."
+short_description: "Metodología demográfica que deriva el Mosaico Óptimo — la firma de consumidor objetivo de Woodfine — de las zonas Walmart Supercentre de mayores ventas por pie cuadrado."
 status: stable
 bcsc_class: current-fact
 last_edited: 2026-07-01

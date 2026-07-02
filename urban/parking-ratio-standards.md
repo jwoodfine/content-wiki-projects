@@ -6,7 +6,7 @@ category: urban
 type: topic
 content_type: topic
 quality: complete
-short_description: "The parking standards mandated by the Woodfine Universal Governance Bylaws for all Woodfine Buildings — a minimum of 3 stalls per 1,000 square feet of net leasable area with a target of 4 per 1,000 — derived from institutional retail parking design principles and applied to Professional Centres as a building experience component specified before construction."
+short_description: "Parking standard in the Woodfine Universal Governance Bylaws: minimum 3 stalls per 1,000 square feet of net leasable area, with a target of 4, specified before construction."
 status: stable
 bcsc_class: current-fact
 last_edited: 2026-07-01

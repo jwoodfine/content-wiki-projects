@@ -12,7 +12,7 @@ bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 last_edited: 2026-06-30
 editor: pointsav-engineering
-short_description: "A late modernist style active from the 1960s to the present that expresses a building's structural and mechanical systems on its exterior — producing highly adaptable open floor plates well-suited to corporate, medical, and technology tenants, but rarely found in secondary market suburban commercial corridors."
+short_description: "Late modernist style expressing structural and mechanical systems on the building exterior, yielding adaptable open floor plates for corporate, medical, and technology tenants."
 paired_with: high-tech-architecture.es.md
 tags:
   - domain:projects

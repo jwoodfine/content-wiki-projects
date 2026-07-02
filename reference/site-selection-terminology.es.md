@@ -6,7 +6,7 @@ category: reference
 type: topic
 content_type: topic
 quality: complete
-short_description: "Definiciones para el vocabulario de selección de sitios y desarrollo utilizado en la metodología de co-ubicación de Woodfine — incluyendo Inversión Calificada, Centro Comercial, Diseño Campus, Objetivo Primario, Objetivo Secundario, Objetivo Terciario y la distinción entre cantidad de desarrollo requerida y shortlist de sitios — según se aplican en Canadá, Estados Unidos, España y México."
+short_description: "Glosario de los términos de selección de sitios y desarrollo de Woodfine, incluyendo Inversión Calificada, Power Centre, Diseño Campus y los objetivos Primario a Terciario."
 status: stable
 bcsc_class: current-fact
 last_edited: 2026-07-01

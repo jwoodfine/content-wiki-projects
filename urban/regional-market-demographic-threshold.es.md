@@ -6,7 +6,7 @@ category: urban
 type: topic
 content_type: topic
 quality: complete
-short_description: "Las características demográficas que distinguen un Mercado Regional calificado de una comunidad de servicio local — incluyendo los patrones de gasto del consumidor que sostienen a los Minoristas Nacionales con altas ventas por pie cuadrado y el perfil de comercio secundario que apoya la demanda de arrendamiento de servicios profesionales en los Sitios de Desarrollo de Woodfine."
+short_description: "Condiciones demográficas que distinguen un Mercado Regional calificado de una comunidad local, medidas por ventas por pie cuadrado del Minorista Nacional y el comercio secundario."
 status: stable
 bcsc_class: current-fact
 last_edited: 2026-07-01

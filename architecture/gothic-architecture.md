@@ -12,7 +12,7 @@ bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 last_edited: 2026-06-30
 editor: pointsav-engineering
-short_description: "The medieval architectural style of the late 12th to 16th centuries, characterised by the pointed arch, rib vault, and flying buttress, that was revived in the 19th century as Gothic Revival to produce the churches, university buildings, and civic institutions that define the heritage character of established commercial districts in North American secondary markets."
+short_description: "Medieval style of pointed arch, rib vault, and flying buttress, revived in the 19th century as Gothic Revival in the churches and civic buildings of secondary markets."
 paired_with: gothic-architecture.es.md
 tags:
   - domain:projects

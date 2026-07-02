@@ -6,7 +6,7 @@ category: reference
 type: topic
 content_type: topic
 quality: complete
-short_description: "Definitions for the site selection and development vocabulary used in Woodfine's co-location methodology — including Qualified Investment, Power Centre, Campus Design, Primary Target, Secondary Target, Tertiary Target, and the distinction between required development count and site shortlist — as applied across Canada, the United States, Spain, and Mexico."
+short_description: "Glossary of Woodfine site selection and development terms, including Qualified Investment, Power Centre, Campus Design, and the Primary–Tertiary target tiers."
 status: stable
 bcsc_class: current-fact
 last_edited: 2026-07-01

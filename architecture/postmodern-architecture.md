@@ -12,7 +12,7 @@ bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 last_edited: 2026-06-30
 editor: pointsav-engineering
-short_description: "The architectural movement of the 1980s and 1990s that rejected modernism's plain glass box in favour of historical reference, ornament, and contextual variety — producing the brick-veneer suburban commercial buildings that define the second major generation of inventory in North American secondary market commercial corridors."
+short_description: "Architectural movement of the 1980s and 1990s reviving historical reference and ornament, producing the brick-veneer suburban commercial inventory of secondary market corridors."
 paired_with: postmodern-architecture.es.md
 tags:
   - domain:projects

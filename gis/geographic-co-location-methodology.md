@@ -6,7 +6,7 @@ category: gis
 type: topic
 content_type: topic
 quality: complete
-short_description: "The five-degree cluster system Woodfine uses to score retail node proximity — combining Primary (Walmart Supercentre), Secondary (Home Depot, Costco), and Tertiary (universities, medical centres) target co-occurrence at defined radius thresholds — to rank potential development sites by validated anchor strength."
+short_description: "Five-degree cluster system scoring retail node proximity from Primary, Secondary, and Tertiary target co-occurrence to rank development sites by anchor strength."
 status: stable
 bcsc_class: current-fact
 last_edited: 2026-07-01

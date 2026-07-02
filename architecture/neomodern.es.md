@@ -12,7 +12,7 @@ bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
 last_edited: 2026-06-30
 editor: woodfine-editorial
-short_description: "Movimiento arquitectónico que reacciona contra la complejidad y el eclecticismo del posmodernismo — regresando al racionalismo, la claridad funcional y un lenguaje formal simplificado mientras rechaza tanto el ornamento histórico como la extravagancia expresiva del deconstructivismo; el estilo dominante de las torres de oficinas Clase A en los CBD norteamericanos y europeos desde la década de 1990."
+short_description: "Movimiento arquitectónico que vuelve al racionalismo y la forma simplificada tras el posmodernismo — estilo dominante de las torres de oficinas Clase A en los CBD desde 1990."
 paired_with: neomodern.md
 tags:
   - domain:projects

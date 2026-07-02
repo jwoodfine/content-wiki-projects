@@ -12,7 +12,7 @@ bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
 last_edited: 2026-06-30
 editor: woodfine-editorial
-short_description: "El arte y la técnica de diseñar y construir edificios — desde la tríada fundamental de Vitruvio de durabilidad, utilidad y belleza, a lo largo de una evolución histórica continua que abarca los monumentos prehistóricos, la antigüedad clásica, la catedral gótica, el Renacimiento, la Era Industrial, el Modernismo y la práctica contemporánea — proporcionando el marco evaluativo para distinguir el carácter arquitectónico en el inmobiliario comercial."
+short_description: "Arte y técnica de diseñar y construir edificios, desde la tríada de Vitruvio — durabilidad, utilidad y belleza — hasta la práctica contemporánea."
 paired_with: architecture-overview.md
 tags:
   - domain:projects

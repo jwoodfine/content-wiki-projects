@@ -2,7 +2,7 @@
 schema: foundry-doc-v1
 title: "GIS North America Dataset — Site Pipeline Status (2026)"
 slug: text-gis-north-america-dataset-2026
-short_description: "Internal client communication on the North America co-location dataset status — current scored cluster counts by jurisdiction, active pipeline shortlist requirements, and the dataset calibration approach applied when Fifth-Degree Cluster concentration exceeds 10% of the Primary Target population."
+short_description: "Internal client communication on North America co-location dataset status — scored cluster counts by jurisdiction, pipeline shortlist requirements, and calibration approach."
 category: comms
 type: release-text
 content_type: topic

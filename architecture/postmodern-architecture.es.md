@@ -12,7 +12,7 @@ bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
 last_edited: 2026-06-30
 editor: pointsav-engineering
-short_description: "El movimiento arquitectónico de los años ochenta y noventa que rechazó la caja de vidrio simple del modernismo en favor de la referencia histórica, el ornamento y la variedad contextual — produciendo los edificios comerciales suburbanos de fachada de ladrillo visto que definen la segunda generación principal de inventario en los corredores comerciales de los mercados secundarios norteamericanos."
+short_description: "Movimiento arquitectónico de los años ochenta y noventa que reintrodujo la referencia histórica y el ornamento, origen del inventario comercial suburbano de ladrillo visto."
 paired_with: postmodern-architecture.md
 tags:
   - domain:projects

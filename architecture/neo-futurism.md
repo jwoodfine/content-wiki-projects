@@ -12,7 +12,7 @@ bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 last_edited: 2026-06-30
 editor: woodfine-editorial
-short_description: "Late 20th and early 21st-century architectural movement applying advanced technology, new materials, and computer-aided design to produce expressive, non-rectilinear building forms — associated with transit infrastructure and cultural institutions that serve as anchors for urban co-location nodes."
+short_description: "Architectural movement applying advanced technology and computer-aided design to expressive, non-rectilinear forms in transit infrastructure and cultural anchors."
 paired_with: neo-futurism.es.md
 tags:
   - domain:projects

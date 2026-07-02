@@ -6,7 +6,7 @@ category: gis
 type: topic
 content_type: topic
 quality: complete
-short_description: "The passive tracking system that holds qualified co-location sites removed from the active Development Site pipeline due to adjacent land unavailability — maintained as a scored inventory updated on the same annual or biennial cycle as Primary Target sales per square foot data, with documented re-entry criteria when land conditions change."
+short_description: "Passive tracking register holding qualified co-location sites removed from the active pipeline for adjacent land unavailability, kept scored with documented re-entry criteria."
 status: stable
 bcsc_class: current-fact
 last_edited: 2026-07-01

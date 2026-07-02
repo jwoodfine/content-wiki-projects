@@ -12,7 +12,7 @@ bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
 last_edited: 2026-06-30
 editor: pointsav-engineering
-short_description: "El estilo de construcción comercial dominante de mediados del siglo XX — caracterizado por la estructura portante, el acristalamiento de muro cortina, la cubierta plana y la planta libre — que estableció el tipo de edificio de oficinas profesionales suburbano que ocupa la mayor parte del inventario comercial de los mercados secundarios en la actualidad."
+short_description: "Estilo comercial dominante de mediados del siglo XX — estructura portante, muro cortina, cubierta plana, planta libre — que estableció el edificio de oficinas profesional suburbano."
 paired_with: modern-architecture.md
 tags:
   - domain:projects

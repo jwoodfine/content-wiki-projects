@@ -6,7 +6,7 @@ category: urban
 type: topic
 content_type: topic
 quality: complete
-short_description: "The demographic characteristics that distinguish a qualifying Regional Market from a local-serving community — including the consumer spending patterns that sustain National Retailer anchors at high sales per square foot and the secondary trade profile that supports professional services tenancy demand at Woodfine Development Sites."
+short_description: "Demographic conditions distinguishing a qualifying Regional Market from a local-serving community, led by National Retailer sales per square foot and secondary trade strength."
 status: stable
 bcsc_class: current-fact
 last_edited: 2026-07-01

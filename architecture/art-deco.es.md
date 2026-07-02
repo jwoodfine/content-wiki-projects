@@ -12,7 +12,7 @@ bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
 last_edited: 2026-06-30
 editor: pointsav-engineering
-short_description: "El estilo decorativo y arquitectónico de los años veinte y treinta — caracterizado por el ornamento geométrico, el escalonamiento de masas y los materiales de superficie lujosos — que produjo los edificios comerciales que definen las calles del centro en la mayoría de las ciudades secundarias norteamericanas y que crea el contexto patrimonial para la evaluación de sitios de co-ubicación."
+short_description: "Estilo decorativo de los años veinte y treinta — ornamento geométrico, masas escalonadas, materiales ricos — que define las calles comerciales céntricas de las ciudades secundarias."
 paired_with: art-deco.md
 tags:
   - domain:projects

@@ -12,7 +12,7 @@ bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
 last_edited: 2026-06-30
 editor: woodfine-editorial
-short_description: "Los entornos creados por el ser humano que proporcionan espacios para la actividad humana — que comprenden edificios, infraestructura, parques y terrenos agrícolas — cuyo diseño, calidad y organización determinan directamente la densidad urbana, la transitabilidad peatonal y la combinación de usos que caracterizan los nodos de colocalización comercialmente viables."
+short_description: "Entorno construido para la actividad humana — edificios, infraestructura, parques — cuyo diseño determina la densidad, transitabilidad y mezcla de usos de los nodos de co-ubicación."
 paired_with: built-environment.md
 tags:
   - domain:projects

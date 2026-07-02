@@ -12,7 +12,7 @@ bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 last_edited: 2026-06-30
 editor: woodfine-editorial
-short_description: "The human-made surroundings that provide settings for human activity — encompassing buildings, infrastructure, parks, and agricultural land — whose design, quality, and organization directly determine the urban density, walkability, and land-use mix that characterize commercially viable co-location nodes."
+short_description: "Human-made surroundings for human activity — buildings, infrastructure, parks — whose design determines the density, walkability, and land-use mix of viable co-location nodes."
 paired_with: built-environment.es.md
 tags:
   - domain:projects

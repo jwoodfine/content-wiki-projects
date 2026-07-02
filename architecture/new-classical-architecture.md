@@ -12,7 +12,7 @@ bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 last_edited: 2026-06-30
 editor: woodfine-editorial
-short_description: "Contemporary movement continuing the practice of classical and traditional architecture — producing buildings in the classical orders, traditional town design, and context-sensitive construction that intentionally continues local building traditions rather than asserting a universal modernist language."
+short_description: "Contemporary movement continuing classical and traditional architecture through the classical orders, traditional town design, and context-sensitive construction."
 paired_with: new-classical-architecture.es.md
 tags:
   - domain:projects

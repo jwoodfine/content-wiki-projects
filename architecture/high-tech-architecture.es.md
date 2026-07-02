@@ -12,7 +12,7 @@ bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
 last_edited: 2026-06-30
 editor: pointsav-engineering
-short_description: "Un estilo tardoModernista activo desde los años sesenta hasta el presente que expresa la estructura y los sistemas mecánicos de un edificio en su exterior — produciendo plantas libres altamente adaptables adecuadas para inquilinos corporativos, médicos y tecnológicos, aunque raramente encontrado en los corredores comerciales suburbanos de los mercados secundarios."
+short_description: "Estilo tardomodernista que expresa la estructura y los sistemas mecánicos en el exterior, con plantas libres adaptables para inquilinos corporativos, médicos y tecnológicos."
 paired_with: high-tech-architecture.md
 tags:
   - domain:projects

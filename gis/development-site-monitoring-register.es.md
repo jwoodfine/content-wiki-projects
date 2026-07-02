@@ -6,7 +6,7 @@ category: gis
 type: topic
 content_type: topic
 quality: complete
-short_description: "El sistema de seguimiento pasivo que mantiene los sitios de co-ubicación calificados retirados del pipeline activo de Sitios de Desarrollo debido a la no disponibilidad de terreno adyacente — mantenido como un inventario puntuado actualizado en el mismo ciclo anual o bienal que los datos de ventas por pie cuadrado del Objetivo Primario, con criterios de re-entrada documentados cuando cambian las condiciones del terreno."
+short_description: "Registro de seguimiento pasivo que conserva sitios de co-ubicación calificados retirados del pipeline activo por falta de terreno adyacente, puntuados y con criterios de re-entrada."
 status: stable
 bcsc_class: current-fact
 last_edited: 2026-07-01

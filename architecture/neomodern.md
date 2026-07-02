@@ -12,7 +12,7 @@ bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 last_edited: 2026-06-30
 editor: woodfine-editorial
-short_description: "Architectural movement reacting against postmodernism's complexity and eclecticism — returning to rationalism, functional clarity, and simplified formal language while rejecting both historical ornament and the expressive extravagance of deconstructivism; the dominant style for Class A office towers in North American and European CBDs since the 1990s."
+short_description: "Architectural movement returning to rationalism and simplified form after postmodernism — dominant style of Class A office towers in North American and European CBDs since the 1990s."
 paired_with: neomodern.es.md
 tags:
   - domain:projects

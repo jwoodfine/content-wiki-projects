@@ -12,7 +12,7 @@ bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 last_edited: 2026-06-30
 editor: pointsav-engineering
-short_description: "The dominant commercial building style of the mid-twentieth century — characterised by the structural frame, curtain-wall glazing, flat roof, and open floor plan — that established the suburban professional office building type occupying the majority of secondary market commercial inventory today."
+short_description: "Dominant mid-twentieth-century commercial style — structural frame, curtain wall, flat roof, open plan — that established the suburban professional office building type."
 paired_with: modern-architecture.es.md
 tags:
   - domain:projects

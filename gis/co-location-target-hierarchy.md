@@ -6,7 +6,7 @@ category: gis
 type: topic
 content_type: topic
 quality: complete
-short_description: "The three-tier target classification Woodfine uses in its geographic co-location dataset — Primary (Walmart Supercentre), Secondary (Home Depot, Costco), Tertiary (universities, medical centres) — defining which retailers and institutions qualify at each tier and why each tier's presence validates a potential Development Site."
+short_description: "Three-tier target classification in Woodfine's co-location dataset — Primary (Walmart Supercentre), Secondary (Home Depot, Costco), Tertiary (universities, medical centres)."
 status: stable
 bcsc_class: current-fact
 last_edited: 2026-07-01

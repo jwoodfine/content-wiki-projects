@@ -6,7 +6,7 @@ category: gis
 type: topic
 content_type: topic
 quality: complete
-short_description: "El sistema de clústeres de cinco grados que Woodfine utiliza para puntuar la proximidad de nodos minoristas — combinando la co-ocurrencia de Objetivos Primarios (Walmart Supercentre), Secundarios (Home Depot, Costco) y Terciarios (universidades, centros médicos) a umbrales de radio definidos — para clasificar sitios de desarrollo potenciales según la solidez del ancla validada."
+short_description: "Sistema de cinco grados de clúster que puntúa nodos minoristas por co-ocurrencia de objetivos Primarios, Secundarios y Terciarios para clasificar sitios de desarrollo."
 status: stable
 bcsc_class: current-fact
 last_edited: 2026-07-01

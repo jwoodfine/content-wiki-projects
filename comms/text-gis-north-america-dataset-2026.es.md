@@ -2,7 +2,7 @@
 schema: foundry-doc-v1
 title: "Conjunto de Datos GIS América del Norte — Estado del Pipeline de Sitios (2026)"
 slug: text-gis-north-america-dataset-2026
-short_description: "Comunicación interna para clientes sobre el estado del conjunto de datos de co-ubicación de América del Norte — conteos actuales de clústeres puntuados por jurisdicción, requisitos de preselección del pipeline activo y el enfoque de calibración del conjunto de datos aplicado cuando la concentración de Clústeres de Quinto Grado supera el 10% de la población de Objetivos Primarios."
+short_description: "Comunicación interna a clientes sobre el conjunto de datos de co-ubicación de América del Norte: clústeres puntuados por jurisdicción, preselección del pipeline y calibración."
 category: comms
 type: release-text
 content_type: topic

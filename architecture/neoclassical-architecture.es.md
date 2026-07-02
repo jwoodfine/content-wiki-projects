@@ -12,7 +12,7 @@ bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
 last_edited: 2026-06-30
 editor: pointsav-engineering
-short_description: "El movimiento arquitectónico de los siglos XVIII y principios del XIX que revivió las formas clásicas griegas y romanas en reacción al exceso barroco — produciendo los edificios bancarios, los tribunales y las instituciones cívicas que definen el tejido comercial fundacional de la mayoría de los centros de los mercados secundarios norteamericanos."
+short_description: "Movimiento arquitectónico de los siglos XVIII y XIX que revivió las formas griegas y romanas, definiendo los bancos e instituciones cívicas fundacionales de los mercados secundarios."
 paired_with: neoclassical-architecture.md
 tags:
   - domain:projects

@@ -6,7 +6,7 @@ category: gis
 type: topic
 content_type: topic
 quality: complete
-short_description: "El proceso de aprobación de sitios por el cual los candidatos a Sitio de Desarrollo preseleccionados por co-ubicación avanzan desde la puntuación geográfica hasta la revisión del Director Independiente — cubriendo la plantilla del Informe de Resumen de Transacción, la comparación con el Mosaico Óptimo, la evaluación de disponibilidad de terrenos, la evaluación del cronograma de permisos y la aprobación del Consejo antes de que un sitio entre en desarrollo activo."
+short_description: "Protocolo que lleva los candidatos a Sitio de Desarrollo de la puntuación geográfica a la revisión del Director Independiente mediante el Informe de Resumen de Transacción."
 status: stable
 bcsc_class: current-fact
 last_edited: 2026-07-01

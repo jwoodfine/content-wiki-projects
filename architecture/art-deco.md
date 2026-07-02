@@ -12,7 +12,7 @@ bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 last_edited: 2026-06-30
 editor: pointsav-engineering
-short_description: "The decorative and architectural style of the 1920s and 1930s — characterised by geometric ornament, stepped massing, and lavish surface materials — that produced the commercial buildings defining downtown streets in most North American secondary cities and creating the heritage context for co-location site evaluation."
+short_description: "Decorative style of the 1920s and 1930s — geometric ornament, stepped massing, rich surface materials — defining downtown commercial streets in North American secondary cities."
 paired_with: art-deco.es.md
 tags:
   - domain:projects

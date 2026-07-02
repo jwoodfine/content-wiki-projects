@@ -6,7 +6,7 @@ category: urban
 type: topic
 content_type: topic
 quality: complete
-short_description: "Los estándares de estacionamiento mandatados por los Estatutos Universales de Gobernanza de Woodfine para todos los Woodfine Buildings — un mínimo de 3 espacios por cada 1,000 pies cuadrados de área arrendable neta con un objetivo de 4 por cada 1,000 — derivados de los principios de diseño de estacionamiento minorista institucional y aplicados a los Centros Profesionales como componente de la experiencia del edificio especificado antes de la construcción."
+short_description: "Estándar de estacionamiento de los Estatutos Universales de Gobernanza de Woodfine: mínimo de 3 espacios por 1,000 pies cuadrados de área arrendable neta, con objetivo de 4."
 status: stable
 bcsc_class: current-fact
 last_edited: 2026-07-01

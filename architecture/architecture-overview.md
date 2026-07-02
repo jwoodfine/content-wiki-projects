@@ -12,7 +12,7 @@ bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 last_edited: 2026-06-30
 editor: woodfine-editorial
-short_description: "The art and technique of designing and constructing buildings — from Vitruvius's foundational triad of durability, utility, and beauty through a continuous historical evolution spanning prehistoric monuments, classical antiquity, the Gothic cathedral, the Renaissance, the Industrial Age, Modernism, and contemporary practice — providing the evaluative framework for distinguishing architectural character in commercial real estate."
+short_description: "Art and technique of designing and constructing buildings, from Vitruvius's triad of durability, utility, and beauty to contemporary practice."
 paired_with: architecture-overview.es.md
 tags:
   - domain:projects

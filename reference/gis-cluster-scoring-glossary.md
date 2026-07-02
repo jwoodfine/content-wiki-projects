@@ -6,7 +6,7 @@ category: reference
 type: topic
 content_type: topic
 quality: complete
-short_description: "Definitions for the cluster degree terminology (First- through Fifth-Degree Cluster), tier labels (T3 Apex, T2 Hub, T1 Valid), and radius threshold conventions used in the Woodfine geographic co-location scoring system — the vocabulary for interpreting co-location dataset outputs and GIS coverage reports."
+short_description: "Glossary of cluster degree terms, tier labels (T3 Apex, T2 Hub, T1 Valid), and radius conventions used in the Woodfine geographic co-location scoring system."
 status: stable
 bcsc_class: current-fact
 last_edited: 2026-07-01

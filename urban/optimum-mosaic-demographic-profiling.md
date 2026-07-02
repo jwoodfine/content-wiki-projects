@@ -6,7 +6,7 @@ category: urban
 type: topic
 content_type: topic
 quality: complete
-short_description: "The demographic methodology Woodfine uses to identify the consumer profile common to the highest-performing Walmart Supercentre trade areas — ranking Primary Targets by sales per square foot and extracting the shared demographic characteristics of their surrounding communities to produce the Optimum Mosaic, the target demographic signature for Woodfine Professional Centres sites."
+short_description: "Demographic methodology deriving the Optimum Mosaic — Woodfine's target consumer signature — from the highest sales-per-square-foot Walmart Supercentre trade areas."
 status: stable
 bcsc_class: current-fact
 last_edited: 2026-07-01

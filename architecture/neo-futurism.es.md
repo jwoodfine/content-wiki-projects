@@ -12,7 +12,7 @@ bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
 last_edited: 2026-06-30
 editor: woodfine-editorial
-short_description: "Movimiento arquitectónico de finales del siglo XX y principios del XXI que aplica tecnología avanzada, nuevos materiales y diseño asistido por ordenador para producir formas edificatorias expresivas y no rectilíneas — asociado a la infraestructura de transporte y a las instituciones culturales que funcionan como anclas de los nodos de colocalización urbana."
+short_description: "Movimiento arquitectónico que aplica tecnología avanzada y diseño asistido por ordenador a formas expresivas no rectilíneas en infraestructura de transporte y edificios culturales."
 paired_with: neo-futurism.md
 tags:
   - domain:projects

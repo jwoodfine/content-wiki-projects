@@ -12,7 +12,7 @@ bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
 last_edited: 2026-06-30
 editor: woodfine-editorial
-short_description: "Movimiento contemporáneo que continúa la práctica de la arquitectura clásica y tradicional — produciendo edificios en los órdenes clásicos, diseño urbano tradicional y construcción sensible al contexto que prolonga intencionalmente las tradiciones constructivas locales en lugar de imponer un lenguaje modernista universal."
+short_description: "Movimiento contemporáneo que continúa la arquitectura clásica y tradicional mediante los órdenes clásicos, el diseño urbano tradicional y la construcción sensible al contexto."
 paired_with: new-classical-architecture.md
 tags:
   - domain:projects

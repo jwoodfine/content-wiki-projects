@@ -6,7 +6,7 @@ category: reference
 type: topic
 content_type: topic
 quality: complete
-short_description: "Definiciones para la terminología de grado de clúster (Primer al Quinto Grado), etiquetas de nivel (T3 Apex, T2 Hub, T1 Valid) y convenciones de umbral de radio utilizadas en el sistema de puntuación de co-ubicación geográfica de Woodfine — el vocabulario para interpretar los resultados del conjunto de datos de co-ubicación y los informes de cobertura GIS."
+short_description: "Glosario de los grados de clúster, etiquetas de nivel (T3 Apex, T2 Hub, T1 Valid) y convenciones de radio del sistema de puntuación de co-ubicación geográfica de Woodfine."
 status: stable
 bcsc_class: current-fact
 last_edited: 2026-07-01
