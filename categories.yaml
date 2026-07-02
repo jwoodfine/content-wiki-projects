@@ -1,0 +1,123 @@
+# Canonical category taxonomy for the projects wiki. Single source of truth. Consumed by the wiki engine for the category nav; see .agent/audit/2026-07-02-category-redesign/proposal-projects.md for the full design.
+wiki: media-knowledge-projects
+audience: >-
+  Anyone curious about the buildings and the places — from a first-time
+  reader or investor to an architect, engineer, or geospatial analyst.
+  Plain language throughout; professional terms of art live inside
+  articles, not in category names. This wiki carries the
+  buildings-and-places half of the company's story.
+version: 2026-07-02
+companion: >-
+  media-knowledge-corporate carries the company-and-money half: who the
+  company is, what you invest in, how the money works, returns,
+  governance, risks, and every company's reports. The two wikis together
+  explain the whole company.
+
+categories:
+  - id: buildings
+    name: "The Buildings"
+    scope: >-
+      What we build: the six development classes — Professional Centres,
+      Suburban Office, Retail Select, Tech Industrial, and the planned
+      Parking Structures and Vertical Warehouses — what each one is, who
+      it is designed for, and its economics.
+    audience: "Everyone — first visit; investors; AEC professionals"
+    order: 1
+
+  - id: building-design
+    name: "How We Build"
+    scope: >-
+      The design system: buildings designed from the tenant out, fixed
+      floor plates, the offset core, key plans and tiles, measurement
+      standards, certifications, and BIM practice.
+    audience: "Architects; AEC professionals"
+    order: 2
+
+  - id: site-selection
+    name: "How We Choose Sites"
+    scope: >-
+      The method behind "near Power Centres": the retail anchors,
+      catchment and cluster analysis, scoring, and the tests a site must
+      pass before land is bought.
+    audience: "AEC professionals; development-market firms"
+    order: 3
+
+  - id: markets
+    name: "The Markets"
+    scope: >-
+      The places, ranked: the screening universe, the ranked set of
+      development markets, country and tier indices, and a profile page
+      for every market.
+    audience: "Development-market firms; investors"
+    order: 4
+
+  - id: rollout
+    name: "The Rollout Program"
+    scope: >-
+      Where building is planned next: the intended country-by-country
+      programme across Canada, the United States, Spain, and Mexico, its
+      planned development regions, and the registers that track
+      candidate sites through the pipeline — locations, counts, and
+      timing are targets and may change.
+    audience: "Investors; development-market firms"
+    order: 5
+
+  - id: industry
+    name: "The Commercial Real Estate Market"
+    scope: >-
+      How the market works: rents and building income, values and
+      capitalization rates, market cycles, interest rates, and the
+      structure of the private market.
+    audience: "Analyst, banker, investor"
+    order: 6
+
+  - id: urban
+    name: "Why Places Grow"
+    scope: >-
+      The city-scale forces behind demand: commuters, the urban fringe,
+      demographics, and parking.
+    audience: "Development-market firms; AEC professionals"
+    order: 7
+
+  - id: architecture
+    name: "Architecture and Design Styles"
+    scope: >-
+      The design culture the buildings stand in: architectural styles
+      and movements from classical to contemporary, and how they bear on
+      commercial buildings.
+    audience: "Architects; AEC professionals; general readers"
+    order: 8
+
+  - id: gis
+    name: "Maps and Data"
+    scope: >-
+      The maps and data behind the analysis: where the spatial data
+      comes from, what it covers, and the methods used to screen markets
+      and evaluate sites.
+    audience: "GIS analysts; AEC professionals"
+    order: 9
+
+  - id: research
+    name: "Research"
+    scope: >-
+      The flagship long-form research papers — complete arguments,
+      argued end to end, with full citations. A small curated set,
+      ~3-5 papers.
+    audience: "Analyst, academic, technical diligence"
+    order: 10
+
+  - id: reference
+    name: "Glossary"
+    scope: >-
+      Terminology and standard definitions for buildings, markets, and
+      geographic analysis, in plain words.
+    audience: "All readers"
+    order: 11
+
+  - id: news
+    name: "News"
+    scope: >-
+      Release notes: new datasets, new coverage, and knowledge-base
+      milestones.
+    audience: "All readers"
+    order: 12
