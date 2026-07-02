@@ -13,7 +13,7 @@ short_description: "What the PointSav GIS co-location dataset offers a BIM compo
 paired_with: topic-gis-as-bim-substrate.es.md
 ---
 
-Building Information Modelling (BIM) occupies the building scale: structural geometry, material assemblies, mechanical systems, occupancy. A model is meaningful in isolation, but its commercial value emerges when it is sited — positioned in a real geography with real neighbours, real catchments, and real regulatory context. The [[pointsav-overview|PointSav]] GIS [[co-location-methodology|co-location]] dataset is designed to provide that siting context to BIM composition pipelines.
+Building Information Modelling (BIM) occupies the building scale: structural geometry, material assemblies, mechanical systems, occupancy. A model is meaningful in isolation, but its commercial value emerges when it is sited — positioned in a real geography with real neighbours, real catchments, and real regulatory context. The PointSav GIS [[topic-co-location-methodology|co-location]] dataset is designed to provide that siting context to BIM composition pipelines.
 
 This article documents what the GIS dataset offers a BIM consumer, which fields are stable, and what extensions are anticipated.
 
@@ -89,7 +89,7 @@ A BIM composition that joins on `cluster_id` sees growth but no deletion of exis
 
 ## See Also
 
-- [[co-location-methodology]]
+- [[topic-co-location-methodology|co-location-methodology]]
 - [[topic-regional-name-resolution-architecture]]
 - [[topic-city-code-as-composable-geometry]]
 

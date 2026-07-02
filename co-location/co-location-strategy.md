@@ -48,4 +48,4 @@ Co-location targets [[regional-markets|regional markets]] — cities and metropo
 
 Co-location is the site-selection framework; the [[development-classes|direct-hold solution type]] determines the physical form the professional centre takes. A Professional Centre co-location deployment is a multi-storey office building optimized for [[mix-of-use|mix-of-use tenancy]]. The co-location criterion establishes where to build; the standardized [[fixed-floor-plates|fixed floor plate]] and building systems establish what to build.
 
-The systematic repetition of the co-location process across multiple regional markets is the [[topic-rollout-program|rollout program]] — the mechanism by which Woodfine's [[topic-site-selection-pipeline|site selection pipeline]] converts validated demand into institutional real estate at scale.
+The systematic repetition of the co-location process across multiple regional markets is the rollout program — the mechanism by which Woodfine's site selection pipeline converts validated demand into institutional real estate at scale.

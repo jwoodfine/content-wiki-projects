@@ -26,7 +26,7 @@ Professional Centre deployments include four sub-types based on proximity and ma
 
 **Professional Offices** are the baseline multi-storey office product. Each occupier category — academic, business, civic, lab, medical — receives a purpose-configured fit-out within the [[fixed-floor-plates|fixed floor plate]], with furniture and equipment geometry derived from the specific use case.
 
-**Retail Select** positions single-storey commercial-retail uses (bank branches, drive-through services) within the 1.0-kilometre power centre radius. These serve as street-level complements to the multi-storey professional building in a [[topic-campus-design|campus deployment]].
+**Retail Select** positions single-storey commercial-retail uses (bank branches, drive-through services) within the 1.0-kilometre power centre radius. These serve as street-level complements to the multi-storey professional building in a campus deployment.
 
 **Suburban Office** places multi-storey office product within 2.0 kilometres of the power centre anchor, where site geometry or land availability prevents 1.0-kilometre positioning.
 

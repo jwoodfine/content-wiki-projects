@@ -28,7 +28,7 @@ This derivation sequence — tenant equipment → optimized geometry → fixed s
 
 ## The rollout efficiency case
 
-A floor plate that is fixed across multiple deployments enables procurement, construction, and operations efficiency that a bespoke-designed building cannot achieve. Structural components, mechanical systems, and fit-out materials can be procured at portfolio scale against standardized specifications. Contractors and building managers who deliver one deployment in the series apply learned efficiency to the next. [[topic-rollout-program|Rollout programs]] exploit this learned-efficiency effect deliberately, targeting markets where multiple sequential deployments can be executed from the same standardized platform.
+A floor plate that is fixed across multiple deployments enables procurement, construction, and operations efficiency that a bespoke-designed building cannot achieve. Structural components, mechanical systems, and fit-out materials can be procured at portfolio scale against standardized specifications. Contractors and building managers who deliver one deployment in the series apply learned efficiency to the next. Rollout programs exploit this learned-efficiency effect deliberately, targeting markets where multiple sequential deployments can be executed from the same standardized platform.
 
 The cost and schedule predictability of a fixed floor plate also improves underwriting confidence. A portfolio of buildings on the same floor plate has observable cost performance from prior deployments, reducing the model variance that affects first-of-kind projects.
 
@@ -40,7 +40,7 @@ Sub-prototypes are variations of the fixed plate adapted for specific site condi
 
 ## Relationship to the structural grid
 
-The [[architecture/structural-grid|structural grid]] governs column placement, span dimensions, and the mechanical distribution paths that run through the building core and floor plenum. The fixed floor plate is the three-dimensional expression of the structural grid applied at a specific storey height and bay configuration. Changes to the structural grid are changes to the floor plate — not permitted within a prototype class, by definition.
+The structural grid governs column placement, span dimensions, and the mechanical distribution paths that run through the building core and floor plenum. The fixed floor plate is the three-dimensional expression of the structural grid applied at a specific storey height and bay configuration. Changes to the structural grid are changes to the floor plate — not permitted within a prototype class, by definition.
 
 ## Building width and the European natural light standard
 

@@ -81,7 +81,7 @@ The City Code as Composable Geometry model is implemented progressively.
 
 **Stage 1 (current, planned for v0.0.3):** [[topic-asset-anchored-bim-vault|BIM Object vault]] with Specification layer complete. Regulation layer skeleton present with first overlay set: British Columbia residential (RS-1 zoning) — selected because MCorp operates in BC and is the reference customer. Climate Zone layer populated with BC temperate-coastal zone (ASHRAE 5C equivalent) performance parameters.
 
-**Stage 2 (intended, v0.1.x):** IDS 1.0 constraint file generation. For each registered Regulation overlay, a conformant IDS 1.0 file is generated from the BIM Object data and published alongside the DTCG JSON. This enables existing IDS-aware validators to consume [[pointsav-overview|PointSav]]-authored constraint specifications.
+**Stage 2 (intended, v0.1.x):** IDS 1.0 constraint file generation. For each registered Regulation overlay, a conformant IDS 1.0 file is generated from the BIM Object data and published alongside the DTCG JSON. This enables existing IDS-aware validators to consume PointSav-authored constraint specifications.
 
 **Stage 3 (intended, future):** Authoring tool integration. A plugin or API surface that delivers BIM Object constraints to IFC-capable authoring tools at placement time, not at submission time. The authoring tool receives the element palette constrained to conformant BIM Objects for the project's jurisdiction and climate zone.
 
@@ -90,5 +90,5 @@ The City Code as Composable Geometry model is implemented progressively.
 - [[topic-bim-objects-what-they-are]]
 - [[topic-bim-objects-three-layers]]
 - [[topic-flat-file-bim-leapfrog]]
-- [[open-bim-regulatory-acceptance]]
-- [[leapfrog-2030-architecture]]
+- [[topic-open-bim-regulatory-acceptance|open-bim-regulatory-acceptance]]
+- leapfrog-2030-architecture

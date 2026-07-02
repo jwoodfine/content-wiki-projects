@@ -24,7 +24,7 @@ See [[topic-location-intelligence-archetypes|Location Intelligence Co-location A
 
 ## GIS tile pipeline
 
-Cluster data is compiled into PMTiles and served at `gis.woodfinegroup.com`. The pipeline runs nightly, producing updated archetype GeoJSON files and spatial tile layers. See the [[guide-catalog|Developer Guide Catalog]] for the nightly rebuild and AEC hazard pipeline guides.
+Cluster data is compiled into PMTiles and served at `gis.woodfinegroup.com`. The pipeline runs nightly, producing updated archetype GeoJSON files and spatial tile layers. See the Developer Guide Catalog for the nightly rebuild and AEC hazard pipeline guides.
 
 ## Methodology articles
 

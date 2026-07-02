@@ -20,7 +20,7 @@ Every major BIM authoring platform ships with four interface conventions that an
 
 ### Spatial tree
 
-Every BIM authoring tool displays the spatial structure of a building as a hierarchical tree: Site contains Building, Building contains Storey, Storey contains Space, Space contains Elements. This corresponds directly to the `IfcSpatialStructureElement` hierarchy in IFC 4.3. The Building Design System `SpatialTree` component renders this hierarchy with consistent expand/collapse behaviour, selection propagation to the Viewport3D, and IFC GUID display on hover. An operator who has used any of the major authoring tools can navigate a `SpatialTree` without reading [[glossary-documentation|documentation]].
+Every BIM authoring tool displays the spatial structure of a building as a hierarchical tree: Site contains Building, Building contains Storey, Storey contains Space, Space contains Elements. This corresponds directly to the `IfcSpatialStructureElement` hierarchy in IFC 4.3. The Building Design System `SpatialTree` component renders this hierarchy with consistent expand/collapse behaviour, selection propagation to the Viewport3D, and IFC GUID display on hover. An operator who has used any of the major authoring tools can navigate a `SpatialTree` without reading documentation.
 
 ### Properties panel
 
@@ -61,6 +61,6 @@ A shared interface vocabulary means that the coordination viewer does not introd
 
 ## Relationship to the Design System Substrate
 
-The [[topic-building-design-system-bim|Building Design System]] is a BIM-semantic extension of the [[design-system-substrate|Carbon Design System baseline]]. Carbon provides the foundational UI primitives — buttons, inputs, data tables, [[design-color|colour tokens]], [[design-typography|typography]] scale. The Building Design System adds the AEC-semantic layer on top: the ten universal interface components and the eight [[topic-bim-objects-what-they-are|BIM Object]] primitive categories.
+The [[topic-building-design-system-bim|Building Design System]] is a BIM-semantic extension of the Carbon Design System baseline. Carbon provides the foundational UI primitives — buttons, inputs, data tables, colour tokens, typography scale. The Building Design System adds the AEC-semantic layer on top: the ten universal interface components and the eight [[topic-bim-objects-what-they-are|BIM Object]] primitive categories.
 
 A designer who contributes to the Carbon-based platform design surface uses the same token and component authoring workflow to contribute a new BIM component to the [[topic-bim-objects-substrate|BIM Object catalog]]. The substrate is the same; the semantic domain is different.

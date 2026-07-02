@@ -18,7 +18,7 @@ A [[topic-bim-objects-what-they-are|BIM Object]] has three layers: Specification
 
 ## Why Three Layers
 
-Software [[design-system-substrate|design system tokens]] typically have two concerns: what a value IS (its semantic role — primary [[design-color|colour]], heading size) and what value it resolves to (its computed output — `#164679`, `24px`). BIM Objects address a fundamentally different problem space that requires three concerns.
+Software design system tokens typically have two concerns: what a value IS (its semantic role — primary colour, heading size) and what value it resolves to (its computed output — `#164679`, `24px`). BIM Objects address a fundamentally different problem space that requires three concerns.
 
 ### Three questions every element specification answers
 
@@ -46,7 +46,7 @@ The Specification layer is the object's permanent identity. It does not vary by 
 | `applicable_psets` | Applicable IFC Property Sets | Array of Pset names |
 | `dtcg_type` | DTCG type extension | `bim-element`, `bim-material`, etc. |
 
-The Specification layer is authored once per BIM Object and promoted through the [[five-stage-supply-chain|standard design-system pipeline]] (vendor → customer → deployment). Changes to the Specification layer require a version bump and changelog entry.
+The Specification layer is authored once per BIM Object and promoted through the standard design-system pipeline (vendor → customer → deployment). Changes to the Specification layer require a version bump and changelog entry.
 
 **IFC entity hierarchy breadcrumb.** Every Specification record includes the full IFC inheritance path from `IfcRoot` to the specific class. For `IfcWall`:
 
@@ -169,5 +169,5 @@ The BIM Object Regulation layer consumes the IFC Property Set structure but adds
 
 - [[topic-bim-objects-what-they-are]] — what a BIM Object is and how it differs from IFC entity types, Revit families, and property sets
 - [[topic-bim-objects-substrate]] — the eight BIM Object primitive categories and their DTCG delivery format
-- [[open-bim-regulatory-acceptance]] — how jurisdictions are adopting open BIM standards
+- [[topic-open-bim-regulatory-acceptance|open-bim-regulatory-acceptance]] — how jurisdictions are adopting open BIM standards
 - [[topic-building-design-system-bim]] — the broader Building Design System for the built environment
