@@ -48,7 +48,7 @@ ciudades.
 ## Características del mercado inmobiliario comercial
 
 El corredor de Haywood Road / Woodruff Road en el este de Greenville es la concentración
-primaria de power centres y comercio minorista suburbano, que incluye Costco, Home Depot,
+primaria de [[power-centres|power centres]] y comercio minorista suburbano, que incluye Costco, Home Depot,
 Lowe's, Walmart Supercenter, Target, Best Buy y un ecosistema minorista integral de
 medianas y grandes superficies. Este corredor, que corre aproximadamente paralelo a la
 Interestatal 85, se extiende hacia Mauldin y Simpsonville al sur.

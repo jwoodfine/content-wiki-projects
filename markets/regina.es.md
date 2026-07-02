@@ -40,7 +40,7 @@ y estudiantiles.
 
 ## Características del mercado inmobiliario comercial
 
-Los nodos primarios de power centre de Regina se concentran en el extremo norte de la ciudad
+Los nodos primarios de [[power-centres|power centre]] de Regina se concentran en el extremo norte de la ciudad
 a lo largo de Albert Street North y el Northgate Shopping District, así como a lo largo de
 Victoria Avenue en el extremo este. Costco, Home Depot, Walmart Supercentre y Canadian Tire
 anclan los principales nodos minoristas.

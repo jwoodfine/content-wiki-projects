@@ -24,7 +24,7 @@ Barañáin tenía una población de aproximadamente 350.000 habitantes en 2021. 
 consistentemente una de las comunidades autónomas con mayores ingresos de España, con
 niveles de ingresos familiares comparables al País Vasco y sustancialmente por encima del
 promedio nacional español. Este perfil de ingresos es el criterio de selección de mercados
-primario para la inversión en co-ubicación.
+primario para la inversión en [[co-location-strategy|co-ubicación]].
 
 ## Perfil económico
 

@@ -18,11 +18,11 @@ paired_with: site-selection-terminology.md
 cites: []
 ---
 
-Este glosario define los términos utilizados en la metodología de selección de sitios y desarrollo de Woodfine Management Corp. tal como aparecen en los análisis de co-ubicación, materiales para inversores e Informes de Resumen de Transacción. Donde un término tiene un significado técnico específico que difiere de su uso común, la definición técnica se establece explícitamente.
+Este glosario define los términos utilizados en la metodología de selección de sitios y desarrollo de Woodfine Management Corp. tal como aparecen en los análisis de [[co-location-strategy|co-ubicación]], materiales para inversores e [[transaction-summary-report-protocol|Informes de Resumen de Transacción]]. Donde un término tiene un significado técnico específico que difiere de su uso común, la definición técnica se establece explícitamente.
 
 ## Inversión Calificada
 
-Una **Inversión Calificada** es un sitio de desarrollo que satisface todos los criterios de selección de sitios de Woodfine: co-ubicación en o inmediatamente adyacente a un ancla de Centro Comercial en operación, terreno suficiente para acomodar las combinaciones de Prototipo requeridas en una configuración de Diseño Campus, y estado de permiso y zonificación aceptable para el desarrollo previsto dentro de un plazo factible.
+Una **Inversión Calificada** es un sitio de desarrollo que satisface todos los criterios de selección de sitios de Woodfine: co-ubicación en o inmediatamente adyacente a un ancla de [[power-centres|Centro Comercial]] en operación, terreno suficiente para acomodar las combinaciones de Prototipo requeridas en una configuración de Diseño Campus, y estado de permiso y zonificación aceptable para el desarrollo previsto dentro de un plazo factible.
 
 El criterio de co-ubicación es la condición determinante: un sitio sin un ancla de Centro Comercial no califica para análisis posterior bajo la metodología de Woodfine, independientemente de su perfil demográfico o disponibilidad de terreno. Los sitios con requisitos de rezonificación que se extienden más allá de aproximadamente siete años no se contabilizan contra los totales de desarrollo requeridos, aunque pueden permanecer en el registro de identificación de sitios para referencia futura.
 
@@ -52,6 +52,6 @@ La **shortlist de sitios** es el número de sitios candidatos que la metodologí
 
 ## Informe de Resumen de Transacción
 
-Un **Informe de Resumen de Transacción** es un documento específico del sitio preparado para cada candidato a Sitio de Desarrollo que supera el umbral de puntuación de co-ubicación y tiene disponibilidad de terreno confirmada. El informe presenta el perfil demográfico de la ubicación del Objetivo Primario, el patrón de comercio secundario en esa ubicación, y una comparación con el punto de referencia del Mosaico Óptimo.
+Un **Informe de Resumen de Transacción** es un documento específico del sitio preparado para cada candidato a Sitio de Desarrollo que supera el umbral de puntuación de co-ubicación y tiene disponibilidad de terreno confirmada. El informe presenta el perfil demográfico de la ubicación del Objetivo Primario, el patrón de comercio secundario en esa ubicación, y una comparación con el punto de referencia del [[optimum-mosaic-demographic-profiling|Mosaico Óptimo]].
 
 Los Informes de Resumen de Transacción se preparan en un formato de plantilla estandarizado para apoyar la revisión por parte de los Directores Independientes del Socio General. El formato de plantilla permite al Consejo evaluar múltiples candidatos en términos coherentes en lugar de sitio por sitio en forma aislada.

@@ -21,7 +21,7 @@ editor: editorial
 
 # Wichita, Kansas — Mercado Regional
 
-Wichita es la ciudad más grande de Kansas y ocupa el puesto 16 entre los 400 Mercados Regionales norteamericanos con mayor puntuación en el índice compuesto de co-localización. El mercado contiene cuatro clústeres de co-localización de Nivel 1 — el nivel más alto, que requiere la presencia simultánea de anclas de hipermercado, ferretería y club de almacén — y se distingue por su infraestructura cívica, que incluye múltiples campus hospitalarios y la Universidad Estatal de Wichita. Ubicada a 250 kilómetros de Oklahoma City, el centro metropolitano de referencia más cercano, Wichita funciona como el principal núcleo comercial del sur-centro de Kansas.
+Wichita es la ciudad más grande de Kansas y ocupa el puesto 16 entre los 400 [[regional-markets|Mercados Regionales]] norteamericanos con mayor puntuación en el índice compuesto de [[co-location-strategy|co-localización]]. El mercado contiene cuatro clústeres de co-localización de Nivel 1 — el nivel más alto, que requiere la presencia simultánea de anclas de hipermercado, ferretería y club de almacén — y se distingue por su infraestructura cívica, que incluye múltiples campus hospitalarios y la Universidad Estatal de Wichita. Ubicada a 250 kilómetros de Oklahoma City, el centro metropolitano de referencia más cercano, Wichita funciona como el principal núcleo comercial del sur-centro de Kansas.
 
 ## Descripción general
 

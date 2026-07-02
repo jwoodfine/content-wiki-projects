@@ -18,7 +18,7 @@ short_description: "Los clústeres de Viajero Habitual (PKS) identifican sitios 
 cites: []
 ---
 
-Los clústeres de **Viajero Habitual** (PKS) identifican sitios comerciales adyacentes al tránsito organizados en torno a un aparcamiento significativo. Son las estaciones de cercanías, los intercambiadores de tránsito regional, los aparcamientos de disuasión y los nodos comerciales de salida de autopista donde los residentes de un mercado regional conducen hasta un punto de tránsito, dejan el coche y viajan hacia un mercado metropolitano. La infraestructura de aparcamiento que hace posible este viaje a escala es la característica definitoria del arquetipo.
+Los clústeres de **Viajero Habitual** (PKS) identifican sitios comerciales adyacentes al tránsito organizados en torno a un aparcamiento significativo. Son las estaciones de cercanías, los intercambiadores de tránsito regional, los aparcamientos de disuasión y los nodos comerciales de salida de autopista donde los residentes de un [[regional-markets|mercado regional]] conducen hasta un punto de tránsito, dejan el coche y viajan hacia un mercado metropolitano. La infraestructura de aparcamiento que hace posible este viaje a escala es la característica definitoria del arquetipo.
 
 Código de tres letras: **PKS**. Uno de los tres arquetipos de Inteligencia de Localización junto a los [[topic-retail-centres|Centros Comerciales de Barrio (PRO)]] y a la [[topic-urban-fringe|Periferia Urbana (VWH)]]. El Viajero Habitual es un arquetipo de superposición que identifica la estructura de mercado adyacente al tránsito que no captura la agrupación de Centros Comerciales de Barrio anclada en alimentación.
 
@@ -112,7 +112,7 @@ Las anclas de tránsito con un clúster de Centro Comercial de Barrio T1 a menos
 
 ## Investigación relacionada
 
-Un estudio académico complementario, *El arquetipo del Viajero Habitual: La concentración de alquiler de vehículos como indicador de co-localización comercial adyacente al tránsito*, está en preparación para su presentación prevista en el Journal of Transport Geography (Elsevier). El estudio identifica 14.332 candidatos del arquetipo Viajero Habitual en dieciocho países utilizando datos de OpenStreetMap y documenta una proporción ferroviario-aeroportuaria de aproximadamente 88% a 12%, con una tasa de integración del 27% con clústeres de co-localización comercial adyacentes.
+Un estudio académico complementario, *El arquetipo del Viajero Habitual: La concentración de alquiler de vehículos como indicador de co-localización comercial adyacente al tránsito*, está en preparación para su presentación prevista en el Journal of Transport Geography (Elsevier). El estudio identifica 14.332 candidatos del arquetipo Viajero Habitual en dieciocho países utilizando datos de OpenStreetMap y documenta una proporción ferroviario-aeroportuaria de aproximadamente 88% a 12%, con una tasa de integración del 27% con clústeres de [[co-location-strategy|co-localización]] comercial adyacentes.
 
 ## Véase también
 

@@ -18,7 +18,7 @@ paired_with: co-location-target-hierarchy.md
 cites: []
 ---
 
-La **Jerarquía de Objetivos de Co-Ubicación** es el sistema de clasificación de tres niveles que estructura el conjunto de datos de co-ubicación geográfica de Woodfine Management Corp. Cada nivel asigna una categoría de operador minorista o empleador institucional al papel que desempeña en la validación de un Sitio de Desarrollo potencial. La jerarquía refleja la secuencia observada de desarrollo comercial en Mercados Regionales: los Objetivos Primarios anclan el nodo minorista, los Secundarios siguen al Primario, y los Terciarios confirman que existe una base de demanda institucional para el arrendamiento de servicios profesionales en la geografía.
+La **Jerarquía de Objetivos de Co-Ubicación** es el sistema de clasificación de tres niveles que estructura el conjunto de datos de co-ubicación geográfica de Woodfine Management Corp. Cada nivel asigna una categoría de operador minorista o empleador institucional al papel que desempeña en la validación de un Sitio de Desarrollo potencial. La jerarquía refleja la secuencia observada de desarrollo comercial en [[regional-markets|Mercados Regionales]]: los Objetivos Primarios anclan el nodo minorista, los Secundarios siguen al Primario, y los Terciarios confirman que existe una base de demanda institucional para el arrendamiento de servicios profesionales en la geografía.
 
 ## Objetivo Primario: Walmart Supercentre
 
@@ -40,7 +40,7 @@ Los Objetivos Secundarios reciben un umbral de co-ocurrencia de 1,0 km porque su
 
 Las dos categorías de Objetivos Terciarios son las instituciones educativas de nivel superior (universidades y colegios) y los centros médicos importantes. Ambos generan demanda sostenida e institucionalmente anclada para el arrendamiento de servicios profesionales en la geografía circundante.
 
-**Universidades y colegios** son empleadores de personal administrativo, investigación, clínico y de instalaciones que requieren servicios profesionales — legal, contable, asesoría financiera, médico y dental — en la zona cercana a su lugar de trabajo diario. Una institución de educación superior dentro de 5,0 km de un nodo de Centro Comercial es una fuente confirmada de demanda de arrendamiento profesional que no depende del rendimiento comercial del ancla minorista.
+**Universidades y colegios** son empleadores de personal administrativo, investigación, clínico y de instalaciones que requieren servicios profesionales — legal, contable, asesoría financiera, médico y dental — en la zona cercana a su lugar de trabajo diario. Una institución de educación superior dentro de 5,0 km de un nodo de [[power-centres|Centro Comercial]] es una fuente confirmada de demanda de arrendamiento profesional que no depende del rendimiento comercial del ancla minorista.
 
 **Los centros médicos importantes** son algunos de los empleadores institucionales más estables en cualquier Mercado Regional. Las sedes de centros médicos atraen prácticas médicas afiliadas, clínicas especializadas, operadores de diagnóstico y minoristas farmacéuticos que requieren arrendamientos dedicados.
 
@@ -48,4 +48,4 @@ El umbral de 5,0 km para la co-ocurrencia terciaria refleja que los Objetivos Te
 
 ## Secuenciación de la Jerarquía y Validación del Mercado
 
-La jerarquía está diseñada para capturar la lógica de validación secuencial que los operadores comerciales institucionales aplican en los Mercados Regionales. Cada nivel añade una señal de validación independiente: Walmart valida el volumen del consumidor; Home Depot y Costco validan la capacidad de compra y la actividad comercial; universidades y centros médicos validan la demanda de arrendamiento de servicios profesionales. El sistema de Clústeres de Cinco Grados agrega estas señales independientes en una puntuación compuesta.
+La jerarquía está diseñada para capturar la lógica de validación secuencial que los operadores comerciales institucionales aplican en los Mercados Regionales. Cada nivel añade una señal de validación independiente: Walmart valida el volumen del consumidor; Home Depot y Costco validan la capacidad de compra y la actividad comercial; universidades y centros médicos validan la demanda de arrendamiento de servicios profesionales. El [[geographic-co-location-methodology|sistema de Clústeres de Cinco Grados]] agrega estas señales independientes en una puntuación compuesta.

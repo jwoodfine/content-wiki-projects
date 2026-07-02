@@ -45,10 +45,10 @@ requieren servicios minoristas, médicos y profesionales locales.
 ## Características del mercado inmobiliario comercial
 
 El nodo comercial primario del mercado se concentra en Mapleview Drive West y Big Bay Point
-Road en el sur de Barrie, donde se concentran los principales anclas de power centres. Este
+Road en el sur de Barrie, donde se concentran los principales anclas de [[power-centres|power centres]]. Este
 nodo incluye el comercio minorista de gran formato — Costco, Home Depot, Best Buy, Winners,
 Sport Chek — junto con formatos minoristas comunitarios y de restauración que confirman el
-perfil de ingresos y demanda requerido para la co-ubicación de centros profesionales.
+perfil de ingresos y demanda requerido para la [[co-location-strategy|co-ubicación]] de centros profesionales.
 
 El Georgian Mall en el centro de Barrie ancla una zona comercial secundaria con comercio
 minorista mediano y de moda. El corredor comercial de Innisfil a lo largo de Innisfil Beach

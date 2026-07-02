@@ -22,9 +22,9 @@ cites:
 
 ---
 
-La plataforma de inteligencia de co-ubicación de Woodfine cubre ahora Noruega con 66 nodos minoristas puntuados — la primera vez que los corredores minoristas noruegos aparecen en el conjunto de datos. La expansión refleja la incorporación de datos de ubicación para Obs Bygg, el formato de bricolaje operado por Coop Norge, y su co-ocurrencia sistemática con los hipermercados Obs Coop en todo el país.
+La plataforma de inteligencia de [[co-location-strategy|co-ubicación]] de Woodfine cubre ahora Noruega con 66 nodos minoristas puntuados — la primera vez que los corredores minoristas noruegos aparecen en el conjunto de datos. La expansión refleja la incorporación de datos de ubicación para Obs Bygg, el formato de bricolaje operado por Coop Norge, y su co-ocurrencia sistemática con los hipermercados Obs Coop en todo el país.
 
-Suecia y el Reino Unido registraron mejoras materiales en la cobertura. En Suecia, la incorporación de Bauhaus Sverige como ancla secundaria de ferretería habilitó la puntuación de co-ubicación en los nodos IKEA de Estocolmo, Gotemburgo y otras seis áreas metropolitanas. En el Reino Unido, la confirmación de 356 ubicaciones verificadas de B&Q resolvió una brecha de datos previa, generando 24 nodos puntuados al radio de 3 km — incluyendo sitios próximos a Londres, Birmingham y Edimburgo.
+Suecia y el [[united-kingdom-markets|Reino Unido]] registraron mejoras materiales en la cobertura. En Suecia, la incorporación de Bauhaus Sverige como ancla secundaria de ferretería habilitó la puntuación de co-ubicación en los nodos IKEA de Estocolmo, Gotemburgo y otras seis áreas metropolitanas. En el Reino Unido, la confirmación de 356 ubicaciones verificadas de B&Q resolvió una brecha de datos previa, generando 24 nodos puntuados al radio de 3 km — incluyendo sitios próximos a Londres, Birmingham y Edimburgo.
 
 El conjunto de datos europeo incluye ahora 479 agrupaciones puntuadas al radio estándar de 3 km, frente a las 466 anteriores.
 

@@ -48,7 +48,7 @@ en un ancla institucional más visible.
 La concentración primaria de parques de venta minorista de Northampton está en el Riverside
 Retail Park y el Nene Valley Retail Park a lo largo del corredor oriental de la A45, donde
 Marks & Spencer, Next, Costco, Home Bargains, B&Q y supermercados anclan una franja minorista
-integral equivalente al power centre. El Sixfields Leisure and Retail Park al oeste proporciona
+integral equivalente al [[power-centres|power centre]]. El Sixfields Leisure and Retail Park al oeste proporciona
 capacidad adicional de gran formato.
 
 La demanda de oficinas profesionales en Northampton está impulsada por la ingeniería y

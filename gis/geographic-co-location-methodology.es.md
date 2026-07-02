@@ -26,7 +26,7 @@ La metodología produce cinco grados de clústeres, cada uno representando un ni
 
 Los cinco grados de clústeres se construyen a partir de dos umbrales de radio: un umbral de 1,0 km aplicado a la co-ocurrencia de Objetivos Primarios y Secundarios, y un umbral de 5,0 km aplicado a la proximidad de Objetivos Terciarios. Cada grado se construye sobre el anterior.
 
-**Clúster de Primer Grado** — Un sitio de Objetivo Primario (Walmart Supercentre) con alguno de los dos Objetivos Secundarios (Home Depot o Costco Wholesale) ubicados dentro de 1,0 km entre sí. Es el indicador de base de una Inversión Calificada: la co-presencia de un operador de comestibles en volumen y un gran minorista de mejoras para el hogar o almacén de membresía a 1,0 km confirma que la geografía cumple los umbrales de dos operadores minoristas institucionalmente distintos.
+**Clúster de Primer Grado** — Un sitio de [[co-location-target-hierarchy|Objetivo Primario]] (Walmart Supercentre) con alguno de los dos Objetivos Secundarios (Home Depot o Costco Wholesale) ubicados dentro de 1,0 km entre sí. Es el indicador de base de una Inversión Calificada: la co-presencia de un operador de comestibles en volumen y un gran minorista de mejoras para el hogar o almacén de membresía a 1,0 km confirma que la geografía cumple los umbrales de dos operadores minoristas institucionalmente distintos.
 
 **Clúster de Segundo Grado** — Un Clúster de Primer Grado con cualquiera de los Objetivos Terciarios (institución de educación superior o centro médico importante) ubicado dentro de 5,0 km. La adición de un Objetivo Terciario introduce una fuente de demanda para el arrendamiento de servicios profesionales que es estructuralmente independiente del nodo minorista.
 
@@ -38,7 +38,7 @@ Los cinco grados de clústeres se construyen a partir de dos umbrales de radio: 
 
 ## Calibración del Radio
 
-El umbral de 1,0 km para la co-ocurrencia Primario-Secundario refleja la realidad operativa del diseño de sitios de centros comerciales. El umbral de 5,0 km para la co-ocurrencia terciaria refleja el patrón de captación más amplio de los empleadores institucionales.
+El umbral de 1,0 km para la co-ocurrencia Primario-Secundario refleja la realidad operativa del diseño de sitios de [[power-centres|centros comerciales]]. El umbral de 5,0 km para la co-ocurrencia terciaria refleja el patrón de captación más amplio de los empleadores institucionales.
 
 Si los Clústeres de Quinto Grado representan más del 10% de todas las entradas de Objetivo Primario en el conjunto de datos completo, los umbrales se recalibran: el umbral de proximidad terciaria se reduce de 5,0 km a 3,0 km, y el umbral Primario-Secundario se reduce de 1,0 km a menos de 1,0 km.
 

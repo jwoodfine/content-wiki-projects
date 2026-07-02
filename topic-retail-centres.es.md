@@ -20,7 +20,7 @@ cites: []
 
 Los **Centros Comerciales de Barrio** (PRO) son centros comerciales de proximidad anclados por el comercio minorista de necesidades cotidianas: un hipermercado de alimentación, una farmacia, una sucursal bancaria y restauración informal. El arquetipo captura la gravedad comercial anclada en alimentación que organiza la actividad de consumo local — el grupo de tiendas que los residentes visitan semanalmente para sus compras rutinarias, banca y comidas.
 
-Código de tres letras: **PRO**. Uno de los tres arquetipos de Inteligencia de Localización junto al [[topic-urban-fringe|Periferia Urbana (VWH)]] y al [[topic-commuter|Viajero Habitual (PKS)]]. PRO es el producto cartográfico base — la base del conjunto de datos de selección de sitios sobre el cual se superponen los otros dos arquetipos.
+Código de tres letras: **PRO**. Uno de los tres arquetipos de Inteligencia de Localización junto al [[topic-urban-fringe|Periferia Urbana (VWH)]] y al [[topic-commuter|Viajero Habitual (PKS)]]. PRO es el producto cartográfico base — la base del conjunto de datos de [[site-selection-terminology|selección de sitios]] sobre el cual se superponen los otros dos arquetipos.
 
 ## Qué es un Centro Comercial de Barrio
 
@@ -32,7 +32,7 @@ Un Centro Comercial de Barrio es el corazón comercial de una zona residencial. 
 - **Restauración informal** — restaurantes de servicio rápido y de mesa que atienden la misma zona de captación
 - **Comercio secundario** — ferretería, electrónica, tiendas club y comercio de estilo de vida que profundizan el atractivo del centro
 
-El tráfico de consumidores en un Centro Comercial de Barrio es constante y se distribuye ampliamente a lo largo de la semana, con picos de fin de semana impulsados por las compras de alimentación del hogar. La señal definitoria es la co-localización anclada en alimentación: donde un hipermercado de alimentación y una ferretería se agrupan dentro de una distancia definida, hay un Centro Comercial de Barrio.
+El tráfico de consumidores en un Centro Comercial de Barrio es constante y se distribuye ampliamente a lo largo de la semana, con picos de fin de semana impulsados por las compras de alimentación del hogar. La señal definitoria es la [[co-location-strategy|co-localización]] anclada en alimentación: donde un hipermercado de alimentación y una ferretería se agrupan dentro de una distancia definida, hay un Centro Comercial de Barrio.
 
 ## Clasificación por niveles
 
@@ -61,7 +61,7 @@ El límite de distancia de T2 se fijó en 2,5 km en la reconstrucción más reci
 
 ## Por qué PRO es el mapa base
 
-Los Centros Comerciales de Barrio anclan todo el conjunto de datos de Inteligencia de Localización porque la co-localización anclada en alimentación es el patrón comercial más estable y ampliamente distribuido. Casi toda zona de captación poblada tiene un ancla de alimentación; el centro que se forma a su alrededor es un indicador fiable de la gravedad comercial residencial. Los arquetipos Periferia Urbana y Viajero Habitual se definen en parte en relación con los clústeres PRO — los sitios de Periferia Urbana se identifican por la *ausencia* de anclas de alimentación, y los sitios de Viajero Habitual hacen referencia al Centro Comercial de Barrio T1/T2 más cercano como el mercado regional que genera su demanda de aparcamiento.
+Los Centros Comerciales de Barrio anclan todo el conjunto de datos de Inteligencia de Localización porque la co-localización anclada en alimentación es el patrón comercial más estable y ampliamente distribuido. Casi toda zona de captación poblada tiene un ancla de alimentación; el centro que se forma a su alrededor es un indicador fiable de la gravedad comercial residencial. Los arquetipos Periferia Urbana y Viajero Habitual se definen en parte en relación con los clústeres PRO — los sitios de Periferia Urbana se identifican por la *ausencia* de anclas de alimentación, y los sitios de Viajero Habitual hacen referencia al Centro Comercial de Barrio T1/T2 más cercano como el [[regional-markets|mercado regional]] que genera su demanda de aparcamiento.
 
 ## Véase también
 

@@ -43,7 +43,7 @@ y planificación patrimonial ancla la ocupación de servicios profesionales.
 
 ## Características del mercado inmobiliario comercial
 
-El nodo primario de power centre en Kelowna se concentra a lo largo de Harvey Avenue
+El nodo primario de [[power-centres|power centre]] en Kelowna se concentra a lo largo de Harvey Avenue
 (Highway 97) y el área de Orchard Park, con Costco, Home Depot, Walmart y Canadian Tire
 como anclas del comercio minorista de gran formato. El Orchard Park Shopping Centre es el
 centro comercial cerrado dominante para la región de Okanagan, atrayendo compradores de

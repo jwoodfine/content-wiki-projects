@@ -19,7 +19,7 @@ paired_with: wiki-structure.md
 ---
 
 La historia de la empresa empieza con una frase: construye espacio
-arrendable cerca de los centros de poder (Power Centres) — grandes
+arrendable cerca de los [[power-centres|centros de poder]] (Power Centres) — grandes
 emplazamientos comerciales anclados por un inquilino tipo gran superficie
 — para que los negocios que arriendan sus edificios capten el tránsito de
 personas, la visibilidad y el acceso del ancla. Esta base de conocimiento
@@ -29,7 +29,7 @@ definido enlaza con el glosario.
 
 ## Los edificios
 
-**Los edificios** describe las seis clases de desarrollo — Professional
+**Los edificios** describe las seis [[development-classes|clases de desarrollo]] — Professional
 Centres (de tres a cinco plantas), Suburban Office (de seis a quince
 plantas), Retail Select (una sola planta), Tech Industrial y las previstas
 Parking Structures y Vertical Warehouses — cada una diseñada según un
@@ -38,11 +38,11 @@ prototipo fijo, con los inquilinos y la economía de cada clase.
 ## Cómo construimos
 
 **Cómo construimos** es el sistema de diseño: edificios concebidos desde
-las necesidades del inquilino hacia afuera, plantas de dimensiones fijas y
-las normas de medición y certificaciones a las que se someten los
+las necesidades del inquilino hacia afuera, [[fixed-floor-plates|plantas de dimensiones fijas]] y
+las [[boma-standard|normas de medición y certificaciones]] a las que se someten los
 edificios, incluida la práctica BIM.
 
-**Arquitectura y estilos de diseño** recorre la cultura de diseño en la
+**[[architecture-overview|Arquitectura y estilos de diseño]]** recorre la cultura de diseño en la
 que se enmarcan los edificios, desde los movimientos clásicos hasta los
 contemporáneos.
 

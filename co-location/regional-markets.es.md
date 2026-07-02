@@ -21,7 +21,7 @@ cites:
   - osc-sn-51-721
 ---
 
-Los mercados regionales son el foco geográfico principal de los desarrollos de tenencia directa de Woodfine. Son ciudades y áreas metropolitanas con poblaciones típicamente entre 50.000 y 300.000 habitantes, ubicadas fuera de los distritos centrales de negocios de las grandes metrópolis que caracterizan los mercados de oficinas tradicionales. Los mercados regionales comparten varias características estructurales que los hacen adecuados para los desarrollos de co-localización: alto ingreso disponible de los hogares en relación con los costos inmobiliarios locales, patrones de movilidad basados en el automóvil, oferta inmobiliaria comercial insuficiente e inversión minorista nacional establecida.
+Los mercados regionales son el foco geográfico principal de los desarrollos de tenencia directa de Woodfine. Son ciudades y áreas metropolitanas con poblaciones típicamente entre 50.000 y 300.000 habitantes, ubicadas fuera de los distritos centrales de negocios de las grandes metrópolis que caracterizan los mercados de oficinas tradicionales. Los mercados regionales comparten varias características estructurales que los hacen adecuados para los desarrollos de [[co-location-strategy|co-localización]]: alto ingreso disponible de los hogares en relación con los costos inmobiliarios locales, patrones de movilidad basados en el automóvil, oferta inmobiliaria comercial insuficiente e inversión minorista nacional establecida.
 
 ## Por qué mercados regionales y no grandes metrópolis
 
@@ -37,7 +37,7 @@ La presencia de inversión minorista nacional en un mercado regional es en sí m
 
 ## Los 400 principales mercados regionales
 
-El marco de selección de sitios identifica un conjunto global de aproximadamente 400 mercados regionales — en América del Norte, Europa y otras economías de la OCDE — que cumplen los umbrales de población, ingresos e infraestructura minorista para la evaluación de co-localización. Estos mercados se puntúan y clasifican mediante el [[topic-co-location-ranking-system|sistema de clasificación de co-localización]], con prioridad para los mercados donde tanto la inversión en centros de potencia como la demanda de inquilinos profesionales están confirmadas.
+El [[site-selection-terminology|marco de selección de sitios]] identifica un conjunto global de aproximadamente 400 mercados regionales — en América del Norte, Europa y otras economías de la OCDE — que cumplen los umbrales de población, ingresos e infraestructura minorista para la evaluación de co-localización. Estos mercados se puntúan y clasifican mediante el [[topic-co-location-ranking-system|sistema de clasificación de co-localización]], con prioridad para los mercados donde tanto la inversión en [[power-centres|centros de potencia]] como la demanda de inquilinos profesionales están confirmadas.
 
 ## Distinción de los submercados de las áreas metropolitanas
 

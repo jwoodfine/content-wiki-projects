@@ -21,7 +21,7 @@ editor: editorial
 
 # Colorado Springs, Colorado — Mercado Regional
 
-Colorado Springs es una ciudad de aproximadamente 479.000 habitantes en el condado de El Paso, Colorado, y ocupa el puesto 14 entre los 400 Mercados Regionales norteamericanos con mayor puntuación. El mercado contiene 7 clústeres de co-localización, incluidos 2 de Nivel 1, 4 de Nivel 2 y 1 de Nivel 3, distribuidos a lo largo de los corredores comerciales del este y noreste de la ciudad. Ubicada a 95,6 kilómetros al sur de Denver, Colorado Springs opera como una economía regional autónoma anclada en instalaciones militares, educación superior y un sustancial sector sanitario, todos ellos presentes dentro de sus clústeres de co-localización.
+Colorado Springs es una ciudad de aproximadamente 479.000 habitantes en el condado de El Paso, Colorado, y ocupa el puesto 14 entre los 400 [[regional-markets|Mercados Regionales]] norteamericanos con mayor puntuación. El mercado contiene 7 clústeres de [[co-location-strategy|co-localización]], incluidos 2 de Nivel 1, 4 de Nivel 2 y 1 de Nivel 3, distribuidos a lo largo de los corredores comerciales del este y noreste de la ciudad. Ubicada a 95,6 kilómetros al sur de Denver, Colorado Springs opera como una economía regional autónoma anclada en instalaciones militares, educación superior y un sustancial sector sanitario, todos ellos presentes dentro de sus clústeres de co-localización.
 
 ## Descripción general
 

@@ -38,7 +38,7 @@ mediano que supera consistentemente las medianas de Colorado y de EE. UU.
 
 ## Características del mercado inmobiliario comercial
 
-La concentración primaria de power centres de Fort Collins está en el lado sur de la ciudad
+La concentración primaria de [[power-centres|power centres]] de Fort Collins está en el lado sur de la ciudad
 a lo largo del corredor de South College Avenue, donde una franja minorista continua de gran
 formato se extiende desde el Fort Collins Marketplace hasta Harmony Road. Este corredor
 incluye Costco, Home Depot, Lowe's, Walmart Supercenter, Target y Best Buy.

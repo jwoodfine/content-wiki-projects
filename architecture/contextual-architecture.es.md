@@ -27,13 +27,13 @@ keynote_section: "Architecture"
 
 La arquitectura contextual es un enfoque de diseño que trata la relación de un edificio con su entorno como una restricción de diseño primaria. Un edificio contextual responde a la altura, el retranqueo, la paleta de materiales y los patrones de uso de las estructuras adyacentes, en lugar de afirmar su propia identidad arquitectónica con independencia de lo que le rodea. El enfoque se contrapone a la arquitectura de objeto, en la que un edificio se diseña como una declaración formal autónoma con independencia de lo que le circunda.
 
-El enfoque contextual fue articulado como posición crítica en las décadas de 1960 y 1970, en parte como respuesta a los programas de renovación urbana que reemplazaron el tejido construido existente por torres modernas aisladas en plazas abiertas. Críticos como Jane Jacobs, Colin Rowe y Fred Koetter argumentaron que los entornos urbanos coherentes dependen de las relaciones acumuladas entre edificios, no de la excelencia arquitectónica individual. El Congreso para el Nuevo Urbanismo y el movimiento de diseño urbano posterior a 1990 adoptaron los principios contextuales como fundamento del diseño de barrios.
+El enfoque contextual fue articulado como posición crítica en las décadas de 1960 y 1970, en parte como respuesta a los programas de renovación urbana que reemplazaron el tejido construido existente por torres modernas aisladas en plazas abiertas. Críticos como Jane Jacobs, Colin Rowe y Fred Koetter argumentaron que los entornos urbanos coherentes dependen de las relaciones acumuladas entre edificios, no de la excelencia arquitectónica individual. El Congreso para el [[new-urbanism|Nuevo Urbanismo]] y el movimiento de diseño urbano posterior a 1990 adoptaron los principios contextuales como fundamento del diseño de barrios.
 
 ## Características de diseño
 
 Los edificios contextuales se evalúan por la eficacia con que continúan el patrón urbano existente, y no por criterios formales independientes. Los parámetros contextuales clave incluyen:
 
-**Escala y volumen.** Un edificio contextual iguala la altura dominante y la masa volumétrica de la manzana en que se ubica. Un edificio de seis plantas insertado en una manzana de edificaciones vernáculas comerciales de dos plantas fracasa contextualmente aunque esté bien diseñado de forma aislada. El volumen en transición — reduciendo gradualmente la altura al encontrarse con un edificio vecino de menor escala — es una técnica contextual estándar.
+**Escala y volumen.** Un edificio contextual iguala la altura dominante y la masa volumétrica de la manzana en que se ubica. Un edificio de seis plantas insertado en una manzana de edificaciones [[vernacular-architecture|vernáculas]] comerciales de dos plantas fracasa contextualmente aunque esté bien diseñado de forma aislada. El volumen en transición — reduciendo gradualmente la altura al encontrarse con un edificio vecino de menor escala — es una técnica contextual estándar.
 
 **Retranqueo y relación con la calle.** Los edificios contextuales siguen la línea de retranqueo predominante de su manzana, prolongando la fachada hasta el mismo plano que las estructuras adyacentes. En calles comerciales consolidadas esto significa construir en el límite de la parcela, con escaso o nulo retranqueo frontal. El aparcamiento en superficie delante de un edificio comercial contextual constituye un fracaso contextual que interrumpe la continuidad de la alineación de fachadas.
 
@@ -53,11 +53,11 @@ Las ampliaciones y añadidos a edificios comerciales existentes requieren un an�
 
 ## Evaluación contextual en la valoración de emplazamientos
 
-La evaluación de emplazamientos para inmobiliario de colocalización requiere una valoración contextual del entorno inmediato del nodo. Las preguntas relevantes no son sobre el estilo arquitectónico, sino sobre la coherencia funcional:
+La evaluación de emplazamientos para inmobiliario de [[co-location-strategy|colocalización]] requiere una valoración contextual del entorno inmediato del nodo. Las preguntas relevantes no son sobre el estilo arquitectónico, sino sobre la coherencia funcional:
 
 ¿El nodo presenta una alineación continua de fachadas que genera el cierre peatonal y favorece el tráfico de entrada? ¿Son consistentes los retranqueos, o está la continuidad interrumpida por aparcamientos en superficie, solares vacíos o infracciones de retranqueo que rompen el flujo peatonal? ¿Es la paleta material del nodo legible y coherente, señalando un distrito comercial consolidado en lugar de un conjunto incremental de edificios incompatibles?
 
-La coherencia contextual a nivel de nodo es un indicador de valor comercial acumulado. Los nodos con alta coherencia contextual — escala consistente, fachada continua, materiales compatibles — tienen habitualmente historiales de arrendamiento más largos, menores tasas de vacancia y mayor retención de anclas que los nodos con alta disrupción contextual. La calidad del entorno construido es tanto consecuencia como causa de la estabilidad comercial a largo plazo.
+La coherencia contextual a nivel de nodo es un indicador de valor comercial acumulado. Los nodos con alta coherencia contextual — escala consistente, fachada continua, materiales compatibles — tienen habitualmente historiales de arrendamiento más largos, menores tasas de vacancia y mayor retención de anclas que los nodos con alta disrupción contextual. La calidad del [[built-environment|entorno construido]] es tanto consecuencia como causa de la estabilidad comercial a largo plazo.
 
 A la inversa, la disrupción contextual en un nodo consolidado no siempre es una señal negativa para un activo individual. Un edificio bien ubicado que resulta contextualmente disonante respecto a sus vecinos puede representar una oportunidad de reforma o reposicionamiento — el alejamiento del edificio de los estándares del nodo reduce su valor actual, pero no su potencial si se retorna a la norma contextual.
 

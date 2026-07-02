@@ -41,10 +41,10 @@ consistentemente superan los niveles medianos nacionales.
 
 ## Características del mercado inmobiliario comercial
 
-El nodo primario de power centre de Lethbridge se concentra en el lado noroeste de la ciudad
+El nodo primario de [[power-centres|power centre]] de Lethbridge se concentra en el lado noroeste de la ciudad
 a lo largo de Mayor Magrath Drive North y el nodo comercial The Crossings, que incluye
 Costco, Home Depot, Walmart Supercentre, Canadian Tire y Staples. Esta concentración de
-anclas minoristas nacionales confirma las condiciones de ingresos y demanda requeridas para
+[[national-tenants|anclas minoristas nacionales]] confirma las condiciones de ingresos y demanda requeridas para
 la viabilidad del centro profesional.
 
 La oferta de espacio de oficinas profesionales en Lethbridge es modesta en comparación con

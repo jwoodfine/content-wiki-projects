@@ -44,8 +44,8 @@ afueras occidentales de la ciudad proporciona empleo militar estable.
 ## Características del mercado inmobiliario comercial
 
 La concentración minorista primaria está en el Valle de Spokane, a lo largo de los corredores
-de Sprague Avenue y Sullivan Road al este de la ciudad, donde la infraestructura de power
-centre incluye Costco, Home Depot, Lowe's, Walmart Supercenter y Target. El Spokane Valley
+de Sprague Avenue y Sullivan Road al este de la ciudad, donde la infraestructura de [[power-centres|power
+centre]] incluye Costco, Home Depot, Lowe's, Walmart Supercenter y Target. El Spokane Valley
 Mall ancla el nodo minorista oriental.
 
 Northtown Mall y el corredor de Division Street al norte del centro de Spokane representan

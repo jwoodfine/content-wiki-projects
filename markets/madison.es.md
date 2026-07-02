@@ -49,7 +49,7 @@ lago Mendota y el lago Monona. El principal desarrollo comercial suburbano se ha
 al oeste y al este del istmo.
 
 El lado oeste de Madison — particularmente a lo largo del corredor de Gammon Road y el
-West Towne Mall — alberga la concentración primaria de power centres, incluyendo Costco,
+West Towne Mall — alberga la concentración primaria de [[power-centres|power centres]], incluyendo Costco,
 Home Depot, Target y Walmart en el cinturón de circunvalación (Autopista US 12/18). El
 East Towne Mall y el corredor de East Washington Avenue sirven a la zona de captación
 residencial oriental.

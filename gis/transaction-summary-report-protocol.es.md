@@ -18,7 +18,7 @@ paired_with: transaction-summary-report-protocol.md
 cites: []
 ---
 
-El **Protocolo del Informe de Resumen de Transacción** rige el proceso por el cual los candidatos a Sitio de Desarrollo identificados a través de la metodología de co-ubicación geográfica avanzan desde la preselección puntuada hasta una decisión de los Directores Independientes del Socio General. Un sitio que logra una puntuación de clúster calificada y tiene disponibilidad de terreno confirmada no entra automáticamente en desarrollo activo — debe pasar por un proceso de revisión documentado en el que se evalúan el ajuste demográfico, el estado de permisos y el cronograma de desarrollo, y se presentan al Consejo en un formato reproducible y comparable entre sitios.
+El **Protocolo del Informe de Resumen de Transacción** rige el proceso por el cual los candidatos a Sitio de Desarrollo identificados a través de la [[geographic-co-location-methodology|metodología de co-ubicación geográfica]] avanzan desde la preselección puntuada hasta una decisión de los Directores Independientes del Socio General. Un sitio que logra una [[gis-cluster-scoring-glossary|puntuación de clúster calificada]] y tiene disponibilidad de terreno confirmada no entra automáticamente en desarrollo activo — debe pasar por un proceso de revisión documentado en el que se evalúan el ajuste demográfico, el estado de permisos y el cronograma de desarrollo, y se presentan al Consejo en un formato reproducible y comparable entre sitios.
 
 ## Propósito y Audiencia
 
@@ -32,7 +32,7 @@ El Informe de Resumen de Transacción sigue una plantilla estandarizada aplicada
 
 **1. Introducción al perfil demográfico.** Una explicación de la metodología utilizada para caracterizar la población de consumidores de la zona de influencia del Objetivo Primario, incluyendo las fuentes de datos y el enfoque de segmentación aplicado.
 
-**2. Esquema del Mosaico Óptimo.** Una presentación del perfil demográfico de referencia derivado de las ubicaciones de Objetivo Primario de mayor rendimiento. El Mosaico Óptimo describe los ingresos del hogar, la distribución de edad, la composición familiar y las características de comercio secundario que son comunes a los sitios más productivos comercialmente en el conjunto de datos.
+**2. Esquema del [[optimum-mosaic-demographic-profiling|Mosaico Óptimo]].** Una presentación del perfil demográfico de referencia derivado de las ubicaciones de Objetivo Primario de mayor rendimiento. El Mosaico Óptimo describe los ingresos del hogar, la distribución de edad, la composición familiar y las características de comercio secundario que son comunes a los sitios más productivos comercialmente en el conjunto de datos.
 
 **3. Datos demográficos de la ubicación del Objetivo Primario.** El perfil demográfico real de la zona de influencia que rodea el Sitio de Desarrollo candidato.
 
@@ -42,7 +42,7 @@ El Informe de Resumen de Transacción sigue una plantilla estandarizada aplicada
 
 ## Evaluación de Disponibilidad de Terrenos
 
-Antes de que se encargue un Informe de Resumen de Transacción para un sitio candidato, los profesionales inmobiliarios comprometidos por Woodfine en el mercado identificado realizan una evaluación preliminar de la disponibilidad de terreno adyacente al Objetivo Primario. Los sitios sin terreno disponible adyacente al Objetivo Primario se retiran de la preselección activa y se colocan en un registro de monitoreo.
+Antes de que se encargue un Informe de Resumen de Transacción para un sitio candidato, los profesionales inmobiliarios comprometidos por Woodfine en el mercado identificado realizan una evaluación preliminar de la disponibilidad de terreno adyacente al Objetivo Primario. Los sitios sin terreno disponible adyacente al Objetivo Primario se retiran de la preselección activa y se colocan en un [[development-site-monitoring-register|registro de monitoreo]].
 
 ## Evaluación del Cronograma de Permisos
 

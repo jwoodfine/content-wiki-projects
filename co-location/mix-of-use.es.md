@@ -44,4 +44,4 @@ El término "uso mixto" no se utiliza en el marco de cartera de Woodfine. El uso
 
 Los [[national-tenants|inquilinos nacionales]] — los ocupantes académicos, médicos y cívicos cuya identidad institucional tiene reconocimiento de mercado dentro de la comunidad profesional regional — sirven como el componente ancla del modelo de combinación de usos. Su presencia valida el edificio como destino profesional, haciéndolo más atractivo para las categorías empresariales y de laboratorio que completan la combinación.
 
-El marco de co-localización posiciona el centro profesional junto a minoristas ancla nacionales. Dentro del edificio, el modelo de combinación de usos posiciona a los inquilinos profesionales nacionales como los anclas de demanda para el espacio comercial restante.
+El [[co-location-strategy|marco de co-localización]] posiciona el centro profesional junto a minoristas ancla nacionales. Dentro del edificio, el modelo de combinación de usos posiciona a los inquilinos profesionales nacionales como los anclas de demanda para el espacio comercial restante.

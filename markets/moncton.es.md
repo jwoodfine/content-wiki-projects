@@ -48,7 +48,7 @@ a la ciudad en el centro médico de facto para toda la provincia.
 La concentración minorista primaria de Moncton se encuentra a lo largo de Wheeler Boulevard
 y el corredor de Mapleton Road en el norte de Moncton, donde las anclas de gran formato
 incluyendo Costco, Home Depot, Walmart Supercentre y Canadian Tire anclan un extenso complejo
-de power centres. Trinity Drive en el sector de Dieppe se ha desarrollado como un nodo
+de [[power-centres|power centres]]. Trinity Drive en el sector de Dieppe se ha desarrollado como un nodo
 minorista paralelo que sirve a la creciente población suburbana francófona.
 
 La oferta de espacio de oficinas profesionales incluye el centro de Moncton, donde el sector

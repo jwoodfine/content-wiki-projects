@@ -45,13 +45,13 @@ Intermountain Health en Provo proporciona el ancla de atención aguda primaria p
 
 ## Características del mercado inmobiliario comercial
 
-La infraestructura primaria de power centres en Provo–Orem se concentra a lo largo de
+La infraestructura primaria de [[power-centres|power centres]] en Provo–Orem se concentra a lo largo de
 University Parkway en el norte de Provo y University Avenue en Orem, con State Street como
 corredor secundario. Costco, Home Depot, Lowe's, Walmart Supercenter y Target anclan los
 principales nodos minoristas.
 
 El excepcional crecimiento de ingresos del mercado ha impulsado el rápido desarrollo de
-espacio de oficinas suburbanas y profesionales mixtas, particularmente en el corredor
+espacio de oficinas suburbanas y [[mix-of-use|profesionales mixtas]], particularmente en el corredor
 tecnológico a lo largo de North University Avenue en Provo y a lo largo de la fachada de
 la I-15 en American Fork y Lehi. El complejo de oficinas Thanksgiving Park en Lehi es el
 desarrollo de oficinas suburbanas más significativo del área metropolitana.

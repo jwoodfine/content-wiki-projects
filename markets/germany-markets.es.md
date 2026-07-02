@@ -33,7 +33,7 @@ disponibles por hogar por encima de la mediana de la OCDE para su cohorte de tam
 reflejando el alto salario mínimo del país, los sólidos acuerdos salariales sindicales y la
 profunda base de empleo manufacturero en ciudades de tamaño mediano.
 
-**Formato minorista Fachmarktzentrum.** El equivalente alemán del power centre norteamericano
+**Formato minorista Fachmarktzentrum.** El equivalente alemán del [[power-centres|power centre]] norteamericano
 — un parque comercial que combina anclas de bricolaje (Baumarkt), electrónica, alimentación y
 mobiliario del hogar — es una característica coherente de los mercados regionales alemanes
 calificados. La presencia de OBI, Bauhaus o Hornbach junto a un hipermercado Kaufland o Real
@@ -47,19 +47,19 @@ comerciales en una señal de confirmación más sólida.
 ## Cobertura por Bundesland
 
 **Baviera** — mercados en la región metropolitana de Múnich más allá del núcleo urbano
-(Ingolstadt, Augsburgo, Ratisbona, Landshut), la región de Franconia y Baviera Oriental.
+(Ingolstadt, [[augsburg|Augsburgo]], Ratisbona, Landshut), la región de Franconia y Baviera Oriental.
 
 **Baden-Württemberg** — mercados en la región Rin-Neckar fuera de los primarios de Mannheim
 y Heidelberg, la región del lago de Constanza y las ciudades de tamaño mediano de la Suabia.
 
 **Renania del Norte-Westfalia** — mercados fuera de la zona primaria Colonia-Düsseldorf-Ruhr,
-concentrados en la Westfalia Oriental (Bielefeld, Paderborn, Gütersloh), Münsterland y el
+concentrados en la Westfalia Oriental ([[bielefeld|Bielefeld]], Paderborn, Gütersloh), Münsterland y el
 Siegerland.
 
 **Baja Sajonia y alrededores de Bremen** — Braunschweig, Gotinga, Hildesheim, Osnabrück.
 
 **Alemania del Este** — Dresde (adyacente a los Siete Grandes; solo mercados secundarios),
-Erfurt, Magdeburgo, Rostock y los centros regionales de Sajonia-Anhalt.
+[[erfurt|Erfurt]], Magdeburgo, Rostock y los centros regionales de Sajonia-Anhalt.
 
 ## Mercados de muestra
 
@@ -68,8 +68,8 @@ Erfurt, Magdeburgo, Rostock y los centros regionales de Sajonia-Anhalt.
 | Augsburgo | Baviera | 300.000–330.000 | Sólida base de Fachmarktzentrum; acceso a la metrópolis de Múnich |
 | Bielefeld | Renania del Norte-Westfalia | 330.000–360.000 | Base económica independiente; centro regional OWL |
 | Erfurt | Turingia | 210.000–230.000 | Capital estatal; base minorista establecida; nodo ICE |
-| Kaiserslautern | Renania-Palatinado | 100.000–110.000 | Universidad + presencia militar estadounidense; calificado por ingresos |
-| Ulm | Baden-Württemberg | 130.000–140.000 | Ciudad fronteriza fluvial; sólido Fachmarktzentrum |
+| [[kaiserslautern|Kaiserslautern]] | Renania-Palatinado | 100.000–110.000 | Universidad + presencia militar estadounidense; calificado por ingresos |
+| [[ulm|Ulm]] | Baden-Württemberg | 130.000–140.000 | Ciudad fronteriza fluvial; sólido Fachmarktzentrum |
 
 ## Véase también
 

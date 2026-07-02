@@ -60,7 +60,7 @@ El efecto de isla de calor urbana — el fenómeno por el cual las ciudades y su
 
 ## Implicaciones para el inmobiliario comercial
 
-La calidad, densidad y transitabilidad peatonal del entorno construido son datos de entrada primarios en la puntuación de ubicaciones en el análisis inmobiliario comercial. Los nodos con tramas viarias finas, fachadas peatonales continuas, uso mixto del suelo y acceso a infraestructuras de transporte superan sistemáticamente a los nodos suburbanos dispersos en métricas de viabilidad de inquilinos ancla, rentas comerciales y productividad de la colocalización.
+La calidad, densidad y transitabilidad peatonal del entorno construido son datos de entrada primarios en la puntuación de ubicaciones en el análisis inmobiliario comercial. Los nodos con tramas viarias finas, fachadas peatonales continuas, uso mixto del suelo y acceso a infraestructuras de transporte superan sistemáticamente a los nodos suburbanos dispersos en métricas de viabilidad de inquilinos ancla, rentas comerciales y [[co-location-strategy|productividad de la colocalización]].
 
 El marco del entorno construido proporciona el contexto geográfico y físico en el que opera el análisis de colocalización. Identificar si un nodo candidato ocupa un centro urbano genuinamente peatonal y servido por transporte, frente a una franja funcionalmente suburbana — independientemente de la clasificación municipal — requiere una evaluación directa de las características del entorno construido descritas anteriormente.
 

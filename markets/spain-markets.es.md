@@ -36,21 +36,21 @@ mercados regionales calificados con inversión inmobiliaria comercial y minorist
 El panorama minorista español está anclado por Mercadona, Leroy Merlin, IKEA y Decathlon,
 con hipermercados Alcampo (Auchan) y Carrefour presentes en la mayoría de las capitales
 provinciales con más de 100.000 habitantes. La penetración de Leroy Merlin — el formato
-principal de bricolaje — es una señal de ingresos y power centre especialmente fiable en los
+principal de bricolaje — es una señal de ingresos y [[power-centres|power centre]] especialmente fiable en los
 mercados regionales españoles.
 
 ## Cobertura por comunidad autónoma
 
-**País Vasco** — Vitoria-Gasteiz (capital de Álava) como mercado calificado primario;
+**País Vasco** — [[vitoria-gasteiz|Vitoria-Gasteiz]] (capital de Álava) como mercado calificado primario;
 San Sebastián y Bilbao evaluados como mercados adyacentes al primario.
 
-**Navarra** — Pamplona y el corredor del Valle de Navarra; ingresos sólidos; anclas Leroy
+**Navarra** — [[pamplona|Pamplona]] y el corredor del Valle de Navarra; ingresos sólidos; anclas Leroy
 Merlin y Decathlon confirman la viabilidad del power centre.
 
-**Aragón** — Zaragoza supera el umbral del mercado primario; las ciudades secundarias Huesca
+**Aragón** — [[zaragoza-secondary|Zaragoza]] supera el umbral del mercado primario; las ciudades secundarias Huesca
 y Teruel califican por demanda profesional específica.
 
-**Castilla y León** — Valladolid, Burgos, León, Salamanca y Ávila como mercados regionales
+**Castilla y León** — [[valladolid|Valladolid]], [[burgos|Burgos]], León, Salamanca y Ávila como mercados regionales
 calificados primarios; la mayor extensión territorial de cualquier comunidad autónoma con el
 conjunto de mercados más distribuido.
 

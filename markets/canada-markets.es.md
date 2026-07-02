@@ -24,7 +24,7 @@ Canadá ofrece un conjunto sustancial y geográficamente distribuido de mercados
 calificados: la distribución de la población del país produce numerosos centros de 50.000 a
 500.000 habitantes fuera de las áreas metropolitanas primarias de Toronto, Vancouver y
 Montreal, muchos con altos ingresos disponibles por hogar e inversión establecida en
-power centres.
+[[power-centres|power centres]].
 
 ## Contexto nacional
 
@@ -47,27 +47,27 @@ abarcan el Gran Cinturón Dorado más allá del límite metropolitano de Toronto
 Ontario, el suroeste de Ontario y los centros urbanos del norte de Ontario.
 
 **Alberta** — mercados en la región de Calgary fuera del núcleo urbano primario, la Región
-Capital de Edmonton más allá de la metrópolis, y ciudades de tamaño mediano como Lethbridge
+Capital de Edmonton más allá de la metrópolis, y ciudades de tamaño mediano como [[lethbridge|Lethbridge]]
 y Red Deer.
 
 **Columbia Británica** — mercados en el Valle de Okanagan, la Isla de Vancouver fuera del
 CMA de Victoria, el Valle del Fraser y la región Thompson-Nicola.
 
-**Saskatchewan y Manitoba** — Saskatoon y Regina como mercados primarios calificados;
+**Saskatchewan y Manitoba** — Saskatoon y [[regina|Regina]] como mercados primarios calificados;
 suburbios regionales de Winnipeg que cumplen los filtros de power centre e ingresos.
 
 **Quebec** — mercados en la región de la ciudad de Quebec, Saguenay–Lac-Saint-Jean, Estrie
 y Laurentides–Lanaudière fuera de la metrópolis de Montreal.
 
-**Provincias atlánticas** — Moncton, Fredericton, Charlottetown y Sidney/Isla del Cabo
+**Provincias atlánticas** — [[moncton|Moncton]], Fredericton, Charlottetown y Sidney/Isla del Cabo
 Bretón como mercados primarios calificados.
 
 ## Mercados de muestra
 
 | Mercado | Provincia | Rango de población | Notas |
 |---|---|---|---|
-| Barrie–Innisfil | Ontario | 220.000–260.000 | Anclas Costco + Home Depot; crecimiento acelerado |
-| Kelowna | Columbia Británica | 230.000–260.000 | Líder de ingresos en Okanagan; power centres establecidos |
+| [[barrie-innisfil|Barrie–Innisfil]] | Ontario | 220.000–260.000 | Anclas Costco + Home Depot; crecimiento acelerado |
+| [[kelowna|Kelowna]] | Columbia Británica | 230.000–260.000 | Líder de ingresos en Okanagan; power centres establecidos |
 | Lethbridge | Alberta | 110.000–130.000 | Ingresos sólidos; power centre primario único |
 | Moncton | Nuevo Brunswick | 170.000–200.000 | Centro comercial del Atlántico; mercado bilingüe |
 | Regina | Saskatchewan | 250.000–280.000 | Capital de las praderas; ancla de demanda provincial |

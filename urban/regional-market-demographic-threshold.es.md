@@ -18,7 +18,7 @@ paired_with: regional-market-demographic-threshold.md
 cites: []
 ---
 
-Un **Mercado Regional** en el marco de desarrollo de Woodfine Management Corp. es una geografía que cumple un conjunto específico de condiciones demográficas y comerciales — condiciones que la distinguen tanto de los grandes mercados metropolitanos que atraen capital institucional en volumen como de las pequeñas comunidades que son atendidas exclusivamente por comercio y servicios locales. El umbral demográfico no está definido únicamente por la población. Está definido por el rendimiento comercial de los Minoristas Nacionales que ya han elegido operar en la geografía.
+Un **[[regional-markets|Mercado Regional]]** en el marco de desarrollo de Woodfine Management Corp. es una geografía que cumple un conjunto específico de condiciones demográficas y comerciales — condiciones que la distinguen tanto de los grandes mercados metropolitanos que atraen capital institucional en volumen como de las pequeñas comunidades que son atendidas exclusivamente por comercio y servicios locales. El umbral demográfico no está definido únicamente por la población. Está definido por el rendimiento comercial de los Minoristas Nacionales que ya han elegido operar en la geografía.
 
 ## El Indicador Primario: Productividad Minorista
 
@@ -28,13 +28,13 @@ Un Walmart Supercentre que alcanza ventas por pie cuadrado por encima de la medi
 
 ## Comercio Secundario y la Característica de Centro Regional
 
-La característica de centro regional es fundamental para la tesis de desarrollo de Woodfine porque determina la zona de captación de clientes efectiva para los arrendatarios de servicios profesionales. Un edificio de Professional Centres co-ubicado con un objetivo primario que genera un fuerte comercio secundario será accesible para clientes de servicios profesionales que conducen al nodo desde comunidades secundarias.
+La característica de centro regional es fundamental para la tesis de desarrollo de Woodfine porque determina la zona de captación de clientes efectiva para los arrendatarios de servicios profesionales. Un edificio de Professional Centres co-ubicado con un [[co-location-target-hierarchy|objetivo primario]] que genera un fuerte comercio secundario será accesible para clientes de servicios profesionales que conducen al nodo desde comunidades secundarias.
 
 Este es el mecanismo por el cual un desarrollo de Professional Centres en un Mercado Regional de 30.000 a 80.000 habitantes puede soportar los mismos operadores de servicios profesionales — despachos de abogados, prácticas contables, grupos dentales, especialistas médicos — que normalmente buscan espacio de arrendamiento en ciudades de varios cientos de miles de personas. La zona de captación de comercio secundario extiende la base de población efectiva de la economía de servicios profesionales del Mercado Regional mucho más allá de su propio conteo de residentes.
 
 ## El Papel de los Objetivos Secundarios en la Confirmación Demográfica
 
-La presencia de Home Depot y Costco al umbral de 1,0 km añade una capa de confirmación demográfica. La presencia de Home Depot indica que la zona de influencia apoya una base de contratistas que genera actividad de construcción y renovación comercial y residencial. La presencia de Costco indica que la zona de influencia tiene una concentración suficiente de hogares con ingresos y capacidad de compra para sostener el patronazgo de almacenes de membresía.
+La presencia de Home Depot y Costco al [[geographic-co-location-methodology|umbral de 1,0 km]] añade una capa de confirmación demográfica. La presencia de Home Depot indica que la zona de influencia apoya una base de contratistas que genera actividad de construcción y renovación comercial y residencial. La presencia de Costco indica que la zona de influencia tiene una concentración suficiente de hogares con ingresos y capacidad de compra para sostener el patronazgo de almacenes de membresía.
 
 Ambas condiciones son consistentes con — y refuerzan — la tesis de arrendamiento de servicios profesionales. Una zona de influencia que apoya la construcción activa (indicada por Home Depot) es una zona donde los operadores de servicios profesionales en campos legales, contables y de asesoría financiera tienen clientes involucrados en transacciones de propiedad, constitución de empresas y planificación patrimonial.
 

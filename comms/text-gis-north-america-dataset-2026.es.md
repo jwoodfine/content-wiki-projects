@@ -24,7 +24,7 @@ cites:
 
 ---
 
-El conjunto de datos de co-ubicación de América del Norte se mantiene como tres poblaciones puntuadas separadas — Canadá, Estados Unidos y México — aplicando cada una la metodología de clústeres de cinco grados a la red de Walmart Supercentre en la jurisdicción aplicable. El grado de clúster y la puntuación de nivel (T3 Apex ≥ 700, T2 Hub ≥ 450, T1 Valid ≥ 150) se determinan mediante los umbrales de co-ocurrencia estándar: radio de 1,0 km Primario-Secundario, radio de 5,0 km Terciario.
+El conjunto de datos de [[co-location-strategy|co-ubicación]] de América del Norte se mantiene como tres poblaciones puntuadas separadas — Canadá, Estados Unidos y México — aplicando cada una la metodología de clústeres de cinco grados a la red de Walmart Supercentre en la jurisdicción aplicable. El grado de clúster y la puntuación de nivel (T3 Apex ≥ 700, T2 Hub ≥ 450, T1 Valid ≥ 150) se determinan mediante los umbrales de co-ocurrencia estándar: radio de 1,0 km Primario-Secundario, radio de 5,0 km Terciario.
 
 ---
 
@@ -50,8 +50,8 @@ Las verificaciones de calibración se realizan cada vez que el conjunto de datos
 
 **Cadencia de actualización de ventas por pie cuadrado:**
 
-Las clasificaciones de ventas por pie cuadrado del Objetivo Primario se actualizan anualmente o cada dos años para generar datos de tendencias y permitir la reclasificación de toda la población de Objetivos Primarios. Los datos de tendencias de ventas por pie cuadrado, acumulados a través de ciclos de actualización, proporcionan una visión longitudinal de qué mercados regionales están ganando o perdiendo productividad comercial en relación con el promedio de la cadena.
+Las clasificaciones de ventas por pie cuadrado del Objetivo Primario se actualizan anualmente o cada dos años para generar datos de tendencias y permitir la reclasificación de toda la población de Objetivos Primarios. Los datos de tendencias de ventas por pie cuadrado, acumulados a través de ciclos de actualización, proporcionan una visión longitudinal de qué [[regional-markets|mercados regionales]] están ganando o perdiendo productividad comercial en relación con el promedio de la cadena.
 
 ---
 
-*Todas las cifras reflejan la metodología de puntuación V2 actual. Los conteos de clústeres están sujetos a cambios a medida que los cambios en la red del Objetivo Primario (nuevas aperturas de tiendas, cierres de tiendas, conversiones de formato) se incorporan al conjunto de datos. Los conteos del pipeline de sitios reflejan los objetivos de preselección aprobados; la disponibilidad individual del sitio se evalúa a través del proceso de Informe de Resumen de Transacción.*
+*Todas las cifras reflejan la metodología de puntuación V2 actual. Los conteos de clústeres están sujetos a cambios a medida que los cambios en la red del Objetivo Primario (nuevas aperturas de tiendas, cierres de tiendas, conversiones de formato) se incorporan al conjunto de datos. Los conteos del pipeline de sitios reflejan los objetivos de preselección aprobados; la disponibilidad individual del sitio se evalúa a través del proceso de [[transaction-summary-report-protocol|Informe de Resumen de Transacción]].*

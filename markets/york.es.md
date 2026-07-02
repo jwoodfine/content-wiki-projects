@@ -45,7 +45,7 @@ de respaldo en York.
 
 ## Características del mercado inmobiliario comercial
 
-La infraestructura primaria de parques de venta minorista de York está en el Vanguard Retail
+La infraestructura primaria de [[power-centres|parques de venta minorista]] de York está en el Vanguard Retail
 Park (Clifton Moor, al norte de la ciudad) y en el Monks Cross Retail Park al noreste,
 donde Marks & Spencer, Next, Costco, B&Q y Dunelm anclan franjas de comercio minorista de
 gran formato. El Vangarde Shopping Park al noreste (inaugurado en 2013) es el principal

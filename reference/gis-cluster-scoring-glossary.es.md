@@ -19,11 +19,11 @@ paired_with: gis-cluster-scoring-glossary.md
 cites: []
 ---
 
-Este glosario define la terminología utilizada en el sistema de puntuación de co-ubicación geográfica de Woodfine Management Corp. El vocabulario cubre las designaciones de grado de clúster, las etiquetas de puntuación de nivel, las convenciones de umbral de radio y las métricas de salida del conjunto de datos. Estos términos aparecen en los informes del conjunto de datos de co-ubicación, las comunicaciones de cobertura GIS y los materiales de selección de sitios preparados para revisión por los Directores Independientes del Socio General.
+Este glosario define la terminología utilizada en el [[geographic-co-location-methodology|sistema de puntuación de co-ubicación geográfica]] de Woodfine Management Corp. El vocabulario cubre las designaciones de grado de clúster, las etiquetas de puntuación de nivel, las convenciones de umbral de radio y las métricas de salida del conjunto de datos. Estos términos aparecen en los informes del conjunto de datos de co-ubicación, las comunicaciones de cobertura GIS y los materiales de selección de sitios preparados para revisión por los Directores Independientes del Socio General.
 
 ## Términos de Grado de Clúster
 
-**Clúster de Primer Grado** — Un nodo de co-ubicación puntuado en el que un Objetivo Primario (Walmart Supercentre) y al menos un Objetivo Secundario (Home Depot o Costco Wholesale) están ubicados dentro de 1,0 km entre sí. El indicador de base de un nodo comercial co-anclado.
+**Clúster de Primer Grado** — Un nodo de co-ubicación puntuado en el que un [[co-location-target-hierarchy|Objetivo Primario]] (Walmart Supercentre) y al menos un Objetivo Secundario (Home Depot o Costco Wholesale) están ubicados dentro de 1,0 km entre sí. El indicador de base de un nodo comercial co-anclado.
 
 **Clúster de Segundo Grado** — Un Clúster de Primer Grado en el que al menos un Objetivo Terciario (institución de educación superior o centro médico importante) está ubicado dentro de 5,0 km. Indica presencia de co-ancla más demanda de empleo institucional dentro del radio de desplazamiento.
 
@@ -41,7 +41,7 @@ La metodología de puntuación V2 asigna los clústeres puntuados a tres niveles
 
 **T2 Hub** — Puntuación ≥ 450. La designación de nivel medio. Un clúster T2 Hub tiene co-ocurrencia Primario-Secundario confirmada y contribuciones de puntuación de factores adicionales. Los clústeres T2 Hub son candidatos calificados que requieren evaluación adicional de disponibilidad del sitio.
 
-**T1 Valid** — Puntuación ≥ 150. La designación de nivel de entrada. Un clúster T1 Valid tiene presencia de Objetivo Primario con confirmación de co-ubicación parcial. Los clústeres T1 Valid pueden calificar si los factores de disponibilidad del sitio y proximidad terciaria se confirman en el proceso de Informe de Resumen de Transacción.
+**T1 Valid** — Puntuación ≥ 150. La designación de nivel de entrada. Un clúster T1 Valid tiene presencia de Objetivo Primario con confirmación de co-ubicación parcial. Los clústeres T1 Valid pueden calificar si los factores de disponibilidad del sitio y proximidad terciaria se confirman en el proceso de [[transaction-summary-report-protocol|Informe de Resumen de Transacción]].
 
 ## Convenciones de Umbral de Radio
 
