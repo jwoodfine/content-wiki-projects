@@ -48,7 +48,7 @@ market of its size.
 
 ## Commercial real estate characteristics
 
-The primary power centre node in Kelowna is concentrated along Harvey Avenue (Highway 97)
+The primary [[power-centres|power centre]] node in Kelowna is concentrated along Harvey Avenue (Highway 97)
 in the city's central retail corridor and the Orchard Park area, with Costco, Home Depot,
 Walmart, and Canadian Tire anchoring the large-format retail base. The Orchard Park Shopping
 Centre is the dominant enclosed mall for the Okanagan region, drawing shoppers from the

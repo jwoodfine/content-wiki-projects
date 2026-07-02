@@ -52,7 +52,7 @@ The Augsburg Fachmarktzentrum infrastructure is concentrated primarily in the no
 eastern periphery of the urban area, along the Bürgermeister-Ulrich-Straße and Augsburg
 Nord commercial zones, where large-format retailers including OBI, Hornbach, Kaufland, and
 Mediamarkt anchor retail strips consistent with the Fachmarkt format. These represent the
-appropriate co-location signal for professional centre investment in the German market.
+appropriate [[co-location-strategy|co-location]] signal for professional centre investment in the German market.
 
 The historic city centre — with its Renaissance architecture, patrician buildings, and
 pedestrianised Maximilianstraße — is a high-traffic mixed commercial zone with fashion

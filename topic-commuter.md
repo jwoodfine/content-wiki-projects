@@ -18,7 +18,7 @@ short_description: "Commuter (PKS) clusters identify transit-adjacent commercial
 cites: []
 ---
 
-**Commuter** (PKS) clusters identify transit-adjacent commercial sites organised around significant parking. These are the commuter-rail stations, regional transit hubs, park-and-ride lots, and highway-exit commercial nodes where residents of a regional market drive to a transit point, leave their car, and travel onward to a metropolitan market. The parking infrastructure that makes this journey possible at scale is the defining feature of the archetype.
+**Commuter** (PKS) clusters identify transit-adjacent commercial sites organised around significant parking. These are the commuter-rail stations, regional transit hubs, park-and-ride lots, and highway-exit commercial nodes where residents of a [[regional-markets|regional market]] drive to a transit point, leave their car, and travel onward to a metropolitan market. The parking infrastructure that makes this journey possible at scale is the defining feature of the archetype.
 
 Three-letter code: **PKS**. One of three Location Intelligence archetypes alongside [[topic-retail-centres|Retail Centres (PRO)]] and [[topic-urban-fringe|Urban Fringe (VWH)]]. Commuter is an overlay archetype that identifies transit-adjacent market structure not captured by grocery-anchored Retail Centre clustering.
 
@@ -112,7 +112,7 @@ Transit anchors with a T1 Retail Centre cluster within 5 km are reviewed as like
 
 ## Related research
 
-A companion academic study, *The Commuter Archetype: Car-Rental Clustering as a Proxy for Transit-Adjacent Commercial Co-location*, is in preparation for intended submission to the Journal of Transport Geography (Elsevier). The study identifies 14,332 Commuter candidates across eighteen countries using OpenStreetMap data and documents a rail-to-airport ratio of approximately 88% to 12%, with a 27% integration rate with adjacent commercial co-location clusters.
+A companion academic study, *The Commuter Archetype: Car-Rental Clustering as a Proxy for Transit-Adjacent Commercial Co-location*, is in preparation for intended submission to the Journal of Transport Geography (Elsevier). The study identifies 14,332 Commuter candidates across eighteen countries using OpenStreetMap data and documents a rail-to-airport ratio of approximately 88% to 12%, with a 27% integration rate with adjacent commercial [[co-location-strategy|co-location]] clusters.
 
 ## See also
 

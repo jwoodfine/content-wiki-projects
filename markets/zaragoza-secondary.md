@@ -41,7 +41,7 @@ established operations at PLAZA, reflecting Zaragoza's central geographic positi
 Aragon has a household income profile that modestly exceeds the Spanish national average,
 reflecting the province's manufacturing and logistics employment base. The income level
 is below the Basque Country and Navarre but above the Spanish median, placing Zaragoza
-in a positive position for co-location assessment relative to most Spanish provincial capitals.
+in a positive position for [[co-location-strategy|co-location assessment]] relative to most Spanish provincial capitals.
 
 The University of Zaragoza, with approximately 30,000 students and campuses in Zaragoza,
 Huesca, and Teruel, is one of Spain's largest and oldest universities. The Hospital

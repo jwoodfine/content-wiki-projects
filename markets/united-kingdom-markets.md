@@ -38,7 +38,7 @@ for specialist medical, legal, financial, and administrative services that popul
 centre tenant mixes.
 
 The UK retail park format — large-format out-of-town retail combining grocery, DIY, and
-general merchandise — is the primary power centre analogue. The presence of Costco, B&Q, or
+general merchandise — is the primary [[power-centres|power centre]] analogue. The presence of Costco, B&Q, or
 Screwfix alongside a Sainsbury's or Tesco superstore with a large format confirms income and
 demand conditions. Retail park planning permission under Use Class E (commercial) has stabilised
 following multiple regulatory changes, providing a clearer investment signal than earlier
@@ -47,12 +47,12 @@ planning frameworks.
 ## Coverage by region
 
 **North of England** — markets across Yorkshire (Leeds secondary areas, Sheffield surrounds,
-York), the North West beyond Greater Manchester (Warrington, Preston, Lancaster, Kendal),
+[[york|York]]), the North West beyond Greater Manchester ([[warrington|Warrington]], Preston, Lancaster, Kendal),
 the North East (Newcastle secondary areas, Sunderland, Durham), and Cumbria.
 
 **Midlands** — markets across the West Midlands beyond Birmingham's primary core
 (Coventry, Wolverhampton, Walsall, Solihull), and the East Midlands (Leicester surrounds,
-Derby, Nottingham secondary areas, Lincoln, Northampton).
+Derby, Nottingham secondary areas, Lincoln, [[northampton|Northampton]]).
 
 **East of England** — Cambridge secondary markets, Norwich, Ipswich, Chelmsford, Colchester,
 Peterborough.
@@ -60,14 +60,14 @@ Peterborough.
 **Wales** — Cardiff secondary areas, Swansea, Newport, and the A55 corridor markets in
 North Wales.
 
-**Scotland** — Edinburgh secondary areas, Glasgow secondary markets, Aberdeen, Inverness,
+**Scotland** — Edinburgh secondary areas, Glasgow secondary markets, Aberdeen, [[inverness|Inverness]],
 Perth, and Dundee.
 
 ## Sample markets
 
 | Market | Region | Population range | Notes |
 |---|---|---|---|
-| Chester | North West | 120,000–140,000 | Retail park base; NHS trust; heritage city |
+| [[chester|Chester]] | North West | 120,000–140,000 | Retail park base; NHS trust; heritage city |
 | Inverness | Scotland | 70,000–90,000 | Highland capital; NHS Highland anchor; growing retail base |
 | Northampton | East Midlands | 230,000–260,000 | Logistics employment base; strong retail park inventory |
 | Warrington | North West | 210,000–230,000 | M6/M62 junction; major distribution and professional base |

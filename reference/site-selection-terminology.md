@@ -18,11 +18,11 @@ paired_with: site-selection-terminology.es.md
 cites: []
 ---
 
-This glossary defines the terms used in Woodfine Management Corp.'s site selection and development methodology as they appear in co-location analyses, investor materials, and Transaction Summary Reports. Where a term has a specific technical meaning that differs from its common use, the technical definition is stated explicitly.
+This glossary defines the terms used in Woodfine Management Corp.'s site selection and development methodology as they appear in [[co-location-strategy|co-location]] analyses, investor materials, and [[transaction-summary-report-protocol|Transaction Summary Reports]]. Where a term has a specific technical meaning that differs from its common use, the technical definition is stated explicitly.
 
 ## Qualified Investment
 
-A **Qualified Investment** is a development site that satisfies all of Woodfine's site selection criteria: co-location on or immediately adjacent to an operating Power Centre anchor, sufficient land to accommodate the required Prototype combinations in a Campus Design configuration, and acceptable permitting and zoning status for the intended development within a feasible timeline. A site that does not meet all three criteria simultaneously does not constitute a Qualified Investment regardless of its other characteristics.
+A **Qualified Investment** is a development site that satisfies all of Woodfine's site selection criteria: co-location on or immediately adjacent to an operating [[power-centres|Power Centre]] anchor, sufficient land to accommodate the required Prototype combinations in a Campus Design configuration, and acceptable permitting and zoning status for the intended development within a feasible timeline. A site that does not meet all three criteria simultaneously does not constitute a Qualified Investment regardless of its other characteristics.
 
 The co-location criterion is the gating condition: a site without a Power Centre anchor does not qualify for further analysis under Woodfine's methodology, regardless of its demographic profile or land availability. The Campus Design criterion eliminates sites that are too small or irregularly shaped to accommodate the Prototype. The permitting and zoning criterion sets a timeline tolerance — sites with rezoning requirements extending beyond approximately seven years are not counted against the required development totals, though they may remain in the site identification register for future reference.
 
@@ -58,6 +58,6 @@ Three separate datasets — one for Canada, one for the United States, and one f
 
 ## Transaction Summary Report
 
-A **Transaction Summary Report** is a site-specific document prepared for each Development Site candidate that passes the co-location scoring threshold and has confirmed land availability. The report presents the demographic profile of the Primary Target location, the secondary trade pattern at that location, and a comparison with the Optimum Mosaic demographic benchmark.
+A **Transaction Summary Report** is a site-specific document prepared for each Development Site candidate that passes the co-location scoring threshold and has confirmed land availability. The report presents the demographic profile of the Primary Target location, the secondary trade pattern at that location, and a comparison with the [[optimum-mosaic-demographic-profiling|Optimum Mosaic]] demographic benchmark.
 
 Transaction Summary Reports are prepared in a standardized template format to support review by the Independent Directors of the General Partner. The template includes an introduction to demographic profiling, an outline of the Optimum Mosaic, the local demographic data, and the site-to-Optimum Mosaic comparison. The template format enables the Board to evaluate multiple candidates on consistent terms rather than site-by-site in isolation.

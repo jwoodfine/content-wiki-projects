@@ -21,7 +21,7 @@ editor: editorial
 
 # Colorado Springs, Colorado — Regional Market
 
-Colorado Springs is a city of approximately 479,000 residents in El Paso County, Colorado, anchored by a concentration of military installations, higher education, and a substantial healthcare sector that together generate sustained, in-place consumer demand. Located 95.6 kilometres south of Denver, it operates as an autonomous regional economy rather than a satellite of the larger metro. Its co-location footprint — 7 clusters, including 2 Tier 1, 4 Tier 2, and 1 Tier 3 formation distributed across the city's eastern and northeastern commercial corridors — ranks it 14th among the 400 highest-scoring North American Regional Markets.
+Colorado Springs is a city of approximately 479,000 residents in El Paso County, Colorado, anchored by a concentration of military installations, higher education, and a substantial healthcare sector that together generate sustained, in-place consumer demand. Located 95.6 kilometres south of Denver, it operates as an autonomous regional economy rather than a satellite of the larger metro. Its [[co-location-strategy|co-location]] footprint — 7 clusters, including 2 Tier 1, 4 Tier 2, and 1 Tier 3 formation distributed across the city's eastern and northeastern commercial corridors — ranks it 14th among the 400 highest-scoring North American [[regional-markets|Regional Markets]].
 
 ## Overview
 

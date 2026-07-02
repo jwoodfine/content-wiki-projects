@@ -24,7 +24,7 @@ thesis_alignment: "Bauhaus-derived commercial architecture defines the dominant 
 keynote: false
 ---
 
-The Bauhaus was a German art and design school operating from 1919 to 1933 that produced the dominant formal language of twentieth-century modern architecture, graphic design, and industrial product design. Founded by Walter Gropius in Weimar, the school unified fine art with craft and industrial production under the principle that form must serve function — that the aesthetic of a well-designed object emerges from its materials, its construction method, and its purpose, not from applied ornament.
+The Bauhaus was a German art and design school operating from 1919 to 1933 that produced the dominant formal language of twentieth-century [[modern-architecture|modern architecture]], graphic design, and industrial product design. Founded by Walter Gropius in Weimar, the school unified fine art with craft and industrial production under the principle that form must serve function — that the aesthetic of a well-designed object emerges from its materials, its construction method, and its purpose, not from applied ornament.
 
 In architecture, the Bauhaus aesthetic manifests as flat roofs, curtain-wall glazing, white or light concrete facades, open floor plans, and the rejection of historical ornament. The school's architectural influence was disseminated by its faculty and graduates — Gropius, Ludwig Mies van der Rohe, Marcel Breuer, László Moholy-Nagy — who emigrated primarily to the United States following the school's closure by the National Socialist government in 1933. By the 1950s, Bauhaus-derived modernism had become the default architectural language for commercial buildings, corporate campuses, universities, and government institutions across North America and Western Europe.
 
@@ -42,7 +42,7 @@ Bauhaus-influenced commercial buildings exhibit a consistent formal vocabulary t
 
 ## Distribution in commercial real estate markets
 
-The commercial building stock in suburban North American markets built between 1945 and 1985 is overwhelmingly Bauhaus-derived in formal terms, regardless of whether the individual buildings had architectural authors or were constructed speculatively using standard commercial building systems. The flat-roofed, strip-glazed, surface-parked commercial building is so standard in suburban secondary markets that it represents the modal building type in most co-location evaluation contexts.
+The commercial building stock in suburban North American markets built between 1945 and 1985 is overwhelmingly Bauhaus-derived in formal terms, regardless of whether the individual buildings had architectural authors or were constructed speculatively using standard commercial building systems. The flat-roofed, strip-glazed, surface-parked commercial building is so standard in suburban secondary markets that it represents the modal building type in most [[co-location-strategy|co-location evaluation]] contexts.
 
 This distribution has practical implications for commercial real estate analysis. Bauhaus-derived commercial stock is generally highly functional: it is easily subdivided for multi-tenant occupancy, its structural grid accommodates diverse tenant configurations, its mechanical systems are straightforward (disaggregated rooftop units serving individual bays), and its clear-span interiors are adaptable to a wide range of business types. It is also typically undistinguished aesthetically, which limits premium positioning in markets where tenants value architectural character.
 

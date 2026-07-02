@@ -18,7 +18,7 @@ paired_with: optimum-mosaic-demographic-profiling.es.md
 cites: []
 ---
 
-The **Optimum Mosaic** is the demographic signature of the trade areas surrounding Woodfine Management Corp.'s highest-ranked Primary Target co-location sites. It is derived by cross-referencing the demographic profiles of the top 25 to 100 Walmart Supercentre locations, sorted by sales per square foot in descending order, to identify the household income, age structure, family composition, and secondary trade patterns that are common to the most commercially productive Primary Target sites in the dataset.
+The **Optimum Mosaic** is the demographic signature of the trade areas surrounding Woodfine Management Corp.'s highest-ranked [[co-location-target-hierarchy|Primary Target]] co-location sites. It is derived by cross-referencing the demographic profiles of the top 25 to 100 Walmart Supercentre locations, sorted by sales per square foot in descending order, to identify the household income, age structure, family composition, and secondary trade patterns that are common to the most commercially productive Primary Target sites in the dataset.
 
 The Optimum Mosaic is used in two ways. It serves as a benchmarking standard for evaluating individual Development Site candidates — sites whose surrounding demographic profile closely matches the Optimum Mosaic are more likely to perform in line with the highest-performing Primary Targets. It also serves as a communication tool for engaging the Independent Directors of the General Partner in the site approval process and for presenting the investment rationale to prospective tenants.
 
@@ -28,7 +28,7 @@ The Optimum Mosaic methodology uses sales per square foot as its primary sorting
 
 Sorting Primary Targets strictly by sales per square foot — rather than by total sales volume, total floor area, or geographic rank — identifies which retail nodes are most efficiently extracting consumer purchasing from their trade areas. A smaller Supercentre with exceptionally high sales per square foot outranks a larger Supercentre with average productivity. This ranking captures consumer demand density rather than absolute market size, which is the more relevant criterion for identifying development sites where professional services tenancy will find a viable client base.
 
-The top 25 to 100 Primary Targets by sales per square foot are the sample from which the Optimum Mosaic is extracted. Including the top 25 produces a tighter, more concentrated demographic profile. Expanding to 100 produces a broader profile that may capture demographic variation across geographies and jurisdictions. Combining Primary Target data from the United States, Canada, and Mexico — rather than analyzing each jurisdiction separately — may produce a richer Optimum Mosaic that reflects underlying consumer demand patterns across North American Regional Market geographies rather than jurisdiction-specific conditions.
+The top 25 to 100 Primary Targets by sales per square foot are the sample from which the Optimum Mosaic is extracted. Including the top 25 produces a tighter, more concentrated demographic profile. Expanding to 100 produces a broader profile that may capture demographic variation across geographies and jurisdictions. Combining Primary Target data from the United States, Canada, and Mexico — rather than analyzing each jurisdiction separately — may produce a richer Optimum Mosaic that reflects underlying consumer demand patterns across North American [[regional-markets|Regional Market]] geographies rather than jurisdiction-specific conditions.
 
 ## Demographic Dimensions of the Optimum Mosaic
 
@@ -40,7 +40,7 @@ The secondary trade metric distinguishes Regional Market sites from purely local
 
 ## Transaction Summary Report Application
 
-The Optimum Mosaic is the benchmark against which site-specific demographic profiles are measured in the Transaction Summary Report. For each Development Site candidate identified through the geographic co-location methodology, a Transaction Summary Report is prepared that presents the actual demographic profile of the Primary Target location and compares it directly with the Optimum Mosaic.
+The Optimum Mosaic is the benchmark against which site-specific demographic profiles are measured in the [[transaction-summary-report-protocol|Transaction Summary Report]]. For each Development Site candidate identified through the [[geographic-co-location-methodology|geographic co-location methodology]], a Transaction Summary Report is prepared that presents the actual demographic profile of the Primary Target location and compares it directly with the Optimum Mosaic.
 
 The Transaction Summary Report structure includes an introduction to demographic profiling, an outline of the Optimum Mosaic, the demographics of the specific Primary Target location, the secondary trade pattern generated at that Primary Target, and a direct comparison between the location's profile and the Optimum Mosaic benchmark.
 

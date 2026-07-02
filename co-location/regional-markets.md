@@ -21,7 +21,7 @@ cites:
   - osc-sn-51-721
 ---
 
-Regional markets are the primary geographic focus for Woodfine direct-hold deployments. These are cities and metropolitan areas with populations typically between 50,000 and 300,000, located outside the major-metro central business districts that characterize legacy office markets. Regional markets share several structural characteristics that make them suitable for co-location deployments: high household disposable income relative to local real estate costs, drive-based mobility patterns, underserved commercial real estate supply, and established national retail investment.
+Regional markets are the primary geographic focus for Woodfine direct-hold deployments. These are cities and metropolitan areas with populations typically between 50,000 and 300,000, located outside the major-metro central business districts that characterize legacy office markets. Regional markets share several structural characteristics that make them suitable for [[co-location-strategy|co-location]] deployments: high household disposable income relative to local real estate costs, drive-based mobility patterns, underserved commercial real estate supply, and established national retail investment.
 
 ## Why regional markets, not major metros
 
@@ -37,7 +37,7 @@ The presence of national retail investment in a regional market is itself an inc
 
 ## Top 400 regional markets
 
-The site-selection framework identifies a global set of approximately 400 regional markets — across North America, Europe, and other OECD economies — meeting the population, income, and retail infrastructure thresholds for co-location assessment. These markets are scored and ranked using the [[topic-co-location-ranking-system|co-location ranking system]], with priority given to markets where power centre investment and professional tenant demand are both confirmed.
+The [[site-selection-terminology|site-selection framework]] identifies a global set of approximately 400 regional markets — across North America, Europe, and other OECD economies — meeting the population, income, and retail infrastructure thresholds for co-location assessment. These markets are scored and ranked using the [[topic-co-location-ranking-system|co-location ranking system]], with priority given to markets where [[power-centres|power centre]] investment and professional tenant demand are both confirmed.
 
 The initial rollout of direct-hold deployments concentrates on markets where the convergence of national retail capital, available development parcels within the 1.0-kilometre proximity threshold, and professional tenant demand is most clearly established.
 

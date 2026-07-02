@@ -18,7 +18,7 @@ paired_with: co-location-target-hierarchy.es.md
 cites: []
 ---
 
-The **Co-Location Target Hierarchy** is the three-tier classification system that structures Woodfine Management Corp.'s geographic co-location dataset. Each tier assigns a category of retail operator or institutional employer to the role it plays in validating a potential Development Site. The hierarchy reflects the observed sequencing of commercial development in Regional Markets: Primary Targets anchor the retail node, Secondary Targets follow the Primary, and Tertiary Targets confirm that an institutional demand base for professional services tenancy is present in the geography.
+The **Co-Location Target Hierarchy** is the three-tier classification system that structures Woodfine Management Corp.'s geographic co-location dataset. Each tier assigns a category of retail operator or institutional employer to the role it plays in validating a potential Development Site. The hierarchy reflects the observed sequencing of commercial development in [[regional-markets|Regional Markets]]: Primary Targets anchor the retail node, Secondary Targets follow the Primary, and Tertiary Targets confirm that an institutional demand base for professional services tenancy is present in the geography.
 
 ## Primary Target: Walmart Supercentre
 
@@ -36,7 +36,7 @@ The two Secondary Targets are The Home Depot and Costco Wholesale. Both are larg
 
 **Costco Wholesale** operates membership warehouse stores targeting consumers with the purchasing capacity and household scale to justify annual membership fees. The Costco membership threshold acts as an implicit income and household-size screen: markets where Costco operates profitably are markets where consumer disposable income meets or exceeds the threshold for discretionary warehouse purchasing. For Woodfine, the presence of a Costco confirms the income profile of the surrounding trade area at a level consistent with the demographic characteristics of the target tenant base for Professional Centres.
 
-Secondary Targets receive a 1.0 km co-occurrence threshold because their presence at this distance from the Primary Target indicates shared site infrastructure, not coincidental proximity. Home Depot and Costco in a distinct location 1.5 km away from a Walmart Supercentre may reflect independent commercial development rather than a co-anchored power centre. Within 1.0 km, the physical proximity confirms that the operators share a commercial node.
+Secondary Targets receive a 1.0 km co-occurrence threshold because their presence at this distance from the Primary Target indicates shared site infrastructure, not coincidental proximity. Home Depot and Costco in a distinct location 1.5 km away from a Walmart Supercentre may reflect independent commercial development rather than a co-anchored [[power-centres|power centre]]. Within 1.0 km, the physical proximity confirms that the operators share a commercial node.
 
 ## Tertiary Targets: Universities and Medical Centres
 
@@ -52,4 +52,4 @@ The 5.0 km threshold for Tertiary co-occurrence reflects the fact that Tertiary 
 
 The hierarchy is designed to capture the sequential validation logic that institutional commercial operators apply in Regional Markets. A geography that supports a Walmart Supercentre with high sales per square foot has already demonstrated consumer purchasing volume. A geography where Home Depot and Costco have followed Walmart has demonstrated that three independent institutional retailers found the same market conditions attractive under their respective site selection criteria. A geography where a university or medical centre is also present within 5.0 km has further demonstrated that the market supports institutional employment at a scale that generates professional services demand independent of the retail node.
 
-Each tier adds an independent validation signal that is not correlated with the others. Walmart validates consumer volume. Home Depot and Costco validate purchasing capacity and trade activity. Universities and medical centres validate professional tenancy demand. The Five-Degree Cluster system aggregates these independent signals into a composite score.
+Each tier adds an independent validation signal that is not correlated with the others. Walmart validates consumer volume. Home Depot and Costco validate purchasing capacity and trade activity. Universities and medical centres validate professional tenancy demand. The [[geographic-co-location-methodology|Five-Degree Cluster system]] aggregates these independent signals into a composite score.

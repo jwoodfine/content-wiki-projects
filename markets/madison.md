@@ -53,7 +53,7 @@ Lake Monona. The primary suburban commercial development has occurred to the wes
 of the isthmus.
 
 The west side of Madison — particularly along the Gammon Road and West Towne Mall corridor
-— hosts the primary power centre retail concentration, including Costco, Home Depot,
+— hosts the primary [[power-centres|power centre]] retail concentration, including Costco, Home Depot,
 Target, and Walmart on the beltline (US Highway 12/18). East Towne Mall and the East
 Washington Avenue corridor serve the eastern residential catchment with a similar retail
 format concentration.

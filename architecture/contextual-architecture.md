@@ -27,13 +27,13 @@ keynote_section: "Architecture"
 
 Contextual architecture is a design approach that treats a building's relationship to its surroundings as a primary design constraint. A contextual building responds to the height, setback, material palette, and use patterns of adjacent structures rather than asserting its own architectural identity independent of its setting. The approach is contrasted with object architecture, in which a building is designed as an autonomous formal statement regardless of what surrounds it.
 
-The contextual approach was articulated as a critical position in the 1960s and 1970s, partly in response to urban renewal programmes that replaced established built fabric with isolated modern towers set in open plazas. Critics including Jane Jacobs, Colin Rowe, and Fred Koetter argued that coherent urban environments depend on the accumulated relationships between buildings, not on individual architectural excellence. The Congress for the New Urbanism and the post-1990 urban design movement adopted contextual principles as foundational to neighbourhood design.
+The contextual approach was articulated as a critical position in the 1960s and 1970s, partly in response to urban renewal programmes that replaced established built fabric with isolated modern towers set in open plazas. Critics including Jane Jacobs, Colin Rowe, and Fred Koetter argued that coherent urban environments depend on the accumulated relationships between buildings, not on individual architectural excellence. The Congress for the [[new-urbanism|New Urbanism]] and the post-1990 urban design movement adopted contextual principles as foundational to neighbourhood design.
 
 ## Design characteristics
 
 Contextual buildings are evaluated by how well they continue the existing urban pattern rather than by independent formal criteria. Key contextual parameters include:
 
-**Scale and massing.** A contextual building matches the dominant height and volumetric mass of the block on which it sits. A six-storey building inserted into a block of two-storey vernacular commercial stock fails contextually even if it is well-designed in isolation. Transitional massing — stepping down in height as a building meets a lower-scale neighbour — is a standard contextual technique.
+**Scale and massing.** A contextual building matches the dominant height and volumetric mass of the block on which it sits. A six-storey building inserted into a block of two-storey [[vernacular-architecture|vernacular]] commercial stock fails contextually even if it is well-designed in isolation. Transitional massing — stepping down in height as a building meets a lower-scale neighbour — is a standard contextual technique.
 
 **Setback and street relationship.** Contextual buildings follow the prevailing setback line of their block, extending the building face to the same plane as adjacent structures. In established commercial streets this means building to the property line, with little or no front setback. Surface parking in front of a contextual commercial building is a contextual failure that disrupts the continuity of the street wall.
 
@@ -53,11 +53,11 @@ Expansions and additions to existing commercial buildings require contextual ana
 
 ## Context assessment in site evaluation
 
-Site evaluation for co-location real estate requires a contextual assessment of the immediate node environment. The relevant questions are not about architectural style but about functional coherence:
+Site evaluation for [[co-location-strategy|co-location]] real estate requires a contextual assessment of the immediate node environment. The relevant questions are not about architectural style but about functional coherence:
 
 Does the node present a continuous street wall that creates pedestrian enclosure and promotes walk-in traffic? Are setbacks consistent, or is the continuity broken by surface parking, vacant lots, or setback violations that interrupt pedestrian flow? Is the material palette of the node legible and coherent, signalling an established commercial district rather than an incremental assemblage of incompatible buildings?
 
-Contextual coherence at the node level is a marker of accumulated commercial value. Nodes with high contextual coherence — consistent scale, continuous frontage, compatible materials — typically have longer tenancy histories, lower vacancy rates, and stronger anchor retention than nodes with high contextual disruption. The built environment quality is both a consequence and a cause of long-term commercial stability.
+Contextual coherence at the node level is a marker of accumulated commercial value. Nodes with high contextual coherence — consistent scale, continuous frontage, compatible materials — typically have longer tenancy histories, lower vacancy rates, and stronger anchor retention than nodes with high contextual disruption. The [[built-environment|built environment]] quality is both a consequence and a cause of long-term commercial stability.
 
 Conversely, contextual disruption in an established node is not always a negative signal for an individual asset. A well-located building that is contextually dissonant relative to its neighbours may present a renovation or repositioning opportunity — the building's departure from node standards reduces its current value but not its potential if returned to the contextual norm.
 

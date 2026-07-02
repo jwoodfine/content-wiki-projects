@@ -46,14 +46,14 @@ Health's Utah Valley Hospital in Provo provides the primary acute care anchor fo
 
 ## Commercial real estate characteristics
 
-The primary power centre infrastructure in Provo–Orem is concentrated along University
+The primary [[power-centres|power centre]] infrastructure in Provo–Orem is concentrated along University
 Parkway in north Provo and University Avenue in Orem, with State Street as the secondary
 corridor. Costco, Home Depot, Lowe's, Walmart Supercenter, and Target anchor the primary
 retail nodes. The University Place mall in Orem and the Provo Town Centre serve enclosed
 retail demand.
 
 The market's exceptional income growth has driven rapid development of suburban office
-and mixed-use professional space, particularly in the technology corridor along North
+and [[mix-of-use|mixed-use]] professional space, particularly in the technology corridor along North
 University Avenue in Provo and along the I-15 frontage in American Fork (to the north)
 and Lehi. The Thanksgiving Park office complex in Lehi is the most significant suburban
 office development in the metropolitan area, housing major technology company campuses.

@@ -28,7 +28,7 @@ commercial and professional services centre for the eastern Castile and León re
 ## Economic profile
 
 Burgos has developed one of the strongest automotive manufacturing bases of any Spanish
-provincial capital, driven by the Renault plant in nearby Valladolid's broader industrial
+provincial capital, driven by the Renault plant in nearby [[valladolid|Valladolid]]'s broader industrial
 region and the local presence of component manufacturers and logistics operations serving
 the automotive supply chain. The Grupo Antolin — one of Europe's largest automotive
 interior components suppliers — is headquartered in Burgos and is the city's largest
@@ -50,7 +50,7 @@ catchment, including Soria, Palencia, and La Rioja border communities.
 The primary large-format retail concentration in Burgos is along the Madrid road axis and
 the Burgos retail park cluster to the east of the city on the A-1 corridor, where Leroy
 Merlin, Carrefour, MediaMarkt, and Decathlon anchor the Fachmarkt-equivalent Parque
-Comercial format. This retail park concentration is the principal co-location signal for
+Comercial format. This retail park concentration is the principal [[co-location-strategy|co-location]] signal for
 professional centre assessment in the Spanish market.
 
 The historic city centre — with the Burgos Cathedral (a UNESCO World Heritage Site) and

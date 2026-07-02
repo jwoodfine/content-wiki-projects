@@ -60,7 +60,7 @@ The Urban Heat Island effect — the phenomenon by which cities and suburbs reco
 
 ## Commercial Real Estate Implications
 
-The quality, density, and walkability of the built environment are primary inputs to site scoring in commercial real estate analysis. Nodes with fine-grained street grids, continuous pedestrian frontage, mixed land use, and access to transit infrastructure consistently outperform dispersed suburban nodes on metrics of anchor tenant viability, commercial rent performance, and co-location productivity.
+The quality, density, and walkability of the built environment are primary inputs to site scoring in commercial real estate analysis. Nodes with fine-grained street grids, continuous pedestrian frontage, mixed land use, and access to transit infrastructure consistently outperform dispersed suburban nodes on metrics of anchor tenant viability, commercial rent performance, and [[co-location-strategy|co-location productivity]].
 
 Building stock vintage and condition are independent inputs to site assessment. Older building stock may carry architectural quality and contextual coherence that newer suburban development does not provide. Heritage commercial buildings in established urban cores often command premium rents relative to their floor-plate efficiency, because tenants value the street-level environment, pedestrian traffic, and transit access that the surrounding built environment provides.
 

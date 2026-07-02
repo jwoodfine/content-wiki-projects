@@ -18,7 +18,7 @@ paired_with: transaction-summary-report-protocol.es.md
 cites: []
 ---
 
-The **Transaction Summary Report Protocol** governs the process by which Development Site candidates identified through the geographic co-location methodology advance from the scored shortlist to a decision by the Independent Directors of the General Partner. A site that achieves a qualifying cluster score and has confirmed land availability does not automatically enter active development — it must pass through a documented review process in which demographic fit, permitting status, and development timeline are evaluated against defined standards and presented to the Board in a reproducible, site-comparable format.
+The **Transaction Summary Report Protocol** governs the process by which Development Site candidates identified through the [[geographic-co-location-methodology|geographic co-location methodology]] advance from the scored shortlist to a decision by the Independent Directors of the General Partner. A site that achieves a [[gis-cluster-scoring-glossary|qualifying cluster score]] and has confirmed land availability does not automatically enter active development — it must pass through a documented review process in which demographic fit, permitting status, and development timeline are evaluated against defined standards and presented to the Board in a reproducible, site-comparable format.
 
 ## Purpose and Audience
 
@@ -32,7 +32,7 @@ The Transaction Summary Report follows a standardized template applied to every 
 
 **1. Introduction to demographic profiling.** An explanation of the methodology used to characterize the consumer population of the Primary Target trade area, including the data sources and the segmentation approach applied to produce the demographic profile.
 
-**2. Outline of the Optimum Mosaic.** A presentation of the benchmark demographic profile derived from the top-performing Primary Target locations. The Optimum Mosaic outlines the household income, age distribution, family composition, and secondary trade characteristics that are common to the most commercially productive sites in the dataset.
+**2. Outline of the [[optimum-mosaic-demographic-profiling|Optimum Mosaic]].** A presentation of the benchmark demographic profile derived from the top-performing Primary Target locations. The Optimum Mosaic outlines the household income, age distribution, family composition, and secondary trade characteristics that are common to the most commercially productive sites in the dataset.
 
 **3. Demographics of the Primary Target location.** The actual demographic profile of the trade area surrounding the candidate Development Site. This section uses the same analytical framework and data sources as the Optimum Mosaic section to ensure that the comparison in section 5 is methodologically consistent.
 
@@ -44,7 +44,7 @@ The Transaction Summary Report follows a standardized template applied to every 
 
 Before a Transaction Summary Report is commissioned for a candidate site, real estate professionals engaged by Woodfine in the identified market conduct a preliminary assessment of land availability adjacent to the Primary Target. This assessment identifies: whether development-ready land exists on or adjacent to the Primary Target parcel; the asking price or estimated acquisition cost; the current zoning status; and any identified impediments to development, including environmental conditions, infrastructure gaps, or existing agreements that would restrict use.
 
-Sites with no available land adjacent to the Primary Target are removed from the active shortlist and placed on a monitoring register. Monitoring register sites remain in the dataset for re-evaluation if adjacent land becomes available in future periods. Annual or biennial updates to the dataset's sales per square foot rankings permit re-ranking of the full Primary Target population, which may change the relative priority of monitoring register sites over time.
+Sites with no available land adjacent to the Primary Target are removed from the active shortlist and placed on a [[development-site-monitoring-register|monitoring register]]. Monitoring register sites remain in the dataset for re-evaluation if adjacent land becomes available in future periods. Annual or biennial updates to the dataset's sales per square foot rankings permit re-ranking of the full Primary Target population, which may change the relative priority of monitoring register sites over time.
 
 ## Permitting Timeline Evaluation
 

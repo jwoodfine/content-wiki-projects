@@ -23,7 +23,7 @@ autonomy (concierto económico) similar to the Basque Country's system. The Pamp
 Barañáin urban agglomeration had a population of approximately 350,000 in 2021. Navarre is
 consistently one of the highest-income autonomous communities in Spain, with household
 income levels comparable to Basque Country and substantially above the Spanish national
-average. This income profile is the primary market selection criterion for co-location
+average. This income profile is the primary market selection criterion for [[co-location-strategy|co-location]]
 investment.
 
 ## Economic profile
@@ -53,7 +53,7 @@ Pamplona's primary large-format retail concentration is at the La Morea and Txan
 parks to the north of the city, with El Corte Inglés (in the city centre at Travesía de
 Bayona), Leroy Merlin, IKEA (in the metropolitan area), and MediaMarkt anchoring the
 Parque Comercial format. The retail park concentration and the IKEA presence are strong
-co-location signals in the Spanish market, as IKEA site selection criteria align closely
+co-location signals in the Spanish market, as IKEA [[site-selection-terminology|site selection criteria]] align closely
 with the income and catchment size criteria applied to professional centre assessment.
 
 The historic Old Town (*Casco Viejo*) — famous internationally for the Running of the Bulls

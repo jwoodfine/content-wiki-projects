@@ -51,7 +51,7 @@ to downtown) contribute higher education anchor demand.
 
 ## Commercial real estate characteristics
 
-The Haywood Road / Woodruff Road corridor in east Greenville is the primary power centre
+The Haywood Road / Woodruff Road corridor in east Greenville is the primary [[power-centres|power centre]]
 and suburban retail concentration, including Costco, Home Depot, Lowe's, Walmart Supercenter,
 Target, Best Buy, and a comprehensive mid-box and restaurant retail ecosystem. This corridor,
 running roughly parallel to Interstate 85, extends into Mauldin and Simpsonville to the

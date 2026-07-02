@@ -21,7 +21,7 @@ editor: editorial
 
 # Wichita, Kansas — Regional Market
 
-**Wichita** is the largest city in Kansas and the primary commercial hub for south-central Kansas, located 250 kilometres from Oklahoma City, the nearest reference metropolitan centre. The market contains four Tier 1 co-location clusters — the highest tier, requiring the simultaneous presence of hypermarket, hardware, and warehouse club anchors — and is distinguished by its civic infrastructure, including multiple hospital campuses and Wichita State University. This density gives Wichita a composite co-location score of 48.0, ranking it 16th among the 400 highest-scoring North American Regional Markets.
+**Wichita** is the largest city in Kansas and the primary commercial hub for south-central Kansas, located 250 kilometres from Oklahoma City, the nearest reference metropolitan centre. The market contains four Tier 1 [[co-location-strategy|co-location]] clusters — the highest tier, requiring the simultaneous presence of hypermarket, hardware, and warehouse club anchors — and is distinguished by its civic infrastructure, including multiple hospital campuses and Wichita State University. This density gives Wichita a composite co-location score of 48.0, ranking it 16th among the 400 highest-scoring North American [[regional-markets|Regional Markets]].
 
 ## Overview
 
@@ -80,7 +80,7 @@ The composite score of 48.0 places Wichita at rank 16 among the 400 highest-scor
 
 ## The bottom line
 
-Wichita's composite score of 48.0 and rank of 16 among North American Regional Markets is driven by a rare combination: four independent Tier 1 co-location clusters, a dense overlay of medical and academic civic anchors, and geographic isolation that caps its metropolitan-distance multiplier at the maximum. For site-selection purposes, this signals a deep, multi-anchor retail catchment whose trade-area pull extends well beyond the city's residential base into the surrounding rural counties.
+Wichita's composite score of 48.0 and rank of 16 among North American Regional Markets is driven by a rare combination: four independent Tier 1 co-location clusters, a dense overlay of medical and academic civic anchors, and geographic isolation that caps its metropolitan-distance multiplier at the maximum. For [[site-selection-terminology|site-selection]] purposes, this signals a deep, multi-anchor retail catchment whose trade-area pull extends well beyond the city's residential base into the surrounding rural counties.
 
 ## Wikipedia References
 

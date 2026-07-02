@@ -24,7 +24,7 @@ cites:
 
 ---
 
-The North America co-location dataset is maintained as three separate scored populations — Canada, the United States, and Mexico — each applying the five-degree cluster methodology to the Walmart Supercentre network in the applicable jurisdiction. Cluster degree and tier score (T3 Apex ≥ 700, T2 Hub ≥ 450, T1 Valid ≥ 150) are determined by the standard co-occurrence thresholds: 1.0 km Primary-Secondary radius, 5.0 km Tertiary radius.
+The North America [[co-location-strategy|co-location]] dataset is maintained as three separate scored populations — Canada, the United States, and Mexico — each applying the five-degree cluster methodology to the Walmart Supercentre network in the applicable jurisdiction. Cluster degree and tier score (T3 Apex ≥ 700, T2 Hub ≥ 450, T1 Valid ≥ 150) are determined by the standard co-occurrence thresholds: 1.0 km Primary-Secondary radius, 5.0 km Tertiary radius.
 
 ---
 
@@ -50,8 +50,8 @@ Calibration checks are performed each time the dataset is updated with new Prima
 
 **Sales per square foot update cadence:**
 
-Primary Target sales per square foot rankings are updated annually or every second year to generate trend data and enable re-ranking of the full Primary Target population. Sales per square foot trends data, accumulated across update cycles, provides a longitudinal view of which regional markets are gaining or losing commercial productivity relative to the chain average — informing both the active pipeline prioritization and the monitoring register for sites where adjacent land was previously unavailable.
+Primary Target sales per square foot rankings are updated annually or every second year to generate trend data and enable re-ranking of the full Primary Target population. Sales per square foot trends data, accumulated across update cycles, provides a longitudinal view of which [[regional-markets|regional markets]] are gaining or losing commercial productivity relative to the chain average — informing both the active pipeline prioritization and the [[development-site-monitoring-register|monitoring register]] for sites where adjacent land was previously unavailable.
 
 ---
 
-*All figures reflect current V2 scoring methodology. Cluster counts are subject to change as Primary Target network changes (new store openings, store closures, format conversions) are ingested into the dataset. Site pipeline counts reflect approved shortlist targets; individual site availability is assessed through the Transaction Summary Report process.*
+*All figures reflect current V2 scoring methodology. Cluster counts are subject to change as Primary Target network changes (new store openings, store closures, format conversions) are ingested into the dataset. Site pipeline counts reflect approved shortlist targets; individual site availability is assessed through the [[transaction-summary-report-protocol|Transaction Summary Report]] process.*

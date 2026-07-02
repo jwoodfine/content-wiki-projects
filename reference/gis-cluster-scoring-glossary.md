@@ -19,11 +19,11 @@ paired_with: gis-cluster-scoring-glossary.es.md
 cites: []
 ---
 
-This glossary defines the terminology used in Woodfine Management Corp.'s geographic co-location scoring system. The vocabulary covers cluster degree designations, tier score labels, radius threshold conventions, and dataset output metrics. These terms appear in co-location dataset reports, GIS coverage communications, and site selection materials prepared for review by the Independent Directors of the General Partner.
+This glossary defines the terminology used in Woodfine Management Corp.'s [[geographic-co-location-methodology|geographic co-location scoring system]]. The vocabulary covers cluster degree designations, tier score labels, radius threshold conventions, and dataset output metrics. These terms appear in co-location dataset reports, GIS coverage communications, and site selection materials prepared for review by the Independent Directors of the General Partner.
 
 ## Cluster Degree Terms
 
-**First-Degree Cluster** — A scored co-location node at which a Primary Target (Walmart Supercentre) and at least one Secondary Target (Home Depot or Costco Wholesale) are located within 1.0 km of each other. The baseline indicator of a co-anchored commercial node.
+**First-Degree Cluster** — A scored co-location node at which a [[co-location-target-hierarchy|Primary Target]] (Walmart Supercentre) and at least one Secondary Target (Home Depot or Costco Wholesale) are located within 1.0 km of each other. The baseline indicator of a co-anchored commercial node.
 
 **Second-Degree Cluster** — A First-Degree Cluster at which at least one Tertiary Target (a post-secondary institution or a major medical centre) is located within 5.0 km. Indicates co-anchor presence plus institutional employment demand within commute range.
 
@@ -41,11 +41,11 @@ The V2 scoring methodology assigns scored clusters to three tiers based on aggre
 
 **T2 Hub** — Score ≥ 450. The mid-tier designation. A T2 Hub cluster has confirmed Primary-Secondary co-occurrence and score contributions from additional factors — Tertiary proximity, high Primary Target sales per square foot, or Secondary multiplicity — sufficient to clear 450 points. T2 Hub clusters are qualified candidates requiring further site availability assessment.
 
-**T1 Valid** — Score ≥ 150. The entry-level designation. A T1 Valid cluster has Primary Target presence with partial co-location confirmation. T1 Valid clusters may qualify if site availability and Tertiary proximity factors are confirmed in the Transaction Summary Report process.
+**T1 Valid** — Score ≥ 150. The entry-level designation. A T1 Valid cluster has Primary Target presence with partial co-location confirmation. T1 Valid clusters may qualify if site availability and Tertiary proximity factors are confirmed in the [[transaction-summary-report-protocol|Transaction Summary Report]] process.
 
 ## Radius Threshold Conventions
 
-**1.0 km threshold** — Applied to Primary and Secondary Target co-occurrence. A 1.0 km radius at Regional Market spatial scales corresponds to the shared site infrastructure zone of a co-anchored power centre. Secondary Targets within 1.0 km of a Primary Target are treated as operating within the same commercial node rather than as independently located operators.
+**1.0 km threshold** — Applied to Primary and Secondary Target co-occurrence. A 1.0 km radius at [[regional-markets|Regional Market]] spatial scales corresponds to the shared site infrastructure zone of a co-anchored [[power-centres|power centre]]. Secondary Targets within 1.0 km of a Primary Target are treated as operating within the same commercial node rather than as independently located operators.
 
 **3.0 km threshold** — A recalibrated radius applied when Fifth-Degree Clusters exceed 10% of all Primary Target entries in the dataset. When the top cluster tier contains more than 10% of all entries, the Tertiary proximity threshold tightens from 5.0 km to 3.0 km and the Primary-Secondary threshold tightens from 1.0 km to below 1.0 km. The recalibration preserves the discriminating power of the cluster hierarchy.
 
@@ -55,7 +55,7 @@ The V2 scoring methodology assigns scored clusters to three tiers based on aggre
 
 **Primary Target** — In the Woodfine co-location dataset, a Walmart Supercentre operating in a given geography. Each Primary Target entry is associated with a city or municipality name, population figure, sales per square foot, and a global ranking position relative to all other Primary Target entries in the dataset.
 
-**Sales per Square Foot** — The retail productivity metric used to rank Primary Targets within the dataset. Sales per square foot reflects consumer purchasing intensity within the trade area and serves as the primary sorting criterion for identifying the highest-priority Development Site candidates and for generating the Optimum Mosaic demographic analysis.
+**Sales per Square Foot** — The retail productivity metric used to rank Primary Targets within the dataset. Sales per square foot reflects consumer purchasing intensity within the trade area and serves as the primary sorting criterion for identifying the highest-priority Development Site candidates and for generating the [[optimum-mosaic-demographic-profiling|Optimum Mosaic]] demographic analysis.
 
 **Global Position** — The rank of a Primary Target by sales per square foot relative to all Primary Target entries across all three datasets (Canada, United States, Mexico). A Primary Target in the top decile of global position is both a high-performing local node and a high-performing site relative to the full North American dataset.
 

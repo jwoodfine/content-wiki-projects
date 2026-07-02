@@ -18,7 +18,7 @@ paired_with: markets/valladolid.es.md
 ---
 
 The **Valladolid regional market** is the largest city in Castile and León and the de facto
-capital of the autonomous community, even though Burgos and other provincial capitals hold
+capital of the autonomous community, even though [[burgos|Burgos]] and other provincial capitals hold
 competing administrative functions. The municipality of Valladolid had a population of
 approximately 299,000 in 2021, and the metropolitan area extends to approximately 430,000–
 450,000. Valladolid is Spain's 10th-largest city and holds a strategic position on the

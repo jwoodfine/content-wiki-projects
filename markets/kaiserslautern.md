@@ -58,7 +58,7 @@ Kaiserslautern's Fachmarktzentrum is concentrated primarily in the Merkur-Fachma
 and the Kaiserslautern Einkaufspark at the city's northern periphery, where OBI, Kaufland,
 and Mediamarkt format retailers anchor large-format retail strips. The Kaiserslautern city
 centre (Fackelrondell and pedestrianised Schillerstraße) retains traditional commercial
-mixed-use with fashion retail and professional services.
+[[mix-of-use|mixed-use]] with fashion retail and professional services.
 
 The US military community's retail purchasing patterns are partly served by on-base
 commissaries and BX/PX facilities at Ramstein, but the German civilian retail base

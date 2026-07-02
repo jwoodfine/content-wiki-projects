@@ -25,7 +25,7 @@ keynote: true
 keynote_section: "Architecture"
 ---
 
-Classical architecture denotes building design consciously derived from the principles of ancient Greek and Roman construction. The term spans a long line of revival and reinterpretation: from the Carolingian Renaissance through the Italian Renaissance, from Baroque and Palladianism through Neoclassicism and into the early 20th century. What these movements share is a reference to an underlying formal language — the column orders, the proportional systems, the rules of composition — codified in ancient practice and transmitted through architectural theory, above all through the Roman architect Vitruvius.
+Classical architecture denotes building design consciously derived from the principles of ancient Greek and Roman construction. The term spans a long line of revival and reinterpretation: from the Carolingian Renaissance through the Italian Renaissance, from [[baroque-architecture|Baroque]] and Palladianism through [[neoclassical-architecture|Neoclassicism]] and into the early 20th century. What these movements share is a reference to an underlying formal language — the column orders, the proportional systems, the rules of composition — codified in ancient practice and transmitted through architectural theory, above all through the Roman architect Vitruvius.
 
 The defining characteristic of classical architecture is its use of a systematic order of proportions for structural and decorative elements. The five orders — Tuscan, Doric, Ionic, Corinthian, and Composite — establish ratios between column diameter, height, capital, entablature, and pediment. A building that applies these proportional rules, even freely, is working in the classical tradition. A building that abandons proportional relationships in favour of expressive or functional imperatives is operating outside it.
 
@@ -35,7 +35,7 @@ Classical architecture is derived from the building traditions of ancient Greece
 
 With the collapse of the western Roman Empire, classical architectural traditions ceased to be practiced at scale in western Europe. The Carolingian Renaissance of the late 8th and early 9th centuries produced the earliest conscious attempts to revive classical forms in architecture. The Italian Renaissance of the 15th century saw the most systematic return to classical precedent, with architects including Leon Battista Alberti, Sebastiano Serlio, and Giacomo Barozzi da Vignola working directly from Vitruvius and from the study of surviving Roman buildings.
 
-Subsequent periods produced distinct classical interpretations: the Baroque and Rococo of the 17th and 18th centuries applied classical vocabulary with dramatic effect; Palladianism, derived from the Venetian architect Andrea Palladio (1508–1580), dominated British architecture of the Georgian period; and Neoclassicism, emerging from around 1750 as a reaction to Baroque excess, returned to a more austere and rational classical practice. Nordic Classicism produced important buildings in Scandinavia during the 1920s. The advent of modernism in the early 20th century displaced classicism from its dominant position in Western architectural practice.
+Subsequent periods produced distinct classical interpretations: the Baroque and Rococo of the 17th and 18th centuries applied classical vocabulary with dramatic effect; Palladianism, derived from the Venetian architect Andrea Palladio (1508–1580), dominated British architecture of the Georgian period; and Neoclassicism, emerging from around 1750 as a reaction to Baroque excess, returned to a more austere and rational classical practice. Nordic Classicism produced important buildings in Scandinavia during the 1920s. The advent of [[modern-architecture|modernism]] in the early 20th century displaced classicism from its dominant position in Western architectural practice.
 
 ## Formal characteristics
 
@@ -55,7 +55,7 @@ The capital requirements for classical heritage buildings are distinctive. Mason
 
 The broad scope of classical architecture makes precise classification difficult for commercial real estate purposes. A building drawing lightly on classical vocabulary — a symmetrical facade with rusticated base and cornice — is not the same as a purpose-built Neoclassical bank with colonnade and dome. For asset evaluation purposes, the relevant question is not style classification but building characteristics: floor heights, structural system, facade material, unit depth, and heritage designation status. These characteristics — not the degree of classical fidelity — determine the asset's operational profile and capital requirements.
 
-New Classical architecture — contemporary building design following classical principles — has produced commercial and institutional buildings in European and North American markets since the 1980s. These are addressed in a separate article on new-classical-architecture.
+[[new-classical-architecture|New Classical architecture]] — contemporary building design following classical principles — has produced commercial and institutional buildings in European and North American markets since the 1980s. These are addressed in a separate article on new-classical-architecture.
 
 ---
 

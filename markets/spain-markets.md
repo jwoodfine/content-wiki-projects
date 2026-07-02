@@ -37,21 +37,21 @@ than income, with lower median household income requiring more careful demand an
 The Spanish retail landscape is anchored by Mercadona, Leroy Merlin, IKEA, and Decathlon,
 with Alcampo (Auchan) and Carrefour hypermarkets present in most provincial capitals above
 100,000 population. Leroy Merlin penetration — the primary DIY format — is a particularly
-reliable income and power centre signal in Spanish regional markets.
+reliable income and [[power-centres|power centre]] signal in Spanish regional markets.
 
 ## Coverage by autonomous community
 
-**Basque Country** — Vitoria-Gasteiz (capital of Álava) as primary qualifying market;
+**Basque Country** — [[vitoria-gasteiz|Vitoria-Gasteiz]] (capital of Álava) as primary qualifying market;
 San Sebastián and Bilbao assessed as primary-adjacent markets requiring secondary-market
 targeting within the urban region.
 
-**Navarre** — Pamplona and the Navarre Valley corridor; strong income; Leroy Merlin
+**Navarre** — [[pamplona|Pamplona]] and the Navarre Valley corridor; strong income; Leroy Merlin
 and Decathlon anchors confirm power centre viability.
 
-**Aragon** — Zaragoza is large (primary market threshold); secondary cities Huesca and
+**Aragon** — [[zaragoza-secondary|Zaragoza]] is large (primary market threshold); secondary cities Huesca and
 Teruel qualify on niche professional demand.
 
-**Castile and León** — Valladolid, Burgos, León, Salamanca, and Ávila as primary regional
+**Castile and León** — [[valladolid|Valladolid]], [[burgos|Burgos]], León, Salamanca, and Ávila as primary regional
 qualifying markets; the largest land area of any autonomous community with the most
 distributed market set.
 

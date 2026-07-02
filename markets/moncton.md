@@ -52,7 +52,7 @@ base comparable to or exceeding Fredericton's in several categories.
 
 Moncton's primary retail concentration is along Wheeler Boulevard and the Mapleton Road
 corridor in north Moncton, where large-format anchors including Costco, Home Depot,
-Walmart Supercentre, Canadian Tire, and Sobeys anchor an extensive power centre complex.
+Walmart Supercentre, Canadian Tire, and Sobeys anchor an extensive [[power-centres|power centre]] complex.
 Trinity Drive in the Dieppe sector has developed as a parallel retail node serving the
 growing francophone suburban population.
 

@@ -52,7 +52,7 @@ Northampton Waterside Campus (2018), has become a more visible institutional anc
 
 Northampton's primary retail park concentration is at the Riverside Retail Park and the
 Nene Valley Retail Park along the A45 eastern corridor, where Marks & Spencer, Next,
-Costco, Home Bargains, B&Q, and associated food retail anchor a comprehensive power centre-
+Costco, Home Bargains, B&Q, and associated food retail anchor a comprehensive [[power-centres|power centre]]-
 equivalent retail strip. The Sixfields Leisure and Retail Park to the west provides
 additional large-format capacity.
 

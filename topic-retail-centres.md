@@ -20,7 +20,7 @@ cites: []
 
 **Retail Centres** (PRO) are neighbourhood commercial centres anchored by everyday-needs retail: a grocery hypermarket, a pharmacy, a bank branch, and casual dining. The archetype captures the grocery-anchored commercial gravity that organises local consumer activity — the cluster of stores residents visit weekly for routine shopping, banking, and meals.
 
-Three-letter code: **PRO**. One of three Location Intelligence archetypes alongside [[topic-urban-fringe|Urban Fringe (VWH)]] and [[topic-commuter|Commuter (PKS)]]. PRO is the base map product — the foundation of the site-selection dataset on which the other two archetypes are overlaid.
+Three-letter code: **PRO**. One of three Location Intelligence archetypes alongside [[topic-urban-fringe|Urban Fringe (VWH)]] and [[topic-commuter|Commuter (PKS)]]. PRO is the base map product — the foundation of the [[site-selection-terminology|site-selection]] dataset on which the other two archetypes are overlaid.
 
 ## What a Retail Centre is
 
@@ -32,7 +32,7 @@ A Retail Centre is the commercial heart of a residential catchment. Its anchor i
 - **Casual dining** — quick-service and sit-down restaurants serving the same catchment
 - **Secondary retail** — hardware, electronics, price clubs, and lifestyle retailers that deepen the centre's draw
 
-Consumer traffic at a Retail Centre is steady and broadly distributed across the week, with weekend peaks driven by household grocery runs. The defining signal is grocery-anchored co-location: where a grocery hypermarket and a hardware retailer cluster within a defined span, a Retail Centre is present.
+Consumer traffic at a Retail Centre is steady and broadly distributed across the week, with weekend peaks driven by household grocery runs. The defining signal is grocery-anchored [[co-location-strategy|co-location]]: where a grocery hypermarket and a hardware retailer cluster within a defined span, a Retail Centre is present.
 
 ## Tier classification
 
@@ -61,7 +61,7 @@ The T2 span boundary was set to 2.5 km in the most recent rebuild, tightening th
 
 ## Why PRO is the base map
 
-Retail Centres anchor the entire Location Intelligence dataset because grocery-anchored co-location is the most stable and widely distributed commercial pattern. Almost every populated catchment has a grocery anchor; the centre that forms around it is a reliable proxy for residential commercial gravity. The Urban Fringe and Commuter archetypes are defined partly in relation to PRO clusters — Urban Fringe sites are identified by the *absence* of grocery anchors, and Commuter sites reference the nearest T1/T2 Retail Centre as the regional market generating their parking demand.
+Retail Centres anchor the entire Location Intelligence dataset because grocery-anchored co-location is the most stable and widely distributed commercial pattern. Almost every populated catchment has a grocery anchor; the centre that forms around it is a reliable proxy for residential commercial gravity. The Urban Fringe and Commuter archetypes are defined partly in relation to PRO clusters — Urban Fringe sites are identified by the *absence* of grocery anchors, and Commuter sites reference the nearest T1/T2 Retail Centre as the [[regional-markets|regional market]] generating their parking demand.
 
 ## See also
 

@@ -23,7 +23,7 @@ the population, disposable income, and retail infrastructure thresholds establis
 geographically distributed set of qualifying regional markets: the country's population
 distribution produces numerous centres of 50,000 to 500,000 outside the primary Toronto,
 Vancouver, and Montreal metropolitan areas, many with high household disposable income and
-established power centre investment.
+established [[power-centres|power centre]] investment.
 
 ## National context
 
@@ -38,7 +38,7 @@ meeting population and income screens.
 The national retail landscape provides a consistent screening signal. The presence of Costco,
 Home Depot, Canadian Tire, and Loblaw-affiliated warehouse formats confirms income and demand
 conditions across the regional market set. These anchors have invested independently in
-site-selection analysis and their presence constitutes third-party corroboration of market
+[[site-selection-terminology|site-selection]] analysis and their presence constitutes third-party corroboration of market
 viability.
 
 ## Provincial coverage
@@ -48,18 +48,18 @@ Greater Golden Horseshoe beyond the Toronto metropolitan boundary, Eastern Ontar
 Southwestern Ontario, and Northern Ontario urban centres.
 
 **Alberta** — markets in the Calgary region outside the primary urban core, the Edmonton
-Capital Region beyond the metro, and mid-sized cities including Lethbridge and Red Deer.
+Capital Region beyond the metro, and mid-sized cities including [[lethbridge|Lethbridge]] and Red Deer.
 
 **British Columbia** — markets in the Okanagan Valley, Vancouver Island outside the Victoria
 CMA, the Fraser Valley, and the Thompson-Nicola region.
 
-**Saskatchewan and Manitoba** — Saskatoon and Regina as primary qualifying markets; Winnipeg
+**Saskatchewan and Manitoba** — Saskatoon and [[regina|Regina]] as primary qualifying markets; Winnipeg
 regional suburbs meeting power centre and income screens.
 
 **Quebec** — markets in the Quebec City region, Saguenay–Lac-Saint-Jean, Estrie, and
 Laurentides–Lanaudière outside the Montreal metro.
 
-**Atlantic provinces** — Moncton, Fredericton, Charlottetown, and Sidney/Cape Breton as
+**Atlantic provinces** — [[moncton|Moncton]], Fredericton, Charlottetown, and Sidney/Cape Breton as
 primary qualifying markets; others assessed individually.
 
 ## Sample markets
@@ -70,8 +70,8 @@ tenant demand analysis.
 
 | Market | Province | Population range | Notes |
 |---|---|---|---|
-| Barrie–Innisfil | Ontario | 220,000–260,000 | Major Costco + Home Depot anchors; rapid growth |
-| Kelowna | British Columbia | 230,000–260,000 | Okanagan income leader; established power centres |
+| [[barrie-innisfil|Barrie–Innisfil]] | Ontario | 220,000–260,000 | Major Costco + Home Depot anchors; rapid growth |
+| [[kelowna|Kelowna]] | British Columbia | 230,000–260,000 | Okanagan income leader; established power centres |
 | Lethbridge | Alberta | 110,000–130,000 | Strong income; single primary power centre |
 | Moncton | New Brunswick | 170,000–200,000 | Atlantic commercial hub; francophone/anglophone dual market |
 | Regina | Saskatchewan | 250,000–280,000 | Prairie capital; provincial demand anchor |

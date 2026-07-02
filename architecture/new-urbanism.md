@@ -33,7 +33,7 @@ The movement's two principal design frameworks are Traditional Neighbourhood Dev
 
 New Urbanism organizes its prescriptions across three scales. At the regional scale, it calls for infill development and densification of existing urban fabric over greenfield expansion; growth boundaries to contain urban sprawl; and transit investment linking established centres. At the neighbourhood scale, it specifies block dimensions short enough to produce walkable perimeters (typically 80–120 metres per block face), a mix of residential and commercial uses within each neighbourhood rather than in separate zones, and civic buildings at prominent intersections. At the street scale, it requires buildings to face the public realm — façades set to the street line, active ground-floor uses, limited surface parking at the front of lots.
 
-The movement also promotes the neighbourhood unit concept — the idea that a walkable neighbourhood contains within a five-minute walk most of the services residents use daily: grocery, pharmacy, medical, banking, personal care, and food service. This is the planning equivalent of the co-location thesis applied to the residential context; the same density of service providers that New Urbanism prescribes for residential neighbourhoods is the product of natural co-location accumulation in established commercial nodes.
+The movement also promotes the neighbourhood unit concept — the idea that a walkable neighbourhood contains within a five-minute walk most of the services residents use daily: grocery, pharmacy, medical, banking, personal care, and food service. This is the planning equivalent of the [[co-location-strategy|co-location thesis]] applied to the residential context; the same density of service providers that New Urbanism prescribes for residential neighbourhoods is the product of natural co-location accumulation in established commercial nodes.
 
 ## Commercial real estate applications
 
@@ -53,7 +53,7 @@ For commercial real estate investors, the relevant question is not whether a sit
 
 ## Relevance to co-location evaluation
 
-The land-use conditions that New Urbanism formalizes as planning doctrine — mixed-use floors, walkable blocks, transit proximity, service density — are the same conditions that the co-location thesis identifies as markers of high-value secondary market nodes. Sites that score well on the co-location ranking system typically exhibit New Urbanist characteristics, whether those characteristics were intentionally designed or have accumulated organically over time.
+The land-use conditions that New Urbanism formalizes as planning doctrine — mixed-use floors, walkable blocks, transit proximity, service density — are the same conditions that the co-location thesis identifies as markers of high-value secondary market nodes. Sites that score well on the [[geographic-co-location-methodology|co-location ranking system]] typically exhibit New Urbanist characteristics, whether those characteristics were intentionally designed or have accumulated organically over time.
 
 Transit-oriented development zones, in particular, produce the pedestrian capture conditions that support grocery and drug-chain anchors at densities sufficient to attract professional service co-tenants. The anchor's ability to draw customers who arrive by transit — and who, having arrived on foot, are available for additional service transactions within the same node — is the commercial mechanism that New Urbanism's design framework optimizes.
 

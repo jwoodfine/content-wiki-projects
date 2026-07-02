@@ -41,10 +41,10 @@ served from the city.
 
 ## Commercial real estate characteristics
 
-Lethbridge's primary power centre node is concentrated on the northwest side of the city
+Lethbridge's primary [[power-centres|power centre]] node is concentrated on the northwest side of the city
 along Mayor Magrath Drive North and the Crossings shopping node, which includes Costco,
 Home Depot, Walmart Supercentre, Canadian Tire, Staples, and associated mid-box retailers.
-This concentration of national retail anchors confirms the income and demand conditions
+This concentration of [[national-tenants|national retail anchors]] confirms the income and demand conditions
 required for professional centre viability.
 
 West Lethbridge, the city's fastest-growing residential area, is generating secondary

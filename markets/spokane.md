@@ -46,7 +46,7 @@ major facilities in the Greater Spokane area.
 ## Commercial real estate characteristics
 
 The primary retail concentration is in the Spokane Valley, along the Sprague Avenue and
-Sullivan Road corridors east of the city, where the power centre infrastructure includes
+Sullivan Road corridors east of the city, where the [[power-centres|power centre]] infrastructure includes
 Costco, Home Depot, Lowe's, Walmart Supercenter, and Target. The Spokane Valley Mall anchors
 the eastern retail node.
 

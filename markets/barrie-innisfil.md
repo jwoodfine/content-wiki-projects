@@ -44,10 +44,10 @@ retail, medical, and professional services.
 ## Commercial real estate characteristics
 
 The market's primary commercial node is centred on Mapleview Drive West and Big Bay Point
-Road in south Barrie, where the major power centre anchors are concentrated. This node
+Road in south Barrie, where the major [[power-centres|power centre]] anchors are concentrated. This node
 includes large-format retail — Costco, Home Depot, Best Buy, Winners, Sport Chek — alongside
 community retail and restaurant formats that confirm the income and demand profile required
-for professional centre co-location.
+for professional centre [[co-location-strategy|co-location]].
 
 Georgian Mall in central Barrie anchors a secondary commercial zone with mid-box and
 fashion retail. The Innisfil commercial corridor along Innisfil Beach Road is developing as
@@ -58,7 +58,7 @@ Office supply in the Barrie market is predominantly low-rise suburban in charact
 downtown core retains professional office users, particularly legal and government-adjacent
 services, but suburban professional parks on the south and east sides of the city have
 attracted medical, engineering, and financial services tenants seeking modern floor plates
-and parking ratios.
+and [[parking-ratio-standards|parking ratios]].
 
 ## Growth trajectory
 

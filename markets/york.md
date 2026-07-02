@@ -53,7 +53,7 @@ centre — has given way to a research and technology cluster in rail engineerin
 York's primary retail park infrastructure is at the Vanguard Retail Park (Clifton Moor,
 north of the city) and the Monks Cross Retail Park to the northeast, where Marks & Spencer,
 Next, Costco, B&Q, and Dunelm anchor large-format retail strips consistent with the
-power centre format. The Vangarde Shopping Park redevelopment at Monks Cross (opened 2013)
+[[power-centres|power centre]] format. The Vangarde Shopping Park redevelopment at Monks Cross (opened 2013)
 is the primary contemporary retail park serving the York catchment.
 
 The York city centre — with the York Shambles, the Jorvik Viking Centre, York Minster, and

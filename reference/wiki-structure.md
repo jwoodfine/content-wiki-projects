@@ -18,7 +18,7 @@ paired_with: wiki-structure.es.md
 ---
 
 The company's story starts with one sentence: it builds leasable space
-near Power Centres — large retail sites anchored by a major box-store
+near [[power-centres|Power Centres]] — large retail sites anchored by a major box-store
 tenant — so that the businesses leasing its buildings can capture the
 foot traffic, visibility, and access of the anchor. This knowledge base
 unpacks that sentence. No industry background is needed; professional
@@ -27,17 +27,17 @@ the glossary.
 
 ## The buildings
 
-**The Buildings** describes the six development classes — Professional
+**The Buildings** describes the six [[development-classes|development classes]] — Professional
 Centres (three to five storeys), Suburban Office (six to fifteen
 storeys), Retail Select (single storey), Tech Industrial, and the
 planned Parking Structures and Vertical Warehouses — each designed to a
 fixed prototype, with the tenants and economics of each class.
 
 **How We Build** is the design system: buildings designed from the
-tenant's needs outward, fixed floor plates, and the measurement
-standards and certifications the buildings are held to.
+tenant's needs outward, [[fixed-floor-plates|fixed floor plates]], and the [[boma-standard|measurement
+standards]] and certifications the buildings are held to.
 
-**Architecture and Design Styles** surveys the design culture the
+**[[architecture-overview|Architecture and Design Styles]]** surveys the design culture the
 buildings stand in, from classical to contemporary movements.
 
 ## The places

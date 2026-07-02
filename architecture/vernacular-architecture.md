@@ -37,7 +37,7 @@ Mechanical systems in vernacular stock are typically disaggregated — rooftop u
 
 ## Presence in co-location markets
 
-The commercial vernacular is heavily concentrated in the nodes that anchor secondary-market co-location. Professional service tenants — dental practices, optometrists, physiotherapy clinics, financial advisors, and insurance brokers — preferentially occupy vernacular strip centres and low-rise mixed-use blocks adjacent to grocery-anchored retail. The building type's small bay configuration and surface parking orientation align with the operational requirements of service businesses that depend on convenient vehicular access.
+The commercial vernacular is heavily concentrated in the nodes that anchor secondary-market [[co-location-strategy|co-location]]. Professional service tenants — dental practices, optometrists, physiotherapy clinics, financial advisors, and insurance brokers — preferentially occupy vernacular strip centres and low-rise mixed-use blocks adjacent to grocery-anchored retail. The building type's small bay configuration and surface parking orientation align with the operational requirements of service businesses that depend on convenient vehicular access.
 
 Grocery-anchored and national drug-chain anchors in secondary markets frequently occupy vernacular nodes that have evolved incrementally over decades. The anchor occupies a purpose-built pad or end unit; the surrounding vernacular bays fill with the service co-tenants that generate walk-in traffic and cross-refer customers to the anchor. This incremental accumulation of co-tenancy is not managed — it emerges from the anchor's draw and the vernacular node's accessibility.
 

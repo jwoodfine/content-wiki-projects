@@ -46,7 +46,7 @@ the commercial capital of an extensive agricultural hinterland.
 
 ## Commercial real estate characteristics
 
-Regina's primary power centre node is concentrated in the north end of the city along
+Regina's primary [[power-centres|power centre]] node is concentrated in the north end of the city along
 Albert Street North and the Northgate Shopping District, as well as along Victoria Avenue
 in the east end. Costco, Home Depot, Walmart Supercentre, and Canadian Tire anchor the
 major retail nodes. The Northgate Shopping Centre and Victoria Square Shopping Centre

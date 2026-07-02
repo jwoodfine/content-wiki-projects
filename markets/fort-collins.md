@@ -43,13 +43,13 @@ and a driver of specialist professional service demand.
 
 ## Commercial real estate characteristics
 
-Fort Collins's primary power centre concentration is on the south side of the city along
+Fort Collins's primary [[power-centres|power centre]] concentration is on the south side of the city along
 the South College Avenue corridor, where a continuous large-format retail strip extends from
 the Fort Collins Marketplace to Harmony Road. This corridor includes Costco, Home Depot,
 Lowe's, Walmart Supercenter, Target, Best Buy, and a comprehensive mid-box retail ecosystem
-that confirms the income and demand conditions required for professional centre co-location.
+that confirms the income and demand conditions required for professional centre [[co-location-strategy|co-location]].
 
-The Foothills Mall, redeveloped as a lifestyle centre, anchors a secondary mixed-use retail
+The Foothills Mall, redeveloped as a lifestyle centre, anchors a secondary [[mix-of-use|mixed-use]] retail
 node in central Fort Collins. The Harmony Road and Harmony Technology Park area in south
 Fort Collins has emerged as the primary suburban office and professional employment node,
 housing technology firms, financial services providers, and medical professional groups
