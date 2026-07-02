@@ -28,11 +28,15 @@ The gap between BIM production and BIM consumption in facilities management is d
 
 3. **File format opacity.** IFC-SPF is plain text, but a 50 MB IFC file for a mid-size building is not navigable with a text editor. Without a viewer, the file is effectively inaccessible.
 
+### Handover gap in practice
+
 The result is what several researchers call the "BIM handover gap": a detailed digital model of the building exists, was paid for by the developer, and meets the contractual delivery requirement — and sits unused on a shared drive.
 
 ## How FM Platform Vendors Have Addressed It
 
 Facilities management platforms — CAFM and CMMS software categories — have recognised this gap and begun building BIM viewer integrations. One documented example is a CAFM platform whose BIM integration imports model data at handover, links elements to maintenance schedules and work orders, and lets FM operators interact with the data through the CAFM interface rather than a BIM viewer.
+
+### Fidelity trade-off in CAFM imports
 
 This approach solves the viewer-cost and training-cost problems by translating BIM data into a form the CAFM platform already knows how to display. The trade-off is fidelity: the CAFM import is lossy. Pset values that the CAFM schema does not recognise are discarded. The geometric model is reduced to a floor-plan bitmap or a simple room list. The bidirectional link between FM work orders and the canonical IFC model is not maintained.
 
@@ -42,9 +46,13 @@ When the building is renovated — walls moved, systems upgraded — the CAFM da
 
 The [[topic-building-design-system-bim|Building Design System]]'s FM-specific [[topic-aec-interface-conventions|interface components]] — `GuidSearch` and `AuditLog` — are designed for the facilities manager who needs read-only access to BIM model data without the cost or complexity of an authoring-tool licence.
 
+### GuidSearch and AuditLog components
+
 `GuidSearch` is a search interface that takes an IFC GUID — the alphanumeric identifier stamped on every door, every wall, every HVAC component in a BIM model — and returns the element's Pset values, maintenance history, and open BCF issues. A facilities manager scanning a QR code attached to a piece of equipment, or reading a GUID from a work-order form, retrieves the building model data for that specific element without navigating a 3D viewport.
 
 `AuditLog` is a time-ordered log of all changes to the vault: IFC model updates, BCF topic resolutions, work-order completions, and sensor-reading anomalies. For a facilities manager whose regulatory obligation is to demonstrate that a fire door was inspected, tested, and found compliant, the AuditLog is the audit trail.
+
+### Full-fidelity reads from the canonical vault
 
 Both components are intended to run on the [[topic-asset-anchored-bim-vault]] — the same flat-file archive that the design and construction team used. There is no CAFM import, no schema translation, and no synchronisation gap. The FM operator reads the canonical model directly, at full Pset fidelity, through an interface designed for their workflow rather than for model creation.
 
@@ -53,6 +61,8 @@ Both components are intended to run on the [[topic-asset-anchored-bim-vault]] �
 The facilities management gap has a financial dimension that is less documented in the academic literature but is immediate for a property manager who is also a landlord. Lease register data — tenant names, lease terms, rent amounts, demising-wall coordinates — lives in a separate spreadsheet or lease management system, disconnected from the spatial model of the floor plate.
 
 When a tenant changes use, or a demising wall is moved for a new tenant, the lease register, the FM work-order system, and the BIM model are three separate records of the same physical change. Each must be updated independently; none automatically propagates the change to the others.
+
+### Lease data in per-element sidecars
 
 The Woodfine vault's per-element YAML sidecars carry lease references alongside sensor readings and work-order history. A wall element's sidecar includes the tenant identifier and lease term for the space it bounds. When the lease changes, the sidecar is updated in the same git commit that records the model change. The three records become one.
 

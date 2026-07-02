@@ -27,11 +27,15 @@ keynote_section: "Architecture"
 
 Contemporary architecture is the architecture of the 21st century. No single style is dominant: contemporary architects work across a range of design philosophies, from postmodern historicism and high-tech structural expressionism to new interpretations of classical and traditional architecture, to highly sculptural and conceptual building forms. The period is defined less by a shared formal vocabulary than by shared technical conditions: universal adoption of computer-aided design (CAD), which allows buildings to be modelled in three dimensions and constructed with greater precision; access to new building materials including tube structures, advanced cladding systems, and engineered composites; and the global reach of architectural practice, such that major buildings in China, Russia, and the Arab Gulf states are designed by practices based in Europe and North America.
 
+## Formal range and materials
+
 Contemporary buildings vary significantly in formal character. Some employ concrete structures wrapped in glass or aluminium screens, with very asymmetric facades and cantilevered sections. High-rise towers twist or break into crystal-like facets; facades shimmer or change colour with the angle of light. Others prioritise the use of natural and ecological materials — stone, wood, and lime — in response to sustainability requirements and energy performance standards. The use of CAD is common to all forms of contemporary architecture, enabling forms that would have been unbuildable or prohibitively expensive in earlier periods.
 
 ## Global scope
 
 Whereas the major monuments of 20th-century modern architecture were concentrated in the US and western Europe, contemporary architecture is genuinely global. China has produced landmark buildings at unprecedented speed and scale — the Burj Khalifa in Dubai, the Shanghai Tower, the Guangzhou International Finance Centre. The Arab Gulf states, Russia, and Latin America have all commissioned large-scale contemporary buildings by internationally prominent architectural practices. Contemporary architecture's global reach reflects both the globalisation of architectural practice and the ambitions of governments and developers in emerging economies to position their cities and projects through signature architecture.
+
+### Signature architects and global practices
 
 The most prominent works of contemporary architecture are largely designed by a small group of internationally active architects, many of whom rose to prominence in the late 20th century. Architects including Frank Gehry, Jean Nouvel, Norman Foster, Renzo Piano, Mario Botta, Ieoh Ming Pei, Zaha Hadid, Santiago Calatrava, Daniel Libeskind, Jacques Herzog, Pierre de Meuron, Rem Koolhaas, and Shigeru Ban have produced landmark buildings across multiple continents. Their practices operate as large multinational organisations — Gensler employs 5,000 people in 16 countries; Skidmore, Owings & Merrill operates with 30 associate architects and large teams of engineers.
 
@@ -45,7 +49,11 @@ The Centre Pompidou-Metz (Shigeru Ban, 2010) employs a roof of sixteen kilometre
 
 Contemporary architecture defines the new supply of Class A commercial office and mixed-use space in primary and major secondary markets. Office buildings constructed since approximately 1990 in North American and European markets constitute the prime end of the leasing market — curtain-wall towers with large floor plates, high floor-to-ceiling heights, flexible open-plan layouts, and modern mechanical systems. The formal vocabulary of these buildings ranges from the relatively austere neomodern glass curtain-wall to more expressive contemporary interpretations with angled facades, stepped profiles, and mixed cladding systems.
 
+### Co-location and mixed-use development
+
 For co-location analysis, contemporary commercial construction matters in two contexts. First, new mixed-use development in transit-oriented nodes increasingly produces contemporary mixed-use buildings that combine ground-floor retail, professional services, and residential or office above. These buildings are purpose-designed for co-location density — ground-floor commercial uses, direct transit access, shared amenities. Second, contemporary flagship buildings in primary markets function as address premiums for institutional and professional services tenants who require a building that signals contemporary market positioning.
+
+### Ecological performance and certification
 
 The ecological performance of contemporary commercial buildings is increasingly a factor in tenant selection and asset valuation. Green certification standards — LEED, BREEAM, and similar — are standard requirements for major institutional tenants in Canadian and European markets. Buildings without contemporary mechanical systems and envelope performance struggle to retain institutional tenants whose sustainability commitments require certified space.
 

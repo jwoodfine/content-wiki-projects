@@ -40,6 +40,8 @@ The current build covers 6,493 co-location clusters across eighteen countries on
 
 Cluster counts by tier: **T1 = 1,746** (Regional anchors), **T2 = 2,726** (District anchors), **T3 = 2,021** (Local anchors). The build pipeline draws on four primary data sources.
 
+### Primary data sources
+
 **OpenStreetMap (ODbL licence).** Retail chain locations filtered by Wikidata QID via the Overpass API. The current ingest covers more than sixty chains spanning hypermarkets, hardware superstores, warehouse clubs, electronics retailers, sporting-goods stores, and pharmacies.
 
 **Overture Maps Foundation (CDLA Permissive 2.0).** Civic anchor locations extracted from the Places dataset using the `taxonomy.primary` field. Current coverage includes 27,833 medical and 28,846 higher-education records across the eighteen countries.
@@ -62,6 +64,8 @@ Each cluster is assigned one of three tiers based on the composition of retail a
 
 The tier rule is compositional rather than count-based. A site with four co-located hypermarket banners and no hardware or warehouse-club anchor remains T3, because the compositional signal that distinguishes regional draw from local convenience is the presence of *independent* anchor categories, not the count of stores within a single category.
 
+### Span ranking and anchor categories
+
 **Geometric span ranking within tiers.** Within each tier, clusters are ordered by `span_km` — the diameter of the smallest enclosing circle that contains all member anchors. Compact clusters (`span_km` below 2.5) rank ahead of dispersed clusters. A cap is applied to prevent the algorithm from extending an arterial corridor into a single notional cluster.
 
 **Anchor categories.** Six anchor categories are recognised in the current build: `hypermarket`, `hardware`, `warehouse_club`, `electronics`, `sporting_goods`, and `pharmacy`. Hypermarket, hardware, and warehouse-club are weighted as tier-determining; electronics, sporting-goods, and pharmacy are recognised as supporting anchors and contribute to the descriptive fields but do not alter tier classification.
@@ -76,6 +80,8 @@ A Regional Market is a named municipality or equivalent administrative unit that
 | **Suburban-regional** | 15–80 km | Ranked in the Top 400 (the research gap) |
 | **Standalone-secondary** | > 80 km | Excluded from Top 400 (separate analysis category) |
 
+### Suburban-regional band and coherence constraint
+
 The suburban-regional type is the Top 400 pool. Markets closer than 15 km from a major metro centroid are treated as extensions of the metro core. Markets further than 80 km from any major metro centroid are standalone secondary cities that function independently rather than as satellites; they are tracked but ranked separately. A geographic coherence constraint excludes name-collision aggregations: any settlement whose constituent clusters span more than 200 km is excluded as an administrative artefact rather than a functioning market.
 
 **Total count: 4,436 Regional Markets** (all three types combined). Of these, **2,327 are in North America** and **2,109 are in Europe**.
@@ -83,6 +89,8 @@ The suburban-regional type is the Top 400 pool. Markets closer than 15 km from a
 ## Top 400 Composite Ranking
 
 The Top 400 Regional Markets list is a composite ranking of suburban-regional settlements. The list is produced separately for North America and Europe, yielding two ranked surfaces of 400 markets each. The suburban-regional classification (15–80 km, described above) is a pre-filter, not a score component: every market that reaches the scoring stage is already in the correct proximity band.
+
+### Score formula
 
 **Composite score formula.**
 
@@ -96,9 +104,13 @@ where:
                       0.7  for low-confidence chain coverage
 ```
 
+### Weighting rationale
+
 **Rationale.** The composite score identifies markets that combine supply-side anchor strength with civic infrastructure. The tier weighting (4 / 2 / 1) reflects the compositional hierarchy: a single T1 cluster contributes more than two T2 clusters because the simultaneous presence of three independent anchor categories — hypermarket, hardware, and warehouse club — is a stronger commercial-density signal than the presence of any two. The civic multiplier rewards the presence of medical or academic anchors, which indicate a functioning sub-metropolitan service centre rather than a pure retail strip.
 
 No metro-distance multiplier appears in the formula. Under a previous iteration of the methodology, a distance bonus inadvertently caused standalone secondary cities to outrank genuine suburbs of major metros. The current design separates classification from scoring: the 15–80 km filter puts suburban markets in the ranked pool; the formula then ranks them by anchor depth and civic quality alone.
+
+### Current top-ranked markets
 
 **Current top results.** North America: rank 1 Plano, TX (suburb of Dallas, 28 km, score 25.5); rank 2 Mesa, AZ (suburb of Phoenix, 31 km, score 22.5); rank 3 Frisco, TX (suburb of Dallas, 44 km, score 21.0). Europe: rank 1 Chemnitz (suburb of Dresden, 64 km, score 18.0); rank 5 Krefeld (suburb of Düsseldorf, 19 km, score 12.0).
 
@@ -142,6 +154,8 @@ The platform operates two record classes within its location data layer: service
 
 **Service-places records.** Civic anchors — hospitals, universities, airports — ingested from Overture Maps using `taxonomy.primary` as the category filter.
 
+### Core fields and spatial deduplication
+
 **Shared core fields.**
 
 | Field | Type | Notes |
@@ -169,6 +183,8 @@ The catchment model assigns each cluster a primary and secondary trade area defi
 | Secondary | 150 km | Regional draw |
 
 Catchment population and spend are calculated by intersecting these rings with H3 resolution-7 hexagons (≈1.22 km² per cell) populated from Kontur Population 2023 and modelled spend from WorldPop combined with per-country household-budget multipliers.
+
+### Ranking dimensions and mobility catchments
 
 **Ranking dimensions.** Each cluster receives four independent ranks across the dataset: population rank, grocery rank, hardware rank, and wholesale rank — each based on combined primary and secondary catchment totals.
 

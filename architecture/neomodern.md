@@ -27,17 +27,23 @@ keynote_section: "Architecture"
 
 Neomodern architecture — also termed New Modernism or neomodernist architecture — is a reaction against the complexity and eclecticism of [[postmodern-architecture|postmodern architecture]] that developed from the 1980s onward. Where postmodernism had rejected modernist austerity and returned to historical ornament, classical allusion, and decorative surface, neomodernism sought to recover the rational, functional, and geometrically precise qualities of [[modern-architecture|classic modernism]] — but without the ideological baggage and the tendency toward the severe or the expressionless that characterised some midcentury modernist production.
 
+## Rationalism, individualism, and relativism
+
 Neomodern architecture holds that [[contemporary-architecture|contemporary architecture]] has surpassed both postmodernism and neo-eclecticism, and that the scattered trends responding to the postmodern moment have coalesced into a new, complete architectural form. The emergent characteristics are: the centrality of rationalism, mathematics, and calculation to the aesthetic experience; comprehensive individualism — buildings that express the specific character of their site and programme rather than a shared historical vocabulary; and relativism — a rejection of the idea that any single formal language is universally applicable.
 
 ## Background and development
 
 Scholars trace neomodern thinking to Le Corbusier's *Vers une Architecture*, published in the 1920s and translated as *Towards New Architecture* in 1931, which proposed the replacement of Paris' architectural fabric with crystalline towers. Le Corbusier's ideas were taken up by critics who challenged the "functional directness" and "simplicity" of modernist architects such as Frank Lloyd Wright. The subsequent articulation of neomodern characteristics — rationalism, mathematics, and calculation as aesthetic fundamentals — can be read as a formalisation of Le Corbusier's position against the ornamentalism of the postmodern reaction.
 
+### Drivers of the neomodern turn
+
 Neomodernist architecture holds that contemporary architecture has surpassed postmodernism and neoeclecticism. Several factors contributed: the globalisation of capitalism created demand for corporate and institutional buildings that communicated international modernity without the historicist references of postmodern design; new structural and cladding technologies enabled forms of glass curtain wall construction that were lighter, more transparent, and more technically refined than the solid-panel modernism of the midcentury; and new architectural theories provided intellectual frameworks for a rationalist architecture that was not merely a return to the 1960s.
 
 ## Formal characteristics
 
 Neomodern architecture continues modern architecture as the dominant form in 20th and 21st-century commercial buildings, especially in corporate offices. Its buildings reject classical ornamentation, deliberate historical allusion, and postmodern eclecticism. Like modernist buildings, neomodernist buildings are designed to be largely monolithic and functional. The emphasis on rationalism and calculation in creating the aesthetic experience is augmented by the focus on utility, economy, and natural selection — the idea that a well-designed building serves its function with precision, and that precision itself becomes the aesthetic content.
+
+### Curtain walls and expressed structure
 
 Glass curtain walls, exposed structural systems, and minimal or no cladding ornamentation are characteristic of the neomodern commercial office tower. Floor plates are maximised relative to the building envelope; structural grids are expressed rather than concealed; mechanical systems are integrated into the building section rather than housed in service elements that interrupt the formal logic of the design. Horizontal and vertical lines are sharp, not softened by applied ornament or historicist referencing.
 
@@ -48,6 +54,8 @@ The Bay Adelaide Centre in Toronto is a documented example of the neomodern aest
 The neomodern style is the defining formal vocabulary of Class A commercial office towers built in Canadian CBDs since approximately the mid-1990s. Towers in the financial cores of Toronto, Calgary, Vancouver, Ottawa, and Montréal built in this period exhibit the neomodern characteristics: high-performance glass curtain walls, large floorplates with column-free areas, exposed concrete or steel structure at grade, minimal ornament in the lobby and common areas, and building envelopes designed for energy performance rather than sculptural effect.
 
 This stock constitutes the prime market — the buildings commanding highest asking rents, lowest vacancy rates, and deepest institutional tenant rosters. Institutional tenants in financial services, professional services, and technology sectors preferentially occupy neomodern towers because the buildings signal contemporary professional positioning, accommodate large open-plan workforces, and meet current energy performance and sustainability certification requirements.
+
+### Anchor conditions for co-location
 
 The commercial real estate evaluation implication is that neomodern office stock in CBD nodes sets the anchor condition for surrounding [[co-location-strategy|co-location]]: the towers create the daytime workforce density — and the purchasing power that comes with it — that supports the ground-floor retail, food service, personal care, and professional services co-tenancy of the node. In co-location evaluation methodology, the presence of a neomodern office tower cluster is an indicator of node quality that supports anchor grocery or pharmacy tenancy and drives co-tenancy formation.
 

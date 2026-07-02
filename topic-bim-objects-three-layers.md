@@ -20,6 +20,8 @@ A [[topic-bim-objects-what-they-are|BIM Object]] has three layers: Specification
 
 Software [[design-system-substrate|design system tokens]] typically have two concerns: what a value IS (its semantic role — primary [[design-color|colour]], heading size) and what value it resolves to (its computed output — `#164679`, `24px`). BIM Objects address a fundamentally different problem space that requires three concerns.
 
+### Three questions every element specification answers
+
 A built-environment element specification must simultaneously answer:
 - **What is this element?** — its type in a neutral, tool-independent schema (IFC), its classification in a neutral reference system (Uniclass), and its semantic identity in a jurisdiction-spanning dictionary (bSDD). This is stable across all deployments.
 - **What does the jurisdiction require of it?** — the specific regulatory requirements imposed by the law of the place where the building is located. These vary by jurisdiction, change when regulations are updated, and may include geometric constraints (setbacks, clearances, fire compartment boundaries) that cannot be expressed as numeric values.
@@ -60,6 +62,8 @@ The Regulation layer holds jurisdiction-specific requirements. It is a table of 
 
 **Why a table, not a dropdown.** A regulatory requirement is a fact about the jurisdiction where a building is located, not a choice a designer makes. The object does not ask "which jurisdiction are you in?" and display a single jurisdiction's requirements. It displays all registered jurisdictions' requirements as reference data, the same way a technical standards datasheet shows multiple national standards rows side by side.
 
+### Jurisdiction overlay rows
+
 **Overlay structure:**
 
 | Column | Content |
@@ -84,6 +88,8 @@ The Regulation layer holds jurisdiction-specific requirements. It is a table of 
 | SG | SGBC BCA Green Mark | Thermal transmittance (OTTV) | ≤ 45 | W/m² |
 | US-VA (federal) | ASHRAE 90.1-2022 | Assembly U-factor (climate zone 4A) | ≤ 0.124 | Btu/h·ft²·°F |
 
+### Empty state and geometric exclusion fragments
+
 **Empty state.** At v0.0.1, most BIM Objects have no registered overlays — the overlay structure is defined but unpopulated. The v0.0.3 milestone is planned to deliver the first overlay set: BC RS-1 residential zoning requirements for exterior walls, slabs, and windows. The empty state is displayed explicitly: "No regulatory overlays registered. BC RS-1 in development (v0.0.3)."
 
 **Geometric exclusion fragments.** Where a regulatory requirement has geometric expression — fire compartment boundaries, accessibility clearances, setback envelopes — the overlay row includes an IFC fragment: a solid geometry encoded in IFC that defines the spatial constraint. Geometric exclusion takes unconditional precedence over numeric constraints in the composition rule.
@@ -95,6 +101,8 @@ The Climate Zone layer holds climate-based performance requirements. Like the Re
 **Why Climate Zone is distinct from Regulation.** Climate zone classifications are physical geography — they are determined by latitude, altitude, precipitation, and temperature range. Building energy codes frequently reference climate zones as performance multipliers, but the climate zone itself is not a building code. It is a geographic classification that energy codes reference.
 
 BIM Object performance specifications use Climate Zones exclusively. The eco-region concept (WWF biome classification) is not used in built-environment regulatory contexts.
+
+### Classification systems and example zone rows
 
 **Climate zone classification systems used:**
 
@@ -123,6 +131,8 @@ effective_value = max(regulation_requirement, climate_zone_requirement)
 ```
 
 This is a lower-bound composition: both layers express performance minima (higher values are always acceptable; lower values are not). The maximum of the two minima is the binding requirement.
+
+### Priority stack and precedence rules
 
 **Priority stack for Regulation overlays:**
 

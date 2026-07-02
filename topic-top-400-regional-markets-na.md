@@ -79,6 +79,8 @@ The twenty-five highest-ranked North American Regional Markets are listed below,
 
 ## Full Rankings (26–400)
 
+### Ranks 26–33 — scores 12.0 to 10.5
+
 | Rank | Market | Country | Suburb of | T1 | T2 | T3 | Score |
 |------|--------|---------|-----------|----|----|----|-------|
 | 26 | Livonia, MI | US | Detroit | 2 | 0 | 0 | 12.0 |
@@ -89,6 +91,11 @@ The twenty-five highest-ranked North American Regional Markets are listed below,
 | 31 | Coral Springs, FL | US | Miami | 1 | 1 | 1 | 10.5 |
 | 32 | Overland Park, KS | US | Kansas City | 1 | 1 | 1 | 10.5 |
 | 33 | Grand Prairie, TX | US | Dallas | 1 | 1 | 1 | 10.5 |
+
+### Ranks 34–67 — scores 9.0 to 8.0
+
+| Rank | Market | Country | Suburb of | T1 | T2 | T3 | Score |
+|------|--------|---------|-----------|----|----|----|-------|
 | 34 | Moorestown-Lenola, NJ | US | Philadelphia | 1 | 0 | 2 | 9.0 |
 | 35 | Tempe, AZ | US | Phoenix | 1 | 0 | 2 | 9.0 |
 | 36 | Markham | CA | Toronto | 1 | 0 | 2 | 9.0 |
@@ -123,6 +130,11 @@ The twenty-five highest-ranked North American Regional Markets are listed below,
 | 65 | Olathe, KS | US | Kansas City | 0 | 3 | 0 | 9.0 |
 | 66 | Johns Creek, GA | US | Kennesaw | 0 | 3 | 0 | 9.0 |
 | 67 | Commack, NY | US | New York | 2 | 0 | 0 | 8.0 |
+
+### Ranks 68–107 — scores 7.5 to 6.3
+
+| Rank | Market | Country | Suburb of | T1 | T2 | T3 | Score |
+|------|--------|---------|-----------|----|----|----|-------|
 | 68 | Folsom, CA | US | Sacramento | 1 | 0 | 1 | 7.5 |
 | 69 | Lone Tree, CO | US | Denver | 1 | 0 | 1 | 7.5 |
 | 70 | Costa Mesa, CA | US | Los Angeles | 1 | 0 | 1 | 7.5 |
@@ -163,6 +175,13 @@ The twenty-five highest-ranked North American Regional Markets are listed below,
 | 105 | Bolingbrook, IL | US | Chicago | 0 | 2 | 1 | 7.5 |
 | 106 | Baja California | US | Tijuana | 1 | 1 | 0 | 6.3 |
 | 107 | California | MX | San Diego | 0 | 0 | 6 | 6.3 |
+
+### Ranks 108–307 — single Tier 1 cluster markets, score 6.0
+
+#### Ranks 108–157
+
+| Rank | Market | Country | Suburb of | T1 | T2 | T3 | Score |
+|------|--------|---------|-----------|----|----|----|-------|
 | 108 | Goldsboro, NC | US | Raleigh | 1 | 0 | 0 | 6.0 |
 | 109 | Owasso, OK | US | Tulsa | 1 | 0 | 0 | 6.0 |
 | 110 | Stratford Downtown, CT | US | New Haven | 1 | 0 | 0 | 6.0 |
@@ -213,6 +232,11 @@ The twenty-five highest-ranked North American Regional Markets are listed below,
 | 155 | Florida City, FL | US | Miami | 1 | 0 | 0 | 6.0 |
 | 156 | Laguna Niguel, CA | US | Riverside | 1 | 0 | 0 | 6.0 |
 | 157 | Hybla Valley, VA | US | Baltimore | 1 | 0 | 0 | 6.0 |
+
+#### Ranks 158–207
+
+| Rank | Market | Country | Suburb of | T1 | T2 | T3 | Score |
+|------|--------|---------|-----------|----|----|----|-------|
 | 158 | Seven Fields, PA | US | Pittsburgh | 1 | 0 | 0 | 6.0 |
 | 159 | Clermont, FL | US | Orlando | 1 | 0 | 0 | 6.0 |
 | 160 | Riverton, UT | US | Salt Lake City | 1 | 0 | 0 | 6.0 |
@@ -263,6 +287,11 @@ The twenty-five highest-ranked North American Regional Markets are listed below,
 | 205 | Alafaya, FL | US | Orlando | 1 | 0 | 0 | 6.0 |
 | 206 | Bowie, MD | US | Baltimore | 1 | 0 | 0 | 6.0 |
 | 207 | Colonial Heights, VA | US | Richmond | 1 | 0 | 0 | 6.0 |
+
+#### Ranks 208–257
+
+| Rank | Market | Country | Suburb of | T1 | T2 | T3 | Score |
+|------|--------|---------|-----------|----|----|----|-------|
 | 208 | Flemington, NJ | US | Philadelphia | 1 | 0 | 0 | 6.0 |
 | 209 | Rohnert Park, CA | US | San Francisco | 1 | 0 | 0 | 6.0 |
 | 210 | Conroe, TX | US | Houston | 1 | 0 | 0 | 6.0 |
@@ -313,6 +342,11 @@ The twenty-five highest-ranked North American Regional Markets are listed below,
 | 255 | Lake Zurich, IL | US | Chicago | 1 | 0 | 0 | 6.0 |
 | 256 | Fruitville, FL | US | Tampa | 1 | 0 | 0 | 6.0 |
 | 257 | Seven Corners, VA | US | Baltimore | 1 | 0 | 0 | 6.0 |
+
+#### Ranks 258–307
+
+| Rank | Market | Country | Suburb of | T1 | T2 | T3 | Score |
+|------|--------|---------|-----------|----|----|----|-------|
 | 258 | Jericho, NY | US | New York | 1 | 0 | 0 | 6.0 |
 | 259 | Parole, MD | US | Baltimore | 1 | 0 | 0 | 6.0 |
 | 260 | Madison Heights, MI | US | Detroit | 1 | 0 | 0 | 6.0 |
@@ -363,6 +397,11 @@ The twenty-five highest-ranked North American Regional Markets are listed below,
 | 305 | Coacalco de Berriozábal | MX | Mexico City | 1 | 0 | 0 | 6.0 |
 | 306 | Metepec | MX | Mexico City | 1 | 0 | 0 | 6.0 |
 | 307 | Atizapán de Zaragoza | MX | Mexico City | 1 | 0 | 0 | 6.0 |
+
+### Ranks 308–328 — Tier 2 combination markets, score 6.0
+
+| Rank | Market | Country | Suburb of | T1 | T2 | T3 | Score |
+|------|--------|---------|-----------|----|----|----|-------|
 | 308 | Edmond, OK | US | Oklahoma City | 0 | 1 | 2 | 6.0 |
 | 309 | Surprise, AZ | US | Phoenix | 0 | 1 | 2 | 6.0 |
 | 310 | Escondido, CA | US | San Diego | 0 | 2 | 0 | 6.0 |
@@ -384,6 +423,11 @@ The twenty-five highest-ranked North American Regional Markets are listed below,
 | 326 | Kent, WA | US | Tacoma | 0 | 2 | 0 | 6.0 |
 | 327 | Chatham-Kent, ON | CA | Detroit | 0 | 2 | 0 | 6.0 |
 | 328 | Guelph, Ontario | CA | Kitchener | 0 | 2 | 0 | 6.0 |
+
+### Ranks 329–366 — scores 5.0 to 4.5
+
+| Rank | Market | Country | Suburb of | T1 | T2 | T3 | Score |
+|------|--------|---------|-----------|----|----|----|-------|
 | 329 | Waldorf, MD | US | Baltimore | 1 | 0 | 1 | 5.0 |
 | 330 | Carson, CA | US | Los Angeles | 0 | 1 | 1 | 4.5 |
 | 331 | Winter Haven, FL | US | Orlando | 0 | 1 | 1 | 4.5 |
@@ -422,6 +466,11 @@ The twenty-five highest-ranked North American Regional Markets are listed below,
 | 364 | Pompano Beach, FL | US | Miami | 0 | 1 | 1 | 4.5 |
 | 365 | Richmond Hill, Ontario | CA | Toronto | 0 | 1 | 1 | 4.5 |
 | 366 | Oshawa, ON | CA | Toronto | 0 | 1 | 1 | 4.5 |
+
+### Ranks 367–400 — scores 4.2 to 4.0
+
+| Rank | Market | Country | Suburb of | T1 | T2 | T3 | Score |
+|------|--------|---------|-----------|----|----|----|-------|
 | 367 | Langley District Municipality | CA | Vancouver | 1 | 0 | 0 | 4.2 |
 | 368 | Santee, CA | US | San Diego | 1 | 0 | 0 | 4.0 |
 | 369 | Woodland, CA | US | Sacramento | 1 | 0 | 0 | 4.0 |

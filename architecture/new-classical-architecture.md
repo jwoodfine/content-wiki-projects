@@ -32,7 +32,11 @@ The design and construction of buildings in classical styles continued through t
 
 In Great Britain during the 1950s and 1960s, architects including Donald McMorran (1904–1965) and Raymond Erith (1904–1973) continued to design buildings in the neoclassical style despite the prevailing fashion for modern architecture. McMorran described the Modernist movement as "a dictatorship of taste" and designed numerous civic buildings in a neoclassical idiom; Erith trained Quinlan Terry (born 1937), who became one of the most prominent practitioners of New Classical architecture in the UK.
 
+### European counter-proposals of the 1970s
+
 In the late 1970s, young European architects began challenging the hegemony of modernist proposals in architecture and urban planning. Leon Krier and Maurice Culot founded the Archives d'Architecture Moderne in Brussels and published texts and counter-proposals to modernist urban redevelopment schemes. This activity gained momentum from the support of Charles, Prince of Wales, who became an influential advocate for traditional urban design and whose Prince's Foundation for Building Community has sponsored traditional architecture and urbanism projects across the UK.
+
+### Driehaus Prize and academic classicism
 
 Within the context of postmodern architecture's critique of modernist aesthetics, several architects who used classical elements — Charles Moore, Robert Venturi, Michael Graves — applied them as ironic motifs to criticise modernism's sterility. Alongside these postmodern classicists, serious New Classical architects saw classicism as a legitimate mode of architectural expression rather than an ironic reference. Thomas Gordon Smith, a 1979 Rome Prize laureate, became chair of the University of Notre Dame Department of Architecture — the institution that has most systematically taught New Classical principles at the university level. The Driehaus Architecture Prize, established in 2003 by Chicago philanthropist Richard H. Driehaus, was created as an explicit alternative to the modernist Pritzker Prize, to recognise architects "whose work embodies the principles of classical and traditional architecture and urbanism in society."
 
@@ -46,7 +50,11 @@ Internationally, the International Network for Traditional Building, Architectur
 
 The most extensively documented New Classical development project is Poundbury, a new urban extension to Dorchester in Dorset, England, developed since 1993 on land owned by the Duchy of Cornwall under a masterplan by Leon Krier. Poundbury applies New Urbanist planning principles — mixed use, pedestrian accessibility, variety of housing tenure — within a New Classical architectural vocabulary: buildings that reference local Dorset vernacular construction methods and materials, with formal architectural set pieces in town squares and on principal streets.
 
+### Reception and criticism
+
 Poundbury has attracted both admiration and criticism. Admirers point to its functional success — it has achieved the mixed-use, pedestrian-active character that modernist housing estates typically fail to produce, and commercial premises within the development have maintained high occupancy. Critics have questioned the nostalgic character of the formal vocabulary and the extent to which its success is attributable to planning principles that could be achieved in any architectural idiom.
+
+### Lessons for commercial real estate evaluation
 
 For commercial real estate evaluation, the Poundbury model demonstrates that New Classical planning and building principles are operationally viable at the scale of a new neighbourhood development. The mixed-use, pedestrian-scaled, contextually coherent environment it produces supports the co-location dynamics — density, walkability, diverse tenant mix — that characterise high-value commercial nodes in established urban areas.
 

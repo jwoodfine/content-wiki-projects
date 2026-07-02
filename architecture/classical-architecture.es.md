@@ -33,7 +33,11 @@ La característica definitoria de la arquitectura clásica es el empleo de un si
 
 La arquitectura clásica deriva de las tradiciones constructivas de la Grecia y la Roma antiguas. La construcción de templos griegos alcanzó su forma canónica en el siglo V a.C.; la construcción romana extendió y adaptó los precedentes griegos — añadiendo el arco, la bóveda y la cúpula — y produjo el tratado enciclopédico *De architectura* de Vitruvio en el siglo I a.C., que se convirtió en la principal referencia textual para los revivalismos clásicos posteriores.
 
+### Revivalismos carolingio y renacentista
+
 Con el colapso del Imperio Romano de Occidente, las tradiciones arquitectónicas clásicas dejaron de practicarse a gran escala en Europa Occidental. El Renacimiento carolingio de finales del siglo VIII y principios del IX produjo los primeros intentos conscientes de revivir las formas clásicas en arquitectura. El Renacimiento italiano del siglo XV fue el momento de retorno más sistemático al precedente clásico, con arquitectos como Leon Battista Alberti, Sebastiano Serlio y Giacomo Barozzi da Vignola trabajando directamente a partir de Vitruvio y del estudio de los edificios romanos supervivientes.
+
+### Interpretaciones barroca, palladiana y neoclásica
 
 Períodos posteriores produjeron interpretaciones clásicas diferenciadas: el Barroco y el Rococó de los siglos XVII y XVIII aplicaron el vocabulario clásico con efecto dramático; el Palladianismo, derivado del arquitecto veneciano Andrea Palladio (1508–1580), dominó la arquitectura británica del período georgiano; y el Neoclasicismo, surgido hacia 1750 como reacción al exceso barroco, retomó una práctica clásica más austera y racional. El Clasicismo Nórdico produjo obras importantes en Escandinavia durante la década de 1920. El advenimiento del [[modern-architecture|modernismo]] a principios del siglo XX desplazó al clasicismo de su posición dominante en la práctica arquitectónica occidental.
 
@@ -47,7 +51,11 @@ La simetría es un principio fundacional: los edificios clásicos se organizan t
 
 Los edificios clásicos aparecen en el sector inmobiliario comercial principalmente como patrimonio institucional consolidado en los núcleos financieros de las principales ciudades norteamericanas y europeas. Bancos, compañías aseguradoras, edificios gubernamentales, juzgados y oficinas institucionales construidos entre aproximadamente 1850 y 1940 constituyen el principal parque comercial dentro de la tradición clásica. Estos edificios comparten características relevantes para la evaluación de activos: construcción de mampostería (típicamente piedra o ladrillo), plantas profundas en relación con las alturas de planta, relaciones ventana-muro limitadas por sistemas estructurales previos a la fachada ligera, y alturas de planta a planta que típicamente superan las de la construcción comercial modernista de mediados del siglo XX.
 
+### Perfil de inquilinos en los núcleos financieros patrimoniales
+
 Los edificios clásicos patrimoniales en los núcleos financieros consolidados atraen inquilinos institucionales y de servicios profesionales — bufetes de abogados, empresas de servicios financieros, inquilinos gubernamentales — para quienes la permanencia del edificio y su dirección señalan credibilidad. En los mercados canadienses de Toronto, Vancouver, Montréal y Calgary, los edificios clásicos en nodos institucionales consolidados mantienen una alta ocupación a través de los ciclos económicos porque la composición de inquilinos se inclina hacia los servicios profesionales a largo plazo que valoran la prima de dirección.
+
+### Requisitos de capital del parque patrimonial
 
 Los requisitos de capital de los edificios clásicos patrimoniales son distintos. Las fachadas de mampostería requieren rejuntado periódico, limpieza y reparación de cantería que no aplica a los edificios de fachada ligera. La sustitución de ventanas que preserven el carácter patrimonial está condicionada y es más costosa que la sustitución comercial estándar. La sustitución de sistemas mecánicos en edificios con grandes alturas de planta a planta y plantas profundas presenta desafíos logísticos ausentes en construcciones más recientes. Estos costes quedan compensados, en las jurisdicciones que los contemplan, por incentivos fiscales patrimoniales y la prima de renta que confiere la designación patrimonial.
 

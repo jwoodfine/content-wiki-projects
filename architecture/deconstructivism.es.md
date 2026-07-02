@@ -26,6 +26,8 @@ keynote: false
 
 El deconstructivismo es un movimiento arquitectónico [[postmodern-architecture|posmoderno]] que apareció en la década de 1980, caracterizado por la impresión de fragmentación en el edificio construido — una ausencia de armonía, continuidad o simetría evidentes. El término es un acrónimo de Constructivismo y Deconstrucción, la forma de análisis semiótico desarrollada por el filósofo francés Jacques Derrida. El nombre refleja el compromiso del movimiento con la teoría postestructuralista más que con una apariencia visual deconstructivada: los arquitectos deconstructivistas manipulan la piel de la superficie estructural, despliegan formas no rectilíneas y producen un carácter visual de caos controlado, pero los edificios son estructuralmente sólidos y funcionalmente resueltos.
 
+## Principales exponentes
+
 Los arquitectos cuya obra es más frecuentemente descrita como deconstructivista incluyen a Zaha Hadid, Peter Eisenman, Frank Gehry, Rem Koolhaas, Daniel Libeskind, Bernard Tschumi y Coop Himmelb(l)au. Varios de estos arquitectos se han distanciado de la etiqueta, y el movimiento carece de la coherencia programática de, por ejemplo, la [[bauhaus|Bauhaus]] o el [[new-classical-architecture|Nuevo Clasicismo]]. Se comprende mejor como una tendencia general dentro del campo más amplio de la [[contemporary-architecture|arquitectura contemporánea]] — un conjunto de movimientos formales y posiciones filosóficas que ganó visibilidad en la década de 1980 y mantuvo su influencia durante las décadas siguientes.
 
 ## Historia y contexto
@@ -38,9 +40,13 @@ El movimiento se posicionó contra el Modernismo y el Posmodernismo. La racional
 
 El deconstructivismo aparece casi exclusivamente en instituciones culturales, museos, memoriales y edificios cívicos. Las aplicaciones comerciales — edificios de oficinas o comercio de uso específico en el modo deconstructivista — son escasas. El énfasis del movimiento en la experimentación formal y la complejidad espacial hace difícil la producción de plantas arrendables económicamente racionales dentro de la envolvente edificatoria que resulta de la lógica formal deconstructivista.
 
+### Instituciones culturales como anclas
+
 La relevancia del deconstructivismo en el inmobiliario comercial reside en la función de los edificios deconstructivistas como anclas institucionales. Los museos de Daniel Libeskind — el Museo Judío de Berlín, el Imperial War Museum North de Mánchester (2002), la adición al Museo Real de Ontario de Toronto (2007), el Edificio Hamilton del Museo de Arte de Denver (2006) — son instituciones de referencia que anclan precintos culturales. El tráfico de visitantes a estos edificios genera demanda minorista y de restauración en las manzanas inmediatamente circundantes; su presencia como hitos posiciona el distrito circundante como destino para turistas y consumidores culturales.
 
 El Walt Disney Concert Hall de Frank Gehry en Los Ángeles (2003) funciona de manera similar como el ancla del corredor cultural del centro de Los Ángeles. Las manzanas circundantes desarrollaron usos comerciales — restaurantes, hoteles, comercio — que sirven a los asistentes a la sala de conciertos y a la población más amplia atraída al distrito por su efecto de destino. La Biblioteca Central de Seattle (2004) de Rem Koolhaas y OMA, aunque no es un ancla cultural en el sentido de la sala de conciertos, sirve como destino cívico en el núcleo del centro urbano.
+
+### Evaluación del poder de atracción
 
 Para la evaluación de inmobiliario comercial, la pregunta es si un edificio deconstructivista en un nodo dado genera suficiente tráfico de visitantes y posicionamiento de distrito para sustentar los usos comerciales colocalizados. La respuesta depende del peso institucional — un gran museo nacional ancla la [[co-location-strategy|colocalización comercial]] de manera más efectiva que una instalación regional menor. Las características formales del edificio son secundarias respecto a su perfil institucional y su volumen de visitantes.
 

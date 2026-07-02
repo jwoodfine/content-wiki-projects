@@ -28,11 +28,15 @@ La brecha entre la producción BIM y el consumo BIM en la gestión de instalacio
 
 3. **Opacidad del formato de archivo.** IFC-SPF es texto simple, pero un archivo IFC de 50 MB para un edificio de tamaño mediano no es navegable con un editor de texto. Sin un visor, el archivo es prácticamente inaccesible.
 
+### Brecha de transferencia en la práctica
+
 El resultado es lo que varios investigadores llaman la "brecha de transferencia BIM": existe un modelo digital detallado del edificio, fue pagado por el promotor y cumple el requisito de entrega contractual — y permanece sin usar en una unidad compartida.
 
 ## Cómo Han Abordado el Problema los Proveedores de Plataformas de FM
 
 Las plataformas de gestión de instalaciones han reconocido esta brecha y han comenzado a desarrollar integraciones de visor BIM. Un enfoque documentado es un sistema CAFM que importa datos del modelo BIM en la transferencia, vincula los elementos con los programas de mantenimiento y las órdenes de trabajo, y permite a los operadores de FM interactuar con los datos a través de la interfaz CAFM en lugar de un visor BIM.
+
+### Compromiso de fidelidad en las importaciones CAFM
 
 Este enfoque resuelve los problemas de costo del visor y costo de capacitación al traducir los datos BIM a una forma que la plataforma CAFM ya sabe cómo mostrar. La desventaja es la fidelidad: la importación CAFM es con pérdidas. Los valores Pset que el esquema CAFM no reconoce se descartan.
 
@@ -40,15 +44,21 @@ Este enfoque resuelve los problemas de costo del visor y costo de capacitación 
 
 Los [[topic-aec-interface-conventions|componentes de interfaz]] específicos para FM del [[topic-building-design-system-bim|Sistema de Diseño de la Construcción]] — `GuidSearch` y `AuditLog` — están diseñados para el gestor de instalaciones que necesita acceso de solo lectura a los datos del modelo BIM.
 
+### Componentes GuidSearch y AuditLog
+
 `GuidSearch` es una interfaz de búsqueda que toma un GUID IFC — el identificador alfanumérico estampado en cada puerta, cada muro, cada componente HVAC en un modelo BIM — y devuelve los valores Pset del elemento, el historial de mantenimiento y los problemas BCF abiertos. Un gestor de instalaciones que escanea un código QR adjunto a un equipo recupera los datos del modelo para ese elemento específico sin navegar por un viewport 3D.
 
 `AuditLog` es un registro cronológico de todos los cambios en la bóveda: actualizaciones del modelo IFC, resoluciones de temas BCF, finalizaciones de órdenes de trabajo y anomalías en las lecturas de sensores.
+
+### Lecturas de fidelidad completa desde la bóveda canónica
 
 Ambos componentes están previstos para ejecutarse en la [[topic-asset-anchored-bim-vault]] — el mismo archivo de archivo plano que usó el equipo de diseño y construcción. No hay importación CAFM, no hay traducción de esquema y no hay brecha de sincronización.
 
 ## La Convergencia del Registro de Arrendamiento
 
 La brecha en la gestión de instalaciones tiene una dimensión financiera que es inmediata para un administrador de propiedades que también es arrendador. Los datos del registro de arrendamiento — nombres de inquilinos, plazos de arrendamiento, importes de alquiler, coordenadas de los muros de separación — viven en una hoja de cálculo separada, desconectada del modelo espacial de la planta.
+
+### Datos de arrendamiento en los sidecars por elemento
 
 Los sidecars YAML por elemento de la bóveda Woodfine llevan referencias de arrendamiento junto con lecturas de sensores e historial de órdenes de trabajo. Cuando cambia el arrendamiento, el sidecar se actualiza en la misma confirmación git que registra el cambio del modelo. Los tres registros se convierten en uno.
 

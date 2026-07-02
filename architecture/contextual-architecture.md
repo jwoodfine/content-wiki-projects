@@ -33,9 +33,13 @@ The contextual approach was articulated as a critical position in the 1960s and 
 
 Contextual buildings are evaluated by how well they continue the existing urban pattern rather than by independent formal criteria. Key contextual parameters include:
 
+### Scale, massing, and setback
+
 **Scale and massing.** A contextual building matches the dominant height and volumetric mass of the block on which it sits. A six-storey building inserted into a block of two-storey [[vernacular-architecture|vernacular]] commercial stock fails contextually even if it is well-designed in isolation. Transitional massing — stepping down in height as a building meets a lower-scale neighbour — is a standard contextual technique.
 
 **Setback and street relationship.** Contextual buildings follow the prevailing setback line of their block, extending the building face to the same plane as adjacent structures. In established commercial streets this means building to the property line, with little or no front setback. Surface parking in front of a contextual commercial building is a contextual failure that disrupts the continuity of the street wall.
+
+### Material character and use patterns
 
 **Material and character.** Contextual buildings adopt the material vocabulary of their surroundings. In a masonry commercial district, contextual design uses brick, stone, or smooth concrete with similar proportions to the window-to-wall ratio and horizontal banding of nearby buildings. Direct material replication is not required — the principle is compatibility of character rather than copying.
 
@@ -47,6 +51,8 @@ Contextual design discipline is relevant to commercial real estate at two points
 
 Infill development in an established secondary-market commercial node is contextually successful when the new building fills a gap in the street wall, continues the material character of the block, maintains the setback line, and introduces a compatible use at grade. Contextually successful infill strengthens the node by completing its pedestrian continuity; contextually incompatible infill — a drive-through pad site, a box-format retailer set back from the street, a residential tower that removes commercial frontage — weakens the node even if the individual building performs financially.
 
+### Renovation and expansion
+
 Renovation of existing commercial buildings raises contextual questions at the façade and signage levels. Renovation schemes that strip original masonry or introduce cladding materials incompatible with the block character damage the contextual coherence of the node. Heritage designation in Canadian and European jurisdictions frequently captures this concern in regulatory terms, requiring that renovations maintain the dominant character of the existing streetscape.
 
 Expansions and additions to existing commercial buildings require contextual analysis at the massing level. A rear addition that does not affect street presence raises no significant contextual issues. A front-facing addition that alters the building's relationship to the street line, changes the massing profile visible from the public realm, or introduces incompatible materials requires contextual assessment as if it were new infill.
@@ -56,6 +62,8 @@ Expansions and additions to existing commercial buildings require contextual ana
 Site evaluation for [[co-location-strategy|co-location]] real estate requires a contextual assessment of the immediate node environment. The relevant questions are not about architectural style but about functional coherence:
 
 Does the node present a continuous street wall that creates pedestrian enclosure and promotes walk-in traffic? Are setbacks consistent, or is the continuity broken by surface parking, vacant lots, or setback violations that interrupt pedestrian flow? Is the material palette of the node legible and coherent, signalling an established commercial district rather than an incremental assemblage of incompatible buildings?
+
+### Contextual coherence as a value marker
 
 Contextual coherence at the node level is a marker of accumulated commercial value. Nodes with high contextual coherence — consistent scale, continuous frontage, compatible materials — typically have longer tenancy histories, lower vacancy rates, and stronger anchor retention than nodes with high contextual disruption. The [[built-environment|built environment]] quality is both a consequence and a cause of long-term commercial stability.
 

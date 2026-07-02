@@ -24,15 +24,23 @@ La **Jerarquía de Objetivos de Co-Ubicación** es el sistema de clasificación 
 
 El Objetivo Primario en el conjunto de datos de Woodfine es el formato Walmart Supercentre — una tienda de gran formato combinada de comestibles y mercancía general. El Walmart Supercentre sirve como Objetivo Primario por su papel en el establecimiento de infraestructura comercial para un Mercado Regional. Cuando Walmart se compromete a construir un Supercentre en una geografía, simultáneamente instala las mejoras de acceso vial, conexiones de servicios públicos y preparación del sitio que otros operadores comerciales necesitan para seguirle.
 
+### Ventas por pie cuadrado como métrica de clasificación
+
 Las ventas por pie cuadrado de cada Walmart Supercentre en el conjunto de datos son la métrica de clasificación principal para las entradas individuales de Objetivo Primario: un Supercentre con altas ventas por pie cuadrado opera en una zona de influencia donde el volumen de compras de los consumidores está concentrado.
 
 ## Objetivos Secundarios: Home Depot y Costco Wholesale
 
 Los dos Objetivos Secundarios son The Home Depot y Costco Wholesale. Ambos validan segmentos específicos de la demanda de consumidores y comercial.
 
+### Home Depot y la base de contratistas
+
 **Home Depot** valida una base de contratistas en la zona de influencia que genera actividad de construcción y renovación comercial y residencial. Para Woodfine, la presencia de Home Depot indica un Mercado Regional con cadena de suministro de construcción activa.
 
+### Costco como filtro de ingresos y de hogares
+
 **Costco Wholesale** opera almacenes de membresía que apuntan a consumidores con capacidad de compra y escala del hogar suficiente para justificar cuotas de membresía anuales. El umbral de membresía actúa como un filtro implícito de ingresos: los mercados donde Costco opera rentablemente son mercados donde el ingreso disponible de los consumidores cumple el umbral para la compra discrecional en almacén.
+
+### Umbral de co-ocurrencia de 1,0 km
 
 Los Objetivos Secundarios reciben un umbral de co-ocurrencia de 1,0 km porque su presencia a esta distancia del Objetivo Primario indica infraestructura de sitio compartida, no proximidad geográfica coincidental.
 
@@ -40,9 +48,15 @@ Los Objetivos Secundarios reciben un umbral de co-ocurrencia de 1,0 km porque su
 
 Las dos categorías de Objetivos Terciarios son las instituciones educativas de nivel superior (universidades y colegios) y los centros médicos importantes. Ambos generan demanda sostenida e institucionalmente anclada para el arrendamiento de servicios profesionales en la geografía circundante.
 
+### Universidades y colegios como fuentes de demanda
+
 **Universidades y colegios** son empleadores de personal administrativo, investigación, clínico y de instalaciones que requieren servicios profesionales — legal, contable, asesoría financiera, médico y dental — en la zona cercana a su lugar de trabajo diario. Una institución de educación superior dentro de 5,0 km de un nodo de [[power-centres|Centro Comercial]] es una fuente confirmada de demanda de arrendamiento profesional que no depende del rendimiento comercial del ancla minorista.
 
+### Grandes centros médicos como anclas institucionales
+
 **Los centros médicos importantes** son algunos de los empleadores institucionales más estables en cualquier Mercado Regional. Las sedes de centros médicos atraen prácticas médicas afiliadas, clínicas especializadas, operadores de diagnóstico y minoristas farmacéuticos que requieren arrendamientos dedicados.
+
+### Umbral terciario de 5,0 km
 
 El umbral de 5,0 km para la co-ocurrencia terciaria refleja que los Objetivos Terciarios anclan una geografía, no un nodo comercial único. Una universidad o hospital atrae una captación profesional del Mercado Regional más amplio.
 

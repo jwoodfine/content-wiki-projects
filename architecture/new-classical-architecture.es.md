@@ -32,7 +32,11 @@ El diseño y la construcción de edificios en estilos clásicos continuó a lo l
 
 En Gran Bretaña durante las décadas de 1950 y 1960, arquitectos como Donald McMorran (1904–1965) y Raymond Erith (1904–1973) siguieron diseñando edificios en estilo neoclásico a pesar de la moda imperante por la arquitectura moderna. McMorran describió el movimiento modernista como "una dictadura del gusto" y diseñó numerosos edificios cívicos en un idioma neoclásico; Erith formó a Quinlan Terry (nacido en 1937), que se convirtió en uno de los practicantes más prominentes de la Nueva Arquitectura Clásica en el Reino Unido.
 
+### Contrapropuestas europeas de los años setenta
+
 A finales de la década de 1970, jóvenes arquitectos europeos comenzaron a cuestionar la hegemonía de las propuestas modernistas en arquitectura y urbanismo. Leon Krier y Maurice Culot fundaron los Archives d'Architecture Moderne en Bruselas y publicaron textos y contrapropuestas a los planes de reurbanización modernistas. Esta actividad cobró impulso con el apoyo de Carlos, Príncipe de Gales, que se convirtió en un influyente defensor del diseño urbano tradicional y cuya Prince's Foundation for Building Community ha patrocinado proyectos de arquitectura y urbanismo tradicionales en todo el Reino Unido.
+
+### El Premio Driehaus y el clasicismo académico
 
 Dentro del contexto de la crítica posmoderna a la estética modernista, varios arquitectos que utilizaron elementos clásicos — Charles Moore, Robert Venturi, Michael Graves — los aplicaron como motivos irónicos para criticar la esterilidad del modernismo. Junto a estos clásicos posmodernos, los arquitectos de la Nueva Arquitectura Clásica entendieron el clasicismo como un modo legítimo de expresión arquitectónica más que como una referencia irónica. El Premio Driehaus de Arquitectura, establecido en 2003 por el filántropo de Chicago Richard H. Driehaus, fue creado como alternativa explícita al Premio Pritzker modernista, para reconocer a arquitectos "cuya obra encarna los principios de la arquitectura clásica y tradicional y el urbanismo en la sociedad."
 
@@ -46,7 +50,11 @@ A nivel internacional, la Red Internacional para la Edificación Tradicional, la
 
 El proyecto de desarrollo de la Nueva Arquitectura Clásica más ampliamente documentado es Poundbury, una nueva extensión urbana de Dorchester en Dorset, Inglaterra, desarrollada desde 1993 en terrenos propiedad del Ducado de Cornualles según un plan maestro de Leon Krier. Poundbury aplica los principios urbanísticos del Nuevo Urbanismo — uso mixto, accesibilidad peatonal, variedad de tenencia de vivienda — dentro de un vocabulario arquitectónico de la Nueva Arquitectura Clásica: edificios que hacen referencia a los métodos y materiales de construcción vernáculos locales de Dorset, con piezas arquitectónicas formales en plazas y calles principales.
 
+### Recepción y críticas
+
 Poundbury ha suscitado tanto admiración como críticas. Sus admiradores señalan su éxito funcional — ha alcanzado el carácter de uso mixto y actividad peatonal que los bloques de viviendas modernistas típicamente no logran producir, y los locales comerciales dentro del desarrollo han mantenido una alta ocupación. Los críticos han cuestionado el carácter nostálgico del vocabulario formal y la medida en que su éxito es atribuible a principios urbanísticos que podrían lograrse en cualquier idioma arquitectónico.
+
+### Lecciones para la evaluación inmobiliaria comercial
 
 Para la evaluación de inmobiliario comercial, el modelo de Poundbury demuestra que los principios urbanísticos y constructivos de la Nueva Arquitectura Clásica son operativamente viables a la escala de un nuevo desarrollo de barrio. El entorno de uso mixto, escala peatonal y coherencia contextual que produce sustenta las dinámicas de colocalización — densidad, transitabilidad peatonal, composición diversa de inquilinos — que caracterizan los nodos comerciales de alto valor en las zonas urbanas consolidadas.
 

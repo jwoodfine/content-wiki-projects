@@ -32,6 +32,8 @@ El movimiento fue parcialmente revitalizado en 2007 tras la publicación del Man
 
 El neo-futurismo bebió del movimiento futurista italiano del siglo XX anterior, cuyo arquitecto Antonio Sant'Elia propuso visiones radicales de ciudades mecanizadas en la década de 1910. Los predecesores arquitectónicos directos incluyen Archigram, el grupo vanguardista británico (Peter Cook, Warren Chalk, Ron Herron, Dennis Crompton, Michael Webb, David Greene, Jan Kaplický) cuyas propuestas de "Ciudad Enchufable" de los años 1960 imaginaban entornos urbanos modulares y tecnológicamente equipados. Los terminales de transporte de Eero Saarinen y la obra temprana de Norman Foster extendieron los temas del expresionismo estructural en la dirección neo-futurista.
 
+### Tecnología como elemento generador
+
 El historiador y teórico del arte Jean-Louis Cohen definió el neo-futurismo como un corolario a la tecnología, señalando que muchas estructuras contemporáneas son subproductos de nuevos materiales y conceptos sobre la construcción a gran escala. Etan Ilfeld describió la estética neo-futurista como aquella en la que "la máquina se convierte en un elemento integral del propio proceso creativo, y genera la aparición de modos artísticos que habrían sido imposibles antes de la tecnología informática." Esto señala el papel central del software de diseño paramétrico — particularmente desde la década de 1990 — en la habilitación de las complejas superficies curvas y las formas estructuralmente no convencionales características del movimiento.
 
 ## Principales practicantes y edificios
@@ -44,7 +46,11 @@ Norman Foster, Kenzo Tange y Renzo Piano están asociados al neo-futurismo por s
 
 La relevancia del neo-futurismo en el inmobiliario comercial reside principalmente en su aplicación a la infraestructura de transporte y las instituciones culturales. Ambas tipologías edificatorias funcionan como anclas de la densidad peatonal — las condiciones que sustentan la actividad comercial [[co-location-strategy|colocalizada]] en contextos de desarrollo orientado al tránsito.
 
+### Estaciones ferroviarias como catalizadores urbanos
+
 Las estaciones ferroviarias de Calatrava, en particular, han sido implementadas como catalizadores urbanos en ciudades europeas. La estación de Lieja-Guillemins ancla un nodo de desarrollo de uso mixto en una ciudad que perdía población industrial; el dramatismo formal de la estación funciona como destino por derecho propio y como hito de orientación para el desarrollo comercial posterior. Esta es la lógica del desarrollo orientado al tránsito en su aplicación más deliberada: un edificio arquitectónicamente distintivo que genera el flujo peatonal suficiente para sustentar usos minoristas, hoteleros y de oficinas en su entorno inmediato.
+
+### Instituciones culturales como anclas de distrito
 
 Las instituciones culturales de diseño neo-futurista funcionan de manera similar como anclas en distritos museísticos y precintos culturales. La adición al Museo Real de Ontario de Libeskind en Toronto (2007) — técnicamente [[deconstructivism|deconstructivista]] pero compartiendo el vocabulario formal del neo-futurismo — funciona como edificio-destino dentro del clúster institucional de Bloor-Yorkville. Los usos comerciales que se desarrollan en torno a instituciones culturales de referencia se benefician del tráfico de visitantes de la institución y de su papel en el posicionamiento del distrito como destino.
 

@@ -32,6 +32,8 @@ The movement was partially revitalised in 2007 following the publication of the 
 
 Neo-futurism drew from the earlier 20th-century Italian Futurist movement, whose architect Antonio Sant'Elia proposed radical visions of mechanised cities in the 1910s. The direct architectural predecessors include Archigram, the British avant-garde group (Peter Cook, Warren Chalk, Ron Herron, Dennis Crompton, Michael Webb, David Greene, Jan Kaplický) whose "Plug-in City" proposals from the 1960s imagined modular, technologically serviced urban environments. Eero Saarinen's transport terminals and Hal Foster's early work extended the themes of structural expressionism into the neo-futurist direction.
 
+### Technology as generative element
+
 Art historian and theorist Jean-Louis Cohen defined neo-futurism as a corollary to technology, noting that many contemporary structures are byproducts of new materials and concepts about large-scale construction. Etan Ilfeld described the neo-futurist aesthetic as one in which "the machine becomes an integral element of the creative process itself, and generates the emergence of artistic modes that would have been impossible prior to computer technology." This points to the central role of parametric design software — particularly from the 1990s onward — in enabling the complex curved surfaces and structurally unconventional forms characteristic of the movement.
 
 ## Key practitioners and buildings
@@ -44,7 +46,11 @@ Norman Foster, Kenzo Tange, and Renzo Piano are associated with neo-futurism thr
 
 The commercial real estate relevance of neo-futurist architecture lies primarily in its application to transit infrastructure and cultural institutions. Both building types function as anchors of pedestrian density — the conditions that support [[co-location-strategy|co-located]] commercial activity in transit-oriented development contexts.
 
+### Railway stations as urban catalysts
+
 Calatrava's railway stations, in particular, have been deployed as urban catalysts in European cities. The Liège-Guillemins station anchors a mixed-use redevelopment node in a city that was losing industrial population; the station's formal drama functions as a destination in its own right and as a wayfinding landmark for the commercial development that follows. This is the transit-oriented development logic applied at its most deliberate: an architecturally distinctive building that generates pedestrian flow sufficient to support retail, hospitality, and office uses in its immediate vicinity.
+
+### Cultural institutions as district anchors
 
 Cultural institutions designed in the neo-futurist mode function similarly as anchors in museum districts and arts precincts. Libeskind's Royal Ontario Museum addition in Toronto (2007) — technically [[deconstructivism|deconstructivist]] but sharing neo-futurism's formal vocabulary — functions as a destination building within the Bloor-Yorkville institutional cluster. The commercial uses that develop around signature cultural institutions benefit from the institution's visitor traffic and its role in positioning the district as a destination.
 

@@ -40,6 +40,8 @@ La construcción actual cubre 6.493 clústeres de co-localización en dieciocho 
 
 Recuentos de clústeres por nivel: **T1 = 1.746** (Anclas regionales), **T2 = 2.726** (Anclas de distrito), **T3 = 2.021** (Anclas locales). El proceso de construcción utiliza cuatro fuentes de datos primarias.
 
+### Fuentes de datos primarias
+
 **OpenStreetMap (licencia ODbL).** Ubicaciones de cadenas minoristas filtradas por QID de Wikidata mediante la API de Overpass. La ingestión actual cubre más de sesenta cadenas que abarcan hipermercados, grandes almacenes de ferretería, clubes de precio, tiendas de electrónica, artículos deportivos y farmacias.
 
 **Overture Maps Foundation (CDLA Permissive 2.0).** Ubicaciones de anclas cívicas extraídas del conjunto de datos de Lugares usando el campo `taxonomy.primary`. La cobertura actual incluye 27.833 registros médicos y 28.846 de educación superior en los dieciocho países.
@@ -62,6 +64,8 @@ Cada clúster se asigna a uno de tres niveles según la composición de anclas m
 
 La regla de nivel es composicional, no basada en conteo. Un sitio con cuatro hipermercados co-localizados y ninguna ferretería ni club de precio sigue siendo T3, porque la señal composicional que distingue el atractivo regional de la conveniencia local es la presencia de categorías de ancla *independientes*, no el recuento de tiendas dentro de una sola categoría.
 
+### Clasificación por extensión y categorías de anclas
+
 **Clasificación por extensión geométrica dentro de los niveles.** Dentro de cada nivel, los clústeres se ordenan por `span_km` — el diámetro del círculo envolvente mínimo que contiene todas las anclas miembro. Los clústeres compactos (`span_km` inferior a 2,5) se clasifican antes que los dispersos.
 
 **Categorías de anclas.** Se reconocen seis categorías de anclas en la construcción actual: `hipermercado`, `ferretería`, `club de precio`, `electrónica`, `artículos deportivos` y `farmacia`. Hipermercado, ferretería y club de precio tienen peso determinante para el nivel; electrónica, artículos deportivos y farmacia se reconocen como anclas de apoyo.
@@ -76,6 +80,8 @@ Un Mercado Regional es un municipio o unidad administrativa equivalente con nomb
 | **Suburbano-regional** | 15–80 km | Clasificado en el Top 400 (la brecha de investigación) |
 | **Secundario independiente** | > 80 km | Excluido del Top 400 (categoría de análisis separada) |
 
+### Banda suburbana-regional del Top 400
+
 El tipo suburbano-regional es el grupo del Top 400. Los mercados a menos de 15 km del centroide de un metro principal se tratan como extensiones del núcleo metropolitano. Los mercados a más de 80 km de cualquier centroide de metro principal son ciudades secundarias que funcionan de forma independiente.
 
 **Recuento total: 4.436 Mercados Regionales** (los tres tipos combinados). De estos, **2.327 están en América del Norte** y **2.109 en Europa**.
@@ -83,6 +89,8 @@ El tipo suburbano-regional es el grupo del Top 400. Los mercados a menos de 15 k
 ## Clasificación Compuesta Top 400
 
 La lista del Top 400 Mercados Regionales es una clasificación compuesta de asentamientos suburbano-regionales. La lista se produce por separado para América del Norte y Europa, generando dos superficies de 400 mercados cada una.
+
+### Fórmula de puntuación
 
 **Fórmula de puntuación compuesta.**
 
@@ -95,6 +103,8 @@ donde:
   factor_confianza = 1,0  para cobertura de cadena de alta confianza
                     0,7  para cobertura de cadena de baja confianza
 ```
+
+### Mercados mejor clasificados actualmente
 
 **Resultados actuales más destacados.** América del Norte: posición 1 Plano, TX (suburbio de Dallas, 28 km, puntuación 25,5); posición 2 Mesa, AZ (suburbio de Phoenix, 31 km, puntuación 22,5); posición 3 Frisco, TX (suburbio de Dallas, 44 km, puntuación 21,0). Europa: posición 1 Chemnitz (suburbio de Dresden, 64 km, puntuación 18,0); posición 5 Krefeld (suburbio de Düsseldorf, 19 km, puntuación 12,0).
 
@@ -135,6 +145,8 @@ La plataforma opera con dos clases de registros dentro de su capa de datos de lo
 **Registros de negocios de servicios.** Cada registro representa una única ubicación de cadena minorista e identificada por un `chain_id` que enlaza con un archivo de configuración de cadena y por un campo `brand_wikidata` que contiene el QID de Wikidata de la marca. El QID de Wikidata es el identificador canónico de cadena entre fuentes porque opera a nivel de marca y no de nombre; dos establecimientos con diferentes denominaciones en distintos idiomas pero con el mismo QID pertenecen a la misma cadena.
 
 **Registros de lugares de servicios.** Anclas cívicas — hospitales, universidades, aeropuertos — incorporadas desde Overture Maps usando `taxonomy.primary` como filtro de categoría.
+
+### Campos comunes y deduplicación espacial
 
 **Campos comunes compartidos.**
 

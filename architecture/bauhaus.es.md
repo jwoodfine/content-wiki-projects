@@ -32,9 +32,13 @@ En arquitectura, la estética del Bauhaus se manifiesta en techos planos, acrist
 
 Los edificios comerciales influenciados por el Bauhaus exhiben un vocabulario formal consistente que se volvió tan generalizado en la construcción de mediados del siglo XX que hoy define el carácter físico de los parques de oficinas suburbanos, las franjas comerciales profesionales y los distritos industriales ligeros construidos aproximadamente entre 1945 y 1985.
 
+### Retícula estructural y acristalamiento
+
 **Retícula estructural.** Los edificios comerciales Bauhaus utilizan una retícula estructural regular — típicamente módulos de columnas de 6 a 9 metros en ambas direcciones — que permite configurar la partición interior sin modificaciones estructurales. Esta retícula universal hizo que los edificios fueran altamente adaptables a distintas configuraciones de inquilinos y contribuyó a su durabilidad como producto comercial a lo largo de múltiples ciclos de arrendamiento.
 
 **Acristalamiento de fachada continua.** Las ventanas en banda y los sistemas de fachada ligera proporcionan luz natural uniforme a grandes superficies de planta sin los vanos en muros de mampostería que limitaban los edificios comerciales anteriores. En aplicaciones comerciales suburbanas e industriales ligeras, la fachada continua simplificó notablemente la construcción, dado que la mano de obra especializada en mampostería escaseaba frecuentemente en las áreas suburbanas en rápido desarrollo.
+
+### Techos planos y plantas abiertas
 
 **Techo plano.** Los sistemas de techo plano permiten ubicar el equipamiento mecánico — unidades de climatización, torres de refrigeración, extractores de cubierta — sin que afecte la presencia del edificio en la calle. En las franjas comerciales suburbanas, los techos planos con antepechos permiten instalar carteles a una altura uniforme en varios locales, creando la homogeneidad visual característica de las franjas comerciales de mediados del siglo XX.
 
@@ -43,6 +47,8 @@ Los edificios comerciales influenciados por el Bauhaus exhiben un vocabulario fo
 ## Distribución en los mercados inmobiliarios comerciales
 
 El parque de edificios comerciales en los mercados suburbanos norteamericanos construidos entre 1945 y 1985 es en su gran mayoría de origen formal Bauhaus, independientemente de si los edificios individuales tuvieron autores arquitectónicos o fueron construidos especulativamente utilizando sistemas constructivos comerciales estándar. El edificio comercial de techo plano, ventanas en banda y aparcamiento en superficie es tan común en los mercados secundarios suburbanos que representa el tipo de edificio modal en la mayoría de los contextos de [[co-location-strategy|evaluación de colocalización]].
+
+### Adaptabilidad y rendimiento del activo
 
 Esta distribución tiene implicaciones prácticas para el análisis inmobiliario comercial. El parque comercial derivado del Bauhaus es en general altamente funcional: se subdivide fácilmente para ocupación multi-inquilino, su retícula estructural admite diversas configuraciones de inquilinos, sus sistemas mecánicos son sencillos (unidades de cubierta independientes que atienden módulos individuales) y sus interiores de gran luz son adaptables a una amplia variedad de tipos de negocio. También suele carecer de singularidad estética, lo que limita el posicionamiento premium en mercados donde los inquilinos valoran el carácter arquitectónico.
 

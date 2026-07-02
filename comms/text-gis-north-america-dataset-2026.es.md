@@ -24,9 +24,13 @@ cites:
 
 ---
 
+## Poblaciones puntuadas y umbrales de nivel
+
 El conjunto de datos de [[co-location-strategy|co-ubicación]] de América del Norte se mantiene como tres poblaciones puntuadas separadas — Canadá, Estados Unidos y México — aplicando cada una la metodología de clústeres de cinco grados a la red de Walmart Supercentre en la jurisdicción aplicable. El grado de clúster y la puntuación de nivel (T3 Apex ≥ 700, T2 Hub ≥ 450, T1 Valid ≥ 150) se determinan mediante los umbrales de co-ocurrencia estándar: radio de 1,0 km Primario-Secundario, radio de 5,0 km Terciario.
 
 ---
+
+## Requisitos de pipeline y preselección
 
 **Requisitos del pipeline por jurisdicción:**
 
@@ -40,6 +44,8 @@ El requisito de preselección se establece en una proporción mínima de 2:1 fre
 
 ---
 
+## Recalibración de Clústeres de Quinto Grado
+
 **Nota sobre calibración del conjunto de datos:**
 
 Si los Clústeres de Quinto Grado — sitios donde ambos Objetivos Secundarios (Home Depot y Costco) y ambos Objetivos Terciarios (institución de educación superior y centro médico importante) están confirmados dentro de los umbrales de radio aplicables — representan más del 10% de todas las entradas de Objetivo Primario en el conjunto de datos de una jurisdicción dada, los umbrales de radio se recalibran a la baja. El umbral de proximidad terciaria se reduce de 5,0 km a 3,0 km; el umbral Primario-Secundario se reduce de 1,0 km a menos de 1,0 km. Esta recalibración preserva el poder discriminante del nivel de clúster superior en conjuntos de datos de tamaño y densidad geográfica variables.
@@ -47,6 +53,8 @@ Si los Clústeres de Quinto Grado — sitios donde ambos Objetivos Secundarios (
 Las verificaciones de calibración se realizan cada vez que el conjunto de datos se actualiza con nuevos datos de ventas por pie cuadrado del Objetivo Primario. El disparador de recalibración no se ha activado en los conjuntos de datos de Canadá, Estados Unidos o México durante el período de informe actual.
 
 ---
+
+## Cadencia de actualización de la productividad de ventas
 
 **Cadencia de actualización de ventas por pie cuadrado:**
 

@@ -33,9 +33,13 @@ El enfoque contextual fue articulado como posición crítica en las décadas de 
 
 Los edificios contextuales se evalúan por la eficacia con que continúan el patrón urbano existente, y no por criterios formales independientes. Los parámetros contextuales clave incluyen:
 
+### Escala, volumen y retranqueo
+
 **Escala y volumen.** Un edificio contextual iguala la altura dominante y la masa volumétrica de la manzana en que se ubica. Un edificio de seis plantas insertado en una manzana de edificaciones [[vernacular-architecture|vernáculas]] comerciales de dos plantas fracasa contextualmente aunque esté bien diseñado de forma aislada. El volumen en transición — reduciendo gradualmente la altura al encontrarse con un edificio vecino de menor escala — es una técnica contextual estándar.
 
 **Retranqueo y relación con la calle.** Los edificios contextuales siguen la línea de retranqueo predominante de su manzana, prolongando la fachada hasta el mismo plano que las estructuras adyacentes. En calles comerciales consolidadas esto significa construir en el límite de la parcela, con escaso o nulo retranqueo frontal. El aparcamiento en superficie delante de un edificio comercial contextual constituye un fracaso contextual que interrumpe la continuidad de la alineación de fachadas.
+
+### Carácter material y patrones de uso
 
 **Material y carácter.** Los edificios contextuales adoptan el vocabulario material de su entorno. En un distrito comercial de mampostería, el diseño contextual emplea ladrillo, piedra u hormigón liso con proporciones similares a la relación hueco-macizo y a las bandas horizontales de los edificios próximos. La replicación directa de materiales no es obligatoria — el principio es la compatibilidad de carácter, no la imitación.
 
@@ -47,6 +51,8 @@ La disciplina del diseño contextual es relevante para el inmobiliario comercial
 
 El desarrollo de relleno en un nodo comercial de mercado secundario consolidado tiene éxito contextual cuando el nuevo edificio cierra un hueco en la alineación de fachadas, continúa el carácter material de la manzana, mantiene la línea de retranqueo e introduce un uso compatible en planta baja. El relleno contextualmente exitoso refuerza el nodo al completar su continuidad peatonal; el relleno contextualmente incompatible — una plataforma de autoservicio, un gran formato comercial retranqueado de la calle, una torre residencial que elimina fachada comercial — debilita el nodo aunque el edificio individual funcione financieramente.
 
+### Renovación y ampliación
+
 La renovación de edificios comerciales existentes plantea cuestiones contextuales a nivel de fachada y señalización. Los proyectos de renovación que eliminan la mampostería original o introducen materiales de revestimiento incompatibles con el carácter de la manzana dañan la coherencia contextual del nodo. La designación patrimonial en jurisdicciones canadienses y europeas recoge frecuentemente esta preocupación en términos normativos, exigiendo que las renovaciones mantengan el carácter dominante del paisaje urbano existente.
 
 Las ampliaciones y añadidos a edificios comerciales existentes requieren un análisis contextual a nivel de volumen. Una ampliación trasera que no afecta la presencia en calle no plantea problemas contextuales significativos. Una ampliación frontal que altera la relación del edificio con la línea de calle, modifica el perfil volumétrico visible desde el espacio público o introduce materiales incompatibles requiere una evaluación contextual equivalente a la de un nuevo relleno.
@@ -56,6 +62,8 @@ Las ampliaciones y añadidos a edificios comerciales existentes requieren un an�
 La evaluación de emplazamientos para inmobiliario de [[co-location-strategy|colocalización]] requiere una valoración contextual del entorno inmediato del nodo. Las preguntas relevantes no son sobre el estilo arquitectónico, sino sobre la coherencia funcional:
 
 ¿El nodo presenta una alineación continua de fachadas que genera el cierre peatonal y favorece el tráfico de entrada? ¿Son consistentes los retranqueos, o está la continuidad interrumpida por aparcamientos en superficie, solares vacíos o infracciones de retranqueo que rompen el flujo peatonal? ¿Es la paleta material del nodo legible y coherente, señalando un distrito comercial consolidado en lugar de un conjunto incremental de edificios incompatibles?
+
+### Coherencia contextual como indicador de valor
 
 La coherencia contextual a nivel de nodo es un indicador de valor comercial acumulado. Los nodos con alta coherencia contextual — escala consistente, fachada continua, materiales compatibles — tienen habitualmente historiales de arrendamiento más largos, menores tasas de vacancia y mayor retención de anclas que los nodos con alta disrupción contextual. La calidad del [[built-environment|entorno construido]] es tanto consecuencia como causa de la estabilidad comercial a largo plazo.
 

@@ -33,7 +33,11 @@ The defining characteristic of classical architecture is its use of a systematic
 
 Classical architecture is derived from the building traditions of ancient Greece and ancient Rome. Greek temple construction reached its canonical form in the 5th century BC; Roman construction extended and adapted Greek precedents — adding the arch, the vault, and the dome — and produced the encyclopedic treatise *De architectura* by Vitruvius in the 1st century BC that became the primary textual reference for subsequent classical revivals.
 
+### Carolingian and Renaissance revivals
+
 With the collapse of the western Roman Empire, classical architectural traditions ceased to be practiced at scale in western Europe. The Carolingian Renaissance of the late 8th and early 9th centuries produced the earliest conscious attempts to revive classical forms in architecture. The Italian Renaissance of the 15th century saw the most systematic return to classical precedent, with architects including Leon Battista Alberti, Sebastiano Serlio, and Giacomo Barozzi da Vignola working directly from Vitruvius and from the study of surviving Roman buildings.
+
+### Baroque, Palladian, and Neoclassical interpretations
 
 Subsequent periods produced distinct classical interpretations: the Baroque and Rococo of the 17th and 18th centuries applied classical vocabulary with dramatic effect; Palladianism, derived from the Venetian architect Andrea Palladio (1508–1580), dominated British architecture of the Georgian period; and Neoclassicism, emerging from around 1750 as a reaction to Baroque excess, returned to a more austere and rational classical practice. Nordic Classicism produced important buildings in Scandinavia during the 1920s. The advent of [[modern-architecture|modernism]] in the early 20th century displaced classicism from its dominant position in Western architectural practice.
 
@@ -47,7 +51,11 @@ Symmetry is a foundational principle: classical buildings are typically organize
 
 Classical buildings appear in commercial real estate primarily as heritage institutional stock in the financial core of established North American and European cities. Banks, insurance companies, government buildings, courthouses, and institutional offices built between approximately 1850 and 1940 constitute the primary commercial stock in the classical tradition. These buildings share characteristics relevant to asset evaluation: masonry construction (typically stone or brick), deep floor plates relative to floor heights, window-to-wall ratios constrained by pre-curtain-wall structural systems, and floor-to-floor heights typically exceeding those of mid-century modernist commercial construction.
 
+### Tenant profile in heritage financial cores
+
 Heritage-designated classical buildings in financial district cores attract institutional and professional tenants — law firms, financial services companies, government tenants — for whom the building's permanence and address signal credibility. In Canadian markets including Toronto, Vancouver, Montréal, and Calgary, classical buildings in consolidated institutional nodes maintain strong occupancy through economic cycles because the tenant mix skews to long-term professional services that value the address premium.
+
+### Capital requirements of heritage stock
 
 The capital requirements for classical heritage buildings are distinctive. Masonry facades require periodic repointing, cleaning, and stonework repair not applicable to curtain-wall buildings. Window replacement preserving heritage character is constrained and more expensive than standard commercial replacement. Mechanical system replacement in buildings with high floor-to-floor heights and deep floor plates presents logistical challenges absent in more recent construction. These costs are offset, in compliant jurisdictions, by heritage tax incentives and the rental premium commanded by heritage designation.
 

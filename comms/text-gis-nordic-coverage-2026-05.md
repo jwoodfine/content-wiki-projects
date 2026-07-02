@@ -21,9 +21,15 @@ cites:
 
 ---
 
+## Norway coverage via Obs Bygg
+
 The Woodfine [[co-location-strategy|co-location]] intelligence platform now covers Norway, with 66 scored retail nodes — the first time Norwegian retail corridors have appeared in the dataset. The expansion reflects the completion of location data for Obs Bygg, the DIY hardware format operated by Coop Norge, and its systematic co-occurrence with Obs Coop hypermarket sites across the country.
 
+## Sweden and United Kingdom additions
+
 Sweden and the [[united-kingdom-markets|United Kingdom]] also saw material coverage improvements. In Sweden, the addition of Bauhaus Sverige as a qualifying secondary hardware anchor unlocked co-location scoring at IKEA nodes in Stockholm, Gothenburg, and six other metropolitan areas. In the United Kingdom, the confirmation of 356 verified B&Q locations resolved a prior data gap, producing 24 scored nodes at the 3 km radius — including sites near London, Birmingham, and Edinburgh.
+
+## Dataset totals
 
 The Europe dataset now includes 479 scored clusters at the standard 3 km radius, up from 466.
 

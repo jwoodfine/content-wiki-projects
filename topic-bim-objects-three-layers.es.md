@@ -20,6 +20,8 @@ Un [[topic-bim-objects-what-they-are|Objeto BIM]] tiene tres capas: Especificaci
 
 Los tokens de los [[design-system-substrate|sistemas de diseño]] de software típicamente tienen dos preocupaciones: qué ES un valor (su rol semántico) y a qué valor se resuelve (su resultado calculado). Los Objetos BIM abordan un espacio de problemas fundamentalmente diferente que requiere tres preocupaciones.
 
+### Tres preguntas que responde toda especificación de elemento
+
 Una especificación de elemento del entorno construido debe responder simultáneamente:
 - **¿Qué es este elemento?** — su tipo en un esquema neutral e independiente de herramientas (IFC), su clasificación en un sistema de referencia neutral (Uniclass), y su identidad semántica en un diccionario que abarca jurisdicciones (bSDD).
 - **¿Qué requiere la jurisdicción de él?** — los requisitos regulatorios específicos impuestos por la ley del lugar donde se ubica el edificio. Varían por jurisdicción, cambian cuando se actualizan las regulaciones y pueden incluir restricciones geométricas que no pueden expresarse como valores numéricos.
@@ -45,6 +47,8 @@ La capa de Regulación contiene requisitos específicos de la jurisdicción. Es 
 
 **Por qué una tabla, no un menú desplegable.** Un requisito regulatorio es un hecho sobre la jurisdicción donde se ubica un edificio, no una elección que hace un diseñador. El objeto muestra los requisitos de todas las jurisdicciones registradas como datos de referencia, del mismo modo que una hoja de datos de estándares técnicos muestra múltiples filas de normas nacionales lado a lado.
 
+### Filas de superposición por jurisdicción
+
 **Filas de ejemplo para `IfcWall` (muro exterior, residencial):**
 
 | Jurisdicción | Estándar | Parámetro | Valor requerido | Unidad |
@@ -54,11 +58,15 @@ La capa de Regulación contiene requisitos específicos de la jurisdicción. Es 
 | SG | SGBC BCA Green Mark | Transmitancia térmica (OTTV) | ≤ 45 | W/m² |
 | US-VA (federal) | ASHRAE 90.1-2022 | Factor U del conjunto (zona climática 4A) | ≤ 0.124 | Btu/h·ft²·°F |
 
+### Estado vacío de las superposiciones
+
 **Estado vacío.** En v0.0.1, la mayoría de los Objetos BIM no tienen superposiciones registradas — la estructura de superposición está definida pero sin datos. El hito v0.0.3 está planificado para entregar el primer conjunto de superposiciones: requisitos de zonificación residencial BC RS-1.
 
 ## Capa 3 — Zona Climática
 
 La capa de Zona Climática contiene requisitos de desempeño basados en el clima. Es una tabla de filas de zonas climáticas registradas — todas las zonas mostradas simultáneamente.
+
+### Filas de ejemplo por zona climática
 
 **Filas de ejemplo para `IfcWall` (muro exterior):**
 
@@ -77,6 +85,8 @@ effective_value = max(regulation_requirement, climate_zone_requirement)
 ```
 
 Esta es una composición de límite inferior: ambas capas expresan mínimos de desempeño. El máximo de los dos mínimos es el requisito vinculante.
+
+### Reglas de precedencia y fallo abierto
 
 **Precedencia incondicional de la exclusión geométrica.** Un fragmento de exclusión geométrica IFC en cualquier superposición no puede ser anulado por ninguna restricción numérica.
 

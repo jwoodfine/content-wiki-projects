@@ -73,6 +73,8 @@ Los veinticinco Mercados Regionales de América del Norte mejor clasificados se 
 
 ## Clasificaciones Completas (26–400)
 
+### Puestos 26–50 — puntuaciones de 12.0 a 10.5
+
 | Pos. | Mercado | País | Suburbio de | T1 | T2 | T3 | Punt. |
 |------|---------|------|-------------|----|----|----|----|
 | 26 | Overland Park, KS | US | Kansas City | 1 | 2 | 2 | 12.0 |
@@ -100,6 +102,11 @@ Los veinticinco Mercados Regionales de América del Norte mejor clasificados se 
 | 48 | Springfield, MO | US | Joplin | 1 | 1 | 2 | 10.5 |
 | 49 | Dayton, OH | US | Columbus | 1 | 1 | 2 | 10.5 |
 | 50 | Huntsville, AL | US | Birmingham | 1 | 1 | 2 | 10.5 |
+
+### Puestos 51–92 — puntuación 9.0
+
+| Pos. | Mercado | País | Suburbio de | T1 | T2 | T3 | Punt. |
+|------|---------|------|-------------|----|----|----|----|
 | 51 | Fort Collins, CO | US | Denver | 1 | 1 | 1 | 9.0 |
 | 52 | Visalia, CA | US | Fresno | 1 | 1 | 1 | 9.0 |
 | 53 | Laredo, TX | US | San Antonio | 1 | 1 | 1 | 9.0 |
@@ -142,6 +149,11 @@ Los veinticinco Mercados Regionales de América del Norte mejor clasificados se 
 | 90 | Brownsville, TX | US | McAllen | 1 | 1 | 1 | 9.0 |
 | 91 | McAllen, TX | US | Brownsville | 1 | 1 | 1 | 9.0 |
 | 92 | El Paso, TX | US | Las Cruces | 1 | 1 | 1 | 9.0 |
+
+### Puestos 93–120 — puntuación 7.5
+
+| Pos. | Mercado | País | Suburbio de | T1 | T2 | T3 | Punt. |
+|------|---------|------|-------------|----|----|----|----|
 | 93 | Glendale, AZ | US | Phoenix | 1 | 0 | 3 | 7.5 |
 | 94 | Henderson, NV | US | Las Vegas | 1 | 0 | 3 | 7.5 |
 | 95 | North Las Vegas, NV | US | Las Vegas | 1 | 0 | 3 | 7.5 |
@@ -170,6 +182,13 @@ Los veinticinco Mercados Regionales de América del Norte mejor clasificados se 
 | 118 | Orange, CA | US | Los Angeles | 1 | 0 | 3 | 7.5 |
 | 119 | Irvine, CA | US | Los Angeles | 1 | 0 | 3 | 7.5 |
 | 120 | Chula Vista, CA | US | San Diego | 1 | 0 | 3 | 7.5 |
+
+### Puestos 121–300 — puntuación 6.0
+
+#### Puestos 121–180
+
+| Pos. | Mercado | País | Suburbio de | T1 | T2 | T3 | Punt. |
+|------|---------|------|-------------|----|----|----|----|
 | 121 | Aurora, CO | US | Denver | 1 | 0 | 2 | 6.0 |
 | 122 | Westminster, CO | US | Denver | 1 | 0 | 2 | 6.0 |
 | 123 | Arvada, CO | US | Denver | 1 | 0 | 2 | 6.0 |
@@ -230,6 +249,11 @@ Los veinticinco Mercados Regionales de América del Norte mejor clasificados se 
 | 178 | Newark, NJ | US | New York | 1 | 0 | 2 | 6.0 |
 | 179 | Jersey City, NJ | US | New York | 1 | 0 | 2 | 6.0 |
 | 180 | Paterson, NJ | US | New York | 1 | 0 | 2 | 6.0 |
+
+#### Puestos 181–240
+
+| Pos. | Mercado | País | Suburbio de | T1 | T2 | T3 | Punt. |
+|------|---------|------|-------------|----|----|----|----|
 | 181 | Toms River, NJ | US | New York | 1 | 0 | 2 | 6.0 |
 | 182 | Trenton, NJ | US | Philadelphia | 1 | 0 | 2 | 6.0 |
 | 183 | Cherry Hill, NJ | US | Philadelphia | 1 | 0 | 2 | 6.0 |
@@ -290,6 +314,11 @@ Los veinticinco Mercados Regionales de América del Norte mejor clasificados se 
 | 238 | Tucson, AZ | US | Phoenix | 1 | 0 | 2 | 6.0 |
 | 239 | Yuma, AZ | US | Phoenix | 1 | 0 | 2 | 6.0 |
 | 240 | Tempe, AZ | US | Phoenix | 0 | 2 | 2 | 6.0 |
+
+#### Puestos 241–300
+
+| Pos. | Mercado | País | Suburbio de | T1 | T2 | T3 | Punt. |
+|------|---------|------|-------------|----|----|----|----|
 | 241 | Laval, QC | CA | Montreal | 1 | 0 | 2 | 6.0 |
 | 242 | Longueuil, QC | CA | Montreal | 1 | 0 | 2 | 6.0 |
 | 243 | Quebec City, QC | CA | Montreal | 1 | 0 | 2 | 6.0 |
@@ -350,6 +379,11 @@ Los veinticinco Mercados Regionales de América del Norte mejor clasificados se 
 | 298 | Morelia | MX | Guadalajara | 1 | 0 | 2 | 6.0 |
 | 299 | Chihuahua | MX | El Paso | 1 | 0 | 2 | 6.0 |
 | 300 | Cancún | MX | Mérida | 1 | 0 | 2 | 6.0 |
+
+### Puestos 301–355 — puntuación 4.5
+
+| Pos. | Mercado | País | Suburbio de | T1 | T2 | T3 | Punt. |
+|------|---------|------|-------------|----|----|----|----|
 | 301 | Reynosa | MX | McAllen | 1 | 0 | 1 | 4.5 |
 | 302 | Matamoros | MX | Brownsville | 1 | 0 | 1 | 4.5 |
 | 303 | Acapulco | MX | Mexico City | 1 | 0 | 1 | 4.5 |
@@ -405,6 +439,11 @@ Los veinticinco Mercados Regionales de América del Norte mejor clasificados se 
 | 353 | Fort Pierce, FL | US | Miami | 0 | 2 | 1 | 4.5 |
 | 354 | Ocala, FL | US | Tampa | 0 | 2 | 1 | 4.5 |
 | 355 | Citrus County, FL | US | Tampa | 0 | 2 | 1 | 4.5 |
+
+### Puestos 356–374 — puntuación 4.0
+
+| Pos. | Mercado | País | Suburbio de | T1 | T2 | T3 | Punt. |
+|------|---------|------|-------------|----|----|----|----|
 | 356 | Kingsport, TN | US | Nashville | 0 | 2 | 0 | 4.0 |
 | 357 | Johnson City, TN | US | Nashville | 0 | 2 | 0 | 4.0 |
 | 358 | Kennesaw, GA | US | Atlanta | 0 | 2 | 0 | 4.0 |
@@ -424,6 +463,11 @@ Los veinticinco Mercados Regionales de América del Norte mejor clasificados se 
 | 372 | Buckeye, AZ | US | Phoenix | 0 | 2 | 0 | 4.0 |
 | 373 | Casa Grande, AZ | US | Phoenix | 0 | 2 | 0 | 4.0 |
 | 374 | Prescott, AZ | US | Phoenix | 0 | 2 | 0 | 4.0 |
+
+### Puestos 375–396 — puntuación 3.0
+
+| Pos. | Mercado | País | Suburbio de | T1 | T2 | T3 | Punt. |
+|------|---------|------|-------------|----|----|----|----|
 | 375 | Indio, CA | US | Los Angeles | 0 | 0 | 3 | 3.0 |
 | 376 | Hemet, CA | US | Los Angeles | 0 | 0 | 3 | 3.0 |
 | 377 | Perris, CA | US | Los Angeles | 0 | 0 | 3 | 3.0 |
@@ -446,6 +490,11 @@ Los veinticinco Mercados Regionales de América del Norte mejor clasificados se 
 | 394 | Oxnard, CA | US | Los Angeles | 0 | 0 | 3 | 3.0 |
 | 395 | Ventura, CA | US | Los Angeles | 0 | 0 | 3 | 3.0 |
 | 396 | Pomona, CA | US | Los Angeles | 0 | 1 | 1 | 3.0 |
+
+### Puestos 397–400 — puntuación 2.0
+
+| Pos. | Mercado | País | Suburbio de | T1 | T2 | T3 | Punt. |
+|------|---------|------|-------------|----|----|----|----|
 | 397 | Beaumont, CA | US | Los Angeles | 0 | 1 | 0 | 2.0 |
 | 398 | Menifee, CA | US | San Diego | 0 | 1 | 0 | 2.0 |
 | 399 | Lake Elsinore, CA | US | San Diego | 0 | 1 | 0 | 2.0 |

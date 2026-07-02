@@ -49,13 +49,19 @@ La composición de la [[co-location-strategy|co-localización]] de anclas minori
 
 La composición de anclas — qué combinaciones de categorías minoristas se agrupan, no simplemente cuántos minoristas se concentran — contiene información que la ciencia de la localización convencional no ha medido sistemáticamente. La teoría del lugar central (Christaller, 1933) predice una anidación jerárquica de las funciones minoristas, con los bienes de orden superior concentrándose en asentamientos más grandes. Los modelos gravitacionales del comercio minorista (Reilly, 1931; Huff, 1964) formalizan la relación entre la masa minorista y el coste del desplazamiento. La literatura sobre co-tenencia documenta efectos de tráfico supra-aditivos cuando los minoristas ancla se agrupan (Brueckner, 1993; Pashigian y Gould, 1998). Lo que esta literatura no ha abordado es un índice composicional a escala continental de la co-localización de múltiples anclas: un índice que distinga qué tipos de anclas se agrupan juntas y trate esta distinción composicional como la unidad primaria de análisis.
 
+#### Señal composicional de la selección de sitio independiente
+
 Un clúster que contiene un hipermercado alimentario, un almacén de mejoras del hogar y un minorista de club de almacén refleja tres procesos de [[site-selection-terminology|selección de ubicación]] independientes, continuados y convergentes en la misma localización submetropolitana. Cada uno de estos procesos codifica años de investigación de mercado sobre patrones de tráfico, densidad de la fuerza laboral y demografía del consumidor (Holmes, 2011). Su presencia conjunta es una señal de una calidad distinta a la suma de tres presencias individuales de anclas.
+
+#### Pregunta de investigación
 
 La pregunta de investigación que aborda este artículo: ¿constituye la composición de la co-localización de anclas minoristas — operacionalizada como una clasificación por niveles basada en qué categorías de anclas están presentes — un indicador adelantado estadísticamente distinguible de la intensidad de la actividad comercial en los mercados submetropolitanos? ¿Y puede construirse tal índice a escala continental a partir de datos de fuentes abiertas?
 
 ### 1.2 Alcance y contribución
 
 Este artículo realiza tres contribuciones. En primer lugar, propone una taxonomía composicional formal (T1/T2/T3) para los clústeres de co-localización minorista, basada en las combinaciones de categorías de anclas en lugar de los recuentos de minoristas o los umbrales de proximidad únicamente. En segundo lugar, implementa esta taxonomía a escala continental — 6.493 clústeres en trece países — utilizando la base de datos de OpenStreetMap (OSM) como fuente de datos primaria, demostrando que la información geográfica de voluntariado de fuente abierta (VGI, por sus siglas en inglés) es suficiente para esta clase de análisis espacial (Haklay, 2010; Darnall et al., 2022). En tercer lugar, define un programa de falsificación que puede ejecutarse a medida que los conjuntos de datos de movilidad de origen-destino (O-D) estén disponibles, permitiendo probar la señal composicional frente a la actividad comercial observada.
+
+#### Contexto de la investigación y procedencia de los datos
 
 Esta investigación se realizó dentro de la función de análisis geográfico de MCorp. El diseño de la investigación, las hipótesis y el programa de falsificación son independientes del desarrollo de productos comerciales. El conjunto de datos analítico — 6.493 clústeres de co-localización en trece países — se deriva de una infraestructura SIG operada por la empresa. Todos los datos de origen (OpenStreetMap, Kontur Population, US LODES, MITMA de España) están disponibles públicamente; la metodología de agrupamiento está completamente descrita en el §3 y es reproducible a partir de esos insumos. El marco analítico se desarrolló originalmente para apoyar la selección de ubicaciones para el desarrollo inmobiliario comercial adyacente a [[power-centres|centros de venta minorista de gran formato]] ya establecidos, un caso de uso que requiere la identificación sistemática de mercados submetropolitanos con una profundidad de anclas demostrada. El marco de investigación presentado aquí generaliza esa aplicación: la taxonomía de niveles y las variables de clasificación por área de captación son agnósticas respecto al uso de destino y se presentan como un marco de inteligencia geográfica aplicable en el sector inmobiliario comercial, la planificación del comercio minorista urbano y la geografía económica.
 
@@ -73,6 +79,8 @@ La sección 2 revisa la literatura relevante e identifica la brecha. La sección
 
 La inteligencia de localización comercial contemporánea se basa principalmente en señales de demanda observadas: datos de panel de movilidad (frecuencia de visitas basada en dispositivos), registros de transacciones y perfiles demográficos. Sistemas como SafeGraph, Foursquare y Business Analyst de Esri derivan la atracción de los sitios de estas fuentes. La inferencia es inductiva: las ubicaciones de alto tráfico reciben puntuaciones altas; los sitios candidatos se evalúan frente a la distribución de ubicaciones de alto tráfico ya conocidas.
 
+#### Limitaciones de la medición basada en la demanda
+
 Este enfoque tiene limitaciones bien documentadas. En primer lugar, la latencia de los datos: los datos de movilidad reflejan los patrones actuales y no pueden identificar mercados submetropolitanos cuya actividad comercial está por debajo del umbral observable para la medición basada en paneles. En segundo lugar, el sesgo de supervivencia: los conjuntos de datos registran la actividad en ubicaciones comerciales existentes, proporcionando la señal más débil precisamente donde el desarrollo aún no ha ocurrido — la condición de mayor interés para la geografía comercial. En tercer lugar, las brechas de representación: los paneles de dispositivos móviles subestiman sistemáticamente a las poblaciones de menores ingresos y mayores (Kwan, 2016), introduciendo error de medición sistemático en los mercados donde estos grupos forman una proporción sustancial de la base de clientes minoristas. Li et al. (2024) cuantifican esta preocupación a escala nacional, documentando que las tasas de muestreo de SafeGraph promedian el 7,5 % en los Estados Unidos, con sustancial heterogeneidad demográfica — la cobertura es materialmente más baja para las poblaciones de bajos ingresos, mayores y rurales, y la estructura del sesgo varía según las escalas espaciales. Los sesgos de representación inherentes a los paneles de movilidad GPS no están distribuidos aleatoriamente entre los tipos de mercado; se correlacionan con las características de los mercados submetropolitanos más relevantes para la selección de ubicaciones comerciales. En cuarto lugar, la disponibilidad de datos: los conjuntos de datos O-D propietarios se licencian por mercado, lo que hace que el análisis comparativo a escala continental sea impracticable para la mayoría de los programas de investigación.
 
 El complemento del lado de la oferta al análisis impulsado por la demanda — usar las decisiones de localización de los propios minoristas como señal — está comparativamente poco explorado, a pesar del respaldo teórico con que cuenta.
@@ -81,7 +89,11 @@ El complemento del lado de la oferta al análisis impulsado por la demanda — u
 
 La teoría clásica de la localización proporciona los fundamentos teóricos para un enfoque del lado de la oferta. Christaller (1933) estableció que la jerarquía minorista refleja la distribución espacial del poder adquisitivo, con los bienes de orden superior concentrándose donde la demanda es suficiente para sustentarlos. Reilly (1931) y Huff (1964) formalizaron la relación gravitacional entre la masa minorista y la extensión del área comercial. Estos modelos tratan la localización minorista como un resultado de la demanda — una preferencia revelada por ubicaciones donde las condiciones de demanda son favorables.
 
+#### Economías de aglomeración y agrupación espacial
+
 La literatura de geografía económica sobre aglomeración refuerza este encuadre. Marshall (1890) identificó las economías de localización — ganancias de productividad derivadas de la concentración geográfica de actividades relacionadas — como un motor principal de la agrupación espacial. Krugman (1991) demostró que los costos de transporte y las economías de escala producen patrones estables de centro-periferia en los que la actividad económica se concentra en una minoría de ubicaciones. Duranton y Puga (2004) proporcionan los microfundamentos: los mecanismos de intercambio, emparejamiento y aprendizaje producen economías de aglomeración que hacen que los primeros en llegar a ubicaciones de alto potencial se refuercen a sí mismos.
+
+#### Economías de densidad de Walmart y entrada secuencial
 
 Para el comercio minorista de gran formato, Holmes (2011) proporciona la evidencia empírica más directa: la difusión de Walmart a través de los Estados Unidos exhibe fuertes economías de densidad, con cada nueva ubicación de tienda al servicio de una red de distribución anclada en tiendas existentes. La selección de ubicaciones no es aleatoria — refleja décadas de datos de tráfico acumulados, análisis demográfico y evaluación de proximidad competitiva. Una ubicación seleccionada de forma independiente por Walmart, Home Depot y Costco es una ubicación que ha superado tres procesos de selección de sitio separados, costosos y con buenos recursos. Una predicción corolaria, aún no sometida a pruebas longitudinales sistemáticas, es que las anclas secundarias — minoristas de ferretería y de club de almacén — exhiben un patrón de co-localización secuencial respecto a las anclas de hipermercado: las siguen, no las preceden. Los datos temporales sobre fechas de apertura de tiendas podrían probar esta afirmación mediante métodos de estudio de eventos análogos a los aplicados a la difusión de Walmart por Holmes (2011); esta sigue siendo una pregunta abierta para investigaciones futuras (§8.2).
 
@@ -91,11 +103,15 @@ Este razonamiento sustenta una afirmación teórica clave del presente artículo
 
 La literatura sobre centros comerciales documenta externalidades positivas entre los inquilinos ancla (Brueckner, 1993). Pashigian y Gould (1998) muestran que los minoristas ancla aceptan rentas por debajo del mercado a cambio del tráfico externo que generan — evidencia de que las externalidades de co-tenencia tienen precio y son materialmente significativas. Kim y Park (2025) extienden esta evidencia al contexto del comercio minorista urbano contemporáneo, encontrando que las áreas minoristas especializadas exhiben tasas de cierre de negocios más bajas y que la coherencia composicional — más que el recuento de anclas — determina el rendimiento del clúster. Eppli y Shilling (1995) demuestran que las externalidades varían según la combinación de anclas, con ciertas combinaciones generando sustancialmente más tráfico cruzado que otras. Chen et al. (2022) proporcionan una estimación causal contemporánea de este mecanismo utilizando datos de verificación en redes sociales basadas en localización, identificando un efecto medible de la tienda ancla en el tráfico peatonal de los minoristas adyacentes. Lo que esta literatura no aborda es la composición de múltiples anclas de gran formato en configuraciones de centros comerciales al aire libre, donde las anclas están co-localizadas pero son estructuralmente independientes, y donde las externalidades se extienden más allá del sector minorista a las actividades de empleo y servicios adyacentes.
 
+#### Forma del centro de poder e investigación de clústeres basada en VGI
+
 El marco de nucleación minorista de Berry (1958) y la tipología de estructuras minoristas de Garner (1966) proporcionan los análogos más cercanos, pero fueron desarrollados para la forma urbana norteamericana de mediados del siglo XX. La configuración del centro de poder — múltiples minoristas de gran formato compartiendo un campus de estacionamiento en superficie sin una estructura de centro comercial cerrada — es la forma minorista de gran formato dominante en la América del Norte de finales del siglo XX y principios del XXI y es cada vez más común en Europa, aunque ha recibido un análisis geográfico sistemático limitado (Hernandez y Simmons, 2006). Darnall et al. (2022) demuestran que los datos de puntos minoristas derivados de OSM son suficientes para la delineación a escala nacional de aglomeraciones minoristas: su clasificación jerárquica de clústeres minoristas del Reino Unido, análoga en estructura a la taxonomía T1/T2/T3 avanzada aquí, establece la viabilidad empírica de la identificación de clústeres basada en VGI a escala continental, complementando el hallazgo anterior de Haklay (2010) sobre la precisión posicional de OSM. Zhao et al. (2025) ilustran además el enfoque de agrupamiento espacial para la selección de sitios, utilizando la estructura del espacio comercial urbano para predecir las ubicaciones de nuevas tiendas. Ninguno de estos tratamientos, sin embargo, clasifica los clústeres por composición de categorías de anclas como unidad primaria de análisis.
 
 ### 2.4 La brecha
 
 Ningún marco existente: (a) clasifica los clústeres minoristas submetropolitanos por la composición de las categorías de anclas presentes, como algo distinto del recuento de anclas o la presencia de una sola categoría; (b) implementa esta clasificación a escala continental utilizando datos de fuente abierta; o (c) propone una prueba formal de si esta medida composicional predice la intensidad de la actividad comercial más allá de lo que el tamaño del mercado solo predecería. Este artículo aborda las tres.
+
+#### Brecha de unidad espacial en la investigación de captación basada en movilidad
 
 Una segunda brecha concierne a la unidad espacial en la que se aplican los datos de movilidad del lado de la demanda. Incluso donde los datos de movilidad se han integrado en el análisis del área de captación minorista, la unidad de observación espacial ha seguido siendo el área comercial administrativa — la ciudad, el código postal o el buffer de radio fijo. Calafiore et al. (2022) redefinen la captación minorista utilizando datos de geolocalización móvil pero operan a nivel de centros minoristas administrativos en lugar de geometrías individuales de clústeres. *Explorando la dinámica sectorial económica a través de datos de movilidad de alta resolución* (2025) demuestra el alcance analítico de los registros de movilidad de alta resolución a nivel sectorial, pero su unidad espacial sigue siendo la zona administrativa. Ningún estudio publicado ha aplicado el geo-cercado de paneles de movilidad a escala de estacionamientos individuales para definir captaciones específicas de clústeres, y luego ha usado esas captaciones para comparar clústeres entre sí en lugar de con límites administrativos. El método que propone este estudio — polígono de estacionamiento → extracción de O-D de dispositivos → captación emparejada hogar/trabajo → comparación de demanda a nivel de clúster — es el puente que esta literatura aún no ha cruzado. Su contribución no es simplemente un nuevo conjunto de datos, sino una nueva unidad de observación para el análisis de co-localización minorista: el mercado submetropolitano definido por la movilidad, distinto del asentamiento en el que reside.
 
@@ -120,6 +136,8 @@ donde d(·) es la distancia geodésica, ε es un umbral de proximidad y Δ_max e
 
 Un clúster con span_km < 1,0 km es *compacto-intacto* — todos los miembros se encuentran dentro de una distancia coherente con un único centro de poder o campus minorista. Un clúster con span_km ∈ (1,0; 3,0] es *laxo* — los miembros están distribuidos a lo largo de un corredor comercial.
 
+#### Categorías de anclas y taxonomía de cadenas
+
 **Categoría de ancla.** Una clasificación funcional del comercio minorista de gran formato, definida por el patrón de tráfico dominante y el tipo de formato. En la taxonomía actual se definen seis categorías:
 
 | Categoría | Cadenas canónicas (América del Norte) | Cadenas canónicas (Europa) |
@@ -136,6 +154,8 @@ Las categorías se asignan a nivel de cadena. El *conjunto de categorías* de un
 ### 3.2 Clasificación por niveles
 
 El nivel es una función de la composición de categorías y es independiente de todos los parámetros geométricos. La clasificación se define a través de tres vías de admisión y una regla residual:
+
+#### Vías de admisión por nivel
 
 **T1 — Primario-completo.** Un clúster cuyo conjunto de categorías satisface alguna de las siguientes condiciones:
 
@@ -154,11 +174,15 @@ El nivel es una función de la composición de categorías y es independiente de
 
 **T3 — Parcial.** Todos los clústeres restantes: dominados por una sola categoría, o con múltiples categorías sin la combinación hipermercado-ferretería.
 
+#### Predicción normativa e hipótesis primaria
+
 La predicción normativa que codifica esta clasificación es:
 
 > *H₁: El nivel de co-localización es un predictor positivo estadísticamente significativo de la intensidad de la actividad comercial dentro de los mercados submetropolitanos, después de controlar por el tamaño de la población del mercado.*
 
 Esta es la hipótesis primaria del artículo. El §7 define las pruebas.
+
+#### Rigor en el límite T2
 
 La regla de nivel es intencionalmente estricta en el límite T2. Requerir tanto `hypermarket` como `hardware` para T2 significa que un clúster dominado por un único minorista de gran formato — incluso uno con un tráfico absoluto alto — se clasifica como T3. Esto difiere de una implementación anterior que promovía a T2 cualquier clúster que contenía un hipermercado con dos o más miembros; la regla actual requiere la *combinación* de categorías, no meramente la copresencia de dos unidades de cualquier tipo. El requisito de combinación de categorías capta la señal composicional (múltiples procesos independientes de selección de sitio convergiendo en una ubicación) en lugar de la señal de escala (un minorista muy grande con formatos menores adyacentes).
 
@@ -222,13 +246,23 @@ El civic_modifier requiere la creación de una capa espacial hospital-universida
 
 Los buffers de radio fijo y los límites administrativos crean falsas equivalencias entre clústeres minoristas físicamente próximos que, en realidad, sirven a poblaciones de consumidores completamente distintas. Un minorista ubicado en el borde de un área metropolitana puede captar desde un área de captación de teletrabajadores de 120 km a lo largo de un corredor de autopista, mientras que otro clúster a tres kilómetros puede captar casi exclusivamente de un barrio urbano caminable de quizás quince manzanas cuadradas. Las agregaciones por código postal, condado y área estadística metropolitana promedian sobre esta heterogeneidad; los buffers circulares alrededor de un centroide imponen una geometría que no guarda ninguna relación necesaria con el comportamiento observado del consumidor. La corrección metodológica es observar directamente el origen real del consumidor, a nivel del clúster individual, y derivar el área de captación de esa observación en lugar de hacerlo a partir de un supuesto geométrico a priori. El trabajo reciente sobre la delineación del área de captación minorista mediante geolocalización móvil (Calafiore et al., 2022) demuestra que las captaciones de origen observado divergen materialmente de las isócronas de tiempo de conducción para los mismos sitios, y que la divergencia es mayor precisamente donde más importa para la selección de sitios — en el límite entre áreas comerciales competidoras.
 
+#### Polígono de estacionamiento como unidad de observación
+
 La unidad primitiva de observación en el protocolo especificado aquí es un polígono espacial trazado alrededor de la huella del estacionamiento de cada ancla minorista dentro de un clúster de co-localización. Los polígonos se construyen a partir de imágenes aéreas ortorrectificadas y se trazan a lo largo de la superficie impermeable del parque minorista: el propio estacionamiento, las vías de acceso que lo conectan con la red vial circundante y el perímetro del edificio ancla. Este es un objeto sustancialmente diferente de un buffer circular alrededor de un centroide de punto de interés. Un buffer trata al minorista como puntual y al área circundante como indiferenciada; un polígono trata el parque minorista como un activo físico delimitado cuyas entradas y salidas pueden detectarse empíricamente. Los dispositivos observados dentro del polígono durante al menos veinte minutos durante el horario de comercio minorista (06:00–22:00, hora local) se clasifican como visitantes; los eventos con menor permanencia se excluyen como tráfico de paso en los segmentos de carretera adyacentes. El umbral de veinte minutos es coherente con las convenciones de tiempo de permanencia utilizadas en la literatura de estructura espacial de datos móviles (Büchel y Ehrlich, 2021).
+
+#### Muestreo temporal y asignación de hexágonos hogar–trabajo
 
 El protocolo de muestreo temporal resuelve una tensión entre la representatividad y el coste de adquisición de datos. Los datos O-D se extraen para cuatro días de observación laborables, sin festivos, preestablecidos por año calendario, distribuidos entre las cuatro estaciones meteorológicas. Cuatro muestras en días laborables son suficientes para caracterizar patrones espaciales estables en el origen del consumidor sin admitir los sesgos estacionales introducidos por los períodos vacacionales de verano o el período minorista de diciembre. Para cada dispositivo muestreado, se calculan dos asignaciones de celdas hexagonales de resolución 7: un hexágono de hogar, definido como la celda H3 en la que el dispositivo pasa el mayor tiempo acumulado entre las 21:00 y las 07:00 durante el período de observación, y un hexágono de trabajo, definido como la celda H3 en la que pasa el mayor tiempo acumulado entre las 09:00 y las 17:00 en días laborables. El registro de origen emparejado (home_hex, work_hex) distingue las compras impulsadas por la proximidad, ancladas al hexágono de hogar, de las compras en la ruta de desplazamiento, ancladas al hexágono de trabajo o a la geodésica entre los dos.
 
+#### Definición de la captación primaria
+
 El área de captación primaria definida por la movilidad para un clúster de co-localización es el conjunto de celdas H3 de resolución 7 desde las que se originan al menos el 1 % de los dispositivos visitantes observados, ya sea en la asignación de hogar o de trabajo, limitada por el anillo exterior de 150 km retenido del §3.4. Dentro de esa captación, los totales de población censal y las estimaciones de gasto per cápita modeladas se extraen de las celdas H3 emparejadas utilizando el procedimiento descrito en el §3.5. El resultado es un perfil de demanda específico del clúster que no depende de los límites administrativos y es insensible a los artefactos de discontinuidad de límites que afectan a los métodos de selección de sitio basados en códigos postales y municipios. Dos clústeres en la misma ciudad — uno que sirve a una población de teletrabajadores del centro, otro que sirve a una población residencial suburbana — pueden compartir un código postal o condado y sin embargo captar de poblaciones de captación completamente distintas, y la captación derivada del polígono registra esa diferencia directamente.
 
+#### Estado de implementación y conjuntos de datos proxy
+
 En el momento de redactar este artículo, el protocolo completo de polígono y dispositivo está especificado pero aún no operacionalizado a escala continental para los 6.493 clústeres del conjunto de estudio. Se está investigando actualmente la adquisición de un panel de movilidad comercial que cubra los trece países del estudio; la metodología se especifica aquí para que los resultados empíricos puedan reproducirse por otros investigadores una vez que los datos del panel estén disponibles, y para que las pruebas de falsificación del §7 sean interpretables como un programa de investigación prospectivo en lugar de una descripción post-hoc. Como proxy, los análisis O-D en los §4 y §5 utilizan el US Census LODES (flujos de trayecto al trabajo agregados a H3 resolución 7) para los clústeres de Estados Unidos, y la encuesta de movilidad MITMA de España para los clústeres españoles. Las limitaciones de cobertura y sesgo demográfico documentadas en Li et al. (2024) — dispositivos más jóvenes, urbanos y de mayores ingresos sobrerrepresentados en relación con la población de referencia — son heredadas por el protocolo de polígono y deben controlarse mediante la reponderación ponderada por población a nivel de celda H3; los proxies administrativos de LODES y MITMA proporcionan un punto de triangulación útil porque no exhiben este sesgo.
+
+#### Captaciones específicas del clúster como unidad de comparación
 
 La consecuencia metodológica de este enfoque es que las captaciones definidas por la movilidad son específicas del clúster, no del asentamiento. Dos clústeres T1 dentro de la misma área metropolitana se tratan como experimentos independientes de campo de demanda, cada uno con su propio catchment_area_km2, catchment_population y catchment_entropy. Esta calibración — sustituyendo el clúster de co-localización por el asentamiento como unidad de comparación — es el mecanismo mediante el cual el marco separa la composición geométrica de los factores de confusión del tamaño del mercado. Permite la comparación entre clústeres a nivel submetropolitano en lugar de a nivel de ciudad, que es donde se toman realmente las decisiones de selección de sitios minoristas.
 
@@ -261,7 +295,11 @@ El conjunto de datos de la Fase 21 (versión actual, mayo de 2026) y la distribu
 | Puntos de anclas minoristas | ~90.000 | ~95.000 |
 | Clústeres con cobertura O-D | ~7.600 (US LODES) + 58 (ES MITMA) | — |
 
+#### Efectos de la revisión taxonómica de la Fase 22
+
 La proporción T2 de la Fase 21 (48 %) está inflada porque la función de nivel de producción promovía a T2 cualquier clúster que contuviera un hipermercado con dos o más miembros, independientemente de si había un ancla de ferretería presente. La revisión de la taxonomía de la Fase 22 (§3.2) corrige esto exigiendo `has_hypermarket ∧ has_hardware` para T2, e introduce la disyunción tripartita T1.a. Bajo las reglas revisadas, los clústeres europeos con electrónica que ya contienen un ancla de hipermercado y ferretería se promueven a T1, elevando el recuento global T1 de 1.537 a un proyectado de 1.747. El T1 europeo crece de 516 a aproximadamente 726, superando el umbral de 500 clústeres que permite un análisis de subgrupos transcontinental estadísticamente significativo. El recuento T3 cae porque la redistribución T2→T3 (al eliminar la vía T2 laxa `n≥2`) está parcialmente compensada por la redistribución T3→T1 (de la cláusula de electrónica). Todos los recuentos proyectados son estimaciones pendientes de la reconstrucción de la Fase 22.
+
+#### Objetivo de calibración y cardinalidad de clústeres
 
 El informe de investigación original especificaba la calibración de parámetros a un objetivo de aproximadamente 400 ubicaciones T1 por región principal (América del Norte, Europa). El marco presentado aquí permite que las reglas de composición determinen la cardinalidad del clúster, produciendo 1.747 clústeres T1 proyectados — materialmente más que la especificación de recuento objetivo. Esto representa un cambio de una calibración impulsada por el recuento objetivo a una impulsada por reglas de composición; las implicaciones para la precisión frente a la exhaustividad en la selección de sitios se discuten en el §6.5.
 
@@ -276,6 +314,8 @@ Un marco composicional cualitativo proporciona el precursor conceptual al sistem
 - **5.° grado** — Configuración de 4.° grado + confirmación demográfica. Clasificación de mayor confianza (integración de capa demográfica planificada).
 
 El sistema de niveles algorítmico implementa los grados 1–3. Los grados 4 y 5 requieren la capa cívica (en desarrollo) y la superposición demográfica (planificada).
+
+#### Evolución desde la especificación original de cinco grados
 
 La taxonomía actual T1/T2/T3 evolucionó de una especificación original de clústeres de cinco grados en la que la lógica AMBOS-vs-ALGUNO gobernaba la calificación de anclas secundarias: el tercer grado requería tanto Home Depot COMO Costco, y el quinto grado requería ambos objetivos terciarios. Una regla de calibración adaptativa operaba como precursora del estimador de contracción DBSCAN — si el recuento de quinto grado superaba el 10 % de las entradas primarias totales, el umbral secundario se ajustaba de 5,0 a 3,0 km. El formalismo presente, en el que la disyunción T1.a admite cualquiera de {price_club, lifestyle, electronics} como la tercera ancla, es una relajación de la regla original AMBOS-Costco-Y-Home-Depot, motivada por la asimetría estructural europea (§5.1) y por el reconocimiento de que las tres tipologías secundarias codifican procesos equivalentes de selección de sitio independientes.
 
@@ -298,9 +338,13 @@ Los clústeres T1 representan el 26,9 % de la población del estudio (1.747 de 6
 | América del Norte | 1.021 (34 %) | 1.712 (57 %) | 268 (9 %) |
 | Europa | 726 (24 %) | 1.680 (56 %) | 572 (19 %) |
 
+#### Asimetría continental en la composición por niveles
+
 América del Norte produce proporcionalmente más clústeres T1 porque Walmart Supercentre (ancla primaria), Home Depot/Lowe's (ferretería) y Costco/Sam's Club (club de precios) lograron co-localizarse en un gran número de mercados submetropolitanos durante el período de desarrollo de centros de poder 1990–2010. Los formatos minoristas europeos están más segregados por categoría: los hipermercados alimentarios y los almacenes de ferretería/mejoras del hogar se co-localizan con menos frecuencia que sus homólogos norteamericanos (Wrigley y Lowe, 2002; Coe y Wrigley, 2007), produciendo una mayor proporción de T2 y una menor proporción absoluta de T1 bajo las reglas composicionales. La cláusula de electrónica en T1.a (§3.2) aborda esta asimetría: capta los clústeres europeos donde MediaMarkt, Saturn, Boulanger o Darty se co-localizan con un hipermercado y un ancla de ferretería — una configuración de múltiples anclas estructuralmente equivalente que emerge de la geografía del mercado europeo. Bajo la taxonomía de la Fase 22, el T1 de la UE sube de 516 a aproximadamente 726, superando el umbral necesario para las pruebas de subgrupos continentales estadísticamente significativas.
 
 La asimetría entre las proporciones T1 de América del Norte y Europa es un hallazgo empírico, no un artefacto de calibración. Refleja la diferencia estructural identificada por Wrigley y Lowe (2002): la internacionalización del comercio minorista europeo procedió a través de la entrada secuencial al mercado por formatos minoristas individuales, produciendo una co-localización de categorías menos frecuente que el modelo de centro de poder americano en el que los desarrolladores de alimentos, ferretería y club de almacén a menudo apuntaron simultáneamente a los mismos sitios submetropolitanos.
+
+#### Recuentos por nivel a escala de país
 
 La siguiente tabla reporta los recuentos reales de la Fase 22 (6.493 clústeres, mayo de 2026):
 
@@ -325,6 +369,8 @@ La siguiente tabla reporta los recuentos reales de la Fase 22 (6.493 clústeres,
 | NO | 1 | 6 | 3 | 10 |
 | IS | 0 | 2 | 1 | 3 |
 | **Total** | **1.746** | **3.393** | **1.354** | **6.493** |
+
+#### Caso ilustrativo de Sherwood Park
 
 Caso ilustrativo: Sherwood Park, Alberta — un mercado submetropolitano de aproximadamente 80.000 habitantes (Censo 2021) que contiene un clúster T1 con span_km ≈ 0,8 km (Walmart Supercentre, Home Depot, Costco y Canadian Tire dentro de un diámetro de 0,8 km), situándolo en el decil superior de la clasificación geométrica dentro del nivel para los clústeres T1 de América del Norte. La concentración de clústeres T1 en EE.UU. (889 de 1.746; 51 %) refleja el patrón de desarrollo de centros de poder del período 1990–2010 analizado en el §5.1.
 
@@ -358,6 +404,8 @@ La inteligencia de localización comercial es convencionalmente inductiva: obser
 
 Ambos son procedimientos de inferencia válidos. La pregunta es la eficiencia para una clase específica de problemas de investigación: identificar mercados submetropolitanos donde la intensidad de la actividad comercial es sistemáticamente más alta de lo que el tamaño de la población ambiente predecería.
 
+#### Razones de eficiencia del enfoque deductivo
+
 El enfoque deductivo es más eficiente para esta clase de problemas por cuatro razones:
 
 *Disponibilidad de datos.* Las ubicaciones de anclas minoristas son públicamente observables desde OpenStreetMap a costo marginal cero. Los conjuntos de datos O-D propietarios requieren licencias por mercado con comparabilidad entre mercados restringida.
@@ -367,6 +415,8 @@ El enfoque deductivo es más eficiente para esta clase de problemas por cuatro r
 *Identificación contrafactual.* El análisis composicional identifica mercados submetropolitanos donde la señal del lado de la oferta (composición de anclas) es fuerte y el desarrollo comercial en clases de uso adyacentes aún no ha ocurrido. El análisis impulsado por la demanda identifica ubicaciones de alto tráfico existentes — donde el desarrollo típicamente ya ha incorporado la señal al precio.
 
 *Permanencia estructural.* Las [[national-tenants|cadenas minoristas nacionales]] rara vez abandonan los mercados submetropolitanos que las validan comercialmente. La señal de localización del ancla es duradera a lo largo de horizontes de varias décadas. Los patrones de movilidad observados cambian con el comportamiento del consumidor, la penetración del teletrabajo y la sustitución del comercio digital.
+
+#### Valor para los profesionales del sector inmobiliario comercial
 
 Para los profesionales del sector inmobiliario comercial — la disciplina que motivó el informe de investigación original — el marco del lado de la oferta proporciona una señal de selección de sitios disponible antes, no después, de que un mercado objetivo haya sido identificado mediante el análisis de la demanda. Una ubicación que puntúa T1 bajo la regla de composición geométrica lleva evidencia de que tres procesos de selección de sitio independientes y bien dotados de recursos ya han validado el mercado submetropolitano; esta evidencia es especialmente valiosa en los mercados prospectivos donde la cobertura del panel de movilidad es escasa o donde el horizonte de desarrollo se mide en años en lugar de meses.
 
@@ -381,6 +431,8 @@ El argumento del §6.1 no subordina la inteligencia de demanda a la irrelevancia
 El procedimiento de clasificación de dos etapas es lexicográfico: todos los empates de la Etapa 1 se desempatan por la Etapa 2. Un mercado submetropolitano que puntúa en el cuartil superior en ambas etapas constituye el caso empírico más sólido para la hipótesis.
 
 La medida de Etapa 2 provisional — población ambiente dentro del anillo de captación existente de 35 km, extraída de los datos de Kontur Population — está explícitamente marcada en el marco analítico como un proxy. Los clústeres con O-D observado y los clústeres basados en proxy se clasifican en grupos separados; la interfaz de usuario etiqueta la base de datos por clúster.
+
+#### Ventas por pie cuadrado como variable canónica de demanda
 
 La especificación de investigación original proponía las cifras de ventas por pie cuadrado del minorista — extraídas de declaraciones financieras públicas, informes de corredores y publicaciones anuales del ICSC — como la variable canónica de demanda de Etapa 2, bajo el argumento de que la productividad de ventas declarada por el propio minorista es la señal de preferencia revelada más fuerte disponible. El marco aquí sustituye la densidad de empleo en el área de captación (LODES) y la intensidad de visitas basada en movilidad como proxies más consistentemente disponibles; la variable de ventas por pie cuadrado sigue siendo una medida de Etapa 2 teóricamente preferible donde los datos declarados están disponibles.
 
@@ -401,6 +453,8 @@ El marco precedente genera tres hipótesis formalmente falsificables:
 > **H₂ (Redundancia de demanda):** Cuando se añaden datos de movilidad O-D al modelo, el nivel de co-localización retiene un poder predictivo independiente — es decir, la señal de demanda no subsume completamente la señal composicional.
 
 > **H₃ (Amplificación cívica):** La presencia de un ancla cívica (hospital con ≥200 camas o universidad con ≥10.000 matriculados dentro de 5,0 km del centroide del clúster) amplifica la prima de densidad de empleo asociada al nivel T1, produciendo un efecto de interacción positivo estadísticamente significativo T1 × civic_modifier en la especificación de regresión H₁, neto de la contribución directa al empleo de las industrias de salud y educación (NAICS 611/622).
+
+#### Condiciones de falsificación
 
 H₁ se falsifica si los clústeres T1 no exhiben sistemáticamente una mayor densidad de empleo en la captación que los clústeres T2/T3 en la misma clase de tamaño de mercado submetropolitano. H₂ se falsifica si el nivel deja de ser estadísticamente significativo una vez que los datos de movilidad O-D se incluyen como covariable. H₃ se falsifica si el coeficiente de interacción T1 × cívico no es positivo después de descontar el empleo NAICS 611/622 de la variable de resultado. El programa de falsificación del §7 define los modelos de regresión para las tres hipótesis.
 
@@ -499,7 +553,11 @@ H₃ se apoya si β₄ > 0 en *ambas* especificaciones. El apoyo solo en la Espe
 
 Este artículo ha propuesto una taxonomía composicional formal de los clústeres de co-localización de anclas minoristas — una clasificación que identifica qué *categorías* de anclas están presentes en un clúster submetropolitano, en lugar de simplemente cuántas unidades minoristas están co-localizadas o cuán grandes son. La taxonomía se implementa a escala continental utilizando datos de fuente abierta, produciendo 6.493 clústeres clasificados en trece países.
 
+#### Contribución teórica
+
 La contribución teórica es el argumento de preferencia revelada para el análisis composicional: cuando múltiples grandes cadenas minoristas de formato de distintas categorías seleccionan independientemente la misma localización submetropolitana, la señal conjunta de su co-presencia es un indicador adelantado más duradero, más ampliamente disponible y metodológicamente más sencillo de la intensidad de la actividad comercial que cualquier conjunto de datos de demanda de una única cosecha. La demostración de Holmes (2011) de que la selección de sitios de Walmart refleja economías de densidad fundamenta este argumento empíricamente.
+
+#### Contribución metodológica
 
 La contribución metodológica es el algoritmo DBSCAN de dos pasadas con prioridad compacta y la clasificación geométrica dentro del nivel con contracción — una medida de compacidad que discrimina entre pares composicionalmente homogéneos y es estable a través de la variación de tamaño de muestra inherente a un conjunto de datos de trece países. Una extensión metodológica adicional, el protocolo O-D de polígono y dispositivo especificado en el §3.7, reemplaza los límites administrativos de captación con mercados submetropolitanos definidos por la movilidad, permitiendo la comparación de demanda a nivel de clúster — en lugar de a nivel de asentamiento — entre clústeres.
 
@@ -507,9 +565,13 @@ La contribución metodológica es el algoritmo DBSCAN de dos pasadas con priorid
 
 La prioridad de investigación inmediata es la unión de LODES y la prueba de permutación (§7.1 y §7.4), que pueden ejecutarse con los datos actualmente cargados. Estas determinarán si los resultados descriptivos del §5 — específicamente la relación sistemática entre el nivel y la compacidad geométrica — están respaldados por el proxy de empleo por trayecto al trabajo.
 
+#### Programa de adquisición O-D a medio plazo
+
 El programa a medio plazo es la adquisición de datos O-D para el Reino Unido, Francia y Alemania, permitiendo la Prueba 2 a escala y proporcionando la primera prueba transcontinental de H₁. La validación demográfica (Optimum Mosaic, §6.3) está planificada concurrentemente. Se está investigando actualmente la adquisición de un panel de movilidad comercial que cubra los trece países del estudio, lo que permitiría que el protocolo completo de polígono y dispositivo descrito en el §3.7 reemplace los proxies LODES/MITMA.
 
 Una extensión a corto plazo aborda la predicción corolaria introducida en el §2.2: que las anclas secundarias siguen en lugar de preceder al establecimiento de los hipermercados. Los métodos de estudio de eventos análogos a los aplicados a la difusión de Walmart por Holmes (2011), utilizando datos temporales sobre fechas de apertura de tiendas, pueden probar esta hipótesis de entrada secuencial directamente. Esta es una línea de investigación planificada, no un resultado actual.
+
+#### Agenda longitudinal a largo plazo
 
 La agenda a largo plazo es un análisis de series temporales. El conjunto de datos actual es una sección transversal (Fase 21, mayo de 2026). La evolución del formato minorista, la entrada de nuevas tipologías de anclas de gran formato (centros de distribución de comercio electrónico, gran formato de salud y bienestar) y la salida o reposicionamiento de las anclas existentes alterarán la distribución de niveles con el tiempo. El seguimiento longitudinal de estos cambios frente a los resultados de la actividad comercial puede proporcionar la prueba más sólida de la durabilidad predictiva de la señal composicional.
 

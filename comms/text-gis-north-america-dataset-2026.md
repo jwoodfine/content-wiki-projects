@@ -24,9 +24,13 @@ cites:
 
 ---
 
+## Scored populations and tier thresholds
+
 The North America [[co-location-strategy|co-location]] dataset is maintained as three separate scored populations — Canada, the United States, and Mexico — each applying the five-degree cluster methodology to the Walmart Supercentre network in the applicable jurisdiction. Cluster degree and tier score (T3 Apex ≥ 700, T2 Hub ≥ 450, T1 Valid ≥ 150) are determined by the standard co-occurrence thresholds: 1.0 km Primary-Secondary radius, 5.0 km Tertiary radius.
 
 ---
+
+## Pipeline and shortlist requirements
 
 **Pipeline requirements by jurisdiction:**
 
@@ -40,6 +44,8 @@ The shortlist requirement is set at a minimum 2:1 ratio against the required dev
 
 ---
 
+## Fifth-Degree Cluster recalibration
+
 **Dataset calibration note:**
 
 If Fifth-Degree Clusters — sites where both Secondary Targets (Home Depot and Costco) and both Tertiary Targets (post-secondary institution and major medical centre) are confirmed within the applicable radius thresholds — account for more than 10% of all Primary Target entries in a given jurisdiction's dataset, the radius thresholds are recalibrated downward. The Tertiary proximity threshold tightens from 5.0 km to 3.0 km; the Primary-Secondary threshold tightens from 1.0 km to below 1.0 km. This recalibration preserves the discriminating power of the top cluster tier across datasets of varying size and geographic density.
@@ -47,6 +53,8 @@ If Fifth-Degree Clusters — sites where both Secondary Targets (Home Depot and 
 Calibration checks are performed each time the dataset is updated with new Primary Target sales per square foot data. The recalibration trigger has not been activated in the Canada, United States, or Mexico datasets as of the current reporting period.
 
 ---
+
+## Sales productivity update cadence
 
 **Sales per square foot update cadence:**
 

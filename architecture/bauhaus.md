@@ -32,9 +32,13 @@ In architecture, the Bauhaus aesthetic manifests as flat roofs, curtain-wall gla
 
 Bauhaus-influenced commercial buildings exhibit a consistent formal vocabulary that became so pervasive in mid-century construction that it is now the defining physical character of suburban office parks, professional commercial strips, and light industrial districts built between approximately 1945 and 1985.
 
+### Structural grid and glazing
+
 **Structural grid.** Bauhaus commercial buildings use a regular structural grid — typically 6–9 metre column bays in both directions — that allows interior partitioning to be configured without structural modification. This universal grid made the buildings highly adaptable to different tenant configurations and contributed to their durability as commercial product across multiple tenancy cycles.
 
 **Curtain-wall glazing.** Strip windows and curtain wall systems provide uniform daylight to large floor plates without the masonry wall openings that constrained earlier commercial buildings. In suburban commercial and light industrial applications, the curtain wall simplified construction significantly, as masonry-trained labour was often scarce in rapidly developing suburban areas.
+
+### Flat roofs and open plans
 
 **Flat roof.** Flat roof systems allow mechanical equipment — HVAC units, cooling towers, rooftop exhausts — to be placed where they do not affect the building's street presence. In commercial strip applications, flat roofs with parapet walls allow signage to be mounted at a consistent height across multiple tenant bays, creating the visual uniformity characteristic of mid-century commercial strips.
 
@@ -43,6 +47,8 @@ Bauhaus-influenced commercial buildings exhibit a consistent formal vocabulary t
 ## Distribution in commercial real estate markets
 
 The commercial building stock in suburban North American markets built between 1945 and 1985 is overwhelmingly Bauhaus-derived in formal terms, regardless of whether the individual buildings had architectural authors or were constructed speculatively using standard commercial building systems. The flat-roofed, strip-glazed, surface-parked commercial building is so standard in suburban secondary markets that it represents the modal building type in most [[co-location-strategy|co-location evaluation]] contexts.
+
+### Adaptability and asset performance
 
 This distribution has practical implications for commercial real estate analysis. Bauhaus-derived commercial stock is generally highly functional: it is easily subdivided for multi-tenant occupancy, its structural grid accommodates diverse tenant configurations, its mechanical systems are straightforward (disaggregated rooftop units serving individual bays), and its clear-span interiors are adaptable to a wide range of business types. It is also typically undistinguished aesthetically, which limits premium positioning in markets where tenants value architectural character.
 

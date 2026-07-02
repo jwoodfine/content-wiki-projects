@@ -85,12 +85,19 @@ The twenty-five highest-ranked European Regional Markets are listed below, with 
 
 ## Full Rankings (26–400)
 
+### Ranks 26–29 — score 9.0
+
 | Rank | Market | Country | Suburb of | T1 | T2 | T3 | Score |
 |------|--------|---------|-----------|----|----|----|-------|
 | 26 | Częstochowa | PL | Katowice | 1 | 1 | 0 | 9.0 |
 | 27 | Wiltshire | GB | Bath | 0 | 2 | 2 | 9.0 |
 | 28 | Cheshire East | GB | Manchester | 0 | 3 | 0 | 9.0 |
 | 29 | Randers | DK | Aarhus | 0 | 3 | 0 | 9.0 |
+
+### Ranks 30–55 — score 7.5
+
+| Rank | Market | Country | Suburb of | T1 | T2 | T3 | Score |
+|------|--------|---------|-----------|----|----|----|-------|
 | 30 | Hillingdon | GB | London | 1 | 0 | 1 | 7.5 |
 | 31 | Derby | GB | Nottingham | 1 | 0 | 1 | 7.5 |
 | 32 | Cheshire West and Chester | GB | Wigan | 1 | 0 | 1 | 7.5 |
@@ -117,6 +124,13 @@ The twenty-five highest-ranked European Regional Markets are listed below, with 
 | 53 | Gijón | ES | Oviedo | 1 | 0 | 1 | 7.5 |
 | 54 | Durham | GB | Newcastle | 0 | 2 | 1 | 7.5 |
 | 55 | East Riding of Yorkshire | GB | Leeds | 0 | 2 | 1 | 7.5 |
+
+### Ranks 56–285 — score 6.0
+
+#### Ranks 56–115
+
+| Rank | Market | Country | Suburb of | T1 | T2 | T3 | Score |
+|------|--------|---------|-----------|----|----|----|-------|
 | 56 | 's-Gravenhage | NL | Rotterdam | 1 | 1 | 0 | 6.0 |
 | 57 | Thurrock | GB | London | 1 | 0 | 0 | 6.0 |
 | 58 | Gloucester | GB | Bristol | 1 | 0 | 0 | 6.0 |
@@ -177,6 +191,11 @@ The twenty-five highest-ranked European Regional Markets are listed below, with 
 | 113 | Mondeville | FR | Le Havre | 1 | 0 | 0 | 6.0 |
 | 114 | Alès | FR | Nîmes | 1 | 0 | 0 | 6.0 |
 | 115 | Soissons | FR | Reims | 1 | 0 | 0 | 6.0 |
+
+#### Ranks 116–175
+
+| Rank | Market | Country | Suburb of | T1 | T2 | T3 | Score |
+|------|--------|---------|-----------|----|----|----|-------|
 | 116 | Saint-Martin-des-Champs | FR | Brest | 1 | 0 | 0 | 6.0 |
 | 117 | Tourville-la-Rivière | FR | Le Havre | 1 | 0 | 0 | 6.0 |
 | 118 | Fayet | FR | Valenciennes | 1 | 0 | 0 | 6.0 |
@@ -237,6 +256,11 @@ The twenty-five highest-ranked European Regional Markets are listed below, with 
 | 173 | Leer (Ostfriesland), Stadt | DE | Groningen | 1 | 0 | 0 | 6.0 |
 | 174 | Schwedt/Oder, Stadt | DE | Cottbus | 1 | 0 | 0 | 6.0 |
 | 175 | Offenburg, Stadt | DE | Strasbourg | 1 | 0 | 0 | 6.0 |
+
+#### Ranks 176–235
+
+| Rank | Market | Country | Suburb of | T1 | T2 | T3 | Score |
+|------|--------|---------|-----------|----|----|----|-------|
 | 176 | Bad Nauheim, Stadt | DE | Frankfurt | 1 | 0 | 0 | 6.0 |
 | 177 | Traunstein, GKSt | DE | Salzburg | 1 | 0 | 0 | 6.0 |
 | 178 | Alzey, Stadt | DE | Wiesbaden | 1 | 0 | 0 | 6.0 |
@@ -297,6 +321,11 @@ The twenty-five highest-ranked European Regional Markets are listed below, with 
 | 233 | La Spezia | IT | Genoa | 1 | 0 | 0 | 6.0 |
 | 234 | Castelletto sopra Ticino | IT | Milan | 1 | 0 | 0 | 6.0 |
 | 235 | Lecco | IT | Milan | 1 | 0 | 0 | 6.0 |
+
+#### Ranks 236–285
+
+| Rank | Market | Country | Suburb of | T1 | T2 | T3 | Score |
+|------|--------|---------|-----------|----|----|----|-------|
 | 236 | Brescia | IT | Verona | 1 | 0 | 0 | 6.0 |
 | 237 | Cremona | IT | Milan | 1 | 0 | 0 | 6.0 |
 | 238 | Curno | IT | Milan | 1 | 0 | 0 | 6.0 |
@@ -347,6 +376,11 @@ The twenty-five highest-ranked European Regional Markets are listed below, with 
 | 283 | Rudersdal | DK | Copenhagen | 0 | 2 | 0 | 6.0 |
 | 284 | Viersen, Stadt | DE | Düsseldorf | 0 | 2 | 0 | 6.0 |
 | 285 | Auch | ES | Toulouse | 0 | 2 | 0 | 6.0 |
+
+### Ranks 286–331 — scores 5.0 to 4.5
+
+| Rank | Market | Country | Suburb of | T1 | T2 | T3 | Score |
+|------|--------|---------|-----------|----|----|----|-------|
 | 286 | Breda | NL | Rotterdam | 1 | 0 | 1 | 5.0 |
 | 287 | Liverpool | GB | Wigan | 0 | 0 | 3 | 4.5 |
 | 288 | Osnabrück, Stadt | DE | Bielefeld | 0 | 0 | 3 | 4.5 |
@@ -393,6 +427,11 @@ The twenty-five highest-ranked European Regional Markets are listed below, with 
 | 329 | Nowy Sącz | PL | Kraków | 0 | 1 | 1 | 4.5 |
 | 330 | Wels | AT | Linz | 0 | 1 | 1 | 4.5 |
 | 331 | Zwolle | NL | Nijmegen | 0 | 1 | 1 | 4.5 |
+
+### Ranks 332–364 — score 4.0
+
+| Rank | Market | Country | Suburb of | T1 | T2 | T3 | Score |
+|------|--------|---------|-----------|----|----|----|-------|
 | 332 | Täby | SE | Stockholm | 1 | 0 | 0 | 4.0 |
 | 333 | Helsingborg | SE | Copenhagen | 1 | 0 | 0 | 4.0 |
 | 334 | Uddevalla | SE | Gothenburg | 1 | 0 | 0 | 4.0 |
@@ -426,6 +465,11 @@ The twenty-five highest-ranked European Regional Markets are listed below, with 
 | 362 | Heerhugowaard | NL | The Hague | 1 | 0 | 0 | 4.0 |
 | 363 | Dordrecht | NL | Rotterdam | 1 | 0 | 0 | 4.0 |
 | 364 | Fürstenwalde/Spree, Stadt | DE | Berlin | 0 | 2 | 0 | 4.0 |
+
+### Ranks 365–400 — score 3.0
+
+| Rank | Market | Country | Suburb of | T1 | T2 | T3 | Score |
+|------|--------|---------|-----------|----|----|----|-------|
 | 365 | Spelthorne | GB | London | 0 | 0 | 2 | 3.0 |
 | 366 | Bexley | GB | London | 0 | 0 | 2 | 3.0 |
 | 367 | Wirral | GB | Wigan | 0 | 0 | 2 | 3.0 |
