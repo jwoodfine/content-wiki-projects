@@ -18,7 +18,7 @@ El Modelado de Información para la Construcción produce representaciones digit
 
 ## Definición
 
-Un Objeto BIM es una unidad de especificación composable para el entorno construido — el equivalente estructural de un [[design-system-substrate|Token del Sistema de Diseño]]. Donde un Token del Sistema de Diseño codifica una decisión de diseño (un [[design-color|color]], una [[design-spacing|unidad de espaciado]], una receta de componente) como un valor reutilizable y reasignable que todas las superficies conformes deben respetar, un Objeto BIM codifica una decisión sobre un elemento del entorno construido en tres ejes simultáneos:
+Un Objeto BIM es una unidad de especificación composable para el entorno construido — el equivalente estructural de un Token del Sistema de Diseño. Donde un Token del Sistema de Diseño codifica una decisión de diseño (un color, una unidad de espaciado, una receta de componente) como un valor reutilizable y reasignable que todas las superficies conformes deben respetar, un Objeto BIM codifica una decisión sobre un elemento del entorno construido en tres ejes simultáneos:
 
 1. **Lo que el elemento ES** — su clase de entidad IFC, clasificación Uniclass 2015, URI de identidad bSDD, y plantillas de conjuntos de propiedades aplicables.
 2. **Lo que DEBE satisfacer** — los requisitos regulatorios impuestos por su jurisdicción, expresados como superposiciones jurisdiccionales (archivos de restricción IDS 1.0 y fragmentos geométricos de exclusión IFC).
@@ -71,7 +71,7 @@ El formato legible por máquinas permite:
 
 ## Relación con el Sistema de Diseño
 
-El sistema de Objetos BIM es paralelo a la estructura de un [[design-system-substrate|sistema de diseño]] de software. Donde IBM Carbon o un sistema similar proporciona una capa primitiva de tokens, una capa de recetas de componentes y una capa de extensiones específicas por superficie, la plataforma de Objetos BIM proporciona una capa primitiva de objetos (las 8 categorías de objetos DTCG ancladas a IFC 4.3), una capa de [[topic-aec-interface-conventions|componentes AEC universal]] y extensiones específicas por superficie por tipo de programa del entorno construido.
+El sistema de Objetos BIM es paralelo a la estructura de un sistema de diseño de software. Donde IBM Carbon o un sistema similar proporciona una capa primitiva de tokens, una capa de recetas de componentes y una capa de extensiones específicas por superficie, la plataforma de Objetos BIM proporciona una capa primitiva de objetos (las 8 categorías de objetos DTCG ancladas a IFC 4.3), una capa de [[topic-aec-interface-conventions|componentes AEC universal]] y extensiones específicas por superficie por tipo de programa del entorno construido.
 
 La analogía es estructural, no metafórica. Ambos sistemas abordan el mismo problema: aplicar coherencia entre superficies de autoría independientes codificando decisiones como unidades reutilizables, reasignables y versionables con especificaciones de restricciones legibles por máquinas.
 

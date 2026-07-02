@@ -52,4 +52,4 @@ Para la evaluación de inmobiliario comercial, la pregunta es si un edificio dec
 
 ---
 
-*citas: [[arquitectura-contemporánea]], [[neo-futurismo]], [[arquitectura-posmoderna]]*
+*citas: [[contemporary-architecture|arquitectura contemporánea]], [[neo-futurism|neo-futurismo]], [[postmodern-architecture|arquitectura posmoderna]]*

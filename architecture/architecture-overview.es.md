@@ -64,4 +64,4 @@ La arquitectura contemporánea opera sin un estilo dominante. Los temas principa
 
 ---
 
-*citas: [[entorno-construido]], [[arquitectura-contemporánea]], [[neomoderno]], [[nueva-arquitectura-clásica]]*
+*citas: [[built-environment|entorno construido]], [[contemporary-architecture|arquitectura contemporánea]], [[neomodern|neomoderno]], [[new-classical-architecture|nueva arquitectura clásica]]*

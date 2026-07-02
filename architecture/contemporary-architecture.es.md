@@ -59,4 +59,4 @@ El desempeño ecológico de los edificios comerciales contemporáneos es cada ve
 
 ---
 
-*citas: [[neomoderno]], [[nueva-arquitectura-clásica]], [[neo-futurismo]], [[deconstructivismo]]*
+*citas: [[neomodern|neomoderno]], [[new-classical-architecture|nueva arquitectura clásica]], [[neo-futurism|neo-futurismo]], [[deconstructivism|deconstructivismo]]*

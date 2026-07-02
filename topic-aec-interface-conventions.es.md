@@ -59,4 +59,4 @@ Un vocabulario de interfaz compartido significa que el visor de coordinación no
 
 ## Relación con el Sustrato del Sistema de Diseño
 
-El [[topic-building-design-system-bim|Sistema de Diseño de la Construcción]] es una extensión semántica AEC de la línea base del [[design-system-substrate|Sistema de Diseño Carbon]]. Carbon proporciona los primitivos de interfaz de usuario fundamentales. El Sistema de Diseño de la Construcción agrega la capa semántica AEC encima: los diez componentes de interfaz universal y las ocho categorías de [[topic-bim-objects-what-they-are|Objetos BIM]] primitivos.
+El [[topic-building-design-system-bim|Sistema de Diseño de la Construcción]] es una extensión semántica AEC de la línea base del Sistema de Diseño Carbon. Carbon proporciona los primitivos de interfaz de usuario fundamentales. El Sistema de Diseño de la Construcción agrega la capa semántica AEC encima: los diez componentes de interfaz universal y las ocho categorías de [[topic-bim-objects-what-they-are|Objetos BIM]] primitivos.

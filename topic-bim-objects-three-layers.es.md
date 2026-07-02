@@ -18,7 +18,7 @@ Un [[topic-bim-objects-what-they-are|Objeto BIM]] tiene tres capas: Especificaci
 
 ## Por qué Tres Capas
 
-Los tokens de los [[design-system-substrate|sistemas de diseño]] de software típicamente tienen dos preocupaciones: qué ES un valor (su rol semántico) y a qué valor se resuelve (su resultado calculado). Los Objetos BIM abordan un espacio de problemas fundamentalmente diferente que requiere tres preocupaciones.
+Los tokens de los sistemas de diseño de software típicamente tienen dos preocupaciones: qué ES un valor (su rol semántico) y a qué valor se resuelve (su resultado calculado). Los Objetos BIM abordan un espacio de problemas fundamentalmente diferente que requiere tres preocupaciones.
 
 ### Tres preguntas que responde toda especificación de elemento
 
@@ -102,5 +102,5 @@ La interfaz CMS es la interfaz prevista para `app-console-bim` (planificado, v0.
 
 - [[topic-bim-objects-what-they-are]] — qué es un Objeto BIM y cómo difiere de los tipos de entidad IFC, familias de Revit y conjuntos de propiedades
 - [[topic-bim-objects-substrate]] — las ocho categorías de Objetos BIM primitivos y su formato de entrega DTCG
-- [[open-bim-regulatory-acceptance]] — cómo las jurisdicciones adoptan los estándares BIM abiertos
+- [[topic-open-bim-regulatory-acceptance|open-bim-regulatory-acceptance]] — cómo las jurisdicciones adoptan los estándares BIM abiertos
 - [[topic-building-design-system-bim]] — el Sistema de Diseño de la Construcción para el entorno construido

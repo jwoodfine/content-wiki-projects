@@ -18,7 +18,7 @@ paired_with: topic-location-intelligence-strategy.md
 
 ## Adaptación estratégica — Inteligencia de Localización
 
-El sustrato de Inteligencia de Localización proporciona a los clientes un conjunto de datos de lugares — negocios, puntos de interés, geometrías de aparcamiento — almacenados como archivos planos que el cliente posee, versionados en el mismo libro mayor que cualquier otro registro de [[totebox-archive|Totebox]], y presentados a través de una pila de cartografía de código abierto sin costes recurrentes por solicitud o por asiento. Véase [[location-intelligence-platform|la plataforma de Inteligencia de Localización]] y [[location-intelligence-substrate|el sustrato de composición]].
+El sustrato de Inteligencia de Localización proporciona a los clientes un conjunto de datos de lugares — negocios, puntos de interés, geometrías de aparcamiento — almacenados como archivos planos que el cliente posee, versionados en el mismo libro mayor que cualquier otro registro de Totebox, y presentados a través de una pila de cartografía de código abierto sin costes recurrentes por solicitud o por asiento. Véase la plataforma de Inteligencia de Localización y el sustrato de composición.
 
 La primera aplicación es un mapa de co-localización: cada localización de la familia Walmart, la familia Home Depot y Costco en Estados Unidos, Canadá, México y España, con los grupos de tiendas que caen dentro de rangos de proximidad definidos como la analítica visible.
 
@@ -68,7 +68,7 @@ La especificación técnica completa, incluyendo el esquema de registros, el alg
 
 ## Véase también
 
-- [[three-ring-architecture]] — la composición de los anillos que service-business, service-places y service-parking implementan
-- [[compounding-substrate]] — las propiedades de soberanía e inteligencia opcional que este sustrato implementa
-- [[worm-ledger-architecture]] — el libro mayor de solo adición que ancla los registros de co-localización en el Totebox Archive del cliente
-- [[service-slm]] — el servicio opcional del Anillo 3 disponible para anotación y detección de anomalías
+- three-ring-architecture — la composición de los anillos que service-business, service-places y service-parking implementan
+- compounding-substrate — las propiedades de soberanía e inteligencia opcional que este sustrato implementa
+- worm-ledger-architecture — el libro mayor de solo adición que ancla los registros de co-localización en el Totebox Archive del cliente
+- service-slm — el servicio opcional del Anillo 3 disponible para anotación y detección de anomalías

@@ -56,4 +56,4 @@ Las instituciones culturales de diseño neo-futurista funcionan de manera simila
 
 ---
 
-*citas: [[arquitectura-high-tech]], [[arquitectura-contemporánea]], [[nuevo-urbanismo]]*
+*citas: [[high-tech-architecture|arquitectura high-tech]], [[contemporary-architecture|arquitectura contemporánea]], [[new-urbanism|nuevo urbanismo]]*

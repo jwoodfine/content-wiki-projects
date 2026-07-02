@@ -64,4 +64,4 @@ Los marcos de protección patrimonial en las jurisdicciones europeas son amplios
 
 ---
 
-*citas: [[arquitectura-clásica]], [[arquitectura-neoclásica]], [[arquitectura-contextual]]*
+*citas: [[classical-architecture|arquitectura clásica]], [[neoclassical-architecture|arquitectura neoclásica]], [[contextual-architecture|arquitectura contextual]]*

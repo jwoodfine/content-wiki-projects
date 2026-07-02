@@ -77,4 +77,4 @@ Estos marcos normativos generan tanto riesgo como protección para el inmobiliar
 
 ---
 
-*citas: [[arquitectura-vernácula]], [[estrategia-de-colocalización]], [[estándar-boma]]*
+*citas: [[vernacular-architecture|arquitectura vernácula]], [[co-location-strategy|estrategia de colocalización]], [[boma-standard|estándar boma]]*

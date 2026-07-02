@@ -61,4 +61,4 @@ La implicación para la evaluación de inmobiliario comercial es que el parque d
 
 ---
 
-*citas: [[arquitectura-contemporánea]], [[arquitectura-posmoderna]], [[bauhaus]]*
+*citas: [[contemporary-architecture|arquitectura contemporánea]], [[postmodern-architecture|arquitectura posmoderna]], [[bauhaus]]*

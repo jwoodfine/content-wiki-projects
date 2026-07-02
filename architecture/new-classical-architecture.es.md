@@ -66,4 +66,4 @@ Muchos arquitectos de la Nueva Arquitectura Clásica están comprometidos con la
 
 ---
 
-*citas: [[arquitectura-clásica]], [[arquitectura-neoclásica]], [[arquitectura-contextual]], [[nuevo-urbanismo]]*
+*citas: [[classical-architecture|arquitectura clásica]], [[neoclassical-architecture|arquitectura neoclásica]], [[contextual-architecture|arquitectura contextual]], [[new-urbanism|nuevo urbanismo]]*

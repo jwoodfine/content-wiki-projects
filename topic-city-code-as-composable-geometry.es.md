@@ -42,7 +42,7 @@ El modelo del Código Urbano como Geometría Composable es especialmente relevan
 
 **Etapa 1 (actual, prevista para v0.0.3):** [[topic-asset-anchored-bim-vault|bóveda de Objetos BIM]] con capa de Especificación completa. Esqueleto de la capa de Normativa con el primer conjunto de superposiciones: requisitos de zonificación residencial RS-1 de Columbia Británica.
 
-**Etapa 2 (prevista, v0.1.x):** generación de archivos de restricción IDS 1.0 para cada superposición normativa registrada, permitiendo que los validadores IDS existentes consuman especificaciones de restricción de [[pointsav-overview|PointSav]].
+**Etapa 2 (prevista, v0.1.x):** generación de archivos de restricción IDS 1.0 para cada superposición normativa registrada, permitiendo que los validadores IDS existentes consuman especificaciones de restricción de PointSav.
 
 **Etapa 3 (prevista, futuro):** integración en herramientas de autoría BIM mediante un plugin o superficie API que entregue las restricciones del Objeto BIM en el momento de la colocación, no al enviar el modelo.
 
@@ -51,5 +51,5 @@ El modelo del Código Urbano como Geometría Composable es especialmente relevan
 - [[topic-bim-objects-what-they-are]]
 - [[topic-bim-objects-three-layers]]
 - [[topic-flat-file-bim-leapfrog]]
-- [[open-bim-regulatory-acceptance]]
-- [[leapfrog-2030-architecture]]
+- [[topic-open-bim-regulatory-acceptance|open-bim-regulatory-acceptance]]
+- leapfrog-2030-architecture

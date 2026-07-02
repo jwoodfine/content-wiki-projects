@@ -61,4 +61,4 @@ Los requisitos de capital de los edificios clásicos patrimoniales son distintos
 
 ---
 
-*citas: [[arquitectura-neoclásica]], [[nueva-arquitectura-clásica]], [[arquitectura-contextual]]*
+*citas: [[neoclassical-architecture|arquitectura neoclásica]], [[new-classical-architecture|nueva arquitectura clásica]], [[contextual-architecture|arquitectura contextual]]*

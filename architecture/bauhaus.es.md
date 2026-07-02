@@ -64,4 +64,4 @@ La relevancia práctica para los inversores inmobiliarios comerciales es limitad
 
 ---
 
-*citas: [[arquitectura-vernácula]], [[arquitectura-contextual]], [[clases-de-desarrollo]]*
+*citas: [[vernacular-architecture|arquitectura vernácula]], [[contextual-architecture|arquitectura contextual]], [[development-classes|clases de desarrollo]]*

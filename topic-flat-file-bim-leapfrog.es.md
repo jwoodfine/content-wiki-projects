@@ -13,7 +13,7 @@ paired_with: topic-flat-file-bim-leapfrog.md
 ---
 
 
-El [[topic-building-design-system-bim|Sistema de Diseño de Edificios]] de [[pointsav-overview|PointSav]] redefine la categoría de producto BIM mediante un enfoque de "archivo plano" que devuelve la soberanía del dato al propietario del activo. La pila de estándares abiertos — IFC 4.3 (ISO 16739-1:2024, publicado en abril de 2024), IDS 1.0 (buildingSMART, junio 2024) y BCF 3.0 — alcanzó madurez de producción en 2024 y proporciona la infraestructura que hace viable esta estrategia. Mientras que las grandes plataformas de software fuerzan un modelo de alquiler de datos en la nube, la arquitectura de la plataforma permite que el gemelo digital sea una propiedad permanente, transferible y legible durante décadas.
+El [[topic-building-design-system-bim|Sistema de Diseño de Edificios]] de PointSav redefine la categoría de producto BIM mediante un enfoque de "archivo plano" que devuelve la soberanía del dato al propietario del activo. La pila de estándares abiertos — IFC 4.3 (ISO 16739-1:2024, publicado en abril de 2024), IDS 1.0 (buildingSMART, junio 2024) y BCF 3.0 — alcanzó madurez de producción en 2024 y proporciona la infraestructura que hace viable esta estrategia. Mientras que las grandes plataformas de software fuerzan un modelo de alquiler de datos en la nube, la arquitectura de la plataforma permite que el gemelo digital sea una propiedad permanente, transferible y legible durante décadas.
 
 ## Pilares Arquitectónicos
 
@@ -31,11 +31,11 @@ La estrategia se basa en cinco restricciones que garantizan la independencia del
 - **Operación sin Conexión:** Las plataformas BIM basadas en la nube requieren conexión a internet por diseño. El shell Rust + Tauri con un archivo IFC local preserva la funcionalidad BIM completa en sótanos, obras remotas, instalaciones de defensa con aislamiento de red (air-gap), entornos hospitalarios y zonas de conectividad limitada.
 - **Supervivencia a la Obsolescencia:** Los edificios viven más de 50 años; los formatos de autoría BIM propietarios tienen ventanas de compatibilidad de tres a cinco años. El sustrato de archivo plano garantiza que los datos sean legibles décadas después de que el proveedor original haya desaparecido — una ventaja decisiva para propietarios de largo plazo, patrimonio cultural e infraestructura pública.
 - **Integración IoT Soberana:** Los sensores inyectan datos directamente en sidecars YAML locales vía broker MQTT, sin que los datos abandonen las instalaciones del propietario. Esto elimina cargos por tokens basados en el número de sensores y cumple con el RGPD, HIPAA y normativas de residencia y control de exportación de datos.
-- **Convergencia Legal, Financiera y Espacial:** La familia de aplicaciones de escritorio — `app-workplace-bim`, `app-workplace-proforma`, `app-workplace-memo` y `app-workplace-presentation` — tiene como objetivo reunir el edificio, el contrato de arrendamiento y el libro mayor financiero en un único archivo portátil ([[totebox-archive|Totebox Archive]]): la primera arquitectura donde la identidad legal, financiera, espacial y operacional de un edificio son un único artefacto que viaja con el activo.
+- **Convergencia Legal, Financiera y Espacial:** La familia de aplicaciones de escritorio — `app-workplace-bim`, `app-workplace-proforma`, `app-workplace-memo` y `app-workplace-presentation` — tiene como objetivo reunir el edificio, el contrato de arrendamiento y el libro mayor financiero en un único archivo portátil (Totebox Archive): la primera arquitectura donde la identidad legal, financiera, espacial y operacional de un edificio son un único artefacto que viaja con el activo.
 
 ## Postura Regulatoria
 
-El formato IFC-SPF + IDS 1.0 + BCF 3.0 + COBie cumple los requisitos de entrega en estándares abiertos exigidos por agencias federales de EE. UU. (GSA, USACE, VA, NAVFAC), estados miembros de la UE (Alemania, Italia, España, Dinamarca, Noruega, Países Bajos, Polonia), el Marco BIM del Reino Unido, Singapur CORENET X (obligatorio desde octubre de 2026) y Dubái (obligatorio desde enero de 2024). Véase [[open-bim-regulatory-acceptance|aceptación regulatoria del BIM abierto]] para el mapa completo.
+El formato IFC-SPF + IDS 1.0 + BCF 3.0 + COBie cumple los requisitos de entrega en estándares abiertos exigidos por agencias federales de EE. UU. (GSA, USACE, VA, NAVFAC), estados miembros de la UE (Alemania, Italia, España, Dinamarca, Noruega, Países Bajos, Polonia), el Marco BIM del Reino Unido, Singapur CORENET X (obligatorio desde octubre de 2026) y Dubái (obligatorio desde enero de 2024). Véase [[topic-open-bim-regulatory-acceptance|aceptación regulatoria del BIM abierto]] para el mapa completo.
 
 La arquitectura offline-first es la única que satisface por diseño los requisitos ITAR de aislamiento de red para proyectos de defensa, la Ley de Datos de la UE, los requisitos técnicos de la HIPAA y el RGPD — sin depender de garantías contractuales de un proveedor de nube.
 
@@ -45,7 +45,7 @@ El BIM de archivo plano presenta limitaciones reconocidas: la edición colaborat
 
 ## Véase también
 
-- [[worm-ledger-design]]
-- [[service-fs-architecture]]
-- [[sel4-microkernel-substrate]]
-- [[sovereign-ai-routing]]
+- worm-ledger-design
+- service-fs-architecture
+- sel4-microkernel-substrate
+- sovereign-ai-routing

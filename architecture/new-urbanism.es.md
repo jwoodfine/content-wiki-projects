@@ -71,4 +71,4 @@ Los evaluadores de emplazamientos de colocalización deben tratar las designacio
 
 ---
 
-*citas: [[estrategia-de-colocalización]], [[mercados-regionales]], [[arquetipo-commuter]]*
+*citas: [[co-location-strategy|estrategia de colocalización]], [[regional-markets|mercados regionales]], [[topic-commuter|arquetipo commuter]]*
