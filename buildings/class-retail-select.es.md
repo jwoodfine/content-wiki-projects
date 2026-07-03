@@ -35,7 +35,11 @@ Este rol complementario también significa que las decisiones de emplazamiento d
 
 ## Perfil de inquilinos
 
-El perfil de inquilinos de Retail Select se centra en usos que requieren locales dedicados en planta baja y acceso vehicular o peatonal directo en lugar de una suite dentro de un edificio de varios pisos: sucursales bancarias, formatos de servicio con acceso vehicular y operaciones minoristas de un solo piso comparables. Estos inquilinos suelen tener ciclos de acondicionamiento más cortos y estructuras de arrendamiento distintas de los inquilinos de oficina profesional en el mismo campus, lo que aporta a Woodfine un punto adicional de diversificación dentro de un mismo despliegue.
+El perfil de inquilinos de Retail Select se centra en usos que requieren locales dedicados en planta baja y acceso vehicular o peatonal directo en lugar de una suite dentro de un edificio de varios pisos. Los inquilinos objetivo incluyen bancos, proveedores de telefonía móvil, farmacias, ópticas, operadores de cuidado personal, minoristas de joyería y minoristas de suplementos de salud. Estos inquilinos suelen tener ciclos de acondicionamiento más cortos y estructuras de arrendamiento distintas de los inquilinos de oficina profesional en el mismo campus, lo que aporta a Woodfine un punto adicional de diversificación dentro de un mismo despliegue.
+
+## Exclusión de servicio de alimentación
+
+Los proveedores de servicios de alimentación están explícitamente excluidos de los espacios Retail Select. Esta es una decisión de diseño deliberada, no un descuido: las operaciones de servicio de alimentación generan demanda de estacionamiento, requisitos de gestión de residuos e infraestructura de ventilación que reducen la eficiencia general del sitio e imponen obligaciones operativas incompatibles con la economía del Prototipo que rige las seis clases de desarrollo.
 
 ## Véase también
 

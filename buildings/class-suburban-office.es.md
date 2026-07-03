@@ -21,7 +21,9 @@ Las Oficinas Suburbanas son una de las seis [[about-development-classes|clases d
 
 ## Qué son las Oficinas Suburbanas
 
-Las Oficinas Suburbanas son estructuras de oficinas de varios pisos que atienden las mismas categorías de inquilinos objetivo que los Centros Profesionales: académico, empresarial, cívico, laboratorio y médico. El tipo de edificio, la configuración de la placa de piso y el estándar de acondicionamiento de inquilinos siguen la misma disciplina de [[fixed-floor-plates|placa de piso fija]] que rige los Centros Profesionales. Las Oficinas Suburbanas no son un producto de estándar inferior — son el mismo estándar institucional aplicado a un radio de emplazamiento distinto, posicionado para alcanzar sitios que el radio principal no puede cubrir.
+Las Oficinas Suburbanas abarcan de seis a nueve pisos, atendiendo a una gama más amplia de usuarios de oficina que los Centros Profesionales, incluyendo ocupantes académicos, empresariales, cívicos y de laboratorio que requieren placas de piso más grandes o mayor presencia vertical de la que proporciona la configuración de Centros Profesionales. El tipo de edificio, la configuración de la placa de piso y el estándar de acondicionamiento de inquilinos siguen la misma disciplina de [[fixed-floor-plates|placa de piso fija]] que rige los Centros Profesionales. Las Oficinas Suburbanas no son un producto de estándar inferior — son el mismo estándar institucional aplicado a un radio de emplazamiento distinto, posicionado para alcanzar sitios que el radio principal no puede cubrir.
+
+Las Oficinas Suburbanas comparten una característica estructural definitoria con [[class-professional-centres|Centros Profesionales]]: el Núcleo Desplazado Retrocedido, que mueve el núcleo de ascensores y servicios fuera del centro geométrico del edificio, liberando el perímetro de la placa de piso para ocupación continua por el arrendatario y permitiendo que un piso se configure como un único arrendamiento grande, múltiples arrendamientos menores o cualquier combinación, sin alterar el envolvente estructural.
 
 ## Lógica de emplazamiento: el radio de 2,0 kilómetros
 

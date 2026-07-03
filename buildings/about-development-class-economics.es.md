@@ -6,12 +6,12 @@ category: buildings
 type: topic
 content_type: topic
 quality: complete
-short_description: "Las características económicas de las cuatro categorías de inmuebles comerciales utilizadas en el programa de tenencia directa de WMC: Centros Profesionales, Oficina Suburbana, Industrial Tecnológico y Retail Selectivo."
+short_description: "Las características económicas de las clases de desarrollo de WMC: Centros Profesionales, Oficina Suburbana, Industrial Tecnológico y Retail Selectivo, con Estructuras de Estacionamiento y Almacenes Verticales por venir."
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-06-29
+last_edited: 2026-07-03
 editor: woodfine-editorial
 paired_with: buildings/about-development-class-economics.md
 ---
@@ -20,12 +20,15 @@ El análisis de inversión en bienes raíces comerciales comienza con las caract
 y económicas de las clases de edificios, que determinan la base de arrendatarios, las
 estructuras de contratos de arrendamiento, los perfiles de costos operativos y los parámetros
 de financiamiento aplicables a cada tipo de activo. El programa de tenencia directa de WMC
-aplica una taxonomía de cuatro clases: [[class-professional-centres|Centros Profesionales]], Oficina Suburbana, Industrial
-Tecnológico y Retail Selectivo.
+aplica una [[about-development-classes|taxonomía de seis clases]]: [[class-professional-centres|Centros Profesionales]], Oficina Suburbana, Industrial
+Tecnológico y Retail Selectivo — cubiertas a continuación con economía establecida — más
+Estructuras de Estacionamiento y Almacenes Verticales, dos clases aún en desarrollo cuyas
+características económicas se publicarán una vez que se suministren formalmente sus
+especificaciones físicas.
 
 ## Puntos clave
 
-- Las cuatro clases de desarrollo difieren en configuración del edificio, planta típica,
+- Las cuatro clases de desarrollo con economía establecida difieren en configuración del edificio, planta típica,
   perfil de arrendatarios y estructura de contratos — estas diferencias producen perfiles
   de ION, intensidad de capital y características de riesgo materialmente distintos.
 - Las configuraciones de un solo inquilino y bahía pequeña (Industrial Tecnológico, Retail
@@ -72,9 +75,13 @@ amplían la base de arrendatarios.
 ## Retail Selectivo
 
 Los activos de Retail Selectivo son edificios comerciales de un solo piso diseñados para
-arrendatarios minoristas y de servicios en el rango de 4,500 a 7,700 pies cuadrados.
-La selección de sitios depende explícitamente de la presencia de anclas minoristas de nivel
-institucional dentro de radios de captación definidos.
+arrendatarios minoristas y de servicios en el rango de 4,500 a 7,700 pies cuadrados. Los
+proveedores de servicios de alimentación están explícitamente excluidos de Retail Selectivo
+— el formato no está dimensionado ni equipado para las demandas de estacionamiento, gestión
+de residuos y ventilación que imponen los arrendatarios de alimentación (véase
+[[class-retail-select|Retail Select]] para la justificación de la exclusión). La selección de
+sitios depende explícitamente de la presencia de anclas minoristas de nivel institucional
+dentro de radios de captación definidos.
 
 ## Comparación entre clases
 
@@ -83,10 +90,15 @@ institucional dentro de radios de captación definidos.
 | Centros Profesionales | ~21,000 pi² / piso | Multipiso | 5–10 años | Médico, legal, servicios financieros |
 | Oficina Suburbana | ~19,000 pi² / piso | Multipiso | 5–7 años | Oficinas regionales, servicios médicos |
 | Industrial Tecnológico | 7,200–8,400 pi² / bahía | Un piso | 3–7 años | Industrial ligero, logística, servicios |
-| Retail Selectivo | 4,500–7,700 pi² | Un piso | 5 años | Retail especializado, comida, salud |
+| Retail Selectivo | 4,500–7,700 pi² | Un piso | 5 años | Retail especializado, banca, salud (sin alimentación) |
+
+## Estructuras de Estacionamiento y Almacenes Verticales
+
+Las Estructuras de Estacionamiento y los Almacenes Verticales completan la [[about-development-classes|taxonomía de seis clases]] pero aún están en desarrollo: ninguna tiene todavía una placa de piso, sistema estructural o configuración de servicios publicados, por lo que ninguna tiene un perfil económico en este artículo. Sus impulsores de ION, estructura de arrendamiento e intensidad de capital se añadirán una vez que se suministren formalmente sus especificaciones físicas.
 
 ## Consulte también
 
+- [[about-development-classes|Clases de Desarrollo]] — el marco de seis clases, incluidas las dos clases sin economía establecida todavía
 - [[net-operating-income]] — la métrica aplicada a cada clase para evaluar el desempeño operativo
 - [[commercial-real-estate-cycles]] — cómo cada clase responde de manera diferente a las
   fases del ciclo de mercado

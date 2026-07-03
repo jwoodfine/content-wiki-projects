@@ -6,7 +6,7 @@ category: buildings
 type: topic
 content_type: topic
 quality: complete
-short_description: "The economic characteristics of the four commercial building categories used in WMC's direct-hold programme: Professional Centres, Suburban Office, Tech Industrial, and Retail Select."
+short_description: "The economic characteristics of WMC's direct-hold building classes: Professional Centres, Suburban Office, Tech Industrial, and Retail Select, with Parking Structures and Vertical Warehouses to follow."
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
@@ -19,13 +19,16 @@ paired_with: buildings/about-development-class-economics.es.md
 Commercial real estate investment analysis begins with the physical and economic
 characteristics of building classes, which determine the tenant base, lease structures,
 operating cost profiles, and financing parameters applicable to each asset type. WMC's
-direct-hold programme applies a four-class taxonomy: [[class-professional-centres|Professional Centres]], Suburban Office,
-Tech Industrial, and Retail Select. Each class occupies a distinct position in the commercial
+direct-hold programme applies a [[about-development-classes|six-class taxonomy]]: [[class-professional-centres|Professional Centres]], Suburban Office,
+Tech Industrial, and Retail Select — covered below with established economics — plus Parking
+Structures and Vertical Warehouses, two classes still under development whose economic
+characteristics (floor plate, lease term, NOI profile) will be published once their physical
+specifications are formally supplied. Each class occupies a distinct position in the commercial
 property market with distinct economic characteristics.
 
 ## Key takeaways
 
-- The four development classes differ in building configuration, typical floor plate, tenant
+- The four development classes with established economics differ in building configuration, typical floor plate, tenant
   profile, and lease structure — these differences produce materially different NOI profiles,
   capital intensity, and risk characteristics for each class.
 - Single-tenancy and small-bay configurations (Tech Industrial, Retail Select) produce higher
@@ -106,9 +109,11 @@ industrial tenants.
 
 Retail Select assets are single-storey commercial buildings designed for retail and service
 tenants in the 4,500 to 7,700 square foot range — smaller than large-format anchor stores
-but larger than typical strip retail units. The configuration accommodates junior anchors,
-specialty retailers, and food service operators whose format requirements exceed the capacity
-of standard strip retail.
+but larger than typical strip retail units. The configuration accommodates junior anchors and
+specialty retailers whose format requirements exceed the capacity of standard strip retail.
+Food service providers are explicitly excluded from Retail Select — the format is not sized
+or serviced for the parking, waste management, and ventilation demands that food service
+tenancies impose (see [[class-retail-select|Retail Select]] for the exclusion rationale).
 
 Retail Select assets are explicitly co-location-dependent: their site selection relies on
 the presence of institutional-grade retail anchors within defined catchment radii, which
@@ -116,11 +121,11 @@ generate the sustained consumer traffic that makes Retail Select tenancies viabl
 Retail Select building, absent the anchor network that drives foot traffic to the node, does
 not share the same site characteristics.
 
-The tenant profile for Retail Select includes national specialty retailers, franchise food
-service operations, health and beauty services, and financial services outlets that require
-dedicated retail premises rather than an office-style tenancy. Lease terms are typically five
-years with renewal options, and occupancy costs are typically structured as a combination of
-base rent plus a share of common area maintenance recoveries.
+The tenant profile for Retail Select includes national specialty retailers, health and beauty
+services, and financial services outlets that require dedicated retail premises rather than
+an office-style tenancy. Lease terms are typically five years with renewal options, and
+occupancy costs are typically structured as a combination of base rent plus a share of common
+area maintenance recoveries.
 
 Retail Select assets have higher tenant turnover rates than office or industrial assets,
 reflecting the competitive nature of the retail sector and the sensitivity of individual
@@ -134,9 +139,14 @@ asset management to maintain occupancy and to identify replacement tenants when 
 | Professional Centres | ~21,000 sq ft / floor | Multi-floor | 5–10 years | Medical, legal, financial services |
 | Suburban Office | ~19,000 sq ft / floor | Multi-floor | 5–7 years | Regional offices, healthcare-adjacent |
 | Tech Industrial | 7,200–8,400 sq ft / bay | Single-storey | 3–7 years | Light industrial, logistics, services |
-| Retail Select | 4,500–7,700 sq ft | Single-storey | 5 years | Specialty retail, food service, health |
+| Retail Select | 4,500–7,700 sq ft | Single-storey | 5 years | Specialty retail, banking, health and beauty (no food service) |
+
+## Parking Structures and Vertical Warehouses
+
+Parking Structures and Vertical Warehouses complete the [[about-development-classes|six-class taxonomy]] but are still under development: neither has a fixed floor plate, structural system, or building services configuration published yet, so neither carries an economic profile in this article. Their NOI drivers, lease structure, and capital intensity will be added once their physical specifications are formally supplied.
 
 ## See also
 
+- [[about-development-classes|Development Classes]] — the six-class framework, including the two classes without established economics yet
 - [[net-operating-income]] — the metric applied to each class to assess operating performance
 - [[commercial-real-estate-cycles]] — how each class responds differently to market cycle phases

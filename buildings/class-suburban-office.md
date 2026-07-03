@@ -21,7 +21,9 @@ Suburban Office is one of the six [[about-development-classes|development classe
 
 ## What Suburban Office is
 
-Suburban Office buildings are multi-storey office structures serving the same target tenant categories as Professional Centres: academic, business, civic, laboratory, and medical occupiers. The building type, floor plate configuration, and tenant fit-out standard follow the same fixed [[fixed-floor-plates|floor plate]] discipline that governs Professional Centres. Suburban Office is not a lower-standard product — it is the same institutional standard applied at a different siting radius, positioned to reach sites the primary radius cannot.
+Suburban Office buildings span six to nine floors, serving a broader range of office users than Professional Centres, including academic, business, civic, and laboratory occupants who require larger floor plates or greater vertical presence than the Professional Centres configuration provides. The building type, floor plate configuration, and tenant fit-out standard follow the same fixed [[fixed-floor-plates|floor plate]] discipline that governs Professional Centres. Suburban Office is not a lower-standard product — it is the same institutional standard applied at a different siting radius, positioned to reach sites the primary radius cannot.
+
+Suburban Office shares a defining structural characteristic with [[class-professional-centres|Professional Centres]]: the Offset Pulled Back Core, which moves the elevator and service core away from the building's geometric centre, freeing the floor plate perimeter for contiguous tenant occupancy and allowing a single floor to be configured as a single large tenancy, multiple smaller tenancies, or any combination, without altering the structural envelope.
 
 ## Siting logic: the 2.0-kilometre radius
 

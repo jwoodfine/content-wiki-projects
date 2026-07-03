@@ -35,7 +35,11 @@ This complementary role also means Retail Select siting decisions are made in co
 
 ## Tenant fit
 
-The Retail Select tenant profile centres on uses that require dedicated ground-floor premises and direct vehicle or pedestrian access rather than a suite within a multi-floor building: bank branches, drive-through service formats, and comparable single-storey retail operations. These tenants typically carry shorter fit-out cycles and different lease structures than the professional office tenants in the same campus, giving Woodfine a further diversification point within a single deployment.
+The Retail Select tenant profile centres on uses that require dedicated ground-floor premises and direct vehicle or pedestrian access rather than a suite within a multi-floor building. Target tenants include banks, mobile phone providers, pharmacies, optometrists, personal care operators, jewelry retailers, and health supplement retailers. These tenants typically carry shorter fit-out cycles and different lease structures than the professional office tenants in the same campus, giving Woodfine a further diversification point within a single deployment.
+
+## Food service exclusion
+
+Food service providers are explicitly excluded from Retail Select spaces. This is a deliberate design decision, not an oversight: food service operations generate parking demand, waste management requirements, and ventilation infrastructure that reduce the efficiency of the overall site and impose operational liabilities inconsistent with the Prototype economics that govern all six development classes.
 
 ## See also
 
