@@ -19,7 +19,7 @@ paired_with: markets/spain-markets.md
 
 El **índice de mercados regionales de España** clasifica las ciudades y capitales de provincia
 españolas fuera de las áreas metropolitanas primarias de Madrid y Barcelona que cumplen los
-umbrales de población, ingresos e infraestructura comercial establecidos por el [[regional-markets|marco
+umbrales de población, ingresos e infraestructura comercial establecidos por el [[about-regional-markets|marco
 de mercados regionales de co-ubicación]]. La organización territorial de España en diecisiete
 comunidades autónomas, cada una con un centro urbano principal y una red de ciudades
 secundarias, produce un conjunto estructurado de mercados regionales calificados distribuidos
@@ -73,5 +73,5 @@ secundarios; la calificación por ingresos requiere un análisis cuidadoso.
 ## Véase también
 
 - [[top600-europe]] — el índice maestro europeo
-- [[regional-markets]] — la metodología de co-ubicación y los criterios de selección de
+- [[about-regional-markets]] — la metodología de co-ubicación y los criterios de selección de
   mercados

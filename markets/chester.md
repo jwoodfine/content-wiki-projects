@@ -85,4 +85,4 @@ doubles the professional demand base relative to the English population alone.
 
 - [[united-kingdom-markets]] — UK regional market index
 - [[top600-europe]] — the European master market index
-- [[regional-markets]] — the co-location framework and market selection criteria
+- [[about-regional-markets]] — the co-location framework and market selection criteria

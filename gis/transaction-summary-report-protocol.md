@@ -44,7 +44,7 @@ The Transaction Summary Report follows a standardized template applied to every 
 
 Before a Transaction Summary Report is commissioned for a candidate site, real estate professionals engaged by Woodfine in the identified market conduct a preliminary assessment of land availability adjacent to the Primary Target. This assessment identifies: whether development-ready land exists on or adjacent to the Primary Target parcel; the asking price or estimated acquisition cost; the current zoning status; and any identified impediments to development, including environmental conditions, infrastructure gaps, or existing agreements that would restrict use.
 
-Sites with no available land adjacent to the Primary Target are removed from the active shortlist and placed on a [[development-site-monitoring-register|monitoring register]]. Monitoring register sites remain in the dataset for re-evaluation if adjacent land becomes available in future periods. Annual or biennial updates to the dataset's sales per square foot rankings permit re-ranking of the full Primary Target population, which may change the relative priority of monitoring register sites over time.
+Sites with no available land adjacent to the Primary Target are removed from the active shortlist and placed on a [[about-development-site-monitoring-register|monitoring register]]. Monitoring register sites remain in the dataset for re-evaluation if adjacent land becomes available in future periods. Annual or biennial updates to the dataset's sales per square foot rankings permit re-ranking of the full Primary Target population, which may change the relative priority of monitoring register sites over time.
 
 ## Permitting Timeline Evaluation
 

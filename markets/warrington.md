@@ -78,4 +78,4 @@ creates an above-average professional services market for a town of this size.
 
 - [[united-kingdom-markets]] — UK regional market index
 - [[top600-europe]] — the European master market index
-- [[regional-markets]] — the co-location framework and market selection criteria
+- [[about-regional-markets]] — the co-location framework and market selection criteria

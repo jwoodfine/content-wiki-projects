@@ -19,7 +19,7 @@ paired_with: markets/top600-north-america.es.md
 
 The **TOP600 North America** index identifies up to 600 regional commercial real estate markets
 across the United States, Canada, and Mexico meeting the population, income, and retail
-infrastructure thresholds established by the [[regional-markets|co-location regional market]]
+infrastructure thresholds established by the [[about-regional-markets|co-location regional market]]
 framework. The index provides the geographic foundation for direct-hold site selection and
 market monitoring, prioritising cities and metropolitan areas outside major-metro central
 business districts where co-location professional centre deployments are viable.
@@ -73,5 +73,5 @@ direct-hold deployment activity.
 
 ## See also
 
-- [[regional-markets]] — the co-location framework that defines market selection criteria
+- [[about-regional-markets]] — the co-location framework that defines market selection criteria
 - [[top600-europe]] — the complementary European regional market index

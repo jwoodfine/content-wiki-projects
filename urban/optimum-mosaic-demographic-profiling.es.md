@@ -30,7 +30,7 @@ La metodología del Mosaico Óptimo utiliza las ventas por pie cuadrado como cri
 
 ### Tamaño de la muestra y agrupación jurisdiccional
 
-Los 25 a 100 mejores Objetivos Primarios por ventas por pie cuadrado son la muestra de la que se extrae el Mosaico Óptimo. Incluir los 25 mejores produce un perfil demográfico más concentrado; ampliar a 100 produce un perfil más amplio. Combinar datos de Objetivo Primario de Estados Unidos, Canadá y México — en lugar de analizar cada jurisdicción por separado — puede producir un Mosaico Óptimo más rico que refleje los patrones de demanda del consumidor en las geografías de [[regional-markets|Mercados Regionales]] norteamericanos.
+Los 25 a 100 mejores Objetivos Primarios por ventas por pie cuadrado son la muestra de la que se extrae el Mosaico Óptimo. Incluir los 25 mejores produce un perfil demográfico más concentrado; ampliar a 100 produce un perfil más amplio. Combinar datos de Objetivo Primario de Estados Unidos, Canadá y México — en lugar de analizar cada jurisdicción por separado — puede producir un Mosaico Óptimo más rico que refleje los patrones de demanda del consumidor en las geografías de [[about-regional-markets|Mercados Regionales]] norteamericanos.
 
 ## Dimensiones Demográficas del Mosaico Óptimo
 

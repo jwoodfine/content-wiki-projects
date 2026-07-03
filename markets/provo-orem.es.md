@@ -80,4 +80,4 @@ del Medio Oeste de crecimiento más lento con un tamaño actual similar.
 
 - [[united-states-markets]] — índice de mercados regionales de EE. UU. y cobertura de regiones censales
 - [[top600-north-america]] — el índice maestro de mercados norteamericanos
-- [[regional-markets]] — el marco de co-ubicación y los criterios de selección de mercados
+- [[about-regional-markets]] — el marco de co-ubicación y los criterios de selección de mercados

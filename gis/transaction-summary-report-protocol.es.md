@@ -42,7 +42,7 @@ El Informe de Resumen de Transacción sigue una plantilla estandarizada aplicada
 
 ## Evaluación de Disponibilidad de Terrenos
 
-Antes de que se encargue un Informe de Resumen de Transacción para un sitio candidato, los profesionales inmobiliarios comprometidos por Woodfine en el mercado identificado realizan una evaluación preliminar de la disponibilidad de terreno adyacente al Objetivo Primario. Los sitios sin terreno disponible adyacente al Objetivo Primario se retiran de la preselección activa y se colocan en un [[development-site-monitoring-register|registro de monitoreo]].
+Antes de que se encargue un Informe de Resumen de Transacción para un sitio candidato, los profesionales inmobiliarios comprometidos por Woodfine en el mercado identificado realizan una evaluación preliminar de la disponibilidad de terreno adyacente al Objetivo Primario. Los sitios sin terreno disponible adyacente al Objetivo Primario se retiran de la preselección activa y se colocan en un [[about-development-site-monitoring-register|registro de monitoreo]].
 
 ## Evaluación del Cronograma de Permisos
 

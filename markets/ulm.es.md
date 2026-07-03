@@ -69,4 +69,4 @@ inversión inmobiliaria comercial más significativa en el centro de la ciudad.
 
 - [[germany-markets]] — índice del mercado regional de Alemania
 - [[top600-europe]] — el índice maestro de mercados europeos
-- [[regional-markets]] — el marco de co-ubicación y los criterios de selección de mercados
+- [[about-regional-markets]] — el marco de co-ubicación y los criterios de selección de mercados

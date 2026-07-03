@@ -19,7 +19,7 @@ paired_with: markets/canada-markets.md
 
 El **índice de mercados regionales de Canadá** clasifica las ciudades y áreas metropolitanas
 canadienses que cumplen los umbrales de población, ingresos disponibles e infraestructura
-comercial establecidos por el [[regional-markets|marco de mercados regionales de co-ubicación]].
+comercial establecidos por el [[about-regional-markets|marco de mercados regionales de co-ubicación]].
 Canadá ofrece un conjunto sustancial y geográficamente distribuido de mercados regionales
 calificados: la distribución de la población del país produce numerosos centros de 50.000 a
 500.000 habitantes fuera de las áreas metropolitanas primarias de Toronto, Vancouver y
@@ -75,5 +75,5 @@ Bretón como mercados primarios calificados.
 ## Véase también
 
 - [[top600-north-america]] — el índice maestro norteamericano
-- [[regional-markets]] — la metodología de co-ubicación y los criterios de selección de
+- [[about-regional-markets]] — la metodología de co-ubicación y los criterios de selección de
   mercados

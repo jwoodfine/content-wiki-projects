@@ -64,4 +64,4 @@ The practical significance for commercial real estate investors is limited. Mid-
 
 ---
 
-*cites: [[vernacular-architecture]], [[contextual-architecture]], [[development-classes]]*
+*cites: [[vernacular-architecture]], [[contextual-architecture]], [[about-development-classes]]*

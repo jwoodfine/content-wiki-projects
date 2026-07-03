@@ -40,6 +40,6 @@ By specifying the parking standard in the governance bylaws rather than in the c
 
 ## Regional Market Application
 
-In [[regional-markets|Regional Markets]], parking availability is a material factor in professional services tenant location decisions in a way it is not in dense urban environments where transit alternatives substitute for vehicle access. A Regional Market office building that does not meet institutional retail parking standards loses a portion of the professional services tenant base to alternative locations — typically suburban or highway-adjacent properties where parking is unconstrained.
+In [[about-regional-markets|Regional Markets]], parking availability is a material factor in professional services tenant location decisions in a way it is not in dense urban environments where transit alternatives substitute for vehicle access. A Regional Market office building that does not meet institutional retail parking standards loses a portion of the professional services tenant base to alternative locations — typically suburban or highway-adjacent properties where parking is unconstrained.
 
 The 4:1000 target ratio aligns Woodfine Buildings with the access expectations of the co-located retail anchor. A patient or client visiting a medical tenant in a Woodfine Building has the same parking experience as a consumer visiting the adjacent Power Centre — predictable, accessible, and without the congestion that constrains clinical throughput or client meeting schedules.

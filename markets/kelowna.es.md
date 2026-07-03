@@ -76,4 +76,4 @@ superior en una zona de captación de aproximadamente 350.000–400.000 personas
 
 - [[canada-markets]] — índice del mercado regional de Canadá y cobertura provincial
 - [[top600-north-america]] — el índice maestro de mercados norteamericanos
-- [[regional-markets]] — el marco de co-ubicación y los criterios de selección de mercados
+- [[about-regional-markets]] — el marco de co-ubicación y los criterios de selección de mercados

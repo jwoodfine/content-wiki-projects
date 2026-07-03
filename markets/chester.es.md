@@ -76,4 +76,4 @@ profesional en relación con la población inglesa sola.
 
 - [[united-kingdom-markets]] — índice del mercado regional del Reino Unido
 - [[top600-europe]] — el índice maestro de mercados europeos
-- [[regional-markets]] — el marco de co-ubicación y los criterios de selección de mercados
+- [[about-regional-markets]] — el marco de co-ubicación y los criterios de selección de mercados

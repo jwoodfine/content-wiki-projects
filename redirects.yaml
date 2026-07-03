@@ -1,0 +1,57 @@
+# Redirects for media-knowledge-projects
+# Category redesign, 2026-07-03 (Phase C re-categorization, batch C1 — mechanical bulk
+# moves). See .agent/audit/2026-07-02-category-redesign/proposal-projects.md for the
+# full design. Format: Hugo-compatible redirect list. The wiki engine emits 301 for
+# each `from` path. Language variants are handled by the engine's i18n routing; only
+# EN slugs are listed here.
+
+redirects:
+
+  # Batch C1 Part 2 — co-location/ -> site-selection/ (directory rename, slug unchanged).
+  - from: /co-location/co-location-strategy
+    to: /site-selection/co-location-strategy
+
+  - from: /co-location/power-centres
+    to: /site-selection/power-centres
+
+  - from: /co-location/national-tenants
+    to: /site-selection/national-tenants
+
+  # Batch C1 Part 3 — within the renamed co-location/ (now site-selection/), six
+  # articles move a second hop to their final category. Redirect goes straight from
+  # the original /co-location/<slug> path to the final destination.
+  - from: /co-location/development-classes
+    to: /buildings/about-development-classes
+
+  - from: /co-location/mix-of-use
+    to: /buildings/mix-of-use
+
+  - from: /co-location/fixed-floor-plates
+    to: /building-design/fixed-floor-plates
+
+  - from: /co-location/key-plans-and-tiles
+    to: /building-design/key-plans-and-tiles
+
+  - from: /co-location/boma-standard
+    to: /building-design/boma-standard
+
+  - from: /co-location/regional-markets
+    to: /markets/about-regional-markets
+
+  # Batch C1 Part 2 — comms/ -> news/ (directory rename, slug unchanged).
+  - from: /comms/text-gis-nordic-coverage-2026-05
+    to: /news/text-gis-nordic-coverage-2026-05
+
+  - from: /comms/text-gis-north-america-dataset-2026
+    to: /news/text-gis-north-america-dataset-2026
+
+  # Batch C1 Part 4 — gis/ moves. Two articles move to site-selection/ (slug
+  # unchanged); one moves to rollout/ with a renamed slug (about-* framework band).
+  - from: /gis/geographic-co-location-methodology
+    to: /site-selection/geographic-co-location-methodology
+
+  - from: /gis/co-location-target-hierarchy
+    to: /site-selection/co-location-target-hierarchy
+
+  - from: /gis/development-site-monitoring-register
+    to: /rollout/about-development-site-monitoring-register

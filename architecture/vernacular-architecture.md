@@ -57,4 +57,4 @@ The regional character of vernacular commercial architecture reflects the materi
 
 ---
 
-*cites: [[co-location-strategy]], [[boma-standard]], [[development-classes]]*
+*cites: [[co-location-strategy]], [[boma-standard]], [[about-development-classes]]*

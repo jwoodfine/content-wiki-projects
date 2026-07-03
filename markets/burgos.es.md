@@ -62,4 +62,4 @@ tradicional de comercio minorista y servicios profesionales.
 
 - [[spain-markets]] — índice del mercado regional de España
 - [[top600-europe]] — el índice maestro de mercados europeos
-- [[regional-markets]] — el marco de co-ubicación y los criterios de selección de mercados
+- [[about-regional-markets]] — el marco de co-ubicación y los criterios de selección de mercados

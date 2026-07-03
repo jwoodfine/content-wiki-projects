@@ -85,4 +85,4 @@ resource-sector markets lack.
 
 - [[canada-markets]] — Canada regional market index and provincial coverage
 - [[top600-north-america]] — the North American master market index
-- [[regional-markets]] — the co-location framework and market selection criteria
+- [[about-regional-markets]] — the co-location framework and market selection criteria

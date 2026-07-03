@@ -88,4 +88,4 @@ Henderson counties in North Carolina.
 
 - [[united-states-markets]] — US regional market index and census region coverage
 - [[top600-north-america]] — the North American master market index
-- [[regional-markets]] — the co-location framework and market selection criteria
+- [[about-regional-markets]] — the co-location framework and market selection criteria

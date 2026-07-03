@@ -19,7 +19,7 @@ paired_with: markets/canada-markets.es.md
 
 The **Canada regional market index** ranks Canadian cities and metropolitan areas that meet
 the population, disposable income, and retail infrastructure thresholds established by the
-[[regional-markets|co-location regional market framework]]. Canada offers a substantial and
+[[about-regional-markets|co-location regional market framework]]. Canada offers a substantial and
 geographically distributed set of qualifying regional markets: the country's population
 distribution produces numerous centres of 50,000 to 500,000 outside the primary Toronto,
 Vancouver, and Montreal metropolitan areas, many with high household disposable income and
@@ -79,4 +79,4 @@ tenant demand analysis.
 ## See also
 
 - [[top600-north-america]] — the North American master index
-- [[regional-markets]] — the co-location methodology and market selection criteria
+- [[about-regional-markets]] — the co-location methodology and market selection criteria

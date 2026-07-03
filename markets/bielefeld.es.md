@@ -77,4 +77,4 @@ de personas — sustancialmente mayor de lo que la población independiente de l
 
 - [[germany-markets]] — índice del mercado regional de Alemania
 - [[top600-europe]] — el índice maestro de mercados europeos
-- [[regional-markets]] — el marco de co-ubicación y los criterios de selección de mercados
+- [[about-regional-markets]] — el marco de co-ubicación y los criterios de selección de mercados

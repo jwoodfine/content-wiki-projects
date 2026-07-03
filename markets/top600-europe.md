@@ -19,7 +19,7 @@ paired_with: markets/top600-europe.es.md
 
 The **TOP600 Europe** index identifies up to 600 regional commercial real estate markets
 across European countries meeting the population, income, and retail infrastructure thresholds
-established by the [[regional-markets|co-location regional market]] framework. European markets
+established by the [[about-regional-markets|co-location regional market]] framework. European markets
 present a distinct set of structural characteristics relative to North American comparables:
 denser historic urban cores, stronger public-transport dependence, more regulated retail
 planning environments, and a broader range of income levels across member states of the
@@ -75,5 +75,5 @@ Primary coverage focuses on markets across:
 
 ## See also
 
-- [[regional-markets]] — the co-location framework that defines market selection criteria
+- [[about-regional-markets]] — the co-location framework that defines market selection criteria
 - [[top600-north-america]] — the complementary North American regional market index

@@ -20,7 +20,7 @@ paired_with: markets/germany-markets.md
 El **índice de mercados regionales de Alemania** clasifica las ciudades y centros regionales
 alemanes fuera de los siete mercados comerciales primarios (Berlín, Hamburgo, Múnich,
 Colonia, Fráncfort, Stuttgart, Düsseldorf) que cumplen los umbrales de población, ingresos
-e infraestructura comercial establecidos por el [[regional-markets|marco de mercados regionales
+e infraestructura comercial establecidos por el [[about-regional-markets|marco de mercados regionales
 de co-ubicación]]. La estructura federal de Alemania y su sistema urbano históricamente
 policéntrico producen un número inusualmente grande de mercados regionales calificados.
 
@@ -74,5 +74,5 @@ Siegerland.
 ## Véase también
 
 - [[top600-europe]] — el índice maestro europeo
-- [[regional-markets]] — la metodología de co-ubicación y los criterios de selección de
+- [[about-regional-markets]] — la metodología de co-ubicación y los criterios de selección de
   mercados

@@ -57,4 +57,4 @@ El carácter regional de la arquitectura comercial vernácula refleja las tradic
 
 ---
 
-*citas: [[co-location-strategy|estrategia de colocalización]], [[boma-standard|estándar boma]], [[development-classes|clases de desarrollo]]*
+*citas: [[co-location-strategy|estrategia de colocalización]], [[boma-standard|estándar boma]], [[about-development-classes|clases de desarrollo]]*

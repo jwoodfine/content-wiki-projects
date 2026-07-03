@@ -20,7 +20,7 @@ paired_with: markets/germany-markets.es.md
 The **Germany regional market index** ranks German cities and regional centres outside the
 seven primary commercial markets (Berlin, Hamburg, Munich, Cologne, Frankfurt, Stuttgart,
 Düsseldorf) that meet the population, income, and retail infrastructure thresholds established
-by the [[regional-markets|co-location regional market framework]]. Germany's federal structure
+by the [[about-regional-markets|co-location regional market framework]]. Germany's federal structure
 and historically polycentric urban system produce an unusually large number of qualifying
 regional markets: mid-sized cities with independent economic bases, high household incomes,
 and established retail investment are distributed across all sixteen Bundesländer.
@@ -77,4 +77,4 @@ Rostock, and the Saxony-Anhalt regional centres.
 ## See also
 
 - [[top600-europe]] — the European master index
-- [[regional-markets]] — the co-location methodology and market selection criteria
+- [[about-regional-markets]] — the co-location methodology and market selection criteria

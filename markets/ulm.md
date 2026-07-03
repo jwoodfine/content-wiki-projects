@@ -81,4 +81,4 @@ companies, as well as traditional downtown professional space.
 
 - [[germany-markets]] — Germany regional market index
 - [[top600-europe]] — the European master market index
-- [[regional-markets]] — the co-location framework and market selection criteria
+- [[about-regional-markets]] — the co-location framework and market selection criteria

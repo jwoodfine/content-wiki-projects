@@ -19,7 +19,7 @@ paired_with: markets/united-kingdom-markets.md
 
 El **índice de mercados regionales del Reino Unido** clasifica las ciudades y poblaciones del
 Reino Unido fuera de Londres y el Sudeste en sentido amplio que cumplen los umbrales de
-población, ingresos e infraestructura comercial establecidos por el [[regional-markets|marco
+población, ingresos e infraestructura comercial establecidos por el [[about-regional-markets|marco
 de mercados regionales de co-ubicación]]. El Reino Unido ofrece un conjunto geográficamente
 concentrado pero económicamente diverso de mercados regionales calificados: ciudades de tamaño
 mediano en Inglaterra, Escocia y Gales con bases económicas independientes, infraestructura de
@@ -71,5 +71,5 @@ la A55 en el Norte de Gales.
 ## Véase también
 
 - [[top600-europe]] — el índice maestro europeo
-- [[regional-markets]] — la metodología de co-ubicación y los criterios de selección de
+- [[about-regional-markets]] — la metodología de co-ubicación y los criterios de selección de
   mercados
