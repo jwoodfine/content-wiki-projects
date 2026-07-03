@@ -12,6 +12,8 @@ editor: pointsav-engineering
 short_description: "Los BIM Objects son unidades de especificación del entorno construido componibles que codifican el tipo de elemento, requisitos regulatorios por jurisdicción y requisitos de desempeño de zona climática, preconstriñendo el espacio de diseño para que las configuraciones no conformes no puedan colocarse."
 cites: [ifc-4-3, uniclass-2015, bsdd-v1, ids-1-0, dtcg-w3c]
 paired_with: building-design/bim-objects-what-they-are.md
+aliases:
+  - bim-token-what-it-is
 ---
 
 El Modelado de Información para la Construcción produce representaciones digitales detalladas de estructuras. En su forma estándar, no previene infracciones. Un modelo puede estar geométricamente completo, con materiales especificados y clasificado por tipo de entidad IFC, y aún así contener elementos que no cumplen con el código, violan los requisitos de desempeño climático o entran en conflicto con regulaciones jurisdiccionales — descubrimientos que sólo se hacen cuando un verificador posterior al diseño se ejecuta. Un Objeto BIM aborda esto desde el principio. Codifica una decisión sobre un elemento del entorno construido como una unidad de especificación composable y reasignable que pre-restringe el espacio de diseño en lugar de auditar un modelo completado. Véase también [[bim-objects-substrate|categorías de Objetos BIM]] y [[design-system-bim|el Sistema de Diseño de la Construcción]].
@@ -32,7 +34,7 @@ La precisión requiere distinguir el Objeto BIM de cuatro estructuras a las que 
 
 **No es un tipo de entidad IFC.** IFC 4.3 (ISO 16739-1:2024) define `IfcWall`, `IfcSlab`, `IfcBeam` y aproximadamente 900 otras clases de esquema. Un tipo de entidad IFC es una clase de esquema — define la forma que deben tener los datos de un registro de muro. No lleva valores de restricción, requisitos específicos de jurisdicción ni parámetros de desempeño. Un Objeto BIM usa la clase de entidad IFC como ancla de identidad, pero agrega las tres capas de restricción que la clase de esquema no puede contener.
 
-**No es una Familia de Revit.** Una Familia de Revit es geometría parametrizada para una herramienta de autoría, almacenada en un formato binario propietario y vinculada a un proveedor. No lleva datos regulatorios normativos, mapeo de jurisdicción ni especificación de desempeño de zona climática. Un Objeto BIM es JSON simple (formato W3C DTCG), neutro respecto a las herramientas y legible por máquinas por cualquier consumidor conforme.
+**No es un formato de Familia BIM propietario.** Un formato de Familia BIM propietario es geometría parametrizada para una herramienta de autoría, almacenada en un formato binario específico de proveedor y vinculada a esa herramienta. No lleva datos regulatorios normativos, mapeo de jurisdicción ni especificación de desempeño de zona climática. No puede leerse con otras herramientas sin exportarlo. Un Objeto BIM es JSON simple (formato W3C DTCG), neutro respecto a las herramientas y legible por máquinas por cualquier consumidor conforme.
 
 **No es una hoja de cálculo COBie.** COBie (Construction Operations Building Information Exchange) es captura de datos posterior al hecho — datos de gestión de instalaciones extraídos de un modelo después de que el diseño está completo. Documenta lo que se construyó. Un Objeto BIM restringe lo que puede colocarse.
 
@@ -42,7 +44,7 @@ La precisión requiere distinguir el Objeto BIM de cuatro estructuras a las que 
 
 ## La Tesis de Pre-Restricción
 
-Dos décadas de herramientas BIM se han construido sobre un supuesto de validación primero: diseñar libremente y luego verificar. Solibri, Archistar y plataformas similares ejecutan reglas contra modelos completados e informan infracciones. Singapore CORENET X — el sistema de presentación BIM gubernamental más avanzado en producción — opera bajo el mismo principio. Presentar un modelo; recibir un informe de cumplimiento.
+Dos décadas de herramientas BIM se han construido sobre un supuesto de validación primero: diseñar libremente y luego verificar. Las plataformas de validación comercial ejecutan reglas contra modelos completados e informan infracciones. Singapore CORENET X — el sistema de presentación BIM gubernamental más avanzado en producción — opera bajo el mismo principio. Presentar un modelo; recibir un informe de cumplimiento.
 
 El enfoque de pre-restricción invierte esto. Si los únicos elementos disponibles para un diseñador son Objetos BIM, y cada Objeto BIM ya codifica las restricciones regulatorias y de desempeño aplicables a su tipo en una jurisdicción y zona climática dadas, entonces el informe de cumplimiento es estructuralmente innecesario. El modelo no puede ser no conforme porque las configuraciones no conformes no pueden colocarse.
 

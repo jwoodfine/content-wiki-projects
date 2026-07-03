@@ -372,3 +372,16 @@ redirects:
 
   - from: /topic-rm-wichita-ks
     to: /markets/us-ks-wichita
+
+  # Consolidation, 2026-07-03: bim-token-* (arrived via Track D2 cross-repo move) merged
+  # into the pre-existing, corpus-canonical bim-objects-* trio (127 vs 33 corpus mentions).
+  # Named-competitor mentions (Solibri, Archistar, Revit Family) fixed on the surviving
+  # bim-objects-* articles as part of this consolidation.
+  - from: /building-design/bim-token-what-it-is
+    to: /building-design/bim-objects-what-they-are
+
+  - from: /building-design/bim-token-taxonomy
+    to: /building-design/bim-objects-substrate
+
+  - from: /building-design/bim-token-three-layers
+    to: /building-design/bim-objects-three-layers

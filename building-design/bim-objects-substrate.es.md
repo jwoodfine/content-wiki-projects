@@ -12,6 +12,8 @@ editor: pointsav-engineering
 short_description: "Los BIM Objects se anclan a la jerarquía de entidades IFC 4.3, la clasificación Uniclass 2015 y URIs bSDD, organizándose en ocho categorías primitivas que codifican especificaciones espaciales, elementales, de materiales, de ensamblajes, de sistemas, de desempeño y de zona climática."
 cites: [ifc-4-3, uniclass-2015, bsdd-v1, ids-1-0, dtcg-w3c]
 paired_with: building-design/bim-objects-substrate.md
+aliases:
+  - bim-token-taxonomy
 ---
 
 La biblioteca de [[bim-objects-what-they-are|Objetos BIM]] del [[design-system-bim|Sistema de Diseño de la Construcción]] ancla cada objeto a un nodo en la jerarquía de entidades IFC 4.3, clasificado por Uniclass 2015 y publicado como un URI bSDD dereferenceable. Este artículo describe cómo funciona el [[bim-objects-three-layers|sistema de referencia de tres capas]], qué codifican las ocho categorías de objetos BIM primitivos y cómo un operador BIM los lee y aplica al crear un archivo IFC.

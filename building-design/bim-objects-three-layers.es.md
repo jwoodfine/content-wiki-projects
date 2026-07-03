@@ -12,6 +12,8 @@ editor: pointsav-engineering
 short_description: "Los BIM Objects incrustan tres capas de restricción simultáneas — Especificación (identidad permanente del elemento), Regulación (requisitos específicos de jurisdicción) y Zona Climática (requisitos de desempeño) — como datos de referencia estática con una regla de composición que aplica el valor más restrictivo."
 cites: [ifc-4-3, uniclass-2015, bsdd-v1, ids-1-0, dtcg-w3c, ashrae-90-1, nbc-2020]
 paired_with: building-design/bim-objects-three-layers.md
+aliases:
+  - bim-token-three-layers
 ---
 
 Un [[bim-objects-what-they-are|Objeto BIM]] tiene tres capas: Especificación, Regulación y Zona Climática. Las tres son datos integrados en el objeto. Ninguna de las tres capas es una opción seleccionable por el usuario en tiempo de ejecución — un diseñador no "cambia" entre zonas climáticas del mismo modo que no cambia de códigos de construcción. Las tres capas se muestran simultáneamente como tablas de referencia estáticas, cada una mostrando todas las superposiciones registradas para el tipo de elemento del Objeto BIM. Esta estructura refleja una realidad física: un elemento construido tiene un tipo fijo (Especificación), existe en una jurisdicción fija (Regulación) y se desempeña en un clima fijo (Zona Climática).
@@ -100,7 +102,7 @@ La interfaz CMS es la interfaz prevista para `app-console-bim` (planificado, v0.
 
 ## Véase también
 
-- [[bim-objects-what-they-are]] — qué es un Objeto BIM y cómo difiere de los tipos de entidad IFC, familias de Revit y conjuntos de propiedades
+- [[bim-objects-what-they-are]] — qué es un Objeto BIM y cómo difiere de los tipos de entidad IFC, formatos de Familia BIM propietarios y conjuntos de propiedades
 - [[bim-objects-substrate]] — las ocho categorías de Objetos BIM primitivos y su formato de entrega DTCG
 - [[open-bim-regulatory-acceptance|open-bim-regulatory-acceptance]] — cómo las jurisdicciones adoptan los estándares BIM abiertos
 - [[design-system-bim]] — el Sistema de Diseño de la Construcción para el entorno construido

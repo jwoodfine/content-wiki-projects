@@ -12,6 +12,8 @@ editor: pointsav-engineering
 short_description: "BIM Objects anchor to the IFC 4.3 entity hierarchy, Uniclass 2015 classification, and bSDD URIs, organizing into eight primitive categories that encode spatial, elemental, material, assembly, system, performance, and climate-zone specifications."
 cites: [ifc-4-3, uniclass-2015, bsdd-v1, ids-1-0, dtcg-w3c]
 paired_with: building-design/bim-objects-substrate.es.md
+aliases:
+  - bim-token-taxonomy
 ---
 
 The [[design-system-bim|Building Design System]] [[bim-objects-what-they-are|BIM Object]] library anchors every object to a node in the IFC 4.3 entity hierarchy, classified by Uniclass 2015, and published as a dereferenceable bSDD URI. This article describes how the [[bim-objects-three-layers|three-layer reference system]] works, what the eight BIM Object primitive categories encode, and how a BIM operator reads and applies them when authoring an IFC file.

@@ -53,5 +53,5 @@ This architecture ensures that BIM components remain consistent with the broader
 ## See also
 
 - [[bim-aec-muscle-memory]]
-- [[bim-token-taxonomy]]
+- [[bim-objects-substrate]]
 - Flat-file BIM leapfrog

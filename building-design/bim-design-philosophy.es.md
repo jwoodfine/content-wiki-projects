@@ -41,5 +41,5 @@ La plataforma propone un modelo donde las normativas urbanísticas se publican c
 ## Véase también
 
 - [[bim-aec-muscle-memory]]
-- [[bim-token-taxonomy]]
+- [[bim-objects-substrate]]
 - Salto BIM en archivos planos

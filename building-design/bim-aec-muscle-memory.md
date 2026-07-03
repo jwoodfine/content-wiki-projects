@@ -56,5 +56,5 @@ These capabilities are planned for the v0.0.2 release and represent the converge
 ## See also
 
 - [[bim-design-philosophy]]
-- [[bim-token-taxonomy]]
+- [[bim-objects-substrate]]
 - Flat-file BIM leapfrog

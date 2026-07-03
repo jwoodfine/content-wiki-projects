@@ -38,5 +38,5 @@ Estas capacidades, previstas para la versión v0.0.2, transforman el BIM de una 
 ## Véase también
 
 - [[bim-design-philosophy]]
-- [[bim-token-taxonomy]]
+- [[bim-objects-substrate]]
 - Salto BIM en archivos planos

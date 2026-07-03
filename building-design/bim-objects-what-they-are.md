@@ -12,6 +12,8 @@ editor: pointsav-engineering
 short_description: "BIM Objects are composable built-environment specification units that encode element type, regulatory requirements by jurisdiction, and climate zone performance requirements, pre-constraining the design space so non-compliant configurations cannot be placed."
 cites: [ifc-4-3, uniclass-2015, bsdd-v1, ids-1-0, dtcg-w3c]
 paired_with: building-design/bim-objects-what-they-are.es.md
+aliases:
+  - bim-token-what-it-is
 ---
 
 Building Information Modelling produces detailed digital representations of structures. It does not, in its standard form, prevent violations. A model can be geometrically complete, materially specified, and classified by IFC entity type while still containing elements that fail code compliance, violate climate performance floors, or conflict with jurisdictional regulation — discoveries made only when a post-design checker runs. A BIM Object addresses this upstream. It encodes a built-environment element decision as a composable, aliasable specification unit that pre-constrains the design space rather than auditing a completed model. See also [[bim-objects-substrate|BIM object categories]] and [[design-system-bim|the Building Design System]].
@@ -32,7 +34,7 @@ Precision requires distinguishing the BIM Object from four structures it superfi
 
 **Not an IFC entity type.** IFC 4.3 (ISO 16739-1:2024) defines `IfcWall`, `IfcSlab`, `IfcBeam`, and approximately 900 other schema classes. An IFC entity type is a schema class — it defines what data shape a wall record must conform to. It carries no constraint values, no jurisdiction-specific requirements, and no performance parameters. A BIM Object uses the IFC entity class as its identity anchor but adds the three constraint layers the schema class cannot hold.
 
-**Not a Revit Family.** A Revit Family is geometry parameterised for one authoring tool, stored in a proprietary binary format, and vendor-locked. It carries no normative regulatory data, no jurisdiction mapping, and no climate zone performance specification. It cannot be read by non-Revit tooling without export. A BIM Object is plain JSON (W3C DTCG format), tool-neutral, and machine-readable by any conformant consumer.
+**Not a proprietary BIM Family format.** A proprietary BIM Family format is geometry parameterised for one authoring tool, stored in a vendor-specific binary format, and tool-locked. It carries no normative regulatory data, no jurisdiction mapping, and no climate zone performance specification. It cannot be read by other tooling without export. A BIM Object is plain JSON (W3C DTCG format), tool-neutral, and machine-readable by any conformant consumer.
 
 **Not a COBie spreadsheet.** COBie (Construction Operations Building Information Exchange) is after-the-fact data capture — facility management data extracted from a model after design is complete. It documents what was built. A BIM Object constrains what may be placed.
 
@@ -42,7 +44,7 @@ Precision requires distinguishing the BIM Object from four structures it superfi
 
 ## The Pre-Constraining Thesis
 
-Two decades of BIM tooling have been built on a validation-first assumption: design freely, then check. Solibri, Archistar, and similar platforms run rules against completed models and report violations. Singapore's CORENET X — the most advanced government BIM submission system in production — operates on the same principle. Submit a model; receive a compliance report.
+Two decades of BIM tooling have been built on a validation-first assumption: design freely, then check. Commercial validation platforms run rules against completed models and report violations. Singapore's CORENET X — the most advanced government BIM submission system in production — operates on the same principle. Submit a model; receive a compliance report.
 
 The pre-constraining approach inverts this. If the only elements available to a designer are BIM Objects, and each BIM Object already encodes the regulatory and performance constraints applicable to its type in a given jurisdiction and climate zone, then the compliance report is structurally unnecessary. The model cannot be non-compliant because non-compliant configurations cannot be placed.
 

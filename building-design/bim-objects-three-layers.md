@@ -12,6 +12,8 @@ editor: pointsav-engineering
 short_description: "BIM Objects embed three simultaneous constraint layers — Specification (permanent element identity), Regulation (jurisdiction-specific requirements), and Climate Zone (performance requirements) — as static reference data with a composition rule that applies the more restrictive value."
 cites: [ifc-4-3, uniclass-2015, bsdd-v1, ids-1-0, dtcg-w3c, ashrae-90-1, nbc-2020]
 paired_with: building-design/bim-objects-three-layers.es.md
+aliases:
+  - bim-token-three-layers
 ---
 
 A [[bim-objects-what-they-are|BIM Object]] has three layers: Specification, Regulation, and Climate Zone. All three are embedded data in the object. None of the three layers is a runtime user-selectable option — a designer does not "switch" between climate zones any more than they switch building codes. The three layers are displayed simultaneously as static reference tables, each showing all registered overlays for the BIM Object's element type. This structure reflects a physical reality: a built element has a fixed type (Specification), exists in a fixed jurisdiction (Regulation), and performs in a fixed climate (Climate Zone). All three are facts about the element's physical context, not user preferences.
@@ -167,7 +169,7 @@ The BIM Object Regulation layer consumes the IFC Property Set structure but adds
 
 ## See also
 
-- [[bim-objects-what-they-are]] — what a BIM Object is and how it differs from IFC entity types, Revit families, and property sets
+- [[bim-objects-what-they-are]] — what a BIM Object is and how it differs from IFC entity types, proprietary BIM Family formats, and property sets
 - [[bim-objects-substrate]] — the eight BIM Object primitive categories and their DTCG delivery format
 - [[open-bim-regulatory-acceptance|open-bim-regulatory-acceptance]] — how jurisdictions are adopting open BIM standards
 - [[design-system-bim]] — the broader Building Design System for the built environment
