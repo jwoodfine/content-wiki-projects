@@ -40,10 +40,10 @@ Vertical Warehouses are planned for locations beyond the power centre proximity 
 
 Parking Structures are intended for deployment at regional transit hubs and airport catchment zones, providing multi-storey structured parking infrastructure as a standalone direct-hold asset. The transit hub context means the occupancy driver is regional mobility infrastructure rather than retail anchor adjacency.
 
-Parking Structures are planned as part of the Woodfine direct-hold portfolio expansion. The [[topic-co-location-methodology|co-location adjacency methodology]] does not apply to this class; site selection is governed by transit hub capacity and modal connectivity analysis.
+Parking Structures are planned as part of the Woodfine direct-hold portfolio expansion. The [[co-location-methodology|co-location adjacency methodology]] does not apply to this class; site selection is governed by transit hub capacity and modal connectivity analysis.
 
 ## The rollout program as a cross-class framework
 
-The [[topic-co-location-methodology|rollout program]] — the systematic repetition of a standardized design across multiple sites — applies to all three classes. Each class has its own prototype geometry and [[fixed-floor-plates|fixed floor plate]] standard, enabling consistent cost and schedule performance across deployments regardless of market or jurisdiction.
+The [[co-location-methodology|rollout program]] — the systematic repetition of a standardized design across multiple sites — applies to all three classes. Each class has its own prototype geometry and [[fixed-floor-plates|fixed floor plate]] standard, enabling consistent cost and schedule performance across deployments regardless of market or jurisdiction.
 
 The class taxonomy is exhaustive and categorical. A deployment is a Professional Centre, a Vertical Warehouse, or a Parking Structure — no hybrid classifications exist within the direct-hold portfolio framework.

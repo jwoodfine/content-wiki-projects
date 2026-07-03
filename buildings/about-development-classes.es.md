@@ -40,7 +40,7 @@ Los Almacenes Verticales están planificados para ubicaciones más allá del cri
 
 Las Estructuras de Estacionamiento están previstas para su despliegue en centros de tránsito regionales y zonas de captación aeroportuaria, proporcionando infraestructura de estacionamiento estructurado de varios pisos como activo de tenencia directa independiente. El contexto del centro de tránsito significa que el factor determinante de la ocupación es la infraestructura de movilidad regional en lugar de la adyacencia al ancla minorista.
 
-Las Estructuras de Estacionamiento están planificadas como parte de la expansión de la cartera de tenencia directa de Woodfine. La [[topic-co-location-methodology|metodología de adyacencia de co-localización]] no aplica a esta clase; la selección de sitios se rige por el análisis de la capacidad del centro de tránsito y la conectividad multimodal.
+Las Estructuras de Estacionamiento están planificadas como parte de la expansión de la cartera de tenencia directa de Woodfine. La [[co-location-methodology|metodología de adyacencia de co-localización]] no aplica a esta clase; la selección de sitios se rige por el análisis de la capacidad del centro de tránsito y la conectividad multimodal.
 
 ## El programa de implementación como marco transclase
 
