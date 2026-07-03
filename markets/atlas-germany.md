@@ -48,7 +48,7 @@ existing retail park investment a stronger confirmation signal than in less-regu
 ## Coverage by Bundesland
 
 **Bavaria** — markets in the Munich metropolitan region beyond the urban core (Ingolstadt,
-[[augsburg|Augsburg]], Regensburg, Landshut), the Franconia region (Nuremberg excluded as a major-seven
+[[de-by-augsburg|Augsburg]], Regensburg, Landshut), the Franconia region (Nuremberg excluded as a major-seven
 adjacent market; Erlangen, Bamberg, Bayreuth as primary targets), and Eastern Bavaria.
 
 **Baden-Württemberg** — markets in the Rhine-Neckar region outside Mannheim and Heidelberg
@@ -56,12 +56,12 @@ primaries, the Lake Constance region (Ravensburg-Weingarten, Friedrichshafen), a
 mid-size cities of the Swabian Alb.
 
 **North Rhine-Westphalia** — markets outside the Cologne-Düsseldorf-Ruhr primary zone,
-concentrated in Eastern Westphalia ([[bielefeld|Bielefeld]], Paderborn, Gütersloh), Münsterland, and the
+concentrated in Eastern Westphalia ([[de-nw-bielefeld|Bielefeld]], Paderborn, Gütersloh), Münsterland, and the
 Siegerland.
 
 **Lower Saxony and Bremen surrounds** — Braunschweig, Göttingen, Hildesheim, Osnabrück.
 
-**Eastern Germany** — Dresden (Big Seven adjacent; secondary markets only), [[erfurt|Erfurt]], Magdeburg,
+**Eastern Germany** — Dresden (Big Seven adjacent; secondary markets only), [[de-th-erfurt|Erfurt]], Magdeburg,
 Rostock, and the Saxony-Anhalt regional centres.
 
 ## Sample markets
@@ -71,8 +71,8 @@ Rostock, and the Saxony-Anhalt regional centres.
 | Augsburg | Bavaria | 300,000–330,000 | Strong Fachmarktzentrum base; Munich metro access |
 | Bielefeld | North Rhine-Westphalia | 330,000–360,000 | Independent economic base; OWL regional centre |
 | Erfurt | Thuringia | 210,000–230,000 | State capital; established retail base; ICE hub |
-| [[kaiserslautern|Kaiserslautern]] | Rhineland-Palatinate | 100,000–110,000 | University + US military presence; income qualified |
-| [[ulm|Ulm]] | Baden-Württemberg | 130,000–140,000 | River border city; strong Fachmarktzentrum |
+| [[de-rp-kaiserslautern|Kaiserslautern]] | Rhineland-Palatinate | 100,000–110,000 | University + US military presence; income qualified |
+| [[de-bw-ulm|Ulm]] | Baden-Württemberg | 130,000–140,000 | River border city; strong Fachmarktzentrum |
 
 ## See also
 

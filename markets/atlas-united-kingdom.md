@@ -47,12 +47,12 @@ planning frameworks.
 ## Coverage by region
 
 **North of England** — markets across Yorkshire (Leeds secondary areas, Sheffield surrounds,
-[[york|York]]), the North West beyond Greater Manchester ([[warrington|Warrington]], Preston, Lancaster, Kendal),
+[[gb-eng-york|York]]), the North West beyond Greater Manchester ([[gb-eng-warrington|Warrington]], Preston, Lancaster, Kendal),
 the North East (Newcastle secondary areas, Sunderland, Durham), and Cumbria.
 
 **Midlands** — markets across the West Midlands beyond Birmingham's primary core
 (Coventry, Wolverhampton, Walsall, Solihull), and the East Midlands (Leicester surrounds,
-Derby, Nottingham secondary areas, Lincoln, [[northampton|Northampton]]).
+Derby, Nottingham secondary areas, Lincoln, [[gb-eng-northampton|Northampton]]).
 
 **East of England** — Cambridge secondary markets, Norwich, Ipswich, Chelmsford, Colchester,
 Peterborough.
@@ -60,14 +60,14 @@ Peterborough.
 **Wales** — Cardiff secondary areas, Swansea, Newport, and the A55 corridor markets in
 North Wales.
 
-**Scotland** — Edinburgh secondary areas, Glasgow secondary markets, Aberdeen, [[inverness|Inverness]],
+**Scotland** — Edinburgh secondary areas, Glasgow secondary markets, Aberdeen, [[gb-sct-inverness|Inverness]],
 Perth, and Dundee.
 
 ## Sample markets
 
 | Market | Region | Population range | Notes |
 |---|---|---|---|
-| [[chester|Chester]] | North West | 120,000–140,000 | Retail park base; NHS trust; heritage city |
+| [[gb-eng-chester|Chester]] | North West | 120,000–140,000 | Retail park base; NHS trust; heritage city |
 | Inverness | Scotland | 70,000–90,000 | Highland capital; NHS Highland anchor; growing retail base |
 | Northampton | East Midlands | 230,000–260,000 | Logistics employment base; strong retail park inventory |
 | Warrington | North West | 210,000–230,000 | M6/M62 junction; major distribution and professional base |

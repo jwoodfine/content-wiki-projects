@@ -41,16 +41,16 @@ mercados regionales españoles.
 
 ## Cobertura por comunidad autónoma
 
-**País Vasco** — [[vitoria-gasteiz|Vitoria-Gasteiz]] (capital de Álava) como mercado calificado primario;
+**País Vasco** — [[es-pv-vitoria-gasteiz|Vitoria-Gasteiz]] (capital de Álava) como mercado calificado primario;
 San Sebastián y Bilbao evaluados como mercados adyacentes al primario.
 
-**Navarra** — [[pamplona|Pamplona]] y el corredor del Valle de Navarra; ingresos sólidos; anclas Leroy
+**Navarra** — [[es-nc-pamplona|Pamplona]] y el corredor del Valle de Navarra; ingresos sólidos; anclas Leroy
 Merlin y Decathlon confirman la viabilidad del power centre.
 
-**Aragón** — [[zaragoza-secondary|Zaragoza]] supera el umbral del mercado primario; las ciudades secundarias Huesca
+**Aragón** — [[es-ar-zaragoza-secondary|Zaragoza]] supera el umbral del mercado primario; las ciudades secundarias Huesca
 y Teruel califican por demanda profesional específica.
 
-**Castilla y León** — [[valladolid|Valladolid]], [[burgos|Burgos]], León, Salamanca y Ávila como mercados regionales
+**Castilla y León** — [[es-cl-valladolid|Valladolid]], [[es-cl-burgos|Burgos]], León, Salamanca y Ávila como mercados regionales
 calificados primarios; la mayor extensión territorial de cualquier comunidad autónoma con el
 conjunto de mercados más distribuido.
 

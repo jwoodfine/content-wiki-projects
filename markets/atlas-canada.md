@@ -48,18 +48,18 @@ Greater Golden Horseshoe beyond the Toronto metropolitan boundary, Eastern Ontar
 Southwestern Ontario, and Northern Ontario urban centres.
 
 **Alberta** — markets in the Calgary region outside the primary urban core, the Edmonton
-Capital Region beyond the metro, and mid-sized cities including [[lethbridge|Lethbridge]] and Red Deer.
+Capital Region beyond the metro, and mid-sized cities including [[ca-ab-lethbridge|Lethbridge]] and Red Deer.
 
 **British Columbia** — markets in the Okanagan Valley, Vancouver Island outside the Victoria
 CMA, the Fraser Valley, and the Thompson-Nicola region.
 
-**Saskatchewan and Manitoba** — Saskatoon and [[regina|Regina]] as primary qualifying markets; Winnipeg
+**Saskatchewan and Manitoba** — Saskatoon and [[ca-sk-regina|Regina]] as primary qualifying markets; Winnipeg
 regional suburbs meeting power centre and income screens.
 
 **Quebec** — markets in the Quebec City region, Saguenay–Lac-Saint-Jean, Estrie, and
 Laurentides–Lanaudière outside the Montreal metro.
 
-**Atlantic provinces** — [[moncton|Moncton]], Fredericton, Charlottetown, and Sidney/Cape Breton as
+**Atlantic provinces** — [[ca-nb-moncton|Moncton]], Fredericton, Charlottetown, and Sidney/Cape Breton as
 primary qualifying markets; others assessed individually.
 
 ## Sample markets
@@ -70,8 +70,8 @@ tenant demand analysis.
 
 | Market | Province | Population range | Notes |
 |---|---|---|---|
-| [[barrie-innisfil|Barrie–Innisfil]] | Ontario | 220,000–260,000 | Major Costco + Home Depot anchors; rapid growth |
-| [[kelowna|Kelowna]] | British Columbia | 230,000–260,000 | Okanagan income leader; established power centres |
+| [[ca-on-barrie-innisfil|Barrie–Innisfil]] | Ontario | 220,000–260,000 | Major Costco + Home Depot anchors; rapid growth |
+| [[ca-bc-kelowna|Kelowna]] | British Columbia | 230,000–260,000 | Okanagan income leader; established power centres |
 | Lethbridge | Alberta | 110,000–130,000 | Strong income; single primary power centre |
 | Moncton | New Brunswick | 170,000–200,000 | Atlantic commercial hub; francophone/anglophone dual market |
 | Regina | Saskatchewan | 250,000–280,000 | Prairie capital; provincial demand anchor |

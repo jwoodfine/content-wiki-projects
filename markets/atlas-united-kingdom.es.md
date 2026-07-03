@@ -42,12 +42,12 @@ generales — es el principal análogo del [[power-centres|power centre]].
 ## Cobertura por región
 
 **Norte de Inglaterra** — mercados en Yorkshire (áreas secundarias de Leeds, alrededores de
-Sheffield, [[york|York]]), el Noroeste más allá del Gran Manchester ([[warrington|Warrington]], Preston, Lancaster),
+Sheffield, [[gb-eng-york|York]]), el Noroeste más allá del Gran Manchester ([[gb-eng-warrington|Warrington]], Preston, Lancaster),
 el Noreste (áreas secundarias de Newcastle, Sunderland, Durham) y Cumbria.
 
 **Midlands** — mercados en las Midlands Occidentales más allá del núcleo primario de
 Birmingham (Coventry, Wolverhampton, Walsall) y las Midlands Orientales (alrededores de
-Leicester, Derby, áreas secundarias de Nottingham, Lincoln, [[northampton|Northampton]]).
+Leicester, Derby, áreas secundarias de Nottingham, Lincoln, [[gb-eng-northampton|Northampton]]).
 
 **Este de Inglaterra** — mercados secundarios de Cambridge, Norwich, Ipswich, Chelmsford,
 Colchester, Peterborough.
@@ -56,13 +56,13 @@ Colchester, Peterborough.
 la A55 en el Norte de Gales.
 
 **Escocia** — áreas secundarias de Edimburgo, mercados secundarios de Glasgow, Aberdeen,
-[[inverness|Inverness]], Perth y Dundee.
+[[gb-sct-inverness|Inverness]], Perth y Dundee.
 
 ## Mercados de muestra
 
 | Mercado | Región | Rango de población | Notas |
 |---|---|---|---|
-| [[chester|Chester]] | Noroeste | 120.000–140.000 | Base de parques comerciales; NHS Trust; ciudad histórica |
+| [[gb-eng-chester|Chester]] | Noroeste | 120.000–140.000 | Base de parques comerciales; NHS Trust; ciudad histórica |
 | Inverness | Escocia | 70.000–90.000 | Capital de las Highlands; ancla NHS Highland; base minorista creciente |
 | Northampton | Midlands Orientales | 230.000–260.000 | Base de empleo logístico; sólido inventario de parques comerciales |
 | Warrington | Noroeste | 210.000–230.000 | Nodo M6/M62; importante base de distribución y profesional |

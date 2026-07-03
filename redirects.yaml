@@ -275,3 +275,100 @@ redirects:
 
   - from: /topic-co-location-index-us
     to: /markets/atlas-co-location-index-us
+
+  # Batch C3b — markets place-profile band. Place-slug grammar `<cc>-<sub>-<place>`
+  # (ISO 3166-1 alpha-2 country + ISO 3166-2 first-order subdivision + kebab-case
+  # place name). 26 already-in-markets/ profiles rename in place; 6 flat-root
+  # `topic-rm-*` profiles move into markets/ with the same grammar.
+  - from: /markets/augsburg
+    to: /markets/de-by-augsburg
+
+  - from: /markets/barrie-innisfil
+    to: /markets/ca-on-barrie-innisfil
+
+  - from: /markets/bielefeld
+    to: /markets/de-nw-bielefeld
+
+  - from: /markets/burgos
+    to: /markets/es-cl-burgos
+
+  - from: /markets/chester
+    to: /markets/gb-eng-chester
+
+  - from: /markets/erfurt
+    to: /markets/de-th-erfurt
+
+  - from: /markets/fort-collins
+    to: /markets/us-co-fort-collins
+
+  - from: /markets/greenville-spartanburg
+    to: /markets/us-sc-greenville-spartanburg
+
+  - from: /markets/inverness
+    to: /markets/gb-sct-inverness
+
+  - from: /markets/kaiserslautern
+    to: /markets/de-rp-kaiserslautern
+
+  - from: /markets/kelowna
+    to: /markets/ca-bc-kelowna
+
+  - from: /markets/lethbridge
+    to: /markets/ca-ab-lethbridge
+
+  - from: /markets/madison
+    to: /markets/us-wi-madison
+
+  - from: /markets/moncton
+    to: /markets/ca-nb-moncton
+
+  - from: /markets/northampton
+    to: /markets/gb-eng-northampton
+
+  - from: /markets/pamplona
+    to: /markets/es-nc-pamplona
+
+  - from: /markets/provo-orem
+    to: /markets/us-ut-provo-orem
+
+  - from: /markets/regina
+    to: /markets/ca-sk-regina
+
+  - from: /markets/spokane
+    to: /markets/us-wa-spokane
+
+  - from: /markets/ulm
+    to: /markets/de-bw-ulm
+
+  - from: /markets/valladolid
+    to: /markets/es-cl-valladolid
+
+  - from: /markets/vitoria-gasteiz
+    to: /markets/es-pv-vitoria-gasteiz
+
+  - from: /markets/warrington
+    to: /markets/gb-eng-warrington
+
+  - from: /markets/york
+    to: /markets/gb-eng-york
+
+  - from: /markets/zaragoza-secondary
+    to: /markets/es-ar-zaragoza-secondary
+
+  - from: /topic-rm-colorado-springs-co
+    to: /markets/us-co-colorado-springs
+
+  - from: /topic-rm-krefeld-de
+    to: /markets/de-nw-krefeld
+
+  - from: /topic-rm-mississauga-on
+    to: /markets/ca-on-mississauga
+
+  - from: /topic-rm-nurnberg-de
+    to: /markets/de-by-nurnberg
+
+  - from: /topic-rm-plano-tx
+    to: /markets/us-tx-plano
+
+  - from: /topic-rm-wichita-ks
+    to: /markets/us-ks-wichita
