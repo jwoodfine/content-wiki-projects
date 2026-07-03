@@ -37,7 +37,7 @@ La presencia de inversión minorista nacional en un mercado regional es en sí m
 
 ## Los 400 principales mercados regionales
 
-El [[site-selection-terminology|marco de selección de sitios]] identifica un conjunto global de aproximadamente 400 mercados regionales — en América del Norte, Europa y otras economías de la OCDE — que cumplen los umbrales de población, ingresos e infraestructura minorista para la evaluación de co-localización. Estos mercados se puntúan y clasifican mediante el [[topic-co-location-ranking-system|sistema de clasificación de co-localización]], con prioridad para los mercados donde tanto la inversión en [[power-centres|centros de potencia]] como la demanda de inquilinos profesionales están confirmadas.
+El [[site-selection-terminology|marco de selección de sitios]] identifica un conjunto global de aproximadamente 400 mercados regionales — en América del Norte, Europa y otras economías de la OCDE — que cumplen los umbrales de población, ingresos e infraestructura minorista para la evaluación de co-localización. Estos mercados se puntúan y clasifican mediante el [[co-location-ranking-system|sistema de clasificación de co-localización]], con prioridad para los mercados donde tanto la inversión en [[power-centres|centros de potencia]] como la demanda de inquilinos profesionales están confirmadas.
 
 ## Distinción de los submercados de las áreas metropolitanas
 

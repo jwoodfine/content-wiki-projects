@@ -29,8 +29,8 @@ propios procesos de selección de sitios.
 
 La plataforma de inteligencia de co-localización ha evaluado 6.493 clusters a partir de 229.054
 ubicaciones minoristas en 8 mercados que abarcan 13 países. Esta enciclopedia es la referencia
-metodológica para el [[topic-co-location-ranking-system|algoritmo de clasificación]], los estándares
-de [[topic-asset-architecture-standard|arquitectura de activos]] y los índices de despliegue regional
+metodológica para el [[co-location-ranking-system|algoritmo de clasificación]], los estándares
+de [[asset-architecture-standard|arquitectura de activos]] y los índices de despliegue regional
 para [[topic-tier-index-north-america|América del Norte]] y [[topic-tier-index-europe|Europa]].
 La plataforma está disponible en gis.woodfinegroup.com y es desarrollada y mantenida por PointSav
 Digital Systems.

@@ -83,9 +83,9 @@ The composite score of 18.0 places Mississauga fourth among the 400 ranked North
 - [[topic-regional-markets-system|Regional Markets Intelligence System]]
 - [[topic-regional-market-matrix|Regional Market Matrix]]
 - [[topic-top-400-regional-markets-na|Top 400 Regional Markets — North America]]
-- [[topic-co-location-methodology|Co-location Methodology]]
-- [[topic-co-location-ranking-system|Co-location Ranking System]]
-- [[topic-od-catchment-methodology|O-D Catchment Methodology]]
+- [[co-location-methodology|Co-location Methodology]]
+- [[co-location-ranking-system|Co-location Ranking System]]
+- [[od-catchment-methodology|O-D Catchment Methodology]]
 
 ## The bottom line
 

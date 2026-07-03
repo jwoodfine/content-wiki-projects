@@ -11,8 +11,8 @@ editor: pointsav-engineering
 ---
 
 For enquiries related to this wiki or to MCorp research and methodology —
-including questions about the [[topic-catchment-ranking-methodology-v3|catchment ranking methodology]],
-[[topic-od-catchment-methodology|O-D catchment model]], or data coverage — contact Woodfine
+including questions about the [[catchment-ranking-methodology-v3|catchment ranking methodology]],
+[[od-catchment-methodology|O-D catchment model]], or data coverage — contact Woodfine
 Management Corp. through official institutional channels.
 
 For corrections or updates to wiki content, flag the specific article and the factual

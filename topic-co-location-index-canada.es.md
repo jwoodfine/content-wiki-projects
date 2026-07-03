@@ -21,9 +21,9 @@ cites:
   - osc-sn-51-721
 ---
 
-Este índice identifica y clasifica los nodos comerciales de alto valor dentro del mercado canadiense, evaluados de acuerdo con la [[topic-co-location-methodology]] y operacionalizados por el [[topic-co-location-ranking-system|sistema de clasificación determinista]]. La lista representa el subconjunto canadiense del [[topic-tier-index-north-america|índice clasificado de América del Norte]].
+Este índice identifica y clasifica los nodos comerciales de alto valor dentro del mercado canadiense, evaluados de acuerdo con la [[co-location-methodology]] y operacionalizados por el [[co-location-ranking-system|sistema de clasificación determinista]]. La lista representa el subconjunto canadiense del [[topic-tier-index-north-america|índice clasificado de América del Norte]].
 
-Los sitios se evalúan según la proximidad de las [[topic-co-location-anchors|anclas]] secundarias (Costco, Home Depot) y la infraestructura institucional terciaria (salud, educación superior) respecto al ancla principal (Walmart Supercentre).
+Los sitios se evalúan según la proximidad de las [[co-location-anchors|anclas]] secundarias (Costco, Home Depot) y la infraestructura institucional terciaria (salud, educación superior) respecto al ancla principal (Walmart Supercentre).
 
 ## Sitios Tier 5 (★★★★★) — Convergencia Total
 
@@ -48,8 +48,8 @@ Los siguientes municipios albergan nodos que han logrado una convergencia comerc
 
 ## Ver También
 *   [[topic-tier-index-north-america]]
-*   [[topic-co-location-methodology]]
-*   [[topic-co-location-ranking-system]]
+*   [[co-location-methodology]]
+*   [[co-location-ranking-system]]
 
 ---
 ## Procedencia

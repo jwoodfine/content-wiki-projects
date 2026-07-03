@@ -18,7 +18,7 @@ paired_with: site-selection/power-centres.es.md
 
 A power centre is a retail development anchored by multiple large-format, national-chain stores — typically a warehouse club, a home-improvement superstore, and a general merchandise retailer — each independently operating a store of 60,000 square feet or more. Power centres represent large, stable capital commitments from national retailers and generate sustained regional destination traffic that distinguishes them from neighbourhood shopping centres or single-tenant retail formats.
 
-The [[co-location-strategy|co-location strategy]] uses power centres as the primary site-selection anchor for professional real estate deployment. The reasoning is structural: each retailer anchoring a power centre has independently committed capital following its own site-selection analysis. Their convergence within a single development or corridor is independent corroboration of regional demand — the same analysis that drives the [[topic-co-location-methodology|co-location methodology]].
+The [[co-location-strategy|co-location strategy]] uses power centres as the primary site-selection anchor for professional real estate deployment. The reasoning is structural: each retailer anchoring a power centre has independently committed capital following its own site-selection analysis. Their convergence within a single development or corridor is independent corroboration of regional demand — the same analysis that drives the [[co-location-methodology|co-location methodology]].
 
 ## National retailer composition
 
@@ -36,7 +36,7 @@ The national retailers that anchor power centres relevant to Woodfine co-locatio
 
 Power centres are concentrated in [[about-regional-markets|regional markets]] — cities and metropolitan areas with populations between 50,000 and 300,000 — where land availability and drive-based catchment economics favour the large-format model. In major metro areas, power centres compete with infill retail formats; in regional markets, the power centre is typically the dominant commercial hub.
 
-The Site Selection Pipeline assesses power centre composition, anchor retailer age and operational status, and proximity to available development parcels to score potential co-location sites within the [[topic-co-location-ranking-system|ranking system]].
+The Site Selection Pipeline assesses power centre composition, anchor retailer age and operational status, and proximity to available development parcels to score potential co-location sites within the [[co-location-ranking-system|ranking system]].
 
 ## Relationship to the 1-kilometre criterion
 

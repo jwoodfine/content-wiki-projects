@@ -21,7 +21,7 @@ cites:
   - osc-sn-51-721
 ---
 
-The Italy Co-location Index ranks commercial nodes across the Italian peninsula using the [[topic-co-location-methodology]] and the [[topic-co-location-ranking-system|deterministic ranking system]]. Sites are evaluated where IKEA operates as the Primary Target [[topic-co-location-anchors|anchor]], scored against secondary operators (Leroy Merlin, Makro) and tertiary civic infrastructure within defined catchment radii. Italy is one of the four markets covered in the [[topic-tier-index-europe|European tier index]].
+The Italy Co-location Index ranks commercial nodes across the Italian peninsula using the [[co-location-methodology]] and the [[co-location-ranking-system|deterministic ranking system]]. Sites are evaluated where IKEA operates as the Primary Target [[co-location-anchors|anchor]], scored against secondary operators (Leroy Merlin, Makro) and tertiary civic infrastructure within defined catchment radii. Italy is one of the four markets covered in the [[topic-tier-index-europe|European tier index]].
 
 ## Anchor Network
 
@@ -42,8 +42,8 @@ A Tier 4+ rating indicates a node where primary anchor presence is supported by 
 
 ## See also
 *   [[topic-tier-index-europe]]
-*   [[topic-co-location-methodology]]
-*   [[topic-co-location-ranking-system]]
+*   [[co-location-methodology]]
+*   [[co-location-ranking-system]]
 
 ---
 

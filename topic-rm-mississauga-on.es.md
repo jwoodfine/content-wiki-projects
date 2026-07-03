@@ -83,8 +83,8 @@ La puntuación compuesta de 18,0 sitúa a Mississauga en el cuarto lugar entre l
 - [[topic-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]]
 - [[topic-regional-market-matrix|Matriz de Mercado Regional]]
 - [[topic-top-400-regional-markets-na|Top 400 Mercados Regionales — América del Norte]]
-- [[topic-co-location-methodology|Metodología de Co-ubicación]]
-- [[topic-co-location-ranking-system|Sistema de Clasificación de Co-ubicación]]
+- [[co-location-methodology|Metodología de Co-ubicación]]
+- [[co-location-ranking-system|Sistema de Clasificación de Co-ubicación]]
 
 ## La conclusión
 

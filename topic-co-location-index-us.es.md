@@ -15,13 +15,14 @@ language_protocol: TRANSLATE-ES
 last_edited: 2026-05-25
 editor: pointsav-engineering
 short_description: "Índice clasificado de los principales nodos de co-ubicación en Estados Unidos, evaluado por la metodología de ancla nombrada en ubicaciones ancla Walmart Supercentre."
-paired_with: topic-co-location-index-us.md
+
+paired_with: topic-co-location-index-us.md
 cites:
   - ni-51-102
   - osc-sn-51-721
 ---
 
-El Índice de Co-ubicación de los Estados Unidos clasifica los nodos comerciales del mercado estadounidense según la [[topic-co-location-methodology]] y operacionalizado por el [[topic-co-location-ranking-system|sistema de clasificación determinista]]. Los sitios se evalúan donde Walmart Supercentre opera como [[topic-co-location-anchors|ancla]] Objetivo Primario, puntuados frente a operadores secundarios (Home Depot, Costco) e infraestructura cívica terciaria dentro de los radios de captación definidos. Estados Unidos es uno de los tres mercados cubiertos en el [[topic-tier-index-north-america|índice de niveles de América del Norte]].
+El Índice de Co-ubicación de los Estados Unidos clasifica los nodos comerciales del mercado estadounidense según la [[co-location-methodology]] y operacionalizado por el [[co-location-ranking-system|sistema de clasificación determinista]]. Los sitios se evalúan donde Walmart Supercentre opera como [[co-location-anchors|ancla]] Objetivo Primario, puntuados frente a operadores secundarios (Home Depot, Costco) e infraestructura cívica terciaria dentro de los radios de captación definidos. Estados Unidos es uno de los tres mercados cubiertos en el [[topic-tier-index-north-america|índice de niveles de América del Norte]].
 
 ## Nivel 5 (★★★★★) — Co-ubicación Completa
 
@@ -29,8 +30,8 @@ La designación Nivel 5 en los Estados Unidos es la validación más alta de la 
 
 ## Ver También
 *   [[topic-tier-index-north-america]]
-*   [[topic-co-location-methodology]]
-*   [[topic-co-location-ranking-system]]
+*   [[co-location-methodology]]
+*   [[co-location-ranking-system]]
 
 ---
 

@@ -18,7 +18,7 @@ paired_with: site-selection/power-centres.md
 
 Un centro de potencia es un desarrollo comercial anclado por múltiples cadenas nacionales de gran formato — típicamente un club de almacén, una ferretería de gran superficie y un minorista de mercancía general — donde cada operador gestiona independientemente una tienda de 60.000 pies cuadrados o más. Los centros de potencia representan compromisos de capital de gran escala por parte de minoristas nacionales y generan un tráfico regional de destino sostenido que los distingue de los centros comerciales vecinales o los formatos de un solo inquilino.
 
-La [[co-location-strategy|estrategia de co-localización]] utiliza los centros de potencia como el ancla principal de selección de sitios para los desarrollos de bienes raíces profesionales. El razonamiento es estructural: cada minorista que ancla un centro de potencia ha comprometido capital de forma independiente siguiendo su propio análisis de selección de sitios. Su convergencia dentro de un único desarrollo o corredor comercial es una corroboración independiente de la demanda regional — el mismo análisis que sustenta la [[topic-co-location-methodology|metodología de co-localización]].
+La [[co-location-strategy|estrategia de co-localización]] utiliza los centros de potencia como el ancla principal de selección de sitios para los desarrollos de bienes raíces profesionales. El razonamiento es estructural: cada minorista que ancla un centro de potencia ha comprometido capital de forma independiente siguiendo su propio análisis de selección de sitios. Su convergencia dentro de un único desarrollo o corredor comercial es una corroboración independiente de la demanda regional — el mismo análisis que sustenta la [[co-location-methodology|metodología de co-localización]].
 
 ## Composición de minoristas nacionales
 
@@ -36,7 +36,7 @@ Los minoristas nacionales que anclan los centros de potencia relevantes para los
 
 Los centros de potencia se concentran en [[about-regional-markets|mercados regionales]] — ciudades y áreas metropolitanas con poblaciones entre 50.000 y 300.000 habitantes — donde la disponibilidad de suelo y la economía del radio de captación vehicular favorecen el modelo de gran formato. En los grandes centros urbanos, los centros de potencia compiten con formatos minoristas de relleno; en los mercados regionales, el centro de potencia es generalmente el eje comercial dominante.
 
-La cartera de selección de sitios evalúa la composición del centro de potencia, la antigüedad y el estado operativo de los minoristas ancla, y la proximidad a parcelas de desarrollo disponibles para calificar los sitios potenciales de co-localización dentro del [[topic-co-location-ranking-system|sistema de clasificación]].
+La cartera de selección de sitios evalúa la composición del centro de potencia, la antigüedad y el estado operativo de los minoristas ancla, y la proximidad a parcelas de desarrollo disponibles para calificar los sitios potenciales de co-localización dentro del [[co-location-ranking-system|sistema de clasificación]].
 
 ## Relación con el criterio del kilómetro
 

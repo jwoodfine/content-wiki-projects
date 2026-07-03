@@ -21,7 +21,7 @@ cites:
   - osc-sn-51-721
 ---
 
-El índice de inteligencia de ubicación para América del Norte evalúa la convergencia estructural de los principales operadores minoristas en Estados Unidos, Canadá y México. Utilizando la [[topic-co-location-methodology]] y operacionalizado por el [[topic-co-location-ranking-system|sistema de clasificación determinista]], el índice identifica los nodos comerciales de mayor valor basados en la proximidad verificada de las [[topic-co-location-anchors|anclas]] principales (Walmart Supercentres) con sus anclas de soporte secundarias y terciarias. Las etiquetas de nivel orientadas al mapa siguen la jerarquía ICSC descrita en [[topic-co-location-tier-nomenclature|nomenclatura de niveles]].
+El índice de inteligencia de ubicación para América del Norte evalúa la convergencia estructural de los principales operadores minoristas en Estados Unidos, Canadá y México. Utilizando la [[co-location-methodology]] y operacionalizado por el [[co-location-ranking-system|sistema de clasificación determinista]], el índice identifica los nodos comerciales de mayor valor basados en la proximidad verificada de las [[co-location-anchors|anclas]] principales (Walmart Supercentres) con sus anclas de soporte secundarias y terciarias. Las etiquetas de nivel orientadas al mapa siguen la jerarquía ICSC descrita en [[co-location-tier-nomenclature|nomenclatura de niveles]].
 
 ## Escasez de Mercado y Validación de Calidad
 

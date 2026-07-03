@@ -32,7 +32,7 @@ Retail Select deployments operate within the same 1.0-kilometre radius. Tech Ind
 
 The co-location framework is built on the independence of the retail site-selection process. Each national retailer — a warehouse club, a home-improvement superstore, a general merchandise chain — runs its own capital-allocation analysis before committing to a site. When three or more independent operators have committed capital within 1.0 to 3.0 kilometres of one another, their convergence constitutes objective corroboration of demand. No single analyst view or market forecast carries the same evidentiary weight.
 
-This independence criterion is formalized in the [[topic-co-location-methodology|co-location methodology]] and operationalized through the [[topic-co-location-ranking-system|ranking system]].
+This independence criterion is formalized in the [[co-location-methodology|co-location methodology]] and operationalized through the [[co-location-ranking-system|ranking system]].
 
 ## National retailers as anchor infrastructure
 

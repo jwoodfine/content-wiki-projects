@@ -42,7 +42,7 @@ corroboration of local income and demand conditions.
 provides physical infrastructure compatible with professional centre co-location. Markets with
 no power centre investment are deferred.
 
-Markets meeting all three screens are scored using the [[topic-co-location-ranking-system|co-location ranking system]]
+Markets meeting all three screens are scored using the [[co-location-ranking-system|co-location ranking system]]
 and assigned a rank within the North American index.
 
 ## Geographic coverage

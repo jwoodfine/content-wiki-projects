@@ -21,7 +21,7 @@ cites:
   - osc-sn-51-721
 ---
 
-The United States hosts 85 Tier 5 commercial convergence sites across 3,500 evaluated primary anchors; Canada produces 12 Tier 5 sites from 400 evaluated anchors. The North American index evaluates the structural convergence of major retail operators across the United States, Canada, and Mexico. Using the [[topic-co-location-methodology]] and operationalised by the [[topic-co-location-ranking-system|deterministic ranking system]], the index identifies the highest-value commercial nodes based on the verified proximity of Primary Target [[topic-co-location-anchors|anchors]] to secondary and tertiary supporting anchors. Map-facing tier labels follow the ICSC hierarchy described in [[topic-co-location-tier-nomenclature|tier nomenclature]].
+The United States hosts 85 Tier 5 commercial convergence sites across 3,500 evaluated primary anchors; Canada produces 12 Tier 5 sites from 400 evaluated anchors. The North American index evaluates the structural convergence of major retail operators across the United States, Canada, and Mexico. Using the [[co-location-methodology]] and operationalised by the [[co-location-ranking-system|deterministic ranking system]], the index identifies the highest-value commercial nodes based on the verified proximity of Primary Target [[co-location-anchors|anchors]] to secondary and tertiary supporting anchors. Map-facing tier labels follow the ICSC hierarchy described in [[co-location-tier-nomenclature|tier nomenclature]].
 
 ## Market scarcity and quality validation
 

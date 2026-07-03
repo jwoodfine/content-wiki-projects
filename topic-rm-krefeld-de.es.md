@@ -82,8 +82,8 @@ Una puntuación compuesta de 12,0 es representativa del nivel suburbano-regional
 - [[topic-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]]
 - [[topic-regional-market-matrix|Matriz de Mercado Regional]]
 - [[topic-top-400-regional-markets-eu|Top 400 Mercados Regionales — Europa]]
-- [[topic-co-location-methodology|Metodología de Co-ubicación]]
-- [[topic-co-location-ranking-system|Sistema de Clasificación de Co-ubicación]]
+- [[co-location-methodology|Metodología de Co-ubicación]]
+- [[co-location-ranking-system|Sistema de Clasificación de Co-ubicación]]
 
 ## La conclusión
 

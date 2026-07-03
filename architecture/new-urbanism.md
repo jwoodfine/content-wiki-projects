@@ -71,4 +71,4 @@ Co-location site evaluators should treat formal New Urbanist designations as one
 
 ---
 
-*cites: [[co-location-strategy]], [[about-regional-markets]], [[topic-commuter|commuter-archetype]]*
+*cites: [[co-location-strategy]], [[about-regional-markets]], [[commuter|commuter-archetype]]*

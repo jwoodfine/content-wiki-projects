@@ -55,3 +55,159 @@ redirects:
 
   - from: /gis/development-site-monitoring-register
     to: /rollout/about-development-site-monitoring-register
+
+  # Batch C2 — flat-root migration, non-markets groups. 47 legacy flat-root
+  # `topic-*` articles move into their categories; slugs drop the `topic-` prefix
+  # (a few reworked further for clarity — noted inline). Markets-group flat-root
+  # articles (co-location-index-*, tier-index-*, top-400-*, rm-*, regional-market-*)
+  # are reserved for a later batch (place-grammar rename) and are not included here.
+
+  # C2 — building-design/ (BIM corpus, 23 articles)
+  - from: /topic-bim-building-width-method
+    to: /building-design/bim-building-width-method
+
+  - from: /topic-bim-business-key-plans
+    to: /building-design/bim-business-key-plans
+
+  - from: /topic-bim-floor-plate-methodology
+    to: /building-design/bim-floor-plate-methodology
+
+  - from: /topic-bim-floor-plate-tile-combinations
+    to: /building-design/bim-floor-plate-tile-combinations
+
+  - from: /topic-bim-key-plans-index
+    to: /building-design/bim-key-plans-index
+
+  - from: /topic-bim-leasing-plan-efficiencies
+    to: /building-design/bim-leasing-plan-efficiencies
+
+  - from: /topic-bim-medical-key-plans
+    to: /building-design/bim-medical-key-plans
+
+  - from: /topic-bim-objects-substrate
+    to: /building-design/bim-objects-substrate
+
+  - from: /topic-bim-objects-three-layers
+    to: /building-design/bim-objects-three-layers
+
+  - from: /topic-bim-objects-what-they-are
+    to: /building-design/bim-objects-what-they-are
+
+  - from: /topic-bim-private-office-key-plans
+    to: /building-design/bim-private-office-key-plans
+
+  - from: /topic-bim-professional-office-key-plans
+    to: /building-design/bim-professional-office-key-plans
+
+  - from: /topic-bim-tile-system
+    to: /building-design/bim-tile-system
+
+  - from: /topic-bim-zone-depths-per-use-type
+    to: /building-design/bim-zone-depths-per-use-type
+
+  # slug reworked: "building-design-system-bim" would stutter against the
+  # building-design/ directory it now lives in.
+  - from: /topic-building-design-system-bim
+    to: /building-design/design-system-bim
+
+  - from: /topic-flat-file-bim-leapfrog
+    to: /building-design/flat-file-bim-leapfrog
+
+  - from: /topic-asset-anchored-bim-vault
+    to: /building-design/asset-anchored-bim-vault
+
+  - from: /topic-open-bim-regulatory-acceptance
+    to: /building-design/open-bim-regulatory-acceptance
+
+  - from: /topic-property-manager-bim-gap
+    to: /building-design/property-manager-bim-gap
+
+  - from: /topic-aec-interface-conventions
+    to: /building-design/aec-interface-conventions
+
+  - from: /topic-asset-architecture-standard
+    to: /building-design/asset-architecture-standard
+
+  - from: /topic-gis-as-bim-substrate
+    to: /building-design/gis-as-bim-substrate
+
+  - from: /topic-city-code-as-composable-geometry
+    to: /building-design/city-code-as-composable-geometry
+
+  # C2 — site-selection/ (methodology, 15 articles)
+  - from: /topic-co-location-anchors
+    to: /site-selection/co-location-anchors
+
+  - from: /topic-co-location-cluster-formation
+    to: /site-selection/co-location-cluster-formation
+
+  - from: /topic-co-location-intelligence-overview
+    to: /site-selection/co-location-intelligence-overview
+
+  - from: /topic-co-location-methodology
+    to: /site-selection/co-location-methodology
+
+  - from: /topic-co-location-ranking-system
+    to: /site-selection/co-location-ranking-system
+
+  - from: /topic-co-location-tier-nomenclature
+    to: /site-selection/co-location-tier-nomenclature
+
+  - from: /topic-catchment-ranking-methodology-v3
+    to: /site-selection/catchment-ranking-methodology-v3
+
+  - from: /topic-od-catchment-methodology
+    to: /site-selection/od-catchment-methodology
+
+  - from: /topic-cluster-deduplication-threshold
+    to: /site-selection/cluster-deduplication-threshold
+
+  - from: /topic-geometric-site-selection-national-tenancy
+    to: /site-selection/geometric-site-selection-national-tenancy
+
+  - from: /topic-location-intelligence-archetypes
+    to: /site-selection/location-intelligence-archetypes
+
+  - from: /topic-location-intelligence-strategy
+    to: /site-selection/location-intelligence-strategy
+
+  - from: /topic-zoning-acquisition-rules
+    to: /site-selection/zoning-acquisition-rules
+
+  - from: /topic-retail-centres
+    to: /site-selection/retail-centres
+
+  - from: /topic-retail-brand-family-taxonomy
+    to: /site-selection/retail-brand-family-taxonomy
+
+  # C2 — gis/ (7 articles; editorial-stripping check applied, nothing to strip)
+  # slug reworked: "data-overview" alone was too generic for a flat top-level slug.
+  - from: /topic-data-overview
+    to: /gis/gis-data-overview
+
+  - from: /topic-poi-data-schema
+    to: /gis/poi-data-schema
+
+  - from: /topic-trade-area-data-sources
+    to: /gis/trade-area-data-sources
+
+  # slug reworked: redundant "gis-" prefix dropped now that the article lives in gis/.
+  - from: /topic-gis-nordic-uk-coverage
+    to: /gis/nordic-uk-coverage
+
+  - from: /topic-uk-eu-food-retail-coverage
+    to: /gis/uk-eu-food-retail-coverage
+
+  - from: /topic-site-ledger-integration
+    to: /gis/site-ledger-integration
+
+  - from: /topic-regional-name-resolution-architecture
+    to: /gis/regional-name-resolution-architecture
+
+  # C2 — urban/ (2 TOPIC summaries; pair with future JOURNAL papers of the same
+  # names, seeded separately — not part of this batch)
+  - from: /topic-commuter
+    to: /urban/commuter
+
+  - from: /topic-urban-fringe
+    to: /urban/urban-fringe

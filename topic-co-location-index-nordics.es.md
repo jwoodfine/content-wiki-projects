@@ -21,7 +21,7 @@ cites:
   - osc-sn-51-721
 ---
 
-El Índice de Co-ubicación de los Países Nórdicos clasifica los nodos comerciales del norte de Europa según la [[topic-co-location-methodology]] y el [[topic-co-location-ranking-system|sistema de clasificación determinista]]. Los sitios se evalúan donde IKEA opera como [[topic-co-location-anchors|ancla]] Objetivo Primario, puntuados frente a operadores secundarios e infraestructura cívica terciaria dentro de los radios de captación definidos. Los Países Nórdicos son uno de los cuatro mercados cubiertos en el [[topic-tier-index-europe|índice europeo de niveles]]; las recientes expansiones de cobertura se documentan en [[topic-gis-nordic-uk-coverage|expansión de cobertura nórdica y del Reino Unido]].
+El Índice de Co-ubicación de los Países Nórdicos clasifica los nodos comerciales del norte de Europa según la [[co-location-methodology]] y el [[co-location-ranking-system|sistema de clasificación determinista]]. Los sitios se evalúan donde IKEA opera como [[co-location-anchors|ancla]] Objetivo Primario, puntuados frente a operadores secundarios e infraestructura cívica terciaria dentro de los radios de captación definidos. Los Países Nórdicos son uno de los cuatro mercados cubiertos en el [[topic-tier-index-europe|índice europeo de niveles]]; las recientes expansiones de cobertura se documentan en [[nordic-uk-coverage|expansión de cobertura nórdica y del Reino Unido]].
 
 ## Red de Anclas
 
@@ -39,8 +39,8 @@ Una designación Nivel 4+ indica un nodo donde la presencia del ancla primaria c
 
 ## Ver También
 *   [[topic-tier-index-europe]]
-*   [[topic-co-location-methodology]]
-*   [[topic-co-location-ranking-system]]
+*   [[co-location-methodology]]
+*   [[co-location-ranking-system]]
 
 ---
 ## Procedencia

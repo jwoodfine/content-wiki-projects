@@ -26,7 +26,7 @@ superstores, and general merchandise chains in their own site-selection processe
 
 The co-location intelligence platform has scored 6,493 clusters from 229,054 retail locations
 across 8 markets spanning 13 countries. This encyclopedia is the methodology reference for
-the [[topic-co-location-ranking-system|ranking algorithm]], [[topic-asset-architecture-standard|asset
+the [[co-location-ranking-system|ranking algorithm]], [[asset-architecture-standard|asset
 architecture]] standards, and regional deployment indices for
 [[topic-tier-index-north-america|North America]] and [[topic-tier-index-europe|Europe]].
 The platform is live at gis.woodfinegroup.com and is built and maintained by PointSav Digital Systems.

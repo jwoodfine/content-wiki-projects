@@ -37,7 +37,7 @@ The presence of national retail investment in a regional market is itself an inc
 
 ## Top 400 regional markets
 
-The [[site-selection-terminology|site-selection framework]] identifies a global set of approximately 400 regional markets — across North America, Europe, and other OECD economies — meeting the population, income, and retail infrastructure thresholds for co-location assessment. These markets are scored and ranked using the [[topic-co-location-ranking-system|co-location ranking system]], with priority given to markets where [[power-centres|power centre]] investment and professional tenant demand are both confirmed.
+The [[site-selection-terminology|site-selection framework]] identifies a global set of approximately 400 regional markets — across North America, Europe, and other OECD economies — meeting the population, income, and retail infrastructure thresholds for co-location assessment. These markets are scored and ranked using the [[co-location-ranking-system|co-location ranking system]], with priority given to markets where [[power-centres|power centre]] investment and professional tenant demand are both confirmed.
 
 The initial rollout of direct-hold deployments concentrates on markets where the convergence of national retail capital, available development parcels within the 1.0-kilometre proximity threshold, and professional tenant demand is most clearly established.
 

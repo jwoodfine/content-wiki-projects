@@ -32,7 +32,7 @@ Los desarrollos Retail Select operan dentro del mismo radio de 1,0 kilómetro. L
 
 El marco de co-localización se sustenta en la independencia del proceso de selección de sitios de cada minorista. Cada uno — un club de almacén, una ferretería de gran superficie, una cadena de mercancía general — realiza su propio análisis de asignación de capital antes de comprometerse con un sitio. Cuando tres o más operadores independientes han comprometido capital dentro de un radio de 1,0 a 3,0 kilómetros entre sí, su convergencia constituye una corroboración objetiva de la demanda, con mayor peso evidencial que cualquier pronóstico o análisis individual.
 
-Este criterio de independencia se formaliza en la [[topic-co-location-methodology|metodología de co-localización]] y se operacionaliza a través del [[topic-co-location-ranking-system|sistema de clasificación]].
+Este criterio de independencia se formaliza en la [[co-location-methodology|metodología de co-localización]] y se operacionaliza a través del [[co-location-ranking-system|sistema de clasificación]].
 
 ## Los minoristas nacionales como infraestructura ancla
 

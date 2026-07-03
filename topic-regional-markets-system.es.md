@@ -193,6 +193,6 @@ Trabajo planificado o previsto para las próximas iteraciones del sistema.
 ## Véase también
 
 - [[topic-regional-market-matrix|Matriz de Mercado Regional]]
-- [[topic-co-location-methodology|Metodología de Co-ubicación]]
+- [[co-location-methodology|Metodología de Co-ubicación]]
 - [[topic-top-400-regional-markets-na|Top 400 Mercados Regionales — América del Norte]]
 - [[topic-top-400-regional-markets-eu|Top 400 Mercados Regionales — Europa]]

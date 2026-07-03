@@ -21,7 +21,7 @@ cites:
   - osc-sn-51-721
 ---
 
-El Índice de Co-ubicación de España clasifica los nodos comerciales del mercado español según la [[topic-co-location-methodology]] y el [[topic-co-location-ranking-system|sistema de clasificación determinista]]. Los sitios se evalúan donde IKEA opera como [[topic-co-location-anchors|ancla]] Objetivo Primario, puntuados frente a operadores secundarios (Leroy Merlin, Makro) e infraestructura cívica terciaria dentro de los radios de captación definidos. España es uno de los cuatro mercados cubiertos en el [[topic-tier-index-europe|índice europeo de niveles]].
+El Índice de Co-ubicación de España clasifica los nodos comerciales del mercado español según la [[co-location-methodology]] y el [[co-location-ranking-system|sistema de clasificación determinista]]. Los sitios se evalúan donde IKEA opera como [[co-location-anchors|ancla]] Objetivo Primario, puntuados frente a operadores secundarios (Leroy Merlin, Makro) e infraestructura cívica terciaria dentro de los radios de captación definidos. España es uno de los cuatro mercados cubiertos en el [[topic-tier-index-europe|índice europeo de niveles]].
 
 ## Red de Anclas
 
@@ -39,8 +39,8 @@ Una designación Nivel 4+ en España indica un nodo donde las anclas primaria y 
 
 ## Ver También
 *   [[topic-tier-index-europe]]
-*   [[topic-co-location-methodology]]
-*   [[topic-co-location-ranking-system]]
+*   [[co-location-methodology]]
+*   [[co-location-ranking-system]]
 
 ---
 ## Procedencia
