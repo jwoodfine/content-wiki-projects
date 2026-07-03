@@ -89,5 +89,5 @@ Los siete clústeres de Colorado Springs comparten la Zona Climática ASHRAE 5B 
 
 ## Véase también
 
-- [[topic-top-400-regional-markets-na]]
-- [[topic-regional-markets-system]]
+- [[atlas-top-400-north-america]]
+- [[about-regional-markets-system]]

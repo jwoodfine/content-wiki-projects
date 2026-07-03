@@ -86,6 +86,6 @@ with no competing professional destination within 150 km in any direction.
 
 ## See also
 
-- [[united-kingdom-markets]] — UK regional market index
-- [[top600-europe]] — the European master market index
+- [[atlas-united-kingdom]] — UK regional market index
+- [[atlas-top-600-europe]] — the European master market index
 - [[about-regional-markets]] — the co-location framework and market selection criteria

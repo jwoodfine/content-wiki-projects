@@ -111,5 +111,5 @@ El multiplicador de distancia máximo refleja la ausencia de un centro metropoli
 
 ## Véase también
 
-- [[topic-top-400-regional-markets-eu]]
-- [[topic-regional-markets-system]]
+- [[atlas-top-400-europe]]
+- [[about-regional-markets-system]]

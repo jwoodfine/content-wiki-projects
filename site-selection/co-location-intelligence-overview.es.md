@@ -22,7 +22,7 @@ cites:
   - osc-sn-51-721
 ---
 
-La plataforma de inteligencia de co-ubicación de MCorp clasifica 2.738 nodos comerciales en 8 mercados minoristas por convergencia de anclas — la co-ubicación independiente de hipermercados, clubs de almacén y tiendas de mejoras del hogar en la misma zona comercial. Cada nodo está validado no por previsiones de analistas, sino por los compromisos de capital independientes de los minoristas que se instalaron allí. La convergencia se mide según la [[co-location-methodology|metodología de co-ubicación]] y se puntúa mediante el [[co-location-ranking-system|sistema de clasificación determinista]]; los insumos de población y gasto se documentan en [[trade-area-data-sources|fuentes de datos de áreas comerciales]] y la política geográfica en la [[topic-regional-market-matrix|matriz de mercados regionales]].
+La plataforma de inteligencia de co-ubicación de MCorp clasifica 2.738 nodos comerciales en 8 mercados minoristas por convergencia de anclas — la co-ubicación independiente de hipermercados, clubs de almacén y tiendas de mejoras del hogar en la misma zona comercial. Cada nodo está validado no por previsiones de analistas, sino por los compromisos de capital independientes de los minoristas que se instalaron allí. La convergencia se mide según la [[co-location-methodology|metodología de co-ubicación]] y se puntúa mediante el [[co-location-ranking-system|sistema de clasificación determinista]]; los insumos de población y gasto se documentan en [[trade-area-data-sources|fuentes de datos de áreas comerciales]] y la política geográfica en la [[about-regional-market-matrix|matriz de mercados regionales]].
 
 La plataforma opera en [gis.woodfinegroup.com](https://gis.woodfinegroup.com), construida y mantenida por PointSav Digital Systems.
 
@@ -59,7 +59,7 @@ La plataforma integra tres fuentes de datos primarias para garantizar un anális
 
 ## Índice de sitios y niveles de calidad
 
-El conjunto de datos actual identifica **2.738 sitios de co-ubicación clasificados** a nivel global: 2.488 en [[topic-tier-index-north-america|América del Norte]] y 250 en [[topic-tier-index-europe|Europa]]. Los sitios se clasifican mediante una matriz determinista que evalúa la proximidad y la categoría de los anclas secundarias en relación con el ancla principal de hipermercado.
+El conjunto de datos actual identifica **2.738 sitios de co-ubicación clasificados** a nivel global: 2.488 en [[atlas-tier-index-north-america|América del Norte]] y 250 en [[atlas-tier-index-europe|Europa]]. Los sitios se clasifican mediante una matriz determinista que evalúa la proximidad y la categoría de los anclas secundarias en relación con el ancla principal de hipermercado.
 
 | Nivel | Descripción | Recuento NA | Recuento UE |
 |-------|-------------|-------------|-------------|
@@ -84,7 +84,7 @@ La plataforma se actualiza cuando se incorporan nuevos datos de cadenas o cuando
 ## Ver también
 *   [[co-location-methodology]]
 *   [[co-location-ranking-system]]
-*   [[topic-tier-index-north-america]]
+*   [[atlas-tier-index-north-america]]
 
 ## Referencias
 

@@ -50,10 +50,10 @@ The B&Q promotion resolves the most significant prior data gap in the UK dataset
 
 ## See Also
 
-- [[topic-co-location-index-nordics]] — ranked index of Nordic commercial convergence sites
+- [[atlas-co-location-index-nordics]] — ranked index of Nordic commercial convergence sites
 - [[co-location-ranking-system]] — how T2 Hub and T3 designations are assigned
 - [[co-location-methodology]] — the linear-geometry scoring model underlying all rankings
-- [[topic-tier-index-europe]] — the full European tier index
+- [[atlas-tier-index-europe]] — the full European tier index
 
 ---
 

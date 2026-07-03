@@ -82,6 +82,6 @@ concentrate in Bielefeld.
 
 ## See also
 
-- [[germany-markets]] — Germany regional market index
-- [[top600-europe]] — the European master market index
+- [[atlas-germany]] — Germany regional market index
+- [[atlas-top-600-europe]] — the European master market index
 - [[about-regional-markets]] — the co-location framework and market selection criteria

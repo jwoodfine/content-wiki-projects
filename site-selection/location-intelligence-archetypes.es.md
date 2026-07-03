@@ -253,9 +253,9 @@ mercado BentoBox.
 
 - [[co-location-methodology|Metodología de co-ubicación]] — la puntuación de composición de anclas que impulsa la asignación de niveles PRO
 - [[co-location-ranking-system|Sistema de clasificación de co-ubicación]] — el índice de densidad comercial de cinco rangos que clasifica los clústeres PRO
-- [[topic-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]] — el ranking de 400 mercados construido sobre datos de clústeres PRO
-- [[topic-top-400-regional-markets-na|Top 400 Mercados Regionales — Norteamérica]] — lista clasificada de mercados PRO suburbano-regionales en NA
-- [[topic-top-400-regional-markets-eu|Top 400 Mercados Regionales — Europa]] — lista clasificada de mercados PRO suburbano-regionales en EU
+- [[about-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]] — el ranking de 400 mercados construido sobre datos de clústeres PRO
+- [[atlas-top-400-north-america|Top 400 Mercados Regionales — Norteamérica]] — lista clasificada de mercados PRO suburbano-regionales en NA
+- [[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]] — lista clasificada de mercados PRO suburbano-regionales en EU
 - [[od-catchment-methodology|Metodología de Área de Influencia O-D]] — cómo se miden las zonas de influencia alrededor de cada centroide de clúster
 
 ## Fuentes de datos

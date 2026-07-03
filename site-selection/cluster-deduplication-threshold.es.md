@@ -42,4 +42,4 @@ Tras aplicar el umbral de 0,15 km, una ejecución representativa del proceso pro
 ## Véase también
 
 - [[co-location-methodology]]
-- [[topic-tier-index-north-america]]
+- [[atlas-tier-index-north-america]]

@@ -67,6 +67,6 @@ financieros de respaldo y servicios jurídicos y de seguros.
 
 ## Véase también
 
-- [[united-kingdom-markets]] — índice del mercado regional del Reino Unido
-- [[top600-europe]] — el índice maestro de mercados europeos
+- [[atlas-united-kingdom]] — índice del mercado regional del Reino Unido
+- [[atlas-top-600-europe]] — el índice maestro de mercados europeos
 - [[about-regional-markets]] — el marco de co-ubicación y los criterios de selección de mercados

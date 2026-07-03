@@ -115,5 +115,5 @@ Nuremberg is the highest-scoring European Regional Market in the composite co-lo
 
 ## See Also
 
-- [[topic-top-400-regional-markets-eu]]
-- [[topic-regional-markets-system]]
+- [[atlas-top-400-europe]]
+- [[about-regional-markets-system]]

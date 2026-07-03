@@ -28,7 +28,7 @@ The co-location intelligence platform has scored 6,493 clusters from 229,054 ret
 across 8 markets spanning 13 countries. This encyclopedia is the methodology reference for
 the [[co-location-ranking-system|ranking algorithm]], [[asset-architecture-standard|asset
 architecture]] standards, and regional deployment indices for
-[[topic-tier-index-north-america|North America]] and [[topic-tier-index-europe|Europe]].
+[[atlas-tier-index-north-america|North America]] and [[atlas-tier-index-europe|Europe]].
 The platform is live at gis.woodfinegroup.com and is built and maintained by PointSav Digital Systems.
 
 Articles are organized into six knowledge areas: co-location methodology, [[architecture/_index|building

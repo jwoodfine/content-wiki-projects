@@ -235,9 +235,9 @@ when switching between the Retail View and the BentoBox market detail panel.
 
 - [[co-location-methodology|Co-location Methodology]] — the anchor-composition scoring that drives PRO tier assignment
 - [[co-location-ranking-system|Co-location Ranking System]] — the five-rank commercial density index that ranks PRO clusters
-- [[topic-regional-markets-system|Regional Markets Intelligence System]] — the 400-market ranking built on PRO cluster data
-- [[topic-top-400-regional-markets-na|Top 400 Regional Markets — North America]] — ranked list of suburban-regional PRO markets in NA
-- [[topic-top-400-regional-markets-eu|Top 400 Regional Markets — Europe]] — ranked list of suburban-regional PRO markets in EU
+- [[about-regional-markets-system|Regional Markets Intelligence System]] — the 400-market ranking built on PRO cluster data
+- [[atlas-top-400-north-america|Top 400 Regional Markets — North America]] — ranked list of suburban-regional PRO markets in NA
+- [[atlas-top-400-europe|Top 400 Regional Markets — Europe]] — ranked list of suburban-regional PRO markets in EU
 - [[od-catchment-methodology|O-D Catchment Methodology]] — how catchment zones are measured around each cluster centroid
 
 ## Data Sources

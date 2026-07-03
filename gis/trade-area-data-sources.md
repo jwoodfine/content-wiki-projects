@@ -74,7 +74,7 @@ For each co-location cluster, primary and secondary catchment zones are defined 
 
 ## Point-of-interest data
 
-The retail anchor and secondary operator locations that form co-location cluster centroids are sourced from **OpenStreetMap contributors** under the [Open Database Licence (ODbL)](https://opendatacommons.org/licenses/odbl/). Point-of-interest data is distinct from the population and spend layers described above; it provides the geographic seed points from which catchment zones are measured. The full data-attribution statement covering all pipeline layers appears in [[topic-regional-markets-system]]. [osm-odbl]
+The retail anchor and secondary operator locations that form co-location cluster centroids are sourced from **OpenStreetMap contributors** under the [Open Database Licence (ODbL)](https://opendatacommons.org/licenses/odbl/). Point-of-interest data is distinct from the population and spend layers described above; it provides the geographic seed points from which catchment zones are measured. The full data-attribution statement covering all pipeline layers appears in [[about-regional-markets-system]]. [osm-odbl]
 
 ## References
 

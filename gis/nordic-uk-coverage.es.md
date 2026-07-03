@@ -51,7 +51,7 @@ La promoción de B&Q resuelve la brecha de datos más significativa del conjunto
 
 ## Véase También
 
-- [[topic-co-location-index-nordics]] — índice clasificado de sitios de convergencia comercial en los países nórdicos
+- [[atlas-co-location-index-nordics]] — índice clasificado de sitios de convergencia comercial en los países nórdicos
 - [[co-location-ranking-system]] — cómo se asignan las designaciones T2 Hub y T3
 - [[co-location-methodology]] — el modelo de puntuación de geometría lineal en el que se basan todos los índices
-- [[topic-tier-index-europe]] — el índice europeo de niveles completo
+- [[atlas-tier-index-europe]] — el índice europeo de niveles completo

@@ -26,7 +26,7 @@ Cada ubicación minorista en el mapa de [[co-location-methodology|co-localizaci�
 
 ### Hipermercado
 
-Minoristas de gran formato de mercancía general y víveres que operan instalaciones de 80.000 pies cuadrados o más. Incluye Walmart Supercenter, Target, Carrefour Hypermarket, IKEA y equivalentes en los mercados de [[topic-tier-index-north-america|América del Norte]] y [[topic-tier-index-europe|Europa]]. Las tiendas de tipo Hipermercado son el tipo de ancla principal en la metodología de co-localización — la formación de clústeres requiere un ancla Hipermercado. Se muestra con una insignia azul marino.
+Minoristas de gran formato de mercancía general y víveres que operan instalaciones de 80.000 pies cuadrados o más. Incluye Walmart Supercenter, Target, Carrefour Hypermarket, IKEA y equivalentes en los mercados de [[atlas-tier-index-north-america|América del Norte]] y [[atlas-tier-index-europe|Europa]]. Las tiendas de tipo Hipermercado son el tipo de ancla principal en la metodología de co-localización — la formación de clústeres requiere un ancla Hipermercado. Se muestra con una insignia azul marino.
 
 ### Ferretería
 

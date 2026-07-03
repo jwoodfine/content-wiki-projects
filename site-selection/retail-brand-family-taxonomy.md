@@ -26,7 +26,7 @@ Every retail location on the [[co-location-methodology|co-location]] map carries
 
 ### Hypermarket
 
-Large-format general merchandise and grocery retailers operating facilities of 80,000 square feet or more. Includes Walmart Supercenter, Target, Carrefour Hypermarket, IKEA, and equivalents across [[topic-tier-index-north-america|North American]] and [[topic-tier-index-europe|European]] markets. Hypermarket stores are the primary anchor type in the co-location methodology — cluster formation requires one Hypermarket anchor. Displayed with a navy badge.
+Large-format general merchandise and grocery retailers operating facilities of 80,000 square feet or more. Includes Walmart Supercenter, Target, Carrefour Hypermarket, IKEA, and equivalents across [[atlas-tier-index-north-america|North American]] and [[atlas-tier-index-europe|European]] markets. Hypermarket stores are the primary anchor type in the co-location methodology — cluster formation requires one Hypermarket anchor. Displayed with a navy badge.
 
 ### Hardware
 

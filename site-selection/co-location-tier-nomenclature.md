@@ -19,7 +19,7 @@ cites:
   - osc-sn-51-721
 ---
 
-The [[co-location-methodology|co-location index]] assigns each cluster to one of four tiers based on the categorical composition of its [[co-location-anchors|anchor]] and secondary stores and on the cluster's position within its national population catchment. The tier labels visible on the map and in the inspector panel — **Regional**, **District**, **Local**, **Fringe** — follow the International Council of Shopping Centres (ICSC) retail property hierarchy, which is used by property developers, planners, and retail analysts across [[topic-tier-index-north-america|North America]] and [[topic-tier-index-europe|Europe]]. The qualifying gates are defined in the [[catchment-ranking-methodology-v3|V3 catchment ranking methodology]] and the underlying scoring logic in the [[co-location-ranking-system|co-location ranking system]].
+The [[co-location-methodology|co-location index]] assigns each cluster to one of four tiers based on the categorical composition of its [[co-location-anchors|anchor]] and secondary stores and on the cluster's position within its national population catchment. The tier labels visible on the map and in the inspector panel — **Regional**, **District**, **Local**, **Fringe** — follow the International Council of Shopping Centres (ICSC) retail property hierarchy, which is used by property developers, planners, and retail analysts across [[atlas-tier-index-north-america|North America]] and [[atlas-tier-index-europe|Europe]]. The qualifying gates are defined in the [[catchment-ranking-methodology-v3|V3 catchment ranking methodology]] and the underlying scoring logic in the [[co-location-ranking-system|co-location ranking system]].
 
 ## What Each Tier Means
 

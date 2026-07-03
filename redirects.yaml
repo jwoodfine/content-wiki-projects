@@ -211,3 +211,67 @@ redirects:
 
   - from: /topic-urban-fringe
     to: /urban/urban-fringe
+
+  # Batch C3a — markets atlas/framework band. Two framework explainers move
+  # root -> markets/ as about-*; 9 already-in-markets/ articles rename in
+  # place to atlas-*; 11 flat-root ranked-index articles move into markets/
+  # as atlas-*. Place profiles are untouched this batch (later batch).
+  - from: /topic-regional-market-matrix
+    to: /markets/about-regional-market-matrix
+
+  - from: /topic-regional-markets-system
+    to: /markets/about-regional-markets-system
+
+  - from: /markets/canada-markets
+    to: /markets/atlas-canada
+
+  - from: /markets/germany-markets
+    to: /markets/atlas-germany
+
+  - from: /markets/spain-markets
+    to: /markets/atlas-spain
+
+  - from: /markets/united-kingdom-markets
+    to: /markets/atlas-united-kingdom
+
+  - from: /markets/united-states-markets
+    to: /markets/atlas-united-states
+
+  - from: /markets/top600-europe
+    to: /markets/atlas-top-600-europe
+
+  - from: /markets/top600-north-america
+    to: /markets/atlas-top-600-north-america
+
+  - from: /topic-top-400-regional-markets-eu
+    to: /markets/atlas-top-400-europe
+
+  - from: /topic-top-400-regional-markets-na
+    to: /markets/atlas-top-400-north-america
+
+  - from: /topic-tier-index-europe
+    to: /markets/atlas-tier-index-europe
+
+  - from: /topic-tier-index-north-america
+    to: /markets/atlas-tier-index-north-america
+
+  - from: /topic-co-location-index-canada
+    to: /markets/atlas-co-location-index-canada
+
+  - from: /topic-co-location-index-italy
+    to: /markets/atlas-co-location-index-italy
+
+  - from: /topic-co-location-index-mexico
+    to: /markets/atlas-co-location-index-mexico
+
+  - from: /topic-co-location-index-nordics
+    to: /markets/atlas-co-location-index-nordics
+
+  - from: /topic-co-location-index-poland
+    to: /markets/atlas-co-location-index-poland
+
+  - from: /topic-co-location-index-spain
+    to: /markets/atlas-co-location-index-spain
+
+  - from: /topic-co-location-index-us
+    to: /markets/atlas-co-location-index-us

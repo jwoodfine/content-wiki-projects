@@ -74,6 +74,6 @@ city centre.
 
 ## See also
 
-- [[spain-markets]] — Spain regional market index
-- [[top600-europe]] — the European master market index
+- [[atlas-spain]] — Spain regional market index
+- [[atlas-top-600-europe]] — the European master market index
 - [[about-regional-markets]] — the co-location framework and market selection criteria

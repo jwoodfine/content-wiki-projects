@@ -28,7 +28,7 @@ La plataforma de inteligencia de [[co-location-strategy|co-ubicación]] de Woodf
 
 ## Ampliaciones en Suecia y Reino Unido
 
-Suecia y el [[united-kingdom-markets|Reino Unido]] registraron mejoras materiales en la cobertura. En Suecia, la incorporación de Bauhaus Sverige como ancla secundaria de ferretería habilitó la puntuación de co-ubicación en los nodos IKEA de Estocolmo, Gotemburgo y otras seis áreas metropolitanas. En el Reino Unido, la confirmación de 356 ubicaciones verificadas de B&Q resolvió una brecha de datos previa, generando 24 nodos puntuados al radio de 3 km — incluyendo sitios próximos a Londres, Birmingham y Edimburgo.
+Suecia y el [[atlas-united-kingdom|Reino Unido]] registraron mejoras materiales en la cobertura. En Suecia, la incorporación de Bauhaus Sverige como ancla secundaria de ferretería habilitó la puntuación de co-ubicación en los nodos IKEA de Estocolmo, Gotemburgo y otras seis áreas metropolitanas. En el Reino Unido, la confirmación de 356 ubicaciones verificadas de B&Q resolvió una brecha de datos previa, generando 24 nodos puntuados al radio de 3 km — incluyendo sitios próximos a Londres, Birmingham y Edimburgo.
 
 ## Totales del conjunto de datos
 

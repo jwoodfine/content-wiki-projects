@@ -21,7 +21,7 @@ cites:
   - osc-sn-51-721
 ---
 
-MCorp's co-location intelligence platform ranks 2,738 commercial nodes across 8 retail markets by anchor convergence — the independent co-location of hypermarkets, warehouse clubs, and home improvement superstores at the same trade area. Each node is validated not by analyst forecasts, but by the independent capital commitments of the retailers who located there. Convergence is measured per the [[co-location-methodology|co-location methodology]] and scored by the [[co-location-ranking-system|deterministic ranking system]]; the population and spend inputs are documented in [[trade-area-data-sources|trade-area data sources]] and the geographic policy in the [[topic-regional-market-matrix|regional market matrix]].
+MCorp's co-location intelligence platform ranks 2,738 commercial nodes across 8 retail markets by anchor convergence — the independent co-location of hypermarkets, warehouse clubs, and home improvement superstores at the same trade area. Each node is validated not by analyst forecasts, but by the independent capital commitments of the retailers who located there. Convergence is measured per the [[co-location-methodology|co-location methodology]] and scored by the [[co-location-ranking-system|deterministic ranking system]]; the population and spend inputs are documented in [[trade-area-data-sources|trade-area data sources]] and the geographic policy in the [[about-regional-market-matrix|regional market matrix]].
 
 The platform is operated at [gis.woodfinegroup.com](https://gis.woodfinegroup.com), built and maintained by PointSav Digital Systems.
 
@@ -58,7 +58,7 @@ The platform integrates three primary data sources to ensure high-fidelity spati
 
 ## Site index and quality tiers
 
-The current dataset identifies **2,738 ranked co-location sites** globally: 2,488 in [[topic-tier-index-north-america|North America]] and 250 in [[topic-tier-index-europe|Europe]]. Sites are ranked using a deterministic matrix that evaluates the proximity and category of secondary anchors relative to a primary hypermarket anchor.
+The current dataset identifies **2,738 ranked co-location sites** globally: 2,488 in [[atlas-tier-index-north-america|North America]] and 250 in [[atlas-tier-index-europe|Europe]]. Sites are ranked using a deterministic matrix that evaluates the proximity and category of secondary anchors relative to a primary hypermarket anchor.
 
 | Tier | Description | NA count | EU count |
 |------|-------------|----------|----------|
@@ -83,7 +83,7 @@ The platform is updated when new chain data is ingested or when the ranking matr
 ## See also
 *   [[co-location-methodology]]
 *   [[co-location-ranking-system]]
-*   [[topic-tier-index-north-america]]
+*   [[atlas-tier-index-north-america]]
 
 ## References
 

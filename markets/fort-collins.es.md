@@ -69,6 +69,6 @@ sustancialmente mayor que la población del AEM.
 
 ## Véase también
 
-- [[united-states-markets]] — índice de mercados regionales de EE. UU. y cobertura de regiones censales
-- [[top600-north-america]] — el índice maestro de mercados norteamericanos
+- [[atlas-united-states]] — índice de mercados regionales de EE. UU. y cobertura de regiones censales
+- [[atlas-top-600-north-america]] — el índice maestro de mercados norteamericanos
 - [[about-regional-markets]] — el marco de co-ubicación y los criterios de selección de mercados

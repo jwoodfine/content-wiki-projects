@@ -27,7 +27,7 @@ The Woodfine [[co-location-strategy|co-location]] intelligence platform now cove
 
 ## Sweden and United Kingdom additions
 
-Sweden and the [[united-kingdom-markets|United Kingdom]] also saw material coverage improvements. In Sweden, the addition of Bauhaus Sverige as a qualifying secondary hardware anchor unlocked co-location scoring at IKEA nodes in Stockholm, Gothenburg, and six other metropolitan areas. In the United Kingdom, the confirmation of 356 verified B&Q locations resolved a prior data gap, producing 24 scored nodes at the 3 km radius — including sites near London, Birmingham, and Edinburgh.
+Sweden and the [[atlas-united-kingdom|United Kingdom]] also saw material coverage improvements. In Sweden, the addition of Bauhaus Sverige as a qualifying secondary hardware anchor unlocked co-location scoring at IKEA nodes in Stockholm, Gothenburg, and six other metropolitan areas. In the United Kingdom, the confirmation of 356 verified B&Q locations resolved a prior data gap, producing 24 scored nodes at the 3 km radius — including sites near London, Birmingham, and Edinburgh.
 
 ## Dataset totals
 

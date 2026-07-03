@@ -77,6 +77,6 @@ en recursos carecen.
 
 ## Véase también
 
-- [[canada-markets]] — índice del mercado regional de Canadá y cobertura provincial
-- [[top600-north-america]] — el índice maestro de mercados norteamericanos
+- [[atlas-canada]] — índice del mercado regional de Canadá y cobertura provincial
+- [[atlas-top-600-north-america]] — el índice maestro de mercados norteamericanos
 - [[about-regional-markets]] — el marco de co-ubicación y los criterios de selección de mercados

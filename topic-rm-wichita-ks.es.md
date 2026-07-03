@@ -87,5 +87,5 @@ La puntuación compuesta de 48,0 sitúa a Wichita en el rango 16 entre los 400 M
 
 ## Véase también
 
-- [[topic-top-400-regional-markets-na]]
-- [[topic-regional-markets-system]]
+- [[atlas-top-400-north-america]]
+- [[about-regional-markets-system]]

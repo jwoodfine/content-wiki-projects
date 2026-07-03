@@ -91,5 +91,5 @@ Wichita's composite score of 48.0 and rank of 16 among North American Regional M
 
 ## See Also
 
-- [[topic-top-400-regional-markets-na]]
-- [[topic-regional-markets-system]]
+- [[atlas-top-400-north-america]]
+- [[about-regional-markets-system]]

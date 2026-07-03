@@ -82,6 +82,6 @@ figure would indicate.
 
 ## See also
 
-- [[united-states-markets]] — US regional market index and census region coverage
-- [[top600-north-america]] — the North American master market index
+- [[atlas-united-states]] — US regional market index and census region coverage
+- [[atlas-top-600-north-america]] — the North American master market index
 - [[about-regional-markets]] — the co-location framework and market selection criteria

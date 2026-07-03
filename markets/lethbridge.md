@@ -78,6 +78,6 @@ approximately 200,000 gives Lethbridge commercial fundamentals that exceed what 
 
 ## See also
 
-- [[canada-markets]] — Canada regional market index and provincial coverage
-- [[top600-north-america]] — the North American master market index
+- [[atlas-canada]] — Canada regional market index and provincial coverage
+- [[atlas-top-600-north-america]] — the North American master market index
 - [[about-regional-markets]] — the co-location framework and market selection criteria
