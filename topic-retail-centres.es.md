@@ -61,7 +61,7 @@ El límite de distancia de T2 se fijó en 2,5 km en la reconstrucción más reci
 
 ## Por qué PRO es el mapa base
 
-Los Centros Comerciales de Barrio anclan todo el conjunto de datos de Inteligencia de Localización porque la co-localización anclada en alimentación es el patrón comercial más estable y ampliamente distribuido. Casi toda zona de captación poblada tiene un ancla de alimentación; el centro que se forma a su alrededor es un indicador fiable de la gravedad comercial residencial. Los arquetipos Periferia Urbana y Viajero Habitual se definen en parte en relación con los clústeres PRO — los sitios de Periferia Urbana se identifican por la *ausencia* de anclas de alimentación, y los sitios de Viajero Habitual hacen referencia al Centro Comercial de Barrio T1/T2 más cercano como el [[regional-markets|mercado regional]] que genera su demanda de aparcamiento.
+Los Centros Comerciales de Barrio anclan todo el conjunto de datos de Inteligencia de Localización porque la co-localización anclada en alimentación es el patrón comercial más estable y ampliamente distribuido. Casi toda zona de captación poblada tiene un ancla de alimentación; el centro que se forma a su alrededor es un indicador fiable de la gravedad comercial residencial. Los arquetipos Periferia Urbana y Viajero Habitual se definen en parte en relación con los clústeres PRO — los sitios de Periferia Urbana se identifican por la *ausencia* de anclas de alimentación, y los sitios de Viajero Habitual hacen referencia al Centro Comercial de Barrio T1/T2 más cercano como el [[about-regional-markets|mercado regional]] que genera su demanda de aparcamiento.
 
 ## Véase también
 

@@ -21,7 +21,7 @@ editor: editorial
 
 # Wichita, Kansas — Regional Market
 
-**Wichita** is the largest city in Kansas and the primary commercial hub for south-central Kansas, located 250 kilometres from Oklahoma City, the nearest reference metropolitan centre. The market contains four Tier 1 [[co-location-strategy|co-location]] clusters — the highest tier, requiring the simultaneous presence of hypermarket, hardware, and warehouse club anchors — and is distinguished by its civic infrastructure, including multiple hospital campuses and Wichita State University. This density gives Wichita a composite co-location score of 48.0, ranking it 16th among the 400 highest-scoring North American [[regional-markets|Regional Markets]].
+**Wichita** is the largest city in Kansas and the primary commercial hub for south-central Kansas, located 250 kilometres from Oklahoma City, the nearest reference metropolitan centre. The market contains four Tier 1 [[co-location-strategy|co-location]] clusters — the highest tier, requiring the simultaneous presence of hypermarket, hardware, and warehouse club anchors — and is distinguished by its civic infrastructure, including multiple hospital campuses and Wichita State University. This density gives Wichita a composite co-location score of 48.0, ranking it 16th among the 400 highest-scoring North American [[about-regional-markets|Regional Markets]].
 
 ## Overview
 

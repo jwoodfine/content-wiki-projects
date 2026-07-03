@@ -21,7 +21,7 @@ editor: editorial
 
 # Nuremberg, Germany — Regional Market
 
-Nuremberg (German: *Nürnberg*) is a city of approximately 546,000 residents in Bavaria, Germany. Situated 149.5 kilometres north of Munich, it maintains an independent commercial identity anchored by its university sector (Friedrich-Alexander-Universität Erlangen-Nürnberg, Technische Hochschule Nürnberg Georg Simon Ohm, and several further institutions) and by multiple hospital campuses, all adjacent to or within major retail [[co-location-strategy|co-location]] zones. The city ranks first among the 400 highest-scoring European [[regional-markets|Regional Markets]] in the composite co-location index, with five commercial co-location clusters — four at Tier 1 — distributed across its outer commercial ring and adjacent industrial corridors.
+Nuremberg (German: *Nürnberg*) is a city of approximately 546,000 residents in Bavaria, Germany. Situated 149.5 kilometres north of Munich, it maintains an independent commercial identity anchored by its university sector (Friedrich-Alexander-Universität Erlangen-Nürnberg, Technische Hochschule Nürnberg Georg Simon Ohm, and several further institutions) and by multiple hospital campuses, all adjacent to or within major retail [[co-location-strategy|co-location]] zones. The city ranks first among the 400 highest-scoring European [[about-regional-markets|Regional Markets]] in the composite co-location index, with five commercial co-location clusters — four at Tier 1 — distributed across its outer commercial ring and adjacent industrial corridors.
 
 ## Overview
 
