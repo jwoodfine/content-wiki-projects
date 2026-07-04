@@ -1,25 +1,31 @@
 ---
 schema: foundry-doc-v1
-title: "GIS"
+title: "Maps and Data"
 slug: gis
 category: gis
 type: topic
 content_type: topic
 quality: complete
-short_description: "Spatial data methodology, data source provenance, and geographic intelligence for commercial real estate site evaluation: OpenStreetMap, Overture Maps, population datasets, and geospatial analysis methods."
+short_description: "The maps and data behind the analysis: where the spatial data comes from, what it covers, and the methods used to screen markets and evaluate sites."
 status: active
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-06-26
+last_edited: 2026-07-04
 editor: pointsav-engineering
 paired_with: _index.es.md
 ---
 
-GIS covers the spatial data methodology, data source provenance, and geographic
-intelligence platform used in commercial real estate site evaluation. Articles in
-this category address open-data infrastructure (OpenStreetMap, Overture Maps,
-population datasets), data coverage and licensing, geospatial analysis methods,
-and the relationship between geographic data layers and commercial location decisions.
+Maps and Data covers the spatial data behind the analysis: where it comes from, what it
+covers, and the methods used to screen markets and evaluate sites.
+[[gis-data-overview|Data Overview]] is the entry point — an orientation to the location
+intelligence clusters, co-location tiers, and the tile pipeline that turns raw spatial
+data into a scored map. [[poi-data-schema|POI Data Schema]] and
+[[regional-name-resolution-architecture|Regional Name Resolution]] cover how individual
+points of interest and cluster labels are built from OpenStreetMap and Overture Maps
+Foundation sources, and [[trade-area-data-sources|Trade Area Data Sources]] and
+[[spend-population-provenance|Spend and Population Provenance]] document where the
+population and spend estimates behind every trade area figure originate.
 
-Content in this category will be added when project-jennifer's DATA-MANIFEST.md
-review is complete. The category is established as a placeholder.
+Coverage-expansion articles — [[nordic-uk-coverage|Nordic and UK coverage]] and
+[[uk-eu-food-retail-coverage|UK/EU food-retail coverage]] — record when and how new
+countries and chain categories entered the dataset.
