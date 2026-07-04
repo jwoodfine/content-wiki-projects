@@ -530,7 +530,7 @@ La puntuación máxima más baja en el conjunto de datos europeo (18,0 frente a 
 
 Los datos de co-localización provienen de OpenStreetMap (licencia ODbL) filtrados por identificadores de cadena de Wikidata, complementados con registros de anclas cívicas del conjunto de datos de Lugares de la Overture Maps Foundation (CDLA Permissive 2.0). Los límites municipales provienen del GISCO LAU 2021 de Eurostat. Los centroides metropolitanos de referencia abarcan aproximadamente 160 áreas metropolitanas europeas importantes.
 
-Para la metodología completa, véase [Sistema de Inteligencia de Mercados Regionales](topic-regional-markets-system). La lista equivalente para América del Norte se encuentra en [Top 400 Mercados Regionales — América del Norte](topic-top-400-regional-markets-na).
+Para la metodología completa, véase [[about-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]]. La lista equivalente para América del Norte se encuentra en [[atlas-top-400-north-america|Top 400 Mercados Regionales — América del Norte]].
 
 ---
 
@@ -540,4 +540,5 @@ Para la metodología completa, véase [Sistema de Inteligencia de Mercados Regio
 
 - [[about-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]]
 - [[about-regional-market-matrix|Matriz de Mercado Regional]]
+- [[co-location-methodology|Metodología de Co-localización]]
 - [[atlas-tier-index-europe|Índice de Niveles de Co-ubicación: Europa]]

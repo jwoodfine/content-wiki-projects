@@ -532,7 +532,7 @@ Co-location data is drawn from OpenStreetMap (ODbL licence) filtered by Wikidata
 
 The suburban-regional classification (15–80 km from the nearest major metro centroid) is a filter applied before scoring, not a score component. Every market in this list is already in the suburban band; no distance bonus or penalty is applied within the list.
 
-For full methodology, see [Regional Markets Intelligence System](topic-regional-markets-system). The North American equivalent list is at [Top 400 Regional Markets — North America](topic-top-400-regional-markets-na).
+For full methodology, see [[about-regional-markets-system|Regional Markets Intelligence System]]. The North American equivalent list is at [[atlas-top-400-north-america|Top 400 Regional Markets — North America]].
 
 ---
 

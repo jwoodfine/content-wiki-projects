@@ -70,7 +70,7 @@ Examples:
 
 | Filename | Slug | Valid |
 |---|---|---|
-| `topic-top-400-regional-markets-na.md` | `topic-top-400-regional-markets-na` | ✓ |
+| `atlas-top-400-north-america.md` | `atlas-top-400-north-america` | ✓ |
 | `Topic-Foo.md` | — | ✗ (not lowercase) |
 | `TOPIC_FOO.md` | — | ✗ (underscore, uppercase) |
 
