@@ -194,3 +194,4 @@ Trabajo planificado o previsto para las próximas iteraciones del sistema.
 - [[co-location-methodology|Metodología de Co-ubicación]]
 - [[atlas-top-400-north-america|Top 400 Mercados Regionales — América del Norte]]
 - [[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]]
+- [[development-regions|Regiones de Desarrollo]]

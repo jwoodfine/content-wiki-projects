@@ -33,7 +33,7 @@ Each development region is defined by three components:
 
 **Geographic boundary.** The physical geography within which co-location facilities and sites are considered. Geographic boundaries do not always align with jurisdictional ones — a Canadian regulatory envelope may encompass sites in multiple provinces, each with distinct market characteristics.
 
-**Market data scope.** The data sources and market indices that feed the intelligence pipeline for the region. Real estate market data, economic indicators, and demographic signals are region-scoped because their informational content is jurisdictionally bounded. An index relevant to the British Columbia market is not structurally applicable to Alberta market decisions.
+**Market data scope.** The data sources and market indices that feed the intelligence pipeline for the region. Real estate market data, economic indicators, and demographic signals are region-scoped because their informational content is jurisdictionally bounded. An index relevant to the British Columbia market is not structurally applicable to Alberta market decisions. The [[about-regional-markets-system|Regional Markets ranking system]] — including the [[atlas-top-400-north-america|Top 400 Regional Markets]] lists — is the primary such index: a development region's market-data scope determines which ranked markets are in play for site selection within it.
 
 ## Relationship to the co-location methodology
 
@@ -48,3 +48,6 @@ The development-regions model is intended to support expansion beyond Canada as 
 ## See also
 
 - the country-by-country rollout programme within which regional deployment decisions are made
+- [[about-regional-markets-system|Regional Markets Intelligence System]] — the ranking methodology behind the market-data scope
+- [[atlas-top-400-north-america|Top 400 Regional Markets — North America]]
+- [[atlas-top-400-europe|Top 400 Regional Markets — Europe]]
