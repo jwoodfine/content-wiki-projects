@@ -25,6 +25,8 @@ companion-file tier.
 | `leapfrog-facts.yaml` | Leapfrog fact data for wiki rendering | optional |
 | `reference-invariants.yaml` | Homepage reference invariants panel — three plain-English structural claims (engine Phase D) | optional |
 | `glossary-projects.csv` | Projects glossary (canonical source of truth per cluster convention) | required |
+| `important-information.md` | Important Information band content — read by the engine and rendered above the footer on every page; chrome content, excluded from the article index. Long-form version is the `disclaimers` article. | required |
+| `important-information.es.md` | Spanish bilingual pair for `important-information.md` | required |
 
 ## Allowed root directories
 
