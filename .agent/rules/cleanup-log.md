@@ -30,6 +30,21 @@ line with the site-wide CC BY-ND 4.0 policy now stated in
 
 ## Recently closed
 
+### 2026-07-09 — bim-token-* / bim-objects-* consolidation: confirmed already resolved, no action needed
+
+Backlog item (originally logged 2026-07-03) flagged `building-design/bim-token-taxonomy`,
+`bim-token-three-layers`, `bim-token-what-it-is` as near-duplicates of `bim-objects-substrate`,
+`bim-objects-three-layers`, `bim-objects-what-they-are`. Operator explicitly authorized merging
+this 3-pair set this session. Pre-edit history check (`git log --oneline -- building-design/bim-token-*.md
+building-design/bim-objects-*.md`) found the merge was **already done** by commit `c3e5d24`
+("Follow-on 3/3: consolidate bim-token-* into bim-objects-*", 2026-07-03, Jennifer): all 6
+`bim-token-*` files (EN + ES) deleted, unique content folded into the surviving `bim-objects-*`
+articles, `redirects.yaml` +13 entries, and a named-competitor violation (Solibri, Archistar,
+Revit Family) fixed on the surviving articles in the same pass. Canonical terminology confirmed:
+**"BIM Object"** (corpus count 127 vs 33 for "Token" per that commit's own reasoning). Directory
+listing confirms no `bim-token-*` files remain. No re-merge performed this session — backlog item
+should be considered closed as of `c3e5d24`.
+
 ### 2026-07-09 — CC BY-ND 4.0 content-licence policy note added (important-information.md + disclaimers.md, EN/ES)
 
 `3d0ce13` (Peter, 2026-07-09). Closes item 3 of operator decision message
