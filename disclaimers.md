@@ -5,7 +5,7 @@ slug: disclaimers
 category: governance
 short_description: "Disclosure, liability, and forward-looking statement disclaimers for the Woodfine Projects wiki."
 status: active
-last_edited: 2026-07-06
+last_edited: 2026-07-09
 editor: pointsav-engineering
 ---
 
@@ -69,3 +69,11 @@ available on request.
 Woodfine Capital Projects Inc. is organised in British Columbia, Canada. References to the
 Sovereign Data Foundation on this wiki describe a planned or intended initiative only, not a
 current equity holder or active governance body.
+
+## Licence
+
+The text of this wiki is licensed under [Creative Commons Attribution-NoDerivatives 4.0
+International (CC BY-ND 4.0)](https://creativecommons.org/licenses/by-nd/4.0/). Readers may
+share and quote this material verbatim, with appropriate credit to Woodfine Capital Projects
+Inc. Readers may not alter, transform, or build upon this material, or distribute a modified
+version of it.

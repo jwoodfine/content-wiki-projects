@@ -37,6 +37,11 @@ initiative only, not a current equity holder or active governance body.
 
 **Trademarks.** See `TRADEMARK.md` in this repository for the full trademark notice.
 
+**Content licence.** The text of this wiki is licensed under [Creative Commons
+Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)](https://creativecommons.org/licenses/by-nd/4.0/).
+Readers may quote this content verbatim, with attribution to Woodfine Capital Projects Inc.
+Readers may not alter, transform, or redistribute a modified version of this content.
+
 **Changes to this notice.** Woodfine may update this notice from time to time; the version
 posted on this page governs.
 

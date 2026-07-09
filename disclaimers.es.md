@@ -6,7 +6,7 @@ category: governance
 short_description: "Avisos de divulgación, responsabilidad y declaraciones prospectivas de la wiki de proyectos de Woodfine."
 status: active
 language_protocol: TRANSLATE-ES
-last_edited: 2026-07-06
+last_edited: 2026-07-09
 editor: pointsav-engineering
 paired_with: disclaimers.md
 ---
@@ -75,3 +75,11 @@ de registro están disponibles a solicitud.
 Woodfine Capital Projects Inc. está constituida en Columbia Británica, Canadá. Las
 referencias a la Sovereign Data Foundation en este wiki describen una iniciativa planificada
 o prevista únicamente, no una titular de capital actual ni un órgano de gobierno activo.
+
+## Licencia
+
+El texto de este wiki está licenciado bajo [Creative Commons Attribution-NoDerivatives 4.0
+International (CC BY-ND 4.0)](https://creativecommons.org/licenses/by-nd/4.0/). Los lectores
+pueden compartir y citar este material de forma literal, con la atribución correspondiente a
+Woodfine Capital Projects Inc. Los lectores no pueden alterar, transformar ni construir a
+partir de este material, ni distribuir una versión modificada de él.

@@ -42,6 +42,12 @@ activo.
 **Marcas registradas.** Consulte `TRADEMARK.md` en este repositorio para conocer el aviso de
 marcas completo.
 
+**Licencia de contenido.** El texto de este wiki está licenciado bajo [Creative Commons
+Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)](https://creativecommons.org/licenses/by-nd/4.0/).
+Los lectores pueden citar este contenido de forma literal, con atribución a Woodfine Capital
+Projects Inc. Los lectores no pueden alterar, transformar ni redistribuir una versión
+modificada de este contenido.
+
 **Cambios a este aviso.** Woodfine podrá actualizar este aviso periódicamente; rige la versión
 publicada en esta página.
 
