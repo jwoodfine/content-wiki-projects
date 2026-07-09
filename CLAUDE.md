@@ -31,7 +31,7 @@ with bilingual MOC pages:
 |---|---|
 | `co-location/` | Anchor taxonomy, floor plates, BOMA, ADI, site scoring |
 | `architecture/` | Architectural styles in CRE evaluation context |
-| `markets/` | Bloomberg/WSJ office + retail research summaries |
+| `markets/` | Institutional-press-register office + retail research summaries |
 | `urban/` | Commuter patterns, gateway cities, demographic methodology |
 | `gis/` | GIS data sources, coverage, provenance (articles pending D4/project-jennifer review) |
 | `reference/` | Terminology, glossary from projects.csv |
