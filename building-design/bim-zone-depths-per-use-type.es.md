@@ -60,13 +60,13 @@ Combinaciones: PO-1 + PO-1 = 60,4 m² (650 SF); PO-1 + PO-2 = 73,4 m² (790 SF);
 | Z1 Hábitat | **4,7 m / 15'5"** | Resumen V2 |
 | Z2 Almacén | **3,0 m / 9'10"** | Resumen V2 (la fuente muestra "3'7"" en pies, que es una transposición; 3,0 m = 9'10" es correcto) |
 | Z3 Corredor | **— (ninguno)** | Los locales se abren al corredor del edificio |
-| Área m² planta clave | Pequeña 87,7 / Media 240,3 / Grande 376,3 | Muestras de Plantas Clave V2 |
+| Área m² planta clave | Pequeña 87,7 (superada — ver reconciliación abajo) / Media 240,3 / Grande 376,3 | Muestras de Plantas Clave V2 |
 | Área SF planta clave | Pequeña 944 / Media 2.586 / Grande 4.050 | |
 | Anchura del edificio | **15,40 m / 50'6"** | 2 × (4,7 + 3,0) |
 
 El Académico comprime el Hábitat por debajo de 6 m porque **el asiento mira hacia adelante** (hacia un podio o pizarra) en lugar de hacia la fachada. La Norma Europea de Iluminación se aplica a puestos de trabajo; el asiento en estilo auditorio no es uso de puesto de trabajo.
 
-**Inconsistencia:** `building-width-calculator.dtcg.json` registra el Académico Pequeño como **105 m² / 1.131 SF**, mientras que `professional-office-subtypes.dtcg.json` lo registra como **87,7 m² / 944 SF**. Pendiente de decisión del operador sobre cuál es canónico.
+**Resuelto:** el Resumen Maestro V3 (enero de 2026) establece **105 m² / 1.131 SF** como el área de planta clave Académico Pequeño autorizada — ver la reconciliación en el [[bim-key-plans-index|índice de Plantas Clave]] para el historial completo de los tres valores. `building-width-calculator.dtcg.json` ya registra correctamente el valor de 105 m²; `professional-office-subtypes.dtcg.json` aún conserva la cifra superada de 87,7 m² y necesita una actualización del archivo de tokens.
 
 ### Oficina Profesional (referencia)
 
@@ -160,7 +160,7 @@ El almacén de tokens actual codifica de forma fija 20.000 SF como `floorPlate.n
 
 ## Investigación futura
 
-- [ ] Confirmar el área de la planta clave Académico Pequeño: **87,7 m² (944 SF)** según Muestras V2 frente a **105 m² (1.131 SF)** según el almacén de tokens DTCG
+- [x] ~~Confirmar el área de la planta clave Académico Pequeño~~ — resuelto: **105 m² / 1.131 SF** según el Resumen Maestro V3 es el valor autorizado (ver la reconciliación en el [[bim-key-plans-index|índice de Plantas Clave]]); el archivo de tokens `professional-office-subtypes.dtcg.json` todavía necesita actualizarse para coincidir
 - [ ] Completar el boceto Cívico para anclar los valores de Z1/Z2/Z3 en una disposición de mobiliario real
 - [ ] Confirmar la preferencia del operador para Negocio: Opción A/A (más ancha, 32,29 m) frente a una opción equilibrada como C/C (~27 m)
 - [ ] Capturar las dimensiones del número de referencia del fabricante en un archivo `furniture.dtcg.json`
@@ -172,7 +172,7 @@ El almacén de tokens actual codifica de forma fija 20.000 SF como `floorPlate.n
 
 | # | Problema | Acción |
 |---|---|---|
-| 1 | Área Académico Pequeño: 105 m² (DTCG) frente a 87,7 m² (subtipos DTCG / Muestras V2) | Decisión del operador necesaria |
+| 1 | Área Académico Pequeño: 105 m² (DTCG) frente a 87,7 m² (subtipos DTCG / Muestras V2) | **Resuelto** — 105 m² según el Resumen Maestro V3 es el valor autorizado; actualización pendiente del archivo de tokens `professional-office-subtypes.dtcg.json` |
 | 2 | Token Médico Z1 = 7,2 m, boceto = 286 5/8" = 7,28 m | Actualización del archivo de tokens a 7,2819 m pendiente |
 | 3 | Valores provisionales Z2/Z3 de Oficina Profesional (V12: 3 m / 3 m por definir) | Valores a confirmar desde la Planta Clave |
 | 4 | Planta codificada de forma fija en 20.000 SF; las Notas V3 establecen rangos | Convertir a token de rango |

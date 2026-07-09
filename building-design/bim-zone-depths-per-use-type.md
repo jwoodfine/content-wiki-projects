@@ -60,13 +60,13 @@ Combinations: PO-1 + PO-1 = 60.4 m² (650 SF); PO-1 + PO-2 = 73.4 m² (790 SF); 
 | Z1 Habitat | **4.7 m / 15'5"** | Summary V2 |
 | Z2 Magazine | **3.0 m / 9'10"** | Summary V2 (the source shows "3'7"" in feet, which is a transposition; 3.0 m = 9'10" is correct) |
 | Z3 Corridor | **— (none)** | Suites open to building corridor |
-| Key plan m² | Small 87.7 / Medium 240.3 / Large 376.3 | Key Plans Samples V2 |
+| Key plan m² | Small 87.7 (superseded — see reconciliation below) / Medium 240.3 / Large 376.3 | Key Plans Samples V2 |
 | Key plan SF | Small 944 / Medium 2,586 / Large 4,050 | |
 | Building width | **15.40 m / 50'6"** | 2 × (4.7 + 3.0) |
 
 Academic compresses Habitat below 6 m because **seating faces forward** (toward a podium/board) rather than toward the façade. The European Lighting Standard applies to workstations; auditorium-style seating is not workstation use.
 
-**Inconsistency:** `building-width-calculator.dtcg.json` records Academic Small as **105 m² / 1,131 SF**, while `professional-office-subtypes.dtcg.json` records it as **87.7 m² / 944 SF**. Pending operator decision on which is canonical.
+**Resolved:** the V3 Master Summary (January 2026) establishes **105 m² / 1,131 SF** as the authoritative Academic Small key plan area — see the [[bim-key-plans-index|Key Plans index]] reconciliation for the full three-value history. `building-width-calculator.dtcg.json` already carries the correct 105 m² value; `professional-office-subtypes.dtcg.json` still carries the superseded 87.7 m² figure and needs a token-file update.
 
 ### Professional Office (baseline)
 
@@ -160,7 +160,7 @@ The current token store hard-codes 20,000 SF as `floorPlate.netLeasableSF`. Conv
 
 ## Future research
 
-- [ ] Confirm Academic Small key plan area: **87.7 m² (944 SF)** per Samples V2 vs. **105 m² (1,131 SF)** per DTCG token store
+- [x] ~~Confirm Academic Small key plan area~~ — resolved: **105 m² / 1,131 SF** per V3 Master Summary is authoritative (see [[bim-key-plans-index|Key Plans index]] reconciliation); the `professional-office-subtypes.dtcg.json` token file still needs updating to match
 - [ ] Complete Civic sketch to anchor Z1/Z2/Z3 values to a real furniture arrangement
 - [ ] Confirm operator preference for Business: Option A/A (widest, 32.29 m) versus a balanced option such as C/C (~27 m)
 - [ ] Capture manufacturer SKU dimensions in a `furniture.dtcg.json` file
@@ -172,7 +172,7 @@ The current token store hard-codes 20,000 SF as `floorPlate.netLeasableSF`. Conv
 
 | # | Issue | Action |
 |---|---|---|
-| 1 | Academic Small area: 105 m² (DTCG) vs 87.7 m² (subtypes DTCG / Samples V2) | Operator decision needed |
+| 1 | Academic Small area: 105 m² (DTCG) vs 87.7 m² (subtypes DTCG / Samples V2) | **Resolved** — 105 m² per V3 Master Summary is authoritative; `professional-office-subtypes.dtcg.json` token-file update still pending |
 | 2 | Medical Z1 token = 7.2 m, sketch = 286 5/8" = 7.28 m | Token file pending update to 7.2819 m |
 | 3 | Professional Office Z2/Z3 placeholders (V12: 3 m / 3 m TBD) | Values to confirm from Key Plan |
 | 4 | Floor-plate hard-coded 20,000 SF; Notes V3 directs ranges | Convert to range token |
