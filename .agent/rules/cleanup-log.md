@@ -3,32 +3,48 @@
 Living record of in-flight cleanup work, open questions, and decisions.
 Read at session start. Update when meaningful cleanup occurs.
 
-Last updated: 2026-07-09.
+Last updated: 2026-07-10.
 
 ---
 
 ## Active issues
 
-### Per-article content-licence footer inconsistency (flagged, not fixed)
+### ~145 articles carry no per-article licence footer at all (not fixed)
 
-`grep -rl "creativecommons.org/licenses/by-nd/4.0"` returns only 4 of ~183 articles;
-`grep -rl "creativecommons.org/licenses/by/4.0"` (plain CC BY, no-derivatives clause)
-returns 34. The remaining ~145 articles carry no per-article licence footer at all.
-This predates the 2026-07-09 site-wide policy note (below) and was not introduced by
-it — surfaced here as a follow-up cleanup item, not actioned in this session (a
-34-file mass edit reclassifying an existing licence declaration is a separate,
-larger correctness call than adding a new site-wide note). Compare
-`media-knowledge-corporate`, which already had 26 of 28 articles on `by-nd/4.0`
-before this session (2026-05-25 "Institution quality pass" fixed a `by/4.0` →
-`by-nd/4.0` defect there) — `media-knowledge-projects` never received the
-equivalent per-article correction pass. Flagged to Command by mailbox
-2026-07-09; recommend a dedicated future sweep to bring per-article footers into
-line with the site-wide CC BY-ND 4.0 policy now stated in
-`important-information.md` / `disclaimers.md`.
+Surfaced while closing the `by/4.0` → `by-nd/4.0` mismatch below: of ~183 articles, only
+38 now carry any per-article licence footer (the 34 just fixed + 4 already correct). The
+remaining ~145 have none. Site-wide policy (`important-information.md`/`disclaimers.md`)
+covers the gap in aggregate, but adding ~145 per-article footers from scratch is a much
+larger, separate correctness call than the 34-file mechanical fix just done — not
+actioned this session.
+
+### 2 pages have the license correctly CC BY-ND but with an untranslated English license name in Spanish prose (not fixed)
+
+`disclaimers.es.md` and `important-information.es.md` both correctly link
+`creativecommons.org/licenses/by-nd/4.0/` but the visible link text reads "Creative
+Commons Attribution-NoDerivatives 4.0 International" (English) inside otherwise-Spanish
+prose, rather than "Atribución-SinDerivadas 4.0 Internacional" as used everywhere else.
+Pre-existing, not touched by the 34-file batch below (these 2 policy pages weren't in
+that grep — they were already on the correct license, just with an untranslated label).
+Small, cosmetic, easy follow-up.
 
 ---
 
 ## Recently closed
+
+### 2026-07-10 — 34-article `by/4.0` → `by-nd/4.0` footer fix: DONE
+
+Closes the item flagged below (2026-07-09) after Command confirmed no reply was needed —
+operator authorized the fix directly. Mechanical, well-scoped: license type + URL fixed in
+all 34 (`Attribution 4.0 International` → `Attribution-NoDerivatives 4.0 International`,
+`/by/4.0/` → `/by-nd/4.0/`), and for `.es.md` files, the license name fully translated to
+match the 4 already-correct articles' exact wording ("Licenciado bajo [Creative Commons
+Atribución-SinDerivadas 4.0 Internacional]") rather than the mix of untranslated-English
+and Spanish-prose-with-English-license-name found across the 34. Commit `d046aae`. The
+2 remaining active issues above (145 articles with no footer at all; 2 policy pages with
+an untranslated license label) are separate, smaller follow-ups, not part of this fix.
+
+### 2026-07-09 (superseded note) — original flag
 
 ### 2026-07-09 — bim-token-* / bim-objects-* consolidation: confirmed already resolved, no action needed
 
