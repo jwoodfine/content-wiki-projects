@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Los Edificios"
+title: "Edificios"
 slug: buildings-index
 category: buildings
 type: topic

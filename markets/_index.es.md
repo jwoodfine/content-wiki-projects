@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Los Mercados"
+title: "Mercados"
 slug: markets
 category: markets
 type: topic

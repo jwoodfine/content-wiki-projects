@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "El Mercado Inmobiliario Comercial"
+title: "Mercado Inmobiliario Comercial"
 slug: industry-index
 category: industry
 type: topic
