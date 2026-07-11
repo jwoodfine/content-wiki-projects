@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Retail Co-location Intelligence — Overview"
+title: "Retail co-location intelligence — overview"
 slug: co-location-intelligence-overview
 category: site-selection
 type: topic
@@ -10,7 +10,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-25
+last_edited: 2026-07-11
 editor: pointsav-engineering
 short_description: "Systematic geographic analysis identifying and ranking retail sites where large-format categories converge within defined catchment radii."
 paired_with: site-selection/co-location-intelligence-overview.es.md

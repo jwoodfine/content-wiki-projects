@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Co-Location Target Hierarchy"
+title: "Co-location target hierarchy"
 slug: co-location-target-hierarchy
 category: site-selection
 type: topic
@@ -9,7 +9,7 @@ quality: complete
 short_description: "Three-tier target classification in Woodfine's co-location dataset — Primary (Walmart Supercentre), Secondary (Home Depot, Costco), Tertiary (universities, medical centres)."
 status: stable
 bcsc_class: current-fact
-last_edited: 2026-07-01
+last_edited: 2026-07-11
 editor: pointsav-engineering
 language_protocol: PROSE-TOPIC
 source_refs:

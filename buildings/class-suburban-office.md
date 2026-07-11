@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Suburban Office Development Class"
+title: "Suburban office development class"
 slug: class-suburban-office
 category: buildings
 type: topic
@@ -10,7 +10,7 @@ status: stable
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-03
+last_edited: 2026-07-11
 editor: pointsav-engineering
 short_description: "Suburban Office extends the Professional Centres office product to a 2.0-kilometre radius where 1.0-kilometre siting is not feasible, serving the same tenant base in a fallback deployment format."
 paired_with: buildings/class-suburban-office.es.md

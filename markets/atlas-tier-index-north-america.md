@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Co-location Tier Index: North America"
+title: "Co-location tier index: North America"
 slug: atlas-tier-index-north-america
 category: markets
 type: topic
@@ -10,7 +10,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-06-19
+last_edited: 2026-07-11
 editor: editorial
 short_description: "Aggregated tier-ranked index of commercial convergence nodes across the United States, Canada, and Mexico, summarizing quality tier distribution by market."
 paired_with: markets/atlas-tier-index-north-america.es.md

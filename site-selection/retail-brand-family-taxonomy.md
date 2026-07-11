@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Retail Brand Family Taxonomy"
+title: "Retail brand family taxonomy"
 slug: retail-brand-family-taxonomy
 category: site-selection
 type: topic
@@ -10,7 +10,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-25
+last_edited: 2026-07-11
 editor: pointsav-engineering
 short_description: "Every retail location on the co-location map carries a brand family classification that determines how the location is displayed and, for some families, whether it contributes to cluster scoring. The taxonomy was designed around the anchor types used in the co-location methodology while remaining extensible to the full range of ingested operators."
 paired_with: site-selection/retail-brand-family-taxonomy.es.md

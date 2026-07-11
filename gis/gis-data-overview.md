@@ -1,13 +1,13 @@
 ---
 schema: foundry-doc-v1
-title: "Data Overview — Location Intelligence and GIS Data Layers"
+title: "Data overview — location intelligence and GIS data layers"
 slug: gis-data-overview
 language: en
 category: gis
 type: concept
 content_type: topic
 status: active
-last_edited: 2026-06-20
+last_edited: 2026-07-11
 editor: pointsav-engineering
 short_description: "An orientation to the platform's data layers: location intelligence clusters, co-location tiers, and the GIS tile pipeline."
 cites: []

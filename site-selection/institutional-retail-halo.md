@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Institutional Retail Halo"
+title: "Institutional retail halo"
 slug: institutional-retail-halo
 category: site-selection
 type: topic
@@ -10,7 +10,7 @@ short_description: "Economic thesis that co-location with grocery-anchored Power
 status: stable
 audience: customer-woodfine
 bcsc_class: current-fact
-last_edited: 2026-07-01
+last_edited: 2026-07-11
 editor: pointsav-engineering
 language_protocol: PROSE-TOPIC
 source_refs:

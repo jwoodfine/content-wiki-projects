@@ -1,7 +1,7 @@
 ---
 schema: foundry-doc-v1
 slug: about-regional-markets-system
-title: "Regional Markets Intelligence System"
+title: "Regional Markets intelligence system"
 language: en
 language_protocol: PROSE-TOPIC
 category: markets
@@ -13,7 +13,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Reference article for the co-location analysis system that identifies and ranks suburban retail markets in North America and Europe."
 paired_with: markets/about-regional-markets-system.es.md
-last_edited: 2026-05-30
+last_edited: 2026-07-11
 editor: editorial
 ---
 

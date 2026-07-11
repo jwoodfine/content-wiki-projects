@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Retail Co-location Methodology"
+title: "Retail co-location methodology"
 slug: co-location-methodology
 category: site-selection
 type: topic
@@ -10,7 +10,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-22
+last_edited: 2026-07-11
 editor: pointsav-engineering
 short_description: "A deterministic spatial-analysis framework that ranks commercial real-estate nodes by the objective convergence of independent, capital-intensive retail operators — independent corroboration in place of market sentiment."
 paired_with: site-selection/co-location-methodology.es.md

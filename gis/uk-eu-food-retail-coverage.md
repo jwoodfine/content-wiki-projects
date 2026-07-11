@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "UK and European Food Retail Coverage"
+title: "UK and European food retail coverage"
 slug: uk-eu-food-retail-coverage
 category: gis
 type: topic
@@ -10,7 +10,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-25
+last_edited: 2026-07-11
 editor: pointsav-engineering
 short_description: "The co-location index distinguishes between chains that participate in cluster scoring — anchors, hardware, warehouse — and chains that appear on the map as supporting context without affecting cluster grades. The Food family is the latter. This article documents United Kingdom and European Union food-retail coverage as of the May 2026 expansion."
 paired_with: gis/uk-eu-food-retail-coverage.es.md

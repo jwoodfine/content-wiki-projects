@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Professional Centres Development Class"
+title: "Professional centres development class"
 slug: class-professional-centres
 category: buildings
 type: topic
@@ -10,7 +10,7 @@ short_description: "Professional Centres are three-to-five-floor office building
 status: stable
 audience: customer-woodfine
 bcsc_class: current-fact
-last_edited: 2026-07-03
+last_edited: 2026-07-11
 editor: pointsav-engineering
 language_protocol: PROSE-TOPIC
 source_refs:

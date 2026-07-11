@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Regional Name Resolution Architecture"
+title: "Regional name resolution architecture"
 slug: regional-name-resolution-architecture
 category: gis
 type: topic
@@ -10,7 +10,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-25
+last_edited: 2026-07-11
 editor: pointsav-engineering
 short_description: "Each co-location cluster is labelled with a human-readable regional name — a North American Metropolitan Area, a European NUTS-3 region, a Mexican municipio, a Canadian Census Subdivision. That name is the output of a layered offline reverse-geocoding pipeline that draws from five open boundary datasets without requiring external API calls."
 paired_with: gis/regional-name-resolution-architecture.es.md

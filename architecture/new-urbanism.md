@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "New Urbanism"
+title: "New urbanism"
 slug: new-urbanism
 category: architecture
 type: topic
@@ -10,7 +10,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-06-27
+last_edited: 2026-07-11
 editor: pointsav-engineering
 short_description: "A design movement that reintroduces mixed-use, transit-connected, pedestrian-scaled neighbourhoods as an alternative to automobile-dependent suburban development — the planning framework that formalizes many of the land-use conditions that support co-location."
 paired_with: new-urbanism.es.md

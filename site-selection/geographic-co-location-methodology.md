@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Geographic Co-Location Methodology"
+title: "Geographic co-location methodology"
 slug: geographic-co-location-methodology
 category: site-selection
 type: topic
@@ -9,7 +9,7 @@ quality: complete
 short_description: "Five-degree cluster system scoring retail node proximity from Primary, Secondary, and Tertiary target co-occurrence to rank development sites by anchor strength."
 status: stable
 bcsc_class: current-fact
-last_edited: 2026-07-01
+last_edited: 2026-07-11
 editor: pointsav-engineering
 language_protocol: PROSE-TOPIC
 source_refs:

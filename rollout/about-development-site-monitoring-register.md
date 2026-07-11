@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Development Site Monitoring Register"
+title: "Development site monitoring register"
 slug: about-development-site-monitoring-register
 category: rollout
 type: topic
@@ -9,7 +9,7 @@ quality: complete
 short_description: "Passive tracking register holding qualified co-location sites removed from the active pipeline for adjacent land unavailability, kept scored with documented re-entry criteria."
 status: stable
 bcsc_class: current-fact
-last_edited: 2026-07-01
+last_edited: 2026-07-11
 editor: pointsav-engineering
 language_protocol: PROSE-TOPIC
 source_refs:

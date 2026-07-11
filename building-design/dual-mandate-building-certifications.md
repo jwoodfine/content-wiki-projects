@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Dual-Mandate Building Certifications"
+title: "Dual-mandate building certifications"
 slug: dual-mandate-building-certifications
 category: building-design
 type: topic
@@ -10,7 +10,7 @@ short_description: "Leasing strategy certifying every Woodfine Building to both 
 status: stable
 audience: customer-woodfine
 bcsc_class: current-fact
-last_edited: 2026-07-01
+last_edited: 2026-07-11
 editor: pointsav-engineering
 language_protocol: PROSE-TOPIC
 source_refs:

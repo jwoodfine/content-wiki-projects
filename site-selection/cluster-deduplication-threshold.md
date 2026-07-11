@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Cluster Deduplication Threshold"
+title: "Cluster deduplication threshold"
 slug: cluster-deduplication-threshold
 category: site-selection
 type: topic
@@ -10,7 +10,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-25
+last_edited: 2026-07-11
 editor: pointsav-engineering
 short_description: "The co-location index pipeline deduplicates overlapping clusters that represent the same commercial zone using a 150-metre threshold, retaining the cluster with the higher secondary operator count. A prior 500-metre threshold was found to suppress legitimately distinct commercial nodes in dense suburban corridors."
 paired_with: site-selection/cluster-deduplication-threshold.es.md

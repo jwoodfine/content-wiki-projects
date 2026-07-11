@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "High-Tech Architecture"
+title: "High-tech architecture"
 slug: high-tech-architecture
 category: architecture
 type: topic

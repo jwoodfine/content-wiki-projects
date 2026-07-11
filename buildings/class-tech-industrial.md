@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Tech Industrial Development Class"
+title: "Tech industrial development class"
 slug: class-tech-industrial
 category: buildings
 type: topic
@@ -10,7 +10,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-03
+last_edited: 2026-07-11
 editor: pointsav-engineering
 short_description: "Tech Industrial is a single-format industrial-retail building — 25% retail storefront, 75% shop floor with grade-level panel van access — serving last-mile logistics and workshop tenants within the co-location footprint."
 paired_with: buildings/class-tech-industrial.es.md

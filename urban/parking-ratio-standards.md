@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Parking Ratio Standards for Professional Centres"
+title: "Parking ratio standards for professional centres"
 slug: parking-ratio-standards
 category: urban
 type: topic
@@ -9,7 +9,7 @@ quality: complete
 short_description: "Parking standard in the Woodfine Universal Governance Bylaws: minimum 3 stalls per 1,000 square feet of net leasable area, with a target of 4, specified before construction."
 status: stable
 bcsc_class: current-fact
-last_edited: 2026-07-01
+last_edited: 2026-07-11
 editor: pointsav-engineering
 language_protocol: PROSE-TOPIC
 source_refs:

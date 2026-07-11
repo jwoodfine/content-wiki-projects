@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Vertical Warehouses Development Class"
+title: "Vertical warehouses development class"
 slug: class-vertical-warehouses
 category: buildings
 type: topic
@@ -10,7 +10,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-03
+last_edited: 2026-07-11
 editor: pointsav-engineering
 short_description: "Vertical Warehouses are planned as a purpose-built vertical-stacking industrial and logistics class for inter-city fringe locations, sited outside the power centre proximity model."
 paired_with: buildings/class-vertical-warehouses.es.md

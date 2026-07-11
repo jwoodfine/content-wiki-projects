@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Co-location Tier Nomenclature"
+title: "Co-location tier nomenclature"
 slug: co-location-tier-nomenclature
 category: site-selection
 type: topic
@@ -10,7 +10,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-25
+last_edited: 2026-07-11
 editor: pointsav-engineering
 short_description: "The four tier labels — Regional, District, Local, Fringe — visible on the co-location map follow the International Council of Shopping Centres retail property hierarchy, providing a nomenclature that carries meaning independently of the platform itself. Sprint 17 (May 2026) introduced both the ICSC labels and the V3 pure-predicate tier engine."
 paired_with: site-selection/co-location-tier-nomenclature.es.md

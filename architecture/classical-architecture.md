@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Classical Architecture"
+title: "Classical architecture"
 slug: classical-architecture
 category: architecture
 type: topic
@@ -10,7 +10,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-06-30
+last_edited: 2026-07-11
 editor: woodfine-editorial
 short_description: "Architectural tradition derived from ancient Greek and Roman principles — symmetry, column orders, proportion, and formal composition — that dominated Western institutional and commercial construction from the Renaissance through the early 20th century."
 paired_with: classical-architecture.es.md

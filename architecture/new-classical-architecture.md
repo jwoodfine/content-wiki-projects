@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "New Classical Architecture"
+title: "New classical architecture"
 slug: new-classical-architecture
 category: architecture
 type: topic

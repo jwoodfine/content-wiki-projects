@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Retail Centres (PRO)"
+title: "Retail centres (PRO)"
 slug: retail-centres
 category: site-selection
 type: concept
@@ -11,7 +11,7 @@ audience: vendor-public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
 language: en
-last_edited: 2026-06-20
+last_edited: 2026-07-11
 editor: pointsav-engineering
 paired_with: site-selection/retail-centres.es.md
 short_description: "Retail Centres (PRO) are neighbourhood commercial centres anchored by grocery, pharmacy, bank, and casual dining — one of three Location Intelligence co-location archetypes, and the base map product for the site-selection dataset."

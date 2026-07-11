@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Retail Co-location Ranking System"
+title: "Retail co-location ranking system"
 slug: co-location-ranking-system
 category: site-selection
 type: topic
@@ -10,7 +10,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-06-15
+last_edited: 2026-07-11
 editor: pointsav-engineering
 short_description: "Deterministic 12-rank scoring algorithm evaluating retail co-location sites by named-anchor convergence across defined catchment radii."
 paired_with: site-selection/co-location-ranking-system.es.md

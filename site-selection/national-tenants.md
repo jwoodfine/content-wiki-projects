@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "National Tenants"
+title: "National tenants"
 slug: national-tenants
 category: site-selection
 type: topic
@@ -10,7 +10,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-06-26
+last_edited: 2026-07-11
 editor: pointsav-engineering
 short_description: "Revenue-driving professional occupiers — academic, medical, and civic — whose institutional identity anchors building credibility and stabilizes the mix-of-use tenant composition."
 paired_with: site-selection/national-tenants.es.md

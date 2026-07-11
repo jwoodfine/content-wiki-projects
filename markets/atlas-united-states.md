@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "United States — Regional Market Index"
+title: "United States — Regional Market index"
 slug: atlas-united-states
 category: markets
 type: topic

@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Modern Architecture"
+title: "Modern architecture"
 slug: modern-architecture
 category: architecture
 type: topic
@@ -10,7 +10,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-06-30
+last_edited: 2026-07-11
 editor: pointsav-engineering
 short_description: "Dominant mid-twentieth-century commercial style — structural frame, curtain wall, flat roof, open plan — that established the suburban professional office building type."
 paired_with: modern-architecture.es.md

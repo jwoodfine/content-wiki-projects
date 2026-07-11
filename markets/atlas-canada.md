@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Canada — Regional Market Index"
+title: "Canada — Regional Market index"
 slug: atlas-canada
 category: markets
 type: topic
@@ -11,7 +11,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 keynote: false
-last_edited: 2026-06-29
+last_edited: 2026-07-11
 editor: woodfine-editorial
 short_description: "Ranked index of Canadian regional commercial real estate markets meeting co-location screening thresholds."
 paired_with: markets/atlas-canada.es.md

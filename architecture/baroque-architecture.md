@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Baroque Architecture"
+title: "Baroque architecture"
 slug: baroque-architecture
 category: architecture
 type: topic
@@ -10,7 +10,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-06-30
+last_edited: 2026-07-11
 editor: woodfine-editorial
 short_description: "Highly decorative and theatrically dramatic architectural style originating in early 17th-century Italy that spread across Europe and its colonies — defining the civic and ecclesiastical building fabric of most major European city centres between approximately 1600 and 1750."
 paired_with: baroque-architecture.es.md

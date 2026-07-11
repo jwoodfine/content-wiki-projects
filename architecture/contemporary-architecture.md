@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Contemporary Architecture"
+title: "Contemporary architecture"
 slug: contemporary-architecture
 category: architecture
 type: topic
@@ -10,7 +10,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-06-30
+last_edited: 2026-07-11
 editor: woodfine-editorial
 short_description: "The architecture of the 21st century — no single dominant style, characterised by global production, computer-aided design, advanced materials, and a proliferation of competing design philosophies spanning high-tech, sculptural, neo-classical, and ecological approaches."
 paired_with: contemporary-architecture.es.md

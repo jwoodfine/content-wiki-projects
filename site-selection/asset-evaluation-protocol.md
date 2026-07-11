@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Asset Evaluation Protocol"
+title: "Asset evaluation protocol"
 slug: asset-evaluation-protocol
 short_description: "How the co-location ranking matrix drives WMC's commercial asset acquisition targeting: tier score as the entry criterion, independent GIS analysis as the verification method."
 category: site-selection
@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-25
+last_edited: 2026-07-11
 editor: pointsav-engineering
 paired_with: site-selection/asset-evaluation-protocol.es.md
 cites: []

@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Germany — Regional Market Index"
+title: "Germany — Regional Market index"
 slug: atlas-germany
 category: markets
 type: topic

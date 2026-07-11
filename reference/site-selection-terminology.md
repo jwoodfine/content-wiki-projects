@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Site Selection Terminology"
+title: "Site selection terminology"
 slug: site-selection-terminology
 category: reference
 type: topic
@@ -9,7 +9,7 @@ quality: complete
 short_description: "Glossary of Woodfine site selection and development terms, including Qualified Investment, Power Centre, Campus Design, and the Primary–Tertiary target tiers."
 status: stable
 bcsc_class: current-fact
-last_edited: 2026-07-01
+last_edited: 2026-07-11
 editor: pointsav-engineering
 language_protocol: PROSE-TOPIC
 source_refs:

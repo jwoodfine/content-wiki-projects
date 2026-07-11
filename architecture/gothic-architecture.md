@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Gothic Architecture"
+title: "Gothic architecture"
 slug: gothic-architecture
 category: architecture
 type: topic
@@ -10,7 +10,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-06-30
+last_edited: 2026-07-11
 editor: pointsav-engineering
 short_description: "Medieval style of pointed arch, rib vault, and flying buttress, revived in the 19th century as Gothic Revival in the churches and civic buildings of secondary markets."
 paired_with: gothic-architecture.es.md

@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Asset Architecture Standard"
+title: "Asset architecture standard"
 slug: asset-architecture-standard
 category: building-design
 type: reference
@@ -10,7 +10,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-06
+last_edited: 2026-07-11
 editor: pointsav-engineering
 short_description: "Uniform structural requirements for Woodfine developments: concrete and steel construction, pre-acquisition dimensioning, and standardized configuration applied across the portfolio."
 paired_with: building-design/asset-architecture-standard.es.md

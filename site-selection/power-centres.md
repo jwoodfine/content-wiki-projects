@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Power Centres"
+title: "Power centres"
 slug: power-centres
 category: site-selection
 type: topic
@@ -10,7 +10,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-06-26
+last_edited: 2026-07-11
 editor: pointsav-engineering
 short_description: "Retail hubs anchored by multiple big-box national retailers, serving as the primary site-selection anchors for Woodfine co-location deployments."
 paired_with: site-selection/power-centres.es.md

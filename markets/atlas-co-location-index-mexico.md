@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Co-location Index: Mexico"
+title: "Co-location index: Mexico"
 slug: atlas-co-location-index-mexico
 category: markets
 type: topic
@@ -10,7 +10,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-25
+last_edited: 2026-07-11
 editor: pointsav-engineering
 short_description: "Ranked index of top commercial convergence nodes in Mexico, identifying sites where Walmart Supercentre anchors cluster with Home Depot, Costco, and civic infrastructure."
 paired_with: markets/atlas-co-location-index-mexico.es.md

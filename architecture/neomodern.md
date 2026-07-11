@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Neomodern Architecture"
+title: "Neomodern architecture"
 slug: neomodern
 category: architecture
 type: topic

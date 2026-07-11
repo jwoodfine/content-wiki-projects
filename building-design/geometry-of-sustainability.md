@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Geometry of Sustainability"
+title: "Geometry of sustainability"
 slug: geometry-of-sustainability
 category: building-design
 type: topic
@@ -10,7 +10,7 @@ short_description: "Engineering discipline applying European lighting, Swiss air
 status: stable
 audience: customer-woodfine
 bcsc_class: current-fact
-last_edited: 2026-07-01
+last_edited: 2026-07-11
 editor: pointsav-engineering
 language_protocol: PROSE-TOPIC
 source_refs:

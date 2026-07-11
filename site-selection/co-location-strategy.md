@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Co-Location Strategy"
+title: "Co-location strategy"
 slug: co-location-strategy
 category: site-selection
 type: topic
@@ -12,7 +12,7 @@ bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 keynote: true
 keynote_section: "Co-Location Methodology"
-last_edited: 2026-06-26
+last_edited: 2026-07-11
 editor: pointsav-engineering
 short_description: "The strategy of positioning professional centres adjacent to national retail anchors to transpose retail resilience onto office demand."
 paired_with: site-selection/co-location-strategy.es.md

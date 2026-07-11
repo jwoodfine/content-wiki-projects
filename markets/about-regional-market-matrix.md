@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Regional Market Matrix"
+title: "Regional Market matrix"
 slug: about-regional-market-matrix
 category: markets
 type: reference
@@ -11,7 +11,7 @@ superseded_by: about-regional-markets-system
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-10
+last_edited: 2026-07-11
 editor: editorial
 short_description: "SUPERSEDED (2026-07-10) — see about-regional-markets-system for the current framework. Prior definition described MCorp's 8-target-market direct-hold matrix, pre-dating the 18-country suburban co-location system now in use."
 paired_with: markets/about-regional-market-matrix.es.md

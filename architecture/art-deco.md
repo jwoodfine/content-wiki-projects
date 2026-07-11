@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Art Deco"
+title: "Art deco"
 slug: art-deco
 category: architecture
 type: topic

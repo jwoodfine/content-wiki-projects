@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "United Kingdom — Regional Market Index"
+title: "United Kingdom — Regional Market index"
 slug: atlas-united-kingdom
 category: markets
 type: topic

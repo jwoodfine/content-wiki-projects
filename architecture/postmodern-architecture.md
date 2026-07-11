@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Postmodern Architecture"
+title: "Postmodern architecture"
 slug: postmodern-architecture
 category: architecture
 type: topic

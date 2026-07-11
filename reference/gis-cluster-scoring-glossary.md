@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "GIS Cluster Scoring Glossary"
+title: "GIS cluster scoring glossary"
 slug: gis-cluster-scoring-glossary
 category: reference
 type: topic
@@ -9,7 +9,7 @@ quality: complete
 short_description: "Glossary of cluster degree terms, tier labels (T3 Apex, T2 Hub, T1 Valid), and radius conventions used in the Woodfine geographic co-location scoring system."
 status: stable
 bcsc_class: current-fact
-last_edited: 2026-07-01
+last_edited: 2026-07-11
 editor: pointsav-engineering
 language_protocol: PROSE-TOPIC
 source_refs:

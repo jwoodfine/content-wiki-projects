@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Built Environment"
+title: "Built environment"
 slug: built-environment
 category: architecture
 type: topic

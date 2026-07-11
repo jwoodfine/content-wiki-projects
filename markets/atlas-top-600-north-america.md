@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "TOP600 North America — Regional Market Index"
+title: "TOP600 North America — Regional Market index"
 slug: atlas-top-600-north-america
 category: markets
 type: topic
@@ -11,7 +11,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 keynote: false
-last_edited: 2026-06-29
+last_edited: 2026-07-11
 editor: woodfine-editorial
 short_description: "Index of up to 600 regional commercial real estate markets across North America screened for co-location viability."
 paired_with: markets/atlas-top-600-north-america.es.md

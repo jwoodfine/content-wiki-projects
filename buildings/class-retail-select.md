@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Retail Select Development Class"
+title: "Retail select development class"
 slug: class-retail-select
 category: buildings
 type: topic
@@ -10,7 +10,7 @@ status: stable
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-03
+last_edited: 2026-07-11
 editor: pointsav-engineering
 short_description: "Retail Select is the single-storey commercial-retail class that complements Woodfine's multi-storey office buildings within the 1.0-kilometre power centre radius."
 paired_with: buildings/class-retail-select.es.md

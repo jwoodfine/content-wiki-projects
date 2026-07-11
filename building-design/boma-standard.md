@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "BOMA Standard"
+title: "BOMA standard"
 slug: boma-standard
 category: building-design
 type: topic
@@ -10,7 +10,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-06-26
+last_edited: 2026-07-11
 editor: pointsav-engineering
 short_description: "The Building Owners and Managers Association measurement standard for commercial floor area, used as the common measurement basis for Woodfine lease areas and building comparisons."
 paired_with: building-design/boma-standard.es.md

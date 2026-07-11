@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Optimum Mosaic Demographic Profiling"
+title: "Optimum mosaic demographic profiling"
 slug: optimum-mosaic-demographic-profiling
 category: urban
 type: topic
@@ -9,7 +9,7 @@ quality: complete
 short_description: "Demographic methodology deriving the Optimum Mosaic — Woodfine's target consumer signature — from the highest sales-per-square-foot Walmart Supercentre trade areas."
 status: stable
 bcsc_class: current-fact
-last_edited: 2026-07-01
+last_edited: 2026-07-11
 editor: pointsav-engineering
 language_protocol: PROSE-TOPIC
 source_refs:

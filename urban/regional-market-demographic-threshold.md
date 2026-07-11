@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Regional Market Demographic Threshold"
+title: "Regional Market demographic threshold"
 slug: regional-market-demographic-threshold
 category: urban
 type: topic
@@ -9,7 +9,7 @@ quality: complete
 short_description: "Demographic conditions distinguishing a qualifying Regional Market from a local-serving community, led by National Retailer sales per square foot and secondary trade strength."
 status: stable
 bcsc_class: current-fact
-last_edited: 2026-07-01
+last_edited: 2026-07-11
 editor: pointsav-engineering
 language_protocol: PROSE-TOPIC
 source_refs:

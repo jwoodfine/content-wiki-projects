@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "GIS North America Dataset — Site Pipeline Status (2026)"
+title: "GIS North America dataset — site pipeline status (2026)"
 slug: text-gis-north-america-dataset-2026
 short_description: "Internal client communication on North America co-location dataset status — scored cluster counts by jurisdiction, pipeline shortlist requirements, and calibration approach."
 category: news
@@ -9,7 +9,7 @@ content_type: topic
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-last_edited: 2026-07-01
+last_edited: 2026-07-11
 editor: pointsav-engineering
 language_protocol: PROSE-TOPIC
 source_refs:

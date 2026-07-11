@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Co-location Anchors"
+title: "Co-location anchors"
 slug: co-location-anchors
 category: site-selection
 type: reference
@@ -10,7 +10,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-06
+last_edited: 2026-07-11
 editor: pointsav-engineering
 short_description: "Large-format national retailers whose verified presence within defined proximity thresholds is the binary qualifying criterion for commercial node inclusion."
 paired_with: site-selection/co-location-anchors.es.md

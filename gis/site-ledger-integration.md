@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Site Ledger Integration"
+title: "Site ledger integration"
 slug: site-ledger-integration
 category: gis
 type: reference
@@ -10,7 +10,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-06
+last_edited: 2026-07-11
 editor: pointsav-engineering
 short_description: "Operational link binding each physical construction site to an isolated digital archive container, maintaining immutable audit records from groundbreak through commissioning."
 paired_with: gis/site-ledger-integration.es.md
