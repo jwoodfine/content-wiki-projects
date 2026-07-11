@@ -18,7 +18,7 @@ short_description: "Commuter (PKS) clusters identify transit-adjacent commercial
 cites: []
 ---
 
-**Commuter** (PKS) clusters identify transit-adjacent commercial sites organised around significant parking. These are the commuter-rail stations, regional transit hubs, park-and-ride lots, and highway-exit commercial nodes where residents of a [[about-regional-markets|regional market]] drive to a transit point, leave their car, and travel onward to a metropolitan market. The parking infrastructure that makes this journey possible at scale is the defining feature of the archetype.
+**Commuter** (PKS) clusters identify transit-adjacent commercial sites organised around significant parking. These are the commuter-rail stations, regional transit hubs, park-and-ride lots, and highway-exit commercial nodes where residents of a [[about-regional-markets-system|regional market]] drive to a transit point, leave their car, and travel onward to a metropolitan market. The parking infrastructure that makes this journey possible at scale is the defining feature of the archetype.
 
 Three-letter code: **PKS**. One of three Location Intelligence archetypes alongside [[retail-centres|Retail Centres (PRO)]] and [[urban-fringe|Urban Fringe (VWH)]]. Commuter is an overlay archetype that identifies transit-adjacent market structure not captured by grocery-anchored Retail Centre clustering.
 

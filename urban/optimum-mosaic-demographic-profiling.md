@@ -32,7 +32,7 @@ Sorting Primary Targets strictly by sales per square foot — rather than by tot
 
 ### Sample size and jurisdiction pooling
 
-The top 25 to 100 Primary Targets by sales per square foot are the sample from which the Optimum Mosaic is extracted. Including the top 25 produces a tighter, more concentrated demographic profile. Expanding to 100 produces a broader profile that may capture demographic variation across geographies and jurisdictions. Combining Primary Target data from the United States, Canada, and Mexico — rather than analyzing each jurisdiction separately — may produce a richer Optimum Mosaic that reflects underlying consumer demand patterns across North American [[about-regional-markets|Regional Market]] geographies rather than jurisdiction-specific conditions.
+The top 25 to 100 Primary Targets by sales per square foot are the sample from which the Optimum Mosaic is extracted. Including the top 25 produces a tighter, more concentrated demographic profile. Expanding to 100 produces a broader profile that may capture demographic variation across geographies and jurisdictions. Combining Primary Target data from the United States, Canada, and Mexico — rather than analyzing each jurisdiction separately — may produce a richer Optimum Mosaic that reflects underlying consumer demand patterns across North American [[about-regional-markets-system|Regional Market]] geographies rather than jurisdiction-specific conditions.
 
 ## Demographic Dimensions of the Optimum Mosaic
 

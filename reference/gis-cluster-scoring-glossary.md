@@ -45,7 +45,7 @@ The V2 scoring methodology assigns scored clusters to three tiers based on aggre
 
 ## Radius Threshold Conventions
 
-**1.0 km threshold** — Applied to Primary and Secondary Target co-occurrence. A 1.0 km radius at [[about-regional-markets|Regional Market]] spatial scales corresponds to the shared site infrastructure zone of a co-anchored [[power-centres|power centre]]. Secondary Targets within 1.0 km of a Primary Target are treated as operating within the same commercial node rather than as independently located operators.
+**1.0 km threshold** — Applied to Primary and Secondary Target co-occurrence. A 1.0 km radius at [[about-regional-markets-system|Regional Market]] spatial scales corresponds to the shared site infrastructure zone of a co-anchored [[power-centres|power centre]]. Secondary Targets within 1.0 km of a Primary Target are treated as operating within the same commercial node rather than as independently located operators.
 
 **3.0 km threshold** — A recalibrated radius applied when Fifth-Degree Clusters exceed 10% of all Primary Target entries in the dataset. When the top cluster tier contains more than 10% of all entries, the Tertiary proximity threshold tightens from 5.0 km to 3.0 km and the Primary-Secondary threshold tightens from 1.0 km to below 1.0 km. The recalibration preserves the discriminating power of the cluster hierarchy.
 

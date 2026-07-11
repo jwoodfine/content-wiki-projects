@@ -44,7 +44,7 @@ Los minoristas ancla nacionales tienen perfiles crediticios de grado institucion
 
 - [[co-location-methodology]] — cómo la convergencia de anclas se traduce en niveles de sitios clasificados
 - [[co-location-intelligence-overview]] — la plataforma que evalúa 2.738 nodos a nivel mundial
-- [[about-regional-market-matrix]] — qué mercados cubre actualmente la plataforma de co-ubicación
+- [[about-regional-markets-system]] — qué mercados cubre actualmente la plataforma de co-ubicación
 
 ---
 

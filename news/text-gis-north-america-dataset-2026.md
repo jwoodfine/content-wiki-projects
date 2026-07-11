@@ -58,7 +58,7 @@ Calibration checks are performed each time the dataset is updated with new Prima
 
 **Sales per square foot update cadence:**
 
-Primary Target sales per square foot rankings are updated annually or every second year to generate trend data and enable re-ranking of the full Primary Target population. Sales per square foot trends data, accumulated across update cycles, provides a longitudinal view of which [[about-regional-markets|regional markets]] are gaining or losing commercial productivity relative to the chain average — informing both the active pipeline prioritization and the [[about-development-site-monitoring-register|monitoring register]] for sites where adjacent land was previously unavailable.
+Primary Target sales per square foot rankings are updated annually or every second year to generate trend data and enable re-ranking of the full Primary Target population. Sales per square foot trends data, accumulated across update cycles, provides a longitudinal view of which [[about-regional-markets-system|regional markets]] are gaining or losing commercial productivity relative to the chain average — informing both the active pipeline prioritization and the [[about-development-site-monitoring-register|monitoring register]] for sites where adjacent land was previously unavailable.
 
 ---
 

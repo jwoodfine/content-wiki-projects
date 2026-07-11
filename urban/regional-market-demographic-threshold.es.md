@@ -18,7 +18,7 @@ paired_with: regional-market-demographic-threshold.md
 cites: []
 ---
 
-Un **[[about-regional-markets|Mercado Regional]]** en el marco de desarrollo de Woodfine Management Corp. es una geografía que cumple un conjunto específico de condiciones demográficas y comerciales — condiciones que la distinguen tanto de los grandes mercados metropolitanos que atraen capital institucional en volumen como de las pequeñas comunidades que son atendidas exclusivamente por comercio y servicios locales. El umbral demográfico no está definido únicamente por la población. Está definido por el rendimiento comercial de los Minoristas Nacionales que ya han elegido operar en la geografía.
+Un **[[about-regional-markets-system|Mercado Regional]]** en el marco de desarrollo de Woodfine Management Corp. es una geografía que cumple un conjunto específico de condiciones demográficas y comerciales — condiciones que la distinguen tanto de los grandes mercados metropolitanos que atraen capital institucional en volumen como de las pequeñas comunidades que son atendidas exclusivamente por comercio y servicios locales. El umbral demográfico no está definido únicamente por la población. Está definido por el rendimiento comercial de los Minoristas Nacionales que ya han elegido operar en la geografía.
 
 ## El Indicador Primario: Productividad Minorista
 

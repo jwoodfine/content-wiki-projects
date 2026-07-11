@@ -18,7 +18,7 @@ short_description: "Los clústeres de Viajero Habitual (PKS) identifican sitios 
 cites: []
 ---
 
-Los clústeres de **Viajero Habitual** (PKS) identifican sitios comerciales adyacentes al tránsito organizados en torno a un aparcamiento significativo. Son las estaciones de cercanías, los intercambiadores de tránsito regional, los aparcamientos de disuasión y los nodos comerciales de salida de autopista donde los residentes de un [[about-regional-markets|mercado regional]] conducen hasta un punto de tránsito, dejan el coche y viajan hacia un mercado metropolitano. La infraestructura de aparcamiento que hace posible este viaje a escala es la característica definitoria del arquetipo.
+Los clústeres de **Viajero Habitual** (PKS) identifican sitios comerciales adyacentes al tránsito organizados en torno a un aparcamiento significativo. Son las estaciones de cercanías, los intercambiadores de tránsito regional, los aparcamientos de disuasión y los nodos comerciales de salida de autopista donde los residentes de un [[about-regional-markets-system|mercado regional]] conducen hasta un punto de tránsito, dejan el coche y viajan hacia un mercado metropolitano. La infraestructura de aparcamiento que hace posible este viaje a escala es la característica definitoria del arquetipo.
 
 Código de tres letras: **PKS**. Uno de los tres arquetipos de Inteligencia de Localización junto a los [[retail-centres|Centros Comerciales de Barrio (PRO)]] y a la [[urban-fringe|Periferia Urbana (VWH)]]. El Viajero Habitual es un arquetipo de superposición que identifica la estructura de mercado adyacente al tránsito que no captura la agrupación de Centros Comerciales de Barrio anclada en alimentación.
 

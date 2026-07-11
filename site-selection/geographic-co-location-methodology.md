@@ -44,7 +44,7 @@ The five cluster degrees are constructed from two radius thresholds: a 1.0 km th
 
 ## Radius Calibration
 
-The 1.0 km threshold for Primary-Secondary co-occurrence reflects the operational reality of [[power-centres|power centre]] site design: retailers in the same commercial node or corridor are typically within this distance of each other, and proximity at this radius confirms shared site infrastructure rather than coincidental geographical proximity. The 5.0 km threshold for Tertiary co-occurrence reflects the wider catchment pattern of institutional employers. A university or major hospital does not anchor a power centre — it anchors a geography. Five kilometres is a drive time of approximately five to eight minutes in a [[about-regional-markets|Regional Market]] context, within the commute tolerance of professional services tenants.
+The 1.0 km threshold for Primary-Secondary co-occurrence reflects the operational reality of [[power-centres|power centre]] site design: retailers in the same commercial node or corridor are typically within this distance of each other, and proximity at this radius confirms shared site infrastructure rather than coincidental geographical proximity. The 5.0 km threshold for Tertiary co-occurrence reflects the wider catchment pattern of institutional employers. A university or major hospital does not anchor a power centre — it anchors a geography. Five kilometres is a drive time of approximately five to eight minutes in a [[about-regional-markets-system|Regional Market]] context, within the commute tolerance of professional services tenants.
 
 ### Recalibration trigger at 10%
 

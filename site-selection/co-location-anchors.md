@@ -45,7 +45,7 @@ National anchor retailers carry institutional-grade credit profiles. Their lease
 
 - [[co-location-methodology]] — how anchor convergence translates into ranked site tiers
 - [[co-location-intelligence-overview]] — the platform that evaluates 2,738 nodes globally
-- [[about-regional-market-matrix]] — which markets the co-location platform currently covers
+- [[about-regional-markets-system]] — which markets the co-location platform currently covers
 
 ---
 
