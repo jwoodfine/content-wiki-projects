@@ -1,0 +1,69 @@
+---
+schema: foundry-doc-v1
+slug: gb-eng-cherwell.es
+title: "Cherwell, Inglaterra — Mercado Regional"
+language: es
+language_protocol: TRANSLATE-ES
+category: markets
+type: reference
+content_type: topic
+quality: stub
+status: active
+audience: customer-woodfine
+bcsc_class: current-fact
+short_description: "Mercado Regional número 368 en Europa — suburbio de Oxford; puntuación compuesta 3,0."
+paired_with: markets/gb-eng-cherwell.md
+last_edited: 2026-07-10
+editor: editorial
+---
+
+Cherwell, distrito del norte de Oxfordshire con centro en Banbury y Bicester, ocupa el
+puesto 368 entre los 400 Mercados Regionales de Europa con una puntuación compuesta de 3,0,
+cerca del límite inferior de la lista clasificada. Una sólida conectividad por la autopista
+M40 y por ferrocarril hacia Londres, Birmingham y Oxford sostiene sus dos clústeres de
+co-localización de Nivel 3.
+
+## Descripción general
+
+Según Wikipedia (consultado el 10 de julio de 2026), el distrito de Cherwell tenía una
+población de 170.426 habitantes en 2024 en 227,3 millas cuadradas (588,8 kilómetros
+cuadrados), aproximadamente entre 15 y 20 millas al norte de Oxford, en el sureste de
+Inglaterra. Banbury, sede del ayuntamiento del distrito, y Bicester son los principales
+núcleos urbanos; Kidlington se cita como candidata a mayor aldea de Inglaterra. La mitad
+norte del distrito presenta colinas suavemente onduladas hacia el río Cherwell, mientras que
+el área sur en torno a Bicester es notablemente más llana, con el noroeste alcanzando el
+extremo norte de los Cotswolds. El distrito cuenta con la autopista M40 (salidas 9 a 11) y
+conexiones ferroviarias con Londres, Birmingham y Oxford. Bicester Village, un importante
+centro comercial de tipo outlet, es un empleador significativo del sector minorista, y el
+ayuntamiento del distrito trasladó su sede en 2025 desde Bodicote House al centro comercial
+Castle Quay en Banbury, como parte de una regeneración urbana en curso.
+
+## Posición en el Mercado Regional
+
+| Campo | Valor |
+|---|---|
+| Posición | 368 de 400 (Europa) |
+| Puntuación compuesta | 3,0 |
+| Clústeres de Nivel 1 | 0 |
+| Clústeres de Nivel 2 | 0 |
+| Clústeres de Nivel 3 | 2 |
+| Suburbio de | Oxford |
+
+El detalle a nivel de clúster — las anclas minoristas y cívicas específicas que componen cada
+uno de los dos clústeres de Nivel 3 de Cherwell — está pendiente del conjunto de datos SIG
+subyacente y no se incluye en este esbozo. Véase
+[[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]] para la lista clasificada
+completa y [[co-location-methodology|Metodología de Co-ubicación]] para conocer cómo se
+calcula la puntuación compuesta.
+
+## Véase también
+
+- [[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]]
+- [[about-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]]
+- [[co-location-methodology|Metodología de Co-ubicación]]
+
+## Referencias
+
+- [Cherwell District](https://en.wikipedia.org/wiki/Cherwell_District) — Wikipedia, consultado 2026-07-10
+
+*Contenido de Wikipedia reproducido bajo [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
