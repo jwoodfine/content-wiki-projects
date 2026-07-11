@@ -11,7 +11,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 keynote: false
-last_edited: 2026-06-29
+last_edited: 2026-07-11
 editor: woodfine-editorial
 short_description: "Ranked index of German regional commercial real estate markets meeting co-location screening thresholds."
 paired_with: markets/atlas-germany.es.md
@@ -19,11 +19,11 @@ paired_with: markets/atlas-germany.es.md
 
 The **Germany regional market index** ranks German cities and regional centres outside the
 seven primary commercial markets (Berlin, Hamburg, Munich, Cologne, Frankfurt, Stuttgart,
-Düsseldorf) that meet the population, income, and retail infrastructure thresholds established
-by the [[about-regional-markets-system|co-location regional market framework]]. Germany's federal structure
-and historically polycentric urban system produce an unusually large number of qualifying
-regional markets: mid-sized cities with independent economic bases, high household incomes,
-and established retail investment are distributed across all sixteen Bundesländer.
+Düsseldorf). Each meets the population, income, and retail infrastructure thresholds established
+by the [[about-regional-markets-system|co-location regional market framework]]. Germany's federal
+structure and historically polycentric urban system produce an unusually large number of
+qualifying regional markets. Mid-sized cities with independent economic bases, high household
+incomes, and established retail investment are distributed across all sixteen Bundesländer.
 
 ## National context
 

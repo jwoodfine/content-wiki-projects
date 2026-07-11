@@ -13,18 +13,18 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Central Ontario market, 90 km from Toronto — just outside the current Top-400 ranked pool's 80 km band."
 paired_with: markets/ca-on-barrie-innisfil.es.md
-last_edited: 2026-07-10
+last_edited: 2026-07-11
 editor: editorial
 ---
 
 Barrie, together with neighbouring Innisfil, does not currently appear in the North American
-Top-400 Regional Markets list — at roughly 90 kilometres from Toronto it sits just beyond the
+Top-400 Regional Markets list. At roughly 90 kilometres from Toronto it sits just beyond the
 80 km outer edge of the suburban-regional band the ranking uses.
 
 ## Overview
 
 According to Wikipedia (accessed 2026-07-10), Barrie had 147,829 residents at the 2021
-census (census metropolitan area 212,856) across 99.01 square kilometres, situated
+census (census metropolitan area 212,856) across 99.01 square kilometres. It is situated
 approximately 90 km north of Toronto in Central Ontario's Greater Golden Horseshoe region.
 The city functions as both a bedroom community for Toronto and an increasingly diversified
 economic centre, with employment concentrated in education, healthcare, information
@@ -33,15 +33,15 @@ Board, Georgian College, Royal Victoria Regional Health Centre, and technology f
 including IBM and BMO data centres. Park Place (formerly Molson Park) redeveloped former
 brewery lands into a commercial district beginning in 2008. Innisfil, immediately south of
 Barrie, is one of several communities — alongside New Tecumseth and Newmarket — that have
-developed rapidly since 2000; Barrie annexed 2,293 hectares from Innisfil in 2010.
+developed rapidly since 2000. Barrie annexed 2,293 hectares from Innisfil in 2010.
 
 ## Regional Market Standing
 
 Barrie–Innisfil does not currently appear in the [[atlas-top-400-north-america|Top 400
 Regional Markets — North America]] ranked list. This is not a data defect; at roughly 90 km
 from Toronto, the market falls just outside the 80 km outer boundary of
-[[about-regional-markets-system|the co-location scoring system's]] suburban-regional band,
-placing it in the standalone-secondary category instead.
+[[about-regional-markets-system|the co-location scoring system's]] suburban-regional band.
+It falls into the standalone-secondary category instead.
 
 ## See Also
 

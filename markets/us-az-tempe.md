@@ -13,7 +13,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Rank 35 North American Regional Market — suburb of Phoenix; composite score 9.0."
 paired_with: markets/us-az-tempe.es.md
-last_edited: 2026-07-10
+last_edited: 2026-07-11
 editor: editorial
 ---
 
@@ -25,18 +25,18 @@ typical suburban Regional Market in the index.
 ## Overview
 
 According to Wikipedia (accessed 2026-07-10), Tempe recorded a population of 180,587 at the
-2020 census across a land area of 39.94 square miles, situated approximately 2 miles
-northwest of Phoenix Sky Harbor International Airport and bordered by Mesa to the east and
+2020 census across a land area of 39.94 square miles. It sits approximately 2 miles
+northwest of Phoenix Sky Harbor International Airport, bordered by Mesa to the east and
 Phoenix to the west. Arizona State University is the leading employer with 8,010 employees,
-followed by State Farm Insurance (6,550) and Freedom Financial Network (2,300); the city
+followed by State Farm Insurance (6,550) and Freedom Financial Network (2,300). The city
 also hosts corporate headquarters including DriveTime, GoDaddy, and Carvana. Downtown
 redevelopment around Tempe Town Lake has reshaped the urban core, and the population has
 grown increasingly diverse — non-Hispanic white residents comprised 54 percent in 2020,
 alongside growing Asian (9.5 percent) and Hispanic (22 percent) populations.
 
 Notable commercial development includes the Arizona Mills shopping mall, the Tempe
-Marketplace open-air retail development, the first Arizona IKEA location, and the Mill
-Avenue pedestrian shopping district downtown.
+Marketplace open-air retail development, and the first Arizona IKEA location. The Mill
+Avenue pedestrian shopping district anchors downtown.
 
 ## Regional Market Standing
 

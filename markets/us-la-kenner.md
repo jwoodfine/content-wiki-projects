@@ -13,30 +13,29 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Rank 333 North American Regional Market — suburb of New Orleans; composite score 4.5."
 paired_with: markets/us-la-kenner.es.md
-last_edited: 2026-07-10
+last_edited: 2026-07-11
 editor: editorial
 ---
 
 Kenner, the largest incorporated suburb of New Orleans, ranks 333rd among the 400 North
-American Regional Markets with a composite score of 4.5. The city's position between Lake
-Pontchartrain and the Mississippi River, combined with Louis Armstrong New Orleans
-International Airport within its limits, gives it an unusual mix of airport-driven commerce
-and suburban retail.
+American Regional Markets with a composite score of 4.5. The city sits between Lake
+Pontchartrain and the Mississippi River. Louis Armstrong New Orleans International Airport
+lies within its limits, giving it an unusual mix of airport-driven commerce and suburban
+retail.
 
 ## Overview
 
 According to Wikipedia (accessed 2026-07-10), Kenner recorded a population of 66,448 at the
 2020 census across 15.11 square miles, making it the sixth-most populous city in Louisiana.
-The city sits in Jefferson Parish on the west side of Greater New Orleans; Louis Armstrong
+The city sits in Jefferson Parish on the west side of Greater New Orleans. Louis Armstrong
 New Orleans International Airport, located within city limits just south of Interstate 10,
 serves as a major economic driver. The Pontchartrain Center, a convention facility opened in
 1991, and retail destinations including The Esplanade Mall and Treasure Chest Casino anchor
 local commerce. Substantial growth began with swampland development in the late 1950s,
 accelerated by Interstate 10 construction through the 1960s. The city's racial composition
 has shifted markedly: by the 2020 census, Kenner was 40.01 percent non-Hispanic white, 30.01
-percent Hispanic or Latino, and 21.48 percent Black or African American, with a section of
-north Kenner known as "Little Honduras" reflecting significant Hispanic business
-development.
+percent Hispanic or Latino, and 21.48 percent Black or African American. A section of north
+Kenner known as "Little Honduras" reflects significant Hispanic business development.
 
 ## Regional Market Standing
 

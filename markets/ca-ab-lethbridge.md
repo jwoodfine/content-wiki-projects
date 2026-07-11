@@ -13,34 +13,34 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Southern Alberta market, 215 km from Calgary — outside the current Top-400 ranked pool."
 paired_with: markets/ca-ab-lethbridge.es.md
-last_edited: 2026-07-10
+last_edited: 2026-07-11
 editor: editorial
 ---
 
 Lethbridge, southern Alberta's commercial and industrial centre, does not currently appear in
-the North American Top-400 Regional Markets list — at 215 kilometres from Calgary it sits
-well outside the 15–80 km suburban-regional band the ranking uses, making it a
-standalone-secondary market rather than a suburb of a major metro core.
+the North American Top-400 Regional Markets list. At 215 kilometres from Calgary it sits well
+outside the 15–80 km suburban-regional band the ranking uses, making it a standalone-secondary
+market rather than a suburb of a major metro core.
 
 ## Overview
 
 According to Wikipedia (accessed 2026-07-10), Lethbridge recorded 106,550 residents in the
-2023 municipal census (98,406 at the 2021 federal census) across 121.12 square kilometres,
-situated approximately 215 km southeast of Calgary, 169 km west of Medicine Hat, and 105 km
+2023 municipal census (98,406 at the 2021 federal census) across 121.12 square kilometres. It
+is situated approximately 215 km southeast of Calgary, 169 km west of Medicine Hat, and 105 km
 northwest of the Canada–US border. The city functions as southern Alberta's commercial,
-distribution, financial, and industrial centre, with employment concentrated in health,
-education, retail, and hospitality; government ranks among the top five employers. The
-economy evolved from coal mining and agriculture in the late 1800s to a diversified
-service-based model. Park Place Mall occupies former rail-yard land between Scenic Drive and
-Stafford Drive. Known as "The Windy City," Lethbridge has the second-highest count of
-high-wind days of any Canadian city.
+distribution, financial, and industrial centre. Employment concentrates in health, education,
+retail, and hospitality; government ranks among the top five employers. The economy evolved
+from coal mining and agriculture in the late 1800s to a diversified service-based model. Park
+Place Mall occupies former rail-yard land between Scenic Drive and Stafford Drive. Known as
+"The Windy City," Lethbridge has the second-highest count of high-wind days of any Canadian
+city.
 
 ## Regional Market Standing
 
 Lethbridge does not currently appear in the [[atlas-top-400-north-america|Top 400 Regional
-Markets — North America]] ranked list — its distance from Calgary places it outside the
-15–80 km suburban-regional band the ranking applies. This is not a data defect; it reflects
-the market's classification as standalone-secondary rather than suburban-regional under
+Markets — North America]] ranked list. Its distance from Calgary places it outside the 15–80 km
+suburban-regional band the ranking applies. This is not a data defect; it reflects the market's
+classification as standalone-secondary rather than suburban-regional under
 [[about-regional-markets-system|the co-location scoring system's]] own taxonomy.
 
 ## See Also

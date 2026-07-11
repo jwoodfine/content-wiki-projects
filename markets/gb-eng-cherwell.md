@@ -13,7 +13,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Rank 368 European Regional Market — suburb of Oxford; composite score 3.0."
 paired_with: markets/gb-eng-cherwell.es.md
-last_edited: 2026-07-10
+last_edited: 2026-07-11
 editor: editorial
 ---
 
@@ -25,14 +25,14 @@ support its two Tier 3 co-location clusters.
 ## Overview
 
 According to Wikipedia (accessed 2026-07-10), Cherwell district had a population of 170,426
-in 2024 across 227.3 square miles (588.8 square kilometres), roughly 15 to 20 miles north of
-Oxford in South East England. Banbury, where the district council is based, and Bicester are
-the primary towns; Kidlington is cited as a contender for the largest village in England. The
-northern half of the district features gently rolling hills toward the River Cherwell, while
-the southern area around Bicester is notably flatter, with the northwest reaching the
-northern extent of the Cotswolds. The district is served by the M40 motorway (junctions 9
-through 11) and rail links to London, Birmingham, and Oxford. Bicester Village, a major
-outlet shopping destination, is a significant employer in the retail sector, and the district
+in 2024 across 227.3 square miles (588.8 square kilometres). It sits roughly 15 to 20 miles
+north of Oxford in South East England. Banbury, where the district council is based, and
+Bicester are the primary towns; Kidlington is cited as a contender for the largest village in
+England. The northern half of the district features gently rolling hills toward the River
+Cherwell, while the southern area around Bicester is notably flatter, with the northwest
+reaching the northern extent of the Cotswolds. The district is served by the M40 motorway
+(junctions 9 through 11) and rail links to London, Birmingham, and Oxford. Bicester Village, a
+major outlet shopping destination, is a significant employer in the retail sector. The district
 council relocated its headquarters in 2025 from Bodicote House to the Castle Quay shopping
 centre in Banbury as part of ongoing urban regeneration.
 

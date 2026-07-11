@@ -13,21 +13,21 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Thuringia's state capital — outside the current Top-400 ranked pool (no nearby major metro core)."
 paired_with: markets/de-th-erfurt.es.md
-last_edited: 2026-07-10
+last_edited: 2026-07-11
 editor: editorial
 ---
 
 Erfurt, the capital of Thuringia, does not currently appear in the European Top-400 Regional
-Markets list, and unlike Ulm, Augsburg, Nuremberg, and Bielefeld it also does not function as
+Markets list. Unlike Ulm, Augsburg, Nuremberg, and Bielefeld, it also does not function as
 a metro-core reference point for any other market in the current build.
 
 ## Overview
 
 According to Wikipedia (accessed 2026-07-10), Erfurt had approximately 218,793 residents as
-of December 2024 across 269.17 square kilometres — the 10th-largest city in Germany by area
-— situated 100 km southwest of Leipzig and 250 km northeast of Frankfurt, in the Thuringian
+of December 2024 across 269.17 square kilometres — the 10th-largest city in Germany by area.
+It is situated 100 km southwest of Leipzig and 250 km northeast of Frankfurt, in the Thuringian
 Basin north of the Thuringian Forest. The city's economy is based on agriculture,
-horticulture, and microelectronics; Erfurt functions as a logistics hub and hosts the
+horticulture, and microelectronics. Erfurt functions as a logistics hub and hosts the
 second-largest trade fair in eastern Germany after Leipzig, alongside high-speed rail
 connections and the children's television channel KiKa. As Thuringia's state capital, Erfurt
 features one of the best-preserved medieval city centres in Germany alongside East
@@ -40,7 +40,7 @@ Erfurt does not currently appear in the [[atlas-top-400-europe|Top 400 Regional 
 Europe]] list, and — unlike Ulm, Augsburg, Nuremberg, or Bielefeld — it does not appear as a
 metro-core reference point for any other ranked entry either. This most plausibly reflects a
 gap in the current OSM-derived build for the Thuringia region rather than a deliberate
-exclusion; it is tracked here as a market whose classification under
+exclusion. It is tracked here as a market whose classification under
 [[about-regional-markets-system|the co-location scoring system's]] taxonomy is not yet
 resolved.
 

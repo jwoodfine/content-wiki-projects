@@ -11,19 +11,19 @@ audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 keynote: false
-last_edited: 2026-06-29
+last_edited: 2026-07-11
 editor: woodfine-editorial
 short_description: "Ranked index of UK regional commercial real estate markets meeting co-location screening thresholds outside London and the South East."
 paired_with: markets/atlas-united-kingdom.es.md
 ---
 
 The **United Kingdom regional market index** ranks UK cities and towns outside London and
-the wider South East that meet the population, income, and retail infrastructure thresholds
+the wider South East. Each meets the population, income, and retail infrastructure thresholds
 established by the [[about-regional-markets-system|co-location regional market framework]]. The UK offers
-a geographically concentrated but economically diverse set of qualifying regional markets:
-mid-sized cities across England, Scotland, and Wales with independent economic bases, retail
-park infrastructure, and professional demand anchored by the National Health Service, higher
-education institutions, and regional private sector employment.
+a geographically concentrated but economically diverse set of qualifying regional markets: mid-sized
+cities across England, Scotland, and Wales with independent economic bases and retail park
+infrastructure. Professional demand is anchored by the National Health Service, higher education
+institutions, and regional private sector employment.
 
 ## National context
 
@@ -33,9 +33,9 @@ concentrated in secondary and tertiary town centres, creating conditions where p
 professional centre co-location outside traditional commercial cores is increasingly viable.
 
 The National Health Service functions as a significant anchor for professional demand in UK
-regional markets: large NHS trusts in cities of 100,000 and above generate consistent demand
-for specialist medical, legal, financial, and administrative services that populate professional
-centre tenant mixes.
+regional markets. Large NHS trusts in cities of 100,000 and above generate consistent demand
+for specialist medical, legal, financial, and administrative services, and these populate
+professional centre tenant mixes.
 
 The UK retail park format — large-format out-of-town retail combining grocery, DIY, and
 general merchandise — is the primary [[power-centres|power centre]] analogue. The presence of Costco, B&Q, or

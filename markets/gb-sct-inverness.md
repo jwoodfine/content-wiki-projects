@@ -13,24 +13,24 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Scottish Highlands capital, well beyond commuting distance of Edinburgh or Glasgow — outside the current Top-400 ranked pool."
 paired_with: markets/gb-sct-inverness.es.md
-last_edited: 2026-07-10
+last_edited: 2026-07-11
 editor: editorial
 ---
 
 Inverness, the northernmost city in the United Kingdom, does not currently appear in the
-European Top-400 Regional Markets list — its distance from Edinburgh and Glasgow, the
+European Top-400 Regional Markets list. Its distance from Edinburgh and Glasgow, the
 nearest major metros, is far beyond the 80 km outer edge of the suburban-regional band the
 ranking uses.
 
 ## Overview
 
 According to Wikipedia (accessed 2026-07-10), Inverness had 47,790 residents in 2020 (Greater
-Inverness 65,210 in 2021) across 24.3 square kilometres, situated at the mouth of the River
-Ness in the Scottish Highlands and connected to Edinburgh and Glasgow via the A9 and A82
+Inverness 65,210 in 2021) across 24.3 square kilometres. It sits at the mouth of the River
+Ness in the Scottish Highlands and connects to Edinburgh and Glasgow via the A9 and A82
 trunk roads. Between 1998 and 2008, the city and the wider central Highlands recorded the
 largest growth in average economic productivity per person in Scotland. Traditional
 industries such as distilling have largely given way to technology and medical sectors,
-including diabetes-diagnostic manufacturing by LifeScan; major employers include Scottish
+including diabetes-diagnostic manufacturing by LifeScan. Major employers include Scottish
 Natural Heritage (relocated from Edinburgh), Highlands and Islands Enterprise, and Raigmore
 Hospital. The Inverness Campus, a flagship development combining academic buildings, business
 incubation units, sports facilities, and residential space, is projected to contribute over
