@@ -2,80 +2,65 @@
 schema: foundry-doc-v1
 title: "Warrington Regional Market"
 slug: gb-eng-warrington
+language: en
+language_protocol: PROSE-TOPIC
 category: markets
-type: topic
+type: reference
 content_type: topic
 quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-language_protocol: PROSE-TOPIC
-keynote: false
-last_edited: 2026-06-29
-editor: woodfine-editorial
-short_description: "Cheshire junction town with a large and diversified professional services base positioned between Manchester and Liverpool, with strong nuclear energy and logistics anchors."
+short_description: "Rank 294 European Regional Market — suburb of Wigan; composite score 4.5."
 paired_with: markets/gb-eng-warrington.es.md
+last_edited: 2026-07-10
+editor: editorial
 ---
 
-The **Warrington regional market** is a large English town in Cheshire positioned at the
-intersection of the M6 and M62 motorways between Manchester (approximately 25 km to the
-east) and Liverpool (approximately 25 km to the west). The Warrington unitary authority had
-a population of approximately 210,000 in 2021. Warrington is one of England's designated
-New Towns (expanded from 1968 under the New Towns programme) and has developed into one of
-the UK's most strategically positioned commercial and logistics towns outside of the major
-metropolitan centres.
+Warrington, a Cheshire New Town positioned between Manchester and Liverpool, ranks 294th
+among the 400 European Regional Markets with a composite score of 4.5. A transition from
+heavy industry to retail, distribution, and technology employment underpins one Tier 2 and
+one Tier 3 co-location cluster.
 
-## Economic profile
+## Overview
 
-Warrington's economy is anchored by three distinctive sectors: nuclear energy, logistics
-and distribution, and professional services. The United Kingdom Atomic Energy Authority
-(UKAEA) and National Nuclear Laboratory maintain significant operations in and around
-Warrington, with the Sellafield and Springfields nuclear facilities' support functions
-concentrated in the town. Warrington hosts nuclear engineering consultancies, regulatory
-affairs specialists, decommissioning project management firms, and supply chain companies
-that serve the UK's nuclear estate — creating a professional services demand layer unusual
-for a town of this population.
+According to Wikipedia (accessed 2026-07-10), Warrington recorded a population of 174,970
+for the built-up area at the 2021 census (210,900 across the wider borough), covering 44.89
+square kilometres, situated 16 miles east of Liverpool and 16 miles west of Manchester;
+Wikipedia's article does not specify the distance to Wigan. Major employers include
+Warrington Council, Warrington & Halton Hospitals NHS Foundation Trust, a large Unilever
+detergent factory, and ESR Technology. The town transitioned from heavy industry — steel,
+wire, textiles, brewing, chemicals — to light industry, retail, distribution, and technology
+following decline in the 1970s and 1980s. The Golden Square Shopping Centre opened in 1974
+and has since been extended; Time Square, a £142 million development completed in 2020,
+includes a market, cinema, retail, and parking. Warrington was IKEA's first UK store location
+when the retailer entered the market in 1987.
 
-The M62/M6 junction position makes Warrington a natural distribution hub, and the Omega
-Business Park and Birchwood Park developments have attracted logistics operators, technology
-companies, and business services firms seeking North West England distribution points
-equidistant between Manchester and Liverpool.
+## Regional Market Standing
 
-Warrington and Halton Teaching Hospitals NHS Foundation Trust operates Warrington Hospital
-as the primary acute care facility, and the town's National Health Service employment adds
-a stable institutional demand anchor. The University of Chester operates a Warrington
-campus with approximately 3,000 students.
+| Field | Value |
+|---|---|
+| Rank | 294 of 400 (Europe) |
+| Composite score | 4.5 |
+| Tier 1 clusters | 0 |
+| Tier 2 clusters | 1 |
+| Tier 3 clusters | 1 |
+| Suburb of | Wigan |
 
-## Commercial real estate characteristics
+Cluster-level detail — the specific retail and civic anchors composing each of Warrington's
+co-location clusters — is pending the underlying GIS dataset and is not included in this
+stub. See [[atlas-top-400-europe|Top 400 Regional Markets — Europe]] for the full ranked
+list and [[co-location-methodology|Co-location Methodology]] for how the composite score is
+derived.
 
-Warrington's primary retail park infrastructure is at the Gemini Retail Park in Warrington,
-adjacent to the M62 junction 8/9, where Marks & Spencer, Next, Currys, Homebase, Lidl,
-and Costco (at the Cockhedge Park expansion) anchor the large-format retail zone. The
-Golden Square Shopping Centre in the town centre is the primary enclosed retail facility.
+## See Also
 
-Birchwood Park and Omega Business Park are the two major commercial property developments
-in Warrington. Birchwood, originally developed alongside the Risley nuclear facility, now
-hosts a diverse mix of technology firms, engineering consultancies, and business services
-companies. Omega, developed from the early 2010s at the M62/A49 junction, has become the
-primary location for large-floor-plate back-office and distribution operations.
+- [[atlas-top-400-europe|Top 400 Regional Markets — Europe]]
+- [[about-regional-markets-system|Regional Markets Intelligence System]]
+- [[co-location-methodology|Co-location Methodology]]
 
-Professional office demand in Warrington is driven by nuclear engineering and project
-management, logistics sector management, financial services back-office, and legal/insurance
-services. The combination of nuclear industry professional demand and logistics management
-creates an above-average professional services market for a town of this size.
+## References
 
-## Key indicators
+- [Warrington](https://en.wikipedia.org/wiki/Warrington) — Wikipedia, accessed 2026-07-10
 
-| Indicator | Value | Notes |
-|---|---|---|
-| Unitary authority population (2021) | ~210,000 | Warrington unitary authority |
-| Primary retail park | Gemini Retail Park (M62 junction 8/9) | M&S, Next, Currys, Costco anchors |
-| Major institutional anchors | UKAEA / National Nuclear Laboratory; Warrington Hospital NHS; Birchwood Park tenants | Nuclear sector as distinctive professional demand |
-| Primary business parks | Birchwood Park; Omega Business Park | Technology, engineering, logistics anchors |
-| Road access | M6 (north–south, junction 21a/22); M62 (east–west, junction 9); A49, A57 | M6/M62 interchange town |
-
-## See also
-
-- [[atlas-united-kingdom]] — UK regional market index
-- [[atlas-top-600-europe]] — the European master market index
-- [[about-regional-markets]] — the co-location framework and market selection criteria
+*Wikipedia content reproduced under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*

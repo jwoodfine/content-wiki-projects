@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Mercado regional de Valladolid"
 slug: es-cl-valladolid
+language: es
+language_protocol: TRANSLATE-ES
 category: markets
 type: topic
 content_type: topic
@@ -9,65 +11,48 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-language_protocol: TRANSLATE-ES
-keynote: false
-last_edited: 2026-06-29
-editor: woodfine-editorial
-short_description: "La ciudad más grande de Castilla y León con una importante base de manufactura automotriz, la función de capital regional y una infraestructura minorista de gran formato consolidada."
+short_description: "La ciudad más grande de Castilla y León, a 235 km de Madrid — fuera del conjunto clasificado Top-400 actual."
 paired_with: markets/es-cl-valladolid.md
+last_edited: 2026-07-10
+editor: editorial
 ---
 
-El **mercado regional de Valladolid** es la ciudad más grande de Castilla y León y la capital
-de facto de la comunidad autónoma. El municipio de Valladolid tenía una población de
-aproximadamente 299.000 habitantes en 2021, y el área metropolitana se extiende a
-aproximadamente 430.000–450.000 personas. Valladolid es la décima ciudad más grande de
-España y ocupa una posición estratégica en la autovía A-62 que conecta Madrid (aproximadamente
-a 190 km al sureste) con la frontera portuguesa y Salamanca.
+Valladolid no aparece actualmente en la lista Top-400 de Mercados Regionales de Europa — a
+unos 235 kilómetros de Madrid se sitúa muy fuera de la banda suburbano-regional de 15 a 80 km
+que utiliza la clasificación.
 
-## Perfil económico
+## Descripción general
 
-Valladolid es el centro del principal clúster de manufactura automotriz de España. La planta
-FASA de Renault en Valladolid ha estado produciendo vehículos en la ciudad desde 1951 y sigue
-siendo una de las instalaciones de exportación automotriz más importantes de España, empleando
-aproximadamente a 7.000 personas directamente. La sede de Renault España también está ubicada
-en Valladolid. La presencia de Renault ha atraído un ecosistema completo de proveedores:
-Michelin (planta de producción de neumáticos), Iveco (montaje de camiones) y un gran número
-de fabricantes de componentes automotrices.
+Según Wikipedia (consultado el 10 de julio de 2026), la ciudad propia de Valladolid tenía
+299.816 habitantes a fecha de 2024 en 197,47 kilómetros cuadrados — el municipio más poblado
+de su región —, situada en el centro-norte de España, a unos 235 km al norte de Madrid (un
+trayecto de 56 minutos en tren de alta velocidad), en la confluencia de los ríos Pisuerga y
+Esgueva, a aproximadamente 735 metros de altitud. La ciudad es un importante centro económico
+de España; la manufactura domina, particularmente el sector automotriz a través de Renault
+España e Iveco, aunque el sector servicios representa la mayor proporción del empleo, con un
+74,2%. El procesamiento de alimentos, la metalurgia y la manufactura química también
+contribuyen de forma significativa. Según la facturación de 2013, las empresas líderes
+incluían Renault (4.596 millones de euros), Michelin (2.670 millones de euros) e Iveco (1.600
+millones de euros). El área metropolitana abarca aproximadamente 406.923 habitantes en 16
+municipios, y el crecimiento contemporáneo ha impulsado a los residentes jóvenes hacia
+localidades cercanas debido a los altos precios en el propio municipio.
 
-La Junta de Castilla y León opera desde Valladolid, convirtiéndola en la capital política
-y administrativa de facto de la comunidad autónoma. Esta concentración gubernamental crea
-demanda de servicios profesionales en derecho, administración pública, contabilidad e
-informática.
+## Posición en el Mercado Regional
 
-La Universidad de Valladolid, una de las universidades más antiguas y grandes de España
-(fundada en 1241), tiene aproximadamente 28.000 estudiantes en múltiples campus. El Hospital
-Clínico Universitario de Valladolid es el principal hospital universitario.
-
-## Características del mercado inmobiliario comercial
-
-La concentración de comercio minorista de gran formato de Valladolid está en el Parque
-Comercial Vallsur (sur) y el Parque Comercial El Tormes (sur), con IKEA, Leroy Merlin,
-Carrefour y MediaMarkt como anclas. El Parque Comercial Vallsur es uno de los parques
-comerciales más grandes de Castilla y León.
-
-El Paseo de la Independencia y la Calle Santiago en el centro histórico son el corredor
-primario de servicios profesionales y comercio minorista tradicional. La zona Campo Grande /
-Acera de Recoletos es el principal distrito central de negocios de Valladolid, con
-instituciones financieras, bufetes de abogados y servicios profesionales relacionados con
-el gobierno concentrados en las principales avenidas.
-
-## Indicadores clave
-
-| Indicador | Valor | Notas |
-|---|---|---|
-| Población municipal (2021) | ~299.000 | Municipio de Valladolid |
-| Población del área metropolitana | ~430.000–450.000 | Área metropolitana de Valladolid |
-| Concentración primaria de parque comercial | Parque Comercial Vallsur (SE); El Tormes (S) | IKEA, Leroy Merlin, Carrefour, MediaMarkt |
-| Principales anclas institucionales | Planta + sede Renault FASA; Junta de Castilla y León; Universidad de Valladolid | Doble ancla automotriz + gobierno |
-| Acceso a autovías | A-62 (Madrid–Salamanca–Portugal); A-11 (Soria); A-60 (Palencia/Burgos) | Centro del norte-centro de España |
+Valladolid no aparece actualmente en la lista [[atlas-top-400-europe|Top 400 Mercados
+Regionales — Europa]]. Esto no es un defecto de datos; su distancia de unos 235 km respecto a
+Madrid la sitúa fuera de la banda suburbano-regional de 15 a 80 km de
+[[about-regional-markets-system|el sistema de puntuación de co-ubicación]], clasificándola
+como independiente-secundaria.
 
 ## Véase también
 
-- [[atlas-spain]] — índice del mercado regional de España
-- [[atlas-top-600-europe]] — el índice maestro de mercados europeos
-- [[about-regional-markets]] — el marco de co-ubicación y los criterios de selección de mercados
+- [[about-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]]
+- [[atlas-spain|Índice de Mercados Regionales de España]]
+- [[co-location-methodology|Metodología de Co-ubicación]]
+
+## Referencias
+
+- [Valladolid](https://en.wikipedia.org/wiki/Valladolid) — Wikipedia, consultado 2026-07-10
+
+*Contenido de Wikipedia reproducido bajo [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*

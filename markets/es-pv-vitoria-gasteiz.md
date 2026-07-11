@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Vitoria-Gasteiz Regional Market"
 slug: es-pv-vitoria-gasteiz
+language: en
+language_protocol: PROSE-TOPIC
 category: markets
 type: topic
 content_type: topic
@@ -9,68 +11,47 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-language_protocol: PROSE-TOPIC
-keynote: false
-last_edited: 2026-06-29
-editor: woodfine-editorial
-short_description: "Capital of the Basque Country with Spain's highest regional household income, a concentration of automotive manufacturing, and the Basque regional government administration."
+short_description: "Basque Country capital — outside the current Top-400 ranked pool (no nearby major metro core in the dataset)."
 paired_with: markets/es-pv-vitoria-gasteiz.es.md
+last_edited: 2026-07-10
+editor: editorial
 ---
 
-The **Vitoria-Gasteiz regional market** is the capital of both the Province of Álava and
-the Basque Autonomous Community (*Euskadi/País Vasco*), Spain's highest-income autonomous
-community. The municipality of Vitoria-Gasteiz had a population of approximately 250,000
-in 2021, making it the most populous city in Álava and the third-largest city in the
-Basque Country after Bilbao and San Sebastián. The Basque Country consistently records
-household income levels 30–40% above the Spanish national average, placing Vitoria-Gasteiz
-in the highest income tier for any Spanish market of this population scale.
+Vitoria-Gasteiz, capital of the Basque Country, does not currently appear in the European
+Top-400 Regional Markets list.
 
-## Economic profile
+## Overview
 
-The Basque Government (*Eusko Jaurlaritza*) is headquartered in Vitoria-Gasteiz and employs
-a large portion of the regional public administration, creating professional service demand
-in law, public administration, accounting, IT, and Basque-language services (the Basque
-Government has a bilingual Spanish/Basque institutional requirement). The presence of the
-Basque Parliament and the full complement of regional ministries makes Vitoria-Gasteiz the
-government-services hub of the Basque Country even as Bilbao dominates commercial and
-financial activity.
+According to Wikipedia (accessed 2026-07-10), Vitoria-Gasteiz had 260,402 residents as of
+2025 across 276.96 square kilometres — the second most populous city in the Basque Country
+and the 17th-largest in Spain — situated in Álava Province and serving as the capital and
+seat of government for the autonomous community. The economy is notably diverse, with
+strengths in healthcare, aeronautics, automotive manufacturing, and viticulture; major
+employers include Mercedes-Benz, Michelin, Gamesa (renewable energy), and Heraclio Fournier
+(playing-card manufacturer, headquartered locally). Vitoria Airport ranks fourth nationally
+in cargo traffic. Foreign-born residents comprise 18.1 percent of the population (47,206
+people), with the largest origin countries Colombia, Morocco, and Algeria. The city was
+recognized as Europe's Green Capital in 2012 and consistently ranks first nationally in green
+areas per capita, alongside a consistently high standard-of-living ranking among Spanish
+municipalities.
 
-The Álava industrial zone to the south and southeast of Vitoria-Gasteiz is one of the most
-productive industrial zones in Spain. Mercedes-Benz Buses (formerly Irizar competitor
-EvoBus) and a comprehensive automotive supplier ecosystem are located in the Jundiz and
-Gamarra industrial parks. Michelin operates a major tyre manufacturing plant. The Basque
-Country's *concierto económico* fiscal system — similar to Navarre's and by which the
-Basque territories collect and administer their own taxes — creates additional professional
-services complexity and demand compared with common-regime Spanish provinces.
+## Regional Market Standing
 
-The University of the Basque Country (*Universidad del País Vasco/Euskal Herriko
-Unibertsitatea*, UPV/EHU) has a campus in Vitoria-Gasteiz focusing on business, law, and
-health sciences; the main campuses are in Bilbao and San Sebastián. Hospital Universitario
-de Álava (formerly Txagorritxu) is the primary public hospital.
+Vitoria-Gasteiz does not currently appear in the [[atlas-top-400-europe|Top 400 Regional
+Markets — Europe]] list, and Wikipedia's coverage does not place it within a stated distance
+of a single dominant major metro. This is not a data defect; it reflects either a gap in the
+current OSM-derived build for the Basque Country or the city's function as its own regional
+capital rather than a suburb, consistent with
+[[about-regional-markets-system|the co-location scoring system's]] taxonomy.
 
-## Commercial real estate characteristics
+## See Also
 
-Vitoria-Gasteiz's primary large-format retail is at the Parque Comercial Gorbeia to the
-south of the city, adjacent to the industrial zone, anchored by Leroy Merlin, MediaMarkt,
-Carrefour, and Decathlon. The El Boulevard shopping centre in the city centre is the
-enclosed retail anchor. El Corte Inglés maintains a presence in the central city zone.
+- [[about-regional-markets-system|Regional Markets Intelligence System]]
+- [[atlas-spain|Spain Regional Market Index]]
+- [[co-location-methodology|Co-location Methodology]]
 
-The Vitoria-Gasteiz city centre — the historic *Almendra* medieval core — is the primary
-professional services zone, with legal, financial, notarial, and Basque-Government-adjacent
-services concentrated around the Calle Dato and Calle Eduardo Dato commercial axis.
+## References
 
-## Key indicators
+- [Vitoria-Gasteiz](https://en.wikipedia.org/wiki/Vitoria-Gasteiz) — Wikipedia, accessed 2026-07-10
 
-| Indicator | Value | Notes |
-|---|---|---|
-| Municipal population (2021) | ~250,000 | Municipality of Vitoria-Gasteiz |
-| Income profile | Highest autonomous community in Spain (Basque Country) | Concierto económico fiscal system premium |
-| Primary retail park | Parque Comercial Gorbeia (south) | Leroy Merlin, MediaMarkt, Carrefour anchors |
-| Major institutional anchors | Eusko Jaurlaritza (Basque Government); Michelin; Mercedes-Benz Buses; Hospital Universitario de Álava | Government + manufacturing dual anchor |
-| Autovía access | A-1 (Madrid–Burgos–Vitoria); AP-68 (Bilbao–Logroño); A-2124 (San Sebastián) | Basque–Castile highway junction |
-
-## See also
-
-- [[atlas-spain]] — Spain regional market index
-- [[atlas-top-600-europe]] — the European master market index
-- [[about-regional-markets]] — the co-location framework and market selection criteria
+*Wikipedia content reproduced under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*

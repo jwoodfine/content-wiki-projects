@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Mercado regional de Kelowna"
 slug: ca-bc-kelowna
+language: es
+language_protocol: TRANSLATE-ES
 category: markets
 type: topic
 content_type: topic
@@ -9,71 +11,48 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-language_protocol: TRANSLATE-ES
-keynote: false
-last_edited: 2026-06-29
-editor: woodfine-editorial
-short_description: "Mercado del Valle de Okanagan con el mayor ingreso per cápita entre los centros urbanos del interior de Columbia Británica y una base consolidada de power centres."
+short_description: "Mercado del valle de Okanagan, a 390 km de Vancouver — fuera del conjunto clasificado Top-400 actual."
 paired_with: markets/ca-bc-kelowna.md
+last_edited: 2026-07-10
+editor: editorial
 ---
 
-El **mercado regional de Kelowna** comprende la ciudad de Kelowna y sus comunidades satélite
-inmediatas — West Kelowna, Lake Country y Peachland — en el Distrito Regional de Okanagan
-Central, Columbia Británica. El Área Metropolitana del Censo de Kelowna tenía una población
-de aproximadamente 222.000 habitantes en 2021, lo que la convierte en la segunda área urbana
-más grande en el interior de Columbia Británica. Kelowna es identificada sistemáticamente
-como uno de los mercados de tamaño medio con mayores ingresos en Columbia Británica y es el
-centro de servicios regional para el Valle de Okanagan.
+Kelowna, el centro comercial del valle de Okanagan en Columbia Británica, no aparece
+actualmente en la lista Top-400 de Mercados Regionales de América del Norte — a 390
+kilómetros de Vancouver se sitúa muy fuera de la banda suburbano-regional de 15 a 80 km que
+utiliza la clasificación.
 
-## Perfil económico
+## Descripción general
 
-La economía de Kelowna está anclada por una base diversificada de servicios profesionales
-con la agricultura (frutas de árbol, viticultura), la tecnología, el turismo, la jubilación
-y la atención sanitaria como sectores primarios. El Hospital General de Kelowna es el mayor
-empleador y actúa como centro de atención terciaria de referencia para Interior Health
-Authority, generando una demanda constante de servicios médicos especializados, jurídicos,
-financieros y administrativos.
+Según Wikipedia (consultado el 10 de julio de 2026), la ciudad propia de Kelowna tenía
+165.907 habitantes a fecha de 2025 (área metropolitana censal 254.605) en 214 kilómetros
+cuadrados, situada en el interior sur de Columbia Británica, a orillas del lago Okanagan,
+aproximadamente a 390 km al este de Vancouver. El sector servicios domina el empleo en esta
+región orientada al turismo; el turismo genera aproximadamente 1.000 millones de dólares al
+año. Los principales sectores incluyen la producción vitivinícola, el ocio al aire libre
+(esquí, náutica, golf) y la manufactura ligera, junto con el campus Okanagan de la UBC y el
+Okanagan College. Orchard Park Shopping Centre es el complejo comercial dominante de la
+región. Kelowna es la tercera área metropolitana más grande de Canadá tras Vancouver y
+Victoria dentro de Columbia Británica, y el séptimo municipio más grande de la provincia en
+general.
 
-El sector tecnológico se ha expandido significativamente desde 2015, con un grupo de empresas
-de software y trabajo remoto atraídas por el perfil de calidad de vida, los costos
-inmobiliarios más bajos en relación con Metro Vancouver y la presencia del campus de la
-Universidad de Columbia Británica en Okanagan. Kelowna también se beneficia de una sustancial
-población de jubilados y semi-jubilados cuya demanda de servicios médicos, gestión de activos
-y planificación patrimonial ancla la ocupación de servicios profesionales.
+## Posición en el Mercado Regional
 
-## Características del mercado inmobiliario comercial
-
-El nodo primario de [[power-centres|power centre]] en Kelowna se concentra a lo largo de Harvey Avenue
-(Highway 97) y el área de Orchard Park, con Costco, Home Depot, Walmart y Canadian Tire
-como anclas del comercio minorista de gran formato. El Orchard Park Shopping Centre es el
-centro comercial cerrado dominante para la región de Okanagan, atrayendo compradores de
-todo el valle.
-
-La oferta de oficinas en el mercado de Kelowna incluye espacio profesional en el centro de
-la ciudad a lo largo de Bernard Avenue y el nodo de Pandosy Village, así como parques
-profesionales suburbanos en las zonas de Mission y Kelowna sur. Los consultorios médicos y
-dentales se concentran en grupos cerca del hospital y en parques profesionales establecidos.
-
-## Zona de captación regional
-
-La zona de captación comercial de Kelowna se extiende significativamente más allá del límite
-del AMA. La ausencia de comercio minorista de gran formato y servicios profesionales
-comparables entre Kelowna y Penticton (al sur), Vernon (al norte) y el Shuswap (al noreste)
-significa que Kelowna sirve como destino predeterminado para bienes y servicios de orden
-superior en una zona de captación de aproximadamente 350.000–400.000 personas.
-
-## Indicadores clave
-
-| Indicador | Valor | Notas |
-|---|---|---|
-| Población del AMA (2021) | ~222.000 | AMA de Okanagan Central |
-| Crecimiento poblacional 2016–2021 | ~13% | Entre los AMA de mayor crecimiento en BC |
-| Corredor comercial primario | Harvey Avenue / Orchard Park | Anclas nacionales principales |
-| Zona de captación ampliada | ~350.000–400.000 | Atracción regional del Valle de Okanagan |
-| Principal ancla institucional | Hospital General de Kelowna (Interior Health) | Atención terciaria para el interior sur |
+Kelowna no aparece actualmente en la lista clasificada
+[[atlas-top-400-north-america|Top 400 Mercados Regionales — América del Norte]] — su
+distancia respecto a Vancouver la sitúa fuera de la banda suburbano-regional de 15 a 80 km
+que aplica la clasificación. Esto no es un defecto de datos; refleja la clasificación del
+mercado como independiente-secundario en lugar de suburbano-regional según la propia
+taxonomía de [[about-regional-markets-system|el sistema de puntuación de co-ubicación]].
 
 ## Véase también
 
-- [[atlas-canada]] — índice del mercado regional de Canadá y cobertura provincial
-- [[atlas-top-600-north-america]] — el índice maestro de mercados norteamericanos
-- [[about-regional-markets]] — el marco de co-ubicación y los criterios de selección de mercados
+- [[about-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]]
+- [[atlas-canada|Índice de Mercados Regionales de Canadá]]
+- [[co-location-methodology|Metodología de Co-ubicación]]
+
+## Referencias
+
+- [Kelowna](https://en.wikipedia.org/wiki/Kelowna) — Wikipedia, consultado 2026-07-10
+
+*Contenido de Wikipedia reproducido bajo [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*

@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Mercado regional de Spokane"
 slug: us-wa-spokane
+language: es
+language_protocol: TRANSLATE-ES
 category: markets
 type: topic
 content_type: topic
@@ -9,71 +11,48 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-language_protocol: TRANSLATE-ES
-keynote: false
-last_edited: 2026-06-29
-editor: woodfine-editorial
-short_description: "Centro del Noroeste interior de EE. UU. que sirve a una zona de captación triestatal con atención médica, educación superior y gobierno como los principales anclas de demanda profesional."
+short_description: "Segunda ciudad más grande del este de Washington, a 280 millas de Seattle — fuera del conjunto clasificado Top-400 actual."
 paired_with: markets/us-wa-spokane.md
+last_edited: 2026-07-10
+editor: editorial
 ---
 
-El **mercado regional de Spokane** es el centro comercial dominante en el Noroeste interior
-de EE. UU., que comprende la ciudad de Spokane y el Valle de Spokane en el este del estado
-de Washington. El Área Estadística Metropolitana de Spokane tenía una población de
-aproximadamente 591.000 habitantes en 2021. Spokane es la ciudad de EE. UU. más grande entre
-Seattle y Minneapolis y funciona como el centro comercial, médico y de servicios profesionales
-para una zona de captación triestatal que cubre el este de Washington, el norte de Idaho y
-partes del oeste de Montana — una zona comercial de aproximadamente 1,2 millones de personas.
+Spokane no aparece actualmente en la lista Top-400 de Mercados Regionales de América del
+Norte — a 280 millas de Seattle se sitúa muy fuera del límite exterior de 80 km de la banda
+suburbano-regional que utiliza la clasificación.
 
-## Perfil económico
+## Descripción general
 
-La economía de Spokane está anclada por la atención médica, la educación superior, el
-gobierno, el ejército y la distribución. El Providence Sacred Heart Medical Center and
-Children's Hospital y el MultiCare Deaconess Hospital convierten juntos a Spokane en el
-centro de derivación médica primario para el Noroeste interior, con servicios especializados
-que atraen pacientes desde el área de Coeur d'Alene en el norte de Idaho, el Palouse y
-comunidades rurales en un extenso territorio geográfico.
+Según Wikipedia (consultado el 10 de julio de 2026), Spokane tenía 228.989 habitantes en el
+censo de 2020 (área metropolitana aproximadamente 600.000) en 69,49 millas cuadradas, situada
+a 280 millas al este de Seattle a través de la Interestatal 90, la segunda ciudad más grande
+del estado de Washington tras Seattle. Históricamente dependiente de la minería, la madera y
+la agricultura, la economía de Spokane se ha diversificado significativamente desde la
+década de 1980, con la expansión del distrito universitario y sus dos filiales de facultades
+de medicina enfatizando las ciencias médicas y de la salud, junto con empresas tecnológicas e
+instalaciones de investigación. El Aeropuerto Internacional de Spokane sirve como centro
+regional de transporte y distribución. El desarrollo reciente destacado incluye River Park
+Square (inaugurado en 1999), el Spokane Arena, la ampliación del centro de convenciones y el
+desarrollo de Kendall Yards al oeste del centro, uno de los mayores proyectos de construcción
+en la historia de la ciudad. La ciudad alberga comunidades rusa, ucraniana y del sudeste
+asiático consolidadas, particularmente en el barrio de Hillyard.
 
-El campus principal de la Universidad Estatal de Washington está ubicado en Pullman, a 80
-kilómetros al sur, pero el campus de Ciencias de la Salud de la WSU en el centro de Spokane
-— junto con la Universidad de Gonzaga, la Universidad del Este de Washington, la Universidad
-de Whitworth y el Community College de Spokane — convierte a Spokane en un centro de
-educación superior con múltiples instituciones. La Base de la Fuerza Aérea Fairchild en las
-afueras occidentales de la ciudad proporciona empleo militar estable.
+## Posición en el Mercado Regional
 
-## Características del mercado inmobiliario comercial
-
-La concentración minorista primaria está en el Valle de Spokane, a lo largo de los corredores
-de Sprague Avenue y Sullivan Road al este de la ciudad, donde la infraestructura de [[power-centres|power
-centre]] incluye Costco, Home Depot, Lowe's, Walmart Supercenter y Target. El Spokane Valley
-Mall ancla el nodo minorista oriental.
-
-Northtown Mall y el corredor de Division Street al norte del centro de Spokane representan
-el nodo minorista secundario. El barrio South Hill, en la meseta al sur del cañón del río
-Spokane, se ha desarrollado como la ubicación primaria de servicios profesionales suburbanos.
-
-## Características de la zona de captación triestatal
-
-La zona de captación ampliada de Spokane — que incorpora comunidades del norte de Idaho
-(Coeur d'Alene, Post Falls, Sandpoint) y de Montana — otorga a sus mercados minoristas y
-de servicios profesionales una base de demanda sustancialmente mayor que la población del
-AEM. Los patrones de derivación médica en particular concentran los procedimientos
-especializados en las instalaciones de Spokane desde toda la región triestatal. Esta escala
-de zona de captación proporciona fundamentos comerciales más sólidos de lo que la cifra
-de 591.000 del AEM indicaría.
-
-## Indicadores clave
-
-| Indicador | Valor | Notas |
-|---|---|---|
-| Población del AEM (2021) | ~591.000 | AEM del condado de Spokane |
-| Zona comercial triestatal | ~1,2 millones | Este de WA + norte de ID + oeste de MT |
-| Corredor minorista primario | Valle de Spokane (Sullivan Road / Sprague Avenue) | Anclas Costco, Home Depot, Walmart |
-| Principales anclas institucionales | Sistemas hospitalarios Providence + MultiCare; Universidad de Gonzaga; Base Aérea Fairchild | Atención médica como ancla principal de demanda |
-| Acceso a autopistas | I-90 (este hacia Coeur d'Alene/Montana; oeste hacia Seattle); US-395 (norte-sur) | Centro de autopistas del Noroeste interior |
+Spokane no aparece actualmente en la lista [[atlas-top-400-north-america|Top 400 Mercados
+Regionales — América del Norte]]. Esto no es un defecto de datos; su distancia de 280 millas
+respecto a Seattle la sitúa muy fuera de la banda suburbano-regional de 15 a 80 km de
+[[about-regional-markets-system|el sistema de puntuación de co-ubicación]], clasificándola
+como independiente-secundaria.
 
 ## Véase también
 
-- [[atlas-united-states]] — índice de mercados regionales de EE. UU. y cobertura de regiones censales
-- [[atlas-top-600-north-america]] — el índice maestro de mercados norteamericanos
-- [[about-regional-markets]] — el marco de co-ubicación y los criterios de selección de mercados
+- [[about-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]]
+- [[atlas-united-states|Índice de Mercados Regionales de Estados Unidos]]
+- [[co-location-methodology|Metodología de Co-ubicación]]
+
+## Referencias
+
+- [Spokane, Washington](https://en.wikipedia.org/wiki/Spokane,_Washington) — Wikipedia, consultado 2026-07-10
+
+*Contenido de Wikipedia reproducido bajo [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*

@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Mercado regional de Ulm"
 slug: de-bw-ulm
+language: es
+language_protocol: TRANSLATE-ES
 category: markets
 type: topic
 content_type: topic
@@ -9,64 +11,48 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-language_protocol: TRANSLATE-ES
-keynote: false
-last_edited: 2026-06-29
-editor: woodfine-editorial
-short_description: "Mercado transfronterizo Baden-Württemberg/Baviera en el Danubio con una base profesional de altos ingresos anclada por el sector automotriz, la tecnología médica y las instituciones militares federales."
+short_description: "Ciudad de Baden-Württemberg que funciona como punto de referencia metropolitano para los mercados suburbanos circundantes — no está en el conjunto clasificado Top-400."
 paired_with: markets/de-bw-ulm.md
+last_edited: 2026-07-10
+editor: editorial
 ---
 
-El **mercado regional de Ulm** abarca la frontera entre Baden-Württemberg y Baviera a lo
-largo del Danubio, con la ciudad de Ulm en Baden-Württemberg y la ciudad gemela de Neu-Ulm
-directamente al otro lado del río en Baviera. La aglomeración urbana combinada Ulm–Neu-Ulm
-tenía una población de aproximadamente 185.000 habitantes en 2021, con una zona de captación
-regional más amplia que se extiende a través de los distritos Alb-Donau-Kreis, Biberach y
-Günzburg a aproximadamente 500.000–600.000 personas. Ulm ocupa una posición estratégica en
-la autopista A8 entre Stuttgart (88 km al oeste) y Múnich (136 km al este), lo que la
-convierte en un centro comercial para la región del Danubio superior.
+Ulm no tiene entrada propia en la lista Top-400 de Mercados Regionales de Europa. En el
+conjunto de datos actual, Ulm funciona como el punto de referencia metropolitano frente al
+cual se clasifican otros ocho mercados suburbanos — incluidos Albstadt, Neu-Ulm,
+Friedrichshafen y Memmingen — en lugar de ser ella misma un mercado suburbano.
 
-## Perfil económico
+## Descripción general
 
-La economía de Ulm está anclada por tres pilares distintos y complementarios: la industria
-automotriz y la cadena de suministro de tecnología automotriz, la tecnología médica y las
-ciencias de la vida, y las instituciones militares federales. Daimler Truck mantiene
-operaciones de ensamblaje de camiones en el área de Ulm, y la tradición manufacturera
-suaba más amplia ha producido un grupo de proveedores automotrices y de ingeniería de
-precisión incluyendo ZF Friedrichshafen (con sede en la cercana Friedrichshafen) y
-el Grupo Liebherr (Biberach).
+Según Wikipedia (consultado el 10 de julio de 2026), Ulm tenía aproximadamente 129.882
+habitantes a fecha de diciembre de 2024 en 118,69 kilómetros cuadrados, situada en
+Baden-Württemberg, a orillas del alto Danubio, aproximadamente a 80 km al noroeste de
+Stuttgart y a 162 km al sureste de Múnich, en el borde oriental de la cordillera del Jura de
+Suabia. La ciudad combina industrias tradicionales — maquinaria, vehículos de motor,
+electrónica, farmacéutica — con un sector tecnológico que creció tras la fundación de la
+Universidad de Ulm en 1967, particularmente en biomedicina e investigación en ingeniería.
+Entre los principales empleadores se encuentran instalaciones de Daimler, Siemens y Nokia,
+junto con empresas con sede en la ciudad: Liqui Moly, Ratiopharm (farmacéutica), Gardena
+(herramientas de jardinería) y Walther Arms.
 
-El sector de la tecnología médica es una característica distintiva de la economía de Ulm.
-El Hospital Universitario de Ulm (Universitätsklinikum Ulm) es el principal centro médico
-para la región del Danubio superior. El Cuartel General de la Bundeswehr en Ulm — específicamente
-el Comando de Apoyo y Habilitación Conjunto (JSEC) de la OTAN — añade empleo militar federal
-y la demanda de servicios profesionales asociada.
+## Posición en el Mercado Regional
 
-## Características del mercado inmobiliario comercial
-
-La infraestructura de Fachmarktzentrum de Ulm se concentra en la zona comercial de Böfinger
-Höhe en el norte (OBI, Hornbach, Kaufland, Mediamarkt) y en la zona de comercio minorista
-de Neu-Ulm en el Silcherpark. La estructura transfronteriza de Ulm–Neu-Ulm significa que
-las zonas de captación minorista de las comunidades de Baden-Württemberg y Baviera convergen
-en la zona comercial combinada.
-
-La Ulm Innenstadt (centro de la ciudad), con su icónico Münster (la aguja de iglesia más
-alta del mundo) y la Hirschstraße peatonal, es el nodo minorista tradicional primario. El
-desarrollo Sedelhöfe (completado en 2019, adyacente a la estación central) representa la
-inversión inmobiliaria comercial más significativa en el centro de la ciudad.
-
-## Indicadores clave
-
-| Indicador | Valor | Notas |
-|---|---|---|
-| Población de la ciudad (2021) | ~126.000 (Ulm) + ~60.000 (Neu-Ulm) | Aglomeración transfronteriza |
-| Zona de captación regional | ~500.000–600.000 | Región del Danubio superior |
-| Zona primaria de Fachmarktzentrum | Böfinger Höhe (norte de Ulm); Silcherpark (Neu-Ulm) | Zona de captación minorista transfronteriza |
-| Principales anclas institucionales | Universitätsklinikum Ulm; JSEC de la OTAN; Universidad de Ulm; Daimler Truck | Militar federal + médico + automotriz |
-| Acceso a autopistas | A8 (Múnich–Stuttgart); A7 (Würzburg–Kempten) | Cruce interestatal |
+Ulm no aparece como entrada clasificada en la lista
+[[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]]. Esto no es un defecto de
+datos: en la versión actual, Ulm es el punto de referencia metropolitano de otras ocho
+entradas suburbanas (Albstadt, Neu-Ulm, Friedrichshafen, Memmingen, Konstanz, entre otras),
+conforme a la propia taxonomía de [[about-regional-markets-system|el sistema de puntuación de
+co-ubicación]], que excluye los núcleos metropolitanos del conjunto clasificado
+suburbano-regional.
 
 ## Véase también
 
-- [[atlas-germany]] — índice del mercado regional de Alemania
-- [[atlas-top-600-europe]] — el índice maestro de mercados europeos
-- [[about-regional-markets]] — el marco de co-ubicación y los criterios de selección de mercados
+- [[about-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]]
+- [[atlas-germany|Índice de Mercados Regionales de Alemania]]
+- [[co-location-methodology|Metodología de Co-ubicación]]
+
+## Referencias
+
+- [Ulm](https://en.wikipedia.org/wiki/Ulm) — Wikipedia, consultado 2026-07-10
+
+*Contenido de Wikipedia reproducido bajo [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*

@@ -6,18 +6,28 @@ category: markets
 type: reference
 content_type: topic
 quality: complete
-status: active
+status: superseded
+superseded_by: about-regional-markets-system
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-06
-editor: pointsav-engineering
-short_description: "Geographic targeting framework defining which markets the co-location intelligence platform covers, with structural and verifiable selection criteria."
+last_edited: 2026-07-10
+editor: editorial
+short_description: "SUPERSEDED (2026-07-10) — see about-regional-markets-system for the current framework. Prior definition described MCorp's 8-target-market direct-hold matrix, pre-dating the 18-country suburban co-location system now in use."
 paired_with: markets/about-regional-market-matrix.es.md
 cites:
   - ni-51-102
   - osc-sn-51-721
 ---
+
+> **Superseded 2026-07-10.** This article describes an earlier "MCorp's 8 target markets"
+> direct-hold investment matrix that predates and conflicts with the co-location scoring
+> system now in use — see
+> [[about-regional-markets-system|Regional Markets Intelligence System]] for the current
+> framework (18 countries, 4,436 Regional Markets, powering the
+> [[atlas-top-400-north-america|Top 400]] ranked lists). Retained per the never-delete
+> convention; kept for historical reference only. Confirmed superseded by operator,
+> 2026-07-10.
 
 The Regional Market Matrix rejects subjective economic forecasting — markets enter only when population density, institutional real estate vehicle availability, and [[co-location-anchors|anchor]] density meet structural thresholds measurable today. This framework defines which of MCorp's 8 target markets the [[co-location-intelligence-overview|co-location intelligence platform]] currently evaluates; scoring within each market follows the [[co-location-methodology|co-location methodology]] and the [[co-location-ranking-system|ranking system]].
 

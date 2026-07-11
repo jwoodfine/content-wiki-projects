@@ -19,7 +19,7 @@ paired_with: markets/atlas-spain.es.md
 
 The **Spain regional market index** ranks Spanish cities and provincial capitals outside the
 primary Madrid and Barcelona metropolitan areas that meet the population, income, and retail
-infrastructure thresholds established by the [[about-regional-markets|co-location regional market
+infrastructure thresholds established by the [[about-regional-markets-system|co-location regional market
 framework]]. Spain's territorial organisation into seventeen autonomous communities, each with
 a principal urban centre and a network of secondary cities, produces a structured set of
 qualifying regional markets distributed across the Iberian Peninsula.
@@ -74,4 +74,4 @@ income qualification requires careful screening.
 ## See also
 
 - [[atlas-top-600-europe]] — the European master index
-- [[about-regional-markets]] — the co-location methodology and market selection criteria
+- [[about-regional-markets-system]] — the co-location methodology and market selection criteria

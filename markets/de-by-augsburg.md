@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Augsburg Regional Market"
 slug: de-by-augsburg
+language: en
+language_protocol: PROSE-TOPIC
 category: markets
 type: topic
 content_type: topic
@@ -9,73 +11,47 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-language_protocol: PROSE-TOPIC
-keynote: false
-last_edited: 2026-06-29
-editor: woodfine-editorial
-short_description: "Bavarian second-tier city with established manufacturing and university anchors and a mature Fachmarktzentrum retail infrastructure outside of Munich's core."
+short_description: "Bavarian city functioning as a metro-core reference point for surrounding suburban markets — not itself in the Top-400 ranked pool."
 paired_with: markets/de-by-augsburg.es.md
+last_edited: 2026-07-10
+editor: editorial
 ---
 
-The **Augsburg regional market** is a mid-sized urban centre in the Swabian region of
-Bavaria, located approximately 65 kilometres northwest of Munich along the A8 autobahn
-corridor. The Augsburg urban district had a population of approximately 296,000 in 2021,
-and the broader Augsburg Landkreis and surrounding area bring the regional catchment
-population to approximately 450,000–500,000. As part of the Munich Metropolitan Region,
-Augsburg functions both as an independent commercial and industrial centre and as a western
-counterpart to Munich's primary agglomeration, with significant cross-commuter flows in
-both directions.
+Augsburg does not carry its own entry in the European Top-400 Regional Markets list. In the
+current dataset, Augsburg functions as the metro-core reference point that four other
+suburban markets — Nördlingen, Landsberg am Lech, Donauwörth, and Heidenheim an der Brenz —
+are ranked as suburbs *of*, rather than as a suburban market itself.
 
-## Economic profile
+## Overview
 
-Augsburg has a long manufacturing tradition rooted in textiles, printing machinery, and
-aerospace, and this industrial base has modernised into advanced manufacturing, aerospace
-supplier industries, and precision engineering. MAN Energy Solutions (formerly MAN Diesel
-& Turbo) maintains a significant engine manufacturing presence. The premium manufacturing
-heritage gives the city a dual-income professional structure: a substantial skilled trades
-and engineering workforce alongside a professional services and administrative class.
+According to Wikipedia (accessed 2026-07-10), Augsburg had approximately 301,105 residents
+as of 2024 across 146.84 square kilometres, the third-largest city in Bavaria, situated
+roughly 50 km west of Munich in the Swabian region; its metropolitan area encompasses
+885,000 people. The city hosts global market leaders in high-technology manufacturing —
+MAN, EADS, and KUKA produce printing systems, diesel engines, and industrial robotics — and
+ranks as Bavaria's second-most important information-technology centre after Munich. Key
+employers include MAN SE, KUKA, Siemens, Premium AEROTEC, and Fujitsu Technology Solutions.
+During the 16th century, Augsburg was the dominant centre of early European capitalism under
+banking families like the Fuggers, alongside a major textile industry — prosperity that drew
+artists and craftsmen and established the city as a creative centre.
 
-The University of Augsburg, with approximately 20,000 students, anchors a technology
-transfer and knowledge services layer, with particular strength in business administration,
-economics, law, and computer science. The Augsburg University Hospital (Universitätsklinikum
-Augsburg) is the dominant healthcare facility for Swabia and acts as the primary medical
-referral centre for the region, providing specialist healthcare employment outside of Munich.
+## Regional Market Standing
 
-Augsburg benefits from a spillover effect from Munich's labour market: individuals employed
-in Munich who choose to reside in the more affordable Augsburg market, and Augsburg-resident
-professionals with service offerings to both Augsburg and Munich-based clients. This commuter
-pattern expands the effective professional services demand base.
+Augsburg does not appear as a ranked entry in the [[atlas-top-400-europe|Top 400 Regional
+Markets — Europe]] list. This is not a data defect: in the current build, Augsburg is the
+metro-core reference point for four other suburban entries (Nördlingen, Landsberg am Lech,
+Donauwörth, Heidenheim an der Brenz), consistent with
+[[about-regional-markets-system|the co-location scoring system's]] own taxonomy excluding
+metro cores from the suburban-regional ranked pool.
 
-## Commercial real estate characteristics
+## See Also
 
-The Augsburg Fachmarktzentrum infrastructure is concentrated primarily in the northern and
-eastern periphery of the urban area, along the Bürgermeister-Ulrich-Straße and Augsburg
-Nord commercial zones, where large-format retailers including OBI, Hornbach, Kaufland, and
-Mediamarkt anchor retail strips consistent with the Fachmarkt format. These represent the
-appropriate [[co-location-strategy|co-location]] signal for professional centre investment in the German market.
+- [[about-regional-markets-system|Regional Markets Intelligence System]]
+- [[atlas-germany|Germany Regional Market Index]]
+- [[co-location-methodology|Co-location Methodology]]
 
-The historic city centre — with its Renaissance architecture, patrician buildings, and
-pedestrianised Maximilianstraße — is a high-traffic mixed commercial zone with fashion
-retail, financial services branches, and medical professional practices at ground floor
-and first floor levels. The central location supports a different professional services
-tenant mix than the peripheral Fachmarktzentrum zones.
+## References
 
-Professional office supply includes modern properties in the Businesspark Augsburg North
-and the Göggingen / Inningen commercial zones to the south, which are the primary location
-of technology company offices and back-office professional services.
+- [Augsburg](https://en.wikipedia.org/wiki/Augsburg) — Wikipedia, accessed 2026-07-10
 
-## Key indicators
-
-| Indicator | Value | Notes |
-|---|---|---|
-| City population (2021) | ~296,000 | Augsburg urban district |
-| Regional catchment | ~450,000–500,000 | Augsburg Stadtkreis + Landkreis + adjacent |
-| Primary Fachmarktzentrum zone | Augsburg Nord (Bürgermeister-Ulrich-Straße) | OBI, Hornbach, Kaufland anchors |
-| Major institutional anchors | University of Augsburg; Universitätsklinikum Augsburg | Healthcare tertiary referral for Swabia |
-| Autobahn access | A8 (Munich–Stuttgart corridor); B17 (north–south Augsburg bypass) | Munich Metropolitan Region position |
-
-## See also
-
-- [[atlas-germany]] — Germany regional market index
-- [[atlas-top-600-europe]] — the European master market index
-- [[about-regional-markets]] — the co-location framework and market selection criteria
+*Wikipedia content reproduced under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*

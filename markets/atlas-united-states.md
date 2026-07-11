@@ -19,7 +19,7 @@ paired_with: markets/atlas-united-states.es.md
 
 The **United States regional market index** ranks US cities and metropolitan statistical
 areas outside major-metro central business districts that meet the population, disposable
-income, and retail infrastructure thresholds established by the [[about-regional-markets|co-location
+income, and retail infrastructure thresholds established by the [[about-regional-markets-system|co-location
 regional market framework]]. The United States contains the highest concentration of qualifying
 regional markets in the [[atlas-top-600-north-america|TOP600 North America]] index: the country's
 size and economic geography produce hundreds of metropolitan areas in the 50,000–500,000
@@ -72,4 +72,4 @@ Connecticut, and New Hampshire.
 ## See also
 
 - [[atlas-top-600-north-america]] — the North American master index
-- [[about-regional-markets]] — the co-location methodology and market selection criteria
+- [[about-regional-markets-system]] — the co-location methodology and market selection criteria

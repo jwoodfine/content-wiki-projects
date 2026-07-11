@@ -19,7 +19,7 @@ paired_with: markets/atlas-united-kingdom.es.md
 
 The **United Kingdom regional market index** ranks UK cities and towns outside London and
 the wider South East that meet the population, income, and retail infrastructure thresholds
-established by the [[about-regional-markets|co-location regional market framework]]. The UK offers
+established by the [[about-regional-markets-system|co-location regional market framework]]. The UK offers
 a geographically concentrated but economically diverse set of qualifying regional markets:
 mid-sized cities across England, Scotland, and Wales with independent economic bases, retail
 park infrastructure, and professional demand anchored by the National Health Service, higher
@@ -76,4 +76,4 @@ Perth, and Dundee.
 ## See also
 
 - [[atlas-top-600-europe]] — the European master index
-- [[about-regional-markets]] — the co-location methodology and market selection criteria
+- [[about-regional-markets-system]] — the co-location methodology and market selection criteria

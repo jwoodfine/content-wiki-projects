@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Regina Regional Market"
 slug: ca-sk-regina
+language: en
+language_protocol: PROSE-TOPIC
 category: markets
 type: topic
 content_type: topic
@@ -9,80 +11,45 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-language_protocol: PROSE-TOPIC
-keynote: false
-last_edited: 2026-06-29
-editor: woodfine-editorial
-short_description: "Saskatchewan's provincial capital with a stable government and energy professional base and a consolidated power centre retail node."
+short_description: "Saskatchewan's provincial capital — outside the current Top-400 ranked pool (no nearby major metro core)."
 paired_with: markets/ca-sk-regina.es.md
+last_edited: 2026-07-10
+editor: editorial
 ---
 
-The **Regina regional market** is the provincial capital of Saskatchewan and the
-second-largest urban centre in the province after Saskatoon. The Regina Census Metropolitan
-Area had a population of approximately 250,000 in 2021. As the seat of the Saskatchewan
-government, Regina hosts a substantial public sector employment base concentrated in the
-provincial bureaucracy, Crown corporations, the judiciary, and regulatory bodies. This
-government concentration, combined with the energy sector's provincial headquarters activity
-and the presence of the University of Regina, gives the city a professional services demand
-profile that is large relative to its total population.
+Regina, the capital of Saskatchewan, does not currently appear in the North American Top-400
+Regional Markets list — the Canadian prairies do not place it within the 15–80 km
+suburban-regional band of any major metro core.
 
-## Economic profile
+## Overview
 
-The Saskatchewan government is the dominant employer in Regina, but the private sector
-has developed around the government anchor to include energy sector companies (particularly
-those with provincial regulatory and royalty relationships), legal services, accounting, and
-financial services directed at both government and agricultural clients. The Mosaic Company,
-one of the world's largest potash producers, maintains significant operations in the Regina
-region, as does Crown corporation SaskPower and SaskTel.
+According to Wikipedia (accessed 2026-07-10), Regina had 226,404 residents at the 2021
+census (metropolitan area 249,217) across 178.81 square kilometres, situated immediately east
+of Moose Jaw on a broad, flat, treeless plain. The city serves as the provincial capital and
+commercial hub for southern Saskatchewan, hosting the Provincial Legislative Building and
+numerous provincial institutions. The economy has diversified from agricultural dependence,
+with agriculture, retail, and service sectors supporting the regional population. Wascana
+Centre, a 9.3-square-kilometre park around Wascana Lake, anchors the city's cultural and
+institutional core, containing government buildings, museums, and educational facilities.
+The population is increasingly diverse, with immigrants comprising 20.3 percent of residents,
+led by Filipino, Indian, and Chinese communities.
 
-The University of Regina provides higher education services with approximately 16,000 students
-and adds an academic professional and student services demand layer. The Saskatchewan Health
-Authority operates the Regina General Hospital and the Pasqua Hospital as the primary acute
-care facilities, anchoring medical professional tenancy.
+## Regional Market Standing
 
-Agriculture service industries — including grain trading, crop input distribution, and
-agricultural finance — maintain Regina regional operations, reflecting the city's role as
-the commercial capital of an extensive agricultural hinterland.
+Regina does not currently appear in the [[atlas-top-400-north-america|Top 400 Regional
+Markets — North America]] ranked list. This is not a data defect; the Canadian prairies do
+not place Regina within [[about-regional-markets-system|the co-location scoring system's]]
+15–80 km suburban-regional distance band of any major metro core — it functions as its own
+provincial commercial centre.
 
-## Commercial real estate characteristics
+## See Also
 
-Regina's primary [[power-centres|power centre]] node is concentrated in the north end of the city along
-Albert Street North and the Northgate Shopping District, as well as along Victoria Avenue
-in the east end. Costco, Home Depot, Walmart Supercentre, and Canadian Tire anchor the
-major retail nodes. The Northgate Shopping Centre and Victoria Square Shopping Centre
-provide enclosed mall retail complementing the power centre format.
+- [[about-regional-markets-system|Regional Markets Intelligence System]]
+- [[atlas-canada|Canada Regional Market Index]]
+- [[co-location-methodology|Co-location Methodology]]
 
-The south end of Regina, particularly the Harbour Landing area, has experienced significant
-residential growth since 2010 and is generating demand for community retail and professional
-service tenancy as the new neighbourhood reaches critical residential mass.
+## References
 
-Professional office supply in Regina is concentrated downtown along Albert Street and in
-the city's two primary suburban office nodes — north Regina near the government cluster
-and south Regina near newer residential areas. Downtown Regina retains legal, financial,
-and government-adjacent professional tenancy; suburban parks attract medical, technology,
-and ancillary professional services.
+- [Regina, Saskatchewan](https://en.wikipedia.org/wiki/Regina,_Saskatchewan) — Wikipedia, accessed 2026-07-10
 
-## Government demand anchor
-
-Regina's government employment creates a distinctive professional service demand characteristic:
-lawyers (particularly those practicing administrative, regulatory, and energy law),
-accountants with public sector client bases, government-relations consultants, and IT
-services firms whose primary client is the provincial government or Crown corporations.
-This demand is counter-cyclical to commodity markets, providing stability that purely
-resource-sector markets lack.
-
-## Key indicators
-
-| Indicator | Value | Notes |
-|---|---|---|
-| CMA population (2021) | ~250,000 | Regina CMA |
-| Population growth 2016–2021 | ~5% | Moderate growth; stable government base |
-| Primary power centre nodes | Albert Street N (Northgate); Victoria Avenue E | Costco, Home Depot, Walmart anchors |
-| Major institutional anchors | Government of Saskatchewan; University of Regina; SHA hospitals | Government as primary demand anchor |
-| Highway access | Trans-Canada (HWY 1 east-west); HWY 11 (north to Saskatoon); HWY 6/39 (south) | Prairie highway hub |
-
-## See also
-
-- [[atlas-canada]] — Canada regional market index and provincial coverage
-- [[atlas-top-600-north-america]] — the North American master market index
-- [[about-regional-markets]] — the co-location framework and market selection criteria
+*Wikipedia content reproduced under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*

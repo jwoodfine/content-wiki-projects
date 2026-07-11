@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Mercado regional de Vitoria-Gasteiz"
 slug: es-pv-vitoria-gasteiz
+language: es
+language_protocol: TRANSLATE-ES
 category: markets
 type: topic
 content_type: topic
@@ -9,68 +11,47 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-language_protocol: TRANSLATE-ES
-keynote: false
-last_edited: 2026-06-29
-editor: woodfine-editorial
-short_description: "Capital del País Vasco con los ingresos familiares regionales más altos de España, una concentración de manufactura automotriz y la administración del gobierno autónomo vasco."
+short_description: "Capital del País Vasco — fuera del conjunto clasificado Top-400 actual (sin núcleo metropolitano cercano en el conjunto de datos)."
 paired_with: markets/es-pv-vitoria-gasteiz.md
+last_edited: 2026-07-10
+editor: editorial
 ---
 
-El **mercado regional de Vitoria-Gasteiz** es la capital tanto de la Provincia de Álava como
-de la Comunidad Autónoma del País Vasco (*Euskadi*), la comunidad autónoma con mayores
-ingresos de España. El municipio de Vitoria-Gasteiz tenía una población de aproximadamente
-250.000 habitantes en 2021, siendo la ciudad más poblada de Álava y la tercera ciudad más
-grande del País Vasco después de Bilbao y San Sebastián. El País Vasco registra consistentemente
-niveles de ingresos familiares entre un 30–40% por encima del promedio nacional español,
-situando a Vitoria-Gasteiz en el nivel de ingresos más alto para cualquier mercado español
-de esta escala de población.
+Vitoria-Gasteiz, capital del País Vasco, no aparece actualmente en la lista Top-400 de
+Mercados Regionales de Europa.
 
-## Perfil económico
+## Descripción general
 
-El Gobierno Vasco (*Eusko Jaurlaritza*) tiene su sede en Vitoria-Gasteiz y emplea a una
-gran parte de la administración pública regional, creando demanda de servicios profesionales
-en derecho, administración pública, contabilidad, TI y servicios en lengua vasca. La
-presencia del Parlamento Vasco y el conjunto completo de ministerios regionales convierte a
-Vitoria-Gasteiz en el centro de servicios gubernamentales del País Vasco.
+Según Wikipedia (consultado el 10 de julio de 2026), Vitoria-Gasteiz tenía 260.402
+habitantes a fecha de 2025 en 276,96 kilómetros cuadrados — la segunda ciudad más poblada del
+País Vasco y la 17.ª de España —, situada en la provincia de Álava y sirviendo como capital y
+sede del gobierno de la comunidad autónoma. La economía es notablemente diversa, con
+fortalezas en salud, aeronáutica, manufactura automotriz y viticultura; entre los principales
+empleadores se encuentran Mercedes-Benz, Michelin, Gamesa (energía renovable) y Heraclio
+Fournier (fabricante de naipes, con sede local). El aeropuerto de Vitoria ocupa el cuarto
+lugar nacional en tráfico de carga. Los residentes nacidos en el extranjero representan el
+18,1% de la población (47.206 personas), con Colombia, Marruecos y Argelia como los
+principales países de origen. La ciudad fue reconocida como Capital Verde de Europa en 2012 y
+ocupa sistemáticamente el primer lugar nacional en zonas verdes per cápita, junto con una
+clasificación constante entre los municipios españoles con mayor nivel de vida.
 
-La zona industrial de Álava al sur y sureste de Vitoria-Gasteiz es una de las zonas
-industriales más productivas de España. Mercedes-Benz Buses (antiguamente EvoBus, competidor
-de Irizar) y un ecosistema completo de proveedores automotrices se encuentran en los polígonos
-industriales de Jundiz y Gamarra. Michelin opera una importante planta de fabricación de
-neumáticos. El concierto económico del País Vasco — similar al de Navarra y mediante el
-cual los territorios vascos recaudan y administran sus propios impuestos — crea una
-complejidad y demanda adicionales de servicios profesionales en comparación con las provincias
-españolas de régimen común.
+## Posición en el Mercado Regional
 
-La Universidad del País Vasco (*Euskal Herriko Unibertsitatea*, UPV/EHU) tiene un campus en
-Vitoria-Gasteiz centrado en empresariales, derecho y ciencias de la salud. El Hospital
-Universitario de Álava es el principal hospital público.
-
-## Características del mercado inmobiliario comercial
-
-El comercio minorista de gran formato de Vitoria-Gasteiz se concentra en el Parque Comercial
-Gorbeia al sur de la ciudad, adyacente a la zona industrial, con Leroy Merlin, MediaMarkt,
-Carrefour y Decathlon como anclas. El centro comercial El Boulevard en el centro de la ciudad
-es el ancla del comercio minorista en formato cerrado. El Corte Inglés mantiene presencia en
-la zona central de la ciudad.
-
-El centro histórico de Vitoria-Gasteiz — la *Almendra* medieval — es la zona primaria de
-servicios profesionales, con servicios jurídicos, financieros, notariales y adyacentes al
-Gobierno Vasco concentrados en el eje comercial de la Calle Dato y la Calle Eduardo Dato.
-
-## Indicadores clave
-
-| Indicador | Valor | Notas |
-|---|---|---|
-| Población municipal (2021) | ~250.000 | Municipio de Vitoria-Gasteiz |
-| Perfil de ingresos | Comunidad autónoma con mayores ingresos de España (País Vasco) | Prima del sistema fiscal de concierto económico |
-| Parque comercial primario | Parque Comercial Gorbeia (sur) | Anclas Leroy Merlin, MediaMarkt, Carrefour |
-| Principales anclas institucionales | Eusko Jaurlaritza (Gobierno Vasco); Michelin; Mercedes-Benz Buses; Hospital Universitario de Álava | Doble ancla gobierno + manufactura |
-| Acceso a autovías | A-1 (Madrid–Burgos–Vitoria); AP-68 (Bilbao–Logroño); A-2124 (San Sebastián) | Encrucijada de autopistas Euskadi–Castilla |
+Vitoria-Gasteiz no aparece actualmente en la lista [[atlas-top-400-europe|Top 400 Mercados
+Regionales — Europa]], y la cobertura de Wikipedia no la sitúa a una distancia establecida de
+una única metrópoli dominante. Esto no es un defecto de datos; refleja bien una laguna en la
+versión actual del conjunto de datos derivado de OSM para el País Vasco, o la función de la
+ciudad como su propia capital regional en lugar de como suburbio, conforme a la taxonomía de
+[[about-regional-markets-system|el sistema de puntuación de co-ubicación]].
 
 ## Véase también
 
-- [[atlas-spain]] — índice del mercado regional de España
-- [[atlas-top-600-europe]] — el índice maestro de mercados europeos
-- [[about-regional-markets]] — el marco de co-ubicación y los criterios de selección de mercados
+- [[about-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]]
+- [[atlas-spain|Índice de Mercados Regionales de España]]
+- [[co-location-methodology|Metodología de Co-ubicación]]
+
+## Referencias
+
+- [Vitoria-Gasteiz](https://en.wikipedia.org/wiki/Vitoria-Gasteiz) — Wikipedia, consultado 2026-07-10
+
+*Contenido de Wikipedia reproducido bajo [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*

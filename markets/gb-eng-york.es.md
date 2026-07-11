@@ -2,73 +2,69 @@
 schema: foundry-doc-v1
 title: "Mercado regional de York"
 slug: gb-eng-york
+language: es
+language_protocol: TRANSLATE-ES
 category: markets
-type: topic
+type: reference
 content_type: topic
 quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-language_protocol: TRANSLATE-ES
-keynote: false
-last_edited: 2026-06-29
-editor: woodfine-editorial
-short_description: "Ciudad histórica de Yorkshire con alta densidad de servicios profesionales, función de centro ferroviario, empleo en dos universidades y una base de parques de venta minorista que sirve a una sustancial zona de captación en el norte de Yorkshire."
+short_description: "Mercado Regional número 266 en Europa — suburbio de Leeds; puntuación compuesta 6,0."
 paired_with: markets/gb-eng-york.md
+last_edited: 2026-07-10
+editor: editorial
 ---
 
-El **mercado regional de York** es una ciudad histórica en North Yorkshire, Inglaterra,
-ubicada aproximadamente a 30 kilómetros al norte del corredor de la M62 y a 30 kilómetros
-de la autopista A1(M), en el cruce de la East Coast Main Line (Londres–Edimburgo) y la
-ferroviaria TransPennine. La autoridad unitaria de York tenía una población de
-aproximadamente 208.000 habitantes en 2021. La importancia de York como mercado comercial
-y de servicios profesionales supera sustancialmente a su escala de población: es la capital
-administrativa y de servicios profesionales para el condado de North Yorkshire, atrae un
-gasto turístico minorista sustancial y tiene una proporción inusualmente alta de empleo
-profesional y directivo en relación con su población — una de las más altas de la región
-de Yorkshire y Humber fuera de Leeds.
+York, ciudad histórica de Yorkshire con una economía de turismo y servicios, ocupa el puesto
+266 entre los 400 Mercados Regionales de Europa con una puntuación compuesta de 6,0. Una base
+de empleo dual universitaria, de turismo patrimonial y del sector público sostiene un
+clúster de Nivel 2 y dos de Nivel 3.
 
-## Perfil económico
+## Descripción general
 
-La economía de York está anclada por los servicios del sector público, la educación
-superior, los servicios financieros y una sustancial economía de visitantes. La Universidad
-de York, una universidad de investigación del grupo Russell con aproximadamente 22.000
-estudiantes, y la York St John University, con aproximadamente 7.000 estudiantes, crean
-conjuntamente un importante ancla de demanda de doble universidad. La Universidad de York
-tiene particular fortaleza en biología, física, electrónica y política social, y su parque
-científico ha generado un grupo de empresas de biotecnología y tecnología derivadas.
+Según Wikipedia (consultado el 10 de julio de 2026), York registró una población de 202.800
+habitantes en el censo de 2021 (198.051 en 2011) en un área de autoridad local de 33,7
+kilómetros cuadrados, aproximadamente a 22 millas (35 km) al suroeste de Leeds. Entre los
+principales empleadores se encuentran el Ayuntamiento de York (más de 7.500 empleados),
+Aviva, Network Rail, Northern Trains, York Hospitals NHS Trust y la Universidad de York (cada
+uno con más de 2.000 empleados), junto con BT Group, Nestlé y NFU Mutual. El sector
+servicios domina el empleo local (88,7% según datos de 2000), y el turismo es un
+contribuyente importante — con un valor de más de 765 millones de libras para la ciudad y el
+sostén de 24.000 empleos en 2019. Entre los empleadores históricos se encontraban los
+ferrocarriles y la manufactura de confitería (Rowntree's, Terry's). La Universidad de York,
+inaugurada en 1963, sostiene una fuerza laboral bien formada que respalda unas 9.000 empresas
+locales en finanzas, TI y servicios del sector público. El desarrollo comercial destacado
+incluye el York Designer Outlet y Spark:York, un espacio de comida callejera y
+entretenimiento inaugurado en 2018.
 
-El sector de servicios financieros en York es mayor de lo que el tamaño de la población
-sola implicaría, reflejando el papel histórico de la ciudad como centro bancario y de
-seguros regional. Barclays y British Telecom mantienen importantes operaciones de oficinas
-de respaldo en York.
+## Posición en el Mercado Regional
 
-## Características del mercado inmobiliario comercial
+| Campo | Valor |
+|---|---|
+| Posición | 266 de 400 (Europa) |
+| Puntuación compuesta | 6,0 |
+| Clústeres de Nivel 1 | 0 |
+| Clústeres de Nivel 2 | 1 |
+| Clústeres de Nivel 3 | 2 |
+| Suburbio de | Leeds |
 
-La infraestructura primaria de [[power-centres|parques de venta minorista]] de York está en el Vanguard Retail
-Park (Clifton Moor, al norte de la ciudad) y en el Monks Cross Retail Park al noreste,
-donde Marks & Spencer, Next, Costco, B&Q y Dunelm anclan franjas de comercio minorista de
-gran formato. El Vangarde Shopping Park al noreste (inaugurado en 2013) es el principal
-parque de venta minorista contemporáneo que sirve a la zona de captación de York.
-
-El centro histórico de York — con el Shambles, el Centro Viking Jorvik, el Minster y el
-área comercial de Coppergate — es una zona de servicios profesionales y minoristas
-tradicionales de alto valor. La densidad minorista y la afluencia de visitantes en el núcleo
-histórico crean características de demanda únicas que combinan la ocupación profesional con
-el comercio minorista orientado al turismo patrimonial.
-
-## Indicadores clave
-
-| Indicador | Valor | Notas |
-|---|---|---|
-| Población de la autoridad unitaria (2021) | ~208.000 | Ciudad de York |
-| Zona de captación de North Yorkshire | ~500.000+ | Función de capital administrativa del condado |
-| Parque de venta minorista primario | Vangarde Shopping Park / Monks Cross (noreste) | Anclas M&S, Next, Costco, B&Q |
-| Principales anclas institucionales | Universidad de York; York St John University; York and Scarborough Teaching Hospitals NHS | Doble universidad + ancla sanitaria |
-| Acceso ferroviario | East Coast Main Line (Londres–Edimburgo); TransPennine (Leeds–Manchester / Hull) | Principal cruce ferroviario del Reino Unido |
+El detalle a nivel de clúster — las anclas minoristas y cívicas específicas que componen cada
+uno de los clústeres de co-localización de York — está pendiente del conjunto de datos SIG
+subyacente y no se incluye en este esbozo. Véase
+[[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]] para la lista clasificada
+completa y [[co-location-methodology|Metodología de Co-ubicación]] para conocer cómo se
+calcula la puntuación compuesta.
 
 ## Véase también
 
-- [[atlas-united-kingdom]] — índice del mercado regional del Reino Unido
-- [[atlas-top-600-europe]] — el índice maestro de mercados europeos
-- [[about-regional-markets]] — el marco de co-ubicación y los criterios de selección de mercados
+- [[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]]
+- [[about-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]]
+- [[co-location-methodology|Metodología de Co-ubicación]]
+
+## Referencias
+
+- [York](https://en.wikipedia.org/wiki/York) — Wikipedia, consultado 2026-07-10
+
+*Contenido de Wikipedia reproducido bajo [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*

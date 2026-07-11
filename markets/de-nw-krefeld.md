@@ -82,7 +82,6 @@ A composite score of 12.0 is representative of the upper European suburban-regio
 ## See Also
 
 - [[about-regional-markets-system|Regional Markets Intelligence System]]
-- [[about-regional-market-matrix|Regional Market Matrix]]
 - [[atlas-top-400-europe|Top 400 Regional Markets — Europe]]
 - [[co-location-methodology|Co-location Methodology]]
 - [[co-location-ranking-system|Co-location Ranking System]]

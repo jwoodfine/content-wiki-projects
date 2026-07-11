@@ -59,9 +59,9 @@ Los veinticinco Mercados Regionales europeos mejor clasificados se enumeran a co
 | 1 | Chemnitz, Stadt | DE | Dresden | 64 | 3 | 0 | 0 | Sí | 18,0 |
 | 2 | Ingolstadt | DE | Regensburg | 56 | 2 | 0 | 1 | Sí | 13,5 |
 | 3 | Dessau-Roßlau, Stadt | DE | Halle | 44 | 2 | 0 | 0 | Sí | 12,0 |
-| 4 | Kaiserslautern, Stadt | DE | Mannheim | 54 | 2 | 0 | 0 | Sí | 12,0 |
-| 5 | Krefeld, Stadt | DE | Düsseldorf | 19 | 2 | 0 | 0 | Sí | 12,0 |
-| 6 | Bielsko-Biała | PL | Katowice | 48 | 2 | 0 | 0 | Sí | 12,0 |
+| 4 | [[de-rp-kaiserslautern|Kaiserslautern, Stadt]] | DE | Mannheim | 54 | 2 | 0 | 0 | Sí | 12,0 |
+| 5 | [[de-nw-krefeld|Krefeld, Stadt]] | DE | Düsseldorf | 19 | 2 | 0 | 0 | Sí | 12,0 |
+| 6 | [[pl-bielsko-biala|Bielsko-Biała]] | PL | Katowice | 48 | 2 | 0 | 0 | Sí | 12,0 |
 | 7 | Zwickau, Stadt | DE | Leipzig | 69 | 1 | 1 | 1 | Sí | 10,5 |
 | 8 | Radom | PL | Kielce | 69 | 1 | 1 | 1 | Sí | 10,5 |
 | 9 | Fife | GB | Edinburgh | 19 | 0 | 3 | 1 | Sí | 10,5 |
@@ -100,7 +100,7 @@ Los veinticinco Mercados Regionales europeos mejor clasificados se enumeran a co
 | 30 | Hillingdon | GB | London | 1 | 0 | 1 | 7.5 |
 | 31 | Derby | GB | Nottingham | 1 | 0 | 1 | 7.5 |
 | 32 | Cheshire West and Chester | GB | Wigan | 1 | 0 | 1 | 7.5 |
-| 33 | Chambéry | FR | Grenoble | 1 | 0 | 1 | 7.5 |
+| 33 | [[fr-chambery|Chambéry]] | FR | Grenoble | 1 | 0 | 1 | 7.5 |
 | 34 | Albi | FR | Toulouse | 1 | 0 | 1 | 7.5 |
 | 35 | Cambrai | FR | Valenciennes | 1 | 0 | 1 | 7.5 |
 | 36 | Osny | FR | Paris | 1 | 0 | 1 | 7.5 |
@@ -134,7 +134,7 @@ Los veinticinco Mercados Regionales europeos mejor clasificados se enumeran a co
 | 57 | Thurrock | GB | London | 1 | 0 | 0 | 6.0 |
 | 58 | Gloucester | GB | Bristol | 1 | 0 | 0 | 6.0 |
 | 59 | Rushmoor | GB | Reading | 1 | 0 | 0 | 6.0 |
-| 60 | Järfälla | SE | Stockholm | 1 | 0 | 0 | 6.0 |
+| 60 | [[se-jarfalla|Järfälla]] | SE | Stockholm | 1 | 0 | 0 | 6.0 |
 | 61 | Grande-Synthe | FR | Lille | 1 | 0 | 0 | 6.0 |
 | 62 | Roissy-en-France | FR | Paris | 1 | 0 | 0 | 6.0 |
 | 63 | Dole | FR | Dijon | 1 | 0 | 0 | 6.0 |
@@ -355,7 +355,7 @@ Los veinticinco Mercados Regionales europeos mejor clasificados se enumeran a co
 | 263 | União das freguesias de Sintra | PT | Lisbon | 1 | 0 | 0 | 6.0 |
 | 264 | União das freguesias de Palhais e Coina | PT | Lisbon | 1 | 0 | 0 | 6.0 |
 | 265 | Stevenage | GB | Luton | 0 | 1 | 2 | 6.0 |
-| 266 | York | GB | Leeds | 0 | 1 | 2 | 6.0 |
+| 266 | [[gb-eng-york|York]] | GB | Leeds | 0 | 1 | 2 | 6.0 |
 | 267 | Redbridge | GB | London | 0 | 2 | 0 | 6.0 |
 | 268 | Wakefield | GB | Leeds | 0 | 2 | 0 | 6.0 |
 | 269 | Ipswich | GB | Cambridge | 0 | 2 | 0 | 6.0 |
@@ -380,7 +380,7 @@ Los veinticinco Mercados Regionales europeos mejor clasificados se enumeran a co
 
 | Pos. | Mercado | País | Suburbio de | T1 | T2 | T3 | Punt. |
 |------|--------|---------|-----------|----|----|----|-------|
-| 286 | Breda | NL | Rotterdam | 1 | 0 | 1 | 5.0 |
+| 286 | [[nl-breda|Breda]] | NL | Rotterdam | 1 | 0 | 1 | 5.0 |
 | 287 | Liverpool | GB | Wigan | 0 | 0 | 3 | 4.5 |
 | 288 | Osnabrück, Stadt | DE | Bielefeld | 0 | 0 | 3 | 4.5 |
 | 289 | Havering | GB | London | 0 | 1 | 1 | 4.5 |
@@ -388,7 +388,7 @@ Los veinticinco Mercados Regionales europeos mejor clasificados se enumeran a co
 | 291 | Sefton | GB | Wigan | 0 | 1 | 1 | 4.5 |
 | 292 | Havant | GB | Southampton | 0 | 1 | 1 | 4.5 |
 | 293 | Stroud | GB | Bristol | 0 | 1 | 1 | 4.5 |
-| 294 | Warrington | GB | Wigan | 0 | 1 | 1 | 4.5 |
+| 294 | [[gb-eng-warrington|Warrington]] | GB | Wigan | 0 | 1 | 1 | 4.5 |
 | 295 | Newport | GB | Cardiff | 0 | 1 | 1 | 4.5 |
 | 296 | Saint Edmundsbury | GB | Cambridge | 0 | 1 | 1 | 4.5 |
 | 297 | Colchester | GB | Cambridge | 0 | 1 | 1 | 4.5 |
@@ -472,11 +472,11 @@ Los veinticinco Mercados Regionales europeos mejor clasificados se enumeran a co
 | 365 | Spelthorne | GB | London | 0 | 0 | 2 | 3.0 |
 | 366 | Bexley | GB | London | 0 | 0 | 2 | 3.0 |
 | 367 | Wirral | GB | Wigan | 0 | 0 | 2 | 3.0 |
-| 368 | Cherwell | GB | Oxford | 0 | 0 | 2 | 3.0 |
+| 368 | [[gb-eng-cherwell|Cherwell]] | GB | Oxford | 0 | 0 | 2 | 3.0 |
 | 369 | Kingston upon Hull | GB | Leeds | 0 | 0 | 2 | 3.0 |
 | 370 | Medway | GB | London | 0 | 0 | 2 | 3.0 |
 | 371 | Arun | GB | Brighton | 0 | 0 | 2 | 3.0 |
-| 372 | Northampton | GB | Coventry | 0 | 0 | 2 | 3.0 |
+| 372 | [[gb-eng-northampton|Northampton]] | GB | Coventry | 0 | 0 | 2 | 3.0 |
 | 373 | Eastbourne | GB | Brighton | 0 | 0 | 2 | 3.0 |
 | 374 | Bedford | GB | Luton | 0 | 0 | 2 | 3.0 |
 | 375 | La Roche-sur-Yon | FR | Nantes | 0 | 0 | 2 | 3.0 |
@@ -539,6 +539,5 @@ Para la metodología completa, véase [[about-regional-markets-system|Sistema de
 ## Véase también
 
 - [[about-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]]
-- [[about-regional-market-matrix|Matriz de Mercado Regional]]
 - [[co-location-methodology|Metodología de Co-localización]]
 - [[atlas-tier-index-europe|Índice de Niveles de Co-ubicación: Europa]]

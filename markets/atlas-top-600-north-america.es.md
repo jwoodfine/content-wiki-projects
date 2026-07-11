@@ -19,7 +19,7 @@ paired_with: markets/atlas-top-600-north-america.md
 
 El índice **TOP600 Norteamérica** identifica hasta 600 mercados inmobiliarios comerciales
 regionales en los Estados Unidos, Canadá y México que cumplen los umbrales de población,
-ingresos e infraestructura comercial establecidos por el marco de [[about-regional-markets|mercados
+ingresos e infraestructura comercial establecidos por el marco de [[about-regional-markets-system|mercados
 regionales de co-ubicación]]. El índice proporciona la base geográfica para la selección de
 emplazamientos de inversión directa y el seguimiento del mercado, priorizando ciudades y
 áreas metropolitanas fuera de los distritos centrales de negocios de las grandes metrópolis
@@ -74,6 +74,6 @@ a los mercados europeos.
 
 ## Véase también
 
-- [[about-regional-markets]] — el marco de co-ubicación que define los criterios de selección de
+- [[about-regional-markets-system]] — el marco de co-ubicación que define los criterios de selección de
   mercados
 - [[atlas-top-600-europe]] — el índice de mercados regionales europeos complementario

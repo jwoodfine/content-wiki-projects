@@ -51,8 +51,8 @@ Los veinticinco Mercados Regionales de América del Norte mejor clasificados se 
 |------|---------|------|-------------|----|----|----|----|--------|-------|
 | 1 | Plano, TX | US | Dallas | 28 | 3 | 2 | 1 | Sí | 25.5 |
 | 2 | Mesa, AZ | US | Phoenix | 31 | 2 | 2 | 3 | Sí | 22.5 |
-| 3 | Frisco, TX | US | Dallas | 44 | 3 | 1 | 0 | Sí | 21.0 |
-| 4 | Mississauga, ON | CA | Toronto | 25 | 2 | 1 | 2 | Sí | 18.0 |
+| 3 | [[us-tx-frisco|Frisco, TX]] | US | Dallas | 44 | 3 | 1 | 0 | Sí | 21.0 |
+| 4 | [[ca-on-mississauga|Mississauga, ON]] | CA | Toronto | 25 | 2 | 1 | 2 | Sí | 18.0 |
 | 5 | Santa Clarita, CA | US | Los Angeles | 48 | 2 | 2 | 0 | Sí | 18.0 |
 | 6 | Nashua, NH | US | Boston | 56 | 2 | 2 | 0 | Sí | 18.0 |
 | 7 | Warwick, RI | US | Providence | 19 | 2 | 1 | 1 | Sí | 16.5 |
@@ -95,7 +95,7 @@ Los veinticinco Mercados Regionales de América del Norte mejor clasificados se 
 | Pos. | Mercado | País | Suburbio de | T1 | T2 | T3 | Punt. |
 |------|---------|------|-------------|----|----|----|-------|
 | 34 | Moorestown-Lenola, NJ | US | Philadelphia | 1 | 0 | 2 | 9.0 |
-| 35 | Tempe, AZ | US | Phoenix | 1 | 0 | 2 | 9.0 |
+| 35 | [[us-az-tempe|Tempe, AZ]] | US | Phoenix | 1 | 0 | 2 | 9.0 |
 | 36 | Markham | CA | Toronto | 1 | 0 | 2 | 9.0 |
 | 37 | Brandon, FL | US | Tampa | 1 | 1 | 0 | 9.0 |
 | 38 | Huntington Beach, CA | US | Los Angeles | 1 | 1 | 0 | 9.0 |
@@ -184,7 +184,7 @@ Los veinticinco Mercados Regionales de América del Norte mejor clasificados se 
 | 109 | Owasso, OK | US | Tulsa | 1 | 0 | 0 | 6.0 |
 | 110 | Stratford Downtown, CT | US | New Haven | 1 | 0 | 0 | 6.0 |
 | 111 | East York, PA | US | Lancaster | 1 | 0 | 0 | 6.0 |
-| 112 | Torrance, CA | US | Los Angeles | 1 | 0 | 0 | 6.0 |
+| 112 | [[us-ca-torrance|Torrance, CA]] | US | Los Angeles | 1 | 0 | 0 | 6.0 |
 | 113 | Lincoln Park, NY | US | Albany | 1 | 0 | 0 | 6.0 |
 | 114 | Bayou Cane, LA | US | New Orleans | 1 | 0 | 0 | 6.0 |
 | 115 | San Leandro, CA | US | San Francisco | 1 | 0 | 0 | 6.0 |
@@ -365,7 +365,7 @@ Los veinticinco Mercados Regionales de América del Norte mejor clasificados se 
 | 275 | Issaquah, WA | US | Seattle | 1 | 0 | 0 | 6.0 |
 | 276 | Mayfield Heights, OH | US | Cleveland | 1 | 0 | 0 | 6.0 |
 | 277 | Oaks, PA | US | Wilmington DE | 1 | 0 | 0 | 6.0 |
-| 278 | Provo, UT | US | Salt Lake City | 1 | 0 | 0 | 6.0 |
+| 278 | [[us-ut-provo-orem|Provo, UT]] | US | Salt Lake City | 1 | 0 | 0 | 6.0 |
 | 279 | Silverdale, WA | US | Seattle | 1 | 0 | 0 | 6.0 |
 | 280 | Owings Mills, MD | US | Baltimore | 1 | 0 | 0 | 6.0 |
 | 281 | Whippany, NJ | US | New York | 1 | 0 | 0 | 6.0 |
@@ -430,7 +430,7 @@ Los veinticinco Mercados Regionales de América del Norte mejor clasificados se 
 | 330 | Carson, CA | US | Los Angeles | 0 | 1 | 1 | 4.5 |
 | 331 | Winter Haven, FL | US | Orlando | 0 | 1 | 1 | 4.5 |
 | 332 | Las Cruces, NM | US | El Paso | 0 | 1 | 1 | 4.5 |
-| 333 | Kenner, LA | US | New Orleans | 0 | 1 | 1 | 4.5 |
+| 333 | [[us-la-kenner|Kenner, LA]] | US | New Orleans | 0 | 1 | 1 | 4.5 |
 | 334 | Delray Beach, FL | US | Miami | 0 | 1 | 1 | 4.5 |
 | 335 | Covina, CA | US | Los Angeles | 0 | 1 | 1 | 4.5 |
 | 336 | Mentor, OH | US | Cleveland | 0 | 1 | 1 | 4.5 |
@@ -474,7 +474,7 @@ Los veinticinco Mercados Regionales de América del Norte mejor clasificados se 
 | 369 | Woodland, CA | US | Sacramento | 1 | 0 | 0 | 4.0 |
 | 370 | Sequim, WA | US | Seattle | 1 | 0 | 0 | 4.0 |
 | 371 | Bel Air South, MD | US | Baltimore | 1 | 0 | 0 | 4.0 |
-| 372 | Eagan, MN | US | Minneapolis | 1 | 0 | 0 | 4.0 |
+| 372 | [[us-mn-eagan|Eagan, MN]] | US | Minneapolis | 1 | 0 | 0 | 4.0 |
 | 373 | Bradenton, FL | US | Tampa | 1 | 0 | 0 | 4.0 |
 | 374 | Madison Park, NJ | US | New York | 1 | 0 | 0 | 4.0 |
 | 375 | Mooresville, NC | US | Charlotte | 1 | 0 | 0 | 4.0 |
@@ -523,6 +523,5 @@ Para la metodología completa, véase [[about-regional-markets-system|Sistema de
 ## Véase también
 
 - [[about-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]]
-- [[about-regional-market-matrix|Matriz de Mercado Regional]]
 - [[co-location-methodology|Metodología de Co-localización]]
 - [[atlas-tier-index-north-america|Índice de Niveles — América del Norte]]

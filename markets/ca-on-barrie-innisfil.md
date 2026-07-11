@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Barrie–Innisfil Regional Market"
 slug: ca-on-barrie-innisfil
+language: en
+language_protocol: PROSE-TOPIC
 category: markets
 type: topic
 content_type: topic
@@ -9,82 +11,46 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-language_protocol: PROSE-TOPIC
-keynote: false
-last_edited: 2026-06-29
-editor: woodfine-editorial
-short_description: "Mid-sized Ontario market north of the Greater Toronto Area with strong retail infrastructure and rapid population growth."
+short_description: "Central Ontario market, 90 km from Toronto — just outside the current Top-400 ranked pool's 80 km band."
 paired_with: markets/ca-on-barrie-innisfil.es.md
+last_edited: 2026-07-10
+editor: editorial
 ---
 
-The **Barrie–Innisfil regional market** is a mid-sized commercial real estate market in
-Simcoe County, Ontario, located approximately 100 kilometres north of downtown Toronto on
-the Barrie–Toronto Highway 400 corridor. The market encompasses the City of Barrie and the
-Town of Innisfil, which function as a continuous commercial and residential agglomeration
-despite their administrative separation. The combined urban area had a census agglomeration
-population of approximately 230,000 in 2021, with substantial in-migration from the Greater
-Toronto Area contributing to above-provincial-average growth rates.
+Barrie, together with neighbouring Innisfil, does not currently appear in the North American
+Top-400 Regional Markets list — at roughly 90 kilometres from Toronto it sits just beyond the
+80 km outer edge of the suburban-regional band the ranking uses.
 
-## Economic profile
+## Overview
 
-Barrie's economy is anchored by a diversified mix of public sector employment, healthcare,
-manufacturing, and construction activity. Georgian College and Royal Victoria Regional Health
-Centre are the two largest institutional employers and generate consistent professional
-service demand in the legal, financial, accounting, and consulting sectors. The health centre
-operates one of the busiest emergency departments in Ontario outside the Greater Toronto Area,
-reflecting Barrie's role as the regional healthcare hub for a large catchment that includes
-Muskoka and Georgian Bay communities.
+According to Wikipedia (accessed 2026-07-10), Barrie had 147,829 residents at the 2021
+census (census metropolitan area 212,856) across 99.01 square kilometres, situated
+approximately 90 km north of Toronto in Central Ontario's Greater Golden Horseshoe region.
+The city functions as both a bedroom community for Toronto and an increasingly diversified
+economic centre, with employment concentrated in education, healthcare, information
+technology, and manufacturing. Major employers include the Simcoe County District School
+Board, Georgian College, Royal Victoria Regional Health Centre, and technology firms
+including IBM and BMO data centres. Park Place (formerly Molson Park) redeveloped former
+brewery lands into a commercial district beginning in 2008. Innisfil, immediately south of
+Barrie, is one of several communities — alongside New Tecumseth and Newmarket — that have
+developed rapidly since 2000; Barrie annexed 2,293 hectares from Innisfil in 2010.
 
-Manufacturing in the automotive supply chain and construction materials sectors provides
-blue-collar employment balanced by the professional service workforce. Innisfil's rapid
-residential growth — driven by GTA commuter demand along the Highway 400 corridor — has
-created a secondary commercial demand layer as new residential communities require local
-retail, medical, and professional services.
+## Regional Market Standing
 
-## Commercial real estate characteristics
+Barrie–Innisfil does not currently appear in the [[atlas-top-400-north-america|Top 400
+Regional Markets — North America]] ranked list. This is not a data defect; at roughly 90 km
+from Toronto, the market falls just outside the 80 km outer boundary of
+[[about-regional-markets-system|the co-location scoring system's]] suburban-regional band,
+placing it in the standalone-secondary category instead.
 
-The market's primary commercial node is centred on Mapleview Drive West and Big Bay Point
-Road in south Barrie, where the major [[power-centres|power centre]] anchors are concentrated. This node
-includes large-format retail — Costco, Home Depot, Best Buy, Winners, Sport Chek — alongside
-community retail and restaurant formats that confirm the income and demand profile required
-for professional centre [[co-location-strategy|co-location]].
+## See Also
 
-Georgian Mall in central Barrie anchors a secondary commercial zone with mid-box and
-fashion retail. The Innisfil commercial corridor along Innisfil Beach Road is developing as
-population growth in the corridor accelerates, with community retail formats beginning to
-establish ahead of larger-format investment.
+- [[about-regional-markets-system|Regional Markets Intelligence System]]
+- [[atlas-canada|Canada Regional Market Index]]
+- [[co-location-methodology|Co-location Methodology]]
 
-Office supply in the Barrie market is predominantly low-rise suburban in character. The
-downtown core retains professional office users, particularly legal and government-adjacent
-services, but suburban professional parks on the south and east sides of the city have
-attracted medical, engineering, and financial services tenants seeking modern floor plates
-and [[parking-ratio-standards|parking ratios]].
+## References
 
-## Growth trajectory
+- [Barrie](https://en.wikipedia.org/wiki/Barrie) — Wikipedia, accessed 2026-07-10
 
-Barrie consistently ranked among the fastest-growing CMAs in Ontario through the 2016–2021
-intercensal period. The completion of the Highway 400 widening and the extension of GO
-Transit rail service to Barrie has increased commuter accessibility while also driving
-residential demand. Population projections for Simcoe County indicate continued above-average
-growth through 2031, supporting a durable professional service demand base.
-
-The Innisfil market is at an earlier stage of commercial maturation: large residential
-subdivisions in the Innisfil Heights and Friday Harbour areas are generating primary retail
-demand, and professional service establishments are beginning to locate ahead of the full
-residential buildout.
-
-## Key indicators
-
-| Indicator | Value | Notes |
-|---|---|---|
-| Census agglomeration population (2021) | ~230,000 | Barrie CMA boundary |
-| Population growth 2016–2021 | ~12% | Above Ontario provincial average |
-| Primary power centre node | Mapleview Drive W. / Big Bay Point | Costco, Home Depot anchors |
-| Major institutional anchors | Georgian College, RVH Health Centre | Consistent professional demand |
-| Highway access | HWY 400 (south to GTA, north to Muskoka) | Primary commercial corridor |
-
-## See also
-
-- [[atlas-canada]] — Canada regional market index and provincial coverage
-- [[atlas-top-600-north-america]] — the North American master market index
-- [[about-regional-markets]] — the co-location framework and market selection criteria
+*Wikipedia content reproduced under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*

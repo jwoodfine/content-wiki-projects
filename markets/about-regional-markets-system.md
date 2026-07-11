@@ -112,7 +112,7 @@ No metro-distance multiplier appears in the formula. Under a previous iteration 
 
 **Current top results.** North America: rank 1 Plano, TX (suburb of Dallas, 28 km, score 25.5); rank 2 Mesa, AZ (suburb of Phoenix, 31 km, score 22.5); rank 3 Frisco, TX (suburb of Dallas, 44 km, score 21.0). Europe: rank 1 Chemnitz (suburb of Dresden, 64 km, score 18.0); rank 5 Krefeld (suburb of Düsseldorf, 19 km, score 12.0).
 
-The full ranked lists are published separately: see [Top 400 Regional Markets — North America](topic-top-400-regional-markets-na) and [Top 400 Regional Markets — Europe](topic-top-400-regional-markets-eu).
+The full ranked lists are published separately: see [[atlas-top-400-north-america|Top 400 Regional Markets — North America]] and [[atlas-top-400-europe|Top 400 Regional Markets — Europe]].
 
 ## Civic Infrastructure Layer
 
@@ -206,7 +206,6 @@ Work planned or intended for the next iterations of the system.
 
 ## See Also
 
-- [[about-regional-market-matrix|Regional Market Matrix]]
 - [[co-location-methodology|Co-location Methodology]]
 - [[co-location-intelligence-overview|Co-location Intelligence Overview]]
 - [[od-catchment-methodology|O-D Catchment Methodology]]

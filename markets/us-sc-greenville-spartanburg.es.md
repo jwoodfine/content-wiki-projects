@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Mercado regional de Greenville–Spartanburg"
 slug: us-sc-greenville-spartanburg
+language: es
+language_protocol: TRANSLATE-ES
 category: markets
 type: topic
 content_type: topic
@@ -9,67 +11,59 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-language_protocol: TRANSLATE-ES
-keynote: false
-last_edited: 2026-06-29
-editor: woodfine-editorial
-short_description: "Mercado del interior de Carolina del Sur con una gran base manufacturera diversificada, ingresos familiares en aumento e infraestructura minorista de power centre consolidada."
+short_description: "Punto de referencia metropolitano de la región Upstate de Carolina del Sur para los mercados suburbanos circundantes — no está en el conjunto clasificado Top-400."
 paired_with: markets/us-sc-greenville-spartanburg.md
+last_edited: 2026-07-10
+editor: editorial
 ---
 
-El **mercado regional de Greenville–Spartanburg** comprende las áreas urbanizadas adyacentes
-de Greenville y Spartanburg en el interior (Upstate) de Carolina del Sur, formando juntas
-uno de los centros comerciales más significativos del sureste de EE. UU. fuera del nivel
-de las grandes metrópolis. El Área Estadística Metropolitana Greenville–Anderson–Mauldin —
-que junto con el AEM de Spartanburg forma un mercado laboral urbano efectivamente continuo
-— tenía una población combinada de aproximadamente 940.000 habitantes en 2021.
+Greenville no tiene entrada propia en la lista Top-400 de Mercados Regionales de América del
+Norte. En el conjunto de datos actual, "Greenville SC" funciona como el punto de referencia
+metropolitano frente al cual se clasifican otros dos mercados — Spartanburg, SC (posición 45)
+y Asheville, NC (posición 104) — como suburbios, en lugar de ser ella misma un mercado
+suburbano.
 
-## Perfil económico
+## Descripción general
 
-La región de Greenville–Spartanburg tiene una de las bases de inversión extranjera directa
-en manufactura más concentradas de EE. UU., liderada por la sede de fabricación estadounidense
-del Grupo BMW en la Planta Spartanburg del condado de Spartanburg (Greer, SC). La planta
-BMW, que produce la línea de vehículos X-series para exportación global, es la instalación
-de exportación automotriz más grande de EE. UU. y emplea aproximadamente a 11.000 personas
-directamente, con un ecosistema de proveedores sustancialmente mayor en los condados
-circundantes.
+Según Wikipedia (consultado el 10 de julio de 2026), la ciudad propia de Greenville tenía
+70.720 habitantes en el censo de 2020 en 30,02 millas cuadradas (área metropolitana
+aproximadamente 1 millón), sirviendo como ciudad ancla de la región Upstate de Carolina del
+Sur, situada aproximadamente a medio camino entre Charlotte y Atlanta. Históricamente "la
+Capital Textil del Mundo", Greenville ha hecho la transición hacia la manufactura avanzada y
+la producción automotriz; entre los principales empleadores se encuentran la sede
+norteamericana de Michelin, Prisma Health, Duke Energy y Bon Secours. La revitalización del
+centro desde las décadas de 1980 y 1990 incluye el Peace Center (1990), Falls Park on the
+Reedy (2004) y el puente peatonal colgante Liberty Bridge (2004).
 
-La base manufacturera se extiende más allá del sector automotriz para incluir Michelin North
-America (con sede en Greenville), GE Power, Bosch y un gran número de proveedores
-manufactureros de nivel 1 y nivel 2. Esta concentración de manufactura de propiedad extranjera
-ha impulsado el crecimiento del ingreso familiar en la región muy por encima de los promedios
-de Carolina del Sur y del sureste de EE. UU., generando demanda de los servicios profesionales
-que acompañan a una población con ingresos familiares por encima del promedio.
+Spartanburg, a unas 30 millas al noreste de Greenville, tenía 38.732 habitantes en el censo
+de 2020 en 20,37 millas cuadradas, situada aproximadamente a 80 millas al oeste de Charlotte.
+La ciudad se beneficia sustancialmente de la planta de fabricación de BMW en la cercana
+localidad de Greer — la única planta de fabricación completa de la empresa en América del
+Norte —, que empleaba a unas 8.800 personas en febrero de 2017. La salud domina el empleo
+local, encabezada por Spartanburg Regional (9.648 puestos), junto con el gobierno del
+condado, el distrito escolar, Wofford College y la sede corporativa de Denny's. Al igual que
+Greenville, la economía de Spartanburg se centraba históricamente en la manufactura textil
+antes de diversificarse hacia la salud, la educación y los servicios corporativos.
 
-Prisma Health (antes Greenville Health System) y el Spartanburg Medical Center proporcionan
-empleo en atención médica y anclan la demanda de servicios profesionales médicos en ambas
-ciudades.
+## Posición en el Mercado Regional
 
-## Características del mercado inmobiliario comercial
-
-El corredor de Haywood Road / Woodruff Road en el este de Greenville es la concentración
-primaria de [[power-centres|power centres]] y comercio minorista suburbano, que incluye Costco, Home Depot,
-Lowe's, Walmart Supercenter, Target, Best Buy y un ecosistema minorista integral de
-medianas y grandes superficies. Este corredor, que corre aproximadamente paralelo a la
-Interestatal 85, se extiende hacia Mauldin y Simpsonville al sur.
-
-El centro de Greenville ha experimentado una revitalización significativa desde la década
-de 1990, anclada por la zona peatonal Falls Park on the Reedy y el desarrollo comercial de
-Main Street. El centro de Spartanburg está más orientado al mercado industrial adyacente a
-lo largo del corredor de la Interestatal 85.
-
-## Indicadores clave
-
-| Indicador | Valor | Notas |
-|---|---|---|
-| Población combinada del AEM (2021) | ~940.000 | AEM Greenville–Anderson + AEM Spartanburg |
-| Corredor primario de power centre | Woodruff Road / Haywood Road (este de Greenville) | Anclas Costco, Home Depot, Walmart |
-| Principales anclas manufactureras | Planta BMW Spartanburg; sede de Michelin North America; GE Power | Centro de inversión extranjera directa en manufactura |
-| Principales anclas institucionales | Prisma Health (Greenville); Spartanburg Medical Center; Universidad de Furman | Atención médica como ancla principal de demanda |
-| Acceso a autopistas | I-85 (noreste hacia Charlotte; suroeste hacia Atlanta); I-26 (sureste hacia Columbia) | Centro de autopistas del interior de Carolina del Sur |
+Greenville no aparece como entrada clasificada en la lista
+[[atlas-top-400-north-america|Top 400 Mercados Regionales — América del Norte]]. Esto no es
+un defecto de datos: en la versión actual, "Greenville SC" es el punto de referencia
+metropolitano de otras dos entradas suburbanas (Spartanburg, posición 45, puntuación 9,0;
+Asheville, posición 104, puntuación 7,5), conforme a la propia taxonomía de
+[[about-regional-markets-system|el sistema de puntuación de co-ubicación]], que excluye los
+núcleos metropolitanos del conjunto clasificado suburbano-regional.
 
 ## Véase también
 
-- [[atlas-united-states]] — índice de mercados regionales de EE. UU. y cobertura de regiones censales
-- [[atlas-top-600-north-america]] — el índice maestro de mercados norteamericanos
-- [[about-regional-markets]] — el marco de co-ubicación y los criterios de selección de mercados
+- [[about-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]]
+- [[atlas-united-states|Índice de Mercados Regionales de Estados Unidos]]
+- [[co-location-methodology|Metodología de Co-ubicación]]
+
+## Referencias
+
+- [Greenville, Carolina del Sur](https://en.wikipedia.org/wiki/Greenville,_South_Carolina) — Wikipedia, consultado 2026-07-10
+- [Spartanburg, Carolina del Sur](https://en.wikipedia.org/wiki/Spartanburg,_South_Carolina) — Wikipedia, consultado 2026-07-10
+
+*Contenido de Wikipedia reproducido bajo [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*

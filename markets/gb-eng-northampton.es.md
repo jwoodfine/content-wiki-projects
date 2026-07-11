@@ -2,72 +2,68 @@
 schema: foundry-doc-v1
 title: "Mercado regional de Northampton"
 slug: gb-eng-northampton
+language: es
+language_protocol: TRANSLATE-ES
 category: markets
-type: topic
+type: reference
 content_type: topic
 quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-language_protocol: TRANSLATE-ES
-keynote: false
-last_edited: 2026-06-29
-editor: woodfine-editorial
-short_description: "Centro logístico y de distribución de las East Midlands posicionado en el corredor de la autopista M1 con una creciente base de servicios profesionales e infraestructura integral de parques de venta minorista."
+short_description: "Mercado Regional número 372 en Europa — suburbio de Coventry; puntuación compuesta 3,0."
 paired_with: markets/gb-eng-northampton.md
+last_edited: 2026-07-10
+editor: editorial
 ---
 
-El **mercado regional de Northampton** es la ciudad principal de Northamptonshire en las
-East Midlands de Inglaterra, ubicada aproximadamente a 110 kilómetros al norte de Londres
-en la autopista M1. El área urbana de Northampton tenía una población de aproximadamente
-220.000 habitantes en 2021, y el condado de Northamptonshire más amplio — que comprende
-Northampton, Kettering, Corby y Wellingborough — tiene una población combinada de
-aproximadamente 750.000 personas. Northampton es una de las mayores ciudades de mercado
-inglesas y uno de los pocos centros de población del Reino Unido de este tamaño que carece
-de estatus de ciudad, una característica que no refleja la escala y diversidad de su
-economía comercial y de servicios profesionales.
+Northampton, antigua ciudad manufacturera de calzado que hoy funciona como ciudad dormitorio
+de Londres y centro logístico de las East Midlands, ocupa el puesto 372 entre los 400
+Mercados Regionales de Europa con una puntuación compuesta de 3,0, cerca del límite inferior
+de la lista clasificada.
 
-## Perfil económico
+## Descripción general
 
-La economía de Northampton ha estado históricamente anclada por la fabricación de calzado
-(la ciudad fue la capital tradicional inglesa de la fabricación de zapatos), la logística
-y la distribución, y este énfasis logístico ha crecido sustancialmente con la expansión
-de la capacidad de almacenamiento y distribución en el corredor de la M1. Amazon, ASOS,
-Hermes Parcelnet y un gran número de grandes minoristas y operadores de comercio electrónico
-han establecido centros de distribución en la zona logística de Northamptonshire, lo que la
-convierte en una de las concentraciones de empleo en distribución más significativas del
-Reino Unido fuera de la conurbación de las East Midlands.
+Según Wikipedia (consultado el 10 de julio de 2026), el área urbana de Northampton tenía
+249.093 habitantes en el censo de 2021 (137.387 solo en la parroquia). La ciudad se
+encuentra a entre 40 y 50 millas de Coventry, aproximadamente 50 millas al sureste de
+Birmingham. Históricamente un importante centro de manufactura de calzado y cuero durante
+los siglos XIX y principios del XX, la industria del calzado declinó tras la Primera Guerra
+Mundial; la ciudad fue designada Nueva Ciudad de Londres en 1968 y hoy funciona
+principalmente como ciudad dormitorio. Wikipedia no enumera empleadores contemporáneos
+importantes, pero las industrias históricas incluyeron la manufactura de calzado, las obras
+de hierro y el hilado de algodón. La regeneración reciente incluye el Grosvenor Centre, la
+zona comercial Market Walk y una estación de ferrocarril reconstruida; St Giles Street fue
+nombrada "Mejor Calle Comercial Británica" en 2015. La población se ha diversificado
+notablemente, con una migración destacada de Europa del Este entre 2001 y 2011 y comunidades
+crecientes de origen africano y asiático.
 
-El Northampton General Hospital NHS Trust es el principal hospital de atención aguda para
-Northamptonshire. La Universidad de Northampton, con aproximadamente 14.000 estudiantes y
-un reciente traslado del campus al Northampton Waterside Campus (2018), se ha convertido
-en un ancla institucional más visible.
+## Posición en el Mercado Regional
 
-## Características del mercado inmobiliario comercial
+| Campo | Valor |
+|---|---|
+| Posición | 372 de 400 (Europa) |
+| Puntuación compuesta | 3,0 |
+| Clústeres de Nivel 1 | 0 |
+| Clústeres de Nivel 2 | 0 |
+| Clústeres de Nivel 3 | 2 |
+| Suburbio de | Coventry |
 
-La concentración primaria de parques de venta minorista de Northampton está en el Riverside
-Retail Park y el Nene Valley Retail Park a lo largo del corredor oriental de la A45, donde
-Marks & Spencer, Next, Costco, Home Bargains, B&Q y supermercados anclan una franja minorista
-integral equivalente al [[power-centres|power centre]]. El Sixfields Leisure and Retail Park al oeste proporciona
-capacidad adicional de gran formato.
-
-La demanda de oficinas profesionales en Northampton está impulsada por la ingeniería y
-gestión de proyectos logísticos, los servicios financieros de respaldo, y los servicios
-jurídicos y de seguros. La proximidad a Londres atrae operaciones de oficinas de respaldo
-de empresas de servicios financieros y profesionales con sede en Londres.
-
-## Indicadores clave
-
-| Indicador | Valor | Notas |
-|---|---|---|
-| Población del área urbana (2021) | ~220.000 | Área urbana de Northampton |
-| Población del condado de Northamptonshire | ~750.000 | Zona de captación del condado |
-| Parque de venta minorista primario | Riverside Retail Park (corredor A45 oriental) | Anclas M&S, Next, Costco, B&Q |
-| Principales anclas institucionales | Northampton General Hospital; Universidad de Northampton; sector logístico | Logística como principal motor de empleo privado |
-| Acceso vial | M1 (cruces 15/15a — Londres–Leeds); A45 (carretera este-oeste del condado) | Centro del corredor de la M1 |
+El detalle a nivel de clúster — las anclas minoristas y cívicas específicas que componen cada
+uno de los dos clústeres de Nivel 3 de Northampton — está pendiente del conjunto de datos SIG
+subyacente y no se incluye en este esbozo. Véase
+[[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]] para la lista clasificada
+completa y [[co-location-methodology|Metodología de Co-ubicación]] para conocer cómo se
+calcula la puntuación compuesta.
 
 ## Véase también
 
-- [[atlas-united-kingdom]] — índice del mercado regional del Reino Unido
-- [[atlas-top-600-europe]] — el índice maestro de mercados europeos
-- [[about-regional-markets]] — el marco de co-ubicación y los criterios de selección de mercados
+- [[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]]
+- [[about-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]]
+- [[co-location-methodology|Metodología de Co-ubicación]]
+
+## Referencias
+
+- [Northampton](https://en.wikipedia.org/wiki/Northampton) — Wikipedia, consultado 2026-07-10
+
+*Contenido de Wikipedia reproducido bajo [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*

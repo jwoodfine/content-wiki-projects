@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Mercado regional de Moncton"
 slug: ca-nb-moncton
+language: es
+language_protocol: TRANSLATE-ES
 category: markets
 type: topic
 content_type: topic
@@ -9,72 +11,50 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-language_protocol: TRANSLATE-ES
-keynote: false
-last_edited: 2026-06-29
-editor: woodfine-editorial
-short_description: "Principal centro comercial y logístico del Atlántico canadiense, mercado bilingüe con fuerte inversión minorista y una zona de captación regional en todo Nuevo Brunswick."
+short_description: "Centro comercial de la Canadá marítima — fuera del conjunto clasificado Top-400 actual (sin núcleo metropolitano dominante cercano)."
 paired_with: markets/ca-nb-moncton.md
+last_edited: 2026-07-10
+editor: editorial
 ---
 
-El **mercado regional de Moncton** es el centro comercial dominante en el Atlántico canadiense
-fuera de Halifax, ubicado en el centro geográfico de Nuevo Brunswick donde la autopista
-Trans-Canada cruza las principales rutas hacia la Isla del Príncipe Eduardo, Nueva Escocia
-y la costa de Fundy. El Área Metropolitana del Censo de Moncton — que comprende Moncton,
-Riverview y Dieppe — tenía una población de aproximadamente 183.000 habitantes en 2021.
+Moncton, el centro comercial de las provincias marítimas, no aparece actualmente en la lista
+Top-400 de Mercados Regionales de América del Norte — la región carece de un único núcleo
+metropolitano dominante frente al cual aplicaría la banda de distancia suburbano-regional de
+la clasificación.
 
-Moncton es el centro urbano más bilingüe importante de Canadá fuera del área de Ottawa–Gatineau,
-con residentes francófonos concentrados en Dieppe y muchas comunidades suburbanas y
-residentes angloparlantes concentrados en la ciudad de Moncton. Esta demografía bilingüe
-genera una estructura de demanda de servicios profesionales distintiva: los servicios
-gubernamentales, jurídicos y financieros frecuentemente mantienen operaciones paralelas en
-francés e inglés.
+## Descripción general
 
-## Perfil económico
+Según Wikipedia (consultado el 10 de julio de 2026), la ciudad propia de Moncton tenía 79.470
+habitantes en el censo de 2021 (área metropolitana 157.717) en 140,67 kilómetros cuadrados,
+situada en el sureste de Nuevo Brunswick, en el centro geográfico de las provincias
+marítimas, a lo largo del río Petitcodiac. La economía es estable y diversificada, basada en
+el transporte, la distribución, el comercio minorista y el patrimonio comercial, complementada
+por educación, salud, finanzas, TI y seguros. Moncton se beneficia de una fuerza laboral
+bilingüe y de la mayor zona de captación del Atlántico canadiense — 1,6 millones de personas
+a menos de tres horas de distancia. Más de 37 centros de llamadas emplean a más de 5.000
+personas; entre las sedes corporativas se encuentran Assumption Life, Atlantic Lottery
+Corporation y Medavie Blue Cross, junto con operaciones del Grupo Irving y una cervecería de
+Molson Coors. El desarrollo comercial reciente incluye el recinto Avenir Centre (2018) y
+centros comerciales como Champlain Place y Wheeler Park Power Centre.
 
-La economía de Moncton está anclada por la logística y el transporte (reflejando su posición
-como el centro de transporte marítimo), el comercio minorista, los servicios gubernamentales,
-los servicios financieros y los seguros. La ciudad alberga las sedes regionales de varias
-instituciones financieras nacionales y compañías de seguros. La Université de Moncton, una
-de las universidades francoparlantes más grandes de Canadá, es un empleador institucional
-significativo.
+## Posición en el Mercado Regional
 
-Las dos redes de salud del Nuevo Brunswick — Vitalité Health Network (francés) y Horizon
-Health Network (inglés) — operan sus principales centros hospitalarios en Moncton, convirtiendo
-a la ciudad en el centro médico de facto para toda la provincia.
-
-## Características del mercado inmobiliario comercial
-
-La concentración minorista primaria de Moncton se encuentra a lo largo de Wheeler Boulevard
-y el corredor de Mapleton Road en el norte de Moncton, donde las anclas de gran formato
-incluyendo Costco, Home Depot, Walmart Supercentre y Canadian Tire anclan un extenso complejo
-de [[power-centres|power centres]]. Trinity Drive en el sector de Dieppe se ha desarrollado como un nodo
-minorista paralelo que sirve a la creciente población suburbana francófona.
-
-La oferta de espacio de oficinas profesionales incluye el centro de Moncton, donde el sector
-de servicios financieros mantiene presencia tradicional de oficinas, y parques profesionales
-suburbanos en Riverview y Dieppe.
-
-## Características del mercado bilingüe
-
-El bilingüismo de Moncton crea un mercado de servicios profesionales que es efectivamente el
-doble de su tamaño aparente: los bufetes de abogados, despachos contables, asesores
-financieros y consultas médicas frecuentemente operan en ambas lenguas oficiales, y la
-demanda profesional relacionada con la prestación de servicios federales bilingües en la
-región se suma a la demanda del sector privado.
-
-## Indicadores clave
-
-| Indicador | Valor | Notas |
-|---|---|---|
-| Población del AMA (2021) | ~183.000 | AMA de Moncton–Riverview–Dieppe |
-| Composición lingüística | ~35% francés, ~65% inglés (aprox.) | Varía según el municipio dentro del AMA |
-| Nodo primario de power centre | Corredor Wheeler Blvd / Mapleton Road | Anclas Costco, Home Depot, Walmart |
-| Principales anclas institucionales | Université de Moncton; redes hospitalarias Vitalité + Horizon | Empleadores institucionales bilingües |
-| Acceso a autopistas | Trans-Canada (AUTOPISTA 1); AUTOPISTA 15 (aeropuerto); AUTOPISTA 2 (norte-sur) | Centro de transporte atlántico |
+Moncton no aparece actualmente en la lista clasificada
+[[atlas-top-400-north-america|Top 400 Mercados Regionales — América del Norte]]. Esto no es
+un defecto de datos; la Canadá marítima no cuenta con un único núcleo metropolitano dominante
+frente al cual la banda de distancia suburbano-regional de 15 a 80 km de
+[[about-regional-markets-system|el sistema de puntuación de co-ubicación]] clasificaría a
+Moncton — funciona como su propio centro comercial regional en lugar de como suburbio de una
+metrópolis mayor.
 
 ## Véase también
 
-- [[atlas-canada]] — índice del mercado regional de Canadá y cobertura provincial
-- [[atlas-top-600-north-america]] — el índice maestro de mercados norteamericanos
-- [[about-regional-markets]] — el marco de co-ubicación y los criterios de selección de mercados
+- [[about-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]]
+- [[atlas-canada|Índice de Mercados Regionales de Canadá]]
+- [[co-location-methodology|Metodología de Co-ubicación]]
+
+## Referencias
+
+- [Moncton](https://en.wikipedia.org/wiki/Moncton) — Wikipedia, consultado 2026-07-10
+
+*Contenido de Wikipedia reproducido bajo [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*

@@ -20,7 +20,7 @@ paired_with: markets/atlas-united-states.md
 El **índice de mercados regionales de Estados Unidos** clasifica las ciudades y áreas
 estadísticas metropolitanas de EE.UU. fuera de los distritos centrales de negocios de las
 grandes metrópolis que cumplen los umbrales de población, ingresos disponibles e
-infraestructura comercial establecidos por el [[about-regional-markets|marco de mercados regionales
+infraestructura comercial establecidos por el [[about-regional-markets-system|marco de mercados regionales
 de co-ubicación]]. Estados Unidos contiene la mayor concentración de mercados regionales
 calificados en el índice [[atlas-top-600-north-america|TOP600 Norteamérica]].
 
@@ -64,5 +64,5 @@ en el norte de Nueva York, Pensilvania, Connecticut y New Hampshire.
 ## Véase también
 
 - [[atlas-top-600-north-america]] — el índice maestro norteamericano
-- [[about-regional-markets]] — la metodología de co-ubicación y los criterios de selección de
+- [[about-regional-markets-system]] — la metodología de co-ubicación y los criterios de selección de
   mercados
