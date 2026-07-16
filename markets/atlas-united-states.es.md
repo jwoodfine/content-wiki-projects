@@ -81,7 +81,7 @@ mercados).
 
 | Posición | Mercado | Suburbio de | km | N1 | N2 | N3 | Cívica | Puntuación |
 |---|---|---|---|---|---|---|---|---|
-| 1 | Plano, TX | Dallas | 28 | 3 | 2 | 1 | Sí | 25,5 |
+| 1 | [[us-tx-plano|Plano, TX]] | Dallas | 28 | 3 | 2 | 1 | Sí | 25,5 |
 | 2 | Mesa, AZ | Phoenix | 31 | 2 | 2 | 3 | Sí | 22,5 |
 | 3 | [[us-tx-frisco\|Frisco, TX]] | Dallas | 44 | 3 | 1 | 0 | Sí | 21,0 |
 | 5 | Santa Clarita, CA | Los Angeles | 48 | 2 | 2 | 0 | Sí | 18,0 |
@@ -132,7 +132,7 @@ canadienses o mexicanas filtradas.
 | 42 | Brandermill, VA | Richmond | — | 1 | 1 | 0 | — | 9,0 |
 | 43 | Irving, TX | Dallas | — | 1 | 1 | 0 | — | 9,0 |
 | 44 | Sandy, UT | Salt Lake City | — | 1 | 1 | 0 | — | 9,0 |
-| 45 | Spartanburg, SC | Greenville SC | — | 1 | 1 | 0 | — | 9,0 |
+| 45 | [[us-sc-greenville-spartanburg|Spartanburg, SC]] | Greenville SC | — | 1 | 1 | 0 | — | 9,0 |
 | 46 | The Woodlands, TX | Houston | — | 1 | 1 | 0 | — | 9,0 |
 | 47 | Temecula, CA | Riverside | — | 1 | 1 | 0 | — | 9,0 |
 | 48 | Denton, TX | Fort Worth | — | 1 | 1 | 0 | — | 9,0 |

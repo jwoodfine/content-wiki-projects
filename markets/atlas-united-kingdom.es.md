@@ -87,7 +87,7 @@ población.
 | 28 | Cheshire East | Manchester | — | 0 | 3 | 0 | — | 9,0 |
 | 30 | Hillingdon | Londres | — | 1 | 0 | 1 | — | 7,5 |
 | 31 | Derby | Nottingham | — | 1 | 0 | 1 | — | 7,5 |
-| 32 | Cheshire West and Chester | Wigan | — | 1 | 0 | 1 | — | 7,5 |
+| 32 | [[gb-eng-chester|Cheshire West and Chester]] | Wigan | — | 1 | 0 | 1 | — | 7,5 |
 | 54 | Durham | Newcastle | — | 0 | 2 | 1 | — | 7,5 |
 | 55 | East Riding of Yorkshire | Leeds | — | 0 | 2 | 1 | — | 7,5 |
 | 57 | Thurrock | Londres | — | 1 | 0 | 0 | — | 6,0 |

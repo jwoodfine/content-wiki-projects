@@ -54,7 +54,7 @@ Los veinticinco Mercados Regionales de América del Norte mejor clasificados se 
 
 | Pos. | Mercado | País | Suburbio de | km | T1 | T2 | T3 | Cívico | Punt. |
 |------|---------|------|-------------|----|----|----|----|--------|-------|
-| 1 | Plano, TX | US | Dallas | 28 | 3 | 2 | 1 | Sí | 25.5 |
+| 1 | [[us-tx-plano|Plano, TX]] | US | Dallas | 28 | 3 | 2 | 1 | Sí | 25.5 |
 | 2 | Mesa, AZ | US | Phoenix | 31 | 2 | 2 | 3 | Sí | 22.5 |
 | 3 | [[us-tx-frisco|Frisco, TX]] | US | Dallas | 44 | 3 | 1 | 0 | Sí | 21.0 |
 | 4 | [[ca-on-mississauga|Mississauga, ON]] | CA | Toronto | 25 | 2 | 1 | 2 | Sí | 18.0 |
@@ -110,7 +110,7 @@ Los veinticinco Mercados Regionales de América del Norte mejor clasificados se 
 | 42 | Brandermill, VA | US | Richmond | 1 | 1 | 0 | 9.0 |
 | 43 | Irving, TX | US | Dallas | 1 | 1 | 0 | 9.0 |
 | 44 | Sandy, UT | US | Salt Lake City | 1 | 1 | 0 | 9.0 |
-| 45 | Spartanburg, SC | US | Greenville SC | 1 | 1 | 0 | 9.0 |
+| 45 | [[us-sc-greenville-spartanburg|Spartanburg, SC]] | US | Greenville SC | 1 | 1 | 0 | 9.0 |
 | 46 | The Woodlands, TX | US | Houston | 1 | 1 | 0 | 9.0 |
 | 47 | Temecula, CA | US | Riverside | 1 | 1 | 0 | 9.0 |
 | 48 | Denton, TX | US | Fort Worth | 1 | 1 | 0 | 9.0 |

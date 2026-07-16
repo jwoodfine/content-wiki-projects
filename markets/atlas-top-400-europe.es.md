@@ -104,7 +104,7 @@ Los veinticinco Mercados Regionales europeos mejor clasificados se enumeran a co
 |------|--------|---------|-----------|----|----|----|-------|
 | 30 | Hillingdon | GB | London | 1 | 0 | 1 | 7.5 |
 | 31 | Derby | GB | Nottingham | 1 | 0 | 1 | 7.5 |
-| 32 | Cheshire West and Chester | GB | Wigan | 1 | 0 | 1 | 7.5 |
+| 32 | [[gb-eng-chester|Cheshire West and Chester]] | GB | Wigan | 1 | 0 | 1 | 7.5 |
 | 33 | [[fr-chambery|Chambéry]] | FR | Grenoble | 1 | 0 | 1 | 7.5 |
 | 34 | Albi | FR | Toulouse | 1 | 0 | 1 | 7.5 |
 | 35 | Cambrai | FR | Valenciennes | 1 | 0 | 1 | 7.5 |

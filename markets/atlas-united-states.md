@@ -82,7 +82,7 @@ same 400-market ranking).
 
 | Rank | Market | Suburb of | km | T1 | T2 | T3 | Civic | Score |
 |---|---|---|---|---|---|---|---|---|
-| 1 | Plano, TX | Dallas | 28 | 3 | 2 | 1 | Yes | 25.5 |
+| 1 | [[us-tx-plano|Plano, TX]] | Dallas | 28 | 3 | 2 | 1 | Yes | 25.5 |
 | 2 | Mesa, AZ | Phoenix | 31 | 2 | 2 | 3 | Yes | 22.5 |
 | 3 | [[us-tx-frisco\|Frisco, TX]] | Dallas | 44 | 3 | 1 | 0 | Yes | 21.0 |
 | 5 | Santa Clarita, CA | Los Angeles | 48 | 2 | 2 | 0 | Yes | 18.0 |
@@ -132,7 +132,7 @@ are Canadian or Mexican entries filtered out.
 | 42 | Brandermill, VA | Richmond | — | 1 | 1 | 0 | — | 9.0 |
 | 43 | Irving, TX | Dallas | — | 1 | 1 | 0 | — | 9.0 |
 | 44 | Sandy, UT | Salt Lake City | — | 1 | 1 | 0 | — | 9.0 |
-| 45 | Spartanburg, SC | Greenville SC | — | 1 | 1 | 0 | — | 9.0 |
+| 45 | [[us-sc-greenville-spartanburg|Spartanburg, SC]] | Greenville SC | — | 1 | 1 | 0 | — | 9.0 |
 | 46 | The Woodlands, TX | Houston | — | 1 | 1 | 0 | — | 9.0 |
 | 47 | Temecula, CA | Riverside | — | 1 | 1 | 0 | — | 9.0 |
 | 48 | Denton, TX | Fort Worth | — | 1 | 1 | 0 | — | 9.0 |

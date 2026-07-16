@@ -10,7 +10,7 @@ short_description: "The places, ranked: the Top 400 suburban markets in North Am
 status: active
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-10
+last_edited: 2026-07-16
 editor: editorial
 paired_with: _index.es.md
 ---
@@ -23,16 +23,51 @@ scored by [[about-regional-markets-system|a composite of retail co-location tier
 civic-anchor presence]]. Country-level co-location indices and tier indices sit alongside
 the two lists and supply the underlying cluster data the ranking is built from.
 
-**39 individual market profile pages** exist today (EN+ES pairs), each with population and
-economic context sourced from Wikipedia. **17 of these are verified entries in the Top 400
-ranked lists** and are wikilinked directly from the ranked tables — Plano, Mississauga,
-Frisco, Tempe, Torrance, Provo, Kenner, and Eagan in North America; Chemnitz-adjacent
-Krefeld, Kaiserslautern, Bielsko-Biała, Chambéry, Järfälla, York, Breda, Warrington,
-Cherwell, and Northampton in Europe. **22 profile pages describe markets outside the
-current Top-400 ranked pool** — either functioning as metro-core reference points for other
-ranked entries (e.g. Augsburg, Nuremberg, Colorado Springs) or as standalone-secondary
-markets beyond the 80 km suburban-regional band (e.g. Wichita, Zaragoza, Spokane) — each
-says so explicitly rather than presenting an unranked market as if it were ranked.
+**41 individual market profile pages** exist today (EN+ES pairs), each with population and
+economic context sourced from Wikipedia — corrected 2026-07-16 from a stale count of 39.
+**20 of these are verified entries in the Top 400 ranked lists** and are wikilinked
+directly from the ranked tables. Three of the twenty (Plano, Spartanburg/Greenville, and
+Cheshire West and Chester) were real TOP400 entries whose continental-table rows lacked
+a wikilink to their existing profile page until this pass — fixed alongside this table,
+not left as a silent gap.
+
+**Verified TOP400 entries (20):**
+
+| Profile | Market | Continent |
+|---|---|---|
+| [[us-tx-plano]] | Plano, TX (rank 1) | North America |
+| [[ca-on-mississauga]] | Mississauga, ON (rank 4) | North America |
+| [[us-tx-frisco]] | Frisco, TX (rank 3) | North America |
+| [[us-sc-greenville-spartanburg]] | Spartanburg, SC (rank 45) | North America |
+| [[us-az-tempe]] | Tempe, AZ (rank 35) | North America |
+| [[us-ca-torrance]] | Torrance, CA (rank 112) | North America |
+| [[us-ut-provo-orem]] | Provo, UT (rank 278) | North America |
+| [[us-la-kenner]] | Kenner, LA (rank 333) | North America |
+| [[us-mn-eagan]] | Eagan, MN (rank 372) | North America |
+| [[de-nw-krefeld]] | Krefeld, Stadt (rank 5) | Europe |
+| [[de-rp-kaiserslautern]] | Kaiserslautern, Stadt (rank 4) | Europe |
+| [[fr-chambery]] | Chambéry (rank 33) | Europe |
+| [[se-jarfalla]] | Järfälla (rank 60) | Europe |
+| [[gb-eng-york]] | York (rank 266) | Europe |
+| [[nl-breda]] | Breda (rank 286) | Europe |
+| [[gb-eng-warrington]] | Warrington (rank 294) | Europe |
+| [[gb-eng-cherwell]] | Cherwell (rank 368) | Europe |
+| [[gb-eng-northampton]] | Northampton (rank 372) | Europe |
+| [[pl-bielsko-biala]] | Bielsko-Biała | Europe |
+| [[gb-eng-chester]] | Cheshire West and Chester (rank 32) | Europe |
+
+**Reference-only profiles (21)** — real places, but not currently ranked TOP400 entries:
+either metro-core reference points for other ranked entries, or standalone markets outside
+the 15–80 km suburban band. Each profile page says so explicitly rather than presenting an
+unranked market as if it were ranked.
+
+North America: [[ca-ab-lethbridge]], [[ca-bc-kelowna]], [[ca-nb-moncton]],
+[[ca-on-barrie-innisfil]], [[ca-sk-regina]], [[us-co-colorado-springs]],
+[[us-co-fort-collins]], [[us-ks-wichita]], [[us-wa-spokane]], [[us-wi-madison]].
+
+Europe: [[de-bw-ulm]], [[de-by-augsburg]], [[de-by-nurnberg]], [[de-nw-bielefeld]],
+[[de-th-erfurt]], [[es-ar-zaragoza-secondary]], [[es-cl-burgos]], [[es-cl-valladolid]],
+[[es-nc-pamplona]], [[es-pv-vitoria-gasteiz]], [[gb-sct-inverness]].
 
 Two other "Regional Markets" articles that predate the current co-location system —
 `about-regional-markets` and `about-regional-market-matrix` — are marked `status:
