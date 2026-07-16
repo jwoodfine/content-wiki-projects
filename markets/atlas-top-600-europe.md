@@ -63,11 +63,13 @@ Primary coverage focuses on markets across:
 - **Netherlands, Belgium, Austria, Switzerland** — targeted coverage of OECD-standard
   income regional markets
 
-**Flag, not resolved (2026-07-16):** see the equivalent note in
-[[atlas-top-600-north-america]] — a fresh Command handoff suggests project-gis's live
-scoring tool has a real TOP600-named tiering system (top400 + a separate buffer tier), not
-dead scaffolding; whether it's the same methodology this stub describes needs the actual
-seed-data file before rewriting or superseding this article.
+**Update (2026-07-16) — partially resolved.** See the equivalent note in
+[[atlas-top-600-north-america]]: Command has since confirmed "TOP400" is a permanent
+public label (not a rename-in-progress), and project-gis's live scoring tool produces a
+real top400/buffer tiering (83 buffer markets: NA 20, EU 63) — not dead scaffolding.
+Still unreconciled: whether that live tiering matches this stub's own described
+methodology; the seed-data file needed to check has not actually landed despite being
+marked staged.
 
 ## Country sub-indexes
 

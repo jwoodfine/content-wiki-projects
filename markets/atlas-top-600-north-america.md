@@ -55,16 +55,21 @@ The index covers markets across:
 
 Country-level sub-indexes provide ranked market tables for each jurisdiction.
 
-**Flag, not resolved (2026-07-16):** a fresh handoff from Command describes project-gis's
-live `score-regional-markets.py` tool outputting to a file literally named `rm-top600.json`,
-with `top400` as a filtered tier within it and a separate "buffer" tier (NA 20, EU 63)
-below the published cutoff — suggesting a live, real TOP600-named system exists at the tool
-level, not the dead/abandoned scaffolding an earlier reading of this stub article alone
-suggested. Whether that live tiering (top400 + buffer) is the same methodology this stub
-describes (population 50,000–500,000, disposable-income + power-centre screens) or a
-different, complementary one is not yet reconciled — needs the actual seed-data file
-(referenced in the Command handoff but not yet landed) before this article is rewritten or
-marked superseded either way.
+**Update (2026-07-16) — partially resolved.** A same-day Command correction clarifies:
+"TOP400" is a **permanent public label by design**, not a rename-in-progress — the
+earlier framing on this page (or elsewhere) treating TOP400/TOP600 as two names for one
+list-in-transition was itself wrong (`gis-top600-proforma-coverage` BRIEF, project-gis,
+commit `ee004649`). Separately confirmed real and live: project-gis's
+`score-regional-markets.py` tool produces `rm-top600.json` with a `top400` tier (the
+published subset, matching `atlas-top-400-*`) and a distinct **"buffer" tier** — 83
+markets total (NA 20, EU 63), the unpublished overflow pool one rank below the TOP400
+cutoff, not a fixed round number. **Still unreconciled**: whether that live top400/buffer
+tiering is the same methodology this stub article describes (population 50,000–500,000,
+disposable-income + power-centre screens) — the seed-data file needed to check this is
+referenced in Command's handoff but has not actually landed at
+`.agent/drafts-outbound/DATA-regional-markets-top400-2026-07-16.json` as of this
+check (2026-07-16) despite being marked staged. This article stays un-rewritten and
+un-superseded until that file arrives and the methodologies can be compared directly.
 
 ## Relationship to the global market framework
 
