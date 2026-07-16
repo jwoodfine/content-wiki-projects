@@ -13,7 +13,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Ranked list of the 400 highest-scoring European Regional Markets under the corrected suburban-regional methodology. Rank 1: Chemnitz (suburb of Dresden, 64 km, score 18.0)."
 paired_with: markets/atlas-top-400-europe.es.md
-last_edited: 2026-06-17
+last_edited: 2026-07-16
 editor: editorial
 ---
 
@@ -45,7 +45,7 @@ European T1 cluster compositions differ meaningfully from North American ones. I
 
 ## Suburban Geography
 
-The 400 markets span 11 European countries. Germany leads with 124 markets, reflecting the polycentric character of the German urban system and dense suburban retail development in the Rhine-Ruhr, Rhine-Neckar, and Saxon-Thuringian corridors. France contributes 102 markets, the United Kingdom 81, Spain 23, Italy 21, Poland 16, and the Netherlands 14.
+The list spans 399 verified distinct markets across 11 European countries, occupying 399 of 400 ranked slots (rank 285 is vacant — see the data correction note in the Country Breakdown section). Germany leads with 124 markets, reflecting the polycentric character of the German urban system and dense suburban retail development in the Rhine-Ruhr, Rhine-Neckar, and Saxon-Thuringian corridors. France contributes 102 markets, the United Kingdom 81, Spain 22, Italy 21, Poland 16, and the Netherlands 14.
 
 The metropolitan areas generating the most qualifying suburbs are London (14), Paris (14), Stuttgart (12), and Le Havre (9). The Rhine-Ruhr system — encompassing Düsseldorf, Essen, Cologne, and Dortmund — collectively generates over 30 qualifying suburbs across multiple reference metro centroids.
 
@@ -373,7 +373,7 @@ The twenty-five highest-ranked European Regional Markets are listed below, with 
 | 282 | Vejle | DK | Odense | 0 | 2 | 0 | 6.0 |
 | 283 | Rudersdal | DK | Copenhagen | 0 | 2 | 0 | 6.0 |
 | 284 | Viersen, Stadt | DE | Düsseldorf | 0 | 2 | 0 | 6.0 |
-| 285 | Auch | ES | Toulouse | 0 | 2 | 0 | 6.0 |
+| 285 | *(vacant — see note below)* | — | — | — | — | — | — |
 
 ### Ranks 286–331 — scores 5.0 to 4.5
 
@@ -506,6 +506,15 @@ The twenty-five highest-ranked European Regional Markets are listed below, with 
 | 400 | Cannock Chase | GB | Birmingham | 0 | 1 | 0 | 3.0 |
 
 
+**Data correction note (2026-07-16):** rank 285 previously listed "Auch, ES" — a duplicate
+of the genuine rank-15 entry (Auch, France, a suburb of Toulouse), entered a second time
+under a corrupted country code. Auch is a real French market and does not have a Spanish
+counterpart; the duplicate has been removed rather than left in place or replaced with an
+invented market. Rank 285 is intentionally vacant pending a genuine 400th market from
+project-gis's live regional-markets scoring export — inventing a replacement name or score
+here would misstate real data. The country tally below reflects 399 verified distinct
+markets across the remaining 399 filled ranks.
+
 ## Country Breakdown
 
 | Country | Count | Notes |
@@ -513,7 +522,7 @@ The twenty-five highest-ranked European Regional Markets are listed below, with 
 | Germany (DE) | 124 | Polycentric urban system; Rhine-Ruhr, Rhine-Neckar, and Saxon-Thuringian corridors dominant |
 | France (FR) | 102 | Île-de-France and provincial city rings; Le Havre metro generates notable cluster density |
 | United Kingdom (GB) | 81 | London commuter belt, Midlands, and Scottish Central Belt |
-| Spain (ES) | 23 | Madrid and Barcelona suburban rings; OSM coverage thinner outside these cores |
+| Spain (ES) | 22 | Madrid and Barcelona suburban rings; OSM coverage thinner outside these cores |
 | Italy (IT) | 21 | Po Valley suburban municipalities; Turin and Milan rings |
 | Poland (PL) | 16 | Upper Silesian Industrial Region suburbs; Katowice and Łódź rings |
 | Netherlands (NL) | 14 | Randstad outer suburban ring; Rotterdam and Amsterdam commuter municipalities |

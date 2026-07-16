@@ -13,7 +13,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Lista clasificada de los 400 Mercados Regionales de mayor puntuación en Europa bajo la metodología suburbano-regional corregida. Posición 1: Chemnitz (suburbio de Dresden, 64 km, puntuación 18,0)."
 paired_with: markets/atlas-top-400-europe.md
-last_edited: 2026-06-19
+last_edited: 2026-07-16
 editor: editorial
 es_status: complete
 ---
@@ -46,7 +46,7 @@ Las composiciones de clústeres de Nivel 1 europeos difieren significativamente 
 
 ## Geografía Suburbana
 
-Los 400 mercados abarcan 11 países europeos. Alemania lidera con 124 mercados, lo que refleja el carácter policéntrico del sistema urbano alemán. Francia contribuye con 102 mercados, el Reino Unido con 81, España con 23, Italia con 21, Polonia con 16 y los Países Bajos con 14.
+La lista abarca 399 mercados distintos verificados en 11 países europeos, ocupando 399 de los 400 puestos clasificados (el puesto 285 está vacante — véase la nota de corrección de datos en la sección de Desglose por País). Alemania lidera con 124 mercados, lo que refleja el carácter policéntrico del sistema urbano alemán. Francia contribuye con 102 mercados, el Reino Unido con 81, España con 22, Italia con 21, Polonia con 16 y los Países Bajos con 14.
 
 Las áreas metropolitanas que generan más suburbios cualificados son Londres (14), París (14), Stuttgart (12) y Le Havre (9).
 
@@ -374,7 +374,7 @@ Los veinticinco Mercados Regionales europeos mejor clasificados se enumeran a co
 | 282 | Vejle | DK | Odense | 0 | 2 | 0 | 6.0 |
 | 283 | Rudersdal | DK | Copenhagen | 0 | 2 | 0 | 6.0 |
 | 284 | Viersen, Stadt | DE | Düsseldorf | 0 | 2 | 0 | 6.0 |
-| 285 | Auch | ES | Toulouse | 0 | 2 | 0 | 6.0 |
+| 285 | *(vacante — véase la nota abajo)* | — | — | — | — | — | — |
 
 ### Puestos 286–331 — puntuaciones de 5.0 a 4.5
 
@@ -506,6 +506,16 @@ Los veinticinco Mercados Regionales europeos mejor clasificados se enumeran a co
 | 399 | East Ayrshire | GB | Glasgow | 0 | 1 | 0 | 3.0 |
 | 400 | Cannock Chase | GB | Birmingham | 0 | 1 | 0 | 3.0 |
 
+**Nota de corrección de datos (2026-07-16):** el puesto 285 indicaba anteriormente "Auch,
+ES" — un duplicado de la entrada genuina del puesto 15 (Auch, Francia, suburbio de
+Toulouse), registrada por segunda vez con un código de país corrupto. Auch es un mercado
+francés real y no tiene una contraparte española; el duplicado se eliminó en lugar de
+dejarse o sustituirse por un mercado inventado. El puesto 285 queda intencionalmente
+vacante en espera de un mercado número 400 genuino proveniente de la exportación en vivo
+de puntuación de mercados regionales de project-gis — inventar un nombre o puntuación de
+reemplazo aquí tergiversaría datos reales. El recuento por país a continuación refleja 399
+mercados distintos verificados en los 399 puestos ocupados restantes.
+
 ## Desglose por País
 
 | País | Cantidad | Notas |
@@ -513,7 +523,7 @@ Los veinticinco Mercados Regionales europeos mejor clasificados se enumeran a co
 | Alemania (DE) | 124 | Sistema urbano policéntrico; corredores del Rin-Ruhr, Rin-Neckar y Sajonia-Turingia dominantes |
 | Francia (FR) | 102 | Île-de-France y anillos de ciudades provinciales; la metrópoli de Le Havre genera notable densidad de clústeres |
 | Reino Unido (GB) | 81 | Cinturón de conmutación de Londres, Midlands y Cinturón Central escocés |
-| España (ES) | 23 | Anillos suburbanos de Madrid y Barcelona; cobertura de OSM más escasa fuera de estos núcleos |
+| España (ES) | 22 | Anillos suburbanos de Madrid y Barcelona; cobertura de OSM más escasa fuera de estos núcleos |
 | Italia (IT) | 21 | Municipios suburbanos del Valle del Po; anillos de Turín y Milán |
 | Polonia (PL) | 16 | Suburbios de la Región Industrial de la Alta Silesia; anillos de Katowice y Łódź |
 | Países Bajos (NL) | 14 | Anillo suburbano exterior de la Randstad; municipios de conmutación de Róterdam y Ámsterdam |
