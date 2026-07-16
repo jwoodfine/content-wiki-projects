@@ -6,12 +6,13 @@ language: es
 language_protocol: TRANSLATE-ES
 category: markets
 type: reference
+index_type: thematic
 content_type: topic
 quality: complete
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Lista clasificada de los 400 Mercados Regionales de mayor puntuación en Europa bajo la metodología suburbano-regional corregida. Posición 1: Chemnitz (suburbio de Dresden, 64 km, puntuación 18,0)."
+short_description: "Lista clasificada de 399 Mercados Regionales distintos verificados en Europa a lo largo de 400 puestos clasificados (el puesto 285 está vacante en espera de una entrada número 400 genuina), bajo la metodología suburbano-regional corregida. Posición 1: Chemnitz (suburbio de Dresden, 64 km, puntuación 18,0)."
 paired_with: markets/atlas-top-400-europe.md
 last_edited: 2026-07-16
 editor: editorial

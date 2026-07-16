@@ -63,6 +63,12 @@ Primary coverage focuses on markets across:
 - **Netherlands, Belgium, Austria, Switzerland** — targeted coverage of OECD-standard
   income regional markets
 
+**Flag, not resolved (2026-07-16):** see the equivalent note in
+[[atlas-top-600-north-america]] — a fresh Command handoff suggests project-gis's live
+scoring tool has a real TOP600-named tiering system (top400 + a separate buffer tier), not
+dead scaffolding; whether it's the same methodology this stub describes needs the actual
+seed-data file before rewriting or superseding this article.
+
 ## Country sub-indexes
 
 | Country | Sub-index article |

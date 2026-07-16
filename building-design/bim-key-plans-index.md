@@ -2,27 +2,30 @@
 schema: foundry-doc-v1
 title: "Key plans index — master reference"
 slug: bim-key-plans-index
-short_description: "Master directory of 72 key plans across nine Development Classes, pairing Development Class with Typology and Eco Region to produce the file-name slugs referenced across downstream BIM artefacts, DTCG tokens, IFC entity classifications, and regulation overlays."
+short_description: "Master directory of 72 key plans across seven Key Plan Groups, pairing Key Plan Group with Typology and Eco Region to produce the file-name slugs referenced across downstream BIM artefacts, DTCG tokens, IFC entity classifications, and regulation overlays."
 category: building-design
 type: topic
+index_type: thematic
 content_type: topic
 quality: complete
 status: pre-build
 audience: operator
 bcsc_class: vendor-internal
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-25
+last_edited: 2026-07-16
 editor: pointsav-engineering
 paired_with: building-design/bim-key-plans-index.es.md
 ---
 
-The Key Plan Directory inventories every distinct floor-plate sub-area that the Building Information Model (BIM) recognises. Each entry pairs a Development Class with a Typology and (where relevant) an Eco Region, yielding a file-name slug that is referenced from every downstream BIM artefact — Design Token Community Group (DTCG) tokens, Industry Foundation Classes (IFC) entity classifications, Rust solvers, slide decks, and regulation overlays. The Directory underpins the [[bim-tile-system|Tile system]] and the [[bim-floor-plate-methodology|floor plate methodology]]; per-use-type interior geometry is set by the [[bim-building-width-method|Building Width Calculator]] and the [[bim-zone-depths-per-use-type|zone depths per use type]].
+The Key Plan Directory inventories every distinct floor-plate sub-area that the Building Information Model (BIM) recognises. Each entry pairs a Key Plan Group with a Typology and (where relevant) an Eco Region, yielding a file-name slug that is referenced from every downstream BIM artefact — Design Token Community Group (DTCG) tokens, Industry Foundation Classes (IFC) entity classifications, Rust solvers, slide decks, and regulation overlays. The Directory underpins the [[bim-tile-system|Tile system]] and the [[bim-floor-plate-methodology|floor plate methodology]]; per-use-type interior geometry is set by the [[bim-building-width-method|Building Width Calculator]] and the [[bim-zone-depths-per-use-type|zone depths per use type]].
 
-The current Directory (V2, dated both 2025-01-07 and re-dated 2026-01-06 — identical content) contains **72 key plans across nine Development Classes**.
+**Note (corrected 2026-07-16):** "Key Plan Group" is this workbook's own catalog-grouping axis for individual key plans — a different, overloaded use of "Development Class" than the portfolio's six real building typologies (Professional Centres, Suburban Office, Retail Select, Tech Industrial, Vertical Warehouses, Parking Structures — see [[about-development-classes|Development classes]]). This article previously called the workbook axis "Development Class" and stated the count as "nine," which contradicted its own 7-row table below; both are corrected here to avoid conflating the two axes.
 
-## Development Classes and Key Plan counts
+The current Directory (V2, dated both 2025-01-07 and re-dated 2026-01-06 — identical content) contains **72 key plans across seven Key Plan Groups**.
 
-| # | Development Class | Key Plan count | Index range |
+## Key Plan Groups and Key Plan counts
+
+| # | Key Plan Group | Key Plan count | Index range |
 |---|---|---:|---|
 | 1 | General | 25 | 1–25 |
 | 2 | Professional Centre | 13 | 26–38 |

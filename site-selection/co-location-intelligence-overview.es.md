@@ -4,13 +4,14 @@ title: "Inteligencia de Co-ubicación Minorista — Resumen"
 slug: co-location-intelligence-overview
 category: site-selection
 type: topic
+index_type: thematic
 content_type: topic
 quality: complete
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-06-19
+last_edited: 2026-07-16
 editor: editorial
 es_status: complete
 short_description: "Análisis geográfico sistemático que identifica y clasifica sitios minoristas donde las categorías de gran formato convergen dentro de radios de captación definidos."

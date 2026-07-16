@@ -55,6 +55,17 @@ The index covers markets across:
 
 Country-level sub-indexes provide ranked market tables for each jurisdiction.
 
+**Flag, not resolved (2026-07-16):** a fresh handoff from Command describes project-gis's
+live `score-regional-markets.py` tool outputting to a file literally named `rm-top600.json`,
+with `top400` as a filtered tier within it and a separate "buffer" tier (NA 20, EU 63)
+below the published cutoff — suggesting a live, real TOP600-named system exists at the tool
+level, not the dead/abandoned scaffolding an earlier reading of this stub article alone
+suggested. Whether that live tiering (top400 + buffer) is the same methodology this stub
+describes (population 50,000–500,000, disposable-income + power-centre screens) or a
+different, complementary one is not yet reconciled — needs the actual seed-data file
+(referenced in the Command handoff but not yet landed) before this article is rewritten or
+marked superseded either way.
+
 ## Relationship to the global market framework
 
 The TOP600 North America index is one component of a planned global market framework

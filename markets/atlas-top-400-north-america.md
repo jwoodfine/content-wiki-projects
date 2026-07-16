@@ -6,6 +6,7 @@ language: en
 language_protocol: PROSE-TOPIC
 category: markets
 type: reference
+index_type: thematic
 content_type: topic
 quality: complete
 status: active
