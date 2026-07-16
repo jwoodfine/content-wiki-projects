@@ -11,7 +11,7 @@ status: pre-build
 audience: operator
 bcsc_class: vendor-internal
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-17
+last_edited: 2026-07-15
 editor: pointsav-engineering
 paired_with: building-design/bim-business-key-plans.es.md
 ---
@@ -74,6 +74,14 @@ For sub-types with narrow Magazine (e.g., [[bim-private-office-key-plans|Private
 ## Spatial taxonomy anchor element
 
 Each Professional Office sub-type carries one anchor element at the façade end whose dimensions drive the Habitat depth. For Business, this is the Reception — the same grammatical role that the Clean Room plays in Laboratory, the Auditorium in Academic, the Court Room in Civic, and the exam room in [[bim-medical-key-plans|Medical]].
+
+## Furniture and fixture schedule
+
+Business carries a dedicated FFE (furniture, fixtures, and equipment) schedule in the Key Plan workbook — one of eight tenant-tier schedules, alongside Private Office, Medical, Labs, Academic, and Civic (see [[bim-shared-space-ffe-schedules]] for the parallel building-core set and the Availability per Tile coefficient that applies across all of them). The schedule is organized around six components: executive private offices, manager private offices, a shared Reception — the same anchor element described above — an open desk area for associate workstations, a conference room, and a staff room / storage room. Representative furniture carried against these components includes desks, filing cabinets, and Reception waiting seats; the source workbook itemizes these down to per-unit counts that scale across B-1/B-2/B-3, but that unit-level detail has not yet been extracted into this article — flagged here as an open item rather than approximated from the room list alone.
+
+Availability per Tile for Business runs 0.2 / 0.6 / 0.2 across Small / Medium / Large, the same band as Academic and Civic (see [[bim-shared-space-ffe-schedules]] for the full coefficient definition and how it compares against Medical/Labs and Private Office). [[build-a-key-plan-step-by-step|Building a Key Plan]] Steps 2–3 walk through how a furniture inventory like this one converts into the Zone 1/Zone 2 depths tabulated above.
+
+This furniture set is distinct from [[bim-private-office-key-plans|Private Office]]'s single-office inventory (one desk and chair, one round table, one filing cabinet, one credenza, one bookshelf, one coat rack) and from [[bim-medical-key-plans|Medical]]'s exam-room-driven schedule anchored on the KaVo uniQa dental chair — Business is the only Professional Office sub-type whose schedule splits enclosed private offices from an open associate-desk area beneath a shared Reception and conference room.
 
 ## See also
 

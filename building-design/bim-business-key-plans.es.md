@@ -12,7 +12,7 @@ audience: operator
 bcsc_class: vendor-internal
 language_protocol: TRANSLATE-ES
 language: es
-last_edited: 2026-05-17
+last_edited: 2026-07-15
 editor: pointsav-engineering
 es_status: complete
 paired_with: building-design/bim-business-key-plans.md
@@ -68,6 +68,14 @@ El Aseo del Inquilino puede ubicarse dentro de la Zona 2 — Revista. Cinco conf
 ## Elemento ancla de la taxonomía espacial
 
 Cada sub-tipo de Oficina Profesional lleva un elemento ancla en el extremo de la fachada cuyas dimensiones determinan la profundidad del Hábitat. Para el tipo Empresarial, este elemento es la Recepción — el mismo papel gramatical que la Sala Limpia desempeña en el Laboratorio, el Auditorio en el Académico, la Sala de Juicios en el Cívico y la sala de exploración en el [[bim-medical-key-plans|Médico]].
+
+## Programa de mobiliario y equipamiento
+
+El tipo Empresarial cuenta con un programa de FFE (mobiliario, instalaciones y equipamiento) propio en el libro de trabajo de Planos Clave — uno de los ocho programas de nivel de arrendatario, junto con Oficina Privada, Médico, Laboratorios, Académico y Cívico (véase [[bim-shared-space-ffe-schedules]] para el conjunto paralelo del núcleo del edificio y el coeficiente de Disponibilidad por Tesela que se aplica a todos ellos). El programa se organiza en torno a seis componentes: oficinas privadas ejecutivas, oficinas privadas gerenciales, una Recepción compartida — el mismo elemento ancla descrito arriba —, un área de escritorios abiertos para puestos de asociados, una sala de conferencias, y una sala de personal / almacenamiento. El mobiliario representativo asociado a estos componentes incluye escritorios, archiveros y asientos de espera de Recepción; el libro de trabajo fuente detalla estos elementos hasta el nivel de conteo por unidad, escalado entre B-1/B-2/B-3, pero ese nivel de detalle aún no se ha extraído a este artículo — se señala aquí como un pendiente en lugar de aproximarlo a partir únicamente de la lista de componentes.
+
+La Disponibilidad por Tesela para Empresarial es 0,2 / 0,6 / 0,2 en Pequeña / Mediana / Grande, la misma franja que Académico y Cívico (véase [[bim-shared-space-ffe-schedules]] para la definición completa del coeficiente y su comparación con Médico/Laboratorios y Oficina Privada). Los Pasos 2–3 de [[build-a-key-plan-step-by-step|Construir un Key Plan, paso a paso]] recorren cómo un inventario de mobiliario como este se convierte en las profundidades de Zona 1/Zona 2 tabuladas arriba.
+
+Este conjunto de mobiliario es distinto del inventario de oficina única de [[bim-private-office-key-plans|Oficina Privada]] (un escritorio y silla, una mesa redonda, un archivero, una credenza, una estantería, un perchero) y del programa de [[bim-medical-key-plans|Médico]], impulsado por las salas de exploración y anclado en el sillón dental KaVo uniQa — Empresarial es el único sub-tipo de Oficina Profesional cuyo programa separa oficinas privadas cerradas de un área de escritorios abiertos para asociados bajo una Recepción y sala de conferencias compartidas.
 
 ## Ver también
 
