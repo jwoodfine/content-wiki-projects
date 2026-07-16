@@ -6,9 +6,9 @@ category: building-design
 type: guide
 content_type: guide
 quality: complete
-status: active
-audience: public
-bcsc_class: current-fact
+status: pre-build
+audience: operator
+bcsc_class: vendor-internal
 language_protocol: TRANSLATE-ES
 last_edited: 2026-07-15
 editor: pointsav-engineering
@@ -34,7 +34,7 @@ Antes de comenzar, es necesario comprender lo siguiente —esta guía asume esto
 ## Pasos
 
 **1. Confirme la categoría de inquilino.**
-Identifique a qué categoría de ocupante profesional sirve el Key Plan — Oficina Privada, o un subtipo de Oficina Profesional (Médico, Negocios, Laboratorio, Académico, Cívico), u Oficina Corporativa. La categoría determina qué conjunto de mobiliario y qué valores de profundidad de zona aplican; es la primera decisión porque todo lo que sigue depende de ella.
+Identifique a qué categoría de ocupante profesional sirve el Key Plan — Oficina Privada, o un subtipo de Oficina Profesional (Médico, Empresarial, Laboratorio, Académico, Cívico), u Oficina Corporativa. La categoría determina qué conjunto de mobiliario y qué valores de profundidad de zona aplican; es la primera decisión porque todo lo que sigue depende de ella.
 
 **2. Levante el inventario de mobiliario y equipamiento.**
 Mida la huella física de la configuración principal de equipamiento para la categoría confirmada: la huella de la estación de trabajo o del área de tratamiento, la holgura de circulación requerida en cada lado, y cualquier adyacencia secundaria (archivo, almacenamiento o equipo fijo) que deba ubicarse dentro de la misma zona. Use dimensiones reales. Esta medición es el insumo geométrico para cada paso siguiente — el método no avanza a partir de cifras supuestas o redondeadas.
@@ -49,7 +49,7 @@ Procese el inventario de mobiliario a través de la Calculadora de ancho de edif
 Todo Key Plan dentro de la Clase de Desarrollo Profesional y Suburbana lleva un identificador de letra (de la A a la DD) vinculado a un programa o tipo de sala específico —Oficina Privada, un subtipo de Oficina Profesional, Oficina Corporativa, Salón de Inquilinos, Oficina del Administrador del Edificio, Sala de Correo, pasillos, baños, o un espacio de amenidad de Planta Principal (carga y descarga, reciclaje, sala de bicicletas, servicio de café/pan)—. Asigne la letra que corresponda al programa identificado en el Paso 1. Esta letra es la referencia permanente del Key Plan para cada paso de ensamblaje posterior.
 
 **5. Verifique los mínimos de baños y salas compartidas contra el nivel del Key Plan.**
-Si el Key Plan incluye un baño de inquilino, confirme que el número de artefactos corresponda al nivel: un Key Plan de Oficina Profesional de nivel Mediano lleva 2 lavamanos / 3 cubículos; uno de nivel Grande lleva 2 lavamanos / 4 cubículos. Esta es una de las dos restricciones (junto con la sala de personal/conferencias) que fija la profundidad mínima de la Zona 2 en el Paso 3 — verifíquelo aquí antes de continuar, ya que corregirlo más adelante implica volver a ejecutar el Paso 3.
+Si el Key Plan incluye un baño de inquilino, confirme que el número de artefactos corresponda a la configuración ya documentada en el artículo propio de esa categoría de inquilino — por ejemplo, Empresarial mantiene un conteo fijo de 2 cubículos en sus cinco opciones de configuración de baño, sin que ese número escale con el nivel del tile. No asuma que el número de artefactos escala por nivel Pequeña/Mediana/Grande a menos que el artículo propio de la categoría así lo indique. Esta es una de las dos restricciones (junto con la sala de personal/conferencias) que fija la profundidad mínima de la Zona 2 en el Paso 3 — verifíquelo aquí antes de continuar, ya que corregirlo más adelante implica volver a ejecutar el Paso 3.
 
 **6. Agrupe los Key Plans en un Tile.**
 Combine el Key Plan (o los Key Plans, en el caso de un Tile Compuesto) en un único Tile. Confirme la regla de un-Tile-una-zona-climática: todo Key Plan dentro de un Tile comparte un único control de HVAC/termostato, y ningún Tile puede quedar dividido entre dos Zonas Climáticas. Los inquilinos más pequeños suelen preferir Tiles más pequeños por esta razón — un Tile más pequeño significa que el inquilino no comparte el control climático con un vecino.
@@ -83,7 +83,7 @@ Confirme lo siguiente antes de dar por completo un ensamblaje Key Plan → Tile 
 - La superficie agregada de Tiles Básicos + Tiles Compuestos + Tiles Especiales + el Núcleo del Edificio concilia con el Área Neta Arrendable (FP-SUM).
 - Ninguna puerta de un Tile Especial adyacente al núcleo queda directamente enfrentada a la apertura del ascensor.
 - Todo inquilino que ocupe un lado corto completo del edificio conserva el control de exactamente una Zona Climática — ningún control de HVAC de un inquilino queda dividido entre dos Tiles.
-- El número de artefactos de baño corresponde al nivel del Key Plan (Mediano: 2 lavamanos / 3 cubículos; Grande: 2 lavamanos / 4 cubículos).
+- El número de artefactos de baño corresponde a la configuración documentada en el artículo propio de esa categoría de inquilino (el número de artefactos no necesariamente escala por nivel Pequeña/Mediana/Grande — verifíquelo contra la fuente propia de la categoría en lugar de asumir un patrón de escalamiento).
 - Todo Tile de remate recibe luz natural en ambos ejes perpendiculares.
 - Las líneas de división (demising) caen sobre los límites de los Tiles, no sobre cortes ad hoc — esto es lo que permite recuperar el 100% de la eficiencia de arrendamiento cada vez que un inquilino desocupa el espacio ("eficiencia continua" o rolling efficiency).
 - Todo Tile de la familia Pequeña ubicado en una esquina estructural ha pasado por una revisión de la retícula estructural.

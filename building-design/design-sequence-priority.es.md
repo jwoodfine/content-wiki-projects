@@ -6,9 +6,9 @@ category: building-design
 type: topic
 content_type: topic
 quality: complete
-status: active
-audience: public
-bcsc_class: current-fact
+status: pre-build
+audience: operator
+bcsc_class: vendor-internal
 language_protocol: TRANSLATE-ES
 last_edited: 2026-07-15
 editor: pointsav-engineering

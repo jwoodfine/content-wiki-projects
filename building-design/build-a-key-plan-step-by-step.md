@@ -6,9 +6,9 @@ category: building-design
 type: guide
 content_type: guide
 quality: complete
-status: active
-audience: public
-bcsc_class: current-fact
+status: pre-build
+audience: operator
+bcsc_class: vendor-internal
 language_protocol: PROSE-GUIDE
 last_edited: 2026-07-15
 editor: pointsav-engineering
@@ -49,7 +49,7 @@ Run the furniture inventory through the Building Width Calculator to establish t
 Every Key Plan in the Professional and Suburban Development Class carries a letter identifier (A through DD) tied to a specific program or room type — Private Office, a Professional Office sub-type, Corporate Office, Tenant Lounge, Building Manager Office, Mail Room, corridors, restrooms, or a Main Floor amenity space (loading, recycling, bike room, coffee/bread service). Assign the letter that matches the program identified in Step 1. This letter is the Key Plan's permanent reference for every later assembly step.
 
 **5. Check washroom and shared-room minimums against the Key Plan tier.**
-If the Key Plan includes a tenant washroom, confirm the fixture count matches the tier: a Medium-tier Professional Office Key Plan carries 2 sinks / 3 stalls; a Large-tier Key Plan carries 2 sinks / 4 stalls. This is one of the two constraints (with the staff/conference room) that sets Zone 2's minimum depth in Step 3 — verify it here before moving on, since correcting it later means re-running Step 3.
+If the Key Plan includes a tenant washroom, confirm the fixture count matches the configuration already documented for that tenant category's own Key Plan article — for example, Business runs a flat 2-stall count across its five washroom configuration options, not a count that scales with tile tier. Do not assume a fixture count scales by Small/Medium/Large tier unless the category's own article states that it does. This is one of the two constraints (with the staff/conference room) that sets Zone 2's minimum depth in Step 3 — verify it here before moving on, since correcting it later means re-running Step 3.
 
 **6. Group Key Plans into a Tile.**
 Combine the Key Plan (or Key Plans, for a Compound Tile) into a single Tile. Confirm the one-Tile-one-climate-zone rule: every Key Plan inside a Tile shares one HVAC/thermostat control, and no Tile may be split across two Climate Zones. Smaller tenants generally favor smaller Tiles for this reason — a smaller Tile means the tenant is not sharing climate control with a neighbor.
@@ -83,7 +83,7 @@ Confirm the following before treating a Key Plan → Tile → Floor Plate assemb
 - The aggregate square footage of Basic Tiles + Compound Tiles + Special Tiles + the Building Core reconciles with the Net Leasable Area (FP-SUM).
 - No door in a core-adjacent Special Tile is directly opposite the elevator opening.
 - Every tenant occupying a full short side of the building retains control of exactly one Climate Zone — no tenant's HVAC control is split across two Tiles.
-- Washroom fixture counts match the Key Plan tier (Medium: 2 sinks / 3 stalls; Large: 2 sinks / 4 stalls).
+- Washroom fixture counts match the configuration documented for that tenant category's own Key Plan article (fixture counts do not necessarily scale by Small/Medium/Large tier — confirm against the category's own source rather than assuming a scaling pattern).
 - Every end-cap Tile receives natural light on both perpendicular axes.
 - Demising lines fall on Tile boundaries, not on ad hoc cuts — this is what allows 100% leasing efficiency to be recaptured whenever a tenant vacates ("rolling efficiency").
 - Any Small-family Tile landing at a structural corner has been through a structural-grid review.
