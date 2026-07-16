@@ -117,6 +117,17 @@ corrige. Los números de posición son la posición continental del mercado (no 
 para esta página), por lo que los huecos en la secuencia siguiente corresponden a entradas
 canadienses o mexicanas filtradas.
 
+**Aviso de anomalía de datos (2026-07-16), no resuelto:** dos de las 369 filas etiquetadas
+`country: US` en la tabla continental se leen como geografía no estadounidense — posición
+106, "Baja California" (un estado mexicano, no un topónimo de EE.UU.), suburbio de Tijuana;
+y posición 194, "Sumas, BC" (tanto la referencia "suburbio de" a Vancouver como el sufijo
+"BC" de estilo provincial se leen como canadienses, aunque existe una localidad
+estadounidense real llamada Sumas en el estado de Washington). Ambas se incluyen a
+continuación porque llevan la etiqueta `US` en la tabla fuente y esta página es un filtro
+mecánico de ese campo — no porque la geografía se haya confirmado. Esto se señala para su
+corrección en la propia tabla continental, no se descarta ni se mantiene silenciosamente
+sin comentario.
+
 | Posición | Mercado | Suburbio de | km | N1 | N2 | N3 | Cívica | Puntuación |
 |---|---|---|---|---|---|---|---|---|
 | 31 | Coral Springs, FL | Miami | — | 1 | 1 | 1 | — | 10,5 |
@@ -187,6 +198,7 @@ canadienses o mexicanas filtradas.
 | 103 | Riverview, FL | Tampa | — | 0 | 2 | 1 | — | 7,5 |
 | 104 | Asheville, NC | Greenville SC | — | 0 | 2 | 1 | — | 7,5 |
 | 105 | Bolingbrook, IL | Chicago | — | 0 | 2 | 1 | — | 7,5 |
+| 106 | Baja California | Tijuana | — | 1 | 1 | 0 | — | 6,3 |
 | 108 | Goldsboro, NC | Raleigh | — | 1 | 0 | 0 | — | 6,0 |
 | 109 | Owasso, OK | Tulsa | — | 1 | 0 | 0 | — | 6,0 |
 | 110 | Stratford Downtown, CT | New Haven | — | 1 | 0 | 0 | — | 6,0 |
@@ -273,6 +285,7 @@ canadienses o mexicanas filtradas.
 | 191 | Waterford, CT | Hartford | — | 1 | 0 | 0 | — | 6,0 |
 | 192 | Duluth, GA | Atlanta | — | 1 | 0 | 0 | — | 6,0 |
 | 193 | Wallingford Center, CT | New Haven | — | 1 | 0 | 0 | — | 6,0 |
+| 194 | Sumas, BC | Vancouver | — | 1 | 0 | 0 | — | 6,0 |
 | 195 | Turlock, CA | Modesto | — | 1 | 0 | 0 | — | 6,0 |
 | 196 | Kenilworth, NJ | New York | — | 1 | 0 | 0 | — | 6,0 |
 | 197 | Peachtree City, GA | Atlanta | — | 1 | 0 | 0 | — | 6,0 |

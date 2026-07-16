@@ -117,6 +117,15 @@ exactly and updates automatically if that table is corrected. Rank numbers are t
 market's continental rank (not renumbered for this page), so gaps in the sequence below
 are Canadian or Mexican entries filtered out.
 
+**Data-anomaly flag (2026-07-16), not resolved:** two of the 369 rows tagged `country: US`
+in the continental table read as non-US geography — rank 106, "Baja California" (a Mexican
+state, not a US place name), suburb of Tijuana; and rank 194, "Sumas, BC" (Vancouver's
+suburb-of reference and "BC" province-style suffix both read as Canadian, though a real US
+border town named Sumas exists in Washington state). Both are included below because they
+carry the `US` tag in the source table and this page is a mechanical filter of that field —
+not because the geography has been confirmed. This is flagged for the continental table's
+own correction, not silently dropped or silently kept without comment.
+
 | Rank | Market | Suburb of | km | T1 | T2 | T3 | Civic | Score |
 |---|---|---|---|---|---|---|---|---|
 | 31 | Coral Springs, FL | Miami | — | 1 | 1 | 1 | — | 10.5 |
@@ -187,6 +196,7 @@ are Canadian or Mexican entries filtered out.
 | 103 | Riverview, FL | Tampa | — | 0 | 2 | 1 | — | 7.5 |
 | 104 | Asheville, NC | Greenville SC | — | 0 | 2 | 1 | — | 7.5 |
 | 105 | Bolingbrook, IL | Chicago | — | 0 | 2 | 1 | — | 7.5 |
+| 106 | Baja California | Tijuana | — | 1 | 1 | 0 | — | 6.3 |
 | 108 | Goldsboro, NC | Raleigh | — | 1 | 0 | 0 | — | 6.0 |
 | 109 | Owasso, OK | Tulsa | — | 1 | 0 | 0 | — | 6.0 |
 | 110 | Stratford Downtown, CT | New Haven | — | 1 | 0 | 0 | — | 6.0 |
@@ -273,6 +283,7 @@ are Canadian or Mexican entries filtered out.
 | 191 | Waterford, CT | Hartford | — | 1 | 0 | 0 | — | 6.0 |
 | 192 | Duluth, GA | Atlanta | — | 1 | 0 | 0 | — | 6.0 |
 | 193 | Wallingford Center, CT | New Haven | — | 1 | 0 | 0 | — | 6.0 |
+| 194 | Sumas, BC | Vancouver | — | 1 | 0 | 0 | — | 6.0 |
 | 195 | Turlock, CA | Modesto | — | 1 | 0 | 0 | — | 6.0 |
 | 196 | Kenilworth, NJ | New York | — | 1 | 0 | 0 | — | 6.0 |
 | 197 | Peachtree City, GA | Atlanta | — | 1 | 0 | 0 | — | 6.0 |
