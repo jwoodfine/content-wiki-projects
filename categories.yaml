@@ -6,7 +6,7 @@ audience: >-
   Plain language throughout; professional terms of art live inside
   articles, not in category names. This wiki carries the
   buildings-and-places half of the company's story.
-version: 2026-07-02
+version: 2026-07-15
 companion: >-
   media-knowledge-corporate carries the company-and-money half: who the
   company is, what you invest in, how the money works, returns,
@@ -97,22 +97,13 @@ categories:
     audience: "GIS analysts; AEC professionals"
     order: 9
 
-  - id: research
-    name: "Research"
-    scope: >-
-      The flagship long-form research papers — complete arguments,
-      argued end to end, with full citations. A small curated set,
-      ~3-5 papers.
-    audience: "Analyst, academic, technical diligence"
-    order: 10
-
   - id: reference
     name: "Glossary"
     scope: >-
       Terminology and standard definitions for buildings, markets, and
       geographic analysis, in plain words.
     audience: "All readers"
-    order: 11
+    order: 10
 
   - id: news
     name: "News"
@@ -120,4 +111,4 @@ categories:
       Release notes: new datasets, new coverage, and knowledge-base
       milestones.
     audience: "All readers"
-    order: 12
+    order: 11

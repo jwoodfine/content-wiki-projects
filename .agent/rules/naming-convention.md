@@ -20,6 +20,17 @@ before `atlas-*`, which sorts before the ISO-coded `<cc>-<sub>-<place>` place sl
 so the slug-sorted listing reads framework → indices → places) is specified in the
 proposal §4d.
 
+**2026-07-15 — `research` category retired.** Reversal of the 2026-07-02 decision
+above and of `BRIEF-category-redesign-phase-c.md`'s locked decision, ratified by
+Command via mailbox reply and operator-confirmed before execution. JOURNAL papers
+were never actually seeded into this shelf and never will be — the sovereign-
+per-surface JOURNAL model (`BRIEF-journal-research-programme.md`, project-editorial)
+routes all JOURNAL content to each product site's own `/research` page instead of
+the three media-knowledge wikis. The `research/_index.md`(+`.es.md`) empty shell
+is removed; `categories.yaml` drops the `research` entry (11 categories remain,
+reordered). No articles existed in this category — zero content lost, zero
+redirects needed.
+
 ## Rationale
 
 Full design, scope boundaries, migration map, and slug grammar:
