@@ -14,7 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Ranked list of the 400 highest-scoring North American suburban Regional Markets. Rank 1: Plano, TX (suburb of Dallas, score 25.5)."
 paired_with: markets/atlas-top-400-north-america.es.md
-last_edited: 2026-06-17
+last_edited: 2026-07-16
 editor: editorial
 ---
 
@@ -23,6 +23,10 @@ editor: editorial
 Plano, Texas, a suburb of Dallas 28 km from the metropolitan core, leads the North American ranking with a composite score of 25.5 — three Tier 1 clusters combined with a civic-anchor multiplier. The four hundred highest-scoring Regional Markets span 369 United States, 23 Canadian, and 8 Mexican suburbs across the commuter belts of major metropolitan areas. A *Regional Market* is a named suburb or satellite municipality within commuting distance of a major metropolitan centre that contains one or more retail co-location clusters; markets are ranked by a composite score combining tier composition and civic-anchor presence.
 
 The list identifies commercial markets in the suburban ring of major North American cities — the research gap between institutional metro-market analysis and genuinely rural areas. It is produced separately from lists of metro cores (covered extensively by institutional research) and standalone secondary cities (served by separate analysis).
+
+## Country breakouts
+
+Two countries have enough entries to warrant their own dedicated ranking page — [[atlas-united-states|United States]] (369 markets) and [[atlas-canada|Canada]] (23 markets). Mexico's 8 markets stay in the Country Breakdown table below and the full ranked table; a dedicated page isn't warranted at that count.
 
 ## Definition and Scope
 
@@ -76,7 +80,7 @@ The twenty-five highest-ranked North American Regional Markets are listed below,
 | 24 | Maple Grove, MN | US | Minneapolis | 21 | 2 | 0 | 0 | Yes | 12.0 |
 | 25 | Danvers, MA | US | Boston | 23 | 2 | 0 | 0 | Yes | 12.0 |
 
-## Full Rankings (26–400)
+## Appendix: Full Ranked Table (26–400)
 
 ### Ranks 26–33 — scores 12.0 to 10.5
 
@@ -509,8 +513,8 @@ The twenty-five highest-ranked North American Regional Markets are listed below,
 
 | Country | Count | Notes |
 |---------|-------|-------|
-| United States | 369 | Suburbs of all major US metropolitan areas |
-| Canada | 23 | Suburbs of Toronto (8), Vancouver (4), Calgary (2), and others |
+| [[atlas-united-states\|United States]] | 369 | Suburbs of all major US metropolitan areas |
+| [[atlas-canada\|Canada]] | 23 | Suburbs of Toronto (8), Vancouver (4), Calgary (2), and others |
 | Mexico | 8 | Suburbs of Mexico City, Guadalajara, and Monterrey |
 
 ## Data Sources and Methodology

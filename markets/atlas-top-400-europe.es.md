@@ -23,7 +23,11 @@ es_status: complete
 
 Esta es una lista clasificada de los cuatrocientos Mercados Regionales de mayor puntuación en Europa, donde un *Mercado Regional* es un suburbio con nombre propio o municipio satélite que se encuentra a distancia de desplazamiento diario de un centro metropolitano europeo importante y contiene uno o más clústeres de co-localización minorista. Los mercados se clasifican por una puntuación compuesta que combina la composición de niveles de sus clústeres de co-localización y la presencia de infraestructura de anclas cívicas (médicas y académicas).
 
-La lista identifica mercados comerciales en el anillo suburbano de las principales ciudades europeas — la brecha de investigación entre el análisis de mercados metropolitanos institucionales (cubiertos ampliamente por organizaciones como Oxford Economics, CBRE y Colliers International) y las zonas genuinamente rurales. Se produce por separado de las listas de núcleos metropolitanos y ciudades secundarias independientes.
+La lista identifica mercados comerciales en el anillo suburbano de las principales ciudades europeas — la brecha de investigación entre el análisis de mercados metropolitanos institucionales (cubiertos ampliamente por firmas establecidas de investigación económica y asesoría inmobiliaria comercial) y las zonas genuinamente rurales. Se produce por separado de las listas de núcleos metropolitanos y ciudades secundarias independientes.
+
+## Desgloses por país
+
+Siete países cuentan con suficientes entradas para justificar su propia página de clasificación dedicada: [[atlas-germany|Alemania]] (124 mercados), [[atlas-france|Francia]] (102), [[atlas-united-kingdom|Reino Unido]] (81), [[atlas-spain|España]] (22), [[atlas-italy|Italia]] (21), [[atlas-poland|Polonia]] (16) y [[atlas-netherlands|Países Bajos]] (14). Austria, Dinamarca, Suecia y Portugal (7, 5, 4 y 3 mercados respectivamente) permanecen en la tabla de Desglose por País más abajo y en la tabla clasificada completa — ese número no justifica una página dedicada.
 
 ## Definición y Alcance
 
@@ -83,7 +87,7 @@ Los veinticinco Mercados Regionales europeos mejor clasificados se enumeran a co
 | 24 | Asti | IT | Turín | 45 | 1 | 1 | 0 | Sí | 9,0 |
 | 25 | Toruń | PL | Bydgoszcz | 45 | 1 | 1 | 0 | Sí | 9,0 |
 
-## Clasificaciones Completas (26–400)
+## Apéndice: Tabla Clasificada Completa (26–400)
 
 ### Puestos 26–29 — puntuación 9.0
 
@@ -521,13 +525,13 @@ mercados distintos verificados en los 399 puestos ocupados restantes.
 
 | País | Cantidad | Notas |
 |------|----------|-------|
-| Alemania (DE) | 124 | Sistema urbano policéntrico; corredores del Rin-Ruhr, Rin-Neckar y Sajonia-Turingia dominantes |
-| Francia (FR) | 102 | Île-de-France y anillos de ciudades provinciales; la metrópoli de Le Havre genera notable densidad de clústeres |
-| Reino Unido (GB) | 81 | Cinturón de conmutación de Londres, Midlands y Cinturón Central escocés |
-| España (ES) | 22 | Anillos suburbanos de Madrid y Barcelona; cobertura de OSM más escasa fuera de estos núcleos |
-| Italia (IT) | 21 | Municipios suburbanos del Valle del Po; anillos de Turín y Milán |
-| Polonia (PL) | 16 | Suburbios de la Región Industrial de la Alta Silesia; anillos de Katowice y Łódź |
-| Países Bajos (NL) | 14 | Anillo suburbano exterior de la Randstad; municipios de conmutación de Róterdam y Ámsterdam |
+| [[atlas-germany\|Alemania (DE)]] | 124 | Sistema urbano policéntrico; corredores del Rin-Ruhr, Rin-Neckar y Sajonia-Turingia dominantes |
+| [[atlas-france\|Francia (FR)]] | 102 | Île-de-France y anillos de ciudades provinciales; la metrópoli de Le Havre genera notable densidad de clústeres |
+| [[atlas-united-kingdom\|Reino Unido (GB)]] | 81 | Cinturón de conmutación de Londres, Midlands y Cinturón Central escocés |
+| [[atlas-spain\|España (ES)]] | 22 | Anillos suburbanos de Madrid y Barcelona; cobertura de OSM más escasa fuera de estos núcleos |
+| [[atlas-italy\|Italia (IT)]] | 21 | Municipios suburbanos del Valle del Po; anillos de Turín y Milán |
+| [[atlas-poland\|Polonia (PL)]] | 16 | Suburbios de la Región Industrial de la Alta Silesia; anillos de Katowice y Łódź |
+| [[atlas-netherlands\|Países Bajos (NL)]] | 14 | Anillo suburbano exterior de la Randstad; municipios de conmutación de Róterdam y Ámsterdam |
 | Austria (AT) | 7 | Anillo suburbano de Viena |
 | Dinamarca (DK) | 5 | Municipios suburbanos de Copenhague y Aarhus |
 | Suecia (SE) | 4 | Anillo suburbano de Estocolmo |

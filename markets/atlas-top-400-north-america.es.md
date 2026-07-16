@@ -14,7 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Lista clasificada de los 400 Mercados Regionales suburbanos de mayor puntuación en América del Norte. Posición 1: Plano, TX (suburbio de Dallas, puntuación 25,5)."
 paired_with: markets/atlas-top-400-north-america.md
-last_edited: 2026-06-17
+last_edited: 2026-07-16
 editor: editorial
 ---
 
@@ -23,6 +23,10 @@ editor: editorial
 Plano, Texas, un suburbio de Dallas a 28 km del núcleo metropolitano, encabeza la clasificación norteamericana con una puntuación compuesta de 25,5 — tres clústeres de Nivel 1 combinados con un multiplicador de ancla cívica. Los cuatrocientos Mercados Regionales de mayor puntuación abarcan 369 suburbios de Estados Unidos, 23 de Canadá y 8 de México, distribuidos en los cinturones de desplazamiento diario de las principales áreas metropolitanas. Un *Mercado Regional* es un suburbio con nombre propio o municipio satélite dentro de la distancia de desplazamiento diario de un centro metropolitano importante que contiene uno o más clústeres de co-localización minorista; los mercados se clasifican por una puntuación compuesta que combina la composición de niveles y la presencia de anclas cívicas.
 
 La lista identifica mercados comerciales en el anillo suburbano de las principales ciudades norteamericanas — la brecha de investigación entre el análisis institucional de mercados metropolitanos (cubierto ampliamente) y las zonas genuinamente rurales. Se produce por separado de las listas de núcleos metropolitanos y de ciudades secundarias independientes.
+
+## Desgloses por país
+
+Dos países cuentan con suficientes entradas para justificar su propia página de clasificación dedicada — [[atlas-united-states|Estados Unidos]] (369 mercados) y [[atlas-canada|Canadá]] (23 mercados). Los 8 mercados de México permanecen en la tabla de Desglose por País más abajo y en la tabla clasificada completa; ese número no justifica una página dedicada.
 
 ## Definición y Alcance
 
@@ -76,7 +80,7 @@ Los veinticinco Mercados Regionales de América del Norte mejor clasificados se 
 | 24 | Maple Grove, MN | US | Minneapolis | 21 | 2 | 0 | 0 | Sí | 12.0 |
 | 25 | Danvers, MA | US | Boston | 23 | 2 | 0 | 0 | Sí | 12.0 |
 
-## Clasificaciones Completas (26–400)
+## Apéndice: Tabla Clasificada Completa (26–400)
 
 ### Puestos 26–33 — puntuaciones de 12.0 a 10.5
 
@@ -509,8 +513,8 @@ Los veinticinco Mercados Regionales de América del Norte mejor clasificados se 
 
 | País | Cantidad | Notas |
 |------|----------|-------|
-| Estados Unidos | 369 | Suburbios de todas las principales áreas metropolitanas de EE. UU. |
-| Canadá | 23 | Suburbios de Toronto (8), Vancouver (4), Calgary (2) y otras |
+| [[atlas-united-states\|Estados Unidos]] | 369 | Suburbios de todas las principales áreas metropolitanas de EE. UU. |
+| [[atlas-canada\|Canadá]] | 23 | Suburbios de Toronto (8), Vancouver (4), Calgary (2) y otras |
 | México | 8 | Suburbios de Ciudad de México, Guadalajara y Monterrey |
 
 ## Fuentes de Datos y Metodología

@@ -22,7 +22,11 @@ editor: editorial
 
 Chemnitz, a suburb of Dresden 64 km from the metropolitan core, leads the European ranking with a composite score of 18.0 — three Tier 1 clusters combined with civic-anchor infrastructure. The four hundred highest-scoring European Regional Markets span 11 countries, with Germany contributing 124 of 400 markets; the polycentric character of the German urban system and dense suburban retail development across the Rhine-Ruhr, Rhine-Neckar, and Saxon-Thuringian corridors produce the deepest suburban tier in Europe. A *Regional Market* is a named suburb or satellite municipality within commuting distance of a major European metropolitan centre that contains one or more retail co-location clusters; markets are ranked by a composite score combining tier composition and civic-anchor presence.
 
-The list identifies commercial markets in the suburban ring of major European cities — the research gap between institutional metro-market analysis (covered extensively by organisations such as Oxford Economics, CBRE, and Colliers International) and genuinely rural areas. It is produced separately from lists of metro cores and standalone secondary cities.
+The list identifies commercial markets in the suburban ring of major European cities — the research gap between institutional metro-market analysis (covered extensively by established economic-research and commercial real estate advisory firms) and genuinely rural areas. It is produced separately from lists of metro cores and standalone secondary cities.
+
+## Country breakouts
+
+Seven countries have enough entries to warrant their own dedicated ranking page: [[atlas-germany|Germany]] (124 markets), [[atlas-france|France]] (102), [[atlas-united-kingdom|United Kingdom]] (81), [[atlas-spain|Spain]] (22), [[atlas-italy|Italy]] (21), [[atlas-poland|Poland]] (16), and [[atlas-netherlands|Netherlands]] (14). Austria, Denmark, Sweden, and Portugal (7, 5, 4, and 3 markets respectively) stay in the Country Breakdown table below and the full ranked table — a dedicated page isn't warranted at those counts.
 
 ## Definition and Scope
 
@@ -82,7 +86,7 @@ The twenty-five highest-ranked European Regional Markets are listed below, with 
 | 24 | Asti | IT | Turin | 45 | 1 | 1 | 0 | Yes | 9.0 |
 | 25 | Toruń | PL | Bydgoszcz | 45 | 1 | 1 | 0 | Yes | 9.0 |
 
-## Full Rankings (26–400)
+## Appendix: Full Ranked Table (26–400)
 
 ### Ranks 26–29 — score 9.0
 
@@ -520,13 +524,13 @@ markets across the remaining 399 filled ranks.
 
 | Country | Count | Notes |
 |---------|-------|-------|
-| Germany (DE) | 124 | Polycentric urban system; Rhine-Ruhr, Rhine-Neckar, and Saxon-Thuringian corridors dominant |
-| France (FR) | 102 | Île-de-France and provincial city rings; Le Havre metro generates notable cluster density |
-| United Kingdom (GB) | 81 | London commuter belt, Midlands, and Scottish Central Belt |
-| Spain (ES) | 22 | Madrid and Barcelona suburban rings; OSM coverage thinner outside these cores |
-| Italy (IT) | 21 | Po Valley suburban municipalities; Turin and Milan rings |
-| Poland (PL) | 16 | Upper Silesian Industrial Region suburbs; Katowice and Łódź rings |
-| Netherlands (NL) | 14 | Randstad outer suburban ring; Rotterdam and Amsterdam commuter municipalities |
+| [[atlas-germany\|Germany (DE)]] | 124 | Polycentric urban system; Rhine-Ruhr, Rhine-Neckar, and Saxon-Thuringian corridors dominant |
+| [[atlas-france\|France (FR)]] | 102 | Île-de-France and provincial city rings; Le Havre metro generates notable cluster density |
+| [[atlas-united-kingdom\|United Kingdom (GB)]] | 81 | London commuter belt, Midlands, and Scottish Central Belt |
+| [[atlas-spain\|Spain (ES)]] | 22 | Madrid and Barcelona suburban rings; OSM coverage thinner outside these cores |
+| [[atlas-italy\|Italy (IT)]] | 21 | Po Valley suburban municipalities; Turin and Milan rings |
+| [[atlas-poland\|Poland (PL)]] | 16 | Upper Silesian Industrial Region suburbs; Katowice and Łódź rings |
+| [[atlas-netherlands\|Netherlands (NL)]] | 14 | Randstad outer suburban ring; Rotterdam and Amsterdam commuter municipalities |
 | Austria (AT) | 7 | Vienna suburban ring |
 | Denmark (DK) | 5 | Copenhagen and Aarhus suburban municipalities |
 | Sweden (SE) | 4 | Stockholm suburban ring |
