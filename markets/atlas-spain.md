@@ -4,14 +4,15 @@ title: "Spain — Regional Market index"
 slug: atlas-spain
 category: markets
 type: topic
+index_type: thematic
 content_type: topic
-quality: stub
+quality: complete
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 keynote: false
-last_edited: 2026-07-11
+last_edited: 2026-07-16
 editor: woodfine-editorial
 short_description: "Ranked index of Spanish regional commercial real estate markets meeting co-location screening thresholds."
 paired_with: markets/atlas-spain.es.md
@@ -61,17 +62,48 @@ satellite municipalities as qualifying markets outside the primary Valencia urba
 **Andalusia** — Málaga (primary-market scale), Almería, Jaén, Huelva as secondary markets;
 income qualification requires careful screening.
 
-## Sample markets
+**Correction (2026-07-16):** none of Burgos, Pamplona, Valladolid, Vitoria-Gasteiz, or
+Zaragoza — all previously listed above as primary qualifying markets or in the removed
+Sample markets table below — actually appear among Spain's 22 verified entries in the
+[[atlas-top-400-europe|Top 400 Regional Markets — Europe]] list. This doesn't mean these
+places aren't real Spanish markets; it means they are not currently ranked in the TOP400
+co-location screen specifically. The Coverage by autonomous community prose above is left
+as a qualitative regional description rather than rewritten, but should not be read as
+implying these named markets are TOP400 entries.
 
-| Market | Community | Population range | Notes |
-|---|---|---|---|
-| Burgos | Castile and León | 175,000–185,000 | Strong industrial base; Leroy Merlin + Alcampo anchors |
-| Pamplona | Navarre | 340,000–360,000 | High income; established power centre base |
-| Valladolid | Castile and León | 295,000–310,000 | Automotive manufacturing anchor; regional capital |
-| Vitoria-Gasteiz | Basque Country | 250,000–270,000 | Highest per-capita income among Basque capitals |
-| Zaragoza secondary | Aragon | 50,000–100,000 | Satellite markets of the Ebro valley metro |
+## Ranked markets
+
+This table is a filtered, Spain-specific view of the continental
+[[atlas-top-400-europe|Top 400 Regional Markets — Europe]] table — not a separate dataset
+— so every rank, score, and tier count matches the continental table exactly and updates
+automatically if that table is corrected.
+
+| Rank | Market | Suburb of | km | T1 | T2 | T3 | Civic | Score |
+|---|---|---|---|---|---|---|---|---|
+| 13 | Murcia | Alicante | 72 | 1 | 0 | 2 | Yes | 9.0 |
+| 53 | Gijón | Oviedo | — | 1 | 0 | 1 | — | 7.5 |
+| 217 | San Sebastián de los Reyes | Madrid | — | 1 | 0 | 0 | — | 6.0 |
+| 218 | Castelló de la Plana | Valencia | — | 1 | 0 | 0 | — | 6.0 |
+| 219 | Las Rozas de Madrid | Madrid | — | 1 | 0 | 0 | — | 6.0 |
+| 220 | Gavà | Barcelona | — | 1 | 0 | 0 | — | 6.0 |
+| 221 | Badia del Vallès | Barcelona | — | 1 | 0 | 0 | — | 6.0 |
+| 222 | Elche | Alicante | — | 1 | 0 | 0 | — | 6.0 |
+| 223 | Rivas-Vaciamadrid | Madrid | — | 1 | 0 | 0 | — | 6.0 |
+| 224 | Parets del Vallès | Barcelona | — | 1 | 0 | 0 | — | 6.0 |
+| 225 | Alcalá de Henares | Madrid | — | 1 | 0 | 0 | — | 6.0 |
+| 226 | Getafe | Madrid | — | 1 | 0 | 0 | — | 6.0 |
+| 227 | Ferrol | A Coruña | — | 1 | 0 | 0 | — | 6.0 |
+| 228 | Talavera de la Reina | Toledo | — | 1 | 0 | 0 | — | 6.0 |
+| 229 | Orihuela | Alicante | — | 1 | 0 | 0 | — | 6.0 |
+| 230 | Jaén | Granada | — | 1 | 0 | 0 | — | 6.0 |
+| 231 | Finestrat | Alicante | — | 1 | 0 | 0 | — | 6.0 |
+| 232 | Xàtiva | Valencia | — | 1 | 0 | 0 | — | 6.0 |
+| 347 | Fuengirola | Málaga | — | 1 | 0 | 0 | — | 4.0 |
+| 348 | Nigrán | Braga | — | 1 | 0 | 0 | — | 4.0 |
+| 380 | Jerez de la Frontera | Cádiz | — | 0 | 0 | 2 | — | 3.0 |
+| 381 | Torrejón de Ardoz | Madrid | — | 0 | 0 | 2 | — | 3.0 |
 
 ## See also
 
-- [[atlas-top-600-europe]] — the European master index
+- [[atlas-top-400-europe]] — the full European ranked list this page filters
 - [[about-regional-markets-system]] — the co-location methodology and market selection criteria
