@@ -22,23 +22,30 @@ Wiki content for the Woodfine Projects knowledge base
 
 No project registry, no Cargo workspace.
 
-**Category layout (2026-06-26).** Converted from flat layout to category
-directories as part of the jennifer-to-wiki backfill initiative (see
-BRIEF-jennifer-to-wiki-backfill.md in project-editorial). Six categories
-with bilingual MOC pages:
+**Category layout (corrected 2026-07-15 — was stale since the 2026-07-02
+Phase C redesign; see `BRIEF-category-redesign-phase-c.md` in
+project-editorial).** Canonical source is this repo's own root
+`categories.yaml` — read that directly if this table and it ever
+disagree again. Eleven categories, all with bilingual MOC pages:
 
 | Category | Scope |
 |---|---|
-| `co-location/` | Anchor taxonomy, floor plates, BOMA, ADI, site scoring |
-| `architecture/` | Architectural styles in CRE evaluation context |
-| `markets/` | Institutional-press-register office + retail research summaries |
-| `urban/` | Commuter patterns, gateway cities, demographic methodology |
-| `gis/` | GIS data sources, coverage, provenance (articles pending D4/project-jennifer review) |
-| `reference/` | Terminology, glossary from projects.csv |
+| `buildings/` | What we build — the six Development Classes |
+| `building-design/` | How we build — Key Plans, Tiles, fixed floor plates |
+| `site-selection/` | How we choose sites — anchors, catchment, co-location scoring (supersedes the old `co-location/` name) |
+| `markets/` | The places, ranked — screening universe and market atlas |
+| `rollout/` | The Rollout Program — planned country-by-country sequencing |
+| `industry/` | The commercial real-estate market generally — rents, cap rates |
+| `urban/` | Why places grow — commuters, urban fringe, demographics |
+| `architecture/` | Architectural styles and movements |
+| `gis/` | Maps and data — spatial-data sourcing and provenance |
+| `research/` | Flagship long-form research (JOURNAL never publishes here — see `research`-category retirement in `BRIEF-journal-and-taxonomy-redesign.md`) |
+| `reference/` | Glossary and terminology |
+| `news/` | Release notes for new datasets/coverage |
 
-Existing flat `topic-*.md` articles remain at root until migrated via
-alias-based `git mv` (pending alias engine verification with Command).
-New articles authored as part of backfill go directly into categories.
+No flat `topic-*.md` articles remain — migration to category
+directories completed as part of Phase C (2026-07-03). New articles
+go directly into the category their subject matter belongs to.
 `comms/` subdirectory unchanged.
 
 ---
