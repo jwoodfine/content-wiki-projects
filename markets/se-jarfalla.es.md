@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-slug: se-jarfalla.es
+slug: se-jarfalla
 title: "Järfälla, Suecia — Mercado Regional"
 language: es
 language_protocol: TRANSLATE-ES

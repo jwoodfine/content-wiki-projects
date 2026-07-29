@@ -1,7 +1,7 @@
 ---
 schema: foundry-doc-v1
 title: "Wichita, Kansas — Mercado Regional"
-slug: us-ks-wichita.es
+slug: us-ks-wichita
 language: es
 language_protocol: TRANSLATE-ES
 category: markets

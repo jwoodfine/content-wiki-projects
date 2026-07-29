@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-slug: us-ca-torrance.es
+slug: us-ca-torrance
 title: "Torrance, California — Mercado Regional"
 language: es
 language_protocol: TRANSLATE-ES

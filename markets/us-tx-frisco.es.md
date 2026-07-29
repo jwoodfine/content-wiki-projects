@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-slug: us-tx-frisco.es
+slug: us-tx-frisco
 title: "Frisco, Texas — Mercado Regional"
 language: es
 language_protocol: TRANSLATE-ES

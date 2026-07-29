@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-slug: us-mn-eagan.es
+slug: us-mn-eagan
 title: "Eagan, Minnesota — Mercado Regional"
 language: es
 language_protocol: TRANSLATE-ES

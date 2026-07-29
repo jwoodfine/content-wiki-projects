@@ -1,7 +1,7 @@
 ---
 schema: foundry-doc-v1
 title: "Colorado Springs, Colorado — Mercado Regional"
-slug: us-co-colorado-springs.es
+slug: us-co-colorado-springs
 language: es
 language_protocol: TRANSLATE-ES
 category: markets

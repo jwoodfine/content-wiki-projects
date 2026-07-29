@@ -1,7 +1,7 @@
 ---
 schema: foundry-doc-v1
 title: "Expansión de Cobertura GIS — Noruega, Suecia, Reino Unido (mayo de 2026)"
-slug: text-gis-nordic-coverage-2026-05.es
+slug: text-gis-nordic-coverage-2026-05
 short_description: "Comunicación con cliente interno anunciando expansión de cobertura GIS a Noruega (66 clusters T2 Hub), adiciones materiales en Suecia a través de Bauhaus Sverige y 24 clusters UK confirmados — llevando el conjunto de datos de Europa a 479 clusters de coubicación puntuados en radio de 3 km."
 category: news
 type: release-text

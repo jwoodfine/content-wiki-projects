@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-slug: gb-eng-cherwell.es
+slug: gb-eng-cherwell
 title: "Cherwell, Inglaterra — Mercado Regional"
 language: es
 language_protocol: TRANSLATE-ES

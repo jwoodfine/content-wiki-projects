@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-slug: fr-chambery.es
+slug: fr-chambery
 title: "Chambéry, Francia — Mercado Regional"
 language: es
 language_protocol: TRANSLATE-ES

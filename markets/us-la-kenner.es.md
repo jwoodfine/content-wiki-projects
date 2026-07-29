@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-slug: us-la-kenner.es
+slug: us-la-kenner
 title: "Kenner, Luisiana — Mercado Regional"
 language: es
 language_protocol: TRANSLATE-ES

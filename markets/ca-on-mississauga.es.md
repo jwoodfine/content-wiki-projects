@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-slug: ca-on-mississauga.es
+slug: ca-on-mississauga
 aliases:
   - topic-rm-mississauga-on.es
 title: "Mississauga, Ontario — Mercado Regional"

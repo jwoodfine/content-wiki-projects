@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-slug: de-nw-krefeld.es
+slug: de-nw-krefeld
 aliases:
   - topic-rm-krefeld-de.es
 title: "Krefeld — Mercado Regional"

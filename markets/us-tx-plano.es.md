@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-slug: us-tx-plano.es
+slug: us-tx-plano
 aliases:
   - topic-rm-plano-tx.es
 title: "Plano, Texas — Mercado Regional"

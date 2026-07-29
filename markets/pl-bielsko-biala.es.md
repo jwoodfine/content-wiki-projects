@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-slug: pl-bielsko-biala.es
+slug: pl-bielsko-biala
 title: "Bielsko-Biała, Polonia — Mercado Regional"
 language: es
 language_protocol: TRANSLATE-ES

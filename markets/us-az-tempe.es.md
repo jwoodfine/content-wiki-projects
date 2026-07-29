@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-slug: us-az-tempe.es
+slug: us-az-tempe
 title: "Tempe, Arizona — Mercado Regional"
 language: es
 language_protocol: TRANSLATE-ES

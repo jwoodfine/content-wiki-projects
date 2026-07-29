@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-slug: nl-breda.es
+slug: nl-breda
 title: "Breda, Países Bajos — Mercado Regional"
 language: es
 language_protocol: TRANSLATE-ES

@@ -1,7 +1,7 @@
 ---
 schema: foundry-doc-v1
 title: "Núremberg, Alemania — Mercado Regional"
-slug: de-by-nurnberg.es
+slug: de-by-nurnberg
 language: es
 language_protocol: TRANSLATE-ES
 category: markets
