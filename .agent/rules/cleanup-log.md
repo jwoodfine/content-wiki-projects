@@ -3,11 +3,23 @@
 Living record of in-flight cleanup work, open questions, and decisions.
 Read at session start. Update when meaningful cleanup occurs.
 
-Last updated: 2026-07-10.
+Last updated: 2026-07-28.
 
 ---
 
 ## Active issues
+
+### 17 ES articles' broken `.es`-suffixed slug — FIXED 2026-07-28
+
+Found as part of a corpus-wide sweep triggered by the same bug found in
+`media-knowledge-documentation` (91 files there — see that repo's cleanup-log.md for
+the full technical writeup, confirmed against `app-mediakit-knowledge/src/content/
+walk.rs`'s actual resolve/fallback logic). 17 files here had `slug: <name>.es` instead
+of `slug: <name>` — the engine indexes documents by `(slug, lang)` and falls back to
+English on a lookup miss, so Spanish readers of these 17 articles were silently served
+the English version. Fixed: stripped the trailing `.es`, verified 0 remaining mismatches
+against EN siblings corpus-wide. Frontmatter-only change, no prose touched.
+`media-knowledge-corporate` was checked and is clean (0 files affected).
 
 ### ~145 articles carry no per-article licence footer at all (not fixed)
 
