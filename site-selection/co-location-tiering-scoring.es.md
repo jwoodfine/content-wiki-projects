@@ -10,7 +10,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-07-03
+last_edited: 2026-07-31
 editor: pointsav-engineering
 short_description: "Puntuación por niveles de clústeres de co-localización — qué miden los niveles T1–T3 de composición, los parámetros DBSCAN que forman clústeres y qué no afirman."
 paired_with: site-selection/co-location-tiering-scoring.md
@@ -49,6 +49,10 @@ DBSCAN es un procedimiento **descriptivo**. El número de clústeres que devuelv
 
 El nivel de composición responde "¿qué combinación de minoristas hay aquí?" Un **puntaje de fortaleza** por clúster separado — planeado, aún no construido — está destinado a responder "¿cuánto mercado comanda esta ubicación?" Las dos dimensiones se informan una al lado de la otra una vez que el cuadro de mando esté conectado; nunca se colapsan en un solo color o un solo número.
 
+### Principios de diseño
+
+El puntaje de fortaleza previsto es explicable, no opaco. Es una combinación transparente de factores nombrados, cada uno de los cuales puede mostrarse en el cuadro de mando del clúster con su propio valor y su contribución al total. Sin ponderaciones de aprendizaje automático ni términos de interacción ocultos. Un revisor debe poder reconstruir el puntaje a partir de los factores mostrados.
+
 ### Conjunto de variables propuesto
 
 Tres cantidades del lado de la demanda que las capas de datos ya admiten:
@@ -61,9 +65,31 @@ Tres cantidades del lado de la demanda que las capas de datos ya admiten:
 
 Cómo se combinan estos tres factores en un solo número es una cuestión abierta que este artículo deliberadamente no resuelve. Hasta que se ratifique la ponderación, el cuadro de mando muestra los valores de los factores individualmente para que cualquier compuesto mostrado siempre sea descomponible.
 
+### Qué está destinado a mostrar el cuadro de mando
+
+Para cada clúster seleccionado, el panel de detalle planeado presenta, como mínimo:
+
+- El nivel de composición y su definición en lenguaje sencillo.
+- La población e informe de hogares de la cuenca, con la vigencia y la base dasymétrica indicadas.
+- El gasto anual estimado, explícitamente enmarcado como una estimación modelada.
+- La lista de cadenas co-ubicadas que impulsan la composición.
+- El puntaje de fortaleza (cuando esté construido) con sus principales factores y la contribución de cada uno, y la bandera `demand_basis`.
+
+## Qué cambia respecto a la presentación anterior
+
+| Dimensión | Anterior | Actual |
+|---|---|---|
+| Etiqueta de nivel | "NIVELES DE CALIDAD" | "Profundidad de co-ubicación (conteo de anclas)" — solo composición |
+| Qué mide un nivel | Ambiguo | Explícitamente composición (conteo y combinación de categorías de ancla), ordinal |
+| Apoyo a la decisión | Solo insignia de nivel y anillos | Cuadro de mando planeado: población, gasto, cadenas co-ubicadas, puntaje de fortaleza explicable con factores nombrados |
+| Puntaje de fortaleza | Conflado con el nivel | Planeado como dimensión separada, del lado de la demanda, descomponible |
+| Parámetros DBSCAN | No publicados | eps, minPts, IoU y el límite de alcance de 3,0 km publicados en el modal de Metodología y aquí |
+| Conteo de clústeres | Declarado como cifra precisa | Salida del modelo bajo una parametrización; rango del barrido de Norteamérica divulgado |
+
 ## Véase también
 
 - [[trade-area-methodology]] — derivación de la cuenca y la migración desde bandas de distancia hacia áreas de atracción observadas
 - [[spend-population-provenance]] — la cadena de estimación para el factor de gasto en el puntaje de fortaleza
 - el resumen a nivel de asentamiento y el criterio de selección Top-400
 - la capa de orquestación que produce los clústeres por niveles
+- la agrupación minorista ascendente que alimenta el índice de co-ubicación

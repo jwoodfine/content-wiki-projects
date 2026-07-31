@@ -7,13 +7,37 @@ category: building-design
 type: topic
 content_type: topic
 status: active
-last_edited: 2026-06-20
+last_edited: 2026-07-31
 short_description: "El Building Design System se construye sobre cinco restricciones arquitectónicas — almacenamiento de archivos planos, estándares abiertos, Rust y Tauri, funcionamiento sin conexión y licencia Apache 2.0 — permitiendo modelos de información de construcción supervivientes a la obsolescencia de proveedores. La propiedad anclada en activos, la capacidad sin conexión, la integración IoT y la convergencia de BIM con libros mayores de arrendamiento y financieros se derivan de la arquitectura en sí."
 paired_with: building-design/flat-file-bim-leapfrog.md
 ---
 
 
 El [[design-system-bim|Sistema de Diseño de Edificios]] de PointSav redefine la categoría de producto BIM mediante un enfoque de "archivo plano" que devuelve la soberanía del dato al propietario del activo. La pila de estándares abiertos — IFC 4.3 (ISO 16739-1:2024, publicado en abril de 2024), IDS 1.0 (buildingSMART, junio 2024) y BCF 3.0 — alcanzó madurez de producción en 2024 y proporciona la infraestructura que hace viable esta estrategia. Mientras que las grandes plataformas de software fuerzan un modelo de alquiler de datos en la nube, la arquitectura de la plataforma permite que el gemelo digital sea una propiedad permanente, transferible y legible durante décadas.
+
+## La pila de estándares alcanzó madurez de producción en 2024
+
+La base es que los estándares existen, especifican codificaciones de texto plano y forman parte de la ISO. IFC 4.3 se publicó formalmente como ISO 16739-1:2024 en abril de 2024, extendiendo IFC de los edificios a puentes, carreteras, ferrocarriles, puertos y vías navegables. La serialización canónica, IFC-SPF, es texto plano ISO 10303-21 — legible en cualquier editor de texto. IDS 1.0 se convirtió en el estándar oficial de buildingSMART el 1 de junio de 2024. BCF 3.0 es un ZIP de archivos de marcado XML más capturas PNG — al descomprimirlo, el árbol de directorios por tema es prosa comparable (diff-able) y compatible con git. CityJSON 2.0 es un estándar comunitario de la OGC, con CityJSONSeq utilizado a escala nacional por el conjunto de datos 3DBAG de TU Delft para más de 10 millones de edificios neerlandeses.
+
+Lo que aún no está listo para producción importa igualmente. ifcJSON sigue siendo un borrador comunitario. IFC 5 está en fase alfa, con una serialización IFCX basada en JSON que toma prestada la composición al estilo USD de OpenUSD de Pixar; se esperan cambios disruptivos. La conclusión pragmática: canonizar sobre IFC-SPF hoy, reflejar a ifcJSON de forma oportunista, y diseñar el modelo de objetos de modo que una migración a IFC 5 / IFCX esté pensada como un cambio de serialización, no una reescritura.
+
+## Qué significa "archivo plano"
+
+Un directorio de archivos de texto plano y binarios estandarizados que un editor de texto ordinario o un visor SVG puede abrir sin un SDK propietario, décadas después de que el proveedor de software que lo produjo haya desaparecido.
+
+| Formato | ISO / editor | Función |
+|---|---|---|
+| IFC-SPF (`.ifc`) | ISO 16739-1:2024 | Geometría y semántica autoritativas |
+| IDS 1.0 | buildingSMART (junio 2024) | Contrato de validación |
+| BCF 3.0 | buildingSMART | Historial de colaboración por tema |
+| COBie vía ifccsv | NIST | Entrega de activos |
+| Sidecars YAML por elemento | convención local | Datos Pset_*, sensores y órdenes de trabajo |
+| Almacén de objetos direccionado por hash | convención local; inspirado en Speckle | DAG de Merkle versionado |
+| glTF 2.0 | ISO/IEC 12113:2022 | Caché de visualización (regenerable) |
+| SVG | ISO/IEC 14496-22:2019 | Dibujos 2D (regenerables) |
+| CityJSONSeq | OGC | Portafolio / contexto urbano |
+
+El archivo `.ifc` es el estado espacial y semántico autoritativo del edificio. Los sidecars llevan datos no geométricos (calificaciones, cantidades, lecturas de sensores, órdenes de trabajo, referencias de arrendamiento). La capa de almacén de objetos otorga a todo el archivo semánticas de versionado de grado git. Los derivados de visualización son cachés que se regeneran a voluntad desde la fuente autoritativa. Cualquier visor o herramienta de autoría BIM específico es reemplazable. El archivo es permanente.
 
 ## Pilares Arquitectónicos
 

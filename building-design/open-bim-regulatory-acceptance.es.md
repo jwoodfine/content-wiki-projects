@@ -7,7 +7,7 @@ category: building-design
 type: topic
 content_type: topic
 status: active
-last_edited: 2026-06-20
+last_edited: 2026-07-31
 editor: pointsav-engineering
 short_description: "El modelado de información de construcción es obligatorio en la mayoría de las economías del G7 para contratación pública, con estándares abiertos — IFC 4.3, IDS 1.0, COBie — como requisito de entrega en lugar de formatos propietarios. Las plataformas BIM sin conexión y autohospedadas son el único tipo de arquitectura que satisface de forma nativa los requisitos de datos soberanos impuestos por ITAR, GDPR, HIPAA y marcos regulatorios equivalentes."
 cites: [ifc-4-3, iso-19650, ids-1-0]
@@ -33,6 +33,8 @@ El BIM Abierto, según la definición de buildingSMART International, denota un 
 
 **Departamento de Asuntos de Veteranos (VA) y Comando de Ingeniería de Instalaciones Navales (NAVFAC).** Ambas agencias han publicado normas BIM que requieren exportaciones IFC en hitos de diseño.
 
+**Compatibilidad con el Reglamento Federal de Adquisiciones (FAR).** Apache 2.0 (la licencia bajo la cual se publican los archivos de datos de Objetos BIM) es una licencia de código abierto aprobada por la OSI. Las disposiciones de la Parte 27 del FAR para software de código abierto no prohíben datos con licencia Apache 2.0 en contratos federales, y sus términos permisivos no generan complicaciones de copyleft en la contratación gubernamental.
+
 ## Unión Europea
 
 La Directiva de Contratación Pública de la UE de 2014 (Directiva 2014/24/UE) permite explícitamente a los estados miembros requerir herramientas BIM electrónicas para contratos de construcción financiados con fondos públicos.
@@ -47,7 +49,13 @@ La Directiva de Contratación Pública de la UE de 2014 (Directiva 2014/24/UE) p
 
 **Noruega.** Statsbygg ha requerido entregables de BIM Abierto desde 2016. El Manual BIM de Statsbygg especifica IFC 4.x y requisitos de LOD por fase de proyecto.
 
+**Países Bajos.** Rijkswaterstaat y ProRail operan programas de requisitos BIM que especifican entregables IFC y datos de transferencia COBie para proyectos de infraestructura de gran envergadura.
+
 **Reino Unido.** El mandato de BIM Nivel 2 del Gobierno del Reino Unido para proyectos del sector público contratados centralmente ha estado vigente desde 2016. BS EN ISO 19650 fue adoptada como norma nacional del Reino Unido en 2019.
+
+## Certificación buildingSMART
+
+buildingSMART International opera un programa de certificación de software para implementaciones de importación/exportación IFC. Se prevé que la plataforma BIM de PointSav obtenga la certificación buildingSMART para sus implementaciones de exportación e importación IFC. La Vista de Referencia IFC 4.3 y la Vista de Transferencia de Diseño son las dos certificaciones objetivo para herramientas de autoría; la plataforma de Objetos BIM apunta a la certificación frente a la especificación de intercambio de Conjuntos de Propiedades.
 
 ## Arquitectura Soberana de Datos como Requisito de Contratación
 
@@ -67,8 +75,24 @@ Un repositorio git satisface los requisitos del EDC de ISO 19650:
 | UID del contenedor | Hash de objeto Git o GUID IFC |
 | Estado | Nombre de rama (`work-in-progress`, `shared`, `published`) |
 | Revisión | Hash de confirmación Git |
+| Clasificación | Ruta de directorio + encabezado YAML |
 | Historial de cambios | `git log --follow <filename>` |
+| Estados de flujo de trabajo del EDC | Flujo de fusión de ramas Git / solicitudes de extracción (pull request) |
+
+Un proyecto BIM gestionado a través de una bóveda de objetos y un repositorio de modelos alojados en git opera dentro de un EDC conforme a ISO 19650, sin necesidad de una plataforma construida a medida.
 
 ## Licencia Apache 2.0 y Ventaja en Contratación
 
-Los archivos de datos de Objetos BIM se publican bajo Apache 2.0, aprobado por la OSI, compatible con la contratación pública (FAR 12.212) y con uso comercial derivado sin requisitos de copyleft.
+Los archivos de datos de Objetos BIM se publican bajo Apache 2.0. Esta licencia tiene tres propiedades relevantes para la contratación pública.
+
+**Aprobada por la OSI.** Apache 2.0 figura en la lista de licencias aprobadas de la Open Source Initiative (OSI).
+
+**Compatible con el FAR.** Los términos permisivos de Apache 2.0 no generan complicaciones de copyleft en la contratación federal, y la cláusula de concesión de patentes aporta protección adicional para el uso gubernamental.
+
+**Compatibilidad amplia.** Apache 2.0 es compatible con GPL-3.0, LGPL, MIT y EUPL-1.2 — lo que permite combinarla con componentes bajo una variedad de licencias de código abierto sin análisis de cumplimiento adicional.
+
+## Preguntas Abiertas
+
+**Cronograma de certificación buildingSMART.** El servicio de certificación IFC 4.3 no aceptaba envíos para todos los tipos de vista a la fecha de esta investigación. El cronograma de certificación para la plataforma BIM de PointSav no está fijado. Esto afecta cómo puede representarse la plataforma en respuestas de contratación que exigen conformidad IFC certificada.
+
+**Mapeo de instalaciones ITAR.** La lista de tipos específicos de instalaciones donde aplican las restricciones ITAR a los datos BIM no está enumerada públicamente por el Gobierno de los EE. UU. Se requiere revisión legal antes de representar la plataforma como certificada para construcción restringida por ITAR. La arquitectura sin conexión desde el diseño es un hecho técnico que puede afirmarse; cualquier declaración de conformidad ITAR requiere revisión de asesoría legal.

@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-07-03
+last_edited: 2026-07-31
 editor: woodfine-editorial
 paired_with: buildings/about-development-class-economics.md
 ---
@@ -50,6 +50,8 @@ de área arrendable por piso. Los contratos de arrendamiento típicamente se ext
 cinco a diez años, reflejando la inversión de capital requerida para equipar un consultorio
 médico o de servicios profesionales y el costo disruptivo de la reubicación.
 
+El perfil de gastos operativos de los Centros Profesionales incluye costos de sistemas del edificio superiores al promedio (cargas de HVAC para consultorios médicos, mantenimiento de elevadores en edificios de múltiples pisos) en relación con configuraciones de un solo piso, lo que reduce la eficiencia del área rentable neta pero se compensa con las rentas premium alcanzables en edificios accesibles y bien gestionados.
+
 ## Oficina Suburbana
 
 Los edificios de Oficina Suburbana atienden a arrendatarios profesionales y de procesamiento
@@ -58,7 +60,7 @@ es de aproximadamente 19,000 pies cuadrados de área arrendable por piso.
 
 Los edificios de Oficina Suburbana adyacentes a nodos de comercio a gran escala se benefician
 de la infraestructura y el tráfico que generan las anclas minoristas, sin absorber la prima
-de retail en el costo del terreno.
+de retail en el costo del terreno. Este posicionamiento es una característica económica distintiva de los activos de oficina suburbana co-ubicados frente a los parques de oficinas suburbanos aislados.
 
 ## Industrial Tecnológico
 
@@ -72,6 +74,8 @@ configuraciones de oficina. La menor complejidad de los sistemas del edificio re
 costos operativos. Las alturas superiores de techo y el acceso de carga a nivel del suelo
 amplían la base de arrendatarios.
 
+Los activos de Industrial Tecnológico en nodos comerciales co-ubicados atienden a ocupantes de logística de última milla, manufactura ligera y negocios de servicios cuyas operaciones son complementarias al retail y los servicios profesionales que anclan el nodo. La base de arrendatarios de Industrial Tecnológico normalmente proviene de una gama más amplia de tipos de negocio que los edificios de oficinas, reduciendo la exposición al comportamiento cíclico de una sola industria.
+
 ## Retail Selectivo
 
 Los activos de Retail Selectivo son edificios comerciales de un solo piso diseñados para
@@ -82,6 +86,8 @@ de residuos y ventilación que imponen los arrendatarios de alimentación (véas
 [[class-retail-select|Retail Select]] para la justificación de la exclusión). La selección de
 sitios depende explícitamente de la presencia de anclas minoristas de nivel institucional
 dentro de radios de captación definidos.
+
+Los activos de Retail Selectivo tienen tasas de rotación de arrendatarios más altas que los activos de oficina o industriales, lo que refleja la naturaleza competitiva del sector minorista y la sensibilidad de los arrendatarios minoristas individuales a los cambios en los patrones de gasto del consumidor. Esta tasa de rotación requiere una gestión activa de activos para mantener la ocupación e identificar arrendatarios de reemplazo cuando surgen vacantes.
 
 ## Comparación entre clases
 
