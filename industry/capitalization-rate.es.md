@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-06-29
+last_edited: 2026-07-31
 editor: woodfine-editorial
 paired_with: industry/capitalization-rate.md
 ---
@@ -58,19 +58,64 @@ obsolescencia física e incertidumbre de la demanda local.
 
 **Expectativa de crecimiento de ingresos.** Los activos donde se espera que las rentas
 crezcan se negocian a tasas de capitalización más bajas que los activos con perspectivas
-de ingresos planas o decrecientes.
+de ingresos planas o decrecientes. La tasa de capitalización, en efecto, incorpora la
+expectativa del mercado sobre la trayectoria del ingreso, no solo el ingreso del período
+actual.
+
+## Niveles de tasa de capitalización por clase de activo
+
+Los mercados de bienes raíces comerciales están segmentados, y las tasas de capitalización
+varían sistemáticamente según el tipo de propiedad, su calidad y su ubicación. Los activos
+de calidad institucional y totalmente arrendados en mercados urbanos centrales —oficinas
+primarias, comercio minorista de barrio de primer nivel, logística Clase A— se han negociado
+históricamente a tasas de capitalización inferiores a las aplicadas a activos suburbanos o
+de mercados secundarios de tamaño comparable.
+
+El diferencial de tasa de capitalización entre clases de activos refleja no solo las
+percepciones de riesgo, sino también el universo de inversores dispuestos a adquirir cada
+tipo de activo: el capital institucional se concentra en ciertas clases de activos y
+mercados, aumentando el volumen de transacciones y comprimiendo las tasas de capitalización
+en esos segmentos.
 
 ## Valoración bajo NIIF 13 y NIC 40
 
 Para las entidades que contabilizan las propiedades de inversión según el modelo de valor razonable
 (NIC 40), el valor de mercado de cada propiedad se evalúa en cada fecha de
-reporte. La NIIF 13 exige que la medición del valor razonable utilice los datos de mercado
+reporte. La NIIF 13 exige que la medición del valor razonable utilice el uso más alto y mejor
+del activo, y que las técnicas de valoración incorporen los datos de mercado
 observables en la máxima medida posible.
+
+El método de capitalización directa —aplicar una tasa de capitalización derivada del mercado
+al ION estabilizado— es una técnica de valoración de Nivel 3 bajo la jerarquía de la NIIF 13
+cuando los datos de transacciones comparables son limitados. Las entidades que utilizan
+insumos de Nivel 3 deben divulgar: la técnica de valoración aplicada, los insumos no
+observables significativos (incluida la tasa de capitalización asumida), la sensibilidad de
+la medición del valor razonable a los cambios en esos insumos, y una conciliación del valor
+razonable de apertura a cierre para cada período.
 
 La divulgación de sensibilidad de la tasa de capitalización — cuantificando el efecto de
 variaciones de ±25, ±50 y ±100 puntos básicos en la tasa asumida sobre el valor razonable
 reportado — es práctica estándar para entidades de propiedades de inversión y es esperada
 explícitamente por los inversores institucionales y los reguladores de valores en el análisis y discusión de la administración.
+
+## Tasa de capitalización de mercado frente a tasas de entrada y de salida
+
+En el análisis de inversión, la tasa de capitalización se aplica en dos momentos distintos:
+
+**La tasa de capitalización de entrada** es la tasa implícita en el precio de adquisición en
+relación con el ION estabilizado al momento de la compra. Determina el rendimiento de entrada
+de la inversión.
+
+**La tasa de capitalización de salida (o terminal)** es la tasa que el analista aplica al ION
+proyectado en la fecha de disposición asumida para estimar el valor terminal. Debido a que la
+tasa de capitalización al momento de la disposición es incierta, el análisis de sensibilidad
+sobre un rango de tasas de salida es práctica estándar en la suscripción.
+
+El diferencial entre las tasas de entrada y de salida refleja supuestos sobre el atractivo
+relativo del activo en cada momento del tiempo — un supuesto de tasa de salida más ajustada
+(tasa de capitalización más baja al momento de la disposición) implica que el analista
+espera que el activo sea valorado más alto en la salida que en la entrada, lo cual puede
+reflejar el crecimiento esperado del ingreso, la compresión del mercado, o ambos.
 
 ## Consulte también
 
