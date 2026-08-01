@@ -52,7 +52,7 @@ High-tech architecture's commercial footprint is concentrated in primary markets
 
 ### Rarity in secondary markets
 
-In North American secondary markets, high-tech architecture as a primary commercial style is rare. Technology campuses and medical research facilities occasionally adopt high-tech design principles — particularly the exposed structure, the open floor plan, and the modular service zones. They typically do so in attenuated form, without the radical externalization of services that defines the canonical examples. The suburban professional centre format that WMC's development programme targets is distinct from the high-tech mode. It uses [[fixed-floor-plates|fixed floor plates]] with embedded services, enclosed mechanical systems, and façade systems designed for secondary market building costs and tenant expectations.
+In North American secondary markets, high-tech architecture as a primary commercial style is rare. Technology campuses and medical research facilities occasionally adopt high-tech design principles — particularly the exposed structure, the open floor plan, and the modular service zones. They typically do so in attenuated form, without the radical externalization of services that defines the canonical examples. The suburban professional centre format that Woodfine's development programme targets is distinct from the high-tech mode. It uses [[fixed-floor-plates|fixed floor plates]] with embedded services, enclosed mechanical systems, and façade systems designed for secondary market building costs and tenant expectations.
 
 ## Influence on professional centre design
 

@@ -20,7 +20,7 @@ tags:
   - batch:2
 source_refs:
   - 48584a76d95b04ba7549adb4b21252684b7bd2b45215116028884798d8da3b3d
-thesis_alignment: "New Urbanism's planning grammar — compact nodes, transit adjacency, mixed-use floor plates — is the formal architectural doctrine closest to the co-location conditions WMC identifies as highest value in secondary market site evaluation."
+thesis_alignment: "New Urbanism's planning grammar — compact nodes, transit adjacency, mixed-use floor plates — is the formal architectural doctrine closest to the co-location conditions Woodfine identifies as highest value in secondary market site evaluation."
 keynote: true
 keynote_section: "Architecture"
 ---

@@ -20,7 +20,7 @@ tags:
   - batch:2
 source_refs:
   - 11110332f8d9362135017474632d278bc92f1225aadcaae157bd507fd1e8b0a9
-thesis_alignment: "Neoclassical bank buildings, custom houses, and court houses are the oldest purpose-built commercial institutions in most North American secondary markets; their near-universal heritage designation anchors the identity and tenancy of the founding commercial core, establishing the node character that WMC identifies as a predictor of sustained professional-service demand in mature secondary markets."
+thesis_alignment: "Neoclassical bank buildings, custom houses, and court houses are the oldest purpose-built commercial institutions in most North American secondary markets; their near-universal heritage designation anchors the identity and tenancy of the founding commercial core, establishing the node character that Woodfine identifies as a predictor of sustained professional-service demand in mature secondary markets."
 keynote: false
 ---
 

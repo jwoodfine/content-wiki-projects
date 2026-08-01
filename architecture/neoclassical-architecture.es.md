@@ -20,7 +20,7 @@ tags:
   - batch:2
 source_refs:
   - 11110332f8d9362135017474632d278bc92f1225aadcaae157bd507fd1e8b0a9
-thesis_alignment: "Los edificios bancarios neoclásicos, las aduanas y los tribunales son las instituciones comerciales de uso específico más antiguas de la mayoría de los mercados secundarios norteamericanos; su designación patrimonial casi universal ancla la identidad y la tenencia del núcleo comercial fundacional, estableciendo el carácter del nodo que WMC identifica como predictor de demanda sostenida de servicios profesionales en los mercados secundarios maduros."
+thesis_alignment: "Los edificios bancarios neoclásicos, las aduanas y los tribunales son las instituciones comerciales de uso específico más antiguas de la mayoría de los mercados secundarios norteamericanos; su designación patrimonial casi universal ancla la identidad y la tenencia del núcleo comercial fundacional, estableciendo el carácter del nodo que Woodfine identifica como predictor de demanda sostenida de servicios profesionales en los mercados secundarios maduros."
 keynote: false
 ---
 

@@ -20,7 +20,7 @@ tags:
   - batch:2
 source_refs:
   - 48584a76d95b04ba7549adb4b21252684b7bd2b45215116028884798d8da3b3d
-thesis_alignment: "La gramática urbanística del Nuevo Urbanismo — nodos compactos, proximidad al transporte, plantas de uso mixto — es la doctrina arquitectónica formal más cercana a las condiciones de colocalización que WMC identifica como de mayor valor en la evaluación de emplazamientos en mercados secundarios."
+thesis_alignment: "La gramática urbanística del Nuevo Urbanismo — nodos compactos, proximidad al transporte, plantas de uso mixto — es la doctrina arquitectónica formal más cercana a las condiciones de colocalización que Woodfine identifica como de mayor valor en la evaluación de emplazamientos en mercados secundarios."
 keynote: true
 keynote_section: "Architecture"
 ---

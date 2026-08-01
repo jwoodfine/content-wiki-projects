@@ -20,7 +20,7 @@ tags:
   - batch:2
 source_refs:
   - 5d62056fc9d1992a63b2abb5a5218f69f0cfbd46dc23eb31695ab9f100aef05c
-thesis_alignment: "Art Deco commercial buildings — downtown bank branches, department store blocks, and professional office buildings of the 1920s–1940s — define the heritage streetscapes of most North American secondary-market downtowns, establishing the established-node character that WMC identifies as a marker of co-location value in mature commercial corridors."
+thesis_alignment: "Art Deco commercial buildings — downtown bank branches, department store blocks, and professional office buildings of the 1920s–1940s — define the heritage streetscapes of most North American secondary-market downtowns, establishing the established-node character that Woodfine identifies as a marker of co-location value in mature commercial corridors."
 keynote: false
 ---
 
