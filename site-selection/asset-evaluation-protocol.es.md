@@ -11,13 +11,19 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-05-25
+last_edited: 2026-07-31
 editor: pointsav-engineering
 paired_with: site-selection/asset-evaluation-protocol.md
 cites: []
 ---
 
 El proceso de adquisición de activos de WMC comienza con la matriz de clasificación por [[co-location-investment-thesis|co-ubicación]]. Un emplazamiento candidato debe alcanzar una clasificación de nivel mínima antes de que proceda la evaluación de capital. La puntuación por niveles es el filtro de entrada; elimina el juicio subjetivo de la fase inicial de selección y establece una base reproducible para comparar emplazamientos candidatos en distintas geografías. Los emplazamientos que superan la selección pasan posteriormente al Marco de Tenencia Directa bajo la disciplina del Ratio de Cobertura de Intereses.
+
+## Puntos clave
+
+- La puntuación por niveles es un filtro de entrada binario: un emplazamiento cumple la clasificación mínima y avanza a la evaluación de capital, o no lo hace; no se hacen excepciones por otras características del emplazamiento.
+- La matriz de clasificación evalúa tres capas de anclas (Objetivo Principal, operadores secundarios, infraestructura cívica terciaria) dentro de radios de influencia definidos, lo que produce una clasificación de nivel reproducible y verificable mediante análisis GIS independiente.
+- Superar el umbral de nivel es condición necesaria, pero no suficiente, para la adquisición; en la fase de evaluación de capital sigue un análisis específico del activo que abarca su estado, la estructura del arrendamiento, la titularidad y el servicio de la deuda.
 
 ## La puntuación por niveles como criterio de entrada
 
@@ -54,6 +60,10 @@ Un emplazamiento que supera el umbral mínimo de nivel entra en la evaluación d
 - Capacidad de servicio de deuda y condiciones de financiación
 
 La evaluación de capital produce una recomendación de inversión; la puntuación por niveles produjo el conjunto de candidatos. Ninguno de los dos pasos puede sustituir al otro. Las adquisiciones aprobadas quedan bajo custodia fiduciaria de datos desde el momento del cierre.
+
+## La conclusión
+
+El Protocolo de Evaluación de Activos disciplina el embudo de adquisición al imponer una pantalla de entrada objetiva y reproducible antes de que comience cualquier análisis de capital. La puntuación por niveles elimina el origen de operaciones impulsado por la defensa de un emplazamiento preferido: si un emplazamiento no califica de forma independiente según la matriz de co-ubicación, la evaluación no continúa. Una vez que un emplazamiento supera el umbral, se aplica el análisis de capital convencional — el estado de la propiedad, la estructura del arrendamiento, la titularidad y la capacidad de servicio de la deuda se evalúan por sus propios méritos. Ni la fase de selección ni la fase de evaluación de capital pueden sustituir a la otra; ambas son necesarias antes de que WMC se comprometa con una adquisición.
 
 ## Véase también
 
