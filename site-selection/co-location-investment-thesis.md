@@ -17,7 +17,7 @@ paired_with: site-selection/co-location-investment-thesis.es.md
 cites: []
 ---
 
-When institutional-grade retailers independently select the same geographic node, that convergence is an objective condition — mappable, verifiable, and reproducible by any analyst with access to public location data. The co-location investment thesis holds that this convergence is a structurally superior indicator of commercial site quality compared to any single-anchor evaluation. WMC operationalizes the thesis through the [[asset-evaluation-protocol|asset evaluation protocol]] and applies the Direct-Hold framework to approved acquisitions under the interest coverage discipline.
+When institutional-grade retailers independently select the same geographic node, that convergence is an objective condition — mappable, verifiable, and reproducible by any analyst with access to public location data. The co-location investment thesis holds that this convergence is a structurally superior indicator of commercial site quality compared to any single-anchor evaluation. Woodfine operationalizes the thesis through the [[asset-evaluation-protocol|asset evaluation protocol]] and applies the Direct-Hold framework to approved acquisitions under the interest coverage discipline.
 
 ## Key takeaways
 
@@ -41,7 +41,7 @@ The convergence of commitments is the investment signal. It is reproducible; it 
 
 The co-location methodology translates this thesis into a ranking matrix. A Primary Target anchor — defined as Walmart Supercentre in North American markets and IKEA in European markets — is scored against secondary operators present within 3 km and tertiary civic infrastructure (hospitals, post-secondary institutions) present within 5 km. Each layer receives a score; the combined score produces a tier classification.
 
-The matrix is reproducible by independent GIS analysis using publicly available retailer location data and civic facility coordinates. WMC does not treat its tier scoring methodology as proprietary. An analyst applying the same matrix to the same data should reach the same classification for a given site. The corporate structure separates this technology and analytics work from investment decision-making at the entity level.
+The matrix is reproducible by independent GIS analysis using publicly available retailer location data and civic facility coordinates. Woodfine does not treat its tier scoring methodology as proprietary. An analyst applying the same matrix to the same data should reach the same classification for a given site. The corporate structure separates this technology and analytics work from investment decision-making at the entity level.
 
 ## Scope of the claim
 
@@ -51,11 +51,11 @@ A high tier score is a necessary but not sufficient condition for acquisition.
 
 ## The bottom line
 
-The co-location investment thesis rests on a single, verifiable observation: institutional-grade retailers independently commit capital to the same geographic nodes, and that convergence is a more durable signal of site quality than any single-operator presence. WMC translates this observation into an objective ranking matrix reproducible by independent GIS analysis — no proprietary data and no management-team judgment about local sentiment is required to apply it. The thesis establishes the investment rationale; the asset evaluation protocol, the Direct-Hold framework, and the interest coverage discipline govern how that rationale is applied to specific acquisitions.
+The co-location investment thesis rests on a single, verifiable observation: institutional-grade retailers independently commit capital to the same geographic nodes, and that convergence is a more durable signal of site quality than any single-operator presence. Woodfine translates this observation into an objective ranking matrix reproducible by independent GIS analysis — no proprietary data and no management-team judgment about local sentiment is required to apply it. The thesis establishes the investment rationale; the asset evaluation protocol, the Direct-Hold framework, and the interest coverage discipline govern how that rationale is applied to specific acquisitions.
 
 ## See also
 
-- [[asset-evaluation-protocol|Asset Evaluation Protocol]] — how the tier score functions as an entry criterion in WMC's acquisition process
+- [[asset-evaluation-protocol|Asset Evaluation Protocol]] — how the tier score functions as an entry criterion in Woodfine's acquisition process
 - Corporate Structure — the entities responsible for executing acquisitions
 - Direct-Hold Framework — the ownership structure applied to acquired assets
 - Perpetual Equity Model — the holding framework applied to assets that pass the co-location screening

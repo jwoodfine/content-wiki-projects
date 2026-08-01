@@ -6,7 +6,7 @@ category: buildings
 type: topic
 content_type: topic
 quality: complete
-short_description: "Las características económicas de las clases de desarrollo de WMC: Centros Profesionales, Oficina Suburbana, Industrial Tecnológico y Retail Selectivo, con Estructuras de Estacionamiento y Almacenes Verticales por venir."
+short_description: "Las características económicas de las clases de desarrollo de Woodfine: Centros Profesionales, Oficina Suburbana, Industrial Tecnológico y Retail Selectivo, con Estructuras de Estacionamiento y Almacenes Verticales por venir."
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
@@ -19,7 +19,7 @@ paired_with: buildings/about-development-class-economics.md
 El análisis de inversión en bienes raíces comerciales comienza con las características físicas
 y económicas de las clases de edificios, que determinan la base de arrendatarios, las
 estructuras de contratos de arrendamiento, los perfiles de costos operativos y los parámetros
-de financiamiento aplicables a cada tipo de activo. El programa de tenencia directa de WMC
+de financiamiento aplicables a cada tipo de activo. El programa de tenencia directa de Woodfine
 aplica una [[about-development-classes|taxonomía de seis clases]]: [[class-professional-centres|Centros Profesionales]], Oficina Suburbana, Industrial
 Tecnológico y Retail Selectivo — cubiertas a continuación con economía establecida — más
 Estructuras de Estacionamiento y Almacenes Verticales, dos clases aún en desarrollo cuyas

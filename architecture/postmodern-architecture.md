@@ -20,7 +20,7 @@ tags:
   - batch:2
 source_refs:
   - daeb7e52efcd67d11a7cc94614650eb374948f907fc8875e223618e989e80fba
-thesis_alignment: "Postmodern commercial architecture produced the suburban office and retail buildings of the 1985–2000 era that now occupy secondary market commercial corridors adjacent to Power Centres; understanding the functional and aesthetic characteristics of this building generation is essential context for WMC site evaluation, as these buildings constitute the competing inventory against which new Woodfine Professional Centre development is positioned."
+thesis_alignment: "Postmodern commercial architecture produced the suburban office and retail buildings of the 1985–2000 era that now occupy secondary market commercial corridors adjacent to Power Centres; understanding the functional and aesthetic characteristics of this building generation is essential context for Woodfine site evaluation, as these buildings constitute the competing inventory against which new Woodfine Professional Centre development is positioned."
 keynote: false
 ---
 
@@ -48,7 +48,7 @@ The postmodern influence extended directly into retail commercial construction. 
 
 ## Secondary market inventory and co-location context
 
-In North American secondary markets, the postmodern commercial building stock of the 1985–2000 period represents the second major generation of suburban commercial development. It followed the modernist office buildings and strip malls of the 1960s and 1970s. The two generations together constitute the majority of the leasable commercial inventory in the suburban commercial corridors that WMC evaluates. These corridors are the focus of [[co-location-strategy|co-location]] site evaluation.
+In North American secondary markets, the postmodern commercial building stock of the 1985–2000 period represents the second major generation of suburban commercial development. It followed the modernist office buildings and strip malls of the 1960s and 1970s. The two generations together constitute the majority of the leasable commercial inventory in the suburban commercial corridors that Woodfine evaluates. These corridors are the focus of [[co-location-strategy|co-location]] site evaluation.
 
 ### Building characteristics in site evaluation
 
