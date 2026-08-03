@@ -10,7 +10,7 @@ status: active
 audience: public
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-15
+last_edited: 2026-08-03
 editor: pointsav-engineering
 short_description: "A curated glossary of proprietary Woodfine direct-hold vocabulary — Development Classes, Prototype, Fixed Floor Plate, Rollout Program, and related terms — distinct from generic AEC industry terminology."
 paired_with: buildings/woodfine-development-vocabulary.es.md
@@ -21,7 +21,7 @@ This glossary defines the vocabulary specific to Woodfine Management Corp.'s dir
 
 Where a term already has a dedicated wiki article, this glossary gives a one-line summary and a link rather than repeating the full definition.
 
-**Buying Program.** The portfolio-wide procurement mechanism through which Woodfine purchases directly from suppliers on behalf of every building in the direct-hold portfolio, aggregating volume across deployments to secure rebates and cost efficiencies a single-building buyer could not obtain. See also National Pricing, below.
+**Buying Program.** The portfolio-wide procurement mechanism through which Woodfine purchases directly from suppliers on behalf of every building in the direct-hold portfolio, aggregating volume across deployments to secure rebates and cost efficiencies a single-building buyer could not obtain. Full definition: [[centralized-buying-program|Centralized buying program]]. See also National Pricing, below.
 
 **Campus Design.** A unified, site-wide plan governing building footprint placement, parking fields, utility connections, and pedestrian circulation for every structure on a single Development Site. Full definition: [[site-selection-terminology|Site selection terminology]].
 
@@ -39,7 +39,7 @@ Where a term already has a dedicated wiki article, this glossary gives a one-lin
 
 **Mix-of-Use.** The tenant curation model that assembles a stable professional ecosystem from five occupier categories — academic, business, civic, laboratory, and medical — within a single Woodfine building. Full definition: [[mix-of-use|Mix-of-use]].
 
-**National Pricing.** The bulk-purchase discounts secured through the Buying Program, applied uniformly across every building in the portfolio rather than negotiated building by building.
+**National Pricing.** The bulk-purchase discounts secured through the Buying Program, applied uniformly across every building in the portfolio rather than negotiated building by building. Full definition: [[centralized-buying-program|Centralized buying program]].
 
 **National Retailers.** The large-format retail chains — the Power Centre anchors — whose presence at institutional scale drives Woodfine's co-location site selection. Distinct from National Tenants, below: National Retailers anchor the adjacent Power Centre; National Tenants anchor the Woodfine building itself.
 

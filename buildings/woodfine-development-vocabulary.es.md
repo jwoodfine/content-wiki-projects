@@ -10,7 +10,7 @@ status: active
 audience: public
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-07-15
+last_edited: 2026-08-03
 editor: pointsav-engineering
 short_description: "Un glosario curado del vocabulario propio de tenencia directa de Woodfine — Clases de Desarrollo, Prototipo, Placa de Piso Fija, Programa de Expansión y términos relacionados — distinto de la terminología genérica de la industria AEC."
 paired_with: buildings/woodfine-development-vocabulary.md
@@ -21,7 +21,7 @@ Este glosario define el vocabulario propio del modelo de desarrollo de tenencia 
 
 Cuando un término ya cuenta con un artículo dedicado en la wiki, este glosario ofrece un resumen de una línea con enlace, en lugar de repetir la definición completa.
 
-**Programa de Compras.** El mecanismo de adquisición a escala de todo el portafolio mediante el cual Woodfine compra directamente a proveedores en nombre de cada edificio del portafolio de tenencia directa, agregando volumen entre desarrollos para asegurar descuentos y eficiencias de costo que un comprador de un solo edificio no podría obtener. Véase también Precios Nacionales, más abajo.
+**Programa de Compras.** El mecanismo de adquisición a escala de todo el portafolio mediante el cual Woodfine compra directamente a proveedores en nombre de cada edificio del portafolio de tenencia directa, agregando volumen entre desarrollos para asegurar descuentos y eficiencias de costo que un comprador de un solo edificio no podría obtener. Definición completa: [[centralized-buying-program|Programa centralizado de compras]]. Véase también Precios Nacionales, más abajo.
 
 **Diseño Campus.** Una configuración unificada de todo el sitio que rige la ubicación de la huella de los edificios, los campos de estacionamiento, las conexiones de servicios públicos y la circulación peatonal para cada estructura en un único Sitio de Desarrollo. Definición completa: [[site-selection-terminology|Terminología de selección de sitios]].
 
@@ -39,7 +39,7 @@ Cuando un término ya cuenta con un artículo dedicado en la wiki, este glosario
 
 **Combinación de Usos.** El modelo de selección de inquilinos que reúne un ecosistema profesional estable a partir de cinco categorías de ocupantes — académico, empresarial, cívico, laboratorio y médico — dentro de un único edificio Woodfine. Definición completa: [[mix-of-use|Combinación de usos]].
 
-**Precios Nacionales.** Los descuentos por compra al por mayor obtenidos a través del Programa de Compras, aplicados de manera uniforme en todos los edificios del portafolio en lugar de negociarse edificio por edificio.
+**Precios Nacionales.** Los descuentos por compra al por mayor obtenidos a través del Programa de Compras, aplicados de manera uniforme en todos los edificios del portafolio en lugar de negociarse edificio por edificio. Definición completa: [[centralized-buying-program|Programa centralizado de compras]].
 
 **Minoristas Nacionales.** Las cadenas minoristas de gran formato — los anclas del Centro de Potencia — cuya presencia a escala institucional impulsa la selección de sitios de co-localización de Woodfine. Se distingue de los Inquilinos Nacionales, más abajo: los Minoristas Nacionales anclan el Centro de Potencia adyacente; los Inquilinos Nacionales anclan el propio edificio Woodfine.
 

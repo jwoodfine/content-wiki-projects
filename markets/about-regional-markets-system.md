@@ -13,7 +13,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Reference article for the co-location analysis system that identifies and ranks suburban retail markets in North America and Europe."
 paired_with: markets/about-regional-markets-system.es.md
-last_edited: 2026-07-11
+last_edited: 2026-08-03
 editor: editorial
 ---
 
@@ -217,6 +217,7 @@ Work planned or intended for the next iterations of the system.
 
 ## See Also
 
+- [[regional-market-definition|Regional market definition]]
 - [[co-location-methodology|Co-location Methodology]]
 - [[co-location-intelligence-overview|Co-location Intelligence Overview]]
 - [[od-catchment-methodology|O-D Catchment Methodology]]

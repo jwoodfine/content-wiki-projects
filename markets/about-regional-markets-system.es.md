@@ -13,7 +13,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Artículo de referencia sobre el sistema de análisis de co-localización que identifica y clasifica mercados minoristas suburbanos en América del Norte y Europa."
 paired_with: markets/about-regional-markets-system.md
-last_edited: 2026-05-30
+last_edited: 2026-08-03
 editor: editorial
 ---
 
@@ -190,6 +190,7 @@ Trabajo planificado o previsto para las próximas iteraciones del sistema.
 
 ## Véase también
 
+- [[regional-market-definition|Definición de mercado regional]]
 - [[co-location-methodology|Metodología de Co-ubicación]]
 - [[atlas-top-400-north-america|Top 400 Mercados Regionales — América del Norte]]
 - [[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]]
