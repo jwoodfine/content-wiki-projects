@@ -81,6 +81,13 @@ marked staged.
 | France | Planned |
 | Netherlands | Planned |
 
+**Correction (2026-08-02):** this table is stale and actively misdirects readers —
+[[atlas-france]] (102 markets), [[atlas-italy]] (21), [[atlas-netherlands]] (14),
+and [[atlas-poland]] (16) all already exist as complete, published pages (all
+last-edited 2026-07-16, after this page's own 2026-07-11 edit date), yet France and
+Netherlands are marked "Planned" and Italy/Poland are omitted from the table
+entirely. **Flagged, not resolved.**
+
 ## See also
 
 - [[about-regional-markets-system]] — the co-location framework that defines market selection criteria

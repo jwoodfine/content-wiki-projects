@@ -28,6 +28,10 @@ The Netherlands' 14 markets cluster most heavily around Rotterdam (4 markets) an
 
 's-Gravenhage (The Hague's formal name, suburb of Rotterdam, score 6.0) and Maastricht and Roermond (both also 6.0) are the Netherlands' highest-scoring entries, each a single Tier 1 cluster combined with a Tier 2 cluster or standing alone. [[nl-breda|Breda]] scores 5.0 on a Tier 1 + Tier 3 combination. Zwolle and Arnhem score 4.5 and 3.0 respectively on Tier 2/Tier 3 combinations without a Tier 1 cluster — Arnhem is the Netherlands' lowest-ranked entry. The remaining seven markets score 4.0 on a single Tier 1 cluster.
 
+**Correction (2026-08-02):** this page's own table has 8 rows scoring 4.0 (Tilburg,
+Leeuwarden, Zoetermeer, Ede, Haarlemmermeer, Alkmaar, Heerhugowaard, Dordrecht), not
+seven. **Flagged, not resolved.**
+
 ## Ranked markets
 
 | Rank | Market | Suburb of | km | T1 | T2 | T3 | Civic | Score |

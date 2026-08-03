@@ -54,6 +54,10 @@ The list spans 399 verified distinct markets across 11 European countries, occup
 
 The metropolitan areas generating the most qualifying suburbs are London (14), Paris (14), Stuttgart (12), and Le Havre (9). The Rhine-Ruhr system — encompassing Düsseldorf, Essen, Cologne, and Dortmund — collectively generates over 30 qualifying suburbs across multiple reference metro centroids.
 
+**Correction (2026-08-02):** summing this page's own table rows for these four
+cities (Düsseldorf 4, Essen 4, Cologne 5, Dortmund 4) gives 17, not "over 30" — a
+~76% overstatement. **Flagged, not resolved.**
+
 ## Top 25
 
 The twenty-five highest-ranked European Regional Markets are listed below, with the metropolitan centre each market is a suburb of.

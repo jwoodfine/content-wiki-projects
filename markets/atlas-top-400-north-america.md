@@ -517,6 +517,11 @@ The twenty-five highest-ranked North American Regional Markets are listed below,
 | [[atlas-canada\|Canada]] | 23 | Suburbs of Toronto (8), Vancouver (4), Calgary (2), and others |
 | Mexico | 8 | Suburbs of Mexico City, Guadalajara, and Monterrey |
 
+**Correction (2026-08-02):** the Canada breakdown note above misstates its own
+underlying 23 rows — the real count is Toronto 8 (correct), Vancouver 6 (not 4),
+Montreal 5 (omitted from the note despite being the second-largest contributor),
+Kitchener 2, Detroit 1, Calgary 1 (not 2). **Flagged, not resolved.**
+
 ## Data Sources and Methodology
 
 Co-location data is drawn from OpenStreetMap (ODbL licence) filtered by Wikidata chain identifiers, supplemented by civic-anchor records from the Overture Maps Foundation Places dataset (CDLA Permissive 2.0). Cluster boundaries are computed by a two-pass DBSCAN algorithm. Metropolitan reference centroids are drawn from 120 major North American metropolitan areas.

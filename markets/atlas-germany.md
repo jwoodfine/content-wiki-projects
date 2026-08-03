@@ -41,6 +41,12 @@ is a consistent feature of qualifying German regional markets. The presence of O
 or Hornbach alongside a Kaufland or Real hypermarket confirms the income and demand conditions
 required for professional centre [[co-location-strategy|co-location]].
 
+**Correction (2026-08-02):** the "Real" hypermarket chain was sold off by Metro AG
+starting 2020, had its stores rebranded to Kaufland/Globus/Edeka/Rewe/V-Markt by
+mid-2022, and the residual "real,-"-branded rump went bankrupt and was liquidated in
+2024 — as of this page's own `last_edited` date, "Real hypermarket" is not a live,
+current retail signal. **Flagged, not resolved.**
+
 **Planning environment.** German retail planning is more restrictive than North American
 equivalents: large-format retail requires specific designation in development plans. This
 restricts Fachmarktzentrum formation to markets with sufficient demand history, making

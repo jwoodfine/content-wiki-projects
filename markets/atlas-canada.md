@@ -63,6 +63,10 @@ Laurentides–Lanaudière outside the Montreal metro.
 **Atlantic provinces** — [[ca-nb-moncton|Moncton]], Fredericton, Charlottetown, and Sidney/Cape Breton as
 primary qualifying markets; others assessed individually.
 
+**Correction (2026-08-02):** the real community in Cape Breton, Nova Scotia is
+spelled **Sydney**, not "Sidney" — "Sidney" names a different, unrelated real place
+(Sidney, BC, near Victoria on Vancouver Island). **Flagged, not resolved.**
+
 **Correction (2026-07-16):** none of Barrie–Innisfil, Kelowna, Lethbridge, Moncton, or Regina
 — all previously listed above as "primary qualifying markets" or in the removed Sample
 markets table below — actually appear among Canada's 23 verified entries in the
