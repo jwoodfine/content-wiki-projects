@@ -26,6 +26,10 @@ IFC 4.3 was published as ISO 16739-1:2024 in April 2024. The standard defines a 
 
 Every [[design-system-bim|Building Design System]] BIM Object maps to a specific IFC entity class or Pset. The spatial BIM Object `bim.spatial.storey` anchors to `IfcBuildingStorey`; the performance BIM Object `bim.performance.door-fire-exit` anchors to `Pset_DoorCommon.IsFireExit`. When a BIM Object value changes, a validator can trace the change back to the IFC Pset that the BIM Object represents.
 
+**Correction (2026-08-02, verified against buildingSMART's own published IFC
+property definitions):** the correct property is `Pset_DoorCommon.FireExit`, not
+`IsFireExit` — repeated below in the bSDD URI too. **Flagged, not resolved.**
+
 ### Layer 2 — Uniclass 2015 classification floor
 
 Uniclass 2015 is the unified classification system for the UK construction industry, maintained by the NBS. Building Design System BIM Objects carry a Uniclass 2015 reference in their `$extensions.uniclass` field, establishing a classification floor that maps to the national procurement and specification context.
@@ -75,6 +79,14 @@ Source file: `systems.dtcg.json`
 Energy, daylight, accessibility, and fire-safety thresholds — regulatory minima drawn from EN 12464-1 (workplace daylight), EN 17037 (daylight in buildings), ADA 2010, IBC 2021, and ASHRAE 90.1. Performance BIM Objects are the regulatory floor that the spatial and element objects must satisfy.
 
 The most architecturally consequential performance BIM Object is `bim.performance.max-workstation-to-window`, set at 6.0 metres from EN 12464-1:2021. This single value drives the Zone 1 Habitat depth in every professional office floor plate.
+
+**Correction (2026-08-02):** EN 12464-1 governs workplace illuminance/lux levels —
+it does not define a maximum workstation-to-window distance. The standard actually
+governing daylight depth is EN 17037 (Daylight in Buildings), correctly cited
+elsewhere in this same article's regulatory list. Notably, [[bim-building-width-method]]
+treats this same 6.0 m figure's citation as genuinely unresolved ("EN 12464-1 / EN
+17037, pending precise citation") — this article states it as settled fact under the
+wrong standard. **Flagged, not resolved.**
 
 Source file: `performance.dtcg.json`
 

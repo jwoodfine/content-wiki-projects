@@ -67,6 +67,13 @@ Research identified ten universal components that appear in every BIM authoring 
 
 Three of these components (Spatial Tree, Properties Panel, Viewport 3D) are implemented at v0.0.1. The remaining seven are intended for v0.0.2 and v0.0.3.
 
+**Correction (2026-08-02, verified against canonical `origin/main`):** none of these
+component names exist in canonical code. `app-workplace-bim` and `app-console-bim`
+contain only documentation files (`CLAUDE.md`/`RESEARCH.md`/`NEXT.md`), no source
+code. `app-orchestration-bim` has real code, but it's an Axum server rendering DTCG
+tokens/markdown into a static catalog page — no viewport, spatial tree, or
+properties panel implementation exists anywhere in it. **Flagged, not resolved.**
+
 ## Surface-Specific Extensions
 
 Beyond universal components, each built-environment programme type has a distinct set of interface requirements. Three programme types are in scope at v0.0.1:

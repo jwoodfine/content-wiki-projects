@@ -18,6 +18,15 @@ cites: [ifc-4-3, uniclass-2015, bsdd-v1]
 
 The Building Design System adopts established interface vocabularies from industry-standard tools (Revit, ArchiCAD, BricsCAD, and Bonsai) to ensure a zero-learning curve for AEC practitioners. By mirroring universal navigation and layout conventions, the platform allows users to focus on strategic innovations — such as the flat-file vault and city-code-as-composable-geometry — rather than basic tool interaction.
 
+**Correction (2026-08-02, verified against canonical `origin/main`):** this whole
+"Building Design System" interface (SpatialTree/Left Rail, PropertiesPanel/Right
+Rail, Toolbar, StatusBar, NavCube, etc., described below) is presented as an
+existing platform, but no component under these names exists in canonical code —
+`app-workplace-bim`/`app-console-bim` are documentation-only, and
+`moonshot-bim-engine` (the crate that would implement BIM rendering) is self-
+documented in canonical as "🔴 Research... a structural placeholder." Same
+misattribution pattern as [[aec-interface-conventions]]. **Flagged, not resolved.**
+
 ## Universal AEC Interface Conventions
 
 The platform implements the following industry-standard layout patterns:

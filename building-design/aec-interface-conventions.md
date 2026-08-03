@@ -26,6 +26,19 @@ Every BIM authoring tool displays the spatial structure of a building as a hiera
 
 When an element is selected, a properties panel shows the element's IFC class name, its globally unique identifier (IFC GUID), and all attached Property Set values. The Building Design System `PropertiesPanel` component renders the same data with a mode-prop variant: the `view` mode shows all Pset values flat; the `edit` mode shows only the values the current role is authorised to modify. A BIM operator finds their familiar Pset vocabulary — `Pset_WallCommon.FireRating`, `Pset_SpaceOccupancy.OccupancyNumber`, `Pset_DoorCommon.IsFireExit` — in the same position as in their authoring tool.
 
+**Correction (2026-08-02, verified against buildingSMART's own published IFC
+property definitions):** two real property-name errors — the correct property is
+`Pset_DoorCommon.FireExit` (not `IsFireExit`), and the correct property set is
+`Pset_SpaceOccupancyRequirements.OccupancyNumber` (not `Pset_SpaceOccupancy`).
+Separately, and more consequentially: no `PropertiesPanel`/`SpatialTree`/
+`Viewport3D`-named component exists anywhere in canonical `origin/main` — `git ls-tree`
+returns zero matches for any of this article's 10 named UI components.
+`app-workplace-bim` and `app-console-bim` contain documentation only, and
+`moonshot-bim-engine` (the crate that would implement BIM rendering) self-describes
+as "🔴 Research... a structural placeholder; implementation is planned." This whole
+"Building Design System" interface is described in unhedged present tense
+throughout this article. **Flagged, not resolved.**
+
 ### 3D viewport
 
 The principal interface surface of every BIM tool is a perspective or orthographic 3D viewport. Camera controls (orbit, pan, zoom) use industry-standard mouse bindings: middle-button orbit, scroll zoom, shift-scroll pan. Section cuts are applied as clipping planes. The Building Design System `Viewport3D` component embeds the xeokit-sdk or @thatopen/web-ifc viewer — both open-source — with these standard camera controls. An IFC file loaded into the viewport renders correctly because both viewers implement the IFC 4.3 geometry pipeline natively, without round-tripping through a proprietary format.

@@ -31,7 +31,12 @@ Woodfine positions its portfolio to capture the tenant demand that is displaced 
 
 BREEAM (Building Research Establishment Environmental Assessment Method) assesses building performance across categories including energy use, water efficiency, materials sourcing, and site ecology. A BREEAM rating for a Woodfine Building reflects the building's measured performance against these criteria, independently assessed by a licensed BREEAM assessor.
 
-The [[geometry-of-sustainability|Geometry of Sustainability]] applied in Woodfine Building design — European Lighting Directive, Swiss Air Exchange Requirements, German Circulation Requirements — produces buildings whose structural characteristics align with BREEAM performance criteria. The 30% operating cost reduction that results from Geometry of Sustainability compliance is a consequence of building characteristics that also satisfy BREEAM energy and environmental performance thresholds.
+The [[geometry-of-sustainability|Geometry of Sustainability]] applied in Woodfine Building design — European Lighting Directive, Swiss Air Exchange Requirements, German Circulation Requirements — produces buildings whose structural characteristics align with BREEAM performance criteria.
+
+**Correction (2026-08-02):** "Directive"/"Requirements" naming inherited from
+[[geometry-of-sustainability]] — see that article's Correction for the
+Directive-vs-Standard terminology conflict with this category's other articles.
+**Flagged, not resolved.** The 30% operating cost reduction that results from Geometry of Sustainability compliance is a consequence of building characteristics that also satisfy BREEAM energy and environmental performance thresholds.
 
 ## Human-Centric Wellness — WELL Standard
 

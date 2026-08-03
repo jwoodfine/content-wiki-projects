@@ -102,6 +102,13 @@ The V3 Master Summary table (January 2026) supersedes earlier iterations for the
 | Business | 6.0 m / 19'8" | 7.3 m / 23'11" | 2.7 m | 311 / 3,350 | 400 / 4,302 | 669 / 7,524 |
 | Medical | 7.2 m / 23'10" | 4.9 m / 16" | 2.9 m / 9'5" | 223 / 2,402 | 331 / 3,568 | 486 / 5,231 |
 | Civic | 6.0 m / 19'8" | 7.2 m / 23'8" | 3.6 m / 12' | 270 / 2,912 | 577 / 6,215 | 822 / 8,850 |
+
+**Correction (2026-08-02):** two defects in the table above. (1) Medical's Z2
+Magazine cell reads `4.9 m / 16"` (16 inches) when 4.9 m ≈ 16'1" — every other cell
+in this table correctly uses the feet-inches format. (2) Business Large's SF value
+(669 m² / 7,524 SF) is off — 669 m² converts to ≈7,201 SF, a discrepancy larger than
+the rounding noise elsewhere in this table; the same pairing is also repeated in
+[[bim-business-key-plans]]. **Flagged, not resolved.**
 | Professional Office (Initial Design baseline) | 6.0 m / 19'8" | 3.8 m / 12'5" | 2.0 m / 6'6" | 130 / 1,400 | — | — |
 
 ### Academic Small — reconciliation

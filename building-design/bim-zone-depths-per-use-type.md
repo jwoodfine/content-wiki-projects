@@ -128,6 +128,13 @@ The Business use type has **21 enumerated width options** per Notes V3. The toke
 | Key plan SF | Small 3,350 / Medium 4,302 / Large 7,524 | Sketches 2-4 |
 | Building width | **32.29 m / 105'11"** | 2 × (5.51 + 9.26) + 2.75 (Option A/A) |
 
+**Correction (2026-08-02):** this detail-section figure (32.29 m, correctly
+computable from the stated formula: 2×(5.51+9.26)+2.75 = 32.29) contradicts the
+summary table above, which gives Business building width as 29.30 m under the same
+"Option A/A" label and the same Z1/Z2/Z3 inputs. Every other row's summary-table
+width matches its detail-section width exactly — this is an internal arithmetic
+inconsistency isolated to Business. **Flagged, not resolved.**
+
 **Important caveat:** Notes V3 enumerates 21 combinations (Option A/A through D/D), where the two letters denote the left-side and right-side Z1/Z2 choices. The narrowest Business option is **25.29 m (D/D)** and the widest is **32.29 m (A/A)**. The asymmetric options are generally disfavoured for tile composition because demising walls must absorb the asymmetry.
 
 From operator commentary in Notes V3 on Option D: "The overall area of the Fixed Floor Plates [is] Professional Centres at approximately **19,000 SF to 23,000 SF** and Suburban Office at approximately **17,000 SF to 21,000 SF**."

@@ -16,7 +16,14 @@ editor: pointsav-engineering
 paired_with: building-design/bim-business-key-plans.es.md
 ---
 
-Business Office (Professional Office — Business) is one of the five [[bim-professional-office-key-plans|Professional Office]] sub-types. Its distinguishing feature is Zone 2 Magazine at 7.3 m — the widest of any sub-type — driven by open storage walls, server rooms, print areas, and team collaboration zones characteristic of professional-services practices. The depth is computed using the [[bim-building-width-method|Building Width Calculator]] and feeds the [[bim-tile-system|Tile system]] that composes the [[bim-floor-plate-methodology|floor plate]].
+Business Office (Professional Office — Business) is one of the five [[bim-professional-office-key-plans|Professional Office]] sub-types. Its distinguishing feature is Zone 2 Magazine at 7.3 m — the widest of any sub-type
+
+**Correction (2026-08-02):** this article's own frontmatter `short_description`
+states 9.26 m for Zone 2 Magazine, conflicting with the 7.3 m used here in the body
+— 9.26 m is actually "Option A" from this article's own exploratory table further
+down (widest enumerated), not the V3 baseline the body/[[bim-key-plans-index]] use.
+7.3 m is the value consistent with the rest of this category. **Flagged, not
+resolved.** — driven by open storage walls, server rooms, print areas, and team collaboration zones characteristic of professional-services practices. The depth is computed using the [[bim-building-width-method|Building Width Calculator]] and feeds the [[bim-tile-system|Tile system]] that composes the [[bim-floor-plate-methodology|floor plate]].
 
 ## The three sizes
 
@@ -25,6 +32,11 @@ Business Office (Professional Office — Business) is one of the five [[bim-prof
 | Small | B-1 | 311 | 3,350 |
 | Medium | B-2 | 400 | 4,302 |
 | Large | B-3 | 669 | 7,524 |
+
+**Correction (2026-08-02):** 669 m² converts to ≈7,201 SF, not 7,524 SF — a ~323 SF
+(4.5%) discrepancy, larger than the ≤6 SF rounding noise on every other row in this
+table family. The same 669/7,524 pairing also appears in [[bim-key-plans-index]].
+**Flagged, not resolved.**
 
 ## Zone vocabulary
 
