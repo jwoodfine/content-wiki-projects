@@ -34,7 +34,11 @@ In Great Britain during the 1950s and 1960s, architects including Donald McMorra
 
 ### European counter-proposals of the 1970s
 
-In the late 1970s, young European architects began challenging the hegemony of modernist proposals in architecture and urban planning. Leon Krier and Maurice Culot founded the Archives d'Architecture Moderne in Brussels and published texts and counter-proposals to modernist urban redevelopment schemes. This activity gained momentum from the support of Charles, Prince of Wales, who became an influential advocate for traditional urban design. His Prince's Foundation for Building Community has sponsored traditional architecture and urbanism projects across the UK.
+In the late 1970s, young European architects began challenging the hegemony of modernist proposals in architecture and urban planning. Leon Krier and Maurice Culot founded the Archives d'Architecture Moderne in Brussels and published texts and counter-proposals to modernist urban redevelopment schemes.
+
+**Correction (2026-08-02):** the Archives d'Architecture Moderne was founded in
+1968 (by Culot and François Terlinden), about a decade earlier than stated.
+**Flagged, not resolved.** This activity gained momentum from the support of Charles, Prince of Wales, who became an influential advocate for traditional urban design. His Prince's Foundation for Building Community has sponsored traditional architecture and urbanism projects across the UK.
 
 ### Driehaus Prize and academic classicism
 

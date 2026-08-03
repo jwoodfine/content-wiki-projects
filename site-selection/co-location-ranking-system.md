@@ -65,6 +65,17 @@ The twelve ranks are grouped into five quality ranks to provide a high-level vie
 
 **Quality rank note.** This article's five-rank scale (Rank 1 = highest, Rank 5 = lowest) describes the quality index rendered on the map. Individual co-location sites within a Regional Market are separately described using a three-tier spatial cluster classification (T1, T2, T3) in which T1 denotes the cluster with the most anchor-type categories present — the highest-composition cluster type in a given market. The five-rank quality scale and the T1/T2/T3 spatial cluster tiers are distinct: the quality rank measures commercial density across the full index; the spatial tier ranks anchor composition within a single market. For the T1/T2/T3 tier vocabulary, see [Co-location Tier Nomenclature](https://documentation.pointsav.com/reference/colocation-tier-nomenclature).
 
+**Correction (2026-08-02, verified against [[gis-cluster-scoring-glossary]]):** the
+T1/T2/T3 definition here is inverted. The real glossary defines T1 Valid as the
+**entry-level** tier (score ≥ 150, "partial co-location confirmation") and T3 Apex
+as the **top** tier (score ≥ 700) — the opposite of "T1 denotes the cluster with the
+most anchor-type categories present." Separately, the linked URL
+(`documentation.pointsav.com/reference/colocation-tier-nomenclature`) points to a
+different wiki entirely and a misspelled slug — this repo's own
+`[[co-location-tier-nomenclature]]` wikilink should be used instead. This wiki
+maintains several unreconciled co-location tier systems reusing the same T1/T2/T3
+labels; this article's footnote conflates two of them. **Flagged, not resolved.**
+
 ### ★★★★★ Rank 1 — Full co-location
 *Rank 1 only. All four categories present.*
 The highest designation. The anchor operates within 3 km of both a hardware superstore and a warehouse club, and within 5 km of both a healthcare facility and a university. This indicates that all four independent capital-selection processes have converged on the same node. As of 2 May 2026: **102 sites** (North America).

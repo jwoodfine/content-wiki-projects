@@ -60,6 +60,18 @@ Civic and institutional infrastructure that provides a non-cyclical, stable demo
 
 Sites are evaluated on a 12-rank matrix that maps to five quality tiers, separating commodity retail nodes from the rare locations where critical commercial elements converge. The map-facing labels — Regional, District, Local, Fringe — follow the ICSC retail property hierarchy described in [[co-location-tier-nomenclature|tier nomenclature]].
 
+**Correction (2026-08-02):** two defects. (1) The real ICSC shopping-center hierarchy
+is Neighborhood/Community/Regional/Super Regional (plus named specialty types) — it
+has no "District," "Local," or "Fringe" tier, and only "Regional" is a real ICSC
+term. This "follows the ICSC hierarchy" claim is factually wrong. (2) Separately,
+this article's own 5-tier matrix cannot be the same system as
+[[co-location-tier-nomenclature]]'s 4-label Regional/District/Local/Fringe scheme —
+that scheme is assigned by an unrelated predicate-gate mechanism (population
+percentile, IoU overlap, civic classification), not this article's Hardware/
+Warehouse/Healthcare/Higher-Ed composition matrix. This wiki maintains at least
+three unreconciled co-location scoring systems that reuse overlapping tier
+vocabulary — this citation conflates two of them. **Flagged, not resolved.**
+
 | Tier | Description | Commercial validation |
 |------|-------------|-----------------------|
 | ★★★★★ | Tier 5 — Full co-location | All four categories present: hardware, warehouse club, healthcare, higher education |
@@ -75,6 +87,10 @@ See [[co-location-ranking-system]] for the complete 12-rank specification, the r
 The co-location index acts as a defensive filter for capital deployment. By focusing on Tier 4 and Tier 5 nodes, an investor prioritises sites with the highest level of independent capital validation and the strongest multi-format demographic anchors.
 
 The methodology applies consistently across global markets by mapping regional operators to these canonical roles. A planned expansion integrates logistics and transport data to add a fourth dimension to the matrix; that expansion is forward-looking and framed per `[ni-51-102]` and `[osc-sn-51-721]`.
+
+**Correction (2026-08-02):** the matrix already has four non-primary dimensions
+(Hardware, Warehouse, Healthcare, Higher Ed) — a planned addition would be a fifth
+dimension, not a "fourth." **Flagged, not resolved.**
 
 ## See also
 

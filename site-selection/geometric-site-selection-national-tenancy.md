@@ -376,6 +376,11 @@ The following table reports Phase 22 actual counts (6,493 clusters, May 2026):
 | IS | 0 | 2 | 1 | 3 |
 | **Total** | **1,746** | **3,393** | **1,354** | **6,493** |
 
+**Correction (2026-08-02):** this table's own T1 total (1,746) is off by one from the
+figure used in the abstract, §4.2's table header, and §5.1's opening sentence
+(1,747/26.9%) — a genuine internal arithmetic inconsistency in a "descriptive
+results" table, not just a rounding artifact. **Flagged, not resolved.**
+
 #### Sherwood Park illustrative case
 
 Illustrative case: Sherwood Park, Alberta — a sub-metropolitan market of approximately 80,000 population (2021 Census) containing a T1 cluster with span_km ≈ 0.8 km (Walmart Supercentre, Home Depot, Costco, and Canadian Tire within a 0.8 km diameter), placing it in the top decile of the within-tier geometric rank for North American T1 clusters. The US concentration of T1 clusters (889 of 1,746; 51%) reflects the power-centre development pattern of the 1990–2010 period discussed in §5.1.

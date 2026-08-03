@@ -33,7 +33,11 @@ Contemporary buildings vary significantly in formal character. Some employ concr
 
 ## Global scope
 
-Whereas the major monuments of 20th-century modern architecture were concentrated in the US and western Europe, contemporary architecture is genuinely global. China has produced landmark buildings at unprecedented speed and scale — the Burj Khalifa in Dubai, the Shanghai Tower, the Guangzhou International Finance Centre. The Arab Gulf states, Russia, and Latin America have all commissioned large-scale contemporary buildings by internationally prominent architectural practices. Contemporary architecture's global reach reflects both the globalisation of architectural practice and the ambitions of governments and developers in emerging economies to position their cities and projects through signature architecture.
+Whereas the major monuments of 20th-century modern architecture were concentrated in the US and western Europe, contemporary architecture is genuinely global. China has produced landmark buildings at unprecedented speed and scale — the Burj Khalifa in Dubai, the Shanghai Tower, the Guangzhou International Finance Centre.
+
+**Correction (2026-08-02):** the Burj Khalifa is in Dubai, UAE — not China; it's
+listed here as if it were a Chinese building alongside two genuinely Chinese ones.
+**Flagged, not resolved.** The Arab Gulf states, Russia, and Latin America have all commissioned large-scale contemporary buildings by internationally prominent architectural practices. Contemporary architecture's global reach reflects both the globalisation of architectural practice and the ambitions of governments and developers in emerging economies to position their cities and projects through signature architecture.
 
 ### Signature architects and global practices
 
@@ -41,7 +45,12 @@ The most prominent works of contemporary architecture are largely designed by a 
 
 ## Museums and cultural institutions
 
-The most striking and innovative works of contemporary architecture appear disproportionately in art museums and cultural institutions. Museums are the signature works of major contemporary architects, and their design liberates architects from the constraint of repetitive leasable floor plates. The Quadracci Pavilion of the Milwaukee Art Museum (Santiago Calatrava, 2001) includes a movable brise soleil that opens like wings during the day. The Walker Art Center expansion in Minneapolis (Herzog & de Meuron, 2005) won the Pritzker Architecture Prize for its architects. Daniel Libeskind's Imperial War Museum North in Manchester (2002), Royal Ontario Museum addition in Toronto (2007), and Denver Art Museum Hamilton Building (2006) are among the most discussed works of early 21st-century architecture.
+The most striking and innovative works of contemporary architecture appear disproportionately in art museums and cultural institutions. Museums are the signature works of major contemporary architects, and their design liberates architects from the constraint of repetitive leasable floor plates. The Quadracci Pavilion of the Milwaukee Art Museum (Santiago Calatrava, 2001) includes a movable brise soleil that opens like wings during the day. The Walker Art Center expansion in Minneapolis (Herzog & de Meuron, 2005) won the Pritzker Architecture Prize for its architects.
+
+**Correction (2026-08-02):** Herzog & de Meuron won the Pritzker in 2001, four years
+before the Walker expansion opened (2005) — the Prize recognizes a body of work, not
+this specific building, so the causal framing here is wrong. **Flagged, not
+resolved.** Daniel Libeskind's Imperial War Museum North in Manchester (2002), Royal Ontario Museum addition in Toronto (2007), and Denver Art Museum Hamilton Building (2006) are among the most discussed works of early 21st-century architecture.
 
 The Centre Pompidou-Metz (Shigeru Ban, 2010) employs a roof of sixteen kilometres of glued laminated timber arranged in a hexagonal grid and covered with white fiberglass membrane. The Whitney Museum of American Art in New York City (Renzo Piano, 2015) took a different approach, adopting an industrial-looking facade that blends into the Meatpacking District neighbourhood and creating porous public spaces at grade.
 

@@ -20,9 +20,29 @@ cites: []
 
 The **Geographic Co-Location Methodology** is the spatial analysis discipline Woodfine Management Corp. applies to identify and rank potential Development Sites across its three primary jurisdictions. The methodology scores retail nodes by the proximity and combination of anchor retailers operating in the geography, producing a ranked dataset of sites in which development investment is validated by the demonstrable commercial commitments of institutional retailers rather than by speculative demographic projections.
 
+**Correction (2026-08-02):** "three primary jurisdictions" contradicts this
+article's own "Required Site Count by Jurisdiction" table below (which lists only
+Canada/US/Mexico, omitting Spain) and, more consequentially, contradicts the sibling
+article [[power-centre-co-location-thesis]] (same `last_edited` date, 2026-07-11):
+"The Power Centre co-location requirement applies consistently across all **four**
+qualified jurisdictions: Canada, the United States, Spain, and Mexico." The
+four-jurisdiction, Spain-inclusive version is also the one consistent with
+[[location-intelligence-strategy]]'s detailed coverage plan and the JOURNAL working
+paper's inclusion of Spain (MITMA data, 58 clusters). This article is the outlier.
+**Flagged, not resolved.**
+
 The methodology produces five cluster degrees, each representing a more refined level of anchor co-occurrence. Higher-degree clusters indicate that a geography has attracted multiple categories of institutional commercial investment — a compound validation of market conditions that exceeds the threshold any single anchor produces alone.
 
 ## The Five-Degree Cluster System
+
+**Correction (2026-08-02):** this name collides with a differently-defined "Five-
+Degree Framework" in the JOURNAL working paper
+[[geometric-site-selection-national-tenancy]] §4.3, which defines its own 1st degree
+as "Primary anchor only... maps approximately to T3" — no secondary anchor required
+until the 2nd degree, unlike this article's First-Degree definition below (which
+requires a secondary anchor at the very first rung). Same name, same "Degree"
+vocabulary, same 5.0 km tertiary threshold, but genuinely different admission rules
+at each rung — neither article acknowledges the other. **Flagged, not resolved.**
 
 The five cluster degrees are constructed from two radius thresholds: a 1.0 km threshold applied to Primary and Secondary Target co-occurrence, and a 5.0 km threshold applied to Tertiary Target proximity. Each degree builds on the prior.
 

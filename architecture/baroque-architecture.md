@@ -42,9 +42,18 @@ In France, the Baroque arrived through Jesuit influence and royal patronage. Car
 
 The Southern Netherlands, the German-speaking territories, and Central Europe developed distinctive regional Baroque traditions. In the Southern Netherlands, Wenceslas Cobergher introduced the style in religious commissions from 1609. In Poland-Lithuania, Jesuit-sponsored churches on the Roman model appeared as early as the 1580s; the Corpus Christi Church at Nieśwież (1586–1593) was the first domed basilica with a Baroque facade in the Polish-Lithuanian Commonwealth. In German territories, the Late Baroque produced the most elaborate spatial interiors of the tradition — the work of Balthasar Neumann at the Basilica of the Fourteen Holy Helpers and the Würzburg Residence (1749–1751) represents the furthest development of spatial complexity within the Baroque framework.
 
+**Correction (2026-08-02):** the Würzburg Residence was built 1720–1744 (foundation
+1720, shell complete December 1744); 1749–1751 does not correspond to its
+construction. **Flagged, not resolved.**
+
 ### Russia and colonial Latin America
 
-In Russia, Peter the Great's programme of Westernization brought Baroque architecture in the early 18th century. The Smolny Cathedral in St. Petersburg and the palaces of the imperial court employed Italian and French architects working in the Baroque mode. In Latin America, the Baroque arrived through Spanish and Portuguese colonial building programmes; the Basilica of Bom Jesus in Goa (completed 1604) and subsequent colonial churches adapted European Baroque models to local conditions and labour.
+In Russia, Peter the Great's programme of Westernization brought Baroque architecture in the early 18th century. The Smolny Cathedral in St. Petersburg and the palaces of the imperial court employed Italian and French architects working in the Baroque mode.
+
+**Correction (2026-08-02):** Smolny Cathedral's construction began in 1748, 23 years
+after Peter the Great's death (1725) — commissioned by Empress Elizabeth, designed
+by Rastrelli. It's mid-century Elizabethan Baroque, not part of Peter the Great's
+own programme. **Flagged, not resolved.** In Latin America, the Baroque arrived through Spanish and Portuguese colonial building programmes; the Basilica of Bom Jesus in Goa (completed 1604) and subsequent colonial churches adapted European Baroque models to local conditions and labour.
 
 ## Formal characteristics
 

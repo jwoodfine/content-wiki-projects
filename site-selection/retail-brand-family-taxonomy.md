@@ -28,6 +28,18 @@ Every retail location on the [[co-location-methodology|co-location]] map carries
 
 Large-format general merchandise and grocery retailers operating facilities of 80,000 square feet or more. Includes Walmart Supercenter, Target, Carrefour Hypermarket, IKEA, and equivalents across [[atlas-tier-index-north-america|North American]] and [[atlas-tier-index-europe|European]] markets. Hypermarket stores are the primary anchor type in the co-location methodology — cluster formation requires one Hypermarket anchor. Displayed with a navy badge.
 
+**Correction (2026-08-02, verified against canonical `origin/main:app-orchestration-
+gis/SCORING-METHODOLOGY.md` V3):** IKEA belongs to a separate `ALPHA_LIFESTYLE`
+anchor class in the real pipeline, kept structurally apart from Hypermarket so it
+can independently satisfy the T1 gate's `(Warehouse ∧ Hypermarket) OR (Lifestyle ∧
+Hypermarket)` logic — folding IKEA into Hypermarket here collapses that gate's
+actual logic for a reader trying to understand it. This article also mixes
+vocabulary from other systems ("first/second scoring criterion" is V2-era
+sequential-scoring language, not V3's predicate gates; "tertiary scoring" borrows
+the separate Five-Degree system's "Tertiary Target" term), reinforcing that it
+blends several of this wiki's parallel tier systems rather than describing one
+consistently. **Flagged, not resolved.**
+
 ### Hardware
 
 Home improvement and building materials retailers. Includes Home Depot, Lowe's, Leroy Merlin, Canadian Tire, Hagebaumarkt, Praktiker, and regional equivalents. Hardware co-presence within the defined secondary radius of the primary anchor is the first scoring criterion in the co-location index. Displayed with an orange badge.

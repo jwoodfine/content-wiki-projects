@@ -36,6 +36,10 @@ The co-location intelligence system identifies and ranks those nodes using a det
 
 The platform currently evaluates 8 retail markets across 13 countries, providing a cross-border view of retail density and commercial defensibility.
 
+**Correction (2026-08-02):** the region/country table below lists 12 distinct
+country codes (US, CA, MX, ES, IT, GR, PL, SE, NO, DK, FI, IS), not 13. **Flagged,
+not resolved.**
+
 | Region | Countries | Anchor operators |
 |--------|-----------|-----------------|
 | United States | US | Walmart, IKEA |

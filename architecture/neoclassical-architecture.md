@@ -28,7 +28,11 @@ Neoclassical architecture is the architectural style produced by the Neoclassica
 
 ## Archaeological revival and the Grand Tour
 
-The movement was enabled by the development of archaeology as a systematic discipline and by the publication of accurate records of surviving classical buildings. The excavations at Pompeii and Herculaneum (from 1748) brought intact examples of Roman domestic and civic architecture to European awareness. The Grand Tour — the standard educational journey of wealthy young English aristocrats through France and Italy — produced generations of patrons and architects who had seen classical ruins in person. The writings of the German art historian Johann Joachim Winckelmann, published in the 1750s and 1760s, provided an influential theoretical framework for understanding Greek art and architecture as superior in its simplicity and nobility to the Baroque decoration that had immediately preceded it.
+The movement was enabled by the development of archaeology as a systematic discipline and by the publication of accurate records of surviving classical buildings. The excavations at Pompeii and Herculaneum (from 1748) brought intact examples of Roman domestic and civic architecture to European awareness.
+
+**Correction (2026-08-02):** Herculaneum's excavations began in 1738, ten years
+before Pompeii's (1748) — dating both to 1748 elides a real gap between them.
+**Flagged, not resolved.** The Grand Tour — the standard educational journey of wealthy young English aristocrats through France and Italy — produced generations of patrons and architects who had seen classical ruins in person. The writings of the German art historian Johann Joachim Winckelmann, published in the 1750s and 1760s, provided an influential theoretical framework for understanding Greek art and architecture as superior in its simplicity and nobility to the Baroque decoration that had immediately preceded it.
 
 ## Formal vocabulary and composition
 

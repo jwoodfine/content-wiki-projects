@@ -32,6 +32,13 @@ The movement was partially revitalised in 2007 following the publication of the 
 
 Neo-futurism drew from the earlier 20th-century Italian Futurist movement, whose architect Antonio Sant'Elia proposed radical visions of mechanised cities in the 1910s. The direct architectural predecessors include Archigram, the British avant-garde group (Peter Cook, Warren Chalk, Ron Herron, Dennis Crompton, Michael Webb, David Greene, Jan Kaplický). Their "Plug-in City" proposals from the 1960s imagined modular, technologically serviced urban environments. Eero Saarinen's transport terminals and Hal Foster's early work extended the themes of structural expressionism into the neo-futurist direction.
 
+**Correction (2026-08-02):** two defects. Archigram had six members — Cook, Chalk,
+Herron, Crompton, Webb, Greene; Jan Kaplický (Future Systems) was never a member.
+"Hal Foster" is an art historian/critic with no transport-terminal body of work —
+likely a garbled reference to Norman Foster, who is correctly named elsewhere in
+this same article, making this also an internal inconsistency. **Flagged, not
+resolved.**
+
 ### Technology as generative element
 
 Art historian and theorist Jean-Louis Cohen defined neo-futurism as a corollary to technology. He noted that many contemporary structures are byproducts of new materials and concepts about large-scale construction. Etan Ilfeld described the neo-futurist aesthetic as one in which "the machine becomes an integral element of the creative process itself, and generates the emergence of artistic modes that would have been impossible prior to computer technology." This points to the central role of parametric design software, particularly from the 1990s onward. It enabled the complex curved surfaces and structurally unconventional forms characteristic of the movement.

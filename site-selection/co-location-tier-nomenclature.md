@@ -42,6 +42,19 @@ The tier labels have been renamed twice since the platform launched.
 
 **Sprint 17 (May 2026):** The Sprint 9 labels were replaced with the ICSC hierarchy: Regional, District, Local, Fringe. The motivation was alignment with an internationally recognised nomenclature that carries meaning without requiring platform-specific context. A planner who opens the inspector without reading documentation knows what "Regional" means; "Prime" required learning.
 
+**Correction (2026-08-02):** two defects. (1) The real ICSC shopping-center
+hierarchy is Neighborhood/Community/Regional/Super Regional — it has no "District,"
+"Local," or "Fringe" tier; only "Regional" is a genuine ICSC term. (2) This article
+asserts the T1/T2/T3 numeric scheme was retired platform-wide, but its own sibling
+articles [[co-location-tiering-scoring]] (a DBSCAN-based T1/T2/T3 system, `last_edited:
+2026-07-03`) and [[co-location-ranking-system]] (a separate T1/T2/T3 spatial-cluster
+scheme) both present T1/T2/T3 as live and current, and
+[[reference/gis-cluster-scoring-glossary|gis-cluster-scoring-glossary]] documents a
+third, numerically-thresholded T1 Valid/T2 Hub/T3 Apex system as current. This
+article performs no reconciliation with any of them — this wiki maintains several
+unreconciled parallel co-location tier systems that reuse the same labels.
+**Flagged, not resolved.**
+
 The Spanish-language equivalents are: Regional, Distrital, Local, Marginal.
 
 ## What Changed and What Did Not
