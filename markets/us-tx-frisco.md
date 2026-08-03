@@ -23,6 +23,10 @@ co-location clusters and a confirmed civic anchor. The city's population more th
 in the decade after 2010, driven by corporate relocations and large-format retail
 development. That growth placed it among the fastest-growing cities in the United States.
 
+**Correction (2026-08-02):** Frisco's population grew from 116,989 (2010 census) to
+200,509 (2020 census, cited correctly later in this article) — a 71% increase, not
+a doubling (which would require ≥233,978). **Flagged, not resolved.**
+
 ## Overview
 
 According to Wikipedia (accessed 2026-07-10), Frisco recorded a population of 200,509 at

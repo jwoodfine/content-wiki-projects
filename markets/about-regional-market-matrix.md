@@ -37,7 +37,12 @@ Markets enter the matrix when they satisfy a set of structural requirements:
 
 **Population density thresholds.** A target market must contain a sufficient concentration of population within defined catchment distances to support large-format retail at institutional scale. Markets that fail minimum density benchmarks are excluded regardless of macroeconomic forecasts.
 
-**Institutional real estate vehicle equivalence.** The matrix targets markets where real estate investment structures equivalent to North American REITs exist — structures that enable institutional capital to hold real estate directly. In Mexico, this means FIBRAs (Fideicomisos de Infraestructura y Bienes Raíces). In Spain, SOCIMIs (Sociedades Anónimas Cotizadas de Inversión Inmobiliaria). These vehicle equivalents indicate that institutional capital has already made a structural commitment to a given market's real estate investment infrastructure.
+**Institutional real estate vehicle equivalence.** The matrix targets markets where real estate investment structures equivalent to North American REITs exist — structures that enable institutional capital to hold real estate directly. In Mexico, this means FIBRAs (Fideicomisos de Infraestructura y Bienes Raíces).
+
+**Correction (2026-08-02):** the standard expansion is "Fideicomiso de Inversión en
+Bienes Raíces" (Investment, not Infrastructure) — "Infraestructura y Bienes Raíces"
+is actually the name of the distinct FIBRA-E (energy/infrastructure) vehicle.
+**Flagged, not resolved.** In Spain, SOCIMIs (Sociedades Anónimas Cotizadas de Inversión Inmobiliaria). These vehicle equivalents indicate that institutional capital has already made a structural commitment to a given market's real estate investment infrastructure.
 
 **Anchor density validation.** The market must contain a qualifying density of primary and secondary co-location anchors, classified per the [[retail-brand-family-taxonomy|retail brand family taxonomy]]. A market without sufficient anchor presence at national-retailer scale cannot produce qualifying nodes under the co-location methodology.
 

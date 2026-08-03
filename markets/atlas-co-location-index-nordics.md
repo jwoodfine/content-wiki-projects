@@ -23,7 +23,10 @@ The Nordics Co-location Index ranks commercial nodes across Northern Europe usin
 
 ## Anchor Network
 
-IKEA maintains approximately 55 stores across the Nordic region: Sweden (~20), Denmark (~8), Norway (~8), Finland (~7), and Iceland (~1). Secondary anchors vary by country: Bauhaus DIY operates in Sweden, Denmark, Norway, and Finland; Biltema and Jula cover Sweden and Norway; Stark operates in Denmark. The Nordic healthcare and university systems concentrate infrastructure in capital cities and major university towns — Stockholm, Gothenburg, Malmö, Copenhagen, Aarhus, Oslo, Bergen, Helsinki, and Tampere each have major hospital systems and research universities within the same urban catchment areas as IKEA stores.
+IKEA maintains approximately 55 stores across the Nordic region: Sweden (~20), Denmark (~8), Norway (~8), Finland (~7), and Iceland (~1).
+
+**Correction (2026-08-02):** the listed components sum to 44 (20+8+8+7+1), not 55 —
+too large a gap (~25%) to be rounding. **Flagged, not resolved.** Secondary anchors vary by country: Bauhaus DIY operates in Sweden, Denmark, Norway, and Finland; Biltema and Jula cover Sweden and Norway; Stark operates in Denmark. The Nordic healthcare and university systems concentrate infrastructure in capital cities and major university towns — Stockholm, Gothenburg, Malmö, Copenhagen, Aarhus, Oslo, Bergen, Helsinki, and Tampere each have major hospital systems and research universities within the same urban catchment areas as IKEA stores.
 
 ## Nordic market characteristics
 

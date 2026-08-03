@@ -21,6 +21,14 @@ cites:
 
 The United States hosts 85 Tier 5 commercial convergence sites across 3,500 evaluated primary anchors; Canada produces 12 Tier 5 sites from 400 evaluated anchors. The North American index evaluates the structural convergence of major retail operators across the United States, Canada, and Mexico. Using the [[co-location-methodology]] and operationalised by the [[co-location-ranking-system|deterministic ranking system]], the index identifies the highest-value commercial nodes based on the verified proximity of Primary Target [[co-location-anchors|anchors]] to secondary and tertiary supporting anchors. Map-facing tier labels follow the ICSC hierarchy described in [[co-location-tier-nomenclature|tier nomenclature]].
 
+**Correction (2026-08-02):** this citation is checkably wrong — this article's body
+exclusively uses a Tier 5(★★★★★)/Tier 4+(★★★★+)/Tier 3(★★★) star scheme keyed to
+anchor convergence, never the Regional/District/Local/Fringe names
+[[co-location-tier-nomenclature]] actually describes. A reader following the link
+finds an unrelated naming scheme with no bridge given. Separately, the real ICSC
+shopping-center hierarchy is Neighborhood/Community/Regional/Super Regional — it has
+no "District," "Local," or "Fringe" tier at all. **Flagged, not resolved.**
+
 ## Market scarcity and quality validation
 
 Achieving a **★★★★★ Tier 5** designation requires the verified convergence of four independent, capital-intensive site selection processes (Primary + Two Secondaries + Two Tertiaries) within the requisite catchment radii. Due to these stringent criteria, Tier 5 sites represent a small fraction of the total North American retail landscape. 

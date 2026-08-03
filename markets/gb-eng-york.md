@@ -26,7 +26,14 @@ clusters.
 
 According to Wikipedia (accessed 2026-07-10), York recorded a population of 202,800 at the
 2021 census (198,051 in 2011) across a local authority area of 33.7 square kilometres,
-approximately 22 miles (35 km) southwest of Leeds. Major employers include the City of York
+approximately 22 miles (35 km) southwest of Leeds.
+
+**Correction (2026-08-02):** two defects. (1) York is east/northeast of Leeds, not
+southwest — the distance (~22-24 miles) is roughly right, only the direction is
+reversed. (2) The City of York unitary authority area is approximately 272 km², not
+33.7 km² — 33.7 km² paired with a population of 202,800 implies an implausible
+~6,000/km² density; 33.7 km² may be a mislabeled built-up-area figure. **Flagged,
+not resolved.** Major employers include the City of York
 Council (7,500-plus employees), Aviva, Network Rail, Northern Trains, York Hospitals NHS
 Trust, and the University of York (each 2,000-plus staff), alongside BT Group, Nestlé, and
 NFU Mutual. The service sector dominates local employment (88.7 percent as of 2000 data), and

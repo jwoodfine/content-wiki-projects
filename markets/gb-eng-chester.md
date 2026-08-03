@@ -27,7 +27,12 @@ gap rather than a distance exclusion.
 
 According to Wikipedia (accessed 2026-07-10), Chester's built-up area had 92,760 residents at
 the 2021 census (138,875 for the official city area including charter trustee wards). It is
-situated approximately 30 to 40 miles northwest of Liverpool via the M53 motorway. The
+situated approximately 30 to 40 miles northwest of Liverpool via the M53 motorway.
+
+**Correction (2026-08-02):** Chester–Liverpool is roughly 17–19 miles via the M53,
+not 30–40 miles — the article's own km conversion (48–64 km) compounds rather than
+catches the error. The underlying argument (Chester falls within the 15–80 km
+suburban-regional band) still holds once corrected. **Flagged, not resolved.** The
 service sector dominates the economy — tourism, retail, public administration, and financial
 services — with employers including Bank of America, NFU Mutual, Lloyds Bank, Virgin Money,
 and Quilter, alongside the University of Chester and Countess of Chester Hospital. The nearby

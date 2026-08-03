@@ -25,6 +25,17 @@ The research addresses a gap in institutional commercial real estate analysis. M
 
 The current dataset spans 6,493 co-location clusters across eighteen countries in North America and Europe, classified into three compositional tiers (T1, T2, T3) and aggregated into 4,436 named Regional Markets.
 
+**Correction (2026-08-02, verified against canonical `origin/main:app-orchestration-
+gis/SCORING-METHODOLOGY.md` §12):** these figures don't match the real production
+census — real is 10,213 clusters, 7 countries (US/MX/ES/DE/CA/FR/GB), and tier counts
+T1=157/T2=1,462/T3=2,081/T4=6,513 (a four-tier system, not three). This article also
+defines T1/T2/T3 as "Regional/District/Local," reusing the exact vocabulary of the
+canonical V3 predicate-gate system ([[co-location-tier-nomenclature]]) but with a
+different, purely compositional rule (no percentile gates, no civic-classification
+gate, no Fringe tier) — a further instance of this wiki's unreconciled parallel
+tier-system pattern, not previously named in the site-selection/ sweep. **Flagged,
+not resolved.**
+
 ## Dataset Scope
 
 The current build covers 6,493 co-location clusters across eighteen countries on two continents.

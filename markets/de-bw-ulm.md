@@ -27,7 +27,11 @@ markets — including Albstadt, Neu-Ulm, Friedrichshafen, and Memmingen — are 
 According to Wikipedia (accessed 2026-07-10), Ulm had approximately 129,882 residents as of
 December 2024 across 118.69 square kilometres. It is situated in Baden-Württemberg on the upper
 Danube River, roughly 80 km northwest of Munich's regional counterpart Stuttgart and 162 km
-southeast of Munich, on the eastern edge of the Swabian Jura mountain range. The city
+southeast of Munich, on the eastern edge of the Swabian Jura mountain range.
+
+**Correction (2026-08-02):** both compass directions are reversed — Ulm is actually
+southeast of Stuttgart, not northwest, and northwest of Munich, not southeast.
+**Flagged, not resolved.** The city
 combines traditional industries — machinery, motor vehicles, electronics, pharmaceuticals —
 with a technology sector that grew after the University of Ulm's 1967 founding, particularly
 in biomedicine and engineering research. Major employers include Daimler, Siemens, and Nokia

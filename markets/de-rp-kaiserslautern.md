@@ -33,7 +33,12 @@ Adam Opel AG (engines), General Dynamics (military vehicles), John Deere (R&D), 
 Controls (car seats), IKEA, and Pfaff (sewing machines). A shopping mall, "K-in-Lautern,"
 opened in 2015. The city hosts substantial US military installations, with approximately
 45,000 NATO military personnel based in the city and its surrounding district — a
-distinctive feature among German cities of its size. Kaiserslautern experienced significant
+distinctive feature among German cities of its size.
+
+**Correction (2026-08-02):** the ~45,000 figure commonly cited for the Kaiserslautern
+Military Community represents the *total* US-affiliated community (military + DoD
+civilians + dependents), not active military personnel specifically — this overstates
+the military headcount. **Flagged, not resolved.** Kaiserslautern experienced significant
 post-WWII growth, having recovered from 85 percent destruction during wartime bombing.
 
 ## Regional Market Standing

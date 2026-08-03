@@ -21,6 +21,12 @@ cites:
 
 Spain leads the evaluated European markets with three Tier 4+ commercial convergence nodes across 20 evaluated primary anchors; the Nordic region contributes two Tier 4+ sites. The European Co-location Tier Index ranks commercial nodes across Spain, Italy, Poland, and the Nordic region by the independent convergence of large-format retail and civic infrastructure. Each node is scored by the proximity of IKEA (Primary Target) to secondary hardware and warehouse operators (Leroy Merlin, Makro) and tertiary civic [[co-location-anchors|anchors]] (healthcare, higher education) within defined catchment radii, following the [[co-location-methodology]] and operationalised by the [[co-location-ranking-system|deterministic ranking system]]. Map-facing tier labels follow the ICSC hierarchy described in [[co-location-tier-nomenclature|tier nomenclature]].
 
+**Correction (2026-08-02):** same defect as [[atlas-tier-index-north-america]] —
+this article's body exclusively uses the unrelated Tier 5/4+/3 star scheme, not the
+Regional/District/Local/Fringe names its own citation points to, and the real ICSC
+hierarchy (Neighborhood/Community/Regional/Super Regional) has no such tiers anyway.
+**Flagged, not resolved.**
+
 ## Market scarcity and institutional validation
 
 Achieving a high-tier designation requires the simultaneous convergence of multiple independent, capital-intensive operators within a restricted geographic radius. These top-tier sites represent the apex of commercial validation: each operator's capital commitment independently confirms the trade area's commercial strength.
