@@ -158,6 +158,6 @@ These are **not** the key plan footprints. A Medical M2 FFE tile code (1,400 SF)
 - [[bim-building-width-method]]
 - [[bim-floor-plate-methodology]]
 - [[bim-tile-system]]
-- [[build-a-key-plan-step-by-step]] — the procedure for turning this index's entries into an assembled Key Plan, Tile, and Floor Plate
+- [[key-plan-development-methodology]] — the methodology for turning this index's entries into an assembled Key Plan, Tile, and Floor Plate
 - [[bim-shared-space-ffe-schedules]] — furniture and fixture inventories for the five building-core amenity entries in this index
 - [[design-sequence-priority]] — the leasing-plan-first design sequence this index's entries are assembled under
