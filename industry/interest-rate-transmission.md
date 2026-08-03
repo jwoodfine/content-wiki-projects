@@ -50,6 +50,11 @@ a 100-basis-point expansion in the market cap rate from 5.0% to 6.0% reduces the
 from $20,000,000 to $16,667,000, a loss of approximately 17%. A 50-basis-point expansion
 produces an approximately 8% value reduction.
 
+**Correction (2026-08-02):** arithmetic slip — $1M NOI at 5.0% is $20.0M; at 5.5% it is
+$18.18M, a reduction of ~9.1%, not ~8%. This is the same worked example used in the
+sibling article [[net-operating-income]], which computes the ~9.1% figure correctly.
+**Flagged, not resolved.**
+
 In practice, the spread between risk-free rates and cap rates is not stable. During periods
 of capital inflows into real estate — driven by low rates elsewhere, pension rebalancing, or
 foreign capital allocation — spreads compress. During periods of capital withdrawal or market

@@ -70,6 +70,11 @@ OSM data for large-format retailers sometimes includes both node and way element
 
 A second deduplication pass runs at 25 metres across different `chain_id` values sharing the same `brand_wikidata` QID. This identifies sub-format or co-branded stores — a fuel station sharing the parent retailer's QID, for example — which are candidates for the parent-child sub-location model described below.
 
+**Correction (2026-08-02, verified against canonical `origin/main`):** the real
+dedup threshold (`ingest-osm.py`) is coordinate rounding to 4 decimal places
+(~11 m), documented in-code as "same building" — no 100 m or 25 m dedup pass exists
+anywhere in the pipeline. **Flagged, not resolved.**
+
 ## Parent-child sub-location model
 
 Large-format retailers frequently operate ancillary services at the same address: pharmacies, fuel stations, optical centres, and garden centres. In raw OSM data these appear as separate POI elements, each with a distinct name and sometimes a distinct `chain_id`.
@@ -77,6 +82,17 @@ Large-format retailers frequently operate ancillary services at the same address
 The intended model (pending operator approval) treats the primary store as the parent location and collapses ancillary services into a `sub_entities` list within the parent record. On the map, one bubble represents the parent; the detail panel lists sub-services. This follows an industry-standard parent-child POI pattern in which the parent record holds the canonical address and coordinates, and sub-entities share that anchor while carrying their own service classification.
 
 The Placekey standard — a globally unique location identifier with a `What@Where` structure — expresses this relationship via a shared `Where` component: two POIs at the same address share their `Where` suffix (the geocell), while their `What` prefix (the brand hash) differs. Placekey integration is intended as the primary mechanism for identifying co-located sub-businesses in a future pipeline update [ni-51-102].
+
+**Correction (2026-08-02, verified against canonical `origin/main`):** the parent-
+child model described above as "pending operator approval"/"a future pipeline
+update" is already live — `config.py` carries a real, in-production `CHAIN_FAMILIES`
+dict mapping sub-entity `chain_id`s to a canonical parent (e.g.
+`walmart-pharmacy-us → walmart-us`), with sub-entities excluded from scoring and
+shown only on info cards. This is a different, already-shipped, config-driven
+mechanism, not the Placekey-spatial-matching scheme described as future work — the
+`placekey` schema field exists but is hardcoded `None` in every ingest script
+checked. **Flagged, not resolved** — needs re-basing against the real mechanism,
+not a line fix.
 
 ## Address completeness
 
