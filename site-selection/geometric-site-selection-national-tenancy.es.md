@@ -15,9 +15,9 @@ paired_with: site-selection/geometric-site-selection-national-tenancy.md
 
 > **Documento de Trabajo · Versión 0.4.1 · 2026-05-29 · CC BY 4.0**
 > Este manuscrito es un borrador de trabajo. No ha sido revisado por pares. Los hallazgos son
-> preliminares y están sujetos a revisión sin previo aviso. Correspondencia: jmwoodfine@gmail.com.
+> preliminares y están sujetos a revisión sin previo aviso. Correspondencia: [contacto institucional pendiente].
 >
-> *Citar como:* Woodfine, J.M. (2026). La composición de la co-localización de anclas minoristas como indicador adelantado espacial de la actividad comercial: Un análisis de clústeres a escala continental. Documento de Trabajo v0.4.1, 29 de mayo de 2026. MCorp, Vancouver, BC.
+> *Citar como:* Woodfine Research (2026). La composición de la co-localización de anclas minoristas como indicador adelantado espacial de la actividad comercial: Un análisis de clústeres a escala continental. Documento de Trabajo v0.4.1, 29 de mayo de 2026. MCorp, Vancouver, BC.
 
 > **Declaraciones con proyección de futuro**
 > Ciertas declaraciones en este artículo describen direcciones de investigación previstas, capacidades de sistema planificadas y resultados anticipados. Estas declaraciones reflejan las expectativas actuales de los autores y se basan en supuestos razonables y trabajo en curso a la fecha indicada arriba. Los resultados, mediciones y hallazgos reales pueden diferir materialmente. Los lectores no deben depositar una confianza indebida en tales declaraciones; están sujetas a revisión a medida que avanza la investigación y se dispone de nuevos datos.
@@ -27,7 +27,7 @@ paired_with: site-selection/geometric-site-selection-national-tenancy.md
 **MCorp**
 Vancouver, Columbia Británica, Canadá
 
-*Autora de correspondencia:* jmwoodfine@gmail.com
+*Autora de correspondencia:* [contacto institucional pendiente]
 
 *Palabras clave:* co-localización minorista, análisis de clústeres espaciales, aglomeración, geografía económica
 
