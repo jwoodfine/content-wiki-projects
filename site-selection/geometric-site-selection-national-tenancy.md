@@ -15,9 +15,9 @@ paired_with: site-selection/geometric-site-selection-national-tenancy.es.md
 
 > **Working Paper · Version 0.4.1 · 2026-05-29 · CC BY 4.0**
 > This manuscript is a working draft. It has not been peer reviewed. Findings are
-> preliminary and subject to revision without notice. Correspondence: jmwoodfine@gmail.com.
+> preliminary and subject to revision without notice. Correspondence: [institutional contact pending].
 >
-> *Cite as:* Woodfine, J.M. (2026). Retail Anchor Co-location Composition as a Spatial Leading Indicator of Commercial Activity: A Continental-Scale Cluster Analysis. Working Paper v0.4.1, 29 May 2026. MCorp, Vancouver, BC.
+> *Cite as:* Woodfine Research (2026). Retail Anchor Co-location Composition as a Spatial Leading Indicator of Commercial Activity: A Continental-Scale Cluster Analysis. Working Paper v0.4.1, 29 May 2026. MCorp, Vancouver, BC.
 
 > **Forward-Looking Statements**
 > Certain statements in this paper describe intended research directions, planned
@@ -33,7 +33,7 @@ paired_with: site-selection/geometric-site-selection-national-tenancy.es.md
 **MCorp**
 Vancouver, British Columbia, Canada
 
-*Corresponding author:* jmwoodfine@gmail.com
+*Corresponding author:* [institutional contact pending]
 
 *Keywords:* retail co-location, spatial clustering, agglomeration, economic geography
 
