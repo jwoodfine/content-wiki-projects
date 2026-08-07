@@ -17,7 +17,7 @@ paired_with: buildings/class-vertical-warehouses.es.md
 cites: []
 ---
 
-Vertical Warehouses is one of the six [[about-development-classes|development classes]] planned for Woodfine Management Corp.'s direct-hold portfolio. Like [[class-parking-structures|Parking Structures]], it is sited outside the power centre proximity model that governs the four office- and retail-facing classes, and is described here in planned and intended terms.
+Vertical Warehouses is one of the six [[about-development-classes|development classes]] planned for MCorp's direct-hold portfolio. Like [[class-parking-structures|Parking Structures]], it is sited outside the power centre proximity model that governs the four office- and retail-facing classes, and is described here in planned and intended terms.
 
 ## What Vertical Warehouses are intended to be
 

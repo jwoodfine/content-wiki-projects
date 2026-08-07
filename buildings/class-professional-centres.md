@@ -19,7 +19,7 @@ paired_with: buildings/class-professional-centres.es.md
 cites: []
 ---
 
-**Professional Centres** is one of the six [[about-development-classes|development classes]] in Woodfine Management Corp.'s direct-hold portfolio, and the primary, most widely deployed class. Professional Centres are three-to-five-floor buildings engineered for high-efficiency professional tenancy, conforming to a fixed Prototype — a predetermined configuration of floor plates, structural systems, and tenant service standards that does not vary by market or development site. Buildings are not redesigned to fit a site; sites are selected because they can accommodate the required Prototype in a Campus Design.
+**Professional Centres** is one of the six [[about-development-classes|development classes]] in MCorp's direct-hold portfolio, and the primary, most widely deployed class. Professional Centres are three-to-five-floor buildings engineered for high-efficiency professional tenancy, conforming to a fixed Prototype — a predetermined configuration of floor plates, structural systems, and tenant service standards that does not vary by market or development site. Buildings are not redesigned to fit a site; sites are selected because they can accommodate the required Prototype in a Campus Design.
 
 ## Tenant fit
 

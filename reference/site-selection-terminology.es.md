@@ -18,7 +18,7 @@ paired_with: site-selection-terminology.md
 cites: []
 ---
 
-Este glosario define los términos utilizados en la metodología de selección de sitios y desarrollo de Woodfine Management Corp. tal como aparecen en los análisis de [[co-location-strategy|co-ubicación]], materiales para inversores e [[transaction-summary-report-protocol|Informes de Resumen de Transacción]]. Donde un término tiene un significado técnico específico que difiere de su uso común, la definición técnica se establece explícitamente.
+Este glosario define los términos utilizados en la metodología de selección de sitios y desarrollo de MCorp tal como aparecen en los análisis de [[co-location-strategy|co-ubicación]], materiales para inversores e [[transaction-summary-report-protocol|Informes de Resumen de Transacción]]. Donde un término tiene un significado técnico específico que difiere de su uso común, la definición técnica se establece explícitamente.
 
 ## Inversión Calificada
 

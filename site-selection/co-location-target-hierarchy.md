@@ -18,7 +18,7 @@ paired_with: co-location-target-hierarchy.es.md
 cites: []
 ---
 
-The **Co-Location Target Hierarchy** is the three-tier classification system that structures Woodfine Management Corp.'s geographic co-location dataset. Each tier assigns a category of retail operator or institutional employer to the role it plays in validating a potential Development Site. The hierarchy reflects the observed sequencing of commercial development in [[about-regional-markets-system|Regional Markets]]: Primary Targets anchor the retail node, Secondary Targets follow the Primary, and Tertiary Targets confirm that an institutional demand base for professional services tenancy is present in the geography.
+The **Co-Location Target Hierarchy** is the three-tier classification system that structures MCorp's geographic co-location dataset. Each tier assigns a category of retail operator or institutional employer to the role it plays in validating a potential Development Site. The hierarchy reflects the observed sequencing of commercial development in [[about-regional-markets-system|Regional Markets]]: Primary Targets anchor the retail node, Secondary Targets follow the Primary, and Tertiary Targets confirm that an institutional demand base for professional services tenancy is present in the geography.
 
 ## Primary Target: Walmart Supercentre
 

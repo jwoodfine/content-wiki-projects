@@ -17,7 +17,7 @@ paired_with: buildings/class-parking-structures.es.md
 cites: []
 ---
 
-Parking Structures is one of the six [[about-development-classes|development classes]] planned for Woodfine Management Corp.'s direct-hold portfolio. Unlike the four proximity-based classes, Parking Structures is intended for a different siting context entirely — regional transit hubs and airport catchment zones — and is described here in planned and intended terms.
+Parking Structures is one of the six [[about-development-classes|development classes]] planned for MCorp's direct-hold portfolio. Unlike the four proximity-based classes, Parking Structures is intended for a different siting context entirely — regional transit hubs and airport catchment zones — and is described here in planned and intended terms.
 
 ## What Parking Structures are intended to be
 

@@ -19,7 +19,7 @@ paired_with: buildings/class-professional-centres.md
 cites: []
 ---
 
-**Professional Centres** es una de las seis [[about-development-classes|clases de desarrollo]] en el portafolio de tenencia directa de Woodfine Management Corp., y la clase principal y más ampliamente desplegada. Professional Centres son edificios de tres a cinco pisos diseñados para arrendatarios profesionales de alta eficiencia, según un Prototipo fijo — una configuración predeterminada de placas de piso, sistemas estructurales y estándares de servicio al arrendatario que no varía según el mercado o el sitio de desarrollo. Los edificios no se rediseñan para adaptarse a un sitio; los sitios se seleccionan porque pueden acomodar el Prototipo requerido en un Diseño Campus.
+**Professional Centres** es una de las seis [[about-development-classes|clases de desarrollo]] en el portafolio de tenencia directa de MCorp, y la clase principal y más ampliamente desplegada. Professional Centres son edificios de tres a cinco pisos diseñados para arrendatarios profesionales de alta eficiencia, según un Prototipo fijo — una configuración predeterminada de placas de piso, sistemas estructurales y estándares de servicio al arrendatario que no varía según el mercado o el sitio de desarrollo. Los edificios no se rediseñan para adaptarse a un sitio; los sitios se seleccionan porque pueden acomodar el Prototipo requerido en un Diseño Campus.
 
 ## Ajuste de arrendatarios
 

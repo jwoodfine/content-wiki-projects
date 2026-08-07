@@ -18,7 +18,7 @@ paired_with: optimum-mosaic-demographic-profiling.md
 cites: []
 ---
 
-El **Mosaico Óptimo** es la firma demográfica de las zonas de influencia que rodean los sitios de co-ubicación de [[co-location-target-hierarchy|Objetivo Primario]] mejor clasificados de Woodfine Management Corp. Se deriva cruzando los perfiles demográficos de las mejores 25 a 100 ubicaciones de Walmart Supercentre, ordenadas por ventas por pie cuadrado en orden descendente, para identificar los ingresos del hogar, la estructura de edad, la composición familiar y los patrones de comercio secundario que son comunes a los sitios de Objetivo Primario más productivos comercialmente en el conjunto de datos.
+El **Mosaico Óptimo** es la firma demográfica de las zonas de influencia que rodean los sitios de co-ubicación de [[co-location-target-hierarchy|Objetivo Primario]] mejor clasificados de MCorp. Se deriva cruzando los perfiles demográficos de las mejores 25 a 100 ubicaciones de Walmart Supercentre, ordenadas por ventas por pie cuadrado en orden descendente, para identificar los ingresos del hogar, la estructura de edad, la composición familiar y los patrones de comercio secundario que son comunes a los sitios de Objetivo Primario más productivos comercialmente en el conjunto de datos.
 
 ## Aplicaciones de referencia y gobernanza
 

@@ -18,7 +18,7 @@ paired_with: co-location-target-hierarchy.md
 cites: []
 ---
 
-La **Jerarquía de Objetivos de Co-Ubicación** es el sistema de clasificación de tres niveles que estructura el conjunto de datos de co-ubicación geográfica de Woodfine Management Corp. Cada nivel asigna una categoría de operador minorista o empleador institucional al papel que desempeña en la validación de un Sitio de Desarrollo potencial. La jerarquía refleja la secuencia observada de desarrollo comercial en [[about-regional-markets-system|Mercados Regionales]]: los Objetivos Primarios anclan el nodo minorista, los Secundarios siguen al Primario, y los Terciarios confirman que existe una base de demanda institucional para el arrendamiento de servicios profesionales en la geografía.
+La **Jerarquía de Objetivos de Co-Ubicación** es el sistema de clasificación de tres niveles que estructura el conjunto de datos de co-ubicación geográfica de MCorp. Cada nivel asigna una categoría de operador minorista o empleador institucional al papel que desempeña en la validación de un Sitio de Desarrollo potencial. La jerarquía refleja la secuencia observada de desarrollo comercial en [[about-regional-markets-system|Mercados Regionales]]: los Objetivos Primarios anclan el nodo minorista, los Secundarios siguen al Primario, y los Terciarios confirman que existe una base de demanda institucional para el arrendamiento de servicios profesionales en la geografía.
 
 ## Objetivo Primario: Walmart Supercentre
 

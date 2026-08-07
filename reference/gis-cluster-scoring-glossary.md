@@ -19,7 +19,7 @@ paired_with: gis-cluster-scoring-glossary.es.md
 cites: []
 ---
 
-This glossary defines the terminology used in Woodfine Management Corp.'s [[geographic-co-location-methodology|geographic co-location scoring system]]. The vocabulary covers cluster degree designations, tier score labels, radius threshold conventions, and dataset output metrics. These terms appear in co-location dataset reports, GIS coverage communications, and site selection materials prepared for review by the Independent Directors of the General Partner.
+This glossary defines the terminology used in MCorp's [[geographic-co-location-methodology|geographic co-location scoring system]]. The vocabulary covers cluster degree designations, tier score labels, radius threshold conventions, and dataset output metrics. These terms appear in co-location dataset reports, GIS coverage communications, and site selection materials prepared for review by the Independent Directors of the General Partner.
 
 ## Cluster Degree Terms
 

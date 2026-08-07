@@ -19,7 +19,7 @@ paired_with: site-selection/power-centre-co-location-thesis.es.md
 cites: []
 ---
 
-The **Power Centre Co-Location Thesis** is the site-selection discipline that underlies Woodfine Management Corp.'s definition of a Qualified Investment. Development Sites must be co-located on or immediately adjacent to existing Power Centres — retail nodes anchored by major National Retailers operating their established store Prototypes. Co-location with a Power Centre anchor is a non-negotiable criterion for site qualification; development is not adapted to sites that do not meet this standard.
+The **Power Centre Co-Location Thesis** is the site-selection discipline that underlies MCorp's definition of a Qualified Investment. Development Sites must be co-located on or immediately adjacent to existing Power Centres — retail nodes anchored by major National Retailers operating their established store Prototypes. Co-location with a Power Centre anchor is a non-negotiable criterion for site qualification; development is not adapted to sites that do not meet this standard.
 
 ## The Anchor Relationship
 

@@ -17,7 +17,7 @@ paired_with: buildings/class-suburban-office.es.md
 cites: []
 ---
 
-Suburban Office is one of the six [[about-development-classes|development classes]] in Woodfine Management Corp.'s direct-hold portfolio. It is a multi-storey office building type that extends the [[class-professional-centres|Professional Centres]] product to a wider proximity radius, providing the same institutional office format at sites where the tighter [[power-centres|power centre]] siting standard cannot be met.
+Suburban Office is one of the six [[about-development-classes|development classes]] in MCorp's direct-hold portfolio. It is a multi-storey office building type that extends the [[class-professional-centres|Professional Centres]] product to a wider proximity radius, providing the same institutional office format at sites where the tighter [[power-centres|power centre]] siting standard cannot be met.
 
 ## What Suburban Office is
 

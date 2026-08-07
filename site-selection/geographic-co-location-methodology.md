@@ -18,7 +18,7 @@ paired_with: geographic-co-location-methodology.es.md
 cites: []
 ---
 
-The **Geographic Co-Location Methodology** is the spatial analysis discipline Woodfine Management Corp. applies to identify and rank potential Development Sites across its three primary jurisdictions. The methodology scores retail nodes by the proximity and combination of anchor retailers operating in the geography, producing a ranked dataset of sites in which development investment is validated by the demonstrable commercial commitments of institutional retailers rather than by speculative demographic projections.
+The **Geographic Co-Location Methodology** is the spatial analysis discipline MCorp applies to identify and rank potential Development Sites across its three primary jurisdictions. The methodology scores retail nodes by the proximity and combination of anchor retailers operating in the geography, producing a ranked dataset of sites in which development investment is validated by the demonstrable commercial commitments of institutional retailers rather than by speculative demographic projections.
 
 **Correction (2026-08-02):** "three primary jurisdictions" contradicts this
 article's own "Required Site Count by Jurisdiction" table below (which lists only
