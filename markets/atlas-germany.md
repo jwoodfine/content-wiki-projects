@@ -4,18 +4,26 @@ title: "Germany — Regional Market index"
 slug: atlas-germany
 category: markets
 type: topic
-index_type: thematic
 content_type: topic
 quality: complete
-status: active
+status: retired
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 keynote: false
 last_edited: 2026-07-16
 editor: woodfine-editorial
-short_description: "Ranked index of German regional commercial real estate markets meeting co-location screening thresholds."
+short_description: "RETIRED (2026-08-17) — Germany is deliberately excluded from the current Regional Markets methodology (locked 2026-06-30). Content below is historical, unlisted from category navigation, not part of the ranked list."
 paired_with: markets/atlas-germany.es.md
+---
+
+**Retired (2026-08-17).** Germany is deliberately excluded from the Regional Markets
+selection under the current methodology (locked 2026-06-30, reconfirmed in the
+2026-08-07 dataset). This page is unlisted from `markets/` category navigation and no
+longer wikilinked from the Top 400 hub or country breakdown — it is not part of any
+current ranked list. Kept for historical reference only; content below reflects an
+earlier dataset generation and should not be cited as current.
+
 ---
 
 The **Germany regional market index** ranks German cities and regional centres outside the

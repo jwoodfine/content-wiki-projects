@@ -8,7 +8,7 @@ category: markets
 type: topic
 content_type: topic
 quality: stub
-status: active
+status: retired
 audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Punto de referencia metropolitano bávaro para los mercados suburbanos circundantes — no está en el conjunto clasificado Top-400."

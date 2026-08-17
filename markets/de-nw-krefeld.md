@@ -10,7 +10,7 @@ category: markets
 type: reference
 content_type: topic
 quality: complete
-status: active
+status: retired
 audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Rank 5 European Regional Market — suburb of Düsseldorf, 19.4 km; composite score 12.0."

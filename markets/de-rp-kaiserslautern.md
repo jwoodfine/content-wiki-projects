@@ -8,7 +8,7 @@ category: markets
 type: reference
 content_type: topic
 quality: stub
-status: active
+status: retired
 audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Rank 4 European Regional Market — suburb of Mannheim, 54 km; composite score 12.0."

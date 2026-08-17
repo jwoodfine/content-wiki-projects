@@ -8,7 +8,7 @@ category: markets
 type: topic
 content_type: topic
 quality: stub
-status: active
+status: retired
 audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Capital estatal de Turingia — fuera del conjunto clasificado Top-400 actual (sin núcleo metropolitano cercano)."

@@ -4,18 +4,26 @@ title: "France — Regional Market index"
 slug: atlas-france
 category: markets
 type: topic
-index_type: thematic
 content_type: topic
 quality: complete
-status: active
+status: retired
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 keynote: false
 last_edited: 2026-07-16
 editor: editorial
-short_description: "Ranked index of the 102 French entries in the Top 400 Regional Markets — Europe list, filtered from the continental table with metro-reference groupings."
+short_description: "RETIRED (2026-08-17) — France is deliberately excluded from the current Regional Markets methodology (locked 2026-06-30). Content below is historical, unlisted from category navigation, not part of the ranked list."
 paired_with: markets/atlas-france.es.md
+---
+
+**Retired (2026-08-17).** France is deliberately excluded from the Regional Markets
+selection under the current methodology (locked 2026-06-30, reconfirmed in the
+2026-08-07 dataset). This page is unlisted from `markets/` category navigation and no
+longer wikilinked from the Top 400 hub or country breakdown — it is not part of any
+current ranked list. Kept for historical reference only; content below reflects an
+earlier dataset generation and should not be cited as current.
+
 ---
 
 The **France regional market index** ranks the 102 French entries in the [[atlas-top-400-europe|Top 400 Regional Markets — Europe]] list — the largest single-country share of the European ranking after Germany. Each entry is a named suburb or satellite municipality between 15 and 80 kilometres of a major French metropolitan reference point that contains at least one retail co-location cluster, screened and scored under the [[about-regional-markets-system|co-location regional market framework]]. This page is a filtered, France-specific view of that continental table — not a separate dataset — so every rank, score, and tier count below matches the continental table exactly and updates automatically if that table is corrected.

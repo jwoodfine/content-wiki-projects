@@ -6,7 +6,7 @@ language: es
 language_protocol: TRANSLATE-ES
 category: markets
 type: reference
-index_type: thematic
+index_group: europe-regional-markets
 content_type: topic
 quality: complete
 status: active
@@ -18,8 +18,6 @@ last_edited: 2026-07-16
 editor: editorial
 es_status: complete
 ---
-
-# Top 400 Mercados Regionales — Europa
 
 Esta es una lista clasificada de los cuatrocientos Mercados Regionales de mayor puntuación en Europa, donde un *Mercado Regional* es un suburbio con nombre propio o municipio satélite que se encuentra a distancia de desplazamiento diario de un centro metropolitano europeo importante y contiene uno o más clústeres de co-localización minorista. Los mercados se clasifican por una puntuación compuesta que combina la composición de niveles de sus clústeres de co-localización y la presencia de infraestructura de anclas cívicas (médicas y académicas).
 

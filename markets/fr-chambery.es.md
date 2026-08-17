@@ -8,7 +8,7 @@ category: markets
 type: reference
 content_type: topic
 quality: stub
-status: active
+status: retired
 audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Mercado Regional número 33 en Europa — suburbio de Grenoble; puntuación compuesta 7,5."

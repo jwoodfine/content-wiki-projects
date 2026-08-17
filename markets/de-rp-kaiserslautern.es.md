@@ -8,7 +8,7 @@ category: markets
 type: reference
 content_type: topic
 quality: stub
-status: active
+status: retired
 audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Mercado Regional número 4 en Europa — suburbio de Mannheim, 54 km; puntuación compuesta 12,0."

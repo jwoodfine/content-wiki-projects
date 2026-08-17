@@ -6,7 +6,7 @@ language: es
 language_protocol: TRANSLATE-ES
 category: markets
 type: reference
-index_type: thematic
+index_group: north-america-regional-markets
 content_type: topic
 quality: complete
 status: active
@@ -17,8 +17,6 @@ paired_with: markets/atlas-top-400-north-america.md
 last_edited: 2026-07-16
 editor: editorial
 ---
-
-# Top 400 Mercados Regionales — América del Norte
 
 Plano, Texas, un suburbio de Dallas a 28 km del núcleo metropolitano, encabeza la clasificación norteamericana con una puntuación compuesta de 25,5 — tres clústeres de Nivel 1 combinados con un multiplicador de ancla cívica. Los cuatrocientos Mercados Regionales de mayor puntuación abarcan 369 suburbios de Estados Unidos, 23 de Canadá y 8 de México, distribuidos en los cinturones de desplazamiento diario de las principales áreas metropolitanas. Un *Mercado Regional* es un suburbio con nombre propio o municipio satélite dentro de la distancia de desplazamiento diario de un centro metropolitano importante que contiene uno o más clústeres de co-localización minorista; los mercados se clasifican por una puntuación compuesta que combina la composición de niveles y la presencia de anclas cívicas.
 

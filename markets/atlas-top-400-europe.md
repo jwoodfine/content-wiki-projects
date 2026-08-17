@@ -6,7 +6,7 @@ language: en
 language_protocol: PROSE-TOPIC
 category: markets
 type: reference
-index_type: thematic
+index_group: europe-regional-markets
 content_type: topic
 quality: complete
 status: active
@@ -18,7 +18,7 @@ last_edited: 2026-07-16
 editor: editorial
 ---
 
-# Top 400 Regional Markets — Europe
+**⚠ Pending rebuild (2026-08-17).** A newer dataset (`DATA-regional-markets-top400-2026-08-07.json`, 800 records across NA+EU) is staged in project-gis's `drafts-outbound/` and not yet reflected below. The table below still describes the prior 11-country selection (Germany, France, and Netherlands included). The new selection **excludes Germany, France, and Netherlands entirely** (a deliberate methodology change, locked 2026-06-30, not a data gap) and covers 15 different countries instead: Italy, UK, Spain, Poland, Sweden, Hungary, Finland, Czechia, Romania, Denmark, Bulgaria, Slovakia, Croatia, Norway, Greece. `atlas-germany`/`atlas-france`/`atlas-netherlands` and their city pages are retired accordingly (see each page). Content-authoring against the new dataset is deliberately on hold pending operator confirmation; this notice exists so the gap is visible rather than silent.
 
 Chemnitz, a suburb of Dresden 64 km from the metropolitan core, leads the European ranking with a composite score of 18.0 — three Tier 1 clusters combined with civic-anchor infrastructure. The four hundred highest-scoring European Regional Markets span 11 countries, with Germany contributing 124 of 400 markets; the polycentric character of the German urban system and dense suburban retail development across the Rhine-Ruhr, Rhine-Neckar, and Saxon-Thuringian corridors produce the deepest suburban tier in Europe. A *Regional Market* is a named suburb or satellite municipality within commuting distance of a major European metropolitan centre that contains one or more retail co-location clusters; markets are ranked by a composite score combining tier composition and civic-anchor presence.
 

@@ -8,7 +8,7 @@ category: markets
 type: reference
 content_type: topic
 quality: stub
-status: active
+status: retired
 audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Rank 33 European Regional Market — suburb of Grenoble; composite score 7.5."

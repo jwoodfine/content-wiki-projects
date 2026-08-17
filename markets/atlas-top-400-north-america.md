@@ -6,7 +6,7 @@ language: en
 language_protocol: PROSE-TOPIC
 category: markets
 type: reference
-index_type: thematic
+index_group: north-america-regional-markets
 content_type: topic
 quality: complete
 status: active
@@ -18,7 +18,7 @@ last_edited: 2026-07-16
 editor: editorial
 ---
 
-# Top 400 Regional Markets — North America
+**⚠ Pending rebuild (2026-08-17).** A newer dataset (`DATA-regional-markets-top400-2026-08-07.json`, 800 records across NA+EU, three-tier composition-gated selection) is staged in project-gis's `drafts-outbound/` and not yet reflected below. The table below still describes the prior selection (US 369 / CA 23 / MX 8); the new NA selection is US 298 / CA 56 / MX 46 — Mexico's count alone changes enough to warrant its own dedicated page, which doesn't exist yet. Content-authoring against the new dataset is deliberately on hold pending operator confirmation; this notice exists so the gap is visible rather than silent.
 
 Plano, Texas, a suburb of Dallas 28 km from the metropolitan core, leads the North American ranking with a composite score of 25.5 — three Tier 1 clusters combined with a civic-anchor multiplier. The four hundred highest-scoring Regional Markets span 369 United States, 23 Canadian, and 8 Mexican suburbs across the commuter belts of major metropolitan areas. A *Regional Market* is a named suburb or satellite municipality within commuting distance of a major metropolitan centre that contains one or more retail co-location clusters; markets are ranked by a composite score combining tier composition and civic-anchor presence.
 

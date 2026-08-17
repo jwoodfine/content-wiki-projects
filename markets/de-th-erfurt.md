@@ -8,7 +8,7 @@ category: markets
 type: topic
 content_type: topic
 quality: stub
-status: active
+status: retired
 audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Thuringia's state capital — outside the current Top-400 ranked pool (no nearby major metro core)."

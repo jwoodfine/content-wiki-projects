@@ -8,7 +8,7 @@ category: markets
 type: topic
 content_type: topic
 quality: stub
-status: active
+status: retired
 audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Baden-Württemberg city functioning as a metro-core reference point for surrounding suburban markets — not itself in the Top-400 ranked pool."

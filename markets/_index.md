@@ -44,12 +44,8 @@ not left as a silent gap.
 | [[us-ut-provo-orem]] | Provo, UT (rank 278) | North America |
 | [[us-la-kenner]] | Kenner, LA (rank 333) | North America |
 | [[us-mn-eagan]] | Eagan, MN (rank 372) | North America |
-| [[de-nw-krefeld]] | Krefeld, Stadt (rank 5) | Europe |
-| [[de-rp-kaiserslautern]] | Kaiserslautern, Stadt (rank 4) | Europe |
-| [[fr-chambery]] | Chambéry (rank 33) | Europe |
 | [[se-jarfalla]] | Järfälla (rank 60) | Europe |
 | [[gb-eng-york]] | York (rank 266) | Europe |
-| [[nl-breda]] | Breda (rank 286) | Europe |
 | [[gb-eng-warrington]] | Warrington (rank 294) | Europe |
 | [[gb-eng-cherwell]] | Cherwell (rank 368) | Europe |
 | [[gb-eng-northampton]] | Northampton (rank 372) | Europe |
@@ -65,9 +61,15 @@ North America: [[ca-ab-lethbridge]], [[ca-bc-kelowna]], [[ca-nb-moncton]],
 [[ca-on-barrie-innisfil]], [[ca-sk-regina]], [[us-co-colorado-springs]],
 [[us-co-fort-collins]], [[us-ks-wichita]], [[us-wa-spokane]], [[us-wi-madison]].
 
-Europe: [[de-bw-ulm]], [[de-by-augsburg]], [[de-by-nurnberg]], [[de-nw-bielefeld]],
-[[de-th-erfurt]], [[es-ar-zaragoza-secondary]], [[es-cl-burgos]], [[es-cl-valladolid]],
+Europe: [[es-ar-zaragoza-secondary]], [[es-cl-burgos]], [[es-cl-valladolid]],
 [[es-nc-pamplona]], [[es-pv-vitoria-gasteiz]], [[gb-sct-inverness]].
+
+**Retired (2026-08-17), not linked above:** 9 city profiles + 3 country index pages for
+Germany, France, and Netherlands (`atlas-germany`, `atlas-france`, `atlas-netherlands`
+and their city pages) are unlisted from this category — those countries are deliberately
+excluded from the current Regional Markets methodology (locked 2026-06-30, reconfirmed
+in the 2026-08-07 dataset). Kept in the repo for historical reference, `status: retired`,
+not wikilinked from any active page.
 
 Two other "Regional Markets" articles that predate the current co-location system —
 `about-regional-markets` and `about-regional-market-matrix` — are marked `status:

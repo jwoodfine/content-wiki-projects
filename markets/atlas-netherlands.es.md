@@ -4,18 +4,27 @@ title: "Países Bajos — Índice de Mercados Regionales"
 slug: atlas-netherlands
 category: markets
 type: topic
-index_type: thematic
 content_type: topic
 quality: complete
-status: active
+status: retired
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
 keynote: false
 last_edited: 2026-07-16
 editor: editorial
-short_description: "Índice clasificado de las 14 entradas neerlandesas en la lista Top 400 Mercados Regionales — Europa, filtrado de la tabla continental con agrupaciones por referencia metropolitana."
+short_description: "RETIRADO (2026-08-17) — Países Bajos está excluido deliberadamente de la metodología vigente de Mercados Regionales (fijada el 2026-06-30). El contenido siguiente es histórico, no aparece en la navegación de categoría y no forma parte de la lista clasificada."
 paired_with: markets/atlas-netherlands.md
+---
+
+**Retirado (2026-08-17).** Países Bajos está excluido deliberadamente de la selección de
+Mercados Regionales bajo la metodología vigente (fijada el 2026-06-30, reconfirmada en
+el conjunto de datos del 2026-08-07). Esta página no aparece en la navegación de la
+categoría `markets/` y ya no tiene enlaces desde el centro Top 400 ni el desglose por
+país — no forma parte de ninguna lista clasificada vigente. Se conserva solo como
+referencia histórica; el contenido a continuación refleja una generación de datos
+anterior y no debe citarse como vigente.
+
 ---
 
 El **índice de Mercados Regionales de los Países Bajos** clasifica las 14 entradas neerlandesas en la lista [[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]] — la más pequeña de las siete páginas de desglose por país por número de entradas, construida junto con Francia, Italia y Polonia como página nueva en lugar de un borrador reutilizado. Cada entrada es un suburbio con nombre propio o municipio satélite situado entre 15 y 80 kilómetros de un punto de referencia metropolitano neerlandés (o, en un caso, belga transfronterizo) importante que contiene al menos un clúster de co-localización minorista, evaluado y puntuado bajo el [[about-regional-markets-system|marco de mercado regional de co-localización]]. Esta página es una vista filtrada y específica de los Países Bajos de esa tabla continental — no un conjunto de datos independiente —, de modo que cada posición, puntuación y conteo de nivel a continuación coincide exactamente con la tabla continental y se actualiza automáticamente si esa tabla se corrige.

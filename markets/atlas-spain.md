@@ -4,7 +4,7 @@ title: "Spain — Regional Market index"
 slug: atlas-spain
 category: markets
 type: topic
-index_type: thematic
+index_group: europe-regional-markets
 content_type: topic
 quality: complete
 status: active

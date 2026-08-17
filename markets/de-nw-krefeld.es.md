@@ -10,7 +10,7 @@ category: markets
 type: reference
 content_type: topic
 quality: complete
-status: active
+status: retired
 audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Mercado Regional número 5 en Europa — suburbio de Düsseldorf, 19,4 km; puntuación compuesta 12,0."

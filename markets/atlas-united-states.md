@@ -4,7 +4,7 @@ title: "United States — Regional Market index"
 slug: atlas-united-states
 category: markets
 type: topic
-index_type: thematic
+index_group: north-america-regional-markets
 content_type: topic
 quality: complete
 status: active

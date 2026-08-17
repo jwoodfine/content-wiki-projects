@@ -4,18 +4,27 @@ title: "Alemania — Índice de mercados regionales"
 slug: atlas-germany
 category: markets
 type: topic
-index_type: thematic
 content_type: topic
 quality: complete
-status: active
+status: retired
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
 keynote: false
 last_edited: 2026-07-16
 editor: woodfine-editorial
-short_description: "Índice clasificado de mercados inmobiliarios comerciales regionales alemanes que cumplen los umbrales de selección para co-ubicación."
+short_description: "RETIRADO (2026-08-17) — Alemania está excluida deliberadamente de la metodología vigente de Mercados Regionales (fijada el 2026-06-30). El contenido siguiente es histórico, no aparece en la navegación de categoría y no forma parte de la lista clasificada."
 paired_with: markets/atlas-germany.md
+---
+
+**Retirado (2026-08-17).** Alemania está excluida deliberadamente de la selección de
+Mercados Regionales bajo la metodología vigente (fijada el 2026-06-30, reconfirmada en
+el conjunto de datos del 2026-08-07). Esta página no aparece en la navegación de la
+categoría `markets/` y ya no tiene enlaces desde el centro Top 400 ni el desglose por
+país — no forma parte de ninguna lista clasificada vigente. Se conserva solo como
+referencia histórica; el contenido a continuación refleja una generación de datos
+anterior y no debe citarse como vigente.
+
 ---
 
 El **índice de mercados regionales de Alemania** clasifica las ciudades y centros regionales
