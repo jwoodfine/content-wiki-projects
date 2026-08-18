@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Power Centre Co-Location Thesis"
+title: "Power centre co-location thesis"
 slug: power-centre-co-location-thesis
 category: site-selection
 type: topic
@@ -10,7 +10,7 @@ short_description: "Site-selection discipline requiring Qualified Investment sit
 status: stable
 audience: customer-woodfine
 bcsc_class: current-fact
-last_edited: 2026-07-01
+last_edited: 2026-07-11
 editor: pointsav-engineering
 language_protocol: PROSE-TOPIC
 source_refs:
@@ -19,7 +19,7 @@ paired_with: site-selection/power-centre-co-location-thesis.es.md
 cites: []
 ---
 
-The **Power Centre Co-Location Thesis** is the site-selection discipline that underlies Woodfine Management Corp.'s definition of a Qualified Investment. Development Sites must be co-located on or immediately adjacent to existing Power Centres — retail nodes anchored by major National Retailers operating their established store Prototypes. Co-location with a Power Centre anchor is a non-negotiable criterion for site qualification; development is not adapted to sites that do not meet this standard.
+The **Power Centre Co-Location Thesis** is the site-selection discipline that underlies MCorp's definition of a Qualified Investment. Development Sites must be co-located on or immediately adjacent to existing Power Centres — retail nodes anchored by major National Retailers operating their established store Prototypes. Co-location with a Power Centre anchor is a non-negotiable criterion for site qualification; development is not adapted to sites that do not meet this standard.
 
 ## The Anchor Relationship
 

@@ -6,20 +6,31 @@ category: markets
 type: topic
 content_type: topic
 quality: pre-build
-status: active
+status: superseded
+superseded_by: about-regional-markets-system
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-keynote: true
-keynote_section: "Co-Location Methodology"
-last_edited: 2026-06-26
-editor: pointsav-engineering
-short_description: "El enfoque geográfico de los desarrollos de tenencia directa de Woodfine: ciudades y áreas metropolitanas con poblaciones entre 50.000 y 300.000 habitantes, caracterizadas por alto ingreso disponible y oferta inmobiliaria comercial insuficiente."
+keynote: false
+last_edited: 2026-07-10
+editor: editorial
+short_description: "SUSTITUIDO (2026-07-10) — véase about-regional-markets-system para el marco actual. La definición anterior describía una matriz de inversión de ciudades independientes más estrecha (población de 50.000-300.000, explícitamente no suburbios metropolitanos), previa al sistema actual de co-ubicación suburbana de 18 países."
 paired_with: markets/about-regional-markets.md
 cites:
   - ni-51-102
   - osc-sn-51-721
 ---
+
+> **Sustituido el 2026-07-10.** Este artículo describe una matriz de inversión de tenencia
+> directa de "8 mercados objetivo" anterior que precede y contradice el sistema de puntuación
+> de co-ubicación actualmente en uso — véase
+> [[about-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]] para el
+> marco actual. En particular, la definición central de este artículo (un Mercado Regional
+> como una **ciudad independiente, no un suburbio metropolitano**) es la opuesta a la
+> definición del sistema actual (un Mercado Regional como un **asentamiento suburbano a 15-80
+> km de un núcleo metropolitano importante**). Se conserva conforme a la convención de nunca
+> eliminar; se mantiene solo como referencia histórica. Sustitución confirmada por el
+> operador, 2026-07-10.
 
 Los mercados regionales son el foco geográfico principal de los desarrollos de tenencia directa de Woodfine. Son ciudades y áreas metropolitanas con poblaciones típicamente entre 50.000 y 300.000 habitantes, ubicadas fuera de los distritos centrales de negocios de las grandes metrópolis que caracterizan los mercados de oficinas tradicionales. Los mercados regionales comparten varias características estructurales que los hacen adecuados para los desarrollos de [[co-location-strategy|co-localización]]: alto ingreso disponible de los hogares en relación con los costos inmobiliarios locales, patrones de movilidad basados en el automóvil, oferta inmobiliaria comercial insuficiente e inversión minorista nacional establecida.
 

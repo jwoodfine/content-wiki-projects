@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Vernacular Architecture"
+title: "Vernacular architecture"
 slug: vernacular-architecture
 category: architecture
 type: topic
@@ -10,7 +10,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-06-27
+last_edited: 2026-07-11
 editor: pointsav-engineering
 short_description: "Building forms shaped by local materials, climate, and community convention rather than formal design training — a category that defines the character of most small-city commercial and mixed-use stock in secondary markets."
 paired_with: vernacular-architecture.es.md

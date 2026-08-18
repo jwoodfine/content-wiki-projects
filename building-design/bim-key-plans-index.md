@@ -2,27 +2,30 @@
 schema: foundry-doc-v1
 title: "Key plans index — master reference"
 slug: bim-key-plans-index
-short_description: "Master directory of 72 key plans across nine Development Classes, pairing Development Class with Typology and Eco Region to produce the file-name slugs referenced across downstream BIM artefacts, DTCG tokens, IFC entity classifications, and regulation overlays."
+short_description: "Master directory of 72 key plans across seven Key Plan Groups, pairing Key Plan Group with Typology and Eco Region to produce the file-name slugs referenced across downstream BIM artefacts, DTCG tokens, IFC entity classifications, and regulation overlays."
 category: building-design
 type: topic
+index_type: thematic
 content_type: topic
 quality: complete
 status: pre-build
 audience: operator
 bcsc_class: vendor-internal
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-25
+last_edited: 2026-07-16
 editor: pointsav-engineering
 paired_with: building-design/bim-key-plans-index.es.md
 ---
 
-The Key Plan Directory inventories every distinct floor-plate sub-area that the Building Information Model (BIM) recognises. Each entry pairs a Development Class with a Typology and (where relevant) an Eco Region, yielding a file-name slug that is referenced from every downstream BIM artefact — Design Token Community Group (DTCG) tokens, Industry Foundation Classes (IFC) entity classifications, Rust solvers, slide decks, and regulation overlays. The Directory underpins the [[bim-tile-system|Tile system]] and the [[bim-floor-plate-methodology|floor plate methodology]]; per-use-type interior geometry is set by the [[bim-building-width-method|Building Width Calculator]] and the [[bim-zone-depths-per-use-type|zone depths per use type]].
+The Key Plan Directory inventories every distinct floor-plate sub-area that the Building Information Model (BIM) recognises. Each entry pairs a Key Plan Group with a Typology and (where relevant) an Eco Region, yielding a file-name slug that is referenced from every downstream BIM artefact — Design Token Community Group (DTCG) tokens, Industry Foundation Classes (IFC) entity classifications, Rust solvers, slide decks, and regulation overlays. The Directory underpins the [[bim-tile-system|Tile system]] and the [[bim-floor-plate-methodology|floor plate methodology]]; per-use-type interior geometry is set by the [[bim-building-width-method|Building Width Calculator]] and the [[bim-zone-depths-per-use-type|zone depths per use type]].
 
-The current Directory (V2, dated both 2025-01-07 and re-dated 2026-01-06 — identical content) contains **72 key plans across nine Development Classes**.
+**Note (corrected 2026-07-16):** "Key Plan Group" is this workbook's own catalog-grouping axis for individual key plans — a different, overloaded use of "Development Class" than the portfolio's six real building typologies (Professional Centres, Suburban Office, Retail Select, Tech Industrial, Vertical Warehouses, Parking Structures — see [[about-development-classes|Development classes]]). This article previously called the workbook axis "Development Class" and stated the count as "nine," which contradicted its own 7-row table below; both are corrected here to avoid conflating the two axes.
 
-## Development Classes and Key Plan counts
+The current Directory (V2, dated both 2025-01-07 and re-dated 2026-01-06 — identical content) contains **72 key plans across seven Key Plan Groups**.
 
-| # | Development Class | Key Plan count | Index range |
+## Key Plan Groups and Key Plan counts
+
+| # | Key Plan Group | Key Plan count | Index range |
 |---|---|---:|---|
 | 1 | General | 25 | 1–25 |
 | 2 | Professional Centre | 13 | 26–38 |
@@ -99,6 +102,13 @@ The V3 Master Summary table (January 2026) supersedes earlier iterations for the
 | Business | 6.0 m / 19'8" | 7.3 m / 23'11" | 2.7 m | 311 / 3,350 | 400 / 4,302 | 669 / 7,524 |
 | Medical | 7.2 m / 23'10" | 4.9 m / 16" | 2.9 m / 9'5" | 223 / 2,402 | 331 / 3,568 | 486 / 5,231 |
 | Civic | 6.0 m / 19'8" | 7.2 m / 23'8" | 3.6 m / 12' | 270 / 2,912 | 577 / 6,215 | 822 / 8,850 |
+
+**Correction (2026-08-02):** two defects in the table above. (1) Medical's Z2
+Magazine cell reads `4.9 m / 16"` (16 inches) when 4.9 m ≈ 16'1" — every other cell
+in this table correctly uses the feet-inches format. (2) Business Large's SF value
+(669 m² / 7,524 SF) is off — 669 m² converts to ≈7,201 SF, a discrepancy larger than
+the rounding noise elsewhere in this table; the same pairing is also repeated in
+[[bim-business-key-plans]]. **Flagged, not resolved.**
 | Professional Office (Initial Design baseline) | 6.0 m / 19'8" | 3.8 m / 12'5" | 2.0 m / 6'6" | 130 / 1,400 | — | — |
 
 ### Academic Small — reconciliation
@@ -148,3 +158,6 @@ These are **not** the key plan footprints. A Medical M2 FFE tile code (1,400 SF)
 - [[bim-building-width-method]]
 - [[bim-floor-plate-methodology]]
 - [[bim-tile-system]]
+- [[key-plan-development-methodology]] — the methodology for turning this index's entries into an assembled Key Plan, Tile, and Floor Plate
+- [[bim-shared-space-ffe-schedules]] — furniture and fixture inventories for the five building-core amenity entries in this index
+- [[design-sequence-priority]] — the leasing-plan-first design sequence this index's entries are assembled under

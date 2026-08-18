@@ -10,7 +10,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-06-30
+last_edited: 2026-07-31
 editor: woodfine-editorial
 short_description: "Arte y técnica de diseñar y construir edificios, desde la tríada de Vitruvio — durabilidad, utilidad y belleza — hasta la práctica contemporánea."
 paired_with: architecture-overview.md
@@ -44,6 +44,12 @@ La arquitectura griega, desarrollada entre aproximadamente 600 y 300 a.C., estab
 
 La arquitectura romana se construyó sobre el precedente griego desarrollando nuevas capacidades estructurales: el arco, la bóveda y la cúpula. El Panteón de Roma (completado hacia el año 125 d.C.) permanece como el mejor edificio romano conservado y el edificio abovedado más antiguo cuya luz interior — 43,3 metros — no sería superada durante más de trece siglos.
 
+## Arquitectura asiática e islámica
+
+Paralelamente a la tradición clásica, culturas arquitectónicas distintivas se desarrollaron de forma independiente en toda Asia. La arquitectura india de templos, caracterizada por elaboradas torres de piedra tallada (*shikharas*) que se elevan sobre los santuarios interiores, alcanzó su máxima expresión en los templos de Khajuraho (siglos X–XI d.C.) y el Templo de la Costa en Mahabalipuram. La arquitectura china se caracteriza por su construcción de entramado de madera, sus tejados curvados hacia arriba y su planificación modular; la Ciudad Prohibida de Pekín (construida entre 1406 y 1420) es el mayor ejemplo superviviente de la arquitectura palaciega china tradicional. La arquitectura japonesa llevó los refinamientos de la tradición de madera — la casa de té, el santuario sintoísta, la pagoda de varios niveles — a un nivel de precisión material y espacial que influyó profundamente en los arquitectos modernistas del siglo XX.
+
+La arquitectura islámica, surgida en el siglo VII d.C., produjo la mezquita, la madrasa y el complejo palaciego. Estos tipos edificatorios se caracterizan por la decoración geométrica de superficie, la bóveda muqarnas (de mocárabes), el arco apuntado y la integración de elementos acuáticos y jardines paisajísticos. La Alhambra de Granada (siglos XIII–XIV d.C.), la Mezquita de Solimán en Estambul (1550–1557) y el Taj Mahal en Agra (1632–1653) representan los puntos culminantes de la tradición arquitectónica islámica en tres contextos geográficos y culturales distintos.
+
 ## Arquitectura medieval y renacentista
 
 La arquitectura medieval europea progresó del estilo románico — caracterizado por gruesos muros de mampostería y arcos de medio punto — al estilo gótico, que a partir del siglo XII desplegó el arco apuntado, la bóveda de crucería y el arbotante para permitir una altura sin precedentes y la disolución del muro sólido en vitrales. Las grandes catedrales góticas — Chartres, Reims, Amiens, Notre-Dame de París, Colonia — siguen siendo algunos de los edificios más técnicamente logrados de la tradición occidental.
@@ -61,6 +67,10 @@ El Estilo Internacional, identificado por Philip Johnson y Henry-Russell Hitchco
 La arquitectura posmoderna surgió como reacción contra la austeridad del Estilo Internacional, reintroduciendo la referencia histórica, el ornamento y la sensibilidad contextual — a menudo en formas irónicas o en collage. El movimiento deconstructivista de los años ochenta y noventa — asociado con Frank Gehry, Zaha Hadid y Daniel Libeskind — persiguió la fragmentación formal y la desestabilización espacial.
 
 La arquitectura contemporánea opera sin un estilo dominante. Los temas principales de la práctica actual incluyen la sostenibilidad y el rendimiento medioambiental, el uso de herramientas de diseño computacional que permiten geometrías complejas, el alcance global de los grandes estudios de arquitectura y la creciente integración de los edificios con la infraestructura digital.
+
+## Tipos de arquitectura
+
+La arquitectura abarca una variedad de tipos edificatorios distinguidos por su programa y función social: residencial (unifamiliar, multifamiliar, de gran altura), comercial (oficinas, comercio minorista, hotelería) e industrial (manufactura, logística). Otros tipos incluyen el institucional (cívico, educativo, religioso, cultural), el paisajístico (parques, jardines, espacio público) y el de interiores (el diseño de espacios cerrados dentro de los edificios). El alcance se extiende además al diseño urbano (la orquestación de edificios, calles y espacio abierto a escala de distrito) y a la arquitectura naval (el diseño de barcos y estructuras marítimas).
 
 ---
 

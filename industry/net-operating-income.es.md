@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-06-29
+last_edited: 2026-07-31
 editor: woodfine-editorial
 paired_with: industry/net-operating-income.md
 ---
@@ -64,7 +64,20 @@ que ocurre el efecto económico.
 exige el reconocimiento lineal de los ingresos por arrendamiento durante el plazo total del
 contrato. Un arrendamiento que proporciona seis meses de renta libre en el año uno seguido
 de pagos en efectivo crecientes produce una cifra de renta bajo NIIF que difiere de la renta
-en efectivo en cada año del plazo.
+en efectivo en cada año del plazo. De igual manera, los incentivos pagados al inicio del
+arrendamiento se amortizan a lo largo del plazo del contrato bajo NIIF, en lugar de
+registrarse íntegramente como gasto en el momento del pago.
+
+La divergencia entre el ION en efectivo y el ION bajo NIIF puede ser significativa en los
+primeros años de un contrato nuevo o tras una inversión de capital importante en la
+adecuación del espacio para el inquilino. En propiedades con contratos de largo plazo y
+programas sustanciales de mejoras para inquilinos, ambas cifras pueden diferir entre diez y
+quince por ciento en un año dado.
+
+Para efectos de información financiera bajo la NIC 40, el valor de la propiedad se evalúa
+según su capacidad de generar ingresos, y el modelo de valoración incorpora la
+capitalización del ION estabilizado — típicamente el ION en efectivo de la propiedad a
+ocupación normal.
 
 ## ION y valoración de propiedades
 
@@ -77,6 +90,40 @@ A un ION estabilizado de $1,000,000 y una tasa de capitalización de mercado del
 valor indicado es $20,000,000. Un desplazamiento de 50 puntos básicos en la tasa de
 capitalización al 5.5% indicaría $18,182,000 — una reducción de aproximadamente $1.8 millones
 sin ningún cambio en los ingresos que genera la propiedad.
+
+## El ION en el análisis crediticio de prestamistas
+
+Los prestamistas hipotecarios comerciales evalúan el crédito con base en la razón de
+cobertura del servicio de deuda (RCSD), que es el ION dividido entre el servicio total de
+deuda anual (capital más intereses). Una propiedad que genera $1,000,000 de ION y atiende
+$750,000 de pagos de deuda anuales produce una RCSD de 1.33×. La mayoría de los prestamistas
+institucionales exigen una RCSD mínima de 1.20× a 1.30× al momento de originar el crédito;
+el monto de la deuda queda limitado por esta prueba y no solo por el valor de tasación de la
+propiedad.
+
+Un prestatario que incrementa el ION — mediante mejoras de ocupación, incrementos de renta o
+reducción de gastos operativos — genera capacidad de deuda adicional bajo el mismo requisito
+de cobertura, lo que permite refinanciar u obtener apalancamiento adicional sin aportar
+capital adicional.
+
+## Limitaciones del ION como métrica independiente
+
+El ION no captura los gastos de capital, por lo que resulta insuficiente como evaluación
+completa del rendimiento de una inversión. Una propiedad con ION alto pero con mantenimiento
+diferido significativo, que requiere gastos de capital para sostener la ocupación, conlleva
+costos ocultos que reducen el flujo de efectivo real del inversionista por debajo de la
+cifra de ION.
+
+La distinción entre el gasto de capital de mantenimiento — el gasto requerido para preservar
+el flujo de ingresos existente — y el gasto de capital de mejora — el gasto destinado a
+incrementar el ingreso — es relevante para el análisis de rendimiento. Solo el capex de
+mejora es aditivo al ION futuro; el capex de mantenimiento es un costo de sostener el nivel
+de ingreso existente.
+
+Los fondos ajustados de operación (AFFO, por sus siglas en inglés), que deducen el gasto de
+capital de mantenimiento normalizado de los fondos de operación, son el estándar
+institucional para evaluar el flujo de efectivo distribuible sostenible de una estructura de
+tenencia de bienes raíces.
 
 ## Consulte también
 

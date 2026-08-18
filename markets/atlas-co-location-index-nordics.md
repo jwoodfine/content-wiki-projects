@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Co-location Index: Nordics"
+title: "Co-location index: Nordics"
 slug: atlas-co-location-index-nordics
 category: markets
 type: topic
@@ -10,7 +10,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-25
+last_edited: 2026-07-11
 editor: pointsav-engineering
 short_description: "Ranked index of commercial convergence sites across Sweden, Norway, Denmark, Finland, and Iceland, anchored by IKEA with Nordic secondary operators."
 paired_with: markets/atlas-co-location-index-nordics.es.md
@@ -23,7 +23,10 @@ The Nordics Co-location Index ranks commercial nodes across Northern Europe usin
 
 ## Anchor Network
 
-IKEA maintains approximately 55 stores across the Nordic region: Sweden (~20), Denmark (~8), Norway (~8), Finland (~7), and Iceland (~1). Secondary anchors vary by country: Bauhaus DIY operates in Sweden, Denmark, Norway, and Finland; Biltema and Jula cover Sweden and Norway; Stark operates in Denmark. The Nordic healthcare and university systems concentrate infrastructure in capital cities and major university towns — Stockholm, Gothenburg, Malmö, Copenhagen, Aarhus, Oslo, Bergen, Helsinki, and Tampere each have major hospital systems and research universities within the same urban catchment areas as IKEA stores.
+IKEA maintains approximately 55 stores across the Nordic region: Sweden (~20), Denmark (~8), Norway (~8), Finland (~7), and Iceland (~1).
+
+**Correction (2026-08-02):** the listed components sum to 44 (20+8+8+7+1), not 55 —
+too large a gap (~25%) to be rounding. **Flagged, not resolved.** Secondary anchors vary by country: Bauhaus DIY operates in Sweden, Denmark, Norway, and Finland; Biltema and Jula cover Sweden and Norway; Stark operates in Denmark. The Nordic healthcare and university systems concentrate infrastructure in capital cities and major university towns — Stockholm, Gothenburg, Malmö, Copenhagen, Aarhus, Oslo, Bergen, Helsinki, and Tampere each have major hospital systems and research universities within the same urban catchment areas as IKEA stores.
 
 ## Nordic market characteristics
 
@@ -45,4 +48,4 @@ A Tier 4+ designation indicates a node where primary anchor presence is supporte
 
 ---
 
-*Copyright © 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).*
+*Copyright © 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nd/4.0/).*

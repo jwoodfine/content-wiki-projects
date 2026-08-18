@@ -19,7 +19,7 @@ paired_with: gis-cluster-scoring-glossary.md
 cites: []
 ---
 
-Este glosario define la terminología utilizada en el [[geographic-co-location-methodology|sistema de puntuación de co-ubicación geográfica]] de Woodfine Management Corp. El vocabulario cubre las designaciones de grado de clúster, las etiquetas de puntuación de nivel, las convenciones de umbral de radio y las métricas de salida del conjunto de datos. Estos términos aparecen en los informes del conjunto de datos de co-ubicación, las comunicaciones de cobertura GIS y los materiales de selección de sitios preparados para revisión por los Directores Independientes del Socio General.
+Este glosario define la terminología utilizada en el [[geographic-co-location-methodology|sistema de puntuación de co-ubicación geográfica]] de MCorp. El vocabulario cubre las designaciones de grado de clúster, las etiquetas de puntuación de nivel, las convenciones de umbral de radio y las métricas de salida del conjunto de datos. Estos términos aparecen en los informes del conjunto de datos de co-ubicación, las comunicaciones de cobertura GIS y los materiales de selección de sitios preparados para revisión por los Directores Independientes del Socio General.
 
 ## Términos de Grado de Clúster
 

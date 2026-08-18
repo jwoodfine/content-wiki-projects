@@ -6,6 +6,7 @@ language: en
 language_protocol: PROSE-TOPIC
 category: markets
 type: reference
+index_group: north-america-regional-markets
 content_type: topic
 quality: complete
 status: active
@@ -13,15 +14,19 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Ranked list of the 400 highest-scoring North American suburban Regional Markets. Rank 1: Plano, TX (suburb of Dallas, score 25.5)."
 paired_with: markets/atlas-top-400-north-america.es.md
-last_edited: 2026-06-17
+last_edited: 2026-07-16
 editor: editorial
 ---
 
-# Top 400 Regional Markets — North America
+**Pending rebuild (2026-08-17).** A newer dataset covering 800 regional markets across Europe and North America is under internal review and is not yet reflected in the table below. The table below still describes the prior selection (369 United States, 23 Canadian, and 8 Mexican markets); the new North American selection is 298 United States, 56 Canadian, and 46 Mexican markets — Mexico's count alone changes enough to warrant its own dedicated page, which does not yet exist. Publication against the new dataset is on hold pending confirmation.
 
 Plano, Texas, a suburb of Dallas 28 km from the metropolitan core, leads the North American ranking with a composite score of 25.5 — three Tier 1 clusters combined with a civic-anchor multiplier. The four hundred highest-scoring Regional Markets span 369 United States, 23 Canadian, and 8 Mexican suburbs across the commuter belts of major metropolitan areas. A *Regional Market* is a named suburb or satellite municipality within commuting distance of a major metropolitan centre that contains one or more retail co-location clusters; markets are ranked by a composite score combining tier composition and civic-anchor presence.
 
 The list identifies commercial markets in the suburban ring of major North American cities — the research gap between institutional metro-market analysis and genuinely rural areas. It is produced separately from lists of metro cores (covered extensively by institutional research) and standalone secondary cities (served by separate analysis).
+
+## Country breakouts
+
+Two countries have enough entries to warrant their own dedicated ranking page — [[atlas-united-states|United States]] (369 markets) and [[atlas-canada|Canada]] (23 markets). Mexico's 8 markets stay in the Country Breakdown table below and the full ranked table; a dedicated page isn't warranted at that count.
 
 ## Definition and Scope
 
@@ -49,10 +54,10 @@ The twenty-five highest-ranked North American Regional Markets are listed below,
 
 | Rank | Market | Country | Suburb of | km | T1 | T2 | T3 | Civic | Score |
 |------|--------|---------|-----------|----|----|----|----|-------|-------|
-| 1 | Plano, TX | US | Dallas | 28 | 3 | 2 | 1 | Yes | 25.5 |
+| 1 | [[us-tx-plano|Plano, TX]] | US | Dallas | 28 | 3 | 2 | 1 | Yes | 25.5 |
 | 2 | Mesa, AZ | US | Phoenix | 31 | 2 | 2 | 3 | Yes | 22.5 |
-| 3 | Frisco, TX | US | Dallas | 44 | 3 | 1 | 0 | Yes | 21.0 |
-| 4 | Mississauga, ON | CA | Toronto | 25 | 2 | 1 | 2 | Yes | 18.0 |
+| 3 | [[us-tx-frisco|Frisco, TX]] | US | Dallas | 44 | 3 | 1 | 0 | Yes | 21.0 |
+| 4 | [[ca-on-mississauga|Mississauga, ON]] | CA | Toronto | 25 | 2 | 1 | 2 | Yes | 18.0 |
 | 5 | Santa Clarita, CA | US | Los Angeles | 48 | 2 | 2 | 0 | Yes | 18.0 |
 | 6 | Nashua, NH | US | Boston | 56 | 2 | 2 | 0 | Yes | 18.0 |
 | 7 | Warwick, RI | US | Providence | 19 | 2 | 1 | 1 | Yes | 16.5 |
@@ -75,7 +80,7 @@ The twenty-five highest-ranked North American Regional Markets are listed below,
 | 24 | Maple Grove, MN | US | Minneapolis | 21 | 2 | 0 | 0 | Yes | 12.0 |
 | 25 | Danvers, MA | US | Boston | 23 | 2 | 0 | 0 | Yes | 12.0 |
 
-## Full Rankings (26–400)
+## Appendix: Full Ranked Table (26–400)
 
 ### Ranks 26–33 — scores 12.0 to 10.5
 
@@ -95,7 +100,7 @@ The twenty-five highest-ranked North American Regional Markets are listed below,
 | Rank | Market | Country | Suburb of | T1 | T2 | T3 | Score |
 |------|--------|---------|-----------|----|----|----|-------|
 | 34 | Moorestown-Lenola, NJ | US | Philadelphia | 1 | 0 | 2 | 9.0 |
-| 35 | Tempe, AZ | US | Phoenix | 1 | 0 | 2 | 9.0 |
+| 35 | [[us-az-tempe|Tempe, AZ]] | US | Phoenix | 1 | 0 | 2 | 9.0 |
 | 36 | Markham | CA | Toronto | 1 | 0 | 2 | 9.0 |
 | 37 | Brandon, FL | US | Tampa | 1 | 1 | 0 | 9.0 |
 | 38 | Huntington Beach, CA | US | Los Angeles | 1 | 1 | 0 | 9.0 |
@@ -105,7 +110,7 @@ The twenty-five highest-ranked North American Regional Markets are listed below,
 | 42 | Brandermill, VA | US | Richmond | 1 | 1 | 0 | 9.0 |
 | 43 | Irving, TX | US | Dallas | 1 | 1 | 0 | 9.0 |
 | 44 | Sandy, UT | US | Salt Lake City | 1 | 1 | 0 | 9.0 |
-| 45 | Spartanburg, SC | US | Greenville SC | 1 | 1 | 0 | 9.0 |
+| 45 | [[us-sc-greenville-spartanburg|Spartanburg, SC]] | US | Greenville SC | 1 | 1 | 0 | 9.0 |
 | 46 | The Woodlands, TX | US | Houston | 1 | 1 | 0 | 9.0 |
 | 47 | Temecula, CA | US | Riverside | 1 | 1 | 0 | 9.0 |
 | 48 | Denton, TX | US | Fort Worth | 1 | 1 | 0 | 9.0 |
@@ -184,7 +189,7 @@ The twenty-five highest-ranked North American Regional Markets are listed below,
 | 109 | Owasso, OK | US | Tulsa | 1 | 0 | 0 | 6.0 |
 | 110 | Stratford Downtown, CT | US | New Haven | 1 | 0 | 0 | 6.0 |
 | 111 | East York, PA | US | Lancaster | 1 | 0 | 0 | 6.0 |
-| 112 | Torrance, CA | US | Los Angeles | 1 | 0 | 0 | 6.0 |
+| 112 | [[us-ca-torrance|Torrance, CA]] | US | Los Angeles | 1 | 0 | 0 | 6.0 |
 | 113 | Lincoln Park, NY | US | Albany | 1 | 0 | 0 | 6.0 |
 | 114 | Bayou Cane, LA | US | New Orleans | 1 | 0 | 0 | 6.0 |
 | 115 | San Leandro, CA | US | San Francisco | 1 | 0 | 0 | 6.0 |
@@ -365,7 +370,7 @@ The twenty-five highest-ranked North American Regional Markets are listed below,
 | 275 | Issaquah, WA | US | Seattle | 1 | 0 | 0 | 6.0 |
 | 276 | Mayfield Heights, OH | US | Cleveland | 1 | 0 | 0 | 6.0 |
 | 277 | Oaks, PA | US | Wilmington DE | 1 | 0 | 0 | 6.0 |
-| 278 | Provo, UT | US | Salt Lake City | 1 | 0 | 0 | 6.0 |
+| 278 | [[us-ut-provo-orem|Provo, UT]] | US | Salt Lake City | 1 | 0 | 0 | 6.0 |
 | 279 | Silverdale, WA | US | Seattle | 1 | 0 | 0 | 6.0 |
 | 280 | Owings Mills, MD | US | Baltimore | 1 | 0 | 0 | 6.0 |
 | 281 | Whippany, NJ | US | New York | 1 | 0 | 0 | 6.0 |
@@ -430,7 +435,7 @@ The twenty-five highest-ranked North American Regional Markets are listed below,
 | 330 | Carson, CA | US | Los Angeles | 0 | 1 | 1 | 4.5 |
 | 331 | Winter Haven, FL | US | Orlando | 0 | 1 | 1 | 4.5 |
 | 332 | Las Cruces, NM | US | El Paso | 0 | 1 | 1 | 4.5 |
-| 333 | Kenner, LA | US | New Orleans | 0 | 1 | 1 | 4.5 |
+| 333 | [[us-la-kenner|Kenner, LA]] | US | New Orleans | 0 | 1 | 1 | 4.5 |
 | 334 | Delray Beach, FL | US | Miami | 0 | 1 | 1 | 4.5 |
 | 335 | Covina, CA | US | Los Angeles | 0 | 1 | 1 | 4.5 |
 | 336 | Mentor, OH | US | Cleveland | 0 | 1 | 1 | 4.5 |
@@ -474,7 +479,7 @@ The twenty-five highest-ranked North American Regional Markets are listed below,
 | 369 | Woodland, CA | US | Sacramento | 1 | 0 | 0 | 4.0 |
 | 370 | Sequim, WA | US | Seattle | 1 | 0 | 0 | 4.0 |
 | 371 | Bel Air South, MD | US | Baltimore | 1 | 0 | 0 | 4.0 |
-| 372 | Eagan, MN | US | Minneapolis | 1 | 0 | 0 | 4.0 |
+| 372 | [[us-mn-eagan|Eagan, MN]] | US | Minneapolis | 1 | 0 | 0 | 4.0 |
 | 373 | Bradenton, FL | US | Tampa | 1 | 0 | 0 | 4.0 |
 | 374 | Madison Park, NJ | US | New York | 1 | 0 | 0 | 4.0 |
 | 375 | Mooresville, NC | US | Charlotte | 1 | 0 | 0 | 4.0 |
@@ -508,9 +513,14 @@ The twenty-five highest-ranked North American Regional Markets are listed below,
 
 | Country | Count | Notes |
 |---------|-------|-------|
-| United States | 369 | Suburbs of all major US metropolitan areas |
-| Canada | 23 | Suburbs of Toronto (8), Vancouver (4), Calgary (2), and others |
+| [[atlas-united-states\|United States]] | 369 | Suburbs of all major US metropolitan areas |
+| [[atlas-canada\|Canada]] | 23 | Suburbs of Toronto (8), Vancouver (4), Calgary (2), and others |
 | Mexico | 8 | Suburbs of Mexico City, Guadalajara, and Monterrey |
+
+**Correction (2026-08-02):** the Canada breakdown note above misstates its own
+underlying 23 rows — the real count is Toronto 8 (correct), Vancouver 6 (not 4),
+Montreal 5 (omitted from the note despite being the second-largest contributor),
+Kitchener 2, Detroit 1, Calgary 1 (not 2). **Flagged, not resolved.**
 
 ## Data Sources and Methodology
 
@@ -521,6 +531,5 @@ The suburban-regional classification (15–80 km from the nearest major metro ce
 ## See Also
 
 - [[about-regional-markets-system|Regional Markets Intelligence System]]
-- [[about-regional-market-matrix|Regional Market Matrix]]
 - [[co-location-methodology|Co-location Methodology]]
 - [[atlas-tier-index-north-america|Tier Index — North America]]

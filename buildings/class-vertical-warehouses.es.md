@@ -17,7 +17,7 @@ paired_with: buildings/class-vertical-warehouses.md
 cites: []
 ---
 
-Los Almacenes Verticales son una de las seis [[about-development-classes|clases de desarrollo]] planificadas para la cartera de tenencia directa de Woodfine Management Corp. Al igual que las [[class-parking-structures|Estructuras de Estacionamiento]], se emplazan fuera del modelo de proximidad al centro de potencia que rige las cuatro clases orientadas a oficina y retail, y se describen aquí en términos planificados y previstos.
+Los Almacenes Verticales son una de las seis [[about-development-classes|clases de desarrollo]] planificadas para la cartera de tenencia directa de MCorp. Al igual que las [[class-parking-structures|Estructuras de Estacionamiento]], se emplazan fuera del modelo de proximidad al centro de potencia que rige las cuatro clases orientadas a oficina y retail, y se describen aquí en términos planificados y previstos.
 
 ## Qué se prevé que sean los Almacenes Verticales
 

@@ -13,7 +13,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Artículo de referencia sobre el sistema de análisis de co-localización que identifica y clasifica mercados minoristas suburbanos en América del Norte y Europa."
 paired_with: markets/about-regional-markets-system.md
-last_edited: 2026-05-30
+last_edited: 2026-08-03
 editor: editorial
 ---
 
@@ -106,7 +106,7 @@ donde:
 
 **Resultados actuales más destacados.** América del Norte: posición 1 Plano, TX (suburbio de Dallas, 28 km, puntuación 25,5); posición 2 Mesa, AZ (suburbio de Phoenix, 31 km, puntuación 22,5); posición 3 Frisco, TX (suburbio de Dallas, 44 km, puntuación 21,0). Europa: posición 1 Chemnitz (suburbio de Dresden, 64 km, puntuación 18,0); posición 5 Krefeld (suburbio de Düsseldorf, 19 km, puntuación 12,0).
 
-Las listas clasificadas completas se publican por separado: véase [Top 400 Mercados Regionales — América del Norte](topic-top-400-regional-markets-na) y [Top 400 Mercados Regionales — Europa](topic-top-400-regional-markets-eu).
+Las listas clasificadas completas se publican por separado: véase [[atlas-top-400-north-america|Top 400 Mercados Regionales — América del Norte]] y [[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]].
 
 ## Capa de Infraestructura Cívica
 
@@ -190,7 +190,7 @@ Trabajo planificado o previsto para las próximas iteraciones del sistema.
 
 ## Véase también
 
-- [[about-regional-market-matrix|Matriz de Mercado Regional]]
+- [[regional-market-definition|Definición de mercado regional]]
 - [[co-location-methodology|Metodología de Co-ubicación]]
 - [[atlas-top-400-north-america|Top 400 Mercados Regionales — América del Norte]]
 - [[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]]

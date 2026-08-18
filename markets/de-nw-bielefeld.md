@@ -2,86 +2,58 @@
 schema: foundry-doc-v1
 title: "Bielefeld Regional Market"
 slug: de-nw-bielefeld
+language: en
+language_protocol: PROSE-TOPIC
 category: markets
 type: topic
 content_type: topic
 quality: stub
-status: active
+status: retired
 audience: customer-woodfine
 bcsc_class: current-fact
-language_protocol: PROSE-TOPIC
-keynote: false
-last_edited: 2026-06-29
-editor: woodfine-editorial
-short_description: "Eastern North Rhine-Westphalia commercial hub with a healthcare and professional services base anchored by a major hospital cluster and the University of Bielefeld."
+short_description: "North Rhine-Westphalia city functioning as a metro-core reference point for surrounding suburban markets — not itself in the Top-400 ranked pool."
 paired_with: markets/de-nw-bielefeld.es.md
+last_edited: 2026-07-10
+editor: editorial
 ---
 
-The **Bielefeld regional market** is the largest urban centre in eastern North Rhine-
-Westphalia, located in the Teutoburg Forest foothills approximately 90 kilometres east of
-Dortmund along the A2 autobahn corridor. The city of Bielefeld had a population of
-approximately 341,000 in 2021, and the broader Ostwestfalen-Lippe region — encompassing
-the counties of Gütersloh, Herford, Minden-Lübbecke, Lippe, and Paderborn as well as the
-Bielefeld urban district — has a combined population of approximately 1.8 million. Bielefeld
-functions as the primary administrative and commercial centre for Ostwestfalen-Lippe and
-serves as the regional hub for professional services, retail, and healthcare for this
-substantial regional catchment.
+Bielefeld does not carry its own entry in the European Top-400 Regional Markets list. In the
+current dataset, Bielefeld functions as the metro-core reference point that six other
+suburban markets — Paderborn, Lippstadt, Belm, Bad Oeynhausen, Osnabrück, and Gütersloh —
+are ranked as suburbs *of*, rather than as a suburban market itself.
 
-## Economic profile
+## Overview
 
-Bielefeld's economic base has historically included textiles and mechanical engineering
-but has diversified significantly into food processing, IT, healthcare, and business
-services. The region is notable for a concentration of family-owned mid-market manufacturing
-enterprises (*Mittelstand*) in categories including machine tools, furniture (Gütersloh is
-a notable furniture manufacturing cluster), and consumer goods.
+According to Wikipedia (accessed 2026-07-10), Bielefeld had 331,605 residents in 2024 (urban
+area 591,862) across 258.83 square kilometres, situated in North Rhine-Westphalia's
+Ostwestfalen-Lippe region, north of the Teutoburg Forest in the Ravensberg Basin, the 18th
+largest city in Germany. Major employers include internationally-operating firms: Dr. Oetker
+(food manufacturing), DMG Mori (machinery), Möller Group (leather and plastics), and Schüco;
+the Bethel Foundation employs 17,000 workers in social welfare services. Once known as the
+"city of linen," Bielefeld developed mechanized spinning mills starting in 1851, with
+industrial growth accelerating between 1904 and 1930 through rail connections. Bielefeld
+University (founded 1969) and technical colleges serve the region; the photography school at
+Bielefeld University of Applied Sciences has international recognition. A 1973 municipal
+merger expanded the city from 48 to 259 square kilometres and from 167,000 to 320,000
+residents.
 
-The Bethel Foundation (v. Bodelschwinghsche Stiftungen Bethel), one of the largest
-diaconal social welfare institutions in Europe, is headquartered in the Gadderbaum district
-of Bielefeld and operates hospitals, residential care facilities, and social services
-employing approximately 20,000 people across the region. Bethel's scale makes healthcare
-and social services the dominant institutional employer. The Evangelisches Klinikum Bethel
-(EvKB) is the primary acute care hospital for Bielefeld.
+## Regional Market Standing
 
-The University of Bielefeld, with approximately 25,000 students and a focus on social
-sciences, natural sciences, and interdisciplinary research, anchors an academic knowledge
-services demand layer. Bielefeld's information technology sector has grown, particularly
-in enterprise software, and the city hosts the Technopark Bielefeld business park as a
-designated technology cluster.
+Bielefeld does not appear as a ranked entry in the [[atlas-top-400-europe|Top 400 Regional
+Markets — Europe]] list. This is not a data defect: in the current build, Bielefeld is the
+metro-core reference point for six other suburban entries (Paderborn, Lippstadt, Belm, Bad
+Oeynhausen, Osnabrück, Gütersloh), consistent with
+[[about-regional-markets-system|the co-location scoring system's]] own taxonomy excluding
+metro cores from the suburban-regional ranked pool.
 
-## Commercial real estate characteristics
+## See Also
 
-Bielefeld's primary Fachmarktzentrum infrastructure is located in the commercial zones at
-the city's periphery, particularly along the Gütersloher Straße in the south and in the
-Heepen commercial zone to the east. Obi, Hornbach, Kaufland, and Mediamarkt format retailers
-anchor these peripheral commercial zones consistent with the German large-format retail pattern.
+- [[about-regional-markets-system|Regional Markets Intelligence System]]
+- [[atlas-germany|Germany Regional Market Index]]
+- [[co-location-methodology|Co-location Methodology]]
 
-The city centre (Innenstadt) is the primary traditional retail and professional services
-concentration, anchored by the pedestrianised Alte Markt and Niedernstraße shopping zone
-and the Loom shopping centre (opened 2020), which partially replaced the prior Seidensticker
-Haus. Legal, financial, and insurance professional services maintain significant downtown
-presence in Bielefeld consistent with the city's role as the Ostwestfalen-Lippe regional
-commercial capital.
+## References
 
-## Regional function
+- [Bielefeld](https://en.wikipedia.org/wiki/Bielefeld) — Wikipedia, accessed 2026-07-10
 
-Bielefeld's role as the regional capital for Ostwestfalen-Lippe means its commercial
-fundamentals benefit from a catchment of approximately 1.8 million people — substantially
-larger than the city's standalone population would indicate. Administrative, legal, medical,
-and financial services that cannot be obtained in smaller Ostwestfalen-Lippe towns
-concentrate in Bielefeld.
-
-## Key indicators
-
-| Indicator | Value | Notes |
-|---|---|---|
-| City population (2021) | ~341,000 | City of Bielefeld |
-| Ostwestfalen-Lippe regional catchment | ~1.8 million | Regional capital function |
-| Primary Fachmarktzentrum zones | Gütersloher Straße (south); Heepen (east) | OBI, Hornbach, Kaufland anchors |
-| Major institutional anchors | Bethel Foundation / EvKB hospital cluster; University of Bielefeld | Bethel as the dominant employer anchor |
-| Autobahn access | A2 (Hamburg–Dortmund–Hanover); A33 (south toward Paderborn) | Eastern NRW hub |
-
-## See also
-
-- [[atlas-germany]] — Germany regional market index
-- [[atlas-top-600-europe]] — the European master market index
-- [[about-regional-markets]] — the co-location framework and market selection criteria
+*Wikipedia content reproduced under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*

@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-slug: us-tx-plano.es
+slug: us-tx-plano
 aliases:
   - topic-rm-plano-tx.es
 title: "Plano, Texas — Mercado Regional"
@@ -79,7 +79,6 @@ Plano ocupa el primer lugar entre los 400 Mercados Regionales de América del No
 ## Véase también
 
 - [[about-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]]
-- [[about-regional-market-matrix|Matriz de Mercado Regional]]
 - [[atlas-top-400-north-america|Top 400 Mercados Regionales — América del Norte]]
 - [[co-location-methodology|Metodología de Co-ubicación]]
 - [[co-location-ranking-system|Sistema de Clasificación de Co-ubicación]]

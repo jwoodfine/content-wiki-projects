@@ -21,7 +21,7 @@ editor: pointsav-engineering
      app-mediakit-knowledge/src/server.rs. -->
 
 La [[co-location-strategy|estrategia de co-localización]] de MCorp posiciona bienes raíces
-profesionales junto a anclas minoristas nacionales establecidas en [[about-regional-markets|mercados
+profesionales junto a anclas minoristas nacionales establecidas en [[about-regional-markets-system|mercados
 regionales]] de América del Norte y Europa. La estrategia identifica sitios por la convergencia
 de capital minorista independiente — la misma señal de demanda objetiva que utilizan los clubes
 de almacén, las ferreterías de gran superficie y los minoristas de mercancía general en sus

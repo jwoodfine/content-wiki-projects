@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Mercado regional de Madison"
 slug: us-wi-madison
+language: es
+language_protocol: TRANSLATE-ES
 category: markets
 type: topic
 content_type: topic
@@ -9,76 +11,48 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-language_protocol: TRANSLATE-ES
-keynote: false
-last_edited: 2026-06-29
-editor: woodfine-editorial
-short_description: "Capital del estado de Wisconsin y ciudad universitaria con altos ingresos, fuerte empleo institucional y una base comercial suburbana bien desarrollada."
+short_description: "Capital y segunda ciudad más grande de Wisconsin, a 77 millas de Milwaukee — fuera del conjunto clasificado Top-400 actual."
 paired_with: markets/us-wi-madison.md
+last_edited: 2026-07-10
+editor: editorial
 ---
 
-El **mercado regional de Madison** comprende la ciudad de Madison y las comunidades
-circundantes del condado de Dane en el centro-sur de Wisconsin. El Área Estadística
-Metropolitana de Madison — condado de Dane — tenía una población de aproximadamente
-680.000 habitantes en 2021, lo que la convierte en la segunda área metropolitana más
-grande de Wisconsin después de Milwaukee. Madison combina dos anclas institucionales
-inusualmente poderosas — la Universidad de Wisconsin–Madison y el gobierno del estado
-de Wisconsin — con una industria de investigación biomédica, un sector tecnológico y un
-mercado de servicios profesionales que le dan a la ciudad uno de los ingresos familiares
-medianos más altos de cualquier área metropolitana de tamaño medio en el Medio Oeste.
+Madison no aparece actualmente en la lista Top-400 de Mercados Regionales de América del
+Norte — a 77 millas de Milwaukee se sitúa fuera del límite exterior de 80 km de la banda
+suburbano-regional que utiliza la clasificación, aunque por poco margen.
 
-## Perfil económico
+## Descripción general
 
-La Universidad de Wisconsin–Madison es una de las principales universidades de investigación
-de EE. UU., con más de 8.000 profesores y personal y aproximadamente 47.000 estudiantes.
-La empresa de investigación universitaria — particularmente en ciencias biomédicas, ingeniería
-y agricultura — ha generado un sustancial grupo de ciencias de la vida y tecnología en el
-área metropolitana de Madison. UW Health, la red médica académica afiliada a la universidad,
-es el sistema de salud dominante en la región y opera el único centro de trauma de nivel I
-entre Milwaukee y las Ciudades Gemelas.
+Según Wikipedia (consultado el 10 de julio de 2026), Madison tenía 269.840 habitantes en el
+censo de 2020 (una estimación de 285.300 para 2024, y la ciudad de más rápido crecimiento de
+Wisconsin a fecha de 2024) en aproximadamente 79,57 millas cuadradas de superficie terrestre,
+la segunda ciudad más poblada de Wisconsin, situada a 77 millas al oeste de Milwaukee y 122
+millas al noroeste de Chicago, en un istmo entre el lago Mendota y el lago Monona. La
+Universidad de Wisconsin-Madison, UW Health y el gobierno estatal de Wisconsin son los
+principales empleadores; Epic Systems, con sede en la cercana localidad de Verona, representa
+el mayor empleador del sector privado. La economía enfatiza el gobierno, la educación, la
+tecnología de la información y la salud, complementada por la agroindustria y la manufactura
+de precisión. Capital Square sirve como distrito comercial central, con State Street
+conectando el campus universitario con el centro a través de un corredor de bares y teatros.
+A fecha de 2020, el 58,5% de los residentes contaba con título universitario o superior, con
+un ingreso familiar medio de 67.565 dólares.
 
-El empleo del gobierno del estado de Wisconsin añade una gran y estable fuerza laboral del
-sector público concentrada en el centro de Madison. Exact Sciences, Epic Systems (con sede
-en Verona, cercana) y un grupo de empresas de informática en salud han convertido a Madison
-en un centro reconocido de tecnología sanitaria.
+## Posición en el Mercado Regional
 
-## Características del mercado inmobiliario comercial
-
-La geografía comercial de Madison está determinada por su ubicación en un istmo entre el
-lago Mendota y el lago Monona. El principal desarrollo comercial suburbano se ha producido
-al oeste y al este del istmo.
-
-El lado oeste de Madison — particularmente a lo largo del corredor de Gammon Road y el
-West Towne Mall — alberga la concentración primaria de [[power-centres|power centres]], incluyendo Costco,
-Home Depot, Target y Walmart en el cinturón de circunvalación (Autopista US 12/18). El
-East Towne Mall y el corredor de East Washington Avenue sirven a la zona de captación
-residencial oriental.
-
-El mercado comercial del centro de Madison funciona como un centro de alto alquiler para
-servicios profesionales y comercio minorista, anclado por el Capitol Square y el corredor
-de State Street. El desarrollo de oficinas suburbanas se concentra en el área del West
-Towne y a lo largo de University Avenue, así como en las comunidades de Fitchburg y
-Middleton al oeste.
-
-## Atracción regional
-
-Madison sirve como el centro de servicios profesionales para el centro-sur de Wisconsin y
-atrae derivaciones médicas de comunidades en toda Wisconsin. La ausencia de servicios
-médicos especializados comparables entre Madison y Milwaukee (130 km al este) convierte
-a UW Health en el centro de derivación de facto para un extenso territorio.
-
-## Indicadores clave
-
-| Indicador | Valor | Notas |
-|---|---|---|
-| Población del AEM (2021) | ~680.000 | AEM del condado de Dane |
-| Crecimiento poblacional 2016–2021 | ~8% | Sólido crecimiento para una metrópolis del Medio Oeste |
-| Corredor primario de power centre | Cinturón oeste (US-12/18); Gammon Road / West Towne | Anclas Costco, Home Depot, Target, Walmart |
-| Principales anclas institucionales | Universidad de Wisconsin–Madison; Estado de Wisconsin; UW Health | Doble ancla institucional |
-| Acceso a autopistas | I-90 (este hacia Milwaukee/Chicago; oeste hacia Minnesota); I-39 (norte); I-94 (noroeste) | Convergencia de autopistas regional |
+Madison no aparece actualmente en la lista [[atlas-top-400-north-america|Top 400 Mercados
+Regionales — América del Norte]]. Esto no es un defecto de datos; a 77 millas (124 km) de
+Milwaukee, queda fuera del límite exterior de 80 km de la banda suburbano-regional de
+[[about-regional-markets-system|el sistema de puntuación de co-ubicación]], clasificándola
+como independiente-secundaria.
 
 ## Véase también
 
-- [[atlas-united-states]] — índice de mercados regionales de EE. UU. y cobertura de regiones censales
-- [[atlas-top-600-north-america]] — el índice maestro de mercados norteamericanos
-- [[about-regional-markets]] — el marco de co-ubicación y los criterios de selección de mercados
+- [[about-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]]
+- [[atlas-united-states|Índice de Mercados Regionales de Estados Unidos]]
+- [[co-location-methodology|Metodología de Co-ubicación]]
+
+## Referencias
+
+- [Madison, Wisconsin](https://en.wikipedia.org/wiki/Madison,_Wisconsin) — Wikipedia, consultado 2026-07-10
+
+*Contenido de Wikipedia reproducido bajo [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*

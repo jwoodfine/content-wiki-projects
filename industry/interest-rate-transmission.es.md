@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-06-29
+last_edited: 2026-07-31
 editor: woodfine-editorial
 paired_with: industry/interest-rate-transmission.md
 ---
@@ -58,6 +58,10 @@ y ION estable, un aumento en la tasa de interés de la deuda en refinanciamiento
 obligación anual de servicio de deuda y reduce la RCSD. Si el aumento de tasa es
 suficientemente grande, la RCSD puede caer por debajo del mínimo del convenio.
 
+La deuda de tasa variable amplifica esta exposición: la obligación de servicio de deuda se ajusta en cada periodo en que cambia la tasa de referencia, reduciendo de inmediato el ingreso distribuible disponible para los tenedores de capital. La deuda de tasa fija aísla al prestatario de los movimientos de tasas durante el plazo, pero se reajusta al vencimiento; un refinanciamiento en un entorno de tasas más altas al vencimiento puede producir un salto súbito en el servicio de deuda que no era visible durante el plazo de tasa fija.
+
+La interacción entre ambos canales es asimétrica en las recesiones: el aumento de las tasas reduce simultáneamente los valores de los activos (Canal 1) y aumenta los costos del servicio de deuda (Canal 2), comprimiendo el capital propio desde ambos frentes. La razón préstamo-valor empeora a medida que cae el valor; la RCSD empeora a medida que sube el servicio de deuda. Ambos deterioros pueden desencadenar la acción del prestamista simultáneamente.
+
 ## Canal 3 — Factibilidad de desarrollo
 
 El nuevo desarrollo es viable solo cuando el valor del edificio terminado supera el costo
@@ -65,6 +69,10 @@ total de terreno, construcción, financiamiento y utilidad del desarrollador. La
 interés afectan tanto al denominador de la ecuación de valor (la expansión de la tasa de
 capitalización reduce el valor implícito) como al numerador de la ecuación de costo (el mayor
 costo de financiamiento aumenta el costo total durante la construcción).
+
+Un aumento de 100 puntos básicos tanto en las tasas de financiamiento de construcción como en la tasa de capitalización terminal tiene un efecto compuesto sobre los márgenes de desarrollo: el valor del activo terminado cae mientras el costo de producirlo aumenta. Los proyectos que eran viables a un nivel de tasas dado pueden dejar de serlo tras un aumento sostenido de tasas, reduciendo la nueva oferta y, en última instancia, sosteniendo las tasas de ocupación en el inventario existente.
+
+La restricción de oferta creada por la menor factibilidad de desarrollo es una compensación estructural a la presión de valoración que los aumentos de tasas generan en los activos existentes: se entregan menos edificios nuevos, reduciendo la competencia de oferta que enfrentan los activos estabilizados y sosteniendo sus niveles de renta de largo plazo.
 
 ## Canal 4 — Tasa de descuento en flujos de efectivo descontados
 
@@ -81,6 +89,8 @@ oficinas — proporcionan estabilidad de ingresos durante los ciclos de tasas, p
 el ajuste ascendente de rentas hasta las fechas de renovación del contrato. Los contratos
 de retail e industrial a corto plazo se ajustan más rápidamente a las condiciones cambiantes
 del mercado.
+
+Los activos con altas proporciones de deuda a tasa fija están aislados del Canal 2 durante el período fijo, pero enfrentan una exposición abrupta ("cliff exposure") al vencimiento. Los activos con plazos de arrendamiento remanentes cortos enfrentan la sensibilidad del Canal 1 (expansión de la tasa de capitalización) agravada por el riesgo de renovación si las vacantes aumentan durante una desaceleración de la demanda de ocupantes inducida por las tasas.
 
 ## Consulte también
 

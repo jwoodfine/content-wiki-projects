@@ -46,6 +46,11 @@ PO-1 is the methodology demonstration that anchors the entire Key Plans system. 
 
 **Occupancy:** 1 workstation per 30 m² (325 SF); assembly occupancy load 6 persons per 5 m² (54 SF per person) — used for IBC egress calculations, not actual daily occupancy.
 
+**Correction (2026-08-02):** self-contradictory — 5 m² ≈ 54 SF, so "54 SF per person"
+implies 1 person per 5 m², not the "6 persons" stated in the same clause (which would
+be ~9 SF/person). Both readings can't be true simultaneously. **Flagged, not
+resolved.**
+
 ## PO-2 (Medium)
 
 PO-2 adds a second desk and chair and a second credenza to PO-1. The single 3-person round table, filing cabinet, bookshelf, and coat rack remain at quantity one.

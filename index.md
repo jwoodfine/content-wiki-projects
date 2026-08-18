@@ -19,7 +19,7 @@ editor: pointsav-engineering
      app-mediakit-knowledge/src/server.rs. -->
 
 MCorp's [[co-location-strategy|co-location strategy]] positions professional real estate
-adjacent to established national retail anchors in [[about-regional-markets|regional markets]] across
+adjacent to established national retail anchors in [[about-regional-markets-system|regional markets]] across
 North America and Europe. The strategy identifies sites by the convergence of independent
 retail capital — the same objective demand signal used by warehouse clubs, home-improvement
 superstores, and general merchandise chains in their own site-selection processes.

@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Co-location Index: Italy"
+title: "Co-location index: Italy"
 slug: atlas-co-location-index-italy
 category: markets
 type: topic
@@ -10,7 +10,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-25
+last_edited: 2026-07-11
 editor: pointsav-engineering
 short_description: "Ranked index of institutional-grade co-location nodes in Italy, centered on IKEA anchor locations with secondary convergence from Leroy Merlin and Makro."
 paired_with: markets/atlas-co-location-index-italy.es.md
@@ -45,4 +45,4 @@ A Tier 4+ rating indicates a node where primary anchor presence is supported by 
 
 ---
 
-*Copyright © 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).*
+*Copyright © 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nd/4.0/).*

@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Location Intelligence Co-location Archetypes"
+title: "Location intelligence co-location archetypes"
 slug: location-intelligence-archetypes
 category: site-selection
 type: topic
@@ -10,7 +10,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-06-15
+last_edited: 2026-07-11
 editor: pointsav-engineering
 short_description: "Three co-location archetypes — Retail Centres (PRO), Urban Fringe (VWH), and Commuter (PKS) — identifying distinct commercial clustering patterns across 17 countries in North America and Europe."
 paired_with: site-selection/location-intelligence-archetypes.es.md

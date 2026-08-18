@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "New Urbanism"
+title: "New urbanism"
 slug: new-urbanism
 category: architecture
 type: topic
@@ -10,7 +10,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-06-27
+last_edited: 2026-07-11
 editor: pointsav-engineering
 short_description: "A design movement that reintroduces mixed-use, transit-connected, pedestrian-scaled neighbourhoods as an alternative to automobile-dependent suburban development — the planning framework that formalizes many of the land-use conditions that support co-location."
 paired_with: new-urbanism.es.md
@@ -20,7 +20,7 @@ tags:
   - batch:2
 source_refs:
   - 48584a76d95b04ba7549adb4b21252684b7bd2b45215116028884798d8da3b3d
-thesis_alignment: "New Urbanism's planning grammar — compact nodes, transit adjacency, mixed-use floor plates — is the formal architectural doctrine closest to the co-location conditions WMC identifies as highest value in secondary market site evaluation."
+thesis_alignment: "New Urbanism's planning grammar — compact nodes, transit adjacency, mixed-use floor plates — is the formal architectural doctrine closest to the co-location conditions Woodfine identifies as highest value in secondary market site evaluation."
 keynote: true
 keynote_section: "Architecture"
 ---
@@ -71,4 +71,4 @@ Co-location site evaluators should treat formal New Urbanist designations as one
 
 ---
 
-*cites: [[co-location-strategy]], [[about-regional-markets]], [[commuter|commuter-archetype]]*
+*cites: [[co-location-strategy]], [[about-regional-markets-system]], [[commuter|commuter-archetype]]*

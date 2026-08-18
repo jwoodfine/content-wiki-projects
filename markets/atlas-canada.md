@@ -1,17 +1,18 @@
 ---
 schema: foundry-doc-v1
-title: "Canada — Regional Market Index"
+title: "Canada — Regional Market index"
 slug: atlas-canada
 category: markets
 type: topic
+index_group: north-america-regional-markets
 content_type: topic
-quality: stub
+quality: complete
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 keynote: false
-last_edited: 2026-06-29
+last_edited: 2026-07-16
 editor: woodfine-editorial
 short_description: "Ranked index of Canadian regional commercial real estate markets meeting co-location screening thresholds."
 paired_with: markets/atlas-canada.es.md
@@ -19,7 +20,7 @@ paired_with: markets/atlas-canada.es.md
 
 The **Canada regional market index** ranks Canadian cities and metropolitan areas that meet
 the population, disposable income, and retail infrastructure thresholds established by the
-[[about-regional-markets|co-location regional market framework]]. Canada offers a substantial and
+[[about-regional-markets-system|co-location regional market framework]]. Canada offers a substantial and
 geographically distributed set of qualifying regional markets: the country's population
 distribution produces numerous centres of 50,000 to 500,000 outside the primary Toronto,
 Vancouver, and Montreal metropolitan areas, many with high household disposable income and
@@ -62,21 +63,53 @@ Laurentides–Lanaudière outside the Montreal metro.
 **Atlantic provinces** — [[ca-nb-moncton|Moncton]], Fredericton, Charlottetown, and Sidney/Cape Breton as
 primary qualifying markets; others assessed individually.
 
-## Sample markets
+**Correction (2026-08-02):** the real community in Cape Breton, Nova Scotia is
+spelled **Sydney**, not "Sidney" — "Sidney" names a different, unrelated real place
+(Sidney, BC, near Victoria on Vancouver Island). **Flagged, not resolved.**
 
-The following markets represent the geographic range of Canadian qualifying markets.
-Individual market articles provide ranked scores, power centre inventories, and professional
-tenant demand analysis.
+**Correction (2026-07-16):** none of Barrie–Innisfil, Kelowna, Lethbridge, Moncton, or Regina
+— all previously listed above as "primary qualifying markets" or in the removed Sample
+markets table below — actually appear among Canada's 23 verified entries in the
+[[atlas-top-400-north-america|Top 400 Regional Markets — North America]] list. This doesn't
+mean these places aren't real Canadian markets with their own individual profile articles;
+it means they are not currently ranked in the TOP400 co-location screen specifically. The
+Provincial coverage prose above is left as a qualitative regional description rather than
+rewritten, but should not be read as implying these five named markets are TOP400 entries.
 
-| Market | Province | Population range | Notes |
-|---|---|---|---|
-| [[ca-on-barrie-innisfil|Barrie–Innisfil]] | Ontario | 220,000–260,000 | Major Costco + Home Depot anchors; rapid growth |
-| [[ca-bc-kelowna|Kelowna]] | British Columbia | 230,000–260,000 | Okanagan income leader; established power centres |
-| Lethbridge | Alberta | 110,000–130,000 | Strong income; single primary power centre |
-| Moncton | New Brunswick | 170,000–200,000 | Atlantic commercial hub; francophone/anglophone dual market |
-| Regina | Saskatchewan | 250,000–280,000 | Prairie capital; provincial demand anchor |
+## Ranked markets
+
+This table is a filtered, Canada-specific view of the continental
+[[atlas-top-400-north-america|Top 400 Regional Markets — North America]] table — not a
+separate dataset — so every rank, score, and tier count matches the continental table
+exactly and updates automatically if that table is corrected.
+
+| Rank | Market | Suburb of | km | T1 | T2 | T3 | Civic | Score |
+|---|---|---|---|---|---|---|---|---|
+| 4 | [[ca-on-mississauga|Mississauga, ON]] | Toronto | 25 | 2 | 1 | 2 | Yes | 18.0 |
+| 9 | Brampton | Toronto | 30 | 1 | 3 | 0 | Yes | 15.0 |
+| 11 | Surrey | Vancouver | 26 | 1 | 2 | 1 | Yes | 13.5 |
+| 12 | Vaughan, Ontario | Toronto | 22 | 1 | 2 | 1 | Yes | 13.5 |
+| 18 | Waterloo, ON | Kitchener | 23 | 1 | 2 | 0 | Yes | 12.0 |
+| 36 | Markham | Toronto | — | 1 | 0 | 2 | — | 9.0 |
+| 63 | Laval | Montreal | — | 1 | 1 | 0 | — | 9.0 |
+| 64 | Abbotsford, BC | Vancouver | — | 1 | 1 | 0 | — | 9.0 |
+| 99 | Newmarket, ON | Toronto | — | 1 | 0 | 1 | — | 7.5 |
+| 299 | Coquitlam, BC | Vancouver | — | 1 | 0 | 0 | — | 6.0 |
+| 300 | Pointe-Claire | Montreal | — | 1 | 0 | 0 | — | 6.0 |
+| 301 | Bellefeuille, Quebec | Montreal | — | 1 | 0 | 0 | — | 6.0 |
+| 302 | Ajax, ON | Toronto | — | 1 | 0 | 0 | — | 6.0 |
+| 303 | Port Coquitlam, BC | Vancouver | — | 1 | 0 | 0 | — | 6.0 |
+| 327 | Chatham-Kent, ON | Detroit | — | 0 | 2 | 0 | — | 6.0 |
+| 328 | Guelph, Ontario | Kitchener | — | 0 | 2 | 0 | — | 6.0 |
+| 365 | Richmond Hill, Ontario | Toronto | — | 0 | 1 | 1 | — | 4.5 |
+| 366 | Oshawa, ON | Toronto | — | 0 | 1 | 1 | — | 4.5 |
+| 367 | Langley District Municipality | Vancouver | — | 1 | 0 | 0 | — | 4.2 |
+| 397 | Boisbriand, QC | Montreal | — | 1 | 0 | 0 | — | 4.0 |
+| 398 | Nanaimo, BC | Vancouver | — | 1 | 0 | 0 | — | 4.0 |
+| 399 | Vaudreuil-Dorion, QC | Montreal | — | 1 | 0 | 0 | — | 4.0 |
+| 400 | Okotoks | Calgary | — | 1 | 0 | 0 | — | 4.0 |
 
 ## See also
 
-- [[atlas-top-600-north-america]] — the North American master index
-- [[about-regional-markets]] — the co-location methodology and market selection criteria
+- [[atlas-top-400-north-america]] — the full North American ranked list this page filters
+- [[about-regional-markets-system]] — the co-location methodology and market selection criteria

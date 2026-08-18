@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Co-location Cluster Formation"
+title: "Co-location cluster formation"
 slug: co-location-cluster-formation
 category: site-selection
 type: topic
@@ -11,7 +11,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 short_description: "The pipeline step that converts each qualifying anchor store into a candidate co-location cluster; overlapping candidates from a single trade area are resolved by deduplication before ranking inputs are aggregated."
-last_edited: 2026-06-17
+last_edited: 2026-07-11
 editor: pointsav-engineering
 paired_with: site-selection/co-location-cluster-formation.es.md
 ---

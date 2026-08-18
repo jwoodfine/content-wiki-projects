@@ -6,20 +6,29 @@ category: markets
 type: topic
 content_type: topic
 quality: pre-build
-status: active
+status: superseded
+superseded_by: about-regional-markets-system
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-keynote: true
-keynote_section: "Co-Location Methodology"
-last_edited: 2026-06-26
-editor: pointsav-engineering
-short_description: "The geographic focus of Woodfine direct-hold deployments: cities and metropolitan areas with populations between 50,000 and 300,000 characterized by high disposable income and underserved commercial real estate."
+keynote: false
+last_edited: 2026-07-10
+editor: editorial
+short_description: "SUPERSEDED (2026-07-10) — see about-regional-markets-system for the current framework. Prior definition described a narrower, standalone-city investment matrix (50k-300k population, explicitly not metro suburbs), pre-dating the 18-country suburban co-location system now in use."
 paired_with: markets/about-regional-markets.es.md
 cites:
   - ni-51-102
   - osc-sn-51-721
 ---
+
+> **Superseded 2026-07-10.** This article describes an earlier "8 target market" direct-hold
+> investment matrix that predates and conflicts with the co-location scoring system now in
+> use — see [[about-regional-markets-system|Regional Markets Intelligence System]] for the
+> current framework. In particular, this article's core definition (a Regional Market as a
+> **standalone city, not a metro suburb**) is the opposite of the current system's definition
+> (a Regional Market as a **suburban settlement 15–80 km from a major metro core**). Retained
+> per the never-delete convention; kept for historical reference only. Confirmed superseded by
+> operator, 2026-07-10.
 
 Regional markets are the primary geographic focus for Woodfine direct-hold deployments. These are cities and metropolitan areas with populations typically between 50,000 and 300,000, located outside the major-metro central business districts that characterize legacy office markets. Regional markets share several structural characteristics that make them suitable for [[co-location-strategy|co-location]] deployments: high household disposable income relative to local real estate costs, drive-based mobility patterns, underserved commercial real estate supply, and established national retail investment.
 

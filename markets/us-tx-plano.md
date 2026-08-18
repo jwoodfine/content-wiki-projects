@@ -77,7 +77,6 @@ Plano ranks first among the 400 North American Regional Markets because three Ti
 ## See Also
 
 - [[about-regional-markets-system|Regional Markets Intelligence System]]
-- [[about-regional-market-matrix|Regional Market Matrix]]
 - [[atlas-top-400-north-america|Top 400 Regional Markets — North America]]
 - [[co-location-methodology|Co-location Methodology]]
 - [[co-location-ranking-system|Co-location Ranking System]]

@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Neoclassical Architecture"
+title: "Neoclassical architecture"
 slug: neoclassical-architecture
 category: architecture
 type: topic
@@ -10,7 +10,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-06-30
+last_edited: 2026-07-11
 editor: pointsav-engineering
 short_description: "Architectural movement of the 18th and early 19th centuries reviving Greek and Roman forms, defining the founding-era banks and civic buildings of secondary market downtowns."
 paired_with: neoclassical-architecture.es.md
@@ -20,7 +20,7 @@ tags:
   - batch:2
 source_refs:
   - 11110332f8d9362135017474632d278bc92f1225aadcaae157bd507fd1e8b0a9
-thesis_alignment: "Neoclassical bank buildings, custom houses, and court houses are the oldest purpose-built commercial institutions in most North American secondary markets; their near-universal heritage designation anchors the identity and tenancy of the founding commercial core, establishing the node character that WMC identifies as a predictor of sustained professional-service demand in mature secondary markets."
+thesis_alignment: "Neoclassical bank buildings, custom houses, and court houses are the oldest purpose-built commercial institutions in most North American secondary markets; their near-universal heritage designation anchors the identity and tenancy of the founding commercial core, establishing the node character that Woodfine identifies as a predictor of sustained professional-service demand in mature secondary markets."
 keynote: false
 ---
 
@@ -28,7 +28,11 @@ Neoclassical architecture is the architectural style produced by the Neoclassica
 
 ## Archaeological revival and the Grand Tour
 
-The movement was enabled by the development of archaeology as a systematic discipline and by the publication of accurate records of surviving classical buildings. The excavations at Pompeii and Herculaneum (from 1748) brought intact examples of Roman domestic and civic architecture to European awareness. The Grand Tour — the standard educational journey of wealthy young English aristocrats through France and Italy — produced generations of patrons and architects who had seen classical ruins in person. The writings of the German art historian Johann Joachim Winckelmann, published in the 1750s and 1760s, provided an influential theoretical framework for understanding Greek art and architecture as superior in its simplicity and nobility to the Baroque decoration that had immediately preceded it.
+The movement was enabled by the development of archaeology as a systematic discipline and by the publication of accurate records of surviving classical buildings. The excavations at Pompeii and Herculaneum (from 1748) brought intact examples of Roman domestic and civic architecture to European awareness.
+
+**Correction (2026-08-02):** Herculaneum's excavations began in 1738, ten years
+before Pompeii's (1748) — dating both to 1748 elides a real gap between them.
+**Flagged, not resolved.** The Grand Tour — the standard educational journey of wealthy young English aristocrats through France and Italy — produced generations of patrons and architects who had seen classical ruins in person. The writings of the German art historian Johann Joachim Winckelmann, published in the 1750s and 1760s, provided an influential theoretical framework for understanding Greek art and architecture as superior in its simplicity and nobility to the Baroque decoration that had immediately preceded it.
 
 ## Formal vocabulary and composition
 

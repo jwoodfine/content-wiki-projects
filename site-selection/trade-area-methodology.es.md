@@ -10,7 +10,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-07-03
+last_edited: 2026-07-31
 editor: pointsav-engineering
 short_description: "Etiquetado honesto de la geografía de demanda — por qué las bandas de distancia rectilínea nunca se llaman áreas de captación, y el paso previsto a isócronas."
 paired_with: site-selection/trade-area-methodology.md
@@ -47,6 +47,26 @@ En lugar de modelar de dónde podrían venir los clientes, un polígono de O-D d
 
 La cobertura es desigual (EE. UU. y España hoy; Reino Unido, Francia y Alemania investigados como fuentes viables siguientes), por lo que el despliegue planeado es por país. Los clústeres sin cobertura de O-D mantienen la banda de distancia claramente etiquetada como medida provisional explícita.
 
+### Por qué ambos métodos son complementarios
+
+Las isócronas de tiempo de conducción responden a la pregunta "quién puede llegar a este sitio." Los polígonos de O-D observados responden "quién realmente compra o trabaja aquí." El mapa previsto expone la mejor representación disponible por clúster, con el modal de Metodología indicando qué modelo produjo el polígono en pantalla y sobre qué período de datos. Un polígono medido y un círculo dibujado nunca se combinan bajo una sola etiqueta.
+
+## La fórmula de radio anterior
+
+La banda de distancia utilizada en la versión inicial del producto se calculaba como:
+
+```
+radius_km = max(1.0, span_km / 2 × 1.15)
+```
+
+donde `span_km` es la extensión de las tiendas miembro dentro del clúster.
+
+Esto es un artefacto geométrico, no una cantidad de demanda. Describe qué tan dispersas están las tiendas y luego infla ese medio-alcance en un 15%. No aporta ninguna información sobre qué tan lejos viajan realmente los clientes. De ahí se derivan directamente dos modos de fallo: un clúster urbano denso obtiene un anillo pequeño porque sus tiendas están cerca entre sí, aunque su área de atracción real pueda ser grande; un clúster exurbano disperso obtiene un anillo grande porque sus tiendas están alejadas entre sí, no porque atraiga clientes de lejos.
+
+Ni el factor de inflación `1.15` ni el piso de `1.0 km` tienen una derivación publicada. Son constantes de ajuste que hacen que la imagen se vea razonable. Hasta que se adopten los límites de O-D observado o de tiempo de conducción, cualquier banda de distancia provisional divulga la fórmula y ambas constantes en el modal de Metodología, en lugar de aplicarlas en silencio.
+
+El estado final previsto elimina por completo la expresión `span_km / 2 × 1.15` de la canalización en vivo, reemplazándola por un límite cuyo parámetro es una cantidad que un experto en la materia puede evaluar por sus propios méritos — un tiempo de conducción declarado, un percentil declarado de demanda modelada, o un umbral de población declarado.
+
 ## Cálculo geodésico y la advertencia de Web Mercator
 
 El mapa se representa en Web Mercator (EPSG:3857). Web Mercator preserva la forma localmente pero distorsiona el área y la distancia en pantalla con la latitud. La metodología calcula distancias y áreas geodésicamente:
@@ -55,9 +75,13 @@ El mapa se representa en Web Mercator (EPSG:3857). Web Mercator preserva la form
 - La construcción de polígonos utiliza búferes geodésicos métricos — el búfer métrico de turf construye geometría en distancia real sobre el terreno y la proyecta a Web Mercator solo para su visualización.
 - Las cifras de área — área de captación, densidad por kilómetro cuadrado — se calculan sobre el polígono geodésico, no a partir de píxeles de pantalla.
 
+El modal de Metodología incluye la advertencia: *"Las distancias y áreas se calculan sobre el elipsoide; el mapa se dibuja en Web Mercator, que se estira con la latitud — una banda a 60°N cubre menos terreno que la misma banda dibujada a 25°N."*
+
 ## Marco espacial
 
-La población y el gasto se agregan en la cuadrícula hexagonal global H3 a resolución 7 (aproximadamente 5,16 km² por celda). La cuadrícula es mundial y consistente, lo que permite la comparación entre clústeres de los 13 países.
+La población y el gasto se agregan en la cuadrícula hexagonal global H3 a resolución 7 (aproximadamente 5,16 km² por celda, aproximadamente 2,11 km de centro a centro). La cuadrícula es mundial y consistente, lo que permite la comparación entre clústeres de los 13 países. Esta revisión no cambia la cuadrícula de agregación; cambia cómo se define el polígono de área de atracción sobre esa cuadrícula — por origen observado o tiempo de conducción donde los datos lo permiten, y por una banda de distancia claramente etiquetada y calculada geodésicamente donde aún no.
+
+Una sola celda H3 puede caer dentro de las áreas de atracción de varios clústeres. Esto es intencional: las áreas de atracción se superponen porque el panorama minorista es competitivo, y un hogar cercano a dos clústeres en competencia contribuye a ambos. Esto se cumple ya sea que el límite sea una banda de distancia, una isócrona o un polígono de O-D, y es la base de la comparación entre clústeres.
 
 ## Plan de migración (planeado)
 
@@ -67,6 +91,12 @@ La migración prevista desde los anillos de línea recta es por fases:
 2. **O-D observado donde existen datos.** Conexión de los datos de movilidad LODES y MITMA ya incorporados para que los clústeres de EE. UU. y España muestren un polígono de origen laboral observado.
 3. **Isócronas de tiempo de conducción.** Configuración de un motor de enrutamiento auto-alojado y oferta de una banda de tiempo de conducción fijo como la vista de área alcanzable predeterminada.
 4. **Calibración de decaimiento de distancia.** Ajuste de curvas de decaimiento a los flujos de O-D para establecer límites de percentil de demanda publicados.
+
+Cada fase reduce la brecha entre lo que el polígono afirma y lo que respaldan los datos.
+
+## Aplicación
+
+La pertenencia al área de atracción es la base para la agregación de población (WorldPop 2026), la agregación de gasto (multiplicadores per cápita modelados) y la clasificación competitiva entre clústeres. Las cifras atribuidas a un clúster son solo tan defendibles como el polígono sobre el que se suman — por lo que la definición del polígono, sus parámetros y el tratamiento de proyección se declaran aquí en lugar de darse por sentados en un círculo dibujado sobre un mapa.
 
 ## Véase también
 

@@ -6,19 +6,29 @@ category: markets
 type: reference
 content_type: topic
 quality: complete
-status: active
+status: superseded
+superseded_by: about-regional-markets-system
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-05-06
-editor: pointsav-engineering
-short_description: "Marco de selección geográfica que define qué mercados cubre la plataforma de inteligencia de co-ubicación, con criterios de selección estructurales y verificables."
+last_edited: 2026-07-10
+editor: editorial
+short_description: "SUSTITUIDO (2026-07-10) — véase about-regional-markets-system para el marco actual. La definición anterior describía la matriz de tenencia directa de 8 mercados objetivo de MCorp, previa al sistema actual de co-ubicación suburbana de 18 países."
 
 paired_with: markets/about-regional-market-matrix.md
 cites:
   - ni-51-102
   - osc-sn-51-721
 ---
+
+> **Sustituido el 2026-07-10.** Este artículo describe una matriz de inversión de tenencia
+> directa de "8 mercados objetivo de MCorp" anterior que precede y contradice el sistema de
+> puntuación de co-ubicación actualmente en uso — véase
+> [[about-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]] para el
+> marco actual (18 países, 4.436 Mercados Regionales, que sostiene las listas clasificadas
+> [[atlas-top-400-north-america|Top 400]]). Se conserva conforme a la convención de nunca
+> eliminar; se mantiene solo como referencia histórica. Sustitución confirmada por el
+> operador, 2026-07-10.
 
 La Matriz de Mercado Regional rechaza las previsiones económicas subjetivas — los mercados ingresan únicamente cuando la densidad de población, la disponibilidad de un vehículo de inversión inmobiliaria institucional y la densidad de [[co-location-anchors|anclas]] cumplen umbrales estructurales medibles hoy. Este marco define cuáles de los 8 mercados objetivo de MCorp evalúa actualmente la [[co-location-intelligence-overview|plataforma de inteligencia de co-ubicación]]; la puntuación dentro de cada mercado sigue la [[co-location-methodology|metodología de co-ubicación]] y el [[co-location-ranking-system|sistema de clasificación]].
 
@@ -55,4 +65,4 @@ La matriz actualmente cubre ocho mercados minoristas en América del Norte y Eur
 
 ---
 
-*Copyright © 2026 Woodfine Capital Projects Inc. Licenciado bajo [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).*
+*Copyright © 2026 Woodfine Capital Projects Inc. Licenciado bajo [Creative Commons Atribución-SinDerivadas 4.0 Internacional](https://creativecommons.org/licenses/by-nd/4.0/).*

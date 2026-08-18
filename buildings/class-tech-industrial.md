@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Tech Industrial Development Class"
+title: "Tech industrial development class"
 slug: class-tech-industrial
 category: buildings
 type: topic
@@ -10,14 +10,14 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-03
+last_edited: 2026-07-11
 editor: pointsav-engineering
 short_description: "Tech Industrial is a single-format industrial-retail building — 25% retail storefront, 75% shop floor with grade-level panel van access — serving last-mile logistics and workshop tenants within the co-location footprint."
 paired_with: buildings/class-tech-industrial.es.md
 cites: []
 ---
 
-Tech Industrial is one of the six [[about-development-classes|development classes]] in Woodfine Management Corp.'s direct-hold portfolio. It is a single-storey building format distinct from the office formats of [[class-professional-centres|Professional Centres]] and [[class-suburban-office|Suburban Office]] and from the retail format of [[class-retail-select|Retail Select]], combining a retail storefront with shop-floor industrial space.
+Tech Industrial is one of the six [[about-development-classes|development classes]] in MCorp's direct-hold portfolio. It is a single-storey building format distinct from the office formats of [[class-professional-centres|Professional Centres]] and [[class-suburban-office|Suburban Office]] and from the retail format of [[class-retail-select|Retail Select]], combining a retail storefront with shop-floor industrial space.
 
 ## The 25/75 configuration
 

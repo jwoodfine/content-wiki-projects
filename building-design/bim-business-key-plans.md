@@ -11,12 +11,19 @@ status: pre-build
 audience: operator
 bcsc_class: vendor-internal
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-17
+last_edited: 2026-07-15
 editor: pointsav-engineering
 paired_with: building-design/bim-business-key-plans.es.md
 ---
 
-Business Office (Professional Office — Business) is one of the five [[bim-professional-office-key-plans|Professional Office]] sub-types. Its distinguishing feature is Zone 2 Magazine at 7.3 m — the widest of any sub-type — driven by open storage walls, server rooms, print areas, and team collaboration zones characteristic of professional-services practices. The depth is computed using the [[bim-building-width-method|Building Width Calculator]] and feeds the [[bim-tile-system|Tile system]] that composes the [[bim-floor-plate-methodology|floor plate]].
+Business Office (Professional Office — Business) is one of the five [[bim-professional-office-key-plans|Professional Office]] sub-types. Its distinguishing feature is Zone 2 Magazine at 7.3 m — the widest of any sub-type
+
+**Correction (2026-08-02):** this article's own frontmatter `short_description`
+states 9.26 m for Zone 2 Magazine, conflicting with the 7.3 m used here in the body
+— 9.26 m is actually "Option A" from this article's own exploratory table further
+down (widest enumerated), not the V3 baseline the body/[[bim-key-plans-index]] use.
+7.3 m is the value consistent with the rest of this category. **Flagged, not
+resolved.** — driven by open storage walls, server rooms, print areas, and team collaboration zones characteristic of professional-services practices. The depth is computed using the [[bim-building-width-method|Building Width Calculator]] and feeds the [[bim-tile-system|Tile system]] that composes the [[bim-floor-plate-methodology|floor plate]].
 
 ## The three sizes
 
@@ -25,6 +32,11 @@ Business Office (Professional Office — Business) is one of the five [[bim-prof
 | Small | B-1 | 311 | 3,350 |
 | Medium | B-2 | 400 | 4,302 |
 | Large | B-3 | 669 | 7,524 |
+
+**Correction (2026-08-02):** 669 m² converts to ≈7,201 SF, not 7,524 SF — a ~323 SF
+(4.5%) discrepancy, larger than the ≤6 SF rounding noise on every other row in this
+table family. The same 669/7,524 pairing also appears in [[bim-key-plans-index]].
+**Flagged, not resolved.**
 
 ## Zone vocabulary
 
@@ -74,6 +86,14 @@ For sub-types with narrow Magazine (e.g., [[bim-private-office-key-plans|Private
 ## Spatial taxonomy anchor element
 
 Each Professional Office sub-type carries one anchor element at the façade end whose dimensions drive the Habitat depth. For Business, this is the Reception — the same grammatical role that the Clean Room plays in Laboratory, the Auditorium in Academic, the Court Room in Civic, and the exam room in [[bim-medical-key-plans|Medical]].
+
+## Furniture and fixture schedule
+
+Business carries a dedicated FFE (furniture, fixtures, and equipment) schedule in the Key Plan workbook — one of eight tenant-tier schedules, alongside Private Office, Medical, Labs, Academic, and Civic (see [[bim-shared-space-ffe-schedules]] for the parallel building-core set and the Availability per Tile coefficient that applies across all of them). The schedule is organized around six components: executive private offices, manager private offices, a shared Reception — the same anchor element described above — an open desk area for associate workstations, a conference room, and a staff room / storage room. Representative furniture carried against these components includes desks, filing cabinets, and Reception waiting seats; the source workbook itemizes these down to per-unit counts that scale across B-1/B-2/B-3, but that unit-level detail has not yet been extracted into this article — flagged here as an open item rather than approximated from the room list alone.
+
+Availability per Tile for Business runs 0.2 / 0.6 / 0.2 across Small / Medium / Large, the same band as Academic and Civic (see [[bim-shared-space-ffe-schedules]] for the full coefficient definition and how it compares against Medical/Labs and Private Office). [[key-plan-development-methodology|Key Plan development methodology]]'s zone-sizing stage walks through how a furniture inventory like this one converts into the Zone 1/Zone 2 depths tabulated above.
+
+This furniture set is distinct from [[bim-private-office-key-plans|Private Office]]'s single-office inventory (one desk and chair, one round table, one filing cabinet, one credenza, one bookshelf, one coat rack) and from [[bim-medical-key-plans|Medical]]'s exam-room-driven schedule anchored on the KaVo uniQa dental chair — Business is the only Professional Office sub-type whose schedule splits enclosed private offices from an open associate-desk area beneath a shared Reception and conference room.
 
 ## See also
 

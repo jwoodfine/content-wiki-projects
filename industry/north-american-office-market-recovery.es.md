@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-06-29
+last_edited: 2026-07-31
 editor: woodfine-editorial
 paired_with: industry/north-american-office-market-recovery.md
 ---
@@ -47,8 +47,34 @@ de propiedades comerciales de Green Street registró movimiento plano en diciemb
 La corrección también ha acelerado un cambio estructural en la demanda de configuración
 de espacios de oficina. La investigación de mercados canadienses documenta un aumento
 sostenido en la demanda de suites de inquilinos más pequeñas — espacios de menos de
-5,000 pies cuadrados. Las plantas de piso de 15,000 a 17,000 pies cuadrados son más
-adecuadas para la reconfiguración multiarrendatario.
+5,000 pies cuadrados — en contraste con los grandes bloques contiguos que dominaron la
+actividad de arrendamiento previa a 2015. El mercado de oficinas del centro de Calgary,
+donde la vacancia se elevó a aproximadamente 25% tras la caída del precio del petróleo en
+2014, documentó esta tendencia directamente: la demanda de inquilinos más pequeños crecía
+de manera notable, mientras que el espacio en grandes bloques (100,000 pies cuadrados o más
+disponibles como una sola unidad contigua) representaba el 26% del inventario disponible,
+con una absorción limitada.
+
+Las plantas de piso de 15,000 a 17,000 pies cuadrados — más pequeñas que las plantas de
+20,000 a 26,000 pies cuadrados que caracterizaron la construcción entre 2000 y 2015— son
+más adecuadas para la reconfiguración multiarrendatario y han mostrado mayor velocidad de
+arrendamiento en mercados donde predomina la demanda de inquilinos más pequeños.
+
+## Divergencia en la calidad de los activos
+
+La corrección ha acelerado la divergencia entre los niveles de calidad de los activos. Los
+edificios bien ubicados y bien equipados, con plantas de piso eficientes y credenciales
+ambientales sólidas, han mantenido una ocupación más alta y logrado tasas de renta más
+cercanas a los niveles previos a la corrección. Los edificios más antiguos y menos
+eficientes en ubicaciones secundarias — caracterizados como "activos varados" (stranded
+assets) en la investigación de Morgan Stanley — enfrentan un deterioro estructural y
+pueden requerir conversión o demolición para alcanzar un uso productivo.
+
+Esta divergencia de calidad refuerza la tesis de que el nuevo desarrollo diseñado en torno
+a los requisitos actuales de los inquilinos — plantas de piso más pequeñas y flexibles,
+densidad de co-inquilinos que sostiene las amenidades del edificio, centros de demanda
+profesional suburbanos en lugar de exposición al distrito central de negocios — se
+beneficia de este cambio en la demanda en lugar de verse perjudicado por él.
 
 ## Fuentes
 

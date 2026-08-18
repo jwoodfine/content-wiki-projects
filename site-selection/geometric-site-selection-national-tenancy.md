@@ -15,9 +15,9 @@ paired_with: site-selection/geometric-site-selection-national-tenancy.es.md
 
 > **Working Paper · Version 0.4.1 · 2026-05-29 · CC BY 4.0**
 > This manuscript is a working draft. It has not been peer reviewed. Findings are
-> preliminary and subject to revision without notice. Correspondence: jmwoodfine@gmail.com.
+> preliminary and subject to revision without notice. Correspondence: [institutional contact pending].
 >
-> *Cite as:* Woodfine, J.M. (2026). Retail Anchor Co-location Composition as a Spatial Leading Indicator of Commercial Activity: A Continental-Scale Cluster Analysis. Working Paper v0.4.1, 29 May 2026. MCorp, Vancouver, BC.
+> *Cite as:* Woodfine Research (2026). Retail Anchor Co-location Composition as a Spatial Leading Indicator of Commercial Activity: A Continental-Scale Cluster Analysis. Working Paper v0.4.1, 29 May 2026. MCorp, Vancouver, BC.
 
 > **Forward-Looking Statements**
 > Certain statements in this paper describe intended research directions, planned
@@ -33,7 +33,7 @@ paired_with: site-selection/geometric-site-selection-national-tenancy.es.md
 **MCorp**
 Vancouver, British Columbia, Canada
 
-*Corresponding author:* jmwoodfine@gmail.com
+*Corresponding author:* [institutional contact pending]
 
 *Keywords:* retail co-location, spatial clustering, agglomeration, economic geography
 
@@ -375,6 +375,11 @@ The following table reports Phase 22 actual counts (6,493 clusters, May 2026):
 | NO | 1 | 6 | 3 | 10 |
 | IS | 0 | 2 | 1 | 3 |
 | **Total** | **1,746** | **3,393** | **1,354** | **6,493** |
+
+**Correction (2026-08-02):** this table's own T1 total (1,746) is off by one from the
+figure used in the abstract, §4.2's table header, and §5.1's opening sentence
+(1,747/26.9%) — a genuine internal arithmetic inconsistency in a "descriptive
+results" table, not just a rounding artifact. **Flagged, not resolved.**
 
 #### Sherwood Park illustrative case
 

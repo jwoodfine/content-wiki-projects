@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Geometry of Sustainability"
+title: "Geometry of sustainability"
 slug: geometry-of-sustainability
 category: building-design
 type: topic
@@ -10,7 +10,7 @@ short_description: "Engineering discipline applying European lighting, Swiss air
 status: stable
 audience: customer-woodfine
 bcsc_class: current-fact
-last_edited: 2026-07-01
+last_edited: 2026-07-11
 editor: pointsav-engineering
 language_protocol: PROSE-TOPIC
 source_refs:
@@ -19,7 +19,17 @@ paired_with: building-design/geometry-of-sustainability.es.md
 cites: []
 ---
 
-The **Geometry of Sustainability** is Woodfine's approach to building environmental performance: engineering three regulatory standards — the European Lighting Directive, Swiss Air Exchange Requirements, and German Circulation Requirements — directly into the Fixed Floor Plate geometry of every Woodfine Building, rather than seeking certification compliance after design is complete. The practical consequence is that every building in the Woodfine portfolio achieves a documented 30% reduction in operating costs for Office Tenants relative to conventional office construction.
+The **Geometry of Sustainability** is Woodfine's approach to building environmental performance: engineering three regulatory standards — the European Lighting Directive, Swiss Air Exchange Requirements, and German Circulation Requirements — directly into the Fixed Floor Plate geometry of every Woodfine Building, rather than seeking certification compliance after design is complete.
+
+**Correction (2026-08-02):** this article's sibling articles
+([[bim-private-office-key-plans]], [[bim-zone-depths-per-use-type]]) call the same
+underlying rules the "European Lighting **Standard**" and "German Circulation
+**Law**," not "Directive"/"Requirements." This is more than naming drift — an EU
+Directive is transposed legislation, while a technical lighting norm like EN
+12464-1 (which [[bim-zone-depths-per-use-type]]'s own Future Research section
+speculates is the actual source) is a CEN Standard, a structurally different
+instrument type. Repeated in [[dual-mandate-building-certifications]]. **Flagged,
+not resolved.** The practical consequence is that every building in the Woodfine portfolio achieves a documented 30% reduction in operating costs for Office Tenants relative to conventional office construction.
 
 ## The Three Regulatory Standards
 

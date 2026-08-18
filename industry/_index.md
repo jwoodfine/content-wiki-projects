@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "The Commercial Real Estate Market"
+title: "Commercial Real Estate Market"
 slug: industry-index
 category: industry
 type: topic

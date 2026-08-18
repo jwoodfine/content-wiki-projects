@@ -17,7 +17,7 @@ paired_with: buildings/class-retail-select.md
 cites: []
 ---
 
-Retail Select es una de las seis [[about-development-classes|clases de desarrollo]] de la cartera de tenencia directa de Woodfine Management Corp. Es un tipo de edificio comercial-minorista de un solo piso posicionado dentro del mismo radio de proximidad de 1,0 kilómetro que [[class-professional-centres|Centros Profesionales]], sirviendo como el complemento minorista a nivel de calle de las clases de oficina de varios pisos de Woodfine.
+Retail Select es una de las seis [[about-development-classes|clases de desarrollo]] de la cartera de tenencia directa de MCorp. Es un tipo de edificio comercial-minorista de un solo piso posicionado dentro del mismo radio de proximidad de 1,0 kilómetro que [[class-professional-centres|Centros Profesionales]], sirviendo como el complemento minorista a nivel de calle de las clases de oficina de varios pisos de Woodfine.
 
 ## Qué es Retail Select
 

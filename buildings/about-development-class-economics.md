@@ -1,24 +1,24 @@
 ---
 schema: foundry-doc-v1
-title: "Development Class Economics"
+title: "Development class economics"
 slug: about-development-class-economics
 category: buildings
 type: topic
 content_type: topic
 quality: complete
-short_description: "The economic characteristics of WMC's direct-hold building classes: Professional Centres, Suburban Office, Tech Industrial, and Retail Select, with Parking Structures and Vertical Warehouses to follow."
+short_description: "The economic characteristics of Woodfine's direct-hold building classes: Professional Centres, Suburban Office, Tech Industrial, and Retail Select, with Parking Structures and Vertical Warehouses to follow."
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-06-29
+last_edited: 2026-07-11
 editor: woodfine-editorial
 paired_with: buildings/about-development-class-economics.es.md
 ---
 
 Commercial real estate investment analysis begins with the physical and economic
 characteristics of building classes, which determine the tenant base, lease structures,
-operating cost profiles, and financing parameters applicable to each asset type. WMC's
+operating cost profiles, and financing parameters applicable to each asset type. Woodfine's
 direct-hold programme applies a [[about-development-classes|six-class taxonomy]]: [[class-professional-centres|Professional Centres]], Suburban Office,
 Tech Industrial, and Retail Select — covered below with established economics — plus Parking
 Structures and Vertical Warehouses, two classes still under development whose economic

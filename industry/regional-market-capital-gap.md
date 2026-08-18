@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Regional Market Capital Gap"
+title: "Regional Market capital gap"
 slug: regional-market-capital-gap
 category: industry
 type: topic
@@ -10,7 +10,7 @@ short_description: "Structural shortfall in construction and take-out financing 
 status: stable
 audience: customer-woodfine
 bcsc_class: current-fact
-last_edited: 2026-07-01
+last_edited: 2026-07-11
 editor: pointsav-engineering
 language_protocol: PROSE-TOPIC
 source_refs:

@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Pamplona Regional Market"
 slug: es-nc-pamplona
+language: en
+language_protocol: PROSE-TOPIC
 category: markets
 type: topic
 content_type: topic
@@ -9,71 +11,45 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-language_protocol: PROSE-TOPIC
-keynote: false
-last_edited: 2026-06-29
-editor: woodfine-editorial
-short_description: "Capital of the Chartered Community of Navarre with one of Spain's highest regional household incomes and a diversified professional services and manufacturing base."
+short_description: "Navarre's regional capital, 117 km from Bilbao — outside the current Top-400 ranked pool."
 paired_with: markets/es-nc-pamplona.es.md
+last_edited: 2026-07-11
+editor: editorial
 ---
 
-The **Pamplona regional market** is the capital of the Chartered Community of Navarre
-(*Comunidad Foral de Navarra*), Spain's northernmost territory with a distinct fiscal
-autonomy (concierto económico) similar to the Basque Country's system. The Pamplona–Burlada–
-Barañáin urban agglomeration had a population of approximately 350,000 in 2021. Navarre is
-consistently one of the highest-income autonomous communities in Spain, with household
-income levels comparable to Basque Country and substantially above the Spanish national
-average. This income profile is the primary market selection criterion for [[co-location-strategy|co-location]]
-investment.
+Pamplona does not currently appear in the European Top-400 Regional Markets list. Its
+nearest major metro, Bilbao, sits 117 kilometres away, beyond the 80 km outer edge of the
+suburban-regional band the ranking uses.
 
-## Economic profile
+## Overview
 
-Navarre's economy combines manufacturing with agricultural processing, technology, and an
-above-average professional services sector driven by the regional government's fiscal
-autonomy. Volkswagen's Navarre plant in Landaben (Pamplona's industrial zone) is one of
-Spain's most productive automotive factories and is the region's largest manufacturing
-employer, with approximately 5,000 direct employees and a substantial supplier ecosystem.
+According to Wikipedia (accessed 2026-07-10), Pamplona had 209,676 municipal residents as of
+2025 (metropolitan area 319,208) across 25.14 square kilometres. It is situated in Navarre at
+approximately 450 metres elevation — 92 km from San Sebastián, 117 km from Bilbao, and 407
+km from Madrid. The city has transitioned from a small administrative centre to a
+medium-sized industrial hub. The most important activity is the automobile industry, anchored
+by a Volkswagen plant (producing Polo, T-Cross, and Taigo models) and auxiliary automotive
+suppliers, alongside building materials, metalworking, food processing, and renewable-energy
+technologies. Pamplona serves as the main commercial and services centre of Navarre, with the
+University of Navarre and its teaching hospital providing services nationwide. The city has
+one of the highest standards of living in Spain, though housing costs exceed the national
+average; foreign-born residents comprised 21.6 percent of the population as of 2024.
 
-The Navarran government's concierto económico fiscal system — whereby Navarre collects and
-administers its own taxes (remitting a negotiated quota to the central government) — creates
-a layer of regional government employment and associated professional services (tax advisory,
-accounting, public administration, and law) that is proportionally larger than in most
-Spanish provinces.
+## Regional Market Standing
 
-The University of Navarre (*Universidad de Navarra*), operated by Opus Dei and with a
-strong international reputation in medicine, business, and communications, is the primary
-private higher education institution and a significant employer. The Clínica Universidad de
-Navarra is the associated teaching hospital and private specialist clinic, drawing patients
-from across Spain and internationally for specialist oncology and cardiology. The Complejo
-Hospitalario de Navarra is the primary public hospital.
+Pamplona does not currently appear in the [[atlas-top-400-europe|Top 400 Regional Markets —
+Europe]] list. This is not a data defect; at 117 km from Bilbao, its nearest major metro,
+Pamplona falls outside [[about-regional-markets-system|the co-location scoring system's]]
+15–80 km suburban-regional band. This classifies it as standalone-secondary.
 
-## Commercial real estate characteristics
+## See Also
 
-Pamplona's primary large-format retail concentration is at the La Morea and Txantrea retail
-parks to the north of the city, with El Corte Inglés (in the city centre at Travesía de
-Bayona), Leroy Merlin, IKEA (in the metropolitan area), and MediaMarkt anchoring the
-Parque Comercial format. The retail park concentration and the IKEA presence are strong
-co-location signals in the Spanish market, as IKEA [[site-selection-terminology|site selection criteria]] align closely
-with the income and catchment size criteria applied to professional centre assessment.
+- [[about-regional-markets-system|Regional Markets Intelligence System]]
+- [[atlas-spain|Spain Regional Market Index]]
+- [[co-location-methodology|Co-location Methodology]]
 
-The historic Old Town (*Casco Viejo*) — famous internationally for the Running of the Bulls
-during the Fiestas de San Fermín — is a mixed commercial zone with traditional retail,
-restaurants, and professional services occupying the historic building stock. Modern office
-development is concentrated in the Sarriguren and Burlada professional zones outside the
-city centre.
+## References
 
-## Key indicators
+- [Pamplona](https://en.wikipedia.org/wiki/Pamplona) — Wikipedia, accessed 2026-07-10
 
-| Indicator | Value | Notes |
-|---|---|---|
-| Urban agglomeration population (2021) | ~350,000 | Pamplona metro area |
-| Income profile | Top 2 autonomous communities in Spain | Navarre concierto fiscal system premium |
-| Primary retail park concentration | La Morea / north Pamplona | Leroy Merlin, IKEA, MediaMarkt anchors |
-| Major institutional anchors | VW Navarre plant; Universidad de Navarra / Clínica UdN; Complejo Hospitalario | Manufacturing + healthcare + private university |
-| Autovía access | A-15 (Zaragoza–Pamplona–San Sebastián); A-21 (Huesca/Jaca); A-12 (Logroño/Madrid) | Navarre highway convergence |
-
-## See also
-
-- [[atlas-spain]] — Spain regional market index
-- [[atlas-top-600-europe]] — the European master market index
-- [[about-regional-markets]] — the co-location framework and market selection criteria
+*Wikipedia content reproduced under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*

@@ -2,87 +2,69 @@
 schema: foundry-doc-v1
 title: "Provo–Orem Regional Market"
 slug: us-ut-provo-orem
+language: en
+language_protocol: PROSE-TOPIC
 category: markets
-type: topic
+type: reference
 content_type: topic
 quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-language_protocol: PROSE-TOPIC
-keynote: false
-last_edited: 2026-06-29
-editor: woodfine-editorial
-short_description: "Utah Valley technology and university hub with rapid income growth and comprehensive power centre infrastructure south of Salt Lake City."
+short_description: "Rank 278 North American Regional Market — suburb of Salt Lake City; composite score 6.0."
 paired_with: markets/us-ut-provo-orem.es.md
+last_edited: 2026-07-10
+editor: editorial
 ---
 
-The **Provo–Orem regional market** encompasses the adjacent cities of Provo and Orem in
-Utah County, Utah, located approximately 70 kilometres south of Salt Lake City along the
-Wasatch Front Interstate 15 corridor. The Provo–Orem Metropolitan Statistical Area had a
-population of approximately 673,000 in 2021, making it Utah's second-largest metropolitan
-area. The market has experienced among the highest population and income growth rates of any
-US metropolitan area in the 2010–2021 decade, driven primarily by technology sector
-employment expansion and in-migration from California and other higher-cost states.
+Provo, the larger of the twin Utah Valley cities of Provo and Orem, ranks 278th among the
+400 North American Regional Markets with a composite score of 6.0. Brigham Young University
+anchors an unusually young, fast-growing technology economy sometimes described as the
+"Silicon Slopes" cluster.
 
-## Economic profile
+## Overview
 
-Brigham Young University (BYU), located in Provo, is the anchor institution of Utah Valley's
-knowledge economy, with approximately 35,000 students and a highly educated graduate
-population that has fueled technology sector growth. The combination of BYU's engineering and
-computer science programs, a culturally conservative and highly educated workforce, relatively
-low state and local taxes, and quality-of-life advantages relative to Silicon Valley has
-attracted a concentration of technology companies that is sometimes described as the "Silicon
-Slopes" cluster.
+According to Wikipedia (accessed 2026-07-10), Provo recorded a population of 115,162 at the
+2020 census across 44.19 square miles, the fourth-largest city in Utah, situated 43 miles (69
+km) south of Salt Lake City along the Wasatch Front between Orem to the north and Springville
+to the south. Brigham Young University is the dominant local employer, with 5,000 to 6,999
+staff and roughly 35,000 students; the city also hosts the LDS Church's largest Missionary
+Training Center, Utah Valley Regional Medical Center, and Vivint. Provo functions as a
+technology hub — Qualtrics and Nu Skin Enterprises are headquartered there alongside several
+billion-dollar startups — with retail anchored by Provo Towne Centre and The Shops at
+Riverwoods. The population skews young (median age 23.8), and 88.7 percent of residents
+identify as Latter-day Saints. Orem borders Provo directly to the north and is part of the
+same Provo-Orem-Lehi metropolitan area, though Wikipedia's Provo article treats it as a
+distinct city rather than a single combined entity.
 
-Adobe, Qualtrics, Domo, and a large number of software, financial technology, and cloud
-services companies have established significant operations in the Utah Valley market.
-The technology sector's rapid growth has driven median household income to levels that
-approach or exceed the US top quartile for metropolitan areas of this size.
+## Regional Market Standing
 
-Utah Valley University in Orem provides a second higher education anchor, with approximately
-40,000 students focused more heavily on applied technology and professional programs. Intermountain
-Health's Utah Valley Hospital in Provo provides the primary acute care anchor for the region.
+| Field | Value |
+|---|---|
+| Rank | 278 of 400 (North America) |
+| Composite score | 6.0 |
+| Tier 1 clusters | 1 |
+| Tier 2 clusters | 0 |
+| Tier 3 clusters | 0 |
+| Suburb of | Salt Lake City |
 
-## Commercial real estate characteristics
+Note: the TOP-400 table entry is for "Provo, UT" specifically — Orem does not carry a
+separate ranked entry in the current build. This article is titled "Provo–Orem" reflecting
+the two cities' combined regional-market character, but the rank and score above describe
+Provo alone. Cluster-level detail — the specific retail and civic anchors composing Provo's
+single Tier 1 cluster — is pending the underlying GIS dataset and is not included in this
+stub. See [[atlas-top-400-north-america|Top 400 Regional Markets — North America]] for the
+full ranked list and [[co-location-methodology|Co-location Methodology]] for how the
+composite score is derived.
 
-The primary [[power-centres|power centre]] infrastructure in Provo–Orem is concentrated along University
-Parkway in north Provo and University Avenue in Orem, with State Street as the secondary
-corridor. Costco, Home Depot, Lowe's, Walmart Supercenter, and Target anchor the primary
-retail nodes. The University Place mall in Orem and the Provo Town Centre serve enclosed
-retail demand.
+## See Also
 
-The market's exceptional income growth has driven rapid development of suburban office
-and [[mix-of-use|mixed-use]] professional space, particularly in the technology corridor along North
-University Avenue in Provo and along the I-15 frontage in American Fork (to the north)
-and Lehi. The Thanksgiving Park office complex in Lehi is the most significant suburban
-office development in the metropolitan area, housing major technology company campuses.
+- [[atlas-top-400-north-america|Top 400 Regional Markets — North America]]
+- [[about-regional-markets-system|Regional Markets Intelligence System]]
+- [[co-location-methodology|Co-location Methodology]]
 
-Professional service demand — legal, financial, accounting, consulting — has expanded
-in direct proportion to the technology sector growth, creating strong absorption in
-both downtown Provo professional space and suburban professional park formats.
+## References
 
-## Regional characteristics
+- [Provo, Utah](https://en.wikipedia.org/wiki/Provo,_Utah) — Wikipedia, accessed 2026-07-10
 
-The Provo–Orem market exhibits characteristics unusual among mid-sized US metros: a
-disproportionately young population (driven by large family size and student composition),
-an expanding professional income base, and consumer retail spending that materially exceeds
-what the demographic profile of a university city would typically imply. The rapid growth
-trajectory makes near-term professional centre demand projections more durable than slower-
-growth Midwestern comparables of similar current size.
-
-## Key indicators
-
-| Indicator | Value | Notes |
-|---|---|---|
-| MSA population (2021) | ~673,000 | Utah County MSA |
-| Population growth 2016–2021 | ~14% | Among fastest-growing US MSAs |
-| Primary retail corridors | University Pkwy (Provo); University Ave (Orem); State Street | Costco, Home Depot, Walmart anchors |
-| Major institutional anchors | Brigham Young University; Utah Valley University; Intermountain Health | Dual university + healthcare |
-| Interstate access | I-15 (north to Salt Lake City; south to St. George); US-89 (canyon connection) | Wasatch Front corridor |
-
-## See also
-
-- [[atlas-united-states]] — US regional market index and census region coverage
-- [[atlas-top-600-north-america]] — the North American master market index
-- [[about-regional-markets]] — the co-location framework and market selection criteria
+*Wikipedia content reproduced under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*

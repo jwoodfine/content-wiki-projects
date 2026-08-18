@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Capitalisation Rate"
+title: "Capitalisation rate"
 slug: capitalization-rate
 category: industry
 type: topic
@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-06-29
+last_edited: 2026-07-11
 editor: woodfine-editorial
 paired_with: industry/capitalization-rate.es.md
 ---

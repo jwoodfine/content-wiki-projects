@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Parking Ratio Standards for Professional Centres"
+title: "Parking ratio standards for professional centres"
 slug: parking-ratio-standards
 category: urban
 type: topic
@@ -9,7 +9,7 @@ quality: complete
 short_description: "Parking standard in the Woodfine Universal Governance Bylaws: minimum 3 stalls per 1,000 square feet of net leasable area, with a target of 4, specified before construction."
 status: stable
 bcsc_class: current-fact
-last_edited: 2026-07-01
+last_edited: 2026-07-11
 editor: pointsav-engineering
 language_protocol: PROSE-TOPIC
 source_refs:
@@ -40,6 +40,6 @@ By specifying the parking standard in the governance bylaws rather than in the c
 
 ## Regional Market Application
 
-In [[about-regional-markets|Regional Markets]], parking availability is a material factor in professional services tenant location decisions in a way it is not in dense urban environments where transit alternatives substitute for vehicle access. A Regional Market office building that does not meet institutional retail parking standards loses a portion of the professional services tenant base to alternative locations — typically suburban or highway-adjacent properties where parking is unconstrained.
+In [[about-regional-markets-system|Regional Markets]], parking availability is a material factor in professional services tenant location decisions in a way it is not in dense urban environments where transit alternatives substitute for vehicle access. A Regional Market office building that does not meet institutional retail parking standards loses a portion of the professional services tenant base to alternative locations — typically suburban or highway-adjacent properties where parking is unconstrained.
 
 The 4:1000 target ratio aligns Woodfine Buildings with the access expectations of the co-located retail anchor. A patient or client visiting a medical tenant in a Woodfine Building has the same parking experience as a consumer visiting the adjacent Power Centre — predictable, accessible, and without the congestion that constrains clinical throughput or client meeting schedules.

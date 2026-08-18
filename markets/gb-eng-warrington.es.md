@@ -2,71 +2,68 @@
 schema: foundry-doc-v1
 title: "Mercado regional de Warrington"
 slug: gb-eng-warrington
+language: es
+language_protocol: TRANSLATE-ES
 category: markets
-type: topic
+type: reference
 content_type: topic
 quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-language_protocol: TRANSLATE-ES
-keynote: false
-last_edited: 2026-06-29
-editor: woodfine-editorial
-short_description: "Ciudad en el cruce de Cheshire con una gran base de servicios profesionales diversificada entre Manchester y Liverpool, con sólidas anclas en la industria nuclear y la logística."
+short_description: "Mercado Regional número 294 en Europa — suburbio de Wigan; puntuación compuesta 4,5."
 paired_with: markets/gb-eng-warrington.md
+last_edited: 2026-07-10
+editor: editorial
 ---
 
-El **mercado regional de Warrington** es una gran ciudad inglesa en Cheshire posicionada
-en la intersección de las autopistas M6 y M62 entre Manchester (aproximadamente a 25 km
-al este) y Liverpool (aproximadamente a 25 km al oeste). La autoridad unitaria de Warrington
-tenía una población de aproximadamente 210.000 habitantes en 2021. Warrington es una de las
-ciudades nuevas designadas de Inglaterra (ampliada a partir de 1968 bajo el programa New
-Towns) y se ha desarrollado en una de las ciudades comerciales y logísticas mejor
-posicionadas estratégicamente del Reino Unido fuera de los principales centros metropolitanos.
+Warrington, una Nueva Ciudad de Cheshire situada entre Manchester y Liverpool, ocupa el
+puesto 294 entre los 400 Mercados Regionales de Europa con una puntuación compuesta de 4,5.
+Una transición de la industria pesada hacia el empleo minorista, logístico y tecnológico
+sostiene un clúster de Nivel 2 y uno de Nivel 3.
 
-## Perfil económico
+## Descripción general
 
-La economía de Warrington está anclada por tres sectores distintivos: la energía nuclear,
-la logística y distribución, y los servicios profesionales. La Autoridad de Energía Atómica
-del Reino Unido (UKAEA) y el Laboratorio Nuclear Nacional mantienen operaciones significativas
-en y alrededor de Warrington. Esta concentración crea una capa de demanda de servicios
-profesionales inusual para una ciudad de esta población: ingenierías nucleares, especialistas
-en asuntos regulatorios, empresas de gestión de proyectos de desmantelamiento y empresas
-de la cadena de suministro que sirven al parque nuclear del Reino Unido.
+Según Wikipedia (consultado el 10 de julio de 2026), Warrington registró una población de
+174.970 habitantes en el área urbanizada según el censo de 2021 (210.900 en todo el
+municipio), cubriendo 44,89 kilómetros cuadrados, situada a 16 millas al este de Liverpool y
+16 millas al oeste de Manchester; el artículo de Wikipedia no especifica la distancia a
+Wigan. Entre los principales empleadores se encuentran el Ayuntamiento de Warrington,
+Warrington & Halton Hospitals NHS Foundation Trust, una gran fábrica de detergentes de
+Unilever y ESR Technology. La ciudad pasó de la industria pesada — acero, alambre, textiles,
+cervecería, química — a la industria ligera, el comercio minorista, la logística y la
+tecnología tras el declive de las décadas de 1970 y 1980. El Golden Square Shopping Centre se
+inauguró en 1974 y ha sido ampliado desde entonces; Time Square, un desarrollo de 142
+millones de libras completado en 2020, incluye un mercado, un cine, comercio minorista y
+aparcamiento. Warrington fue la ubicación de la primera tienda IKEA en el Reino Unido cuando
+el minorista entró en el mercado en 1987.
 
-La posición de la encrucijada M62/M6 convierte a Warrington en un centro de distribución
-natural, y los desarrollos del Omega Business Park y el Birchwood Park han atraído a
-operadores logísticos, empresas tecnológicas y empresas de servicios empresariales.
+## Posición en el Mercado Regional
 
-El Warrington and Halton Teaching Hospitals NHS Foundation Trust opera el Warrington
-Hospital como la principal instalación de atención aguda, y el empleo del NHS añade un
-ancla de demanda institucional estable.
+| Campo | Valor |
+|---|---|
+| Posición | 294 de 400 (Europa) |
+| Puntuación compuesta | 4,5 |
+| Clústeres de Nivel 1 | 0 |
+| Clústeres de Nivel 2 | 1 |
+| Clústeres de Nivel 3 | 1 |
+| Suburbio de | Wigan |
 
-## Características del mercado inmobiliario comercial
-
-La infraestructura primaria de parques de venta minorista de Warrington está en el Gemini
-Retail Park, adyacente al cruce 8/9 de la M62, donde Marks & Spencer, Next, Currys y
-Costco anclan la zona de comercio minorista de gran formato. El Golden Square Shopping
-Centre en el centro de la ciudad es la principal instalación de comercio minorista cerrado.
-
-Birchwood Park y Omega Business Park son los dos principales desarrollos de propiedad
-comercial en Warrington. La demanda de oficinas profesionales en Warrington está impulsada
-por ingeniería nuclear y gestión de proyectos, gestión del sector logístico, servicios
-financieros de respaldo y servicios jurídicos y de seguros.
-
-## Indicadores clave
-
-| Indicador | Valor | Notas |
-|---|---|---|
-| Población de la autoridad unitaria (2021) | ~210.000 | Autoridad unitaria de Warrington |
-| Parque de venta minorista primario | Gemini Retail Park (cruce M62 8/9) | Anclas M&S, Next, Currys, Costco |
-| Principales anclas institucionales | UKAEA / Laboratorio Nuclear Nacional; Warrington Hospital NHS; inquilinos Birchwood Park | Sector nuclear como demanda profesional distintiva |
-| Parques empresariales primarios | Birchwood Park; Omega Business Park | Anclas de tecnología, ingeniería y logística |
-| Acceso vial | M6 (norte-sur, cruces 21a/22); M62 (este-oeste, cruce 9); A49, A57 | Ciudad en el cruce M6/M62 |
+El detalle a nivel de clúster — las anclas minoristas y cívicas específicas que componen cada
+uno de los clústeres de co-localización de Warrington — está pendiente del conjunto de datos
+SIG subyacente y no se incluye en este esbozo. Véase
+[[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]] para la lista clasificada
+completa y [[co-location-methodology|Metodología de Co-ubicación]] para conocer cómo se
+calcula la puntuación compuesta.
 
 ## Véase también
 
-- [[atlas-united-kingdom]] — índice del mercado regional del Reino Unido
-- [[atlas-top-600-europe]] — el índice maestro de mercados europeos
-- [[about-regional-markets]] — el marco de co-ubicación y los criterios de selección de mercados
+- [[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]]
+- [[about-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]]
+- [[co-location-methodology|Metodología de Co-ubicación]]
+
+## Referencias
+
+- [Warrington](https://en.wikipedia.org/wiki/Warrington) — Wikipedia, consultado 2026-07-10
+
+*Contenido de Wikipedia reproducido bajo [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*

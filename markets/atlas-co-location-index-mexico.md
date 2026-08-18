@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Co-location Index: Mexico"
+title: "Co-location index: Mexico"
 slug: atlas-co-location-index-mexico
 category: markets
 type: topic
@@ -10,7 +10,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-25
+last_edited: 2026-07-11
 editor: pointsav-engineering
 short_description: "Ranked index of top commercial convergence nodes in Mexico, identifying sites where Walmart Supercentre anchors cluster with Home Depot, Costco, and civic infrastructure."
 paired_with: markets/atlas-co-location-index-mexico.es.md
@@ -45,4 +45,4 @@ A Tier 5 site in Mexico is the matrix's highest validation: Primary Target (Walm
 
 ---
 
-*Copyright © 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).*
+*Copyright © 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nd/4.0/).*

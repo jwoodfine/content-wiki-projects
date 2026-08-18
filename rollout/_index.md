@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "The Rollout Program"
+title: "Rollout Program"
 slug: rollout-index
 category: rollout
 type: topic

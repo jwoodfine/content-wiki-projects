@@ -10,7 +10,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-07-03
+last_edited: 2026-07-31
 editor: pointsav-engineering
 short_description: "Cadena de procedencia de las estimaciones de población y gasto — rásteres WorldPop, agregación H3 y multiplicadores per cápita, con sus debilidades declaradas."
 paired_with: gis/spend-population-provenance.md
@@ -37,7 +37,15 @@ El gasto anual estimado es **población × un multiplicador de gasto per cápita
 
 ### El supuesto per cápita uniforme
 
-La simplificación más consecuente es: **a cada residente de un país se le asigna el mismo gasto per cápita, independientemente de dónde viva.** El modelo no tiene variación de ingresos, edad, tamaño del hogar ni costo de vida por debajo del nivel nacional. Este supuesto se mantiene y se declara en el modal de Metodología.
+La simplificación más consecuente es: **a cada residente de un país se le asigna el mismo gasto per cápita, independientemente de dónde viva.** Un hogar en el centro de Londres y un hogar en una ciudad de mercado galesa reciben el multiplicador de alimentos idéntico. El modelo no tiene variación de ingresos, edad, tamaño del hogar ni costo de vida por debajo del nivel nacional.
+
+Este supuesto es defendible como línea base — es transparente, requiere solo una encuesta autorizada por país y no pretende una granularidad que los datos de entrada no pueden sostener. Pero falla de maneras predecibles:
+
+- Las áreas metropolitanas de altos ingresos quedan sistemáticamente subestimadas. Un clúster en una cuenca pudiente lleva el multiplicador promedio nacional y por lo tanto reporta menos gasto del que el área realmente genera.
+- Las regiones de menores ingresos quedan sistemáticamente sobreestimadas por el mismo mecanismo.
+- El error está correlacionado espacialmente, no es aleatorio. Como sigue el gradiente de ingreso local, no se cancela dentro de una cuenca; sesga el total de toda el área comercial en una sola dirección.
+
+Una futura versión de la canalización tiene previsto variar el multiplicador a nivel subnacional usando datos de ingreso local — ingreso medio del hogar por sección censal de la ACS de EE. UU., ingreso censal de Statistics Canada, ingreso regional de Eurostat a nivel NUTS-2/NUTS-3 — reemplazando la constante nacional plana. Hasta que eso se implemente, el supuesto uniforme se mantiene y se declara en el modal de Metodología.
 
 ### Riesgo de falsa precisión
 
@@ -45,7 +53,12 @@ Cada paso arriba tiene su propio error, y se acumulan. La canalización actual n
 
 ### El problema de la unidad areal modificable
 
-Ambas superficies se agregan a la cuadrícula de resolución 7 de H3 antes de que se tomen las sumas de la cuenca. El problema de la unidad areal modificable (MAUP) es el resultado bien establecido de que las estadísticas calculadas sobre unidades areales cambian cuando cambia el tamaño o el límite de la unidad. La magnitud del efecto MAUP a la resolución 7 para los anillos de distancia en uso aún no se ha cuantificado.
+Ambas superficies se agregan a la cuadrícula de resolución 7 de H3 antes de que se tomen las sumas de la cuenca. El problema de la unidad areal modificable (MAUP) es el resultado bien establecido de que las estadísticas calculadas sobre unidades areales cambian cuando cambia el tamaño o el límite de la unidad. Dos consecuencias para este mapa:
+
+- **Efecto de escala.** Agregar las celdas de 100 m de WorldPop a hexágonos de aproximadamente 5,16 km² suaviza la superficie de población. Una resolución diferente produciría totales de cuenca distintos para los mismos anillos, porque las celdas H3 intersectan los anillos de distancia de manera diferente.
+- **Efecto de borde.** Un anillo de distancia corta los hexágonos en su límite. Una celda se cuenta como totalmente dentro o totalmente fuera según su centroide, de modo que el total de la cuenca es sensible a exactamente cómo cae la retícula de hexágonos respecto al anillo.
+
+MAUP no es un defecto por corregir; es una propiedad inherente de cualquier agregación areal. La obligación es reconocerlo en el modal de Metodología y evitar sobreinterpretar pequeñas diferencias entre clústeres. La magnitud del efecto MAUP a la resolución 7 para los anillos de distancia en uso aún no se ha cuantificado; un barrido de sensibilidad entre las resoluciones 6, 7 y 8 es una brecha documentada.
 
 ## Confianza y cómo se muestra
 
@@ -56,9 +69,44 @@ La intención cartográfica es hacer de la confianza un canal visual en el punto
 - **Opacidad** — clústeres de menor confianza representados con opacidad de relleno reducida.
 - **Marcadores huecos frente a rellenos** — un punto hueco para clústeres de menor confianza y un punto relleno para los de mayor confianza.
 
-## Tabla de multiplicadores de gasto per cápita anual
+## Registro de fuentes
 
-Los multiplicadores son proxies de gasto per cápita anual expresados en moneda local.
+La línea de procedencia en el mapa y el modal de Datos / Metodología derivan ambos de este
+registro.
+
+### Línea de procedencia en el mapa
+
+Una línea persistente en la superficie del mapa, con la forma:
+
+> Datos: WorldPop 2026, OSM, Kontur CC-BY — actualizado [mes de compilación] · Metodología ⓘ
+
+La atribución de OpenStreetMap es una obligación de licencia bajo ODbL y permanece presente
+por separado de la línea de procedencia.
+
+### Fuentes de datos
+
+| Fuente | Rol | Vigencia | Licencia |
+|---|---|---|---|
+| WorldPop | Población cuadriculada de 100 m — Paso 1 de la cadena de gasto | Ráster 2026 | CC BY 4.0 — WorldPop (www.worldpop.org) |
+| OpenStreetMap | Ubicaciones de puntos de interés minoristas y cívicos que definen los clústeres | Actualización continua; instantánea por compilación | ODbL 1.0 — © colaboradores de OpenStreetMap |
+| Overture Maps — Places | Tema global de puntos de interés para la resolución de anclas | Versión 2026 | CDLA-Permissive-2.0 — © Overture Maps Foundation |
+| Overture Maps — Addresses | Relleno de direcciones postales para registros de POI sin dirección | Versión 2026-04-15.0 | ODbL 1.0 — © colaboradores de Overture Maps Foundation |
+| Kontur Population | Referencia de población auxiliar (nativa de H3) | 2026 (HDX) | CC BY 4.0 |
+| BLS Consumer Expenditure Survey | Proxy del multiplicador de gasto per cápita de EE. UU. | Última publicada | Datos públicos federales de EE. UU. |
+| Statistics Canada — Household Expenditures | Proxy del multiplicador de gasto per cápita de Canadá | Última encuesta | Licencia Abierta de StatCan — adaptado de datos de Statistics Canada; no constituye un aval |
+| Eurostat — Household Budget Survey | Proxy del multiplicador de gasto per cápita de la UE | Última HBS | CC BY 4.0 — © Unión Europea, 1995–2026 |
+| INEGI | Proxy de gasto y registro empresarial de México | Última | Términos de Uso Libre de INEGI |
+
+### Países cubiertos
+
+Estados Unidos, Canadá, México, Gran Bretaña, Alemania, Francia, Países Bajos, Austria,
+Portugal, Grecia, Dinamarca, Islandia y Polonia — 13 países en la versión actual de la
+canalización.
+
+### Multiplicadores de gasto per cápita anual
+
+Los multiplicadores son proxies de gasto per cápita anual expresados en moneda local. Son
+entradas del Paso 3 y no están normalizados por tipo de cambio.
 
 | País | Alimentos | Ferretería | Mayorista | Moneda |
 |---|---|---|---|---|
@@ -86,6 +134,25 @@ Los multiplicadores son proxies de gasto per cápita anual expresados en moneda 
 4. **Un punto tenue o hueco significa menor confianza,** no un nivel inferior.
 5. **Las pequeñas diferencias entre clústeres pueden ser artefactos de la cuadrícula** (MAUP), no diferencias reales.
 6. **El gasto es comparable dentro de un país, no entre monedas** hasta que se implemente la normalización de tipos de cambio.
+
+## Resumen de estado
+
+| Elemento | Estado |
+|---|---|
+| Superficie de población WorldPop → resolución 7 de H3 | Implementado |
+| Multiplicadores de gasto per cápita (13 países) | Implementado |
+| Bandera de confianza en `regional-markets.json` | Calculada; aún no representada |
+| Línea de procedencia y vigencia en el mapa | Planeado |
+| Modal de Datos / Metodología con registro de fuentes completo y advertencias | Planeado |
+| Confianza representada en los puntos de nivel (opacidad o marcador hueco) | Planeado |
+| Propagación de error por estimación y bandas ± | Planeado |
+| Multiplicadores de gasto que varían por ingreso subnacional | Planeado |
+| Barrido de sensibilidad MAUP (resoluciones 6, 7, 8) | Planeado — brecha, aún no cuantificada |
+| Normalización de tipo de cambio para gasto entre países | Pregunta abierta |
+
+Todos los elementos prospectivos anteriores se declaran como planeados o previstos; describen
+la dirección prevista de la canalización, no capacidades actualmente activas en
+gis.woodfinegroup.com.
 
 ## Véase también
 

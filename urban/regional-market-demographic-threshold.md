@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Regional Market Demographic Threshold"
+title: "Regional Market demographic threshold"
 slug: regional-market-demographic-threshold
 category: urban
 type: topic
@@ -9,7 +9,7 @@ quality: complete
 short_description: "Demographic conditions distinguishing a qualifying Regional Market from a local-serving community, led by National Retailer sales per square foot and secondary trade strength."
 status: stable
 bcsc_class: current-fact
-last_edited: 2026-07-01
+last_edited: 2026-07-11
 editor: pointsav-engineering
 language_protocol: PROSE-TOPIC
 source_refs:
@@ -18,7 +18,7 @@ paired_with: regional-market-demographic-threshold.es.md
 cites: []
 ---
 
-A **[[about-regional-markets|Regional Market]]** in Woodfine Management Corp.'s development framework is a geography that meets a specific set of demographic and commercial conditions — conditions that distinguish it from both the major metropolitan markets that attract institutional capital in volume and the small communities that are served exclusively by local retail and services. The demographic threshold is not defined by population alone. It is defined by the commercial performance of the National Retailers that have already chosen to operate in the geography.
+A **[[about-regional-markets-system|Regional Market]]** in MCorp's development framework is a geography that meets a specific set of demographic and commercial conditions — conditions that distinguish it from both the major metropolitan markets that attract institutional capital in volume and the small communities that are served exclusively by local retail and services. The demographic threshold is not defined by population alone. It is defined by the commercial performance of the National Retailers that have already chosen to operate in the geography.
 
 ## The Primary Indicator: Retail Productivity
 

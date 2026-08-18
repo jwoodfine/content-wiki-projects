@@ -58,7 +58,7 @@ Las verificaciones de calibración se realizan cada vez que el conjunto de datos
 
 **Cadencia de actualización de ventas por pie cuadrado:**
 
-Las clasificaciones de ventas por pie cuadrado del Objetivo Primario se actualizan anualmente o cada dos años para generar datos de tendencias y permitir la reclasificación de toda la población de Objetivos Primarios. Los datos de tendencias de ventas por pie cuadrado, acumulados a través de ciclos de actualización, proporcionan una visión longitudinal de qué [[about-regional-markets|mercados regionales]] están ganando o perdiendo productividad comercial en relación con el promedio de la cadena.
+Las clasificaciones de ventas por pie cuadrado del Objetivo Primario se actualizan anualmente o cada dos años para generar datos de tendencias y permitir la reclasificación de toda la población de Objetivos Primarios. Los datos de tendencias de ventas por pie cuadrado, acumulados a través de ciclos de actualización, proporcionan una visión longitudinal de qué [[about-regional-markets-system|mercados regionales]] están ganando o perdiendo productividad comercial en relación con el promedio de la cadena.
 
 ---
 

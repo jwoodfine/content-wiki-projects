@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "The Buildings"
+title: "Buildings"
 slug: buildings-index
 category: buildings
 type: topic
@@ -23,3 +23,6 @@ economics.
 
 Two classes are described here in intended terms until their physical specifications are
 formally set; the rest carry current, in-force definitions.
+
+See [[about-development-classes|Development Classes]] for the full walk-through of all
+six classes, their economics, and the shared development vocabulary.

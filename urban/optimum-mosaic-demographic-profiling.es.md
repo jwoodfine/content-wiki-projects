@@ -18,7 +18,7 @@ paired_with: optimum-mosaic-demographic-profiling.md
 cites: []
 ---
 
-El **Mosaico Óptimo** es la firma demográfica de las zonas de influencia que rodean los sitios de co-ubicación de [[co-location-target-hierarchy|Objetivo Primario]] mejor clasificados de Woodfine Management Corp. Se deriva cruzando los perfiles demográficos de las mejores 25 a 100 ubicaciones de Walmart Supercentre, ordenadas por ventas por pie cuadrado en orden descendente, para identificar los ingresos del hogar, la estructura de edad, la composición familiar y los patrones de comercio secundario que son comunes a los sitios de Objetivo Primario más productivos comercialmente en el conjunto de datos.
+El **Mosaico Óptimo** es la firma demográfica de las zonas de influencia que rodean los sitios de co-ubicación de [[co-location-target-hierarchy|Objetivo Primario]] mejor clasificados de MCorp. Se deriva cruzando los perfiles demográficos de las mejores 25 a 100 ubicaciones de Walmart Supercentre, ordenadas por ventas por pie cuadrado en orden descendente, para identificar los ingresos del hogar, la estructura de edad, la composición familiar y los patrones de comercio secundario que son comunes a los sitios de Objetivo Primario más productivos comercialmente en el conjunto de datos.
 
 ## Aplicaciones de referencia y gobernanza
 
@@ -30,7 +30,7 @@ La metodología del Mosaico Óptimo utiliza las ventas por pie cuadrado como cri
 
 ### Tamaño de la muestra y agrupación jurisdiccional
 
-Los 25 a 100 mejores Objetivos Primarios por ventas por pie cuadrado son la muestra de la que se extrae el Mosaico Óptimo. Incluir los 25 mejores produce un perfil demográfico más concentrado; ampliar a 100 produce un perfil más amplio. Combinar datos de Objetivo Primario de Estados Unidos, Canadá y México — en lugar de analizar cada jurisdicción por separado — puede producir un Mosaico Óptimo más rico que refleje los patrones de demanda del consumidor en las geografías de [[about-regional-markets|Mercados Regionales]] norteamericanos.
+Los 25 a 100 mejores Objetivos Primarios por ventas por pie cuadrado son la muestra de la que se extrae el Mosaico Óptimo. Incluir los 25 mejores produce un perfil demográfico más concentrado; ampliar a 100 produce un perfil más amplio. Combinar datos de Objetivo Primario de Estados Unidos, Canadá y México — en lugar de analizar cada jurisdicción por separado — puede producir un Mosaico Óptimo más rico que refleje los patrones de demanda del consumidor en las geografías de [[about-regional-markets-system|Mercados Regionales]] norteamericanos.
 
 ## Dimensiones Demográficas del Mosaico Óptimo
 

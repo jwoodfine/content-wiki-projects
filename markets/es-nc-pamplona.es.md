@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Mercado regional de Pamplona"
 slug: es-nc-pamplona
+language: es
+language_protocol: TRANSLATE-ES
 category: markets
 type: topic
 content_type: topic
@@ -9,63 +11,48 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-language_protocol: TRANSLATE-ES
-keynote: false
-last_edited: 2026-06-29
-editor: woodfine-editorial
-short_description: "Capital de la Comunidad Foral de Navarra con uno de los ingresos familiares regionales más altos de España y una base diversificada de servicios profesionales y manufactura."
+short_description: "Capital regional de Navarra, a 117 km de Bilbao — fuera del conjunto clasificado Top-400 actual."
 paired_with: markets/es-nc-pamplona.md
+last_edited: 2026-07-10
+editor: editorial
 ---
 
-El **mercado regional de Pamplona** es la capital de la Comunidad Foral de Navarra, el
-territorio más septentrional de España con una autonomía fiscal distinta (concierto
-económico) similar al sistema del País Vasco. La aglomeración urbana Pamplona–Burlada–
-Barañáin tenía una población de aproximadamente 350.000 habitantes en 2021. Navarra es
-consistentemente una de las comunidades autónomas con mayores ingresos de España, con
-niveles de ingresos familiares comparables al País Vasco y sustancialmente por encima del
-promedio nacional español. Este perfil de ingresos es el criterio de selección de mercados
-primario para la inversión en [[co-location-strategy|co-ubicación]].
+Pamplona no aparece actualmente en la lista Top-400 de Mercados Regionales de Europa — su
+metrópoli más cercana, Bilbao, se encuentra a 117 kilómetros, más allá del límite exterior de
+80 km de la banda suburbano-regional que utiliza la clasificación.
 
-## Perfil económico
+## Descripción general
 
-La planta de Volkswagen Navarra en Landaben (zona industrial de Pamplona) es una de las
-fábricas de automóviles más productivas de España y el mayor empleador manufacturero de
-la región, con aproximadamente 5.000 empleados directos y un sustancial ecosistema de
-proveedores. El sistema fiscal de concierto económico del gobierno navarro — por el cual
-Navarra recauda y administra sus propios impuestos — crea una capa de empleo en el
-gobierno regional y servicios profesionales asociados (asesoría fiscal, contabilidad,
-administración pública y derecho) que es proporcionalmente mayor que en la mayoría de las
-provincias españolas de régimen común.
+Según Wikipedia (consultado el 10 de julio de 2026), Pamplona tenía 209.676 habitantes
+municipales a fecha de 2025 (área metropolitana 319.208) en 25,14 kilómetros cuadrados,
+situada en Navarra a aproximadamente 450 metros de altitud — a 92 km de San Sebastián, 117 km
+de Bilbao y 407 km de Madrid. La ciudad ha pasado de ser un pequeño centro administrativo a
+un núcleo industrial de tamaño medio; la actividad más importante está relacionada con la
+industria automotriz, anclada por una planta de Volkswagen (que produce los modelos Polo,
+T-Cross y Taigo) y proveedores auxiliares del sector automotriz, junto con materiales de
+construcción, metalurgia, procesamiento de alimentos y tecnologías de energía renovable.
+Pamplona sirve como el principal centro comercial y de servicios de Navarra, con la
+Universidad de Navarra y su hospital universitario prestando servicios a nivel nacional. La
+ciudad tiene uno de los niveles de vida más altos de España, aunque los costes de vivienda
+superan la media nacional; los residentes nacidos en el extranjero representaban el 21,6% de
+la población a fecha de 2024.
 
-La Universidad de Navarra, operada por el Opus Dei y con una sólida reputación internacional
-en medicina, empresa y comunicación, es la principal institución de educación superior
-privada y un empleador significativo. La Clínica Universidad de Navarra atrae pacientes de
-toda España e internacionalmente para oncología y cardiología especializada.
+## Posición en el Mercado Regional
 
-## Características del mercado inmobiliario comercial
-
-La concentración primaria de comercio minorista de gran formato de Pamplona está en los
-parques comerciales La Morea y Txantrea al norte de la ciudad, con El Corte Inglés, Leroy
-Merlin, IKEA y MediaMarkt como anclas del formato Parque Comercial. La presencia de IKEA
-es una señal de co-ubicación particularmente fuerte en el mercado español.
-
-El Casco Viejo histórico — internacionalmente famoso por los Sanfermines — es una zona
-comercial mixta con comercio minorista tradicional, restauración y servicios profesionales
-en el parque edificatorio histórico. El desarrollo moderno de oficinas se concentra en las
-zonas profesionales de Sarriguren y Burlada fuera del centro de la ciudad.
-
-## Indicadores clave
-
-| Indicador | Valor | Notas |
-|---|---|---|
-| Población del área urbana (2021) | ~350.000 | Área metropolitana de Pamplona |
-| Perfil de ingresos | Comunidad autónoma con mayores ingresos (top 2 de España) | Prima del sistema fiscal foral de Navarra |
-| Concentración primaria de parque comercial | La Morea / norte de Pamplona | Anclas Leroy Merlin, IKEA, MediaMarkt |
-| Principales anclas institucionales | Planta VW Navarra; Universidad de Navarra / Clínica UdN; Complejo Hospitalario | Manufactura + atención médica + universidad privada |
-| Acceso a autovías | A-15 (Zaragoza–Pamplona–San Sebastián); A-21 (Huesca/Jaca); A-12 (Logroño/Madrid) | Convergencia de autopistas de Navarra |
+Pamplona no aparece actualmente en la lista [[atlas-top-400-europe|Top 400 Mercados
+Regionales — Europa]]. Esto no es un defecto de datos; a 117 km de Bilbao, su metrópoli más
+cercana, Pamplona queda fuera de la banda suburbano-regional de 15 a 80 km de
+[[about-regional-markets-system|el sistema de puntuación de co-ubicación]], clasificándola
+como independiente-secundaria.
 
 ## Véase también
 
-- [[atlas-spain]] — índice del mercado regional de España
-- [[atlas-top-600-europe]] — el índice maestro de mercados europeos
-- [[about-regional-markets]] — el marco de co-ubicación y los criterios de selección de mercados
+- [[about-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]]
+- [[atlas-spain|Índice de Mercados Regionales de España]]
+- [[co-location-methodology|Metodología de Co-ubicación]]
+
+## Referencias
+
+- [Pamplona](https://en.wikipedia.org/wiki/Pamplona) — Wikipedia, consultado 2026-07-10
+
+*Contenido de Wikipedia reproducido bajo [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*

@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Retail Select Development Class"
+title: "Retail select development class"
 slug: class-retail-select
 category: buildings
 type: topic
@@ -10,14 +10,14 @@ status: stable
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-03
+last_edited: 2026-07-11
 editor: pointsav-engineering
 short_description: "Retail Select is the single-storey commercial-retail class that complements Woodfine's multi-storey office buildings within the 1.0-kilometre power centre radius."
 paired_with: buildings/class-retail-select.es.md
 cites: []
 ---
 
-Retail Select is one of the six [[about-development-classes|development classes]] in Woodfine Management Corp.'s direct-hold portfolio. It is a single-storey commercial-retail building type positioned within the same 1.0-kilometre proximity radius as [[class-professional-centres|Professional Centres]], serving as the street-level retail complement to Woodfine's multi-storey office classes.
+Retail Select is one of the six [[about-development-classes|development classes]] in MCorp's direct-hold portfolio. It is a single-storey commercial-retail building type positioned within the same 1.0-kilometre proximity radius as [[class-professional-centres|Professional Centres]], serving as the street-level retail complement to Woodfine's multi-storey office classes.
 
 ## What Retail Select is
 

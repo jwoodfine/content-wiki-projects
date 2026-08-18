@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Optimum Mosaic Demographic Profiling"
+title: "Optimum mosaic demographic profiling"
 slug: optimum-mosaic-demographic-profiling
 category: urban
 type: topic
@@ -9,7 +9,7 @@ quality: complete
 short_description: "Demographic methodology deriving the Optimum Mosaic — Woodfine's target consumer signature — from the highest sales-per-square-foot Walmart Supercentre trade areas."
 status: stable
 bcsc_class: current-fact
-last_edited: 2026-07-01
+last_edited: 2026-07-11
 editor: pointsav-engineering
 language_protocol: PROSE-TOPIC
 source_refs:
@@ -18,7 +18,7 @@ paired_with: optimum-mosaic-demographic-profiling.es.md
 cites: []
 ---
 
-The **Optimum Mosaic** is the demographic signature of the trade areas surrounding Woodfine Management Corp.'s highest-ranked [[co-location-target-hierarchy|Primary Target]] co-location sites. It is derived by cross-referencing the demographic profiles of the top 25 to 100 Walmart Supercentre locations, sorted by sales per square foot in descending order, to identify the household income, age structure, family composition, and secondary trade patterns that are common to the most commercially productive Primary Target sites in the dataset.
+The **Optimum Mosaic** is the demographic signature of the trade areas surrounding MCorp's highest-ranked [[co-location-target-hierarchy|Primary Target]] co-location sites. It is derived by cross-referencing the demographic profiles of the top 25 to 100 Walmart Supercentre locations, sorted by sales per square foot in descending order, to identify the household income, age structure, family composition, and secondary trade patterns that are common to the most commercially productive Primary Target sites in the dataset.
 
 ## Benchmarking and governance applications
 
@@ -32,7 +32,7 @@ Sorting Primary Targets strictly by sales per square foot — rather than by tot
 
 ### Sample size and jurisdiction pooling
 
-The top 25 to 100 Primary Targets by sales per square foot are the sample from which the Optimum Mosaic is extracted. Including the top 25 produces a tighter, more concentrated demographic profile. Expanding to 100 produces a broader profile that may capture demographic variation across geographies and jurisdictions. Combining Primary Target data from the United States, Canada, and Mexico — rather than analyzing each jurisdiction separately — may produce a richer Optimum Mosaic that reflects underlying consumer demand patterns across North American [[about-regional-markets|Regional Market]] geographies rather than jurisdiction-specific conditions.
+The top 25 to 100 Primary Targets by sales per square foot are the sample from which the Optimum Mosaic is extracted. Including the top 25 produces a tighter, more concentrated demographic profile. Expanding to 100 produces a broader profile that may capture demographic variation across geographies and jurisdictions. Combining Primary Target data from the United States, Canada, and Mexico — rather than analyzing each jurisdiction separately — may produce a richer Optimum Mosaic that reflects underlying consumer demand patterns across North American [[about-regional-markets-system|Regional Market]] geographies rather than jurisdiction-specific conditions.
 
 ## Demographic Dimensions of the Optimum Mosaic
 

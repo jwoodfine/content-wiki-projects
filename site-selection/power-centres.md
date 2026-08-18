@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Power Centres"
+title: "Power centres"
 slug: power-centres
 category: site-selection
 type: topic
@@ -10,7 +10,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-06-26
+last_edited: 2026-07-11
 editor: pointsav-engineering
 short_description: "Retail hubs anchored by multiple big-box national retailers, serving as the primary site-selection anchors for Woodfine co-location deployments."
 paired_with: site-selection/power-centres.es.md
@@ -34,7 +34,7 @@ The national retailers that anchor power centres relevant to Woodfine co-locatio
 
 ## Geographic distribution and market targeting
 
-Power centres are concentrated in [[about-regional-markets|regional markets]] — cities and metropolitan areas with populations between 50,000 and 300,000 — where land availability and drive-based catchment economics favour the large-format model. In major metro areas, power centres compete with infill retail formats; in regional markets, the power centre is typically the dominant commercial hub.
+Power centres are concentrated in [[about-regional-markets-system|regional markets]] — cities and metropolitan areas with populations between 50,000 and 300,000 — where land availability and drive-based catchment economics favour the large-format model. In major metro areas, power centres compete with infill retail formats; in regional markets, the power centre is typically the dominant commercial hub.
 
 The Site Selection Pipeline assesses power centre composition, anchor retailer age and operational status, and proximity to available development parcels to score potential co-location sites within the [[co-location-ranking-system|ranking system]].
 

@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Co-location Index: Poland"
+title: "Co-location index: Poland"
 slug: atlas-co-location-index-poland
 category: markets
 type: topic
@@ -10,7 +10,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-25
+last_edited: 2026-07-11
 editor: pointsav-engineering
 short_description: "Ranked index of high-growth commercial convergence nodes in Poland, where IKEA anchors cluster with Makro, Leroy Merlin, Auchan, and civic infrastructure."
 paired_with: markets/atlas-co-location-index-poland.es.md
@@ -23,7 +23,12 @@ The Poland Co-location Index ranks commercial nodes across the Polish market usi
 
 ## Anchor Network
 
-IKEA operates approximately 12 stores in Poland, with locations in Warsaw (two stores), Kraków, Wrocław, Gdańsk, Poznań, Łódź, Katowice, Lublin, Bydgoszcz, Białystok, and Szczecin. Secondary anchors are densely distributed: Leroy Merlin (~60 locations), Makro (~40 Metro Cash & Carry locations), Castorama (~80 locations), and OBI (~50 locations). Poland's 24 major public universities and voivodeship capital hospitals provide tertiary infrastructure in the same cities as IKEA operations.
+IKEA operates approximately 12 stores in Poland, with locations in Warsaw (two stores), Kraków, Wrocław, Gdańsk, Poznań, Łódź, Katowice, Lublin, Bydgoszcz, Białystok, and Szczecin.
+
+**Correction (2026-08-02):** this article (and [[atlas-tier-index-europe]]'s rollup)
+elsewhere claims "15+ evaluated anchor locations" for Poland, but since IKEA is
+stated here as the sole Primary Target, evaluated Primary anchors cannot exceed the
+12 IKEA stores just listed. **Flagged, not resolved.** Secondary anchors are densely distributed: Leroy Merlin (~60 locations), Makro (~40 Metro Cash & Carry locations), Castorama (~80 locations), and OBI (~50 locations). Poland's 24 major public universities and voivodeship capital hospitals provide tertiary infrastructure in the same cities as IKEA operations.
 
 ## Central European convergence density
 
@@ -45,4 +50,4 @@ A Tier 4+ rating in Poland indicates a node where primary anchor presence is sup
 
 ---
 
-*Copyright © 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).*
+*Copyright © 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nd/4.0/).*

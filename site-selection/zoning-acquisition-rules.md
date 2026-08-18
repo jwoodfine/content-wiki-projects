@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Zoning Acquisition Rules"
+title: "Zoning acquisition rules"
 slug: zoning-acquisition-rules
 category: site-selection
 type: reference
@@ -10,7 +10,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-06
+last_edited: 2026-07-11
 editor: pointsav-engineering
 short_description: "Pre-purchase verification requirements ensuring every parcel acquired has confirmed zoning for the intended development, eliminating speculative land banking."
 paired_with: site-selection/zoning-acquisition-rules.es.md
@@ -47,4 +47,4 @@ This distinguishes the [[co-location-intelligence-overview|co-location platform]
 
 ---
 
-*Copyright © 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).*
+*Copyright © 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nd/4.0/).*

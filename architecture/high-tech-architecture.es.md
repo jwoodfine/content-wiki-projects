@@ -48,7 +48,7 @@ La huella comercial de la arquitectura high-tech se concentra en los mercados pr
 
 ### Rareza en mercados secundarios
 
-En los mercados secundarios norteamericanos, la arquitectura high-tech como estilo comercial primario es rara. Los campus tecnológicos y las instalaciones de investigación médica adoptan ocasionalmente principios de diseño high-tech, pero típicamente en forma atenuada, sin la externalización radical de servicios que define los ejemplos canónicos. El formato del centro profesional suburbano que el programa de desarrollo de WMC tiene como objetivo es distinto del modo high-tech: [[fixed-floor-plates|plantas fijas]] con servicios embebidos, sistemas mecánicos cerrados y sistemas de fachada diseñados para los costes de construcción y las expectativas de los inquilinos de los mercados secundarios.
+En los mercados secundarios norteamericanos, la arquitectura high-tech como estilo comercial primario es rara. Los campus tecnológicos y las instalaciones de investigación médica adoptan ocasionalmente principios de diseño high-tech, pero típicamente en forma atenuada, sin la externalización radical de servicios que define los ejemplos canónicos. El formato del centro profesional suburbano que el programa de desarrollo de Woodfine tiene como objetivo es distinto del modo high-tech: [[fixed-floor-plates|plantas fijas]] con servicios embebidos, sistemas mecánicos cerrados y sistemas de fachada diseñados para los costes de construcción y las expectativas de los inquilinos de los mercados secundarios.
 
 ## Influencia en el diseño de centros profesionales
 

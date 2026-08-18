@@ -385,3 +385,10 @@ redirects:
 
   - from: /building-design/bim-token-three-layers
     to: /building-design/bim-objects-three-layers
+
+  # GUIDE-in-wrong-wiki correction, 2026-08-03: build-a-key-plan-step-by-step converted
+  # from GUIDE to TOPIC in place (this wiki carries no GUIDE-type content) and renamed to
+  # match its TOPIC register; slug is also carried as an `aliases:` entry on the surviving
+  # article per the bim-objects-* / markets place-profile precedent above.
+  - from: /building-design/build-a-key-plan-step-by-step
+    to: /building-design/key-plan-development-methodology

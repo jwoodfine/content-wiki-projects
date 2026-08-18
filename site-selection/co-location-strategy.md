@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Co-Location Strategy"
+title: "Co-location strategy"
 slug: co-location-strategy
 category: site-selection
 type: topic
@@ -12,7 +12,7 @@ bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 keynote: true
 keynote_section: "Co-Location Methodology"
-last_edited: 2026-06-26
+last_edited: 2026-07-11
 editor: pointsav-engineering
 short_description: "The strategy of positioning professional centres adjacent to national retail anchors to transpose retail resilience onto office demand."
 paired_with: site-selection/co-location-strategy.es.md
@@ -42,7 +42,13 @@ The anchor retailers are not tenants of the professional building. They are exte
 
 ## Regional market focus
 
-Co-location targets [[about-regional-markets|regional markets]] — cities and metropolitan areas with populations typically between 50,000 and 300,000 — rather than central business districts in major metro areas. Regional markets exhibit the retail investment patterns and underserved professional real estate demand that co-location requires. Central business districts in major metros face different competitive dynamics: legacy office oversupply, declining anchor retail, and transit-dependent occupiers rather than the drive-based catchment that powers co-location deployments.
+Co-location targets [[about-regional-markets-system|regional markets]] — suburban settlements 15 to 80 kilometres from a major metropolitan core — rather than central business districts in major metro areas. Regional markets exhibit the retail investment patterns and underserved professional real estate demand that co-location requires. Central business districts in major metros face different competitive dynamics: legacy office oversupply, declining anchor retail, and transit-dependent occupiers rather than the drive-based catchment that powers co-location deployments.
+
+*Editorial note (2026-07-10): this section previously described regional markets as
+"standalone cities... rather than suburban nodes" — the opposite of the suburban-regional
+definition that [[about-regional-markets-system|the current co-location scoring system]]
+actually uses. Corrected to match the system now in production; see
+[[about-regional-markets|the superseded prior definition]] for historical reference.*
 
 ## Relationship to the direct-hold solution
 
