@@ -2,82 +2,71 @@
 schema: foundry-doc-v1
 title: "Mercado regional de Provo–Orem"
 slug: us-ut-provo-orem
+language: es
+language_protocol: TRANSLATE-ES
 category: markets
-type: topic
+type: reference
 content_type: topic
 quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-language_protocol: TRANSLATE-ES
-keynote: false
-last_edited: 2026-06-29
-editor: woodfine-editorial
-short_description: "Centro tecnológico y universitario del Valle de Utah con rápido crecimiento de ingresos e infraestructura de power centre consolidada al sur de Salt Lake City."
+short_description: "Mercado Regional número 278 en América del Norte — suburbio de Salt Lake City; puntuación compuesta 6,0."
 paired_with: markets/us-ut-provo-orem.md
+last_edited: 2026-07-10
+editor: editorial
 ---
 
-El **mercado regional de Provo–Orem** comprende las ciudades adyacentes de Provo y Orem
-en el condado de Utah, Utah, ubicadas aproximadamente a 70 kilómetros al sur de Salt Lake
-City a lo largo del corredor de la Interestatal 15 en el Frente Wasatch. El Área Estadística
-Metropolitana de Provo–Orem tenía una población de aproximadamente 673.000 habitantes en
-2021, convirtiéndola en la segunda área metropolitana más grande de Utah. El mercado ha
-experimentado unas de las tasas de crecimiento de población e ingresos más altas de cualquier
-área metropolitana de EE. UU. en la década 2010–2021, impulsadas principalmente por la
-expansión del empleo en el sector tecnológico y la inmigración desde California y otros
-estados de mayor costo.
+Provo, la mayor de las ciudades gemelas del Valle de Utah junto con Orem, ocupa el puesto 278
+entre los 400 Mercados Regionales de América del Norte con una puntuación compuesta de 6,0.
+La Universidad Brigham Young sostiene una economía tecnológica inusualmente joven y de
+rápido crecimiento, a veces descrita como el clúster "Silicon Slopes".
 
-## Perfil económico
+## Descripción general
 
-La Universidad Brigham Young (BYU), ubicada en Provo, es la institución ancla de la economía
-del conocimiento del Valle de Utah, con aproximadamente 35.000 estudiantes y una población
-de graduados altamente cualificados que ha impulsado el crecimiento del sector tecnológico.
-La combinación de los programas de ingeniería e informática de la BYU, una fuerza laboral
-culturalmente conservadora y altamente educada, impuestos estatales y locales relativamente
-bajos y ventajas de calidad de vida en relación con Silicon Valley ha atraído una concentración
-de empresas tecnológicas que en ocasiones se describe como el grupo "Silicon Slopes".
+Según Wikipedia (consultado el 10 de julio de 2026), Provo registró una población de 115.162
+habitantes en el censo de 2020 en 44,19 millas cuadradas, la cuarta ciudad más grande de
+Utah, situada a 43 millas (69 km) al sur de Salt Lake City a lo largo del Wasatch Front,
+entre Orem al norte y Springville al sur. La Universidad Brigham Young es el principal
+empleador local, con entre 5.000 y 6.999 empleados y unos 35.000 estudiantes; la ciudad
+también alberga el mayor Centro de Capacitación de Misioneros de la Iglesia SUD, el Utah
+Valley Regional Medical Center y Vivint. Provo funciona como centro tecnológico — Qualtrics y
+Nu Skin Enterprises tienen su sede allí, junto con varias startups valoradas en miles de
+millones — con comercio minorista anclado en Provo Towne Centre y The Shops at Riverwoods. La
+población tiene una edad mediana joven (23,8 años), y el 88,7% de los residentes se identifica
+como mormón. Orem limita con Provo directamente al norte y forma parte de la misma área
+metropolitana de Provo-Orem-Lehi, aunque el artículo de Wikipedia sobre Provo la trata como
+una ciudad distinta y no como una entidad combinada.
 
-Adobe, Qualtrics, Domo y un gran número de empresas de software, tecnología financiera y
-servicios en la nube han establecido operaciones significativas en el mercado del Valle de
-Utah. La Universidad del Valle de Utah en Orem proporciona una segunda ancla de educación
-superior, con aproximadamente 40.000 estudiantes. El Hospital del Valle de Utah de
-Intermountain Health en Provo proporciona el ancla de atención aguda primaria para la región.
+## Posición en el Mercado Regional
 
-## Características del mercado inmobiliario comercial
+| Campo | Valor |
+|---|---|
+| Posición | 278 de 400 (América del Norte) |
+| Puntuación compuesta | 6,0 |
+| Clústeres de Nivel 1 | 1 |
+| Clústeres de Nivel 2 | 0 |
+| Clústeres de Nivel 3 | 0 |
+| Suburbio de | Salt Lake City |
 
-La infraestructura primaria de [[power-centres|power centres]] en Provo–Orem se concentra a lo largo de
-University Parkway en el norte de Provo y University Avenue en Orem, con State Street como
-corredor secundario. Costco, Home Depot, Lowe's, Walmart Supercenter y Target anclan los
-principales nodos minoristas.
-
-El excepcional crecimiento de ingresos del mercado ha impulsado el rápido desarrollo de
-espacio de oficinas suburbanas y [[mix-of-use|profesionales mixtas]], particularmente en el corredor
-tecnológico a lo largo de North University Avenue en Provo y a lo largo de la fachada de
-la I-15 en American Fork y Lehi. El complejo de oficinas Thanksgiving Park en Lehi es el
-desarrollo de oficinas suburbanas más significativo del área metropolitana.
-
-## Características regionales
-
-El mercado de Provo–Orem exhibe características inusuales entre las metrópolis medianas de
-EE. UU.: una población desproporcionadamente joven (impulsada por el gran tamaño de las
-familias y la composición estudiantil), una base de ingresos profesionales en expansión y
-un sólido gasto minorista que supera lo que el perfil demográfico de una ciudad universitaria
-implica típicamente. La rápida trayectoria de crecimiento hace que las proyecciones de
-demanda a corto plazo de centros profesionales sean más duraderas que las de comparables
-del Medio Oeste de crecimiento más lento con un tamaño actual similar.
-
-## Indicadores clave
-
-| Indicador | Valor | Notas |
-|---|---|---|
-| Población del AEM (2021) | ~673.000 | AEM del condado de Utah |
-| Crecimiento poblacional 2016–2021 | ~14% | Entre los AEM de más rápido crecimiento de EE. UU. |
-| Corredores minoristas primarios | University Pkwy (Provo); University Ave (Orem); State Street | Anclas Costco, Home Depot, Walmart |
-| Principales anclas institucionales | Universidad Brigham Young; Universidad del Valle de Utah; Intermountain Health | Doble universidad + atención médica |
-| Acceso a autopistas | I-15 (norte hacia Salt Lake City; sur hacia St. George); US-89 (conexión por el cañón) | Corredor del Frente Wasatch |
+Nota: la entrada de la tabla TOP-400 corresponde específicamente a "Provo, UT" — Orem no
+tiene una entrada clasificada propia en el conjunto de datos actual. Este artículo se titula
+"Provo–Orem" reflejando el carácter de mercado regional combinado de ambas ciudades, pero la
+posición y puntuación anteriores describen únicamente a Provo. El detalle a nivel de clúster
+— las anclas minoristas y cívicas específicas que componen el único clúster de Nivel 1 de
+Provo — está pendiente del conjunto de datos SIG subyacente y no se incluye en este esbozo.
+Véase [[atlas-top-400-north-america|Top 400 Mercados Regionales — América del Norte]] para la
+lista clasificada completa y [[co-location-methodology|Metodología de Co-ubicación]] para
+conocer cómo se calcula la puntuación compuesta.
 
 ## Véase también
 
-- [[atlas-united-states]] — índice de mercados regionales de EE. UU. y cobertura de regiones censales
-- [[atlas-top-600-north-america]] — el índice maestro de mercados norteamericanos
-- [[about-regional-markets]] — el marco de co-ubicación y los criterios de selección de mercados
+- [[atlas-top-400-north-america|Top 400 Mercados Regionales — América del Norte]]
+- [[about-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]]
+- [[co-location-methodology|Metodología de Co-ubicación]]
+
+## Referencias
+
+- [Provo, Utah](https://en.wikipedia.org/wiki/Provo,_Utah) — Wikipedia, consultado 2026-07-10
+
+*Contenido de Wikipedia reproducido bajo [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*

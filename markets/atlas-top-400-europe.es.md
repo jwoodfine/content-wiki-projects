@@ -6,23 +6,26 @@ language: es
 language_protocol: TRANSLATE-ES
 category: markets
 type: reference
+index_group: europe-regional-markets
 content_type: topic
 quality: complete
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Lista clasificada de los 400 Mercados Regionales de mayor puntuación en Europa bajo la metodología suburbano-regional corregida. Posición 1: Chemnitz (suburbio de Dresden, 64 km, puntuación 18,0)."
+short_description: "Lista clasificada de 399 Mercados Regionales distintos verificados en Europa a lo largo de 400 puestos clasificados (el puesto 285 está vacante en espera de una entrada número 400 genuina), bajo la metodología suburbano-regional corregida. Posición 1: Chemnitz (suburbio de Dresden, 64 km, puntuación 18,0)."
 paired_with: markets/atlas-top-400-europe.md
-last_edited: 2026-06-19
+last_edited: 2026-07-16
 editor: editorial
 es_status: complete
 ---
 
-# Top 400 Mercados Regionales — Europa
-
 Esta es una lista clasificada de los cuatrocientos Mercados Regionales de mayor puntuación en Europa, donde un *Mercado Regional* es un suburbio con nombre propio o municipio satélite que se encuentra a distancia de desplazamiento diario de un centro metropolitano europeo importante y contiene uno o más clústeres de co-localización minorista. Los mercados se clasifican por una puntuación compuesta que combina la composición de niveles de sus clústeres de co-localización y la presencia de infraestructura de anclas cívicas (médicas y académicas).
 
-La lista identifica mercados comerciales en el anillo suburbano de las principales ciudades europeas — la brecha de investigación entre el análisis de mercados metropolitanos institucionales (cubiertos ampliamente por organizaciones como Oxford Economics, CBRE y Colliers International) y las zonas genuinamente rurales. Se produce por separado de las listas de núcleos metropolitanos y ciudades secundarias independientes.
+La lista identifica mercados comerciales en el anillo suburbano de las principales ciudades europeas — la brecha de investigación entre el análisis de mercados metropolitanos institucionales (cubiertos ampliamente por firmas establecidas de investigación económica y asesoría inmobiliaria comercial) y las zonas genuinamente rurales. Se produce por separado de las listas de núcleos metropolitanos y ciudades secundarias independientes.
+
+## Desgloses por país
+
+Siete países cuentan con suficientes entradas para justificar su propia página de clasificación dedicada: [[atlas-germany|Alemania]] (124 mercados), [[atlas-france|Francia]] (102), [[atlas-united-kingdom|Reino Unido]] (81), [[atlas-spain|España]] (22), [[atlas-italy|Italia]] (21), [[atlas-poland|Polonia]] (16) y [[atlas-netherlands|Países Bajos]] (14). Austria, Dinamarca, Suecia y Portugal (7, 5, 4 y 3 mercados respectivamente) permanecen en la tabla de Desglose por País más abajo y en la tabla clasificada completa — ese número no justifica una página dedicada.
 
 ## Definición y Alcance
 
@@ -46,7 +49,7 @@ Las composiciones de clústeres de Nivel 1 europeos difieren significativamente 
 
 ## Geografía Suburbana
 
-Los 400 mercados abarcan 11 países europeos. Alemania lidera con 124 mercados, lo que refleja el carácter policéntrico del sistema urbano alemán. Francia contribuye con 102 mercados, el Reino Unido con 81, España con 23, Italia con 21, Polonia con 16 y los Países Bajos con 14.
+La lista abarca 399 mercados distintos verificados en 11 países europeos, ocupando 399 de los 400 puestos clasificados (el puesto 285 está vacante — véase la nota de corrección de datos en la sección de Desglose por País). Alemania lidera con 124 mercados, lo que refleja el carácter policéntrico del sistema urbano alemán. Francia contribuye con 102 mercados, el Reino Unido con 81, España con 22, Italia con 21, Polonia con 16 y los Países Bajos con 14.
 
 Las áreas metropolitanas que generan más suburbios cualificados son Londres (14), París (14), Stuttgart (12) y Le Havre (9).
 
@@ -59,9 +62,9 @@ Los veinticinco Mercados Regionales europeos mejor clasificados se enumeran a co
 | 1 | Chemnitz, Stadt | DE | Dresden | 64 | 3 | 0 | 0 | Sí | 18,0 |
 | 2 | Ingolstadt | DE | Regensburg | 56 | 2 | 0 | 1 | Sí | 13,5 |
 | 3 | Dessau-Roßlau, Stadt | DE | Halle | 44 | 2 | 0 | 0 | Sí | 12,0 |
-| 4 | Kaiserslautern, Stadt | DE | Mannheim | 54 | 2 | 0 | 0 | Sí | 12,0 |
-| 5 | Krefeld, Stadt | DE | Düsseldorf | 19 | 2 | 0 | 0 | Sí | 12,0 |
-| 6 | Bielsko-Biała | PL | Katowice | 48 | 2 | 0 | 0 | Sí | 12,0 |
+| 4 | [[de-rp-kaiserslautern|Kaiserslautern, Stadt]] | DE | Mannheim | 54 | 2 | 0 | 0 | Sí | 12,0 |
+| 5 | [[de-nw-krefeld|Krefeld, Stadt]] | DE | Düsseldorf | 19 | 2 | 0 | 0 | Sí | 12,0 |
+| 6 | [[pl-bielsko-biala|Bielsko-Biała]] | PL | Katowice | 48 | 2 | 0 | 0 | Sí | 12,0 |
 | 7 | Zwickau, Stadt | DE | Leipzig | 69 | 1 | 1 | 1 | Sí | 10,5 |
 | 8 | Radom | PL | Kielce | 69 | 1 | 1 | 1 | Sí | 10,5 |
 | 9 | Fife | GB | Edinburgh | 19 | 0 | 3 | 1 | Sí | 10,5 |
@@ -82,7 +85,7 @@ Los veinticinco Mercados Regionales europeos mejor clasificados se enumeran a co
 | 24 | Asti | IT | Turín | 45 | 1 | 1 | 0 | Sí | 9,0 |
 | 25 | Toruń | PL | Bydgoszcz | 45 | 1 | 1 | 0 | Sí | 9,0 |
 
-## Clasificaciones Completas (26–400)
+## Apéndice: Tabla Clasificada Completa (26–400)
 
 ### Puestos 26–29 — puntuación 9.0
 
@@ -99,8 +102,8 @@ Los veinticinco Mercados Regionales europeos mejor clasificados se enumeran a co
 |------|--------|---------|-----------|----|----|----|-------|
 | 30 | Hillingdon | GB | London | 1 | 0 | 1 | 7.5 |
 | 31 | Derby | GB | Nottingham | 1 | 0 | 1 | 7.5 |
-| 32 | Cheshire West and Chester | GB | Wigan | 1 | 0 | 1 | 7.5 |
-| 33 | Chambéry | FR | Grenoble | 1 | 0 | 1 | 7.5 |
+| 32 | [[gb-eng-chester|Cheshire West and Chester]] | GB | Wigan | 1 | 0 | 1 | 7.5 |
+| 33 | [[fr-chambery|Chambéry]] | FR | Grenoble | 1 | 0 | 1 | 7.5 |
 | 34 | Albi | FR | Toulouse | 1 | 0 | 1 | 7.5 |
 | 35 | Cambrai | FR | Valenciennes | 1 | 0 | 1 | 7.5 |
 | 36 | Osny | FR | Paris | 1 | 0 | 1 | 7.5 |
@@ -134,7 +137,7 @@ Los veinticinco Mercados Regionales europeos mejor clasificados se enumeran a co
 | 57 | Thurrock | GB | London | 1 | 0 | 0 | 6.0 |
 | 58 | Gloucester | GB | Bristol | 1 | 0 | 0 | 6.0 |
 | 59 | Rushmoor | GB | Reading | 1 | 0 | 0 | 6.0 |
-| 60 | Järfälla | SE | Stockholm | 1 | 0 | 0 | 6.0 |
+| 60 | [[se-jarfalla|Järfälla]] | SE | Stockholm | 1 | 0 | 0 | 6.0 |
 | 61 | Grande-Synthe | FR | Lille | 1 | 0 | 0 | 6.0 |
 | 62 | Roissy-en-France | FR | Paris | 1 | 0 | 0 | 6.0 |
 | 63 | Dole | FR | Dijon | 1 | 0 | 0 | 6.0 |
@@ -355,7 +358,7 @@ Los veinticinco Mercados Regionales europeos mejor clasificados se enumeran a co
 | 263 | União das freguesias de Sintra | PT | Lisbon | 1 | 0 | 0 | 6.0 |
 | 264 | União das freguesias de Palhais e Coina | PT | Lisbon | 1 | 0 | 0 | 6.0 |
 | 265 | Stevenage | GB | Luton | 0 | 1 | 2 | 6.0 |
-| 266 | York | GB | Leeds | 0 | 1 | 2 | 6.0 |
+| 266 | [[gb-eng-york|York]] | GB | Leeds | 0 | 1 | 2 | 6.0 |
 | 267 | Redbridge | GB | London | 0 | 2 | 0 | 6.0 |
 | 268 | Wakefield | GB | Leeds | 0 | 2 | 0 | 6.0 |
 | 269 | Ipswich | GB | Cambridge | 0 | 2 | 0 | 6.0 |
@@ -374,13 +377,13 @@ Los veinticinco Mercados Regionales europeos mejor clasificados se enumeran a co
 | 282 | Vejle | DK | Odense | 0 | 2 | 0 | 6.0 |
 | 283 | Rudersdal | DK | Copenhagen | 0 | 2 | 0 | 6.0 |
 | 284 | Viersen, Stadt | DE | Düsseldorf | 0 | 2 | 0 | 6.0 |
-| 285 | Auch | ES | Toulouse | 0 | 2 | 0 | 6.0 |
+| 285 | *(vacante — véase la nota abajo)* | — | — | — | — | — | — |
 
 ### Puestos 286–331 — puntuaciones de 5.0 a 4.5
 
 | Pos. | Mercado | País | Suburbio de | T1 | T2 | T3 | Punt. |
 |------|--------|---------|-----------|----|----|----|-------|
-| 286 | Breda | NL | Rotterdam | 1 | 0 | 1 | 5.0 |
+| 286 | [[nl-breda|Breda]] | NL | Rotterdam | 1 | 0 | 1 | 5.0 |
 | 287 | Liverpool | GB | Wigan | 0 | 0 | 3 | 4.5 |
 | 288 | Osnabrück, Stadt | DE | Bielefeld | 0 | 0 | 3 | 4.5 |
 | 289 | Havering | GB | London | 0 | 1 | 1 | 4.5 |
@@ -388,7 +391,7 @@ Los veinticinco Mercados Regionales europeos mejor clasificados se enumeran a co
 | 291 | Sefton | GB | Wigan | 0 | 1 | 1 | 4.5 |
 | 292 | Havant | GB | Southampton | 0 | 1 | 1 | 4.5 |
 | 293 | Stroud | GB | Bristol | 0 | 1 | 1 | 4.5 |
-| 294 | Warrington | GB | Wigan | 0 | 1 | 1 | 4.5 |
+| 294 | [[gb-eng-warrington|Warrington]] | GB | Wigan | 0 | 1 | 1 | 4.5 |
 | 295 | Newport | GB | Cardiff | 0 | 1 | 1 | 4.5 |
 | 296 | Saint Edmundsbury | GB | Cambridge | 0 | 1 | 1 | 4.5 |
 | 297 | Colchester | GB | Cambridge | 0 | 1 | 1 | 4.5 |
@@ -472,11 +475,11 @@ Los veinticinco Mercados Regionales europeos mejor clasificados se enumeran a co
 | 365 | Spelthorne | GB | London | 0 | 0 | 2 | 3.0 |
 | 366 | Bexley | GB | London | 0 | 0 | 2 | 3.0 |
 | 367 | Wirral | GB | Wigan | 0 | 0 | 2 | 3.0 |
-| 368 | Cherwell | GB | Oxford | 0 | 0 | 2 | 3.0 |
+| 368 | [[gb-eng-cherwell|Cherwell]] | GB | Oxford | 0 | 0 | 2 | 3.0 |
 | 369 | Kingston upon Hull | GB | Leeds | 0 | 0 | 2 | 3.0 |
 | 370 | Medway | GB | London | 0 | 0 | 2 | 3.0 |
 | 371 | Arun | GB | Brighton | 0 | 0 | 2 | 3.0 |
-| 372 | Northampton | GB | Coventry | 0 | 0 | 2 | 3.0 |
+| 372 | [[gb-eng-northampton|Northampton]] | GB | Coventry | 0 | 0 | 2 | 3.0 |
 | 373 | Eastbourne | GB | Brighton | 0 | 0 | 2 | 3.0 |
 | 374 | Bedford | GB | Luton | 0 | 0 | 2 | 3.0 |
 | 375 | La Roche-sur-Yon | FR | Nantes | 0 | 0 | 2 | 3.0 |
@@ -506,17 +509,27 @@ Los veinticinco Mercados Regionales europeos mejor clasificados se enumeran a co
 | 399 | East Ayrshire | GB | Glasgow | 0 | 1 | 0 | 3.0 |
 | 400 | Cannock Chase | GB | Birmingham | 0 | 1 | 0 | 3.0 |
 
+**Nota de corrección de datos (2026-07-16):** el puesto 285 indicaba anteriormente "Auch,
+ES" — un duplicado de la entrada genuina del puesto 15 (Auch, Francia, suburbio de
+Toulouse), registrada por segunda vez con un código de país corrupto. Auch es un mercado
+francés real y no tiene una contraparte española; el duplicado se eliminó en lugar de
+dejarse o sustituirse por un mercado inventado. El puesto 285 queda intencionalmente
+vacante en espera de un mercado número 400 genuino proveniente de la exportación en vivo
+de puntuación de mercados regionales de project-gis — inventar un nombre o puntuación de
+reemplazo aquí tergiversaría datos reales. El recuento por país a continuación refleja 399
+mercados distintos verificados en los 399 puestos ocupados restantes.
+
 ## Desglose por País
 
 | País | Cantidad | Notas |
 |------|----------|-------|
-| Alemania (DE) | 124 | Sistema urbano policéntrico; corredores del Rin-Ruhr, Rin-Neckar y Sajonia-Turingia dominantes |
-| Francia (FR) | 102 | Île-de-France y anillos de ciudades provinciales; la metrópoli de Le Havre genera notable densidad de clústeres |
-| Reino Unido (GB) | 81 | Cinturón de conmutación de Londres, Midlands y Cinturón Central escocés |
-| España (ES) | 23 | Anillos suburbanos de Madrid y Barcelona; cobertura de OSM más escasa fuera de estos núcleos |
-| Italia (IT) | 21 | Municipios suburbanos del Valle del Po; anillos de Turín y Milán |
-| Polonia (PL) | 16 | Suburbios de la Región Industrial de la Alta Silesia; anillos de Katowice y Łódź |
-| Países Bajos (NL) | 14 | Anillo suburbano exterior de la Randstad; municipios de conmutación de Róterdam y Ámsterdam |
+| [[atlas-germany\|Alemania (DE)]] | 124 | Sistema urbano policéntrico; corredores del Rin-Ruhr, Rin-Neckar y Sajonia-Turingia dominantes |
+| [[atlas-france\|Francia (FR)]] | 102 | Île-de-France y anillos de ciudades provinciales; la metrópoli de Le Havre genera notable densidad de clústeres |
+| [[atlas-united-kingdom\|Reino Unido (GB)]] | 81 | Cinturón de conmutación de Londres, Midlands y Cinturón Central escocés |
+| [[atlas-spain\|España (ES)]] | 22 | Anillos suburbanos de Madrid y Barcelona; cobertura de OSM más escasa fuera de estos núcleos |
+| [[atlas-italy\|Italia (IT)]] | 21 | Municipios suburbanos del Valle del Po; anillos de Turín y Milán |
+| [[atlas-poland\|Polonia (PL)]] | 16 | Suburbios de la Región Industrial de la Alta Silesia; anillos de Katowice y Łódź |
+| [[atlas-netherlands\|Países Bajos (NL)]] | 14 | Anillo suburbano exterior de la Randstad; municipios de conmutación de Róterdam y Ámsterdam |
 | Austria (AT) | 7 | Anillo suburbano de Viena |
 | Dinamarca (DK) | 5 | Municipios suburbanos de Copenhague y Aarhus |
 | Suecia (SE) | 4 | Anillo suburbano de Estocolmo |
@@ -539,6 +552,5 @@ Para la metodología completa, véase [[about-regional-markets-system|Sistema de
 ## Véase también
 
 - [[about-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]]
-- [[about-regional-market-matrix|Matriz de Mercado Regional]]
 - [[co-location-methodology|Metodología de Co-localización]]
 - [[atlas-tier-index-europe|Índice de Niveles de Co-ubicación: Europa]]

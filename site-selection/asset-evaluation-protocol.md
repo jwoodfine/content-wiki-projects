@@ -1,8 +1,8 @@
 ---
 schema: foundry-doc-v1
-title: "Asset Evaluation Protocol"
+title: "Asset evaluation protocol"
 slug: asset-evaluation-protocol
-short_description: "How the co-location ranking matrix drives WMC's commercial asset acquisition targeting: tier score as the entry criterion, independent GIS analysis as the verification method."
+short_description: "How the co-location ranking matrix drives Woodfine's commercial asset acquisition targeting: tier score as the entry criterion, independent GIS analysis as the verification method."
 category: site-selection
 type: reference
 content_type: topic
@@ -11,13 +11,13 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-25
+last_edited: 2026-07-11
 editor: pointsav-engineering
 paired_with: site-selection/asset-evaluation-protocol.es.md
 cites: []
 ---
 
-WMC's asset acquisition process begins with the [[co-location-investment-thesis|co-location]] ranking matrix. A candidate site must achieve a minimum tier classification before capital evaluation proceeds. The tier score is the entry filter — it removes subjective judgment from the initial screening stage and establishes a reproducible basis for comparing candidate sites across geographies. Sites that pass the screen subsequently enter the Direct-Hold framework under the interest coverage discipline.
+Woodfine's asset acquisition process begins with the [[co-location-investment-thesis|co-location]] ranking matrix. A candidate site must achieve a minimum tier classification before capital evaluation proceeds. The tier score is the entry filter — it removes subjective judgment from the initial screening stage and establishes a reproducible basis for comparing candidate sites across geographies. Sites that pass the screen subsequently enter the Direct-Hold framework under the interest coverage discipline.
 
 ## Key takeaways
 
@@ -41,13 +41,13 @@ The matrix evaluates three layers of anchor presence within defined catchment ra
 
 **Tertiary civic infrastructure.** Hospitals and post-secondary institutions within 5 km. Civic anchors generate consistent, recession-resistant traffic that supplements retail-driven foot traffic. Their presence in the catchment radius contributes to the tier score but does not substitute for retail anchor presence.
 
-The combined score across all three layers produces a tier classification from 1 to 5. WMC's current minimum threshold for capital evaluation is a tier-3 classification.
+The combined score across all three layers produces a tier classification from 1 to 5. Woodfine's current minimum threshold for capital evaluation is a tier-3 classification.
 
 ## Independent verification
 
-The matrix is reproducible by independent GIS analysis using publicly available retailer location data and civic facility coordinates. A site's tier score does not depend on WMC's internal assessment of market conditions; it depends on the presence or absence of specific operators and facilities within defined radii. An analyst applying the same matrix to the same data should reach the same classification for a given site.
+The matrix is reproducible by independent GIS analysis using publicly available retailer location data and civic facility coordinates. A site's tier score does not depend on Woodfine's internal assessment of market conditions; it depends on the presence or absence of specific operators and facilities within defined radii. An analyst applying the same matrix to the same data should reach the same classification for a given site.
 
-This reproducibility is not incidental — it is a design requirement. If the entry criterion depended on a judgment call that only WMC could make, the filter would not function as an objective screen.
+This reproducibility is not incidental — it is a design requirement. If the entry criterion depended on a judgment call that only Woodfine could make, the filter would not function as an objective screen.
 
 ## Capital evaluation
 
@@ -63,7 +63,7 @@ Capital evaluation produces an investment recommendation; the tier score produce
 
 ## The bottom line
 
-The Asset Evaluation Protocol disciplines the acquisition funnel by enforcing an objective, reproducible entry screen before any capital analysis begins. The tier score eliminates advocacy-driven deal origination: if a site does not independently qualify under the co-location matrix, evaluation does not proceed. Once a site clears the threshold, conventional capital analysis applies — property condition, lease structure, title, and debt service capacity are assessed on their own terms. Neither the screening stage nor the capital evaluation stage can substitute for the other; both are required before WMC commits to an acquisition.
+The Asset Evaluation Protocol disciplines the acquisition funnel by enforcing an objective, reproducible entry screen before any capital analysis begins. The tier score eliminates advocacy-driven deal origination: if a site does not independently qualify under the co-location matrix, evaluation does not proceed. Once a site clears the threshold, conventional capital analysis applies — property condition, lease structure, title, and debt service capacity are assessed on their own terms. Neither the screening stage nor the capital evaluation stage can substitute for the other; both are required before Woodfine commits to an acquisition.
 
 ## See also
 

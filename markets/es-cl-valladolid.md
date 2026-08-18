@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Valladolid Regional Market"
 slug: es-cl-valladolid
+language: en
+language_protocol: PROSE-TOPIC
 category: markets
 type: topic
 content_type: topic
@@ -9,70 +11,46 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-language_protocol: PROSE-TOPIC
-keynote: false
-last_edited: 2026-06-29
-editor: woodfine-editorial
-short_description: "Castile and León's largest city with a major automotive manufacturing base, the regional capital function, and a comprehensive large-format retail infrastructure."
+short_description: "Castile and León's largest city, 235 km from Madrid — outside the current Top-400 ranked pool."
 paired_with: markets/es-cl-valladolid.es.md
+last_edited: 2026-07-10
+editor: editorial
 ---
 
-The **Valladolid regional market** is the largest city in Castile and León and the de facto
-capital of the autonomous community, even though [[es-cl-burgos|Burgos]] and other provincial capitals hold
-competing administrative functions. The municipality of Valladolid had a population of
-approximately 299,000 in 2021, and the metropolitan area extends to approximately 430,000–
-450,000. Valladolid is Spain's 10th-largest city and holds a strategic position on the
-A-62 autovía connecting Madrid (approximately 190 km to the southeast) with the Portuguese
-border and Salamanca.
+Valladolid does not currently appear in the European Top-400 Regional Markets list — at
+roughly 235 kilometres from Madrid it sits well outside the 15–80 km suburban-regional band
+the ranking uses.
 
-## Economic profile
+## Overview
 
-Valladolid is the centre of Spain's primary automotive manufacturing cluster. Renault's
-FASA plant in Valladolid has been producing vehicles in the city since 1951 and remains one
-of Spain's most significant automotive export facilities, employing approximately 7,000
-people directly. The Renault Spain headquarters is also located in Valladolid. The automotive
-presence has attracted a comprehensive supplier ecosystem — Michelin (tyre production plant),
-Iveco (truck assembly), and a large number of tier-1 and tier-2 automotive component
-manufacturers — making Valladolid the single most automotive-dependent major Spanish city.
+According to Wikipedia (accessed 2026-07-10), Valladolid's city proper had 299,816 residents
+as of 2024 across 197.47 square kilometres — the most populated municipality in its region —
+situated in north-central Spain roughly 235 km north of Madrid (a 56-minute journey by
+high-speed rail), at the confluence of the Pisuerga and Esgueva rivers at approximately 735
+metres elevation. The city is a major economic centre; manufacturing dominates, particularly
+the automotive sector through Renault España and Iveco, though the service industry
+represents the largest share of employment at 74.2 percent. Food processing, metallurgy, and
+chemical manufacturing also contribute significantly. By 2013 turnover, leading companies
+included Renault (€4.596 billion), Michelin (€2.67 billion), and Iveco (€1.6 billion). The
+metropolitan area encompasses approximately 406,923 residents across 16 municipalities, with
+contemporary growth driving young residents toward surrounding towns due to high prices in
+the municipality itself.
 
-The Junta de Castilla y León (*Junta de Castilla y León*), the regional government of
-Castile and León, operates from Valladolid, making it the de facto political and administrative
-capital even though the statute of autonomy distributes administrative functions across
-multiple provincial capitals. This government concentration creates professional service
-demand in law, public administration, accounting, and IT.
+## Regional Market Standing
 
-The University of Valladolid, one of Spain's oldest universities (founded 1241), has
-approximately 28,000 students across multiple campuses. The Hospital Clínico Universitario
-de Valladolid is the primary teaching hospital, and the Hospital Universitario Río Hortega
-serves the western metropolitan catchment.
+Valladolid does not currently appear in the [[atlas-top-400-europe|Top 400 Regional Markets
+— Europe]] list. This is not a data defect; its roughly 235 km distance from Madrid places it
+outside [[about-regional-markets-system|the co-location scoring system's]] 15–80 km
+suburban-regional band, classifying it as standalone-secondary.
 
-## Commercial real estate characteristics
+## See Also
 
-Valladolid's primary large-format retail concentration is at the Parque Comercial Vallsur
-to the southeast and the Parque Comercial El Tormes to the south, with Leroy Merlin,
-Carrefour, IKEA, and MediaMarkt as anchors. The Parque Comercial Vallsur is one of the
-largest commercial parks in Castile and León.
+- [[about-regional-markets-system|Regional Markets Intelligence System]]
+- [[atlas-spain|Spain Regional Market Index]]
+- [[co-location-methodology|Co-location Methodology]]
 
-The Valladolid city centre — with the pedestrianised Calle Santiago and the Calderón shopping
-centre — is the traditional retail node. Professional services downtown include legal,
-financial, insurance, and notarial offices consistent with the city's capital function.
+## References
 
-The Campo Grande / Acera de Recoletos zone is Valladolid's prime central business district,
-with financial institutions, law firms, and government-related professional services
-concentrated along the principal avenues.
+- [Valladolid](https://en.wikipedia.org/wiki/Valladolid) — Wikipedia, accessed 2026-07-10
 
-## Key indicators
-
-| Indicator | Value | Notes |
-|---|---|---|
-| Municipal population (2021) | ~299,000 | Municipality of Valladolid |
-| Metropolitan area population | ~430,000–450,000 | Valladolid metropolitan area |
-| Primary retail park concentration | Parque Comercial Vallsur (SE); El Tormes (S) | IKEA, Leroy Merlin, Carrefour, MediaMarkt |
-| Major institutional anchors | Renault FASA plant + HQ; Junta de Castilla y León; University of Valladolid | Automotive + government dual anchor |
-| Autovía access | A-62 (Madrid–Salamanca–Portugal); A-11 (Soria); A-60 (Palencia/Burgos) | North-central Spain hub |
-
-## See also
-
-- [[atlas-spain]] — Spain regional market index
-- [[atlas-top-600-europe]] — the European master market index
-- [[about-regional-markets]] — the co-location framework and market selection criteria
+*Wikipedia content reproduced under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*

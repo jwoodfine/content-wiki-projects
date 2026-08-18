@@ -18,7 +18,7 @@ paired_with: geographic-co-location-methodology.md
 cites: []
 ---
 
-La **Metodología de Co-Ubicación Geográfica** es la disciplina de análisis espacial que Woodfine Management Corp. aplica para identificar y clasificar Sitios de Desarrollo potenciales en sus tres jurisdicciones principales. La metodología puntúa los nodos minoristas según la proximidad y la combinación de minoristas ancla que operan en la geografía, produciendo un conjunto de datos clasificados de sitios en los que la inversión de desarrollo está validada por los compromisos comerciales demostrables de minoristas institucionales, en lugar de proyecciones demográficas especulativas.
+La **Metodología de Co-Ubicación Geográfica** es la disciplina de análisis espacial que MCorp aplica para identificar y clasificar Sitios de Desarrollo potenciales en sus tres jurisdicciones principales. La metodología puntúa los nodos minoristas según la proximidad y la combinación de minoristas ancla que operan en la geografía, produciendo un conjunto de datos clasificados de sitios en los que la inversión de desarrollo está validada por los compromisos comerciales demostrables de minoristas institucionales, en lugar de proyecciones demográficas especulativas.
 
 La metodología produce cinco grados de clústeres, cada uno representando un nivel más refinado de co-ocurrencia de anclas. Los clústeres de mayor grado indican que una geografía ha atraído múltiples categorías de inversión comercial institucional — una validación compuesta que supera el umbral que cualquier ancla individual produce por sí sola.
 

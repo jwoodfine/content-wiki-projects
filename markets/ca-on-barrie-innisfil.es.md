@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Mercado regional de Barrie–Innisfil"
 slug: ca-on-barrie-innisfil
+language: es
+language_protocol: TRANSLATE-ES
 category: markets
 type: topic
 content_type: topic
@@ -9,71 +11,48 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-language_protocol: TRANSLATE-ES
-keynote: false
-last_edited: 2026-06-29
-editor: woodfine-editorial
-short_description: "Mercado de Ontario de tamaño medio al norte del Área Metropolitana de Toronto con sólida infraestructura minorista y rápido crecimiento poblacional."
+short_description: "Mercado del centro de Ontario, a 90 km de Toronto — justo fuera de la banda de 80 km del conjunto clasificado Top-400 actual."
 paired_with: markets/ca-on-barrie-innisfil.md
+last_edited: 2026-07-10
+editor: editorial
 ---
 
-El **mercado regional de Barrie–Innisfil** es un mercado inmobiliario comercial de tamaño
-medio en el condado de Simcoe, Ontario, ubicado aproximadamente a 100 kilómetros al norte
-del centro de Toronto en el corredor de la autopista 400 Barrie–Toronto. El mercado comprende
-la ciudad de Barrie y el municipio de Innisfil, que funcionan como una aglomeración comercial
-y residencial continua a pesar de su separación administrativa. El área urbana combinada tenía
-una población de aglomeración censal de aproximadamente 230.000 habitantes en 2021, con una
-inmigración sustancial desde el Área Metropolitana del Gran Toronto que contribuye a tasas de
-crecimiento superiores al promedio provincial.
+Barrie, junto con la vecina Innisfil, no aparece actualmente en la lista Top-400 de Mercados
+Regionales de América del Norte — a unos 90 kilómetros de Toronto se sitúa justo más allá del
+límite exterior de 80 km de la banda suburbano-regional que utiliza la clasificación.
 
-## Perfil económico
+## Descripción general
 
-La economía de Barrie está anclada por una combinación diversificada de empleo en el sector
-público, atención sanitaria, manufactura y actividad constructiva. el Georgian College y el
-Centro de Salud Regional Royal Victoria son los dos mayores empleadores institucionales y
-generan una demanda constante de servicios profesionales en los sectores jurídico, financiero,
-contable y de consultoría. El centro de salud opera uno de los servicios de urgencias más
-concurridos de Ontario fuera del Área Metropolitana del Gran Toronto, lo que refleja el papel
-de Barrie como centro sanitario regional para una amplia zona de captación que incluye las
-comunidades de Muskoka y Georgian Bay.
+Según Wikipedia (consultado el 10 de julio de 2026), Barrie tenía 147.829 habitantes en el
+censo de 2021 (área metropolitana censal 212.856) en 99,01 kilómetros cuadrados, situada
+aproximadamente a 90 km al norte de Toronto, en la región del Golden Horseshoe del centro de
+Ontario. La ciudad funciona tanto como comunidad dormitorio de Toronto como centro económico
+cada vez más diversificado, con empleo concentrado en educación, salud, tecnología de la
+información y manufactura. Entre los principales empleadores se encuentran el Simcoe County
+District School Board, Georgian College, el Royal Victoria Regional Health Centre y empresas
+tecnológicas, incluidos centros de datos de IBM y BMO. Park Place (antes Molson Park)
+reconvirtió antiguos terrenos cerveceros en un distrito comercial a partir de 2008. Innisfil,
+inmediatamente al sur de Barrie, es una de varias comunidades — junto con New Tecumseth y
+Newmarket — que se han desarrollado rápidamente desde 2000; Barrie anexó 2.293 hectáreas de
+Innisfil en 2010.
 
-El rápido crecimiento residencial de Innisfil — impulsado por la demanda de desplazamientos
-desde el Área del Gran Toronto a lo largo del corredor de la autopista 400 — ha creado una
-capa secundaria de demanda comercial a medida que las nuevas comunidades residenciales
-requieren servicios minoristas, médicos y profesionales locales.
+## Posición en el Mercado Regional
 
-## Características del mercado inmobiliario comercial
-
-El nodo comercial primario del mercado se concentra en Mapleview Drive West y Big Bay Point
-Road en el sur de Barrie, donde se concentran los principales anclas de [[power-centres|power centres]]. Este
-nodo incluye el comercio minorista de gran formato — Costco, Home Depot, Best Buy, Winners,
-Sport Chek — junto con formatos minoristas comunitarios y de restauración que confirman el
-perfil de ingresos y demanda requerido para la [[co-location-strategy|co-ubicación]] de centros profesionales.
-
-El Georgian Mall en el centro de Barrie ancla una zona comercial secundaria con comercio
-minorista mediano y de moda. El corredor comercial de Innisfil a lo largo de Innisfil Beach
-Road se está desarrollando a medida que el crecimiento poblacional en el corredor se
-acelera.
-
-## Trayectoria de crecimiento
-
-Barrie se clasificó consistentemente entre las áreas metropolitanas de más rápido crecimiento
-en Ontario durante el período intercensal 2016–2021. Las proyecciones de población para el
-condado de Simcoe indican un crecimiento continuado por encima del promedio hasta 2031,
-apoyando una base de demanda duradera de servicios profesionales.
-
-## Indicadores clave
-
-| Indicador | Valor | Notas |
-|---|---|---|
-| Población de la aglomeración censal (2021) | ~230.000 | Límite del AMA de Barrie |
-| Crecimiento poblacional 2016–2021 | ~12% | Por encima del promedio provincial de Ontario |
-| Nodo primario de power centre | Mapleview Drive W. / Big Bay Point | Anclas Costco, Home Depot |
-| Principales anclas institucionales | Georgian College, Centro de Salud RVH | Demanda profesional constante |
-| Acceso a autopistas | AUTOPISTA 400 (sur hacia el Área Metropolitana, norte hacia Muskoka) | Corredor comercial principal |
+Barrie–Innisfil no aparece actualmente en la lista clasificada
+[[atlas-top-400-north-america|Top 400 Mercados Regionales — América del Norte]]. Esto no es
+un defecto de datos; a unos 90 km de Toronto, el mercado queda justo fuera del límite
+exterior de 80 km de la banda suburbano-regional de
+[[about-regional-markets-system|el sistema de puntuación de co-ubicación]], situándolo en la
+categoría independiente-secundaria.
 
 ## Véase también
 
-- [[atlas-canada]] — índice del mercado regional de Canadá y cobertura provincial
-- [[atlas-top-600-north-america]] — el índice maestro de mercados norteamericanos
-- [[about-regional-markets]] — el marco de co-ubicación y los criterios de selección de mercados
+- [[about-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]]
+- [[atlas-canada|Índice de Mercados Regionales de Canadá]]
+- [[co-location-methodology|Metodología de Co-ubicación]]
+
+## Referencias
+
+- [Barrie](https://en.wikipedia.org/wiki/Barrie) — Wikipedia, consultado 2026-07-10
+
+*Contenido de Wikipedia reproducido bajo [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*

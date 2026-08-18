@@ -2,27 +2,30 @@
 schema: foundry-doc-v1
 title: "Índice de plantas clave — referencia maestra"
 slug: bim-key-plans-index
-short_description: "Directorio maestro de 72 key plans en nueve Development Classes, pareando Development Class con Typology y Eco Region para producir los slugs de nombre de archivo referenciados en artefactos BIM posteriores, tokens DTCG, clasificaciones de entidad IFC y superposiciones reglamentarias."
+short_description: "Directorio maestro de 72 key plans en siete Grupos de Planta Clave, pareando Grupo de Planta Clave con Typology y Eco Region para producir los slugs de nombre de archivo referenciados en artefactos BIM posteriores, tokens DTCG, clasificaciones de entidad IFC y superposiciones reglamentarias."
 category: building-design
 type: topic
+index_type: thematic
 content_type: topic
 quality: complete
 status: pre-build
 audience: operator
 bcsc_class: vendor-internal
 language_protocol: TRANSLATE-ES
-last_edited: 2026-05-25
+last_edited: 2026-07-16
 editor: pointsav-engineering
 paired_with: building-design/bim-key-plans-index.md
 ---
 
-El Directorio de Plantas Clave inventaría cada sub-área diferenciada de la planta que el Modelo de Información del Edificio (BIM, por sus siglas en inglés) reconoce. Cada entrada combina una Clase de Desarrollo con una Tipología y (donde corresponde) una Eco Región, generando un identificador de nombre de archivo que se referencia desde todos los artefactos BIM posteriores — tokens del Design Token Community Group (DTCG), clasificaciones de entidades de las Clases de Fundaciones de la Industria (IFC), solvers en Rust, presentaciones y superposiciones de normativa. El Directorio sustenta el [[bim-tile-system|sistema de teselas]] y la [[bim-floor-plate-methodology|metodología de la planta]]; la geometría interior por tipo de uso la fija la [[bim-building-width-method|Calculadora de Anchura del Edificio]] y las [[bim-zone-depths-per-use-type|profundidades de zona por tipo de uso]].
+El Directorio de Plantas Clave inventaría cada sub-área diferenciada de la planta que el Modelo de Información del Edificio (BIM, por sus siglas en inglés) reconoce. Cada entrada combina un Grupo de Planta Clave con una Tipología y (donde corresponde) una Eco Región, generando un identificador de nombre de archivo que se referencia desde todos los artefactos BIM posteriores — tokens del Design Token Community Group (DTCG), clasificaciones de entidades de las Clases de Fundaciones de la Industria (IFC), solvers en Rust, presentaciones y superposiciones de normativa. El Directorio sustenta el [[bim-tile-system|sistema de teselas]] y la [[bim-floor-plate-methodology|metodología de la planta]]; la geometría interior por tipo de uso la fija la [[bim-building-width-method|Calculadora de Anchura del Edificio]] y las [[bim-zone-depths-per-use-type|profundidades de zona por tipo de uso]].
 
-El Directorio actual (V2, con fechas tanto del 2025-01-07 como redatado al 2026-01-06 — contenido idéntico) contiene **72 plantas clave en nueve Clases de Desarrollo**.
+**Nota (corregida 2026-07-16):** "Grupo de Planta Clave" es el eje propio de agrupación de catálogo de este libro de trabajo para plantas clave individuales — un uso distinto y sobrecargado de "Clase de Desarrollo" respecto de las seis tipologías de edificio reales del portafolio (Centros Profesionales, Oficina Suburbana, Retail Select, Industrial Tecnológico, Almacenes Verticales, Estructuras de Estacionamiento — véase [[about-development-classes|Clases de desarrollo]]). Este artículo antes llamaba "Clase de Desarrollo" al eje del libro de trabajo y establecía el conteo como "nueve," lo cual contradecía su propia tabla de 7 filas más abajo; ambos se corrigen aquí para evitar confundir los dos ejes.
 
-## Clases de Desarrollo y número de plantas clave
+El Directorio actual (V2, con fechas tanto del 2025-01-07 como redatado al 2026-01-06 — contenido idéntico) contiene **72 plantas clave en siete Grupos de Planta Clave**.
 
-| # | Clase de Desarrollo | Número de plantas clave | Rango del índice |
+## Grupos de Planta Clave y número de plantas clave
+
+| # | Grupo de Planta Clave | Número de plantas clave | Rango del índice |
 |---|---|---:|---|
 | 1 | General | 25 | 1–25 |
 | 2 | Centro Profesional | 13 | 26–38 |

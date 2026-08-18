@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "El Programa de Expansión"
+title: "Programa de Expansión"
 slug: rollout-index
 category: rollout
 type: topic

@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Co-location Index: Canada"
+title: "Co-location index: Canada"
 slug: atlas-co-location-index-canada
 category: markets
 type: topic
@@ -10,7 +10,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-25
+last_edited: 2026-07-11
 editor: pointsav-engineering
 short_description: "Ranked index of high-value co-location nodes in Canada, evaluating Walmart Supercentre anchor sites by proximity to Costco, Home Depot, and civic infrastructure."
 paired_with: markets/atlas-co-location-index-canada.es.md
@@ -54,4 +54,4 @@ The following municipalities host nodes that have achieved full commercial conve
 
 ---
 
-*Copyright © 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).*
+*Copyright © 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nd/4.0/).*

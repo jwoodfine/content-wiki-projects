@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Burgos Regional Market"
 slug: es-cl-burgos
+language: en
+language_protocol: PROSE-TOPIC
 category: markets
 type: topic
 content_type: topic
@@ -9,70 +11,50 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-language_protocol: PROSE-TOPIC
-keynote: false
-last_edited: 2026-06-29
-editor: woodfine-editorial
-short_description: "Castilian provincial capital with an automotive manufacturing base, above-average income relative to Spain's national median, and an established large-format retail corridor."
+short_description: "Castile and León city, 244 km from Madrid — outside the current Top-400 ranked pool."
 paired_with: markets/es-cl-burgos.es.md
+last_edited: 2026-07-10
+editor: editorial
 ---
 
-The **Burgos regional market** is the provincial capital of the Province of Burgos in the
-Castile and León autonomous community of Spain, located approximately 240 kilometres north
-of Madrid on the Camino de Santiago route and the A-1 autovía corridor. The municipality
-of Burgos had a population of approximately 178,000 in 2021, and the broader functional
-area including adjacent municipalities represents a catchment of approximately 220,000–240,000.
-Burgos is the northernmost major city of the Castilian Meseta and functions as the primary
-commercial and professional services centre for the eastern Castile and León region.
+Burgos does not currently appear in the European Top-400 Regional Markets list — at 244
+kilometres from Madrid it sits well outside the 15–80 km suburban-regional band the ranking
+uses.
 
-## Economic profile
+## Overview
 
-Burgos has developed one of the strongest automotive manufacturing bases of any Spanish
-provincial capital, driven by the Renault plant in nearby [[es-cl-valladolid|Valladolid]]'s broader industrial
-region and the local presence of component manufacturers and logistics operations serving
-the automotive supply chain. The Grupo Antolin — one of Europe's largest automotive
-interior components suppliers — is headquartered in Burgos and is the city's largest
-private employer, with operations spanning more than 25 countries.
+According to Wikipedia (accessed 2026-07-10), Burgos had 176,551 residents as of 2024 across
+107.06 square kilometres (metropolitan area approximately 200,000), situated 244 km south of
+Madrid in northern Spain's Castile and León region at 865 metres elevation.
 
-Miranda de Ebro (approximately 75 km to the northeast) and its industrial zone complement
-the Burgos manufacturing base with petrochemical and chemical processing industries.
-Together, the Burgos–Miranda de Ebro industrial axis produces an above-average income
-profile for Castile and León, with household incomes in the city proper exceeding the
-Castile and León regional average.
+**Correction (2026-08-02):** Burgos is north of Madrid, not south — the sentence is
+even internally inconsistent, calling the location "northern Spain" in the same
+breath as "south of Madrid." **Flagged, not resolved.** Burgos ranks
+among Spain's wealthier cities, with GDP exceeding national averages; the economy combines
+manufacturing, agriculture, and services. Key employers include Grupo Antolin (automotive
+components) and Benteler International's regional headquarters operations. The city hosts
+Villalonquéjar, the largest industrial park in northern Spain, alongside a wheat-based
+agricultural sector and a tertiary sector dominated by the city's administrative functions.
+Notable retail and cultural infrastructure includes the Auditorio y Palacio de Congresos
+(opened 2012) and the Museum of Human Evolution, the 10th most visited museum in Spain. The
+population skews older (24.5 percent over 65), with significant foreign-born residents (13.4
+percent), primarily from Colombia, Romania, and Ecuador.
 
-The University of Burgos, with approximately 9,000 students, and the Hospital Universitario
-de Burgos (the largest hospital in Castile and León) are the primary institutional anchors.
-Burgos functions as the regional medical referral centre for the eastern Castile and León
-catchment, including Soria, Palencia, and La Rioja border communities.
+## Regional Market Standing
 
-## Commercial real estate characteristics
+Burgos does not currently appear in the [[atlas-top-400-europe|Top 400 Regional Markets —
+Europe]] list. This is not a data defect; its 244 km distance from Madrid places it outside
+[[about-regional-markets-system|the co-location scoring system's]] 15–80 km suburban-regional
+band, classifying it as standalone-secondary.
 
-The primary large-format retail concentration in Burgos is along the Madrid road axis and
-the Burgos retail park cluster to the east of the city on the A-1 corridor, where Leroy
-Merlin, Carrefour, MediaMarkt, and Decathlon anchor the Fachmarkt-equivalent Parque
-Comercial format. This retail park concentration is the principal [[co-location-strategy|co-location]] signal for
-professional centre assessment in the Spanish market.
+## See Also
 
-The historic city centre — with the Burgos Cathedral (a UNESCO World Heritage Site) and
-the pedestrianised shopping zone — is a traditional retail and professional services node.
-Legal, notarial, insurance, and financial advisory services maintain downtown presence.
+- [[about-regional-markets-system|Regional Markets Intelligence System]]
+- [[atlas-spain|Spain Regional Market Index]]
+- [[co-location-methodology|Co-location Methodology]]
 
-The Gamonal district in the east of Burgos, adjacent to the industrial zone, is the primary
-working-class residential area and serves community retail and local professional services
-at a different price point than the city centre.
+## References
 
-## Key indicators
+- [Burgos](https://en.wikipedia.org/wiki/Burgos) — Wikipedia, accessed 2026-07-10
 
-| Indicator | Value | Notes |
-|---|---|---|
-| Municipal population (2021) | ~178,000 | Municipality of Burgos |
-| Primary retail park corridor | A-1 Madrid axis / east Burgos | Leroy Merlin, Carrefour, Decathlon anchors |
-| Major institutional anchors | Grupo Antolin HQ; Hospital Universitario de Burgos; University of Burgos | Automotive manufacturing as primary private employer |
-| Income profile | Above Castile and León regional average | Automotive manufacturing premium |
-| Autovía access | A-1 (Madrid–Vitoria–Bilbao); A-62 (Valladolid); N-120 (west toward Logroño) | Northern Castile highway hub |
-
-## See also
-
-- [[atlas-spain]] — Spain regional market index
-- [[atlas-top-600-europe]] — the European master market index
-- [[about-regional-markets]] — the co-location framework and market selection criteria
+*Wikipedia content reproduced under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*

@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Mercado regional de Regina"
 slug: ca-sk-regina
+language: es
+language_protocol: TRANSLATE-ES
 category: markets
 type: topic
 content_type: topic
@@ -9,74 +11,47 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-language_protocol: TRANSLATE-ES
-keynote: false
-last_edited: 2026-06-29
-editor: woodfine-editorial
-short_description: "Capital provincial de Saskatchewan con una base profesional estable en gobierno y energía, y un nodo de comercio minorista de power centre consolidado."
+short_description: "Capital provincial de Saskatchewan — fuera del conjunto clasificado Top-400 actual (sin núcleo metropolitano cercano)."
 paired_with: markets/ca-sk-regina.md
+last_edited: 2026-07-10
+editor: editorial
 ---
 
-El **mercado regional de Regina** es la capital provincial de Saskatchewan y el segundo centro
-urbano más grande de la provincia después de Saskatoon. El Área Metropolitana del Censo de
-Regina tenía una población de aproximadamente 250.000 habitantes en 2021. Como sede del
-gobierno de Saskatchewan, Regina alberga una sustancial base de empleo en el sector público
-concentrada en la burocracia provincial, las corporaciones de la Corona, el poder judicial
-y los organismos reguladores. Esta concentración gubernamental, combinada con la actividad
-de las sedes del sector energético provincial y la presencia de la Universidad de Regina,
-otorga a la ciudad un perfil de demanda de servicios profesionales grande en relación con su
-población total.
+Regina, la capital de Saskatchewan, no aparece actualmente en la lista Top-400 de Mercados
+Regionales de América del Norte — las praderas canadienses no la sitúan dentro de la banda
+suburbano-regional de 15 a 80 km de ningún núcleo metropolitano importante.
 
-## Perfil económico
+## Descripción general
 
-El gobierno de Saskatchewan es el empleador dominante en Regina, pero el sector privado se
-ha desarrollado en torno al ancla gubernamental para incluir empresas del sector energético
-(particularmente aquellas con relaciones regulatorias y de regalías provinciales), servicios
-jurídicos, contables y financieros dirigidos tanto a clientes gubernamentales como agrícolas.
-The Mosaic Company, uno de los mayores productores de potasa del mundo, mantiene operaciones
-significativas en la región de Regina, al igual que las corporaciones de la Corona SaskPower
-y SaskTel. La Universidad de Regina añade una capa de demanda de servicios profesionales
-y estudiantiles.
+Según Wikipedia (consultado el 10 de julio de 2026), Regina tenía 226.404 habitantes en el
+censo de 2021 (área metropolitana 249.217) en 178,81 kilómetros cuadrados, situada
+inmediatamente al este de Moose Jaw, en una llanura amplia, plana y sin árboles. La ciudad
+sirve como capital provincial y centro comercial del sur de Saskatchewan, albergando el
+Edificio de la Legislatura Provincial y numerosas instituciones provinciales. La economía se
+ha diversificado más allá de la dependencia agrícola, con los sectores agrícola, minorista y
+de servicios sosteniendo a la población regional. Wascana Centre, un parque de 9,3 kilómetros
+cuadrados alrededor del lago Wascana, ancla el núcleo cultural e institucional de la ciudad,
+albergando edificios gubernamentales, museos e instalaciones educativas. La población es cada
+vez más diversa, con inmigrantes que representan el 20,3% de los residentes, encabezados por
+comunidades filipina, india y china.
 
-## Características del mercado inmobiliario comercial
+## Posición en el Mercado Regional
 
-Los nodos primarios de [[power-centres|power centre]] de Regina se concentran en el extremo norte de la ciudad
-a lo largo de Albert Street North y el Northgate Shopping District, así como a lo largo de
-Victoria Avenue en el extremo este. Costco, Home Depot, Walmart Supercentre y Canadian Tire
-anclan los principales nodos minoristas.
-
-El extremo sur de Regina, particularmente el área de Harbour Landing, ha experimentado un
-significativo crecimiento residencial desde 2010 y está generando demanda de comercio
-minorista comunitario y ocupación de servicios profesionales a medida que el nuevo barrio
-alcanza una masa residencial crítica.
-
-La oferta de espacio de oficinas profesionales en Regina se concentra en el centro de la
-ciudad a lo largo de Albert Street y en los dos nodos de oficinas suburbanas principales
-de la ciudad — el norte de Regina cerca del grupo gubernamental y el sur de Regina cerca
-de las nuevas áreas residenciales.
-
-## Ancla de demanda gubernamental
-
-El empleo gubernamental de Regina crea una característica de demanda de servicios
-profesionales distintiva: abogados (particularmente los que practican derecho administrativo,
-regulatorio y energético), contadores con bases de clientes del sector público, consultores
-de relaciones gubernamentales y empresas de TI cuyo cliente principal es el gobierno
-provincial o las corporaciones de la Corona. Esta demanda es anticíclica con respecto a los
-mercados de materias primas, proporcionando estabilidad que los mercados puramente basados
-en recursos carecen.
-
-## Indicadores clave
-
-| Indicador | Valor | Notas |
-|---|---|---|
-| Población del AMA (2021) | ~250.000 | AMA de Regina |
-| Crecimiento poblacional 2016–2021 | ~5% | Crecimiento moderado; base gubernamental estable |
-| Nodos primarios de power centre | Albert Street N (Northgate); Victoria Avenue E | Anclas Costco, Home Depot, Walmart |
-| Principales anclas institucionales | Gobierno de Saskatchewan; Universidad de Regina; hospitales SHA | El gobierno como ancla de demanda primaria |
-| Acceso a autopistas | Trans-Canada (AUTOPISTA 1 este-oeste); AUTOPISTA 11 (norte hacia Saskatoon); AUTOPISTA 6/39 (sur) | Nodo de autopistas de las praderas |
+Regina no aparece actualmente en la lista clasificada
+[[atlas-top-400-north-america|Top 400 Mercados Regionales — América del Norte]]. Esto no es
+un defecto de datos; las praderas canadienses no sitúan a Regina dentro de la banda
+suburbano-regional de 15 a 80 km de [[about-regional-markets-system|el sistema de puntuación
+de co-ubicación]] respecto a ningún núcleo metropolitano importante — funciona como su propio
+centro comercial provincial.
 
 ## Véase también
 
-- [[atlas-canada]] — índice del mercado regional de Canadá y cobertura provincial
-- [[atlas-top-600-north-america]] — el índice maestro de mercados norteamericanos
-- [[about-regional-markets]] — el marco de co-ubicación y los criterios de selección de mercados
+- [[about-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]]
+- [[atlas-canada|Índice de Mercados Regionales de Canadá]]
+- [[co-location-methodology|Metodología de Co-ubicación]]
+
+## Referencias
+
+- [Regina, Saskatchewan](https://en.wikipedia.org/wiki/Regina,_Saskatchewan) — Wikipedia, consultado 2026-07-10
+
+*Contenido de Wikipedia reproducido bajo [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*

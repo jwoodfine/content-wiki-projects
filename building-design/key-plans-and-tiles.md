@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Key Plans and Tiles"
+title: "Key plans and tiles"
 slug: key-plans-and-tiles
 category: building-design
 type: topic
@@ -10,7 +10,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-06-26
+last_edited: 2026-07-11
 editor: pointsav-engineering
 short_description: "A geometric, self-similar space planning system derived from tenant equipment and circulation geometry, used to derive fixed floor plate dimensions."
 paired_with: building-design/key-plans-and-tiles.es.md

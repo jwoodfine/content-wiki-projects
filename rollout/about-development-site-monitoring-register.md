@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Development Site Monitoring Register"
+title: "Development site monitoring register"
 slug: about-development-site-monitoring-register
 category: rollout
 type: topic
@@ -9,7 +9,7 @@ quality: complete
 short_description: "Passive tracking register holding qualified co-location sites removed from the active pipeline for adjacent land unavailability, kept scored with documented re-entry criteria."
 status: stable
 bcsc_class: current-fact
-last_edited: 2026-07-01
+last_edited: 2026-07-11
 editor: pointsav-engineering
 language_protocol: PROSE-TOPIC
 source_refs:
@@ -24,7 +24,20 @@ The **Development Site Monitoring Register** holds Primary Target locations that
 
 A Primary Target that achieves a qualifying cluster score (T1 Valid ≥ 150 on the [[geographic-co-location-methodology|five-degree scoring system]]) has demonstrated the co-location conditions that Woodfine requires: Home Depot and Costco within the primary radius threshold, and qualifying Tertiary Target presence within the tertiary radius threshold. The cluster score verifies that the commercial environment is correct for a Woodfine Building.
 
-Adjacent land availability is a separate condition. A site can have the correct co-location configuration and the correct demographic profile, but lack a parcel adjacent to the Primary Target that is available for acquisition at the time of assessment. This is particularly common in [[about-regional-markets|Regional Markets]] where the [[power-centres|Power Centre]] footprint has been fully developed and surrounding parcels are occupied by existing buildings whose owners are not current sellers.
+**Correction (2026-08-02, verified against this article's own cited sibling docs,
+[[geographic-co-location-methodology]] and [[gis-cluster-scoring-glossary]]):** the
+conditions just described — both Home Depot and Costco present, plus a qualifying
+Tertiary Target — define a **Fourth-Degree Cluster**, not "T1 Valid." Per the glossary,
+T1 Valid (score ≥ 150) is explicitly the entry-level tier with "Primary Target
+presence with partial co-location confirmation" — the qualifying bar is materially
+lower than what's described here. A cluster meeting the description actually given
+would score well above the T2 Hub (≥450) or T3 Apex (≥700) thresholds. Same mismatch
+recurs below in the re-entry criteria ("maintained or improved... at or above the T1
+Valid threshold"). **Flagged, not resolved** — needs a decision on which tier
+threshold this register is actually meant to gate re-entry at, not a mechanical
+label swap.
+
+Adjacent land availability is a separate condition. A site can have the correct co-location configuration and the correct demographic profile, but lack a parcel adjacent to the Primary Target that is available for acquisition at the time of assessment. This is particularly common in [[about-regional-markets-system|Regional Markets]] where the [[power-centres|Power Centre]] footprint has been fully developed and surrounding parcels are occupied by existing buildings whose owners are not current sellers.
 
 The Monitoring Register preserves the investment made in scoring and profiling these sites rather than discarding them from the dataset. The site's qualifying cluster characteristics are not expected to change — the Primary Target is typically a large-format retailer with a long-term lease and substantial capital invested in the site — and the probability that adjacent land will eventually become available is a function of normal commercial real estate turnover in the surrounding area.
 

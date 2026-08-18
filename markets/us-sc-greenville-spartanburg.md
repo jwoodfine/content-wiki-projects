@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Greenville–Spartanburg Regional Market"
 slug: us-sc-greenville-spartanburg
+language: en
+language_protocol: PROSE-TOPIC
 category: markets
 type: topic
 content_type: topic
@@ -9,83 +11,61 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-language_protocol: PROSE-TOPIC
-keynote: false
-last_edited: 2026-06-29
-editor: woodfine-editorial
-short_description: "Upstate South Carolina market with a large and diversified manufacturing base, rising household income, and comprehensive power centre retail infrastructure."
+short_description: "South Carolina Upstate metro-core reference point for surrounding suburban markets — not itself in the Top-400 ranked pool."
 paired_with: markets/us-sc-greenville-spartanburg.es.md
+last_edited: 2026-07-11
+editor: editorial
 ---
 
-The **Greenville–Spartanburg regional market** encompasses the adjacent urbanised areas of
-Greenville and Spartanburg in Upstate South Carolina, together forming one of the most
-significant commercial centres in the Southeastern United States outside the major metro
-tier. The Greenville–Anderson–Mauldin Metropolitan Statistical Area — which in combination
-with the Spartanburg MSA forms an effectively contiguous urban labour market — had a
-combined population of approximately 940,000 in 2021. Greenville is the larger and more
-commercially oriented of the two cities, but Spartanburg's county and its industrial base
-contribute significantly to the professional services demand of the combined market.
+Greenville does not carry its own entry in the North American Top-400 Regional Markets list.
+In the current dataset, "Greenville SC" functions as the metro-core reference point. Two
+other markets — Spartanburg, SC (rank 45) and Asheville, NC (rank 104) — are ranked as
+suburbs *of* Greenville, rather than Greenville being ranked as a suburban market itself.
 
-## Economic profile
+## Overview
 
-The Greenville–Spartanburg region has one of the most concentrated foreign direct investment
-manufacturing bases in the United States, led by the BMW Group's US manufacturing
-headquarters at Spartanburg County's Plant Spartanburg (Greer, SC). The BMW plant, which
-produces the X-series vehicle lineup for global export, is the single-largest US automotive
-export facility and employs approximately 11,000 people directly, with a substantially
-larger supplier ecosystem in the surrounding counties.
+According to Wikipedia (accessed 2026-07-10), Greenville's city proper had 70,720 residents
+at the 2020 census across 30.02 square miles (metropolitan area approximately 1 million). It
+serves as the anchor city of Upstate South Carolina, positioned roughly midway between
+Charlotte and Atlanta. Historically "The Textile Capital of the World," Greenville has
+transitioned toward advanced manufacturing and automotive production. Major employers include
+Michelin's North American headquarters, Prisma Health, Duke Energy, and Bon Secours. Downtown
+revitalization since the 1980s and 1990s includes the Peace Center (1990), Falls Park on the
+Reedy (2004), and the Liberty Bridge pedestrian suspension structure (2004).
 
-The manufacturing base extends beyond automotive to include Michelin North America
-(headquartered in Greenville), GE Power, Bosch, and a large number of tier-1 and tier-2
-manufacturing suppliers. This foreign-owned manufacturing concentration has driven household
-income growth in the region well above the South Carolina and Southeast US averages,
-generating demand for the professional services that accompany a population with above-average
-household income: wealth management, legal services, healthcare, and executive professional
-services.
+Spartanburg, roughly 30 miles northeast of Greenville, had 38,732 residents at the 2020
+census across 20.37 square miles, positioned approximately 80 miles west of Charlotte. The
+city benefits substantially from the BMW manufacturing facility in nearby Greer — the
+company's only full manufacturing plant in North America. That plant employed roughly 8,800
+people as of February 2017.
 
-Greenville Health System (now Prisma Health), the dominant healthcare system in Upstate
-South Carolina, and Spartanburg Medical Center provide healthcare employment and anchor
-medical professional service demand in both cities. Furman University, Wofford College,
-University of South Carolina Upstate, and Clemson University's Greenville campus (adjacent
-to downtown) contribute higher education anchor demand.
+**Correction (2026-08-02):** this has been untrue since 2019, when BMW opened a
+manufacturing plant in San Luis Potosí, Mexico. The Greer plant remains BMW's only
+full manufacturing plant in the United States, and its largest plant worldwide by
+volume — but not its only one in North America. **Flagged, not resolved.** Healthcare dominates local employment, led by Spartanburg
+Regional (9,648 positions), alongside county government, the school district, Wofford
+College, and Denny's corporate headquarters. Like Greenville, Spartanburg's economy
+historically centred on textile manufacturing before diversifying into healthcare, education,
+and corporate services.
 
-## Commercial real estate characteristics
+## Regional Market Standing
 
-The Haywood Road / Woodruff Road corridor in east Greenville is the primary [[power-centres|power centre]]
-and suburban retail concentration, including Costco, Home Depot, Lowe's, Walmart Supercenter,
-Target, Best Buy, and a comprehensive mid-box and restaurant retail ecosystem. This corridor,
-running roughly parallel to Interstate 85, extends into Mauldin and Simpsonville to the
-south, providing a large-format retail zone with strong anchor presence.
+Greenville does not appear as a ranked entry in the
+[[atlas-top-400-north-america|Top 400 Regional Markets — North America]] list. This is not a
+data defect: in the current build, "Greenville SC" is the metro-core reference point for two
+other suburban entries (Spartanburg, rank 45, score 9.0; Asheville, rank 104, score 7.5). This
+is consistent with [[about-regional-markets-system|the co-location scoring system's]] own
+taxonomy, which excludes metro cores from the suburban-regional ranked pool.
 
-Downtown Greenville has undergone significant revitalisation since the 1990s, anchored by
-the Falls Park on the Reedy pedestrian zone and Main Street commercial development. The
-downtown market supports a different tenant mix than the suburban power centre zone —
-boutique professional services, financial advisors, and law firms with executive clientele
-have established presence in the restored historic buildings of downtown.
+## See Also
 
-Spartanburg's commercial base is concentrated along Interstate 85 and the Westgate Mall
-corridor, with a suburban retail node and industrial park environment that reflects its
-manufacturing-adjacent economic character.
+- [[about-regional-markets-system|Regional Markets Intelligence System]]
+- [[atlas-united-states|United States Regional Market Index]]
+- [[co-location-methodology|Co-location Methodology]]
 
-## Regional draw
+## References
 
-The Greenville–Spartanburg market serves as the professional services hub for a large swath
-of Upstate South Carolina and northwestern North Carolina, drawing demand from communities
-in Greenwood, Anderson, Cherokee, and Union counties in South Carolina and from Polk and
-Henderson counties in North Carolina.
+- [Greenville, South Carolina](https://en.wikipedia.org/wiki/Greenville,_South_Carolina) — Wikipedia, accessed 2026-07-10
+- [Spartanburg, South Carolina](https://en.wikipedia.org/wiki/Spartanburg,_South_Carolina) — Wikipedia, accessed 2026-07-10
 
-## Key indicators
-
-| Indicator | Value | Notes |
-|---|---|---|
-| Combined MSA population (2021) | ~940,000 | Greenville–Anderson + Spartanburg MSAs |
-| Primary power centre corridor | Woodruff Road / Haywood Road (east Greenville) | Costco, Home Depot, Walmart anchors |
-| Major manufacturing anchors | BMW Plant Spartanburg; Michelin North America HQ; GE Power | Foreign direct investment manufacturing hub |
-| Major institutional anchors | Prisma Health (Greenville); Spartanburg Medical Center; Furman University | Healthcare as primary demand anchor |
-| Interstate access | I-85 (northeast to Charlotte; southwest to Atlanta); I-26 (southeast to Columbia) | Upstate SC highway hub |
-
-## See also
-
-- [[atlas-united-states]] — US regional market index and census region coverage
-- [[atlas-top-600-north-america]] — the North American master market index
-- [[about-regional-markets]] — the co-location framework and market selection criteria
+*Wikipedia content reproduced under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*

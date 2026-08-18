@@ -34,7 +34,7 @@ Los minoristas nacionales que anclan los centros de potencia relevantes para los
 
 ## Distribución geográfica y enfoque de mercado
 
-Los centros de potencia se concentran en [[about-regional-markets|mercados regionales]] — ciudades y áreas metropolitanas con poblaciones entre 50.000 y 300.000 habitantes — donde la disponibilidad de suelo y la economía del radio de captación vehicular favorecen el modelo de gran formato. En los grandes centros urbanos, los centros de potencia compiten con formatos minoristas de relleno; en los mercados regionales, el centro de potencia es generalmente el eje comercial dominante.
+Los centros de potencia se concentran en [[about-regional-markets-system|mercados regionales]] — ciudades y áreas metropolitanas con poblaciones entre 50.000 y 300.000 habitantes — donde la disponibilidad de suelo y la economía del radio de captación vehicular favorecen el modelo de gran formato. En los grandes centros urbanos, los centros de potencia compiten con formatos minoristas de relleno; en los mercados regionales, el centro de potencia es generalmente el eje comercial dominante.
 
 La cartera de selección de sitios evalúa la composición del centro de potencia, la antigüedad y el estado operativo de los minoristas ancla, y la proximidad a parcelas de desarrollo disponibles para calificar los sitios potenciales de co-localización dentro del [[co-location-ranking-system|sistema de clasificación]].
 

@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Pure-Predicate Catchment Ranking Methodology (V3)"
+title: "Pure-predicate catchment ranking methodology (V3)"
 slug: catchment-ranking-methodology-v3
 category: site-selection
 type: topic
@@ -10,7 +10,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-25
+last_edited: 2026-07-11
 editor: pointsav-engineering
 short_description: "The V3 tier-assignment methodology assigns each co-location cluster to one of four tiers using binary predicate gates — composition, national catchment rank, civic classification, and spatial overlap — replacing the prior composite-score system introduced in Sprint 17 (May 2026)."
 paired_with: site-selection/catchment-ranking-methodology-v3.es.md

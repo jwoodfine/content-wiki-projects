@@ -19,6 +19,17 @@ cites: []
 
 The Woodfine location intelligence map assigns each co-location cluster one of three tiers — T1, T2, or T3 — on the basis of retailer-category composition. The tiers are rendered as coloured dots graduated from T1 (deepest co-location) to T3 (shallowest qualifying co-location). Understanding precisely what the tiers measure — and what they do not — is necessary for reading any cluster result correctly.
 
+**Correction (2026-08-02):** this DBSCAN-based T1/T2/T3 composition-only system has
+no correspondence to the real canonical `app-orchestration-gis/SCORING-METHODOLOGY.md`
+V3 pipeline (percentile-rank predicate gates, four tiers — Regional/District/Local/
+Fringe — not three, not DBSCAN-based). It closely matches the DBSCAN taxonomy
+described in the JOURNAL working paper [[geometric-site-selection-national-tenancy]]
+§3.2–3.3, suggesting this TOPIC article describes that research paper's methodology
+as though it were the shipped platform. It also directly contradicts
+[[co-location-tier-nomenclature]]'s claim that T1/T2/T3 labels were retired
+platform-wide at Sprint 17. **Flagged, not resolved** — needs a decision on which
+tier system is actually live on the map today, not a mechanical fix.
+
 ## What the tiers measure
 
 The variable that drives the tier is **retailer-category composition**: the count and mix of distinct anchor categories co-present within a single spatial cluster. A cluster that contains a hypermarket, a home-improvement big-box, and a warehouse-club anchor has deeper composition than a cluster with a single hypermarket and one grocer. The tier is therefore an ordinal compositional classification.

@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Co-location Tier Index: North America"
+title: "Co-location tier index: North America"
 slug: atlas-tier-index-north-america
 category: markets
 type: topic
@@ -10,7 +10,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-06-19
+last_edited: 2026-07-11
 editor: editorial
 short_description: "Aggregated tier-ranked index of commercial convergence nodes across the United States, Canada, and Mexico, summarizing quality tier distribution by market."
 paired_with: markets/atlas-tier-index-north-america.es.md
@@ -20,6 +20,14 @@ cites:
 ---
 
 The United States hosts 85 Tier 5 commercial convergence sites across 3,500 evaluated primary anchors; Canada produces 12 Tier 5 sites from 400 evaluated anchors. The North American index evaluates the structural convergence of major retail operators across the United States, Canada, and Mexico. Using the [[co-location-methodology]] and operationalised by the [[co-location-ranking-system|deterministic ranking system]], the index identifies the highest-value commercial nodes based on the verified proximity of Primary Target [[co-location-anchors|anchors]] to secondary and tertiary supporting anchors. Map-facing tier labels follow the ICSC hierarchy described in [[co-location-tier-nomenclature|tier nomenclature]].
+
+**Correction (2026-08-02):** this citation is checkably wrong — this article's body
+exclusively uses a Tier 5(★★★★★)/Tier 4+(★★★★+)/Tier 3(★★★) star scheme keyed to
+anchor convergence, never the Regional/District/Local/Fringe names
+[[co-location-tier-nomenclature]] actually describes. A reader following the link
+finds an unrelated naming scheme with no bridge given. Separately, the real ICSC
+shopping-center hierarchy is Neighborhood/Community/Regional/Super Regional — it has
+no "District," "Local," or "Fringe" tier at all. **Flagged, not resolved.**
 
 ## Market scarcity and quality validation
 
@@ -52,4 +60,4 @@ Expansion of the Mexican and Canadian datasets to include tertiary healthcare da
 
 ---
 
-*Copyright © 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).*
+*Copyright © 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nd/4.0/).*

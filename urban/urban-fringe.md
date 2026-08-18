@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Urban Fringe (VWH)"
+title: "Urban fringe (VWH)"
 slug: urban-fringe
 category: urban
 type: concept
@@ -11,7 +11,7 @@ audience: vendor-public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
 language: en
-last_edited: 2026-06-20
+last_edited: 2026-07-11
 editor: pointsav-engineering
 paired_with: urban/urban-fringe.es.md
 short_description: "Urban Fringe (VWH) clusters identify large-format retail and distribution-industrial activity on the urban periphery — big-box hardware, home improvement, and logistics — one of three Location Intelligence co-location archetypes."

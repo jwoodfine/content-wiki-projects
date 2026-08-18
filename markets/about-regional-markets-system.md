@@ -1,7 +1,7 @@
 ---
 schema: foundry-doc-v1
 slug: about-regional-markets-system
-title: "Regional Markets Intelligence System"
+title: "Regional Markets intelligence system"
 language: en
 language_protocol: PROSE-TOPIC
 category: markets
@@ -13,7 +13,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Reference article for the co-location analysis system that identifies and ranks suburban retail markets in North America and Europe."
 paired_with: markets/about-regional-markets-system.es.md
-last_edited: 2026-05-30
+last_edited: 2026-08-03
 editor: editorial
 ---
 
@@ -24,6 +24,17 @@ The Regional Markets Intelligence System is a continental-scale geographic analy
 The research addresses a gap in institutional commercial real estate analysis. Major research organisations, including Oxford Economics, CBRE, and Colliers International, produce extensive coverage of primary metro markets: London, Paris, New York, Chicago, Dallas, Toronto, and their immediate urban cores. The suburban ring — the belt of named municipalities 15 to 80 kilometres from a major metro centre — is systematically underanalysed by institutional research. This is where large-format retail, hospital systems, and university campuses co-locate in patterns that function as leading indicators of demographic and economic activity at the sub-metropolitan scale. The Regional Markets dataset is the analytical surface for that suburban ring.
 
 The current dataset spans 6,493 co-location clusters across eighteen countries in North America and Europe, classified into three compositional tiers (T1, T2, T3) and aggregated into 4,436 named Regional Markets.
+
+**Correction (2026-08-02, verified against canonical `origin/main:app-orchestration-
+gis/SCORING-METHODOLOGY.md` §12):** these figures don't match the real production
+census — real is 10,213 clusters, 7 countries (US/MX/ES/DE/CA/FR/GB), and tier counts
+T1=157/T2=1,462/T3=2,081/T4=6,513 (a four-tier system, not three). This article also
+defines T1/T2/T3 as "Regional/District/Local," reusing the exact vocabulary of the
+canonical V3 predicate-gate system ([[co-location-tier-nomenclature]]) but with a
+different, purely compositional rule (no percentile gates, no civic-classification
+gate, no Fringe tier) — a further instance of this wiki's unreconciled parallel
+tier-system pattern, not previously named in the site-selection/ sweep. **Flagged,
+not resolved.**
 
 ## Dataset Scope
 
@@ -112,7 +123,7 @@ No metro-distance multiplier appears in the formula. Under a previous iteration 
 
 **Current top results.** North America: rank 1 Plano, TX (suburb of Dallas, 28 km, score 25.5); rank 2 Mesa, AZ (suburb of Phoenix, 31 km, score 22.5); rank 3 Frisco, TX (suburb of Dallas, 44 km, score 21.0). Europe: rank 1 Chemnitz (suburb of Dresden, 64 km, score 18.0); rank 5 Krefeld (suburb of Düsseldorf, 19 km, score 12.0).
 
-The full ranked lists are published separately: see [Top 400 Regional Markets — North America](topic-top-400-regional-markets-na) and [Top 400 Regional Markets — Europe](topic-top-400-regional-markets-eu).
+The full ranked lists are published separately: see [[atlas-top-400-north-america|Top 400 Regional Markets — North America]] and [[atlas-top-400-europe|Top 400 Regional Markets — Europe]].
 
 ## Civic Infrastructure Layer
 
@@ -206,7 +217,7 @@ Work planned or intended for the next iterations of the system.
 
 ## See Also
 
-- [[about-regional-market-matrix|Regional Market Matrix]]
+- [[regional-market-definition|Regional market definition]]
 - [[co-location-methodology|Co-location Methodology]]
 - [[co-location-intelligence-overview|Co-location Intelligence Overview]]
 - [[od-catchment-methodology|O-D Catchment Methodology]]

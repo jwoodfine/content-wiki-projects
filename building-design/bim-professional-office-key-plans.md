@@ -31,6 +31,14 @@ Professional Office is the superordinate category for five sub-types: [[bim-busi
 
 Computed building width = 2 × (6.0 + 3.8) + 2.0 = **21.6 m** (70'-10").
 
+**Correction (2026-08-02, verified against [[bim-zone-depths-per-use-type]]):** this
+whole 3.8m/2.0m Z2/Z3 baseline was superseded — the canonical V12 baseline
+(reconciled 2026-05-17, per that article's own inconsistency log) restores
+Z2=3.0m/Z3=3.0m, giving building width **21.00 m exactly**, not the 21.6m computed
+here or the "21.6m = 0.6m demising-structural overhead on top of 21m" framing
+further below. This whole section should be re-based on the reconciled values.
+**Flagged, not resolved.**
+
 ## Tenant categories
 
 The [[bim-key-plans-index|Key Plans]] system recognises eleven tenant categories:
@@ -57,10 +65,14 @@ Combining two Professional Office Smalls fills the gap between Professional Offi
 
 | Combination | Lab | Academic | Business | Medical | Civic |
 |---|---|---|---|---|---|
-| Small + Small | 390 m² / 4,198 SF | 210 / 2,262 | 622 / 6,700 | 446 / 2,402 | 540 / 5,824 |
+| Small + Small | 390 m² / 4,198 SF | 210 / 2,262 | 622 / 6,700 | 446 / 2,402 *(SF uncorrected — see note below)* | 540 / 5,824 |
 | Small + Medium | 511 / 5,500 | 345 / 3,714 | 711 / 7,652 | 554 / 5,969 | 847 / 9,127 |
 | Small + Large | 596 / 6,412 | 483 / 5,201 | 980 / 10,874 | 709 / 7,633 | 1,092 / 11,762 |
 | Medium + Large | 717 / 7,714 | 618 / 6,653 | 1,069 / 11,826 | 817 / 8,799 | 1,399 / 15,065 |
+
+**Correction (2026-08-02):** the Medical Small+Small row's SF value (2,402) is the
+single Small SF figure, not doubled — every other cell in this table correctly
+doubles both units. The correct value is ≈4,803 SF. **Flagged, not resolved.**
 
 Combinations are how a Professional Centre fills a floor plate without gaps. Two Small Lab suites (390 m²) plus one Medium Medical suite (331 m²) plus one Large Civic suite (822 m²) = 1,543 m² — which fits inside a typical 19,000–23,000 SF Professional Centre floor alongside the building core, amenities, and elevator lobby.
 

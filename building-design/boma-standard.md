@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "BOMA Standard"
+title: "BOMA standard"
 slug: boma-standard
 category: building-design
 type: topic
@@ -10,7 +10,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-06-26
+last_edited: 2026-07-11
 editor: pointsav-engineering
 short_description: "The Building Owners and Managers Association measurement standard for commercial floor area, used as the common measurement basis for Woodfine lease areas and building comparisons."
 paired_with: building-design/boma-standard.es.md
@@ -27,6 +27,12 @@ The BOMA standard distinguishes two primary area measures:
 **Usable Area** is the space a tenant exclusively occupies — the demised area inside the demising walls, excluding the building core and multi-tenant common areas. It represents the space a tenant configures and operates.
 
 **Rentable Area** adds a proportionate share of the building's common areas — lobbies, corridors, service areas — to the Usable Area, producing the area against which the lease rate is applied. The ratio of Rentable to Usable Area (the "load factor" or "loss factor") reflects how efficiently the building converts gross area to tenant-exclusive use.
+
+**Correction (2026-08-02):** "load factor" and "loss factor" are not the same
+figure in standard CRE usage — load factor is Rentable/Usable (a multiplier, e.g.
+1.15), while loss factor is (Rentable − Usable)/Rentable (a percentage, e.g. ~13%).
+Presenting them as interchangeable synonyms for one ratio is imprecise. **Flagged,
+not resolved.**
 
 Woodfine [[fixed-floor-plates|fixed floor plates]] are designed to optimize the Rentable-to-Usable ratio by minimizing the core footprint relative to the plate's total area. A smaller building core relative to the plate produces a lower load factor, meaning tenants obtain more Usable Area per unit of Rentable Area paid.
 

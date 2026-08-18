@@ -63,6 +63,12 @@ The 6 m figure is not universal. Three of the seven established use types diverg
 
 - **Academic** compresses Habitat to **4.7 m** because seating faces forward (toward a podium/board) rather than toward the façade.
 - **[[bim-medical-key-plans|Medical]]** widens Habitat to **7.28 m** to accommodate exam-table depth plus patient and clinician circulation per accessibility-code clearances.
+
+  **Correction (2026-08-02, verified against [[bim-zone-depths-per-use-type]]'s V3
+  Master Summary):** the canonical value is **7.2 m**, not 7.28 m — this article's
+  sibling `bim-medical-key-plans.md` also carries the stale 7.28 figure in its
+  frontmatter while its own body/table/formula correctly use 7.2. **Flagged, not
+  resolved.**
 - **Laboratory** widens Habitat to **6.78 m** to accommodate bench depth and fume-hood clearance.
 
 ### Zone 2 — Magazine

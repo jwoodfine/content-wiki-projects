@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Transaction Summary Report Protocol"
+title: "Transaction summary report protocol"
 slug: transaction-summary-report-protocol
 category: gis
 type: topic
@@ -9,7 +9,7 @@ quality: complete
 short_description: "Site-approval protocol advancing shortlisted Development Site candidates from geographic scoring to Independent Director review via the Transaction Summary Report."
 status: stable
 bcsc_class: current-fact
-last_edited: 2026-07-01
+last_edited: 2026-07-11
 editor: pointsav-engineering
 language_protocol: PROSE-TOPIC
 source_refs:

@@ -18,6 +18,16 @@ paired_with: site-selection/od-catchment-methodology.es.md
 
 The Woodfine [[co-location-methodology|co-location]] platform defines trade areas for each cluster using an Origin-Destination (O-D) model based on crow-flies distance rings over a hexagonal spatial grid. Each cluster is assigned two catchment zones that determine which population and spend data is attributed to it. The trade-area inputs to the [[co-location-ranking-system|deterministic ranking system]] and the [[catchment-ranking-methodology-v3|V3 catchment ranking methodology]] flow from this model; population and spend layers are documented in [[trade-area-data-sources|trade-area data sources]].
 
+**Correction (2026-08-02):** this article's own title and body use "catchment"
+throughout for what is, by its own description, a straight-line crow-flies distance
+ring. Its sibling [[trade-area-methodology]] (a later article on the identical
+geometry — same 35 km/150 km rings, same H3 resolution-7 cells, numbers verified
+matching exactly) explicitly bans this: "any geometry derived from a straight-line
+formula reads as 'distance band (straight-line)' on the map face and in the detail
+panel — never 'catchment' and never 'trade area.'" The underlying geometry here is
+not in dispute; the terminology directly violates a sibling article's explicit,
+disclosure-relevant labeling rule. **Flagged, not resolved.**
+
 ## Spatial Framework
 
 Trade areas are computed using the H3 global hexagonal grid at resolution 7. Each H3 resolution-7 cell covers approximately 5.16 km² with a centre-to-centre spacing of approximately 2.11 km. The grid is continuous and consistent worldwide, enabling direct comparison between clusters across all countries in the current dataset.

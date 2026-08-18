@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Suburban Office Development Class"
+title: "Suburban office development class"
 slug: class-suburban-office
 category: buildings
 type: topic
@@ -10,14 +10,14 @@ status: stable
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-03
+last_edited: 2026-07-11
 editor: pointsav-engineering
 short_description: "Suburban Office extends the Professional Centres office product to a 2.0-kilometre radius where 1.0-kilometre siting is not feasible, serving the same tenant base in a fallback deployment format."
 paired_with: buildings/class-suburban-office.es.md
 cites: []
 ---
 
-Suburban Office is one of the six [[about-development-classes|development classes]] in Woodfine Management Corp.'s direct-hold portfolio. It is a multi-storey office building type that extends the [[class-professional-centres|Professional Centres]] product to a wider proximity radius, providing the same institutional office format at sites where the tighter [[power-centres|power centre]] siting standard cannot be met.
+Suburban Office is one of the six [[about-development-classes|development classes]] in MCorp's direct-hold portfolio. It is a multi-storey office building type that extends the [[class-professional-centres|Professional Centres]] product to a wider proximity radius, providing the same institutional office format at sites where the tighter [[power-centres|power centre]] siting standard cannot be met.
 
 ## What Suburban Office is
 

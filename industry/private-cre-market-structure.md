@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Private Commercial Real Estate Market Structure"
+title: "Private commercial real estate market structure"
 slug: private-cre-market-structure
 category: industry
 type: topic
@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-06-29
+last_edited: 2026-07-11
 editor: woodfine-editorial
 paired_with: industry/private-cre-market-structure.es.md
 ---

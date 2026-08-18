@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Contextual Architecture"
+title: "Contextual architecture"
 slug: contextual-architecture
 category: architecture
 type: topic
@@ -10,7 +10,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-06-27
+last_edited: 2026-07-11
 editor: pointsav-engineering
 short_description: "A design approach that gives priority to the relationship between a new building and its existing surroundings — scale, material, massing, and use — rather than to the building's own internal formal logic."
 paired_with: contextual-architecture.es.md

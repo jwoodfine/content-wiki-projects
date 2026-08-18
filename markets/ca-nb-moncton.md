@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Moncton Regional Market"
 slug: ca-nb-moncton
+language: en
+language_protocol: PROSE-TOPIC
 category: markets
 type: topic
 content_type: topic
@@ -9,82 +11,47 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-language_protocol: PROSE-TOPIC
-keynote: false
-last_edited: 2026-06-29
-editor: woodfine-editorial
-short_description: "Atlantic Canada's primary commercial and logistics hub, bilingual market with strong retail investment and a regional catchment across New Brunswick."
+short_description: "Maritime Canada's commercial hub — outside the current Top-400 ranked pool (no single dominant major metro core in the region)."
 paired_with: markets/ca-nb-moncton.es.md
+last_edited: 2026-07-11
+editor: editorial
 ---
 
-The **Moncton regional market** is the dominant commercial centre in Atlantic Canada outside
-Halifax, located at the geographic centre of New Brunswick where the Trans-Canada Highway
-intersects major routes toward Prince Edward Island, Nova Scotia, and the Fundy coast. The
-Moncton Census Metropolitan Area — encompassing Moncton, Riverview, and Dieppe — had a
-population of approximately 183,000 in 2021. Moncton is Canada's most bilingual major urban
-centre outside of the Ottawa–Gatineau area, with French-speaking residents concentrated in
-Dieppe and many suburban communities and English-speaking residents concentrated in the city
-of Moncton proper. This bilingual demographic generates a distinct professional service
-demand structure: government services, legal services, and financial institutions often
-maintain parallel French and English operations.
+Moncton, the commercial hub of the Maritime Provinces, does not currently appear in the North
+American Top-400 Regional Markets list. The region lacks a single dominant major-metro core
+against which the ranking's suburban-regional distance band would apply.
 
-## Economic profile
+## Overview
 
-Moncton's economy is anchored by logistics and transportation (reflecting its position as
-the Maritime transport hub), retail trade, government services, financial services, and
-insurance. The city houses the regional headquarters of several national financial
-institutions and insurance companies, which represent the legacy of Moncton's historical
-importance as Maritime Canada's financial services centre. CN's Atlantic region maintenance
-operations and Irving Oil's distribution infrastructure maintain a logistics employment base.
+According to Wikipedia (accessed 2026-07-10), Moncton's city proper had 79,470 residents at
+the 2021 census (metropolitan area 157,717) across 140.67 square kilometres. It is situated in
+southeastern New Brunswick at the geographic centre of the Maritime Provinces along the
+Petitcodiac River. The economy is stable and diversified, built on transportation,
+distribution, retailing, and commercial heritage, and supplemented by education, healthcare,
+finance, IT, and insurance. Moncton benefits from a bilingual workforce and the largest
+catchment area in Atlantic Canada — 1.6 million people within a three-hour drive. More than
+37 call centres employ over 5,000 people. Corporate headquarters include Assumption Life,
+Atlantic Lottery Corporation, and Medavie Blue Cross, alongside Irving Group operations and a
+Molson Coors brewery. Recent commercial development includes the Avenir Centre arena (2018)
+and retail centres such as Champlain Place and Wheeler Park Power Centre.
 
-Université de Moncton, one of Canada's largest francophone universities, is a significant
-institutional employer and generates consistent student and academic professional demand.
-The Vitalité Health Network, the French-language health authority serving New Brunswick,
-operates the Dr.-Georges-L.-Dumont University Hospital Centre in Moncton alongside
-Horizon Health Network's Moncton City Hospital, making Moncton the de facto regional
-medical centre for New Brunswick.
+## Regional Market Standing
 
-Atlantic Canada's provincial government employment is distributed across the region, with
-Fredericton as the capital, but Moncton's private sector concentration creates a professional
-base comparable to or exceeding Fredericton's in several categories.
+Moncton does not currently appear in the [[atlas-top-400-north-america|Top 400 Regional
+Markets — North America]] ranked list. This is not a data defect; Maritime Canada does not
+have a single dominant major-metro core against which
+[[about-regional-markets-system|the co-location scoring system's]] 15–80 km suburban-regional
+distance filter would apply. Moncton functions as its own regional commercial centre rather
+than a suburb of a larger metro.
 
-## Commercial real estate characteristics
+## See Also
 
-Moncton's primary retail concentration is along Wheeler Boulevard and the Mapleton Road
-corridor in north Moncton, where large-format anchors including Costco, Home Depot,
-Walmart Supercentre, Canadian Tire, and Sobeys anchor an extensive [[power-centres|power centre]] complex.
-Trinity Drive in the Dieppe sector has developed as a parallel retail node serving the
-growing francophone suburban population.
+- [[about-regional-markets-system|Regional Markets Intelligence System]]
+- [[atlas-canada|Canada Regional Market Index]]
+- [[co-location-methodology|Co-location Methodology]]
 
-The Champlain Place mall anchors a secondary traditional retail node with mid-box and
-fashion retail formats. Moncton's airport zone is developing as an industrial and commercial
-cluster consistent with the city's logistics function.
+## References
 
-Professional office supply includes downtown Moncton, where the financial services sector
-maintains traditional office presence, and suburban professional parks in Riverview and
-Dieppe. Medical professional tenancy is concentrated near the hospital complexes.
+- [Moncton](https://en.wikipedia.org/wiki/Moncton) — Wikipedia, accessed 2026-07-10
 
-## Bilingual market characteristics
-
-Moncton's linguistic duality creates a professional services market that is effectively
-twice its apparent size: law firms, accounting firms, financial advisors, and medical
-practices often operate in both official languages, and government-related professional
-demand from the bilingual federal service delivery in the region adds to private sector demand.
-Professional centre developments targeting bilingual professional tenancy have historically
-performed well in this market.
-
-## Key indicators
-
-| Indicator | Value | Notes |
-|---|---|---|
-| CMA population (2021) | ~183,000 | Moncton–Riverview–Dieppe CMA |
-| Official language composition | ~35% French, ~65% English (approx.) | Varies by municipality within CMA |
-| Primary power centre node | Wheeler Blvd / Mapleton Road corridor | Costco, Home Depot, Walmart anchors |
-| Major institutional anchors | Université de Moncton; Vitalité + Horizon hospital networks | Bilingual institutional employers |
-| Highway access | Trans-Canada (HWY 1); HWY 15 (airport); HWY 2 (north-south) | Atlantic transport hub |
-
-## See also
-
-- [[atlas-canada]] — Canada regional market index and provincial coverage
-- [[atlas-top-600-north-america]] — the North American master market index
-- [[about-regional-markets]] — the co-location framework and market selection criteria
+*Wikipedia content reproduced under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*

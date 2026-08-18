@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "TOP600 Europe — Regional Market Index"
+title: "TOP600 Europe — Regional Market index"
 slug: atlas-top-600-europe
 category: markets
 type: topic
@@ -11,7 +11,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 keynote: false
-last_edited: 2026-06-29
+last_edited: 2026-07-11
 editor: woodfine-editorial
 short_description: "Index of up to 600 regional commercial real estate markets across Europe screened for co-location viability."
 paired_with: markets/atlas-top-600-europe.es.md
@@ -19,7 +19,7 @@ paired_with: markets/atlas-top-600-europe.es.md
 
 The **TOP600 Europe** index identifies up to 600 regional commercial real estate markets
 across European countries meeting the population, income, and retail infrastructure thresholds
-established by the [[about-regional-markets|co-location regional market]] framework. European markets
+established by the [[about-regional-markets-system|co-location regional market]] framework. European markets
 present a distinct set of structural characteristics relative to North American comparables:
 denser historic urban cores, stronger public-transport dependence, more regulated retail
 planning environments, and a broader range of income levels across member states of the
@@ -63,6 +63,14 @@ Primary coverage focuses on markets across:
 - **Netherlands, Belgium, Austria, Switzerland** — targeted coverage of OECD-standard
   income regional markets
 
+**Update (2026-07-16) — partially resolved.** See the equivalent note in
+[[atlas-top-600-north-america]]: Command has since confirmed "TOP400" is a permanent
+public label (not a rename-in-progress), and project-gis's live scoring tool produces a
+real top400/buffer tiering (83 buffer markets: NA 20, EU 63) — not dead scaffolding.
+Still unreconciled: whether that live tiering matches this stub's own described
+methodology; the seed-data file needed to check has not actually landed despite being
+marked staged.
+
 ## Country sub-indexes
 
 | Country | Sub-index article |
@@ -73,7 +81,14 @@ Primary coverage focuses on markets across:
 | France | Planned |
 | Netherlands | Planned |
 
+**Correction (2026-08-02):** this table is stale and actively misdirects readers —
+[[atlas-france]] (102 markets), [[atlas-italy]] (21), [[atlas-netherlands]] (14),
+and [[atlas-poland]] (16) all already exist as complete, published pages (all
+last-edited 2026-07-16, after this page's own 2026-07-11 edit date), yet France and
+Netherlands are marked "Planned" and Italy/Poland are omitted from the table
+entirely. **Flagged, not resolved.**
+
 ## See also
 
-- [[about-regional-markets]] — the co-location framework that defines market selection criteria
+- [[about-regional-markets-system]] — the co-location framework that defines market selection criteria
 - [[atlas-top-600-north-america]] — the complementary North American regional market index

@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Co-location Index: United States"
+title: "Co-location index: United States"
 slug: atlas-co-location-index-us
 category: markets
 type: topic
@@ -10,7 +10,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-25
+last_edited: 2026-07-11
 editor: pointsav-engineering
 short_description: "Ranked index of the top co-location nodes in the United States, evaluated by the named-anchor methodology across Walmart Supercentre anchor locations."
 paired_with: markets/atlas-co-location-index-us.es.md
@@ -32,4 +32,4 @@ A Tier 5 site is the matrix's highest validation: a Primary Target (Walmart Supe
 
 ---
 
-*Copyright © 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).*
+*Copyright © 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nd/4.0/).*

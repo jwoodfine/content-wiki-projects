@@ -85,10 +85,17 @@ The Regulation layer holds jurisdiction-specific requirements. It is a table of 
 
 | Jurisdiction | Standard | Parameter | Required value | Unit |
 |---|---|---|---|---|
-| CA-BC | NBC 2020 Part 11 | Thermal resistance (opaque wall) | ≥ RSI 3.85 | m²K/W |
+| CA-BC | NBC 2020 Part 11 *(correction below)* | Thermal resistance (opaque wall) | ≥ RSI 3.85 | m²K/W |
 | DE | EnEV 2020 | Wärmedurchgangskoeffizient (U-value) | ≤ 0.28 | W/m²K |
 | SG | SGBC BCA Green Mark | Thermal transmittance (OTTV) | ≤ 45 | W/m² |
 | US-VA (federal) | ASHRAE 90.1-2022 | Assembly U-factor (climate zone 4A) | ≤ 0.124 | Btu/h·ft²·°F |
+
+**Correction (2026-08-02):** the National Building Code of Canada has no energy-
+focused "Part 11" — a renovation-focused "Part 11" exists only in the Ontario
+Building Code (a provincial code, not the NBC). Canada's actual building-energy
+code is the separate National Energy Code of Canada for Buildings (NECB 2020), or
+NBC Division B §9.36. This citation is used as an authoritative source for a
+specific numeric requirement, not just a label. **Flagged, not resolved.**
 
 ### Empty state and geometric exclusion fragments
 

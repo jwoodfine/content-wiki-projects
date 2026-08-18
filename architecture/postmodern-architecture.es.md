@@ -20,7 +20,7 @@ tags:
   - batch:2
 source_refs:
   - daeb7e52efcd67d11a7cc94614650eb374948f907fc8875e223618e989e80fba
-thesis_alignment: "La arquitectura comercial posmoderna produjo los edificios de oficinas y comercios suburbanos del período 1985–2000 que ahora ocupan los corredores comerciales de los mercados secundarios adyacentes a los Power Centres; comprender las características funcionales y estéticas de esta generación de edificios es un contexto esencial para la evaluación de sitios de WMC, ya que estos edificios constituyen el inventario competidor frente al que se posiciona el nuevo desarrollo de Woodfine Professional Centres."
+thesis_alignment: "La arquitectura comercial posmoderna produjo los edificios de oficinas y comercios suburbanos del período 1985–2000 que ahora ocupan los corredores comerciales de los mercados secundarios adyacentes a los Power Centres; comprender las características funcionales y estéticas de esta generación de edificios es un contexto esencial para la evaluación de sitios de Woodfine, ya que estos edificios constituyen el inventario competidor frente al que se posiciona el nuevo desarrollo de Woodfine Professional Centres."
 keynote: false
 ---
 
@@ -48,7 +48,7 @@ La influencia posmoderna se extendió directamente a la construcción comercial 
 
 ## Inventario de mercados secundarios y contexto de co-ubicación
 
-En los mercados secundarios norteamericanos, el parque de edificios comerciales posmodernos del período 1985–2000 representa la segunda generación principal de desarrollo comercial suburbano, tras los edificios de oficinas modernistas y los centros comerciales en franja de los años sesenta y setenta. Las dos generaciones juntas constituyen la mayor parte del inventario comercial arrendable en los corredores comerciales suburbanos que WMC evalúa para [[co-location-strategy|sitios de co-ubicación]].
+En los mercados secundarios norteamericanos, el parque de edificios comerciales posmodernos del período 1985–2000 representa la segunda generación principal de desarrollo comercial suburbano, tras los edificios de oficinas modernistas y los centros comerciales en franja de los años sesenta y setenta. Las dos generaciones juntas constituyen la mayor parte del inventario comercial arrendable en los corredores comerciales suburbanos que Woodfine evalúa para [[co-location-strategy|sitios de co-ubicación]].
 
 ### Características del edificio en la evaluación de sitios
 

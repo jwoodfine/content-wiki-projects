@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Under-Building and Supply Discipline"
+title: "Under-building and supply discipline"
 slug: under-building-supply-discipline
 category: industry
 type: topic
@@ -10,7 +10,7 @@ short_description: "Deliberate policy of developing less leasable area than iden
 status: stable
 audience: customer-woodfine
 bcsc_class: current-fact
-last_edited: 2026-07-01
+last_edited: 2026-07-11
 editor: pointsav-engineering
 language_protocol: PROSE-TOPIC
 source_refs:

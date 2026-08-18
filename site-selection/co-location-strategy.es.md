@@ -42,7 +42,14 @@ Los minoristas ancla no son inquilinos del edificio profesional. Son compromisos
 
 ## Enfoque en mercados regionales
 
-La co-localización se dirige a [[about-regional-markets|mercados regionales]] — ciudades y áreas metropolitanas con poblaciones típicamente entre 50.000 y 300.000 habitantes — en lugar de los distritos centrales de negocios de las grandes metrópolis. Los mercados regionales exhiben los patrones de inversión minorista y la demanda de bienes raíces profesionales desatendida que la co-localización requiere. Los distritos centrales de negocios en grandes metrópolis enfrentan dinámicas competitivas diferentes: exceso de oferta de oficinas heredadas, declive del minorista ancla y ocupantes dependientes del transporte público, en lugar del radio de captación vehicular que impulsa los desarrollos de co-localización.
+La co-localización se dirige a [[about-regional-markets-system|mercados regionales]] — asentamientos suburbanos situados de 15 a 80 kilómetros de un núcleo metropolitano importante — en lugar de los distritos centrales de negocios de las grandes metrópolis. Los mercados regionales exhiben los patrones de inversión minorista y la demanda de bienes raíces profesionales desatendida que la co-localización requiere. Los distritos centrales de negocios en grandes metrópolis enfrentan dinámicas competitivas diferentes: exceso de oferta de oficinas heredadas, declive del minorista ancla y ocupantes dependientes del transporte público, en lugar del radio de captación vehicular que impulsa los desarrollos de co-localización.
+
+*Nota editorial (2026-07-10): esta sección describía anteriormente los mercados regionales
+como "ciudades independientes... en lugar de nodos suburbanos" — lo opuesto a la definición
+suburbano-regional que realmente utiliza
+[[about-regional-markets-system|el sistema actual de puntuación de co-ubicación]]. Corregido
+para coincidir con el sistema actualmente en producción; véase
+[[about-regional-markets|la definición anterior sustituida]] como referencia histórica.*
 
 ## Relación con la solución de tenencia directa
 

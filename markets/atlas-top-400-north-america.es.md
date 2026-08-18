@@ -6,6 +6,7 @@ language: es
 language_protocol: TRANSLATE-ES
 category: markets
 type: reference
+index_group: north-america-regional-markets
 content_type: topic
 quality: complete
 status: active
@@ -13,15 +14,17 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Lista clasificada de los 400 Mercados Regionales suburbanos de mayor puntuación en América del Norte. Posición 1: Plano, TX (suburbio de Dallas, puntuación 25,5)."
 paired_with: markets/atlas-top-400-north-america.md
-last_edited: 2026-06-17
+last_edited: 2026-07-16
 editor: editorial
 ---
-
-# Top 400 Mercados Regionales — América del Norte
 
 Plano, Texas, un suburbio de Dallas a 28 km del núcleo metropolitano, encabeza la clasificación norteamericana con una puntuación compuesta de 25,5 — tres clústeres de Nivel 1 combinados con un multiplicador de ancla cívica. Los cuatrocientos Mercados Regionales de mayor puntuación abarcan 369 suburbios de Estados Unidos, 23 de Canadá y 8 de México, distribuidos en los cinturones de desplazamiento diario de las principales áreas metropolitanas. Un *Mercado Regional* es un suburbio con nombre propio o municipio satélite dentro de la distancia de desplazamiento diario de un centro metropolitano importante que contiene uno o más clústeres de co-localización minorista; los mercados se clasifican por una puntuación compuesta que combina la composición de niveles y la presencia de anclas cívicas.
 
 La lista identifica mercados comerciales en el anillo suburbano de las principales ciudades norteamericanas — la brecha de investigación entre el análisis institucional de mercados metropolitanos (cubierto ampliamente) y las zonas genuinamente rurales. Se produce por separado de las listas de núcleos metropolitanos y de ciudades secundarias independientes.
+
+## Desgloses por país
+
+Dos países cuentan con suficientes entradas para justificar su propia página de clasificación dedicada — [[atlas-united-states|Estados Unidos]] (369 mercados) y [[atlas-canada|Canadá]] (23 mercados). Los 8 mercados de México permanecen en la tabla de Desglose por País más abajo y en la tabla clasificada completa; ese número no justifica una página dedicada.
 
 ## Definición y Alcance
 
@@ -49,10 +52,10 @@ Los veinticinco Mercados Regionales de América del Norte mejor clasificados se 
 
 | Pos. | Mercado | País | Suburbio de | km | T1 | T2 | T3 | Cívico | Punt. |
 |------|---------|------|-------------|----|----|----|----|--------|-------|
-| 1 | Plano, TX | US | Dallas | 28 | 3 | 2 | 1 | Sí | 25.5 |
+| 1 | [[us-tx-plano|Plano, TX]] | US | Dallas | 28 | 3 | 2 | 1 | Sí | 25.5 |
 | 2 | Mesa, AZ | US | Phoenix | 31 | 2 | 2 | 3 | Sí | 22.5 |
-| 3 | Frisco, TX | US | Dallas | 44 | 3 | 1 | 0 | Sí | 21.0 |
-| 4 | Mississauga, ON | CA | Toronto | 25 | 2 | 1 | 2 | Sí | 18.0 |
+| 3 | [[us-tx-frisco|Frisco, TX]] | US | Dallas | 44 | 3 | 1 | 0 | Sí | 21.0 |
+| 4 | [[ca-on-mississauga|Mississauga, ON]] | CA | Toronto | 25 | 2 | 1 | 2 | Sí | 18.0 |
 | 5 | Santa Clarita, CA | US | Los Angeles | 48 | 2 | 2 | 0 | Sí | 18.0 |
 | 6 | Nashua, NH | US | Boston | 56 | 2 | 2 | 0 | Sí | 18.0 |
 | 7 | Warwick, RI | US | Providence | 19 | 2 | 1 | 1 | Sí | 16.5 |
@@ -75,7 +78,7 @@ Los veinticinco Mercados Regionales de América del Norte mejor clasificados se 
 | 24 | Maple Grove, MN | US | Minneapolis | 21 | 2 | 0 | 0 | Sí | 12.0 |
 | 25 | Danvers, MA | US | Boston | 23 | 2 | 0 | 0 | Sí | 12.0 |
 
-## Clasificaciones Completas (26–400)
+## Apéndice: Tabla Clasificada Completa (26–400)
 
 ### Puestos 26–33 — puntuaciones de 12.0 a 10.5
 
@@ -95,7 +98,7 @@ Los veinticinco Mercados Regionales de América del Norte mejor clasificados se 
 | Pos. | Mercado | País | Suburbio de | T1 | T2 | T3 | Punt. |
 |------|---------|------|-------------|----|----|----|-------|
 | 34 | Moorestown-Lenola, NJ | US | Philadelphia | 1 | 0 | 2 | 9.0 |
-| 35 | Tempe, AZ | US | Phoenix | 1 | 0 | 2 | 9.0 |
+| 35 | [[us-az-tempe|Tempe, AZ]] | US | Phoenix | 1 | 0 | 2 | 9.0 |
 | 36 | Markham | CA | Toronto | 1 | 0 | 2 | 9.0 |
 | 37 | Brandon, FL | US | Tampa | 1 | 1 | 0 | 9.0 |
 | 38 | Huntington Beach, CA | US | Los Angeles | 1 | 1 | 0 | 9.0 |
@@ -105,7 +108,7 @@ Los veinticinco Mercados Regionales de América del Norte mejor clasificados se 
 | 42 | Brandermill, VA | US | Richmond | 1 | 1 | 0 | 9.0 |
 | 43 | Irving, TX | US | Dallas | 1 | 1 | 0 | 9.0 |
 | 44 | Sandy, UT | US | Salt Lake City | 1 | 1 | 0 | 9.0 |
-| 45 | Spartanburg, SC | US | Greenville SC | 1 | 1 | 0 | 9.0 |
+| 45 | [[us-sc-greenville-spartanburg|Spartanburg, SC]] | US | Greenville SC | 1 | 1 | 0 | 9.0 |
 | 46 | The Woodlands, TX | US | Houston | 1 | 1 | 0 | 9.0 |
 | 47 | Temecula, CA | US | Riverside | 1 | 1 | 0 | 9.0 |
 | 48 | Denton, TX | US | Fort Worth | 1 | 1 | 0 | 9.0 |
@@ -184,7 +187,7 @@ Los veinticinco Mercados Regionales de América del Norte mejor clasificados se 
 | 109 | Owasso, OK | US | Tulsa | 1 | 0 | 0 | 6.0 |
 | 110 | Stratford Downtown, CT | US | New Haven | 1 | 0 | 0 | 6.0 |
 | 111 | East York, PA | US | Lancaster | 1 | 0 | 0 | 6.0 |
-| 112 | Torrance, CA | US | Los Angeles | 1 | 0 | 0 | 6.0 |
+| 112 | [[us-ca-torrance|Torrance, CA]] | US | Los Angeles | 1 | 0 | 0 | 6.0 |
 | 113 | Lincoln Park, NY | US | Albany | 1 | 0 | 0 | 6.0 |
 | 114 | Bayou Cane, LA | US | New Orleans | 1 | 0 | 0 | 6.0 |
 | 115 | San Leandro, CA | US | San Francisco | 1 | 0 | 0 | 6.0 |
@@ -365,7 +368,7 @@ Los veinticinco Mercados Regionales de América del Norte mejor clasificados se 
 | 275 | Issaquah, WA | US | Seattle | 1 | 0 | 0 | 6.0 |
 | 276 | Mayfield Heights, OH | US | Cleveland | 1 | 0 | 0 | 6.0 |
 | 277 | Oaks, PA | US | Wilmington DE | 1 | 0 | 0 | 6.0 |
-| 278 | Provo, UT | US | Salt Lake City | 1 | 0 | 0 | 6.0 |
+| 278 | [[us-ut-provo-orem|Provo, UT]] | US | Salt Lake City | 1 | 0 | 0 | 6.0 |
 | 279 | Silverdale, WA | US | Seattle | 1 | 0 | 0 | 6.0 |
 | 280 | Owings Mills, MD | US | Baltimore | 1 | 0 | 0 | 6.0 |
 | 281 | Whippany, NJ | US | New York | 1 | 0 | 0 | 6.0 |
@@ -430,7 +433,7 @@ Los veinticinco Mercados Regionales de América del Norte mejor clasificados se 
 | 330 | Carson, CA | US | Los Angeles | 0 | 1 | 1 | 4.5 |
 | 331 | Winter Haven, FL | US | Orlando | 0 | 1 | 1 | 4.5 |
 | 332 | Las Cruces, NM | US | El Paso | 0 | 1 | 1 | 4.5 |
-| 333 | Kenner, LA | US | New Orleans | 0 | 1 | 1 | 4.5 |
+| 333 | [[us-la-kenner|Kenner, LA]] | US | New Orleans | 0 | 1 | 1 | 4.5 |
 | 334 | Delray Beach, FL | US | Miami | 0 | 1 | 1 | 4.5 |
 | 335 | Covina, CA | US | Los Angeles | 0 | 1 | 1 | 4.5 |
 | 336 | Mentor, OH | US | Cleveland | 0 | 1 | 1 | 4.5 |
@@ -474,7 +477,7 @@ Los veinticinco Mercados Regionales de América del Norte mejor clasificados se 
 | 369 | Woodland, CA | US | Sacramento | 1 | 0 | 0 | 4.0 |
 | 370 | Sequim, WA | US | Seattle | 1 | 0 | 0 | 4.0 |
 | 371 | Bel Air South, MD | US | Baltimore | 1 | 0 | 0 | 4.0 |
-| 372 | Eagan, MN | US | Minneapolis | 1 | 0 | 0 | 4.0 |
+| 372 | [[us-mn-eagan|Eagan, MN]] | US | Minneapolis | 1 | 0 | 0 | 4.0 |
 | 373 | Bradenton, FL | US | Tampa | 1 | 0 | 0 | 4.0 |
 | 374 | Madison Park, NJ | US | New York | 1 | 0 | 0 | 4.0 |
 | 375 | Mooresville, NC | US | Charlotte | 1 | 0 | 0 | 4.0 |
@@ -508,8 +511,8 @@ Los veinticinco Mercados Regionales de América del Norte mejor clasificados se 
 
 | País | Cantidad | Notas |
 |------|----------|-------|
-| Estados Unidos | 369 | Suburbios de todas las principales áreas metropolitanas de EE. UU. |
-| Canadá | 23 | Suburbios de Toronto (8), Vancouver (4), Calgary (2) y otras |
+| [[atlas-united-states\|Estados Unidos]] | 369 | Suburbios de todas las principales áreas metropolitanas de EE. UU. |
+| [[atlas-canada\|Canadá]] | 23 | Suburbios de Toronto (8), Vancouver (4), Calgary (2) y otras |
 | México | 8 | Suburbios de Ciudad de México, Guadalajara y Monterrey |
 
 ## Fuentes de Datos y Metodología
@@ -523,6 +526,5 @@ Para la metodología completa, véase [[about-regional-markets-system|Sistema de
 ## Véase también
 
 - [[about-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]]
-- [[about-regional-market-matrix|Matriz de Mercado Regional]]
 - [[co-location-methodology|Metodología de Co-localización]]
 - [[atlas-tier-index-north-america|Índice de Niveles — América del Norte]]

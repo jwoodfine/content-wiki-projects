@@ -103,6 +103,10 @@ From Tear Sheet "Key Plans and Tiles" (January 2026 V12):
 | Class | Small | Medium | Large |
 |---|---|---|---|
 | Private Office | 300 SF (PO-1) | 450 SF (PO-2) | 500 SF (PO-3) |
+
+**Correction (2026-08-02, verified against [[bim-private-office-key-plans]]):** these
+PO-1/PO-2/PO-3 figures contradict the canonical values used consistently elsewhere
+in this category — 325/465/685 SF, not 300/450/500 SF. **Flagged, not resolved.**
 | Professional Office — Medical | 1,100 SF (M-1) | 1,400 SF (M-2) | 800 SF (M-3) |
 | Professional Office — Business | 1,100 SF (B-1) | 1,400 SF (B-2) | 800 SF (B-3) |
 | Professional Office — Laboratory | 1,100 SF (L-1) | 1,400 SF (L-2) | 800 SF (L-3) |

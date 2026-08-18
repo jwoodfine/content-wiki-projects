@@ -2,6 +2,8 @@
 schema: foundry-doc-v1
 title: "Mercado regional de Zaragoza"
 slug: es-ar-zaragoza-secondary
+language: es
+language_protocol: TRANSLATE-ES
 category: markets
 type: topic
 content_type: topic
@@ -9,71 +11,49 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-language_protocol: TRANSLATE-ES
-keynote: false
-last_edited: 2026-06-29
-editor: woodfine-editorial
-short_description: "Capital de Aragón y quinta ciudad más grande de España, centro logístico y automotriz en el centro geográfico de la Península Ibérica con una base comercial integral."
+short_description: "Capital regional de Aragón, a unos 300 km tanto de Madrid como de Barcelona y Valencia — fuera del conjunto clasificado Top-400 actual."
 paired_with: markets/es-ar-zaragoza-secondary.md
+last_edited: 2026-07-10
+editor: editorial
 ---
 
-El **mercado regional de Zaragoza** es la capital de la Comunidad Autónoma de Aragón y el
-quinto municipio más grande de España por población, con aproximadamente 675.000 habitantes
-en 2021. La posición de Zaragoza en el centro geográfico de la Península Ibérica — a mitad
-de camino entre Madrid (324 km al suroeste) y Barcelona (309 km al noreste) en el río Ebro —
-la convierte en el principal centro logístico y de distribución que conecta las dos ciudades
-más grandes de España y la principal puerta de entrada para el comercio entre la Península
-Ibérica y Francia a través de los Pirineos. La designación "secundaria" refleja la posición
-de Zaragoza como punto de entrada de mercado secundario en relación con Madrid y Barcelona
-en el índice de España, no una clasificación cualitativa de la calidad del mercado.
+Zaragoza, la cuarta ciudad más poblada de España, no aparece actualmente en la lista Top-400
+de Mercados Regionales de Europa — su posición aproximadamente equidistante entre Madrid,
+Barcelona, Valencia y Bilbao (todas a unos 300 km) la sitúa muy fuera de la banda
+suburbano-regional de 15 a 80 km que utiliza la clasificación para cualquier núcleo
+metropolitano concreto.
 
-## Perfil económico
+## Descripción general
 
-La economía de Zaragoza está dominada por la logística, la manufactura automotriz y los
-servicios de manufactura. General Motors (ahora Stellantis) ha operado la planta Opel en
-Figueruelas (aproximadamente a 25 km al noroeste de Zaragoza) desde 1982, siendo una de
-las mayores fábricas de automóviles de España. El Grupo Inditex (Zara) mantiene una de sus
-mayores plataformas logísticas en Zaragoza en la Plataforma Logística de Zaragoza (PLAZA),
-el mayor parque logístico del sur de Europa. Amazon, BSH Hausgeräte (Bosch) y un amplio
-catálogo de operadores logísticos nacionales e internacionales han establecido operaciones
-en PLAZA, lo que refleja la posición geográfica central de Zaragoza.
+Según Wikipedia (consultado el 10 de julio de 2026), Zaragoza tenía 691.037 habitantes
+municipales a fecha de 2024 en 973,78 kilómetros cuadrados, situada aproximadamente a 300
+kilómetros de Madrid, Barcelona, Valencia y Bilbao — ocupando el centro geográfico del
+hexágono formado por estas ciudades españolas más Burdeos y Toulouse en Francia. Entre las
+industrias clave se encuentran la manufactura automotriz (una fábrica de Opel en
+funcionamiento desde 1982), electrodomésticos (Balay), material rodante ferroviario (CAF) y
+producción de papelería; el aeropuerto de la ciudad es un importante centro de carga,
+situándose solo por detrás de Madrid, Barcelona y Lisboa en la península ibérica. Tras su
+designación como "Polo de Desarrollo Industrial" en 1964, la población de Zaragoza se duplicó
+rápidamente. El área metropolitana abarca aproximadamente 765.168 personas, y el municipio
+alberga a más de la mitad de la población de Aragón.
 
-La Universidad de Zaragoza, con aproximadamente 30.000 estudiantes, es una de las
-universidades más grandes y antiguas de España. El Hospital Universitario Miguel Servet es
-el principal hospital universitario y el mayor hospital de Aragón.
+## Posición en el Mercado Regional
 
-## Características del mercado inmobiliario comercial
-
-El comercio minorista de gran formato de Zaragoza se concentra en Puerto Venecia (uno de los
-mayores centros comerciales y de ocio de España, inaugurado en 2012, con aproximadamente
-200 tiendas y un Parque Comercial adyacente) al sur de la ciudad, y en el Parque Comercial
-Utrillas al noroeste. IKEA, Leroy Merlin, Decathlon, MediaMarkt y Carrefour anclan la zona
-minorista combinada. La escala de Puerto Venecia convierte a Zaragoza en una atracción
-minorista inusualmente fuerte para una ciudad de su tamaño.
-
-El Paseo de la Independencia en el centro histórico es el corredor primario tradicional de
-comercio minorista y servicios profesionales.
-
-## Demanda premium logística
-
-El papel de Zaragoza como capital logística de España crea demanda de oficinas regionales
-de empresas logísticas, agentes de aduanas, servicios jurídicos de comercio internacional,
-transitarios y servicios profesionales de cadena de suministro — categorías con fuerte
-demanda de espacio en centros de servicios profesionales distintas a las que dominan otros
-mercados españoles en este índice.
-
-## Indicadores clave
-
-| Indicador | Valor | Notas |
-|---|---|---|
-| Población municipal (2021) | ~675.000 | Municipio de Zaragoza |
-| Concentración minorista primaria | Puerto Venecia (sur) | Anclas IKEA, Leroy Merlin, Decathlon; uno de los mayores parques comerciales de España |
-| Principales anclas institucionales | Stellantis / Opel Figueruelas; PLAZA (Inditex, Amazon); Universidad de Zaragoza | Base dual logística + automotriz |
-| Perfil de ingresos | Por encima del promedio nacional español; por debajo del País Vasco/Navarra | Prima de manufactura y logística |
-| Acceso a autopistas | A-2 (Madrid–Barcelona); AP-68 (Bilbao); A-23 (Huesca/Francia); A-68 (Logroño) | Centro geográfico de la Península Ibérica |
+Zaragoza no aparece actualmente en la lista [[atlas-top-400-europe|Top 400 Mercados
+Regionales — Europa]]. Esto no es un defecto de datos; la distancia de la ciudad de
+aproximadamente 300 km respecto a cada metrópoli española importante la sitúa fuera de la
+banda suburbano-regional de 15 a 80 km de
+[[about-regional-markets-system|el sistema de puntuación de co-ubicación]] — funciona como su
+propia capital regional en lugar de como suburbio de una metrópolis mayor.
 
 ## Véase también
 
-- [[atlas-spain]] — índice del mercado regional de España
-- [[atlas-top-600-europe]] — el índice maestro de mercados europeos
-- [[about-regional-markets]] — el marco de co-ubicación y los criterios de selección de mercados
+- [[about-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]]
+- [[atlas-spain|Índice de Mercados Regionales de España]]
+- [[co-location-methodology|Metodología de Co-ubicación]]
+
+## Referencias
+
+- [Zaragoza](https://en.wikipedia.org/wiki/Zaragoza) — Wikipedia, consultado 2026-07-10
+
+*Contenido de Wikipedia reproducido bajo [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*

@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Co-location Tier Index: Europe"
+title: "Co-location tier index: Europe"
 slug: atlas-tier-index-europe
 category: markets
 type: topic
@@ -10,7 +10,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-06-19
+last_edited: 2026-07-11
 editor: editorial
 short_description: "Aggregated tier-ranked index of commercial convergence nodes across European markets, summarizing quality tier distribution with IKEA as the primary anchor."
 paired_with: markets/atlas-tier-index-europe.es.md
@@ -20,6 +20,12 @@ cites:
 ---
 
 Spain leads the evaluated European markets with three Tier 4+ commercial convergence nodes across 20 evaluated primary anchors; the Nordic region contributes two Tier 4+ sites. The European Co-location Tier Index ranks commercial nodes across Spain, Italy, Poland, and the Nordic region by the independent convergence of large-format retail and civic infrastructure. Each node is scored by the proximity of IKEA (Primary Target) to secondary hardware and warehouse operators (Leroy Merlin, Makro) and tertiary civic [[co-location-anchors|anchors]] (healthcare, higher education) within defined catchment radii, following the [[co-location-methodology]] and operationalised by the [[co-location-ranking-system|deterministic ranking system]]. Map-facing tier labels follow the ICSC hierarchy described in [[co-location-tier-nomenclature|tier nomenclature]].
+
+**Correction (2026-08-02):** same defect as [[atlas-tier-index-north-america]] —
+this article's body exclusively uses the unrelated Tier 5/4+/3 star scheme, not the
+Regional/District/Local/Fringe names its own citation points to, and the real ICSC
+hierarchy (Neighborhood/Community/Regional/Super Regional) has no such tiers anyway.
+**Flagged, not resolved.**
 
 ## Market scarcity and institutional validation
 
@@ -45,4 +51,4 @@ The following table summarizes the distribution of the highest-quality nodes acr
 
 ---
 
-*Copyright © 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).*
+*Copyright © 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nd/4.0/).*

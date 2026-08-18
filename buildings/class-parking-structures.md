@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Parking Structures Development Class"
+title: "Parking structures development class"
 slug: class-parking-structures
 category: buildings
 type: topic
@@ -10,14 +10,14 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-03
+last_edited: 2026-07-11
 editor: pointsav-engineering
 short_description: "Parking Structures are planned for regional transit hubs and airport catchment zones, providing structured parking as a standalone direct-hold asset outside the power centre proximity model."
 paired_with: buildings/class-parking-structures.es.md
 cites: []
 ---
 
-Parking Structures is one of the six [[about-development-classes|development classes]] planned for Woodfine Management Corp.'s direct-hold portfolio. Unlike the four proximity-based classes, Parking Structures is intended for a different siting context entirely — regional transit hubs and airport catchment zones — and is described here in planned and intended terms.
+Parking Structures is one of the six [[about-development-classes|development classes]] planned for MCorp's direct-hold portfolio. Unlike the four proximity-based classes, Parking Structures is intended for a different siting context entirely — regional transit hubs and airport catchment zones — and is described here in planned and intended terms.
 
 ## What Parking Structures are intended to be
 

@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Co-location Index: Spain"
+title: "Co-location index: Spain"
 slug: atlas-co-location-index-spain
 category: markets
 type: topic
@@ -10,7 +10,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-25
+last_edited: 2026-07-11
 editor: pointsav-engineering
 short_description: "Ranked index of co-location nodes across Spain, anchored by IKEA with secondary validation from Leroy Merlin and Makro within the Iberian Peninsula."
 paired_with: markets/atlas-co-location-index-spain.es.md
@@ -45,4 +45,4 @@ A Tier 4+ designation in Spain indicates a node where primary and secondary anch
 
 ---
 
-*Copyright © 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).*
+*Copyright © 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nd/4.0/).*

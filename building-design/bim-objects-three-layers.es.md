@@ -7,7 +7,7 @@ category: building-design
 type: topic
 content_type: topic
 status: active
-last_edited: 2026-06-20
+last_edited: 2026-07-31
 editor: pointsav-engineering
 short_description: "Los BIM Objects incrustan tres capas de restricción simultáneas — Especificación (identidad permanente del elemento), Regulación (requisitos específicos de jurisdicción) y Zona Climática (requisitos de desempeño) — como datos de referencia estática con una regla de composición que aplica el valor más restrictivo."
 cites: [ifc-4-3, uniclass-2015, bsdd-v1, ids-1-0, dtcg-w3c, ashrae-90-1, nbc-2020]
@@ -43,6 +43,14 @@ La capa de Especificación es la identidad permanente del objeto. No varía seg�
 | `description` | Descripción en lenguaje llano | Texto libre, máx. 280 caracteres |
 | `applicable_psets` | Conjuntos de Propiedades IFC aplicables | Array de nombres Pset |
 
+**Desglose de la jerarquía de entidades IFC.** Cada registro de Especificación incluye la ruta de herencia IFC completa desde `IfcRoot` hasta la clase específica. Para `IfcWall`:
+
+```
+IfcRoot → IfcObjectDefinition → IfcObject → IfcProduct → IfcElement → IfcBuiltElement → IfcWall
+```
+
+Este desglose permite que las herramientas de autoría presenten la posición del elemento en la jerarquía IFC sin remitirse a un documento de esquema separado, y habilita la aplicación de reglas basada en herencia.
+
 ## Capa 2 — Regulación
 
 La capa de Regulación contiene requisitos específicos de la jurisdicción. Es una tabla de superposiciones registradas — una fila por jurisdicción por restricción.
@@ -50,6 +58,21 @@ La capa de Regulación contiene requisitos específicos de la jurisdicción. Es 
 **Por qué una tabla, no un menú desplegable.** Un requisito regulatorio es un hecho sobre la jurisdicción donde se ubica un edificio, no una elección que hace un diseñador. El objeto muestra los requisitos de todas las jurisdicciones registradas como datos de referencia, del mismo modo que una hoja de datos de estándares técnicos muestra múltiples filas de normas nacionales lado a lado.
 
 ### Filas de superposición por jurisdicción
+
+**Estructura de superposición:**
+
+| Columna | Contenido |
+|---|---|
+| Jurisdicción | Código de jurisdicción ISO 3166-1/2 (p. ej., `CA-BC`, `US-VA`, `DE`, `SG`) |
+| Estándar | Referencia identificadora del documento regulatorio |
+| Tipo de restricción | Numérica / Geométrica / Clasificación / Aprobación |
+| Parámetro | La propiedad específica que se restringe |
+| Valor requerido | El umbral o valor requerido |
+| Unidad | Unidad SI o conjunto de valores categóricos |
+| Archivo IDS | Ruta al archivo de restricción IDS 1.0 que codifica este requisito |
+| Fragmento IFC | Ruta al fragmento de exclusión geométrica IFC, si aplica |
+| URI de fuente | URI al documento regulatorio autorizado |
+| Fecha de vigencia | Fecha ISO 8601 desde la cual esta superposición está en vigor |
 
 **Filas de ejemplo para `IfcWall` (muro exterior, residencial):**
 
@@ -68,7 +91,16 @@ La capa de Regulación contiene requisitos específicos de la jurisdicción. Es 
 
 La capa de Zona Climática contiene requisitos de desempeño basados en el clima. Es una tabla de filas de zonas climáticas registradas — todas las zonas mostradas simultáneamente.
 
-### Filas de ejemplo por zona climática
+### Sistemas de clasificación y filas de zona de ejemplo
+
+**Sistemas de clasificación de zonas climáticas utilizados:**
+
+| Sistema | Cobertura de jurisdicción | Estándar de referencia |
+|---|---|---|
+| Zonas climáticas ASHRAE 90.1 (1A–8) | EE. UU., referencia internacional | ASHRAE Standard 90.1-2022 |
+| Zonas climáticas del Código Nacional de Construcción | Canadá | NBC 2020 Parte 11 |
+| Zonas de desempeño energético EN ISO 52000 | Estados miembros de la UE | EN ISO 52000-1:2017 |
+| Köppen-Geiger simplificado | Referencia cruzada global | Kottek et al. 2006 (actualizado 2021) |
 
 **Filas de ejemplo para `IfcWall` (muro exterior):**
 
@@ -99,6 +131,12 @@ Esta es una composición de límite inferior: ambas capas expresan mínimos de d
 Cuando se crea un nuevo Objeto BIM, la interfaz de autoría sigue un modelo de cuatro zonas que se corresponde directamente con las tres capas del objeto más una zona de flujo de trabajo de publicación.
 
 La interfaz CMS es la interfaz prevista para `app-console-bim` (planificado, v0.1.x). En v0.0.1, los [[bim-objects-what-they-are|Objetos BIM]] se crean directamente como archivos JSON DTCG y se confirman mediante git.
+
+## Cómo Difiere de los Conjuntos de Propiedades IFC
+
+Un Conjunto de Propiedades IFC (`Pset_WallCommon`) es una lista de definiciones de propiedades: nombre de la propiedad, tipo de dato, unidad. Declara qué propiedades puede portar un elemento de un tipo dado. No declara qué valores deben tener esas propiedades. `Pset_WallCommon` incluye `ThermalTransmittance` de tipo `IfcThermalTransmittanceMeasure`. No dice que `ThermalTransmittance` deba ser ≤ 0.28 W/m²K en Alemania. Esa restricción vive en la capa de Regulación del Objeto BIM.
+
+La capa de Regulación del Objeto BIM consume la estructura del Conjunto de Propiedades IFC pero añade los valores que la especificación del Conjunto de Propiedades omite: el valor requerido, la jurisdicción para la cual aplica, y el archivo IDS 1.0 que codifica formalmente la restricción de forma ejecutable por máquina.
 
 ## Véase también
 

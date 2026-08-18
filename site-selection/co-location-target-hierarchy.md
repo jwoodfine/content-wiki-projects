@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Co-Location Target Hierarchy"
+title: "Co-location target hierarchy"
 slug: co-location-target-hierarchy
 category: site-selection
 type: topic
@@ -9,7 +9,7 @@ quality: complete
 short_description: "Three-tier target classification in Woodfine's co-location dataset — Primary (Walmart Supercentre), Secondary (Home Depot, Costco), Tertiary (universities, medical centres)."
 status: stable
 bcsc_class: current-fact
-last_edited: 2026-07-01
+last_edited: 2026-07-11
 editor: pointsav-engineering
 language_protocol: PROSE-TOPIC
 source_refs:
@@ -18,7 +18,7 @@ paired_with: co-location-target-hierarchy.es.md
 cites: []
 ---
 
-The **Co-Location Target Hierarchy** is the three-tier classification system that structures Woodfine Management Corp.'s geographic co-location dataset. Each tier assigns a category of retail operator or institutional employer to the role it plays in validating a potential Development Site. The hierarchy reflects the observed sequencing of commercial development in [[about-regional-markets|Regional Markets]]: Primary Targets anchor the retail node, Secondary Targets follow the Primary, and Tertiary Targets confirm that an institutional demand base for professional services tenancy is present in the geography.
+The **Co-Location Target Hierarchy** is the three-tier classification system that structures MCorp's geographic co-location dataset. Each tier assigns a category of retail operator or institutional employer to the role it plays in validating a potential Development Site. The hierarchy reflects the observed sequencing of commercial development in [[about-regional-markets-system|Regional Markets]]: Primary Targets anchor the retail node, Secondary Targets follow the Primary, and Tertiary Targets confirm that an institutional demand base for professional services tenancy is present in the geography.
 
 ## Primary Target: Walmart Supercentre
 

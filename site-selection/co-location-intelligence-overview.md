@@ -1,16 +1,17 @@
 ---
 schema: foundry-doc-v1
-title: "Retail Co-location Intelligence — Overview"
+title: "Retail co-location intelligence — overview"
 slug: co-location-intelligence-overview
 category: site-selection
 type: topic
+index_type: thematic
 content_type: topic
 quality: complete
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-25
+last_edited: 2026-07-16
 editor: pointsav-engineering
 short_description: "Systematic geographic analysis identifying and ranking retail sites where large-format categories converge within defined catchment radii."
 paired_with: site-selection/co-location-intelligence-overview.es.md
@@ -21,7 +22,7 @@ cites:
   - osc-sn-51-721
 ---
 
-MCorp's co-location intelligence platform ranks 2,738 commercial nodes across 8 retail markets by anchor convergence — the independent co-location of hypermarkets, warehouse clubs, and home improvement superstores at the same trade area. Each node is validated not by analyst forecasts, but by the independent capital commitments of the retailers who located there. Convergence is measured per the [[co-location-methodology|co-location methodology]] and scored by the [[co-location-ranking-system|deterministic ranking system]]; the population and spend inputs are documented in [[trade-area-data-sources|trade-area data sources]] and the geographic policy in the [[about-regional-market-matrix|regional market matrix]].
+MCorp's co-location intelligence platform ranks 2,738 commercial nodes across 8 retail markets by anchor convergence — the independent co-location of hypermarkets, warehouse clubs, and home improvement superstores at the same trade area. Each node is validated not by analyst forecasts, but by the independent capital commitments of the retailers who located there. Convergence is measured per the [[co-location-methodology|co-location methodology]] and scored by the [[co-location-ranking-system|deterministic ranking system]]; the population and spend inputs are documented in [[trade-area-data-sources|trade-area data sources]] and the geographic policy in the [[about-regional-markets-system|regional market matrix]].
 
 The platform is operated at [gis.woodfinegroup.com](https://gis.woodfinegroup.com), built and maintained by PointSav Digital Systems.
 
@@ -34,6 +35,10 @@ The co-location intelligence system identifies and ranks those nodes using a det
 ## Geographic coverage and scale
 
 The platform currently evaluates 8 retail markets across 13 countries, providing a cross-border view of retail density and commercial defensibility.
+
+**Correction (2026-08-02):** the region/country table below lists 12 distinct
+country codes (US, CA, MX, ES, IT, GR, PL, SE, NO, DK, FI, IS), not 13. **Flagged,
+not resolved.**
 
 | Region | Countries | Anchor operators |
 |--------|-----------|-----------------|
@@ -92,4 +97,4 @@ The platform is updated when new chain data is ingested or when the ranking matr
 
 ---
 
-*Copyright © 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).*
+*Copyright © 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nd/4.0/).*

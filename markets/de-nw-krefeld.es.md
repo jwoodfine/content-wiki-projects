@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-slug: de-nw-krefeld.es
+slug: de-nw-krefeld
 aliases:
   - topic-rm-krefeld-de.es
 title: "Krefeld — Mercado Regional"
@@ -10,7 +10,7 @@ category: markets
 type: reference
 content_type: topic
 quality: complete
-status: active
+status: retired
 audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Mercado Regional número 5 en Europa — suburbio de Düsseldorf, 19,4 km; puntuación compuesta 12,0."
@@ -80,7 +80,6 @@ Una puntuación compuesta de 12,0 es representativa del nivel suburbano-regional
 ## Véase también
 
 - [[about-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]]
-- [[about-regional-market-matrix|Matriz de Mercado Regional]]
 - [[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]]
 - [[co-location-methodology|Metodología de Co-ubicación]]
 - [[co-location-ranking-system|Sistema de Clasificación de Co-ubicación]]

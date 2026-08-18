@@ -37,10 +37,17 @@ A directory of plain-text and standardised-binary files that an ordinary text ed
 | Per-element YAML sidecars | local convention | Pset_* + sensor + work-order data |
 | Hash-addressed object store | local convention; Speckle-inspired | Versioned Merkle DAG |
 | glTF 2.0 | ISO/IEC 12113:2022 | Visualisation cache (regenerable) |
-| SVG | ISO/IEC 14496-22:2019 | 2D drawings (regenerable) |
+| SVG | ISO/IEC 14496-22:2019 *(correction below)* | 2D drawings (regenerable) |
 | CityJSONSeq | OGC | Portfolio / urban context |
 
 The `.ifc` file is the authoritative spatial and semantic state of the building. The sidecars carry non-geometric data (ratings, quantities, sensor readings, work orders, lease references). The object store layer gives the whole vault git-grade versioning semantics. Visualisation derivatives are caches that regenerate at will from the authoritative source. Any specific BIM viewer or authoring tool is replaceable. The archive is permanent.
+
+**Correction (2026-08-02):** ISO/IEC 14496-22:2019 is not SVG — it is the Open Font
+Format (an OpenType-based font standard, part of the MPEG-4 family). SVG is a W3C
+Recommendation with no ISO/IEC number. Every other row in the table above (IFC-SPF/
+ISO 16739-1:2024, glTF 2.0/ISO-IEC 12113:2022) checks out correctly, making this row's
+citation stand out as an error rather than a formatting artifact. **Flagged, not
+resolved.**
 
 ## Five capabilities that follow from the architecture
 

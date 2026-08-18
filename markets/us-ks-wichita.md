@@ -1,95 +1,56 @@
 ---
 schema: foundry-doc-v1
-slug: us-ks-wichita
-aliases:
-  - topic-rm-wichita-ks
 title: "Wichita, Kansas — Regional Market"
+slug: us-ks-wichita
 language: en
 language_protocol: PROSE-TOPIC
 category: markets
-type: reference
+type: topic
 content_type: topic
-quality: complete
+quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Rank 16 North American Regional Market — 4 Tier 1 clusters; composite score 48.0; 249.7 km from Oklahoma City."
+short_description: "Kansas's largest city, well beyond commuting distance of any major metro — outside the current Top-400 ranked pool."
 paired_with: markets/us-ks-wichita.es.md
-last_edited: 2026-06-11
+last_edited: 2026-07-11
 editor: editorial
 ---
 
-# Wichita, Kansas — Regional Market
-
-**Wichita** is the largest city in Kansas and the primary commercial hub for south-central Kansas, located 250 kilometres from Oklahoma City, the nearest reference metropolitan centre. The market contains four Tier 1 [[co-location-strategy|co-location]] clusters — the highest tier, requiring the simultaneous presence of hypermarket, hardware, and warehouse club anchors — and is distinguished by its civic infrastructure, including multiple hospital campuses and Wichita State University. This density gives Wichita a composite co-location score of 48.0, ranking it 16th among the 400 highest-scoring North American [[about-regional-markets|Regional Markets]].
+Wichita, historically the "Air Capital of the World," does not currently appear in the North
+American Top-400 Regional Markets list. Its nearest major metros are far beyond the 80 km
+outer edge of the suburban-regional band the ranking uses.
 
 ## Overview
 
-According to Wikipedia (accessed 2026-05-30), Wichita is the most populous city in the US state of Kansas and the county seat of Sedgwick County. As of the 2020 census, the population of the city was 397,532, and the Wichita metropolitan area had a population of 647,610. The city is located in south-central Kansas along the Arkansas River, sited on the western edge of the tallgrass prairie region of the Great Plains.
+According to Wikipedia (accessed 2026-07-10), Wichita had 397,532 residents at the 2020
+census across 166.52 square miles, Kansas's largest city and the 52nd largest in the United
+States. It sits approximately 157 miles north of Oklahoma City and 181 miles southwest of
+Kansas City, Missouri. Aircraft manufacturing dominates the economy — the Aeronautical
+Chamber of Commerce dubbed the city the "Air Capital of the World" in 1929 — with healthcare
+the second-largest sector. Other major employers include Koch, Inc., Cargill, and aerospace
+suppliers Spirit AeroSystems and Textron Aviation. The cost of living remains below the
+national average. Downtown revitalization accelerated in the late 1990s and 2000s, including
+the 2010 opening of Intrust Bank Arena and ongoing restoration of the historic Old Town
+warehouse district.
 
-Sedgwick County, of which Wichita is the seat, is the second-most populous county in Kansas, with a 2020 census population of 523,824. Per Wikipedia, the county was named after John Sedgwick, the highest-ranking Union general killed during the American Civil War. The county-city relationship places nearly three quarters of Sedgwick County's population within the Wichita city limits, making the metropolitan area unusually concentrated around a single central municipality.
+## Regional Market Standing
 
-Wichita's economic identity has historically been tied to aircraft manufacturing, a sector that earned the city the long-standing designation as the "Air Capital of the World" through the presence of Boeing, Cessna, Beechcraft, and successor firms. The combination of a large civilian and military aviation base, a comprehensive medical sector, and a major state university produces the dense, multi-anchor retail catchment pattern that supports four independent Tier 1 co-location clusters within the city. Distance to the nearest reference metropolitan centre — Oklahoma City, 249.7 kilometres to the south — confirms Wichita's role as the unrivalled commercial hub for south-central Kansas and the surrounding rural counties.
-
-## Co-location Profile
-
-Wichita contains **4 co-location clusters**, all Tier 1 (Hypermarket + Hardware + Price Club). Tier 1 is the highest category in the composite framework and requires the simultaneous presence of all three anchor types within a tight geographic radius.
-
-| Cluster | Tier | Anchor Composition | Representative Members |
-|---------|------|--------------------|------------------------|
-| West | T1 | Hypermarket + Hardware + Price Club | Walmart, Target, The Home Depot, Lowe's, Sam's Club |
-| Northwest | T1 | Hypermarket + Hardware + Price Club | Walmart, Target, Lowe's, Menards, Sam's Club |
-| East | T1 | Hypermarket + Hardware + Price Club | Walmart, Lowe's, Costco |
-| Northeast | T1 | Hypermarket + Hardware + Price Club | Walmart, Sam's Club, The Home Depot, Menards |
-
-The four Tier 1 clusters span the metropolitan footprint along two axes — a west-to-east line running between Kellogg Avenue and 21st Street, and a southwest-to-northeast diagonal connecting the West Maple corridor to the Greenwich Road area near Kansas Highway 96. This supply-side density of four independent hypermarket-hardware-warehouse-club co-locations exceeds the cluster count in many larger US cities and reflects both the geographic breadth of Wichita's settled area and the trade-area pull from surrounding rural counties.
-
-## Civic Infrastructure
-
-Each of the four Tier 1 clusters is co-located with or directly adjacent to medical and academic infrastructure, the pattern that elevates the Wichita market's composite score through the civic multiplier.
-
-**Medical anchors** present in or adjacent to the clusters include Wesley West ER (serving the west cluster), Via Christi St. Teresa Hospital (northwest cluster), Montoya Medical Center (east cluster), and a concentration of specialty hospitals adjacent to the northeast cluster: Kansas Spine & Specialty Hospital, Wesley Woodlawn Hospital & ER, Kansas Heart Hospital, and Kansas Surgery and Recovery Center. This forms one of the densest commercial-medical co-location patterns in the south-central United States.
-
-**Academic anchors** include Wichita State University, whose main campus is adjacent to the northeast cluster, its West Campus alongside the northwest cluster, and its Campus of Applied Sciences and Technology also within the northeast cluster's catchment. Newman University, a private liberal-arts institution, sits within the west cluster. The combined daily population from university enrolment, hospital employment, and patient throughput materially expands the effective trade area of each co-location beyond what residential density alone would suggest.
-
-## AEC Data
-
-All four Wichita clusters share identical climate, ecoregion, and biome classifications, reflecting the consistent physiographic character of the south-central Kansas plain.
-
-| Layer | Value |
-|-------|-------|
-| ASHRAE Climate Zone | 4A (Mixed-Humid) |
-| Köppen-Geiger Class | Dfa (Hot-Summer Humid Continental) |
-| WWF Ecoregion | Central-Southern US Mixed Grasslands |
-| WWF Biome | Temperate Grasslands, Savannas & Shrublands |
-
-ASHRAE Zone 4A (Mixed-Humid) indicates significant seasonal temperature variation with substantial humidity through the growing season, driving both heating and cooling loads relevant to commercial energy planning. The Köppen Dfa designation confirms hot summers, cold winters, and year-round precipitation typical of the North American interior continental regime.
-
-## Composite Score
-
-| Metric | Value |
-|--------|-------|
-| Tier score | 16 (4 × T1 = 4 × 4) |
-| Civic multiplier | 1.5× (medical and academic anchors present) |
-| Metropolitan distance | 249.7 km from Oklahoma City |
-| Distance multiplier | 2.0× (capped maximum) |
-| Market confidence | High (1.0×) |
-| **Composite score** | **48.0** |
-
-The composite score of 48.0 places Wichita at rank 16 among the 400 highest-scoring North American Regional Markets. The score is driven jointly by the unusual count of four Tier 1 clusters, the documented presence of both medical and academic civic anchors, and the maximum-capped metropolitan-distance multiplier reflecting Wichita's geographic isolation from any larger competing metropolitan trade area.
-
-## The bottom line
-
-Wichita's composite score of 48.0 and rank of 16 among North American Regional Markets is driven by a rare combination: four independent Tier 1 co-location clusters, a dense overlay of medical and academic civic anchors, and geographic isolation that caps its metropolitan-distance multiplier at the maximum. For [[site-selection-terminology|site-selection]] purposes, this signals a deep, multi-anchor retail catchment whose trade-area pull extends well beyond the city's residential base into the surrounding rural counties.
-
-## Wikipedia References
-
-- [Wichita, Kansas](https://en.wikipedia.org/wiki/Wichita,_Kansas) — Wikipedia, accessed 2026-05-30
-- [Sedgwick County, Kansas](https://en.wikipedia.org/wiki/Sedgwick_County,_Kansas) — Wikipedia, accessed 2026-05-30
-
-*Wikipedia content reproduced under CC BY-SA 4.0. Accessed 2026-05-30.*
+Wichita does not currently appear in the [[atlas-top-400-north-america|Top 400 Regional
+Markets — North America]] list. This is not a data defect; its distance from Oklahoma City
+and Kansas City places it well outside [[about-regional-markets-system|the co-location
+scoring system's]] 15–80 km suburban-regional band, classifying it as standalone-secondary.
+This is consistent with the 2026-07-04 operator decision that a Wichita Development Region
+profile outside the Top-400 list is an expected, acceptable pattern.
 
 ## See Also
 
-- [[atlas-top-400-north-america]]
-- [[about-regional-markets-system]]
+- [[about-regional-markets-system|Regional Markets Intelligence System]]
+- [[atlas-united-states|United States Regional Market Index]]
+- [[co-location-methodology|Co-location Methodology]]
+
+## References
+
+- [Wichita, Kansas](https://en.wikipedia.org/wiki/Wichita,_Kansas) — Wikipedia, accessed 2026-07-10
+
+*Wikipedia content reproduced under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*

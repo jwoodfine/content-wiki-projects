@@ -2,83 +2,59 @@
 schema: foundry-doc-v1
 title: "Ulm Regional Market"
 slug: de-bw-ulm
+language: en
+language_protocol: PROSE-TOPIC
 category: markets
 type: topic
 content_type: topic
 quality: stub
-status: active
+status: retired
 audience: customer-woodfine
 bcsc_class: current-fact
-language_protocol: PROSE-TOPIC
-keynote: false
-last_edited: 2026-06-29
-editor: woodfine-editorial
-short_description: "Cross-border Baden-Württemberg/Bavaria market at the Danube with a high-income professional base anchored by automotive, medical technology, and federal military institutions."
+short_description: "Baden-Württemberg city functioning as a metro-core reference point for surrounding suburban markets — not itself in the Top-400 ranked pool."
 paired_with: markets/de-bw-ulm.es.md
+last_edited: 2026-07-11
+editor: editorial
 ---
 
-The **Ulm regional market** straddles the border of Baden-Württemberg and Bavaria along the
-Danube, with the city of Ulm in Baden-Württemberg and the twin city of Neu-Ulm directly
-across the river in Bavaria. The combined Ulm–Neu-Ulm urban agglomeration had a population
-of approximately 185,000 in 2021, with a broader regional catchment extending through the
-Alb-Donau-Kreis, Biberach, and Günzburg districts to approximately 500,000–600,000. Ulm
-occupies a strategic position on the A8 autobahn between Stuttgart (88 km west) and Munich
-(136 km east), making it a commercial hub for the upper Danube region and a natural waypoint
-for the Baden-Württemberg–Bavaria industrial corridor.
+Ulm does not carry its own entry in the European Top-400 Regional Markets list. In the
+current dataset, Ulm functions as the metro-core reference point. Eight other suburban
+markets — including Albstadt, Neu-Ulm, Friedrichshafen, and Memmingen — are ranked as suburbs
+*of* Ulm, rather than Ulm being ranked as a suburban market itself.
 
-## Economic profile
+## Overview
 
-Ulm's economy is anchored by three distinct and complementary pillars: automotive and
-automotive technology supply, medical technology and life sciences, and federal military
-institutions. Daimler Truck (formerly Daimler) maintains truck assembly operations in the
-Ulm area, and the broader Swabian manufacturing tradition has produced a cluster of
-automotive and precision engineering suppliers including ZF Friedrichshafen (headquartered
-in nearby Friedrichshafen) and Liebherr Group (Biberach).
+According to Wikipedia (accessed 2026-07-10), Ulm had approximately 129,882 residents as of
+December 2024 across 118.69 square kilometres. It is situated in Baden-Württemberg on the upper
+Danube River, roughly 80 km northwest of Munich's regional counterpart Stuttgart and 162 km
+southeast of Munich, on the eastern edge of the Swabian Jura mountain range.
 
-The medical technology sector is a distinctive feature of Ulm's economy: Dentsply Sirona,
-Fendt, and a cluster of medical device and diagnostics companies have established operations
-in the Ulm Science Park and the adjacent Medizin + Technik business cluster. Ulm University
-Hospital (Universitätsklinikum Ulm) is the primary medical centre for the upper Danube
-region, providing specialist healthcare for a broad catchment.
+**Correction (2026-08-02):** both compass directions are reversed — Ulm is actually
+southeast of Stuttgart, not northwest, and northwest of Munich, not southeast.
+**Flagged, not resolved.** The city
+combines traditional industries — machinery, motor vehicles, electronics, pharmaceuticals —
+with a technology sector that grew after the University of Ulm's 1967 founding, particularly
+in biomedicine and engineering research. Major employers include Daimler, Siemens, and Nokia
+facilities, alongside companies headquartered in the city: Liqui Moly, Ratiopharm
+(pharmaceuticals), Gardena (gardening tools), and Walther Arms.
 
-The Bundeswehr Headquarters in Ulm — specifically the Führungsakademie der Bundeswehr and
-the NATO Joint Support and Enabling Command (JSEC), one of only two new NATO commands
-established under the 2018 command structure revision — adds federal military employment
-and associated professional service demand. The federal military presence provides stable
-institutional employment independent of commercial cycles.
+## Regional Market Standing
 
-Ulm University, with approximately 10,000 students and strong programmes in medicine,
-natural sciences, and engineering, completes the institutional demand base.
+Ulm does not appear as a ranked entry in the [[atlas-top-400-europe|Top 400 Regional Markets
+— Europe]] list. This is not a data defect: in the current build, Ulm is the metro-core
+reference point for eight other suburban entries (Albstadt, Neu-Ulm, Friedrichshafen,
+Memmingen, Konstanz, and others). This is consistent with
+[[about-regional-markets-system|the co-location scoring system's]] own taxonomy, which excludes
+metro cores (<15 km from themselves, by definition) from the suburban-regional ranked pool.
 
-## Commercial real estate characteristics
+## See Also
 
-Ulm's Fachmarktzentrum infrastructure is concentrated at the Böfinger Höhe commercial zone
-in the north (OBI, Hornbach, Kaufland, Mediamarkt) and in the Neu-Ulm commercial retail
-zone at the Silcherpark. The cross-border structure of Ulm–Neu-Ulm means that retail
-catchments from both Baden-Württemberg and Bavarian communities converge on the combined
-commercial zone.
+- [[about-regional-markets-system|Regional Markets Intelligence System]]
+- [[atlas-germany|Germany Regional Market Index]]
+- [[co-location-methodology|Co-location Methodology]]
 
-The Ulm Innenstadt (city centre), with its iconic Münster (the world's tallest church spire)
-and pedestrianised Hirschstraße, is the primary traditional retail node. The Sedelhöfe
-retail and office development (completed 2019, adjacent to the main station) represents
-the most significant recent commercial real estate investment in the city centre.
+## References
 
-Professional office supply includes the Science Park Ulm and the Wissenschaftsstadt Ulm
-cluster in the northwest, which host technology, medical technology, and university spin-off
-companies, as well as traditional downtown professional space.
+- [Ulm](https://en.wikipedia.org/wiki/Ulm) — Wikipedia, accessed 2026-07-10
 
-## Key indicators
-
-| Indicator | Value | Notes |
-|---|---|---|
-| City population (2021) | ~126,000 (Ulm) + ~60,000 (Neu-Ulm) | Cross-border agglomeration |
-| Regional catchment | ~500,000–600,000 | Upper Danube region |
-| Primary Fachmarktzentrum zone | Böfinger Höhe (north Ulm); Silcherpark (Neu-Ulm) | Cross-border retail catchment |
-| Major institutional anchors | Universitätsklinikum Ulm; NATO JSEC; Ulm University; Daimler Truck | Federal military + medical + automotive |
-| Autobahn access | A8 (Munich–Stuttgart); A7 (Würzburg–Kempten) | Cross-state junction |
-
-## See also
-
-- [[atlas-germany]] — Germany regional market index
-- [[atlas-top-600-europe]] — the European master market index
-- [[about-regional-markets]] — the co-location framework and market selection criteria
+*Wikipedia content reproduced under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*

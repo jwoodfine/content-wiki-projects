@@ -4,13 +4,14 @@ title: "Inteligencia de Co-ubicación Minorista — Resumen"
 slug: co-location-intelligence-overview
 category: site-selection
 type: topic
+index_type: thematic
 content_type: topic
 quality: complete
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-06-19
+last_edited: 2026-07-16
 editor: editorial
 es_status: complete
 short_description: "Análisis geográfico sistemático que identifica y clasifica sitios minoristas donde las categorías de gran formato convergen dentro de radios de captación definidos."
@@ -22,7 +23,7 @@ cites:
   - osc-sn-51-721
 ---
 
-La plataforma de inteligencia de co-ubicación de MCorp clasifica 2.738 nodos comerciales en 8 mercados minoristas por convergencia de anclas — la co-ubicación independiente de hipermercados, clubs de almacén y tiendas de mejoras del hogar en la misma zona comercial. Cada nodo está validado no por previsiones de analistas, sino por los compromisos de capital independientes de los minoristas que se instalaron allí. La convergencia se mide según la [[co-location-methodology|metodología de co-ubicación]] y se puntúa mediante el [[co-location-ranking-system|sistema de clasificación determinista]]; los insumos de población y gasto se documentan en [[trade-area-data-sources|fuentes de datos de áreas comerciales]] y la política geográfica en la [[about-regional-market-matrix|matriz de mercados regionales]].
+La plataforma de inteligencia de co-ubicación de MCorp clasifica 2.738 nodos comerciales en 8 mercados minoristas por convergencia de anclas — la co-ubicación independiente de hipermercados, clubs de almacén y tiendas de mejoras del hogar en la misma zona comercial. Cada nodo está validado no por previsiones de analistas, sino por los compromisos de capital independientes de los minoristas que se instalaron allí. La convergencia se mide según la [[co-location-methodology|metodología de co-ubicación]] y se puntúa mediante el [[co-location-ranking-system|sistema de clasificación determinista]]; los insumos de población y gasto se documentan en [[trade-area-data-sources|fuentes de datos de áreas comerciales]] y la política geográfica en la [[about-regional-markets-system|matriz de mercados regionales]].
 
 La plataforma opera en [gis.woodfinegroup.com](https://gis.woodfinegroup.com), construida y mantenida por PointSav Digital Systems.
 
@@ -93,4 +94,4 @@ La plataforma se actualiza cuando se incorporan nuevos datos de cadenas o cuando
 
 ---
 
-*Copyright © 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).*
+*Copyright © 2026 Woodfine Capital Projects Inc. Licenciado bajo [Creative Commons Atribución-SinDerivadas 4.0 Internacional](https://creativecommons.org/licenses/by-nd/4.0/).*

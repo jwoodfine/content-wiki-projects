@@ -2,81 +2,73 @@
 schema: foundry-doc-v1
 title: "York Regional Market"
 slug: gb-eng-york
+language: en
+language_protocol: PROSE-TOPIC
 category: markets
-type: topic
+type: reference
 content_type: topic
 quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-language_protocol: PROSE-TOPIC
-keynote: false
-last_edited: 2026-06-29
-editor: woodfine-editorial
-short_description: "Historic Yorkshire city with a high professional services density, a railway hub function, dual-university employment, and a retail park base serving a substantial North Yorkshire catchment."
+short_description: "Rank 266 European Regional Market — suburb of Leeds; composite score 6.0."
 paired_with: markets/gb-eng-york.es.md
+last_edited: 2026-07-10
+editor: editorial
 ---
 
-The **York regional market** is a historic city in North Yorkshire, England, located
-approximately 30 kilometres north of the M62 corridor and 30 kilometres from the A1(M)
-motorway, at the junction of the East Coast Main Line (London–Edinburgh) and the
-TransPennine railway. The York unitary authority had a population of approximately 208,000
-in 2021. York's significance as a commercial and professional services market substantially
-exceeds its population scale: it is the administrative and professional services capital
-for the North Yorkshire county, draws a substantial tourist retail spend, and has an
-unusually high proportion of professional and managerial employment relative to its
-population — one of the highest in the Yorkshire and Humber region outside of Leeds.
+York, a historic Yorkshire city with a tourism-and-services economy, ranks 266th among the
+400 European Regional Markets with a composite score of 6.0. A dual-university, heritage-
+tourism, and public-sector employment base supports one Tier 2 and two Tier 3 co-location
+clusters.
 
-## Economic profile
+## Overview
 
-York's economy is anchored by public sector services, higher education, financial services,
-and a substantial visitor economy. The University of York, a Russell Group research university
-with approximately 22,000 students, and York St John University, with approximately
-7,000 students, together create a significant dual-university demand anchor. The University
-of York has particular strength in biology, physics, electronics, and social policy, and
-its science park (York Science Park, established 1998) has generated a cluster of
-biotechnology and technology spinout companies.
+According to Wikipedia (accessed 2026-07-10), York recorded a population of 202,800 at the
+2021 census (198,051 in 2011) across a local authority area of 33.7 square kilometres,
+approximately 22 miles (35 km) southwest of Leeds.
 
-The City of York Council, North Yorkshire County Council (headquartered in Northallerton,
-but with significant administrative activity served in York), and a large NHS employment
-base through York and Scarborough Teaching Hospitals NHS Foundation Trust make the public
-sector a dominant employer.
+**Correction (2026-08-02):** two defects. (1) York is east/northeast of Leeds, not
+southwest — the distance (~22-24 miles) is roughly right, only the direction is
+reversed. (2) The City of York unitary authority area is approximately 272 km², not
+33.7 km² — 33.7 km² paired with a population of 202,800 implies an implausible
+~6,000/km² density; 33.7 km² may be a mislabeled built-up-area figure. **Flagged,
+not resolved.** Major employers include the City of York
+Council (7,500-plus employees), Aviva, Network Rail, Northern Trains, York Hospitals NHS
+Trust, and the University of York (each 2,000-plus staff), alongside BT Group, Nestlé, and
+NFU Mutual. The service sector dominates local employment (88.7 percent as of 2000 data), and
+tourism is a major contributor — worth over £765 million to the city and supporting 24,000
+jobs as of 2019. Historical employers included the railways and confectionery manufacturing
+(Rowntree's, Terry's). The University of York, opened in 1963, anchors a well-educated
+workforce supporting roughly 9,000 local businesses across finance, IT, and public-sector
+services. Notable commercial development includes the York Designer Outlet and Spark:York, a
+2018 street-food and entertainment venue.
 
-The financial services sector in York is larger than population size alone would imply,
-reflecting the city's historical role as a regional bank and insurance centre. Barclays and
-British Telecom maintain significant back-office operations in York. The railway heritage —
-York was the headquarters of the former North Eastern Railway and remains an engineering
-centre — has given way to a research and technology cluster in rail engineering.
+## Regional Market Standing
 
-## Commercial real estate characteristics
+| Field | Value |
+|---|---|
+| Rank | 266 of 400 (Europe) |
+| Composite score | 6.0 |
+| Tier 1 clusters | 0 |
+| Tier 2 clusters | 1 |
+| Tier 3 clusters | 2 |
+| Suburb of | Leeds |
 
-York's primary retail park infrastructure is at the Vanguard Retail Park (Clifton Moor,
-north of the city) and the Monks Cross Retail Park to the northeast, where Marks & Spencer,
-Next, Costco, B&Q, and Dunelm anchor large-format retail strips consistent with the
-[[power-centres|power centre]] format. The Vangarde Shopping Park redevelopment at Monks Cross (opened 2013)
-is the primary contemporary retail park serving the York catchment.
+Cluster-level detail — the specific retail and civic anchors composing each of York's
+co-location clusters — is pending the underlying GIS dataset and is not included in this
+stub. See [[atlas-top-400-europe|Top 400 Regional Markets — Europe]] for the full ranked
+list and [[co-location-methodology|Co-location Methodology]] for how the composite score is
+derived.
 
-The York city centre — with the York Shambles, the Jorvik Viking Centre, York Minster, and
-the Coppergate shopping area — is a high-value traditional retail and professional services
-zone. The retail density and visitor footfall in the historic core create unique demand
-characteristics that blend professional tenancy with heritage tourism-oriented retail.
+## See Also
 
-Professional office space in York is predominantly in the city centre and the York Business
-Park, a planned office park in the Poppleton area to the west. The Science Park at the
-University campus serves the technology and biotech sector.
+- [[atlas-top-400-europe|Top 400 Regional Markets — Europe]]
+- [[about-regional-markets-system|Regional Markets Intelligence System]]
+- [[co-location-methodology|Co-location Methodology]]
 
-## Key indicators
+## References
 
-| Indicator | Value | Notes |
-|---|---|---|
-| Unitary authority population (2021) | ~208,000 | City of York |
-| North Yorkshire catchment | ~500,000+ | Administrative capital function for county |
-| Primary retail park | Vangarde Shopping Park / Monks Cross (northeast) | M&S, Next, Costco, B&Q anchors |
-| Major institutional anchors | University of York; York St John University; York and Scarborough Teaching Hospitals NHS | Dual university + healthcare anchor |
-| Rail access | East Coast Main Line (London–Edinburgh); TransPennine (Leeds–Manchester / Hull) | UK primary rail junction |
+- [York](https://en.wikipedia.org/wiki/York) — Wikipedia, accessed 2026-07-10
 
-## See also
-
-- [[atlas-united-kingdom]] — UK regional market index
-- [[atlas-top-600-europe]] — the European master market index
-- [[about-regional-markets]] — the co-location framework and market selection criteria
+*Wikipedia content reproduced under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*

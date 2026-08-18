@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Los Edificios"
+title: "Edificios"
 slug: buildings-index
 category: buildings
 type: topic
@@ -23,3 +23,6 @@ diseñado y su economía subyacente.
 
 Dos clases se describen aquí en términos de intención hasta que se definan formalmente
 sus especificaciones físicas; el resto tiene definiciones vigentes actuales.
+
+Véase [[about-development-classes|Clases de Desarrollo]] para el recorrido completo de
+las seis clases, su economía y el vocabulario de desarrollo compartido.

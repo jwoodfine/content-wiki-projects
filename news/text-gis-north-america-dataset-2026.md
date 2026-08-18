@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "GIS North America Dataset — Site Pipeline Status (2026)"
+title: "GIS North America dataset — site pipeline status (2026)"
 slug: text-gis-north-america-dataset-2026
 short_description: "Internal client communication on North America co-location dataset status — scored cluster counts by jurisdiction, pipeline shortlist requirements, and calibration approach."
 category: news
@@ -9,7 +9,7 @@ content_type: topic
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-last_edited: 2026-07-01
+last_edited: 2026-07-11
 editor: pointsav-engineering
 language_protocol: PROSE-TOPIC
 source_refs:
@@ -58,7 +58,7 @@ Calibration checks are performed each time the dataset is updated with new Prima
 
 **Sales per square foot update cadence:**
 
-Primary Target sales per square foot rankings are updated annually or every second year to generate trend data and enable re-ranking of the full Primary Target population. Sales per square foot trends data, accumulated across update cycles, provides a longitudinal view of which [[about-regional-markets|regional markets]] are gaining or losing commercial productivity relative to the chain average — informing both the active pipeline prioritization and the [[about-development-site-monitoring-register|monitoring register]] for sites where adjacent land was previously unavailable.
+Primary Target sales per square foot rankings are updated annually or every second year to generate trend data and enable re-ranking of the full Primary Target population. Sales per square foot trends data, accumulated across update cycles, provides a longitudinal view of which [[about-regional-markets-system|regional markets]] are gaining or losing commercial productivity relative to the chain average — informing both the active pipeline prioritization and the [[about-development-site-monitoring-register|monitoring register]] for sites where adjacent land was previously unavailable.
 
 ---
 

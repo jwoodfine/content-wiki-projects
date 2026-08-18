@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Spain Programme"
+title: "Spain programme"
 slug: es-programme
 category: rollout
 type: topic
@@ -10,7 +10,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-03
+last_edited: 2026-07-11
 editor: pointsav-engineering
 short_description: "The intended country-by-country rollout for Spain: development regions and a site register to be defined and tracked as the programme matures. Status: planned."
 paired_with: rollout/es-programme.es.md

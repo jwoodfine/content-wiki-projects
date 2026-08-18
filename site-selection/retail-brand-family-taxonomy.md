@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Retail Brand Family Taxonomy"
+title: "Retail brand family taxonomy"
 slug: retail-brand-family-taxonomy
 category: site-selection
 type: topic
@@ -10,7 +10,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-25
+last_edited: 2026-07-11
 editor: pointsav-engineering
 short_description: "Every retail location on the co-location map carries a brand family classification that determines how the location is displayed and, for some families, whether it contributes to cluster scoring. The taxonomy was designed around the anchor types used in the co-location methodology while remaining extensible to the full range of ingested operators."
 paired_with: site-selection/retail-brand-family-taxonomy.es.md
@@ -27,6 +27,18 @@ Every retail location on the [[co-location-methodology|co-location]] map carries
 ### Hypermarket
 
 Large-format general merchandise and grocery retailers operating facilities of 80,000 square feet or more. Includes Walmart Supercenter, Target, Carrefour Hypermarket, IKEA, and equivalents across [[atlas-tier-index-north-america|North American]] and [[atlas-tier-index-europe|European]] markets. Hypermarket stores are the primary anchor type in the co-location methodology — cluster formation requires one Hypermarket anchor. Displayed with a navy badge.
+
+**Correction (2026-08-02, verified against canonical `origin/main:app-orchestration-
+gis/SCORING-METHODOLOGY.md` V3):** IKEA belongs to a separate `ALPHA_LIFESTYLE`
+anchor class in the real pipeline, kept structurally apart from Hypermarket so it
+can independently satisfy the T1 gate's `(Warehouse ∧ Hypermarket) OR (Lifestyle ∧
+Hypermarket)` logic — folding IKEA into Hypermarket here collapses that gate's
+actual logic for a reader trying to understand it. This article also mixes
+vocabulary from other systems ("first/second scoring criterion" is V2-era
+sequential-scoring language, not V3's predicate gates; "tertiary scoring" borrows
+the separate Five-Degree system's "Tertiary Target" term), reinforcing that it
+blends several of this wiki's parallel tier systems rather than describing one
+consistently. **Flagged, not resolved.**
 
 ### Hardware
 

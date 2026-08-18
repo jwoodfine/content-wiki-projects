@@ -19,7 +19,7 @@ paired_with: markets/atlas-top-600-europe.md
 
 El índice **TOP600 Europa** identifica hasta 600 mercados inmobiliarios comerciales regionales
 en países europeos que cumplen los umbrales de población, ingresos e infraestructura comercial
-establecidos por el marco de [[about-regional-markets|mercados regionales de co-ubicación]]. Los
+establecidos por el marco de [[about-regional-markets-system|mercados regionales de co-ubicación]]. Los
 mercados europeos presentan un conjunto distintivo de características estructurales en
 comparación con los equivalentes norteamericanos: núcleos urbanos históricos más densos, mayor
 dependencia del transporte público, entornos de planificación minorista más regulados y una
@@ -75,6 +75,6 @@ La cobertura principal se centra en mercados de:
 
 ## Véase también
 
-- [[about-regional-markets]] — el marco de co-ubicación que define los criterios de selección de
+- [[about-regional-markets-system]] — el marco de co-ubicación que define los criterios de selección de
   mercados
 - [[atlas-top-600-north-america]] — el índice de mercados regionales norteamericano complementario

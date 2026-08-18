@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Retail Centres (PRO)"
+title: "Retail centres (PRO)"
 slug: retail-centres
 category: site-selection
 type: concept
@@ -11,7 +11,7 @@ audience: vendor-public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
 language: en
-last_edited: 2026-06-20
+last_edited: 2026-07-11
 editor: pointsav-engineering
 paired_with: site-selection/retail-centres.es.md
 short_description: "Retail Centres (PRO) are neighbourhood commercial centres anchored by grocery, pharmacy, bank, and casual dining — one of three Location Intelligence co-location archetypes, and the base map product for the site-selection dataset."
@@ -61,7 +61,7 @@ The T2 span boundary was set to 2.5 km in the most recent rebuild, tightening th
 
 ## Why PRO is the base map
 
-Retail Centres anchor the entire Location Intelligence dataset because grocery-anchored co-location is the most stable and widely distributed commercial pattern. Almost every populated catchment has a grocery anchor; the centre that forms around it is a reliable proxy for residential commercial gravity. The Urban Fringe and Commuter archetypes are defined partly in relation to PRO clusters — Urban Fringe sites are identified by the *absence* of grocery anchors, and Commuter sites reference the nearest T1/T2 Retail Centre as the [[about-regional-markets|regional market]] generating their parking demand.
+Retail Centres anchor the entire Location Intelligence dataset because grocery-anchored co-location is the most stable and widely distributed commercial pattern. Almost every populated catchment has a grocery anchor; the centre that forms around it is a reliable proxy for residential commercial gravity. The Urban Fringe and Commuter archetypes are defined partly in relation to PRO clusters — Urban Fringe sites are identified by the *absence* of grocery anchors, and Commuter sites reference the nearest T1/T2 Retail Centre as the [[about-regional-markets-system|regional market]] generating their parking demand.
 
 ## See also
 

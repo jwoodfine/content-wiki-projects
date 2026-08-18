@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Fixed Floor Plates"
+title: "Fixed floor plates"
 slug: fixed-floor-plates
 category: building-design
 type: topic
@@ -12,7 +12,7 @@ bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 keynote: true
 keynote_section: "Building Science"
-last_edited: 2026-06-26
+last_edited: 2026-07-11
 editor: pointsav-engineering
 short_description: "The standardized, immutable structural base used in all Woodfine buildings, derived from optimized equipment geometry to enable repeatable construction and predictable space performance."
 paired_with: building-design/fixed-floor-plates.es.md
