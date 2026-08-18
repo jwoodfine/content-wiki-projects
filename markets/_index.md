@@ -64,12 +64,11 @@ North America: [[ca-ab-lethbridge]], [[ca-bc-kelowna]], [[ca-nb-moncton]],
 Europe: [[es-ar-zaragoza-secondary]], [[es-cl-burgos]], [[es-cl-valladolid]],
 [[es-nc-pamplona]], [[es-pv-vitoria-gasteiz]], [[gb-sct-inverness]].
 
-**Retired (2026-08-17), not linked above:** 9 city profiles + 3 country index pages for
-Germany, France, and Netherlands (`atlas-germany`, `atlas-france`, `atlas-netherlands`
-and their city pages) are unlisted from this category — those countries are deliberately
-excluded from the current Regional Markets methodology (locked 2026-06-30, reconfirmed
-in the 2026-08-07 dataset). Kept in the repo for historical reference, `status: retired`,
-not wikilinked from any active page.
+**Retired (2026-08-17), not linked above:** nine city profiles and three country index
+pages for Germany, France, and Netherlands are unlisted from this category — those
+countries are deliberately excluded from the current Regional Markets methodology
+(locked 2026-06-30, reconfirmed against the 2026-08-07 dataset). The pages remain
+available for historical reference but are not linked from any active page.
 
 Two other "Regional Markets" articles that predate the current co-location system —
 `about-regional-markets` and `about-regional-market-matrix` — are marked `status:

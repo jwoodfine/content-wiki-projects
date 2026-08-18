@@ -13,16 +13,16 @@ language_protocol: PROSE-TOPIC
 keynote: false
 last_edited: 2026-07-16
 editor: editorial
-short_description: "RETIRED (2026-08-17) — Netherlands is deliberately excluded from the current Regional Markets methodology (locked 2026-06-30). Content below is historical, unlisted from category navigation, not part of the ranked list."
+short_description: "RETIRED (2026-08-17) — Netherlands is deliberately excluded from the current Regional Markets methodology (locked 2026-06-30). The content below is historical and does not appear in the ranked list."
 paired_with: markets/atlas-netherlands.es.md
 ---
 
 **Retired (2026-08-17).** Netherlands is deliberately excluded from the Regional Markets
-selection under the current methodology (locked 2026-06-30, reconfirmed in the
-2026-08-07 dataset). This page is unlisted from `markets/` category navigation and no
-longer wikilinked from the Top 400 hub or country breakdown — it is not part of any
-current ranked list. Kept for historical reference only; content below reflects an
-earlier dataset generation and should not be cited as current.
+selection under the current methodology (locked 2026-06-30, reconfirmed against the
+2026-08-07 dataset). This page is not listed in the Markets category and is no longer
+linked from the Top 400 hub or the country breakdown — it is not part of any current
+ranked list. It remains available for historical reference only; the content below
+reflects an earlier dataset generation and should not be cited as current.
 
 ---
 
