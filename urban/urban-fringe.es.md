@@ -104,6 +104,10 @@ Un indicador de `contaminación minorista` marca los clústeres donde un hiperme
 
 Un estudio académico complementario, *Coubicación industrial en el anillo metropolitano: Firmas espaciales del arquetipo de la Periferia Urbana en dieciocho países*, está en preparación para su presentación prevista en Regional Science and Urban Economics (Elsevier). El estudio aplica el criterio indicador del arquetipo de Periferia Urbana a dieciocho países utilizando datos de puntos de interés de OpenStreetMap y formaliza la señal de co-localización de ausencia de alimentación y presencia de ferretería a escala continental.
 
+## Fuentes de datos
+
+Datos de mapa y localización © [colaboradores de OpenStreetMap](https://www.openstreetmap.org/copyright) / [ODbL](https://opendatacommons.org/licenses/odbl/).
+
 ## Véase también
 
 - [[location-intelligence-archetypes]] — la visión completa de los arquetipos de co-localización PRO/VWH/PKS
@@ -111,7 +115,3 @@ Un estudio académico complementario, *Coubicación industrial en el anillo metr
 ## Referencias
 
 - [Parque comercial](https://en.wikipedia.org/wiki/Retail_park) — Wikipedia, acceso 2026-06-14
-
-## Fuentes de datos
-
-Datos de mapa y localización © [colaboradores de OpenStreetMap](https://www.openstreetmap.org/copyright) / [ODbL](https://opendatacommons.org/licenses/odbl/).

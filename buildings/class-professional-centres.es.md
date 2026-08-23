@@ -37,11 +37,11 @@ Todos los edificios Woodfine en un único Sitio de Desarrollo se organizan bajo 
 
 Esta disciplina es intencional. La estandarización del Prototipo de edificio y el marco de Diseño Campus es lo que permite que las Direct-Hold Solutions operen con la velocidad de construcción y repetibilidad de un Programa de Expansión de Minorista Nacional. Si cada sitio de desarrollo requiriera una configuración de edificio personalizada, los sistemas de gestión de construcción y estimación de costos que respaldan el despliegue multi-sitio en varias jurisdicciones no se aplicarían. El Prototipo no es una restricción de diseño; es el mecanismo que hace ejecutable la Estrategia de Crecimiento a escala.
 
-## Relación con las Anclas de Minoristas Nacionales
+## Relación con las anclas de Minoristas Nacionales
 
 Professional Centres está diseñado para funcionar en proximidad física a anclas de Minoristas Nacionales que operan en [[power-centre-co-location-thesis|Centros Comerciales]] existentes. Los Arrendatarios Nacionales — operadores de servicios profesionales que se expanden desde Mercados Metropolitanos — buscan arrendamientos en Mercados Regionales accesibles para sus clientes y personal. El espacio de oficina de calidad institucional co-ubicado con anclas de Minoristas Nacionales establecidas proporciona la combinación de entorno profesional e infraestructura comercial que estos arrendatarios requieren.
 
-## Asignación de Capital
+## Asignación de capital
 
 La inversión en Professional Centres, junto con las demás clases de desarrollo, se estructura a través de los cuatro vehículos de Direct-Hold Solutions. El capital recaudado a través de cada vehículo se despliega para adquirir, desarrollar y gestionar Woodfine Buildings en sitios de Inversión Calificada en la jurisdicción aplicable. El criterio de Inversión Calificada — co-ubicación con un ancla de Centro Comercial, conformidad de Diseño Campus, cumplimiento del Prototipo — aplica de manera consistente en las cuatro jurisdicciones, sujeto a los requisitos regulatorios locales de uso de suelo y construcción.
 

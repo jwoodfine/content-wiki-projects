@@ -24,7 +24,7 @@ El **Mosaico Óptimo** es la firma demográfica de las zonas de influencia que r
 
 El Mosaico Óptimo se usa de dos maneras. Sirve como estándar de referencia para evaluar candidatos individuales de Sitios de Desarrollo — los sitios cuyo perfil demográfico circundante se asemeja estrechamente al Mosaico Óptimo tienen más probabilidades de desempeñarse en línea con los Objetivos Primarios de mayor rendimiento. También sirve como herramienta de comunicación para involucrar a los Directores Independientes del Socio General en el proceso de aprobación de sitios y para presentar el fundamento de inversión a posibles arrendatarios.
 
-## La Clasificación por Ventas por Pie Cuadrado
+## La clasificación por ventas por pie cuadrado
 
 La metodología del Mosaico Óptimo utiliza las ventas por pie cuadrado como criterio de ordenación principal. Las ventas por pie cuadrado son un indicador compuesto de los ingresos de la zona de influencia, la frecuencia de visita de los consumidores y la capacidad de compra del hogar. Ordenar los Objetivos Primarios estrictamente por ventas por pie cuadrado identifica qué nodos minoristas extraen más eficientemente la compra de los consumidores de sus zonas de influencia.
 
@@ -32,7 +32,7 @@ La metodología del Mosaico Óptimo utiliza las ventas por pie cuadrado como cri
 
 Los 25 a 100 mejores Objetivos Primarios por ventas por pie cuadrado son la muestra de la que se extrae el Mosaico Óptimo. Incluir los 25 mejores produce un perfil demográfico más concentrado; ampliar a 100 produce un perfil más amplio. Combinar datos de Objetivo Primario de Estados Unidos, Canadá y México — en lugar de analizar cada jurisdicción por separado — puede producir un Mosaico Óptimo más rico que refleje los patrones de demanda del consumidor en las geografías de [[about-regional-markets-system|Mercados Regionales]] norteamericanos.
 
-## Dimensiones Demográficas del Mosaico Óptimo
+## Dimensiones demográficas del Mosaico Óptimo
 
 El informe del Mosaico Óptimo describe la metodología y el perfil demográfico resultante en el contexto de los Woodfine Professional Centres y su relación con el ancla de Objetivo Primario.
 
@@ -48,6 +48,6 @@ El Mosaico Óptimo es el punto de referencia con el que se miden los perfiles de
 
 La estructura del Informe de Resumen de Transacción incluye: una introducción al perfil demográfico, un esquema del Mosaico Óptimo, los datos demográficos del sitio, el patrón de comercio secundario en ese Objetivo Primario, y una comparación directa entre el perfil del lugar y el punto de referencia del Mosaico Óptimo.
 
-## Aplicación Transjurisdiccional
+## Aplicación transjurisdiccional
 
 La metodología del Mosaico Óptimo se aplica en las tres jurisdicciones principales — Canadá, Estados Unidos y México — utilizando fuentes de datos demográficos específicas de cada jurisdicción. Donde el Mosaico Óptimo revela características demográficas comunes en las tres jurisdicciones, esas características representan las señales más sólidas para la selección de sitios. Donde el Mosaico Óptimo revela características específicas de una jurisdicción, deben interpretarse en contexto en lugar de aplicarse como estándares universales.

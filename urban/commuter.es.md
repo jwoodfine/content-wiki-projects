@@ -114,6 +114,10 @@ Las anclas de tránsito con un clúster de Centro Comercial de Barrio T1 a menos
 
 Un estudio académico complementario, *El arquetipo del Viajero Habitual: La concentración de alquiler de vehículos como indicador de co-localización comercial adyacente al tránsito*, está en preparación para su presentación prevista en el Journal of Transport Geography (Elsevier). El estudio identifica 14.332 candidatos del arquetipo Viajero Habitual en dieciocho países utilizando datos de OpenStreetMap y documenta una proporción ferroviario-aeroportuaria de aproximadamente 88% a 12%, con una tasa de integración del 27% con clústeres de [[co-location-strategy|co-localización]] comercial adyacentes.
 
+## Fuentes de datos
+
+Datos de mapa y localización © [colaboradores de OpenStreetMap](https://www.openstreetmap.org/copyright) / [ODbL](https://opendatacommons.org/licenses/odbl/).
+
 ## Véase también
 
 - [[location-intelligence-archetypes]] — la visión completa de los arquetipos de co-localización PRO/VWH/PKS
@@ -121,7 +125,3 @@ Un estudio académico complementario, *El arquetipo del Viajero Habitual: La con
 ## Referencias
 
 - [Aparcamiento de disuasión](https://en.wikipedia.org/wiki/Park_and_ride) — Wikipedia, acceso 2026-06-14
-
-## Fuentes de datos
-
-Datos de mapa y localización © [colaboradores de OpenStreetMap](https://www.openstreetmap.org/copyright) / [ODbL](https://opendatacommons.org/licenses/odbl/).

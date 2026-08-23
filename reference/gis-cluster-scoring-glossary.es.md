@@ -21,7 +21,7 @@ cites: []
 
 Este glosario define la terminología utilizada en el [[geographic-co-location-methodology|sistema de puntuación de co-ubicación geográfica]] de MCorp. El vocabulario cubre las designaciones de grado de clúster, las etiquetas de puntuación de nivel, las convenciones de umbral de radio y las métricas de salida del conjunto de datos. Estos términos aparecen en los informes del conjunto de datos de co-ubicación, las comunicaciones de cobertura GIS y los materiales de selección de sitios preparados para revisión por los Directores Independientes del Socio General.
 
-## Términos de Grado de Clúster
+## Términos de grado de clúster
 
 **Clúster de Primer Grado** — Un nodo de co-ubicación puntuado en el que un [[co-location-target-hierarchy|Objetivo Primario]] (Walmart Supercentre) y al menos un Objetivo Secundario (Home Depot o Costco Wholesale) están ubicados dentro de 1,0 km entre sí. El indicador de base de un nodo comercial co-anclado.
 
@@ -33,7 +33,7 @@ Este glosario define la terminología utilizada en el [[geographic-co-location-m
 
 **Clúster de Quinto Grado** — Un Clúster de Tercer Grado con ambos Objetivos Terciarios (institución de educación superior y centro médico importante) dentro de 5,0 km. La designación de clúster de mayor convicción en el sistema de puntuación: cinco categorías independientes de inversión institucional confirmadas dentro de los umbrales de radio aplicables.
 
-## Etiquetas de Puntuación de Nivel
+## Etiquetas de puntuación de nivel
 
 La metodología de puntuación V2 asigna los clústeres puntuados a tres niveles según la puntuación agregada:
 
@@ -43,7 +43,7 @@ La metodología de puntuación V2 asigna los clústeres puntuados a tres niveles
 
 **T1 Valid** — Puntuación ≥ 150. La designación de nivel de entrada. Un clúster T1 Valid tiene presencia de Objetivo Primario con confirmación de co-ubicación parcial. Los clústeres T1 Valid pueden calificar si los factores de disponibilidad del sitio y proximidad terciaria se confirman en el proceso de [[transaction-summary-report-protocol|Informe de Resumen de Transacción]].
 
-## Convenciones de Umbral de Radio
+## Convenciones de umbral de radio
 
 **Umbral de 1,0 km** — Aplicado a la co-ocurrencia de Objetivo Primario y Secundario. Corresponde a la zona de infraestructura de sitio compartida de un centro comercial co-anclado.
 
@@ -51,7 +51,7 @@ La metodología de puntuación V2 asigna los clústeres puntuados a tres niveles
 
 **Umbral de 5,0 km** — Aplicado a la co-ocurrencia de Objetivo Terciario bajo la calibración estándar. Captura el área de captación geográfica de un empleador institucional que influye en la demanda de arrendamiento profesional en el área circundante.
 
-## Métricas de Salida del Conjunto de Datos
+## Métricas de salida del conjunto de datos
 
 **Objetivo Primario** — En el conjunto de datos de co-ubicación de Woodfine, un Walmart Supercentre que opera en una geografía dada. Cada entrada de Objetivo Primario está asociada con el nombre de una ciudad o municipio, cifra de población, ventas por pie cuadrado y una posición de ranking global.
 

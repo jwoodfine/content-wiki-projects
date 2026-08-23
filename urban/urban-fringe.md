@@ -104,6 +104,10 @@ A `retail_contamination` flag marks clusters where a grocery hypermarket lies wi
 
 A companion academic study, *Industrial Co-location in the Metropolitan Ring: Spatial Signatures of the Urban Fringe Archetype Across Eighteen Countries*, is in preparation for intended submission to Regional Science and Urban Economics (Elsevier). The study applies the Urban Fringe archetype proxy criterion across eighteen countries using OpenStreetMap point-of-interest data and formalises the grocery-absence and hardware-presence co-location signal at continental scale.
 
+## Data sources
+
+Map and location data © [OpenStreetMap contributors](https://www.openstreetmap.org/copyright) / [ODbL](https://opendatacommons.org/licenses/odbl/).
+
 ## See also
 
 - [[location-intelligence-archetypes]] — the full PRO/VWH/PKS co-location archetype overview
@@ -111,7 +115,3 @@ A companion academic study, *Industrial Co-location in the Metropolitan Ring: Sp
 ## References
 
 - [Retail park](https://en.wikipedia.org/wiki/Retail_park) — Wikipedia, accessed 2026-06-14
-
-## Data Sources
-
-Map and location data © [OpenStreetMap contributors](https://www.openstreetmap.org/copyright) / [ODbL](https://opendatacommons.org/licenses/odbl/).

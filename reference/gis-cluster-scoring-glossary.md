@@ -21,7 +21,7 @@ cites: []
 
 This glossary defines the terminology used in MCorp's [[geographic-co-location-methodology|geographic co-location scoring system]]. The vocabulary covers cluster degree designations, tier score labels, radius threshold conventions, and dataset output metrics. These terms appear in co-location dataset reports, GIS coverage communications, and site selection materials prepared for review by the Independent Directors of the General Partner.
 
-## Cluster Degree Terms
+## Cluster degree terms
 
 **First-Degree Cluster** — A scored co-location node at which a [[co-location-target-hierarchy|Primary Target]] (Walmart Supercentre) and at least one Secondary Target (Home Depot or Costco Wholesale) are located within 1.0 km of each other. The baseline indicator of a co-anchored commercial node.
 
@@ -33,7 +33,7 @@ This glossary defines the terminology used in MCorp's [[geographic-co-location-m
 
 **Fifth-Degree Cluster** — A Third-Degree Cluster with both Tertiary Targets (post-secondary institution and major medical centre) within 5.0 km. The highest-conviction cluster designation in the scoring system: five independent categories of institutional investment confirmed within the applicable radius thresholds.
 
-## Tier Score Labels
+## Tier score labels
 
 The V2 scoring methodology assigns scored clusters to three tiers based on aggregate score:
 
@@ -43,7 +43,7 @@ The V2 scoring methodology assigns scored clusters to three tiers based on aggre
 
 **T1 Valid** — Score ≥ 150. The entry-level designation. A T1 Valid cluster has Primary Target presence with partial co-location confirmation. T1 Valid clusters may qualify if site availability and Tertiary proximity factors are confirmed in the [[transaction-summary-report-protocol|Transaction Summary Report]] process.
 
-## Radius Threshold Conventions
+## Radius threshold conventions
 
 **1.0 km threshold** — Applied to Primary and Secondary Target co-occurrence. A 1.0 km radius at [[about-regional-markets-system|Regional Market]] spatial scales corresponds to the shared site infrastructure zone of a co-anchored [[power-centres|power centre]]. Secondary Targets within 1.0 km of a Primary Target are treated as operating within the same commercial node rather than as independently located operators.
 
@@ -51,7 +51,7 @@ The V2 scoring methodology assigns scored clusters to three tiers based on aggre
 
 **5.0 km threshold** — Applied to Tertiary Target co-occurrence under the standard calibration. A 5.0 km radius captures the geographic catchment of an institutional employer (university or medical centre) that influences professional tenancy demand in the surrounding area without requiring co-location on the same commercial node.
 
-## Dataset Output Metrics
+## Dataset output metrics
 
 **Primary Target** — In the Woodfine co-location dataset, a Walmart Supercentre operating in a given geography. Each Primary Target entry is associated with a city or municipality name, population figure, sales per square foot, and a global ranking position relative to all other Primary Target entries in the dataset.
 

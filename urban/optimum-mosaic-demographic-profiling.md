@@ -24,7 +24,7 @@ The **Optimum Mosaic** is the demographic signature of the trade areas surroundi
 
 The Optimum Mosaic is used in two ways. It serves as a benchmarking standard for evaluating individual Development Site candidates — sites whose surrounding demographic profile closely matches the Optimum Mosaic are more likely to perform in line with the highest-performing Primary Targets. It also serves as a communication tool for engaging the Independent Directors of the General Partner in the site approval process and for presenting the investment rationale to prospective tenants.
 
-## The Sales Per Square Foot Ranking
+## The sales per square foot ranking
 
 The Optimum Mosaic methodology uses sales per square foot as its primary sorting criterion for identifying the top Primary Target locations. Sales per square foot is a retail performance metric that reflects consumer purchasing intensity within the trade area: a Walmart Supercentre generating high sales per square foot is operating in a trade area where consumers have both the purchasing capacity and the frequency of visit required to drive volume above the chain average.
 
@@ -34,7 +34,7 @@ Sorting Primary Targets strictly by sales per square foot — rather than by tot
 
 The top 25 to 100 Primary Targets by sales per square foot are the sample from which the Optimum Mosaic is extracted. Including the top 25 produces a tighter, more concentrated demographic profile. Expanding to 100 produces a broader profile that may capture demographic variation across geographies and jurisdictions. Combining Primary Target data from the United States, Canada, and Mexico — rather than analyzing each jurisdiction separately — may produce a richer Optimum Mosaic that reflects underlying consumer demand patterns across North American [[about-regional-markets-system|Regional Market]] geographies rather than jurisdiction-specific conditions.
 
-## Demographic Dimensions of the Optimum Mosaic
+## Demographic dimensions of the Optimum Mosaic
 
 The Optimum Mosaic report outlines the methodology and resulting demographic profile in the context of Woodfine Professional Centres and their relationship to the Primary Target anchor. The demographic dimensions captured in the Optimum Mosaic include the household characteristics of the surrounding trade area population.
 
@@ -44,7 +44,7 @@ A key dimension is secondary trade strength. The Optimum Mosaic is expected to s
 
 The secondary trade metric distinguishes Regional Market sites from purely local-serving commercial nodes. A Supercentre whose trade area is dominated by secondary trade is a node that functions as a regional commercial hub, not just a neighbourhood grocery store. The Professional Centres development type performs best in precisely these regional hub environments, where the combination of local patronage and secondary trade provides the client density for professional services operators to sustain viable practices.
 
-## Transaction Summary Report Application
+## Transaction Summary Report application
 
 The Optimum Mosaic is the benchmark against which site-specific demographic profiles are measured in the [[transaction-summary-report-protocol|Transaction Summary Report]]. For each Development Site candidate identified through the [[geographic-co-location-methodology|geographic co-location methodology]], a Transaction Summary Report is prepared that presents the actual demographic profile of the Primary Target location and compares it directly with the Optimum Mosaic.
 
@@ -54,7 +54,7 @@ The Transaction Summary Report structure includes an introduction to demographic
 
 This comparison structure is designed to support informed review by Independent Directors of the General Partner, whose governance mandate requires that site approvals be grounded in documented and reproducible analysis. The Transaction Summary Report provides that documentation in a template format that can be applied to each potential development site in the same way, enabling the Board to compare sites across jurisdictions and geographies on consistent terms.
 
-## Cross-Jurisdictional Application
+## Cross-jurisdictional application
 
 The Optimum Mosaic methodology is applied across the three primary jurisdictions — Canada, the United States, and Mexico — using jurisdiction-specific demographic data sources appropriate to each national context. The underlying analytical logic is identical across jurisdictions: sort Primary Targets by sales per square foot, extract common demographic characteristics from the top-performing sites, and use the resulting profile to evaluate individual site candidates.
 

@@ -37,11 +37,11 @@ All Woodfine buildings on a single Development Site are organized under a unifie
 
 This discipline is intentional. The standardization of the building Prototype and the Campus Design framework is what allows the Direct-Hold Solutions to operate with the construction velocity and repeatability of a National Retailer Rollout Program. If each development site required a custom building configuration, the construction management and cost estimation systems that support multi-site deployment across multiple jurisdictions would not apply. The Prototype is not a design constraint; it is the mechanism that makes the Growth Strategy executable at scale.
 
-## Relationship to National Retailer Anchors
+## Relationship to National Retailer anchors
 
 Professional Centres is designed to function in physical proximity to National Retailer anchors operating in existing [[power-centre-co-location-thesis|Power Centres]]. National Tenants — professional services operators expanding from Metro Markets — seek leaseholds in Regional Markets that are accessible to their clients and staff. Institutional-grade office space co-located with established National Retailer anchors provides the combination of professional environment and commercial infrastructure that these tenants require.
 
-## Capital Allocation
+## Capital allocation
 
 Investment in Professional Centres, alongside the other development classes, is structured through the four Direct-Hold Solutions vehicles. Capital raised through each vehicle is deployed to acquire, develop, and manage Woodfine Buildings in Qualified Investment sites in the applicable jurisdiction. The Qualified Investment criterion — co-location with a Power Centre anchor, Campus Design conformity, Prototype compliance — applies consistently across all four jurisdictions, subject to local land-use and construction regulatory requirements.
 

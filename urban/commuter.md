@@ -114,6 +114,10 @@ Transit anchors with a T1 Retail Centre cluster within 5 km are reviewed as like
 
 A companion academic study, *The Commuter Archetype: Car-Rental Clustering as a Proxy for Transit-Adjacent Commercial Co-location*, is in preparation for intended submission to the Journal of Transport Geography (Elsevier). The study identifies 14,332 Commuter candidates across eighteen countries using OpenStreetMap data and documents a rail-to-airport ratio of approximately 88% to 12%, with a 27% integration rate with adjacent commercial [[co-location-strategy|co-location]] clusters.
 
+## Data sources
+
+Map and location data © [OpenStreetMap contributors](https://www.openstreetmap.org/copyright) / [ODbL](https://opendatacommons.org/licenses/odbl/).
+
 ## See also
 
 - [[location-intelligence-archetypes]] — the full PRO/VWH/PKS co-location archetype overview
@@ -121,7 +125,3 @@ A companion academic study, *The Commuter Archetype: Car-Rental Clustering as a 
 ## References
 
 - [Park and ride](https://en.wikipedia.org/wiki/Park_and_ride) — Wikipedia, accessed 2026-06-14
-
-## Data Sources
-
-Map and location data © [OpenStreetMap contributors](https://www.openstreetmap.org/copyright) / [ODbL](https://opendatacommons.org/licenses/odbl/).

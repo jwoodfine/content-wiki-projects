@@ -26,7 +26,7 @@ keynote: false
 
 The built environment comprises the human-made or human-modified areas in which people live, work, and conduct the activities of economic and social life. It is distinct from the natural environment in that its components are products of deliberate human design and construction rather than ecological process. Those components include buildings, transport infrastructure, parks and landscaped open space, agricultural land, and the utility networks that connect them. The quality, organization, and vintage of the built environment in any geography are the primary physical determinants of how people move through and use urban space. They are therefore central inputs to commercial real estate site analysis.
 
-## Scope and Components
+## Scope and components
 
 The built environment is most usefully understood as the totality of physical conditions that humans have created to support economic, social, and cultural activity. Its components include:
 
@@ -44,7 +44,7 @@ The built environment is most usefully understood as the totality of physical co
 
 **Utility networks.** Water, wastewater, electrical, telecommunications, and district energy networks form the service infrastructure upon which all other built environment functions depend. The capacity and condition of utilities below grade are a hidden factor in development feasibility that becomes visible during environmental due diligence.
 
-## Historical Development
+## Historical development
 
 The built environment as a consciously designed system has a history extending to the earliest organized human settlements. Archaeological evidence places the first purpose-built agricultural settlements to the Neolithic period, approximately 12,000 years ago. These settlements included permanent housing, storage facilities, and communal structures. The first urban settlements — with the spatial organization and infrastructure that characterize cities rather than villages — appear in the archaeological record from approximately 7,500 BCE. Çatalhöyük in present-day Turkey is among the earliest documented examples of planned urban habitation. It had an estimated population of several thousand, organized in a dense cellular building pattern without conventional streets.
 
@@ -60,7 +60,7 @@ The City Beautiful movement of the 1890s originated in the United States with th
 
 The post-war decades produced a fundamental transformation in the North American built environment. Two forces drove it: the Interstate Highway System, authorized by the Federal Aid Highway Act of 1956, and the expansion of suburban residential development. The freeway network made car-dependent suburban settlement economically viable across vast distances from urban cores. It produced a built environment characterized by low density, separated land uses, and minimal pedestrian infrastructure. The physical consequences of this transformation include sprawling single-use residential subdivisions, strip commercial corridors, and surface-parking-dominated commercial centres. Together they define a large portion of the North American built environment stock that commercial real estate analysis must evaluate today.
 
-## Health and Environmental Dimensions
+## Health and environmental dimensions
 
 Research on built environment quality and human health has identified consistent relationships between urban form and chronic disease outcomes. Low-density, automobile-oriented built environments are associated with higher rates of obesity, cardiovascular disease, and type 2 diabetes. This is in part because they reduce the incidence of incidental physical activity — walking, cycling, and transit use — that characterizes daily life in higher-density, walkable environments.
 
@@ -70,7 +70,7 @@ The built environment is a significant contributor to greenhouse gas emissions. 
 
 The Urban Heat Island effect is a direct consequence of built environment design choices. It is the phenomenon by which cities and suburbs record higher temperatures than surrounding rural areas, due to heat absorption by dark-surfaced infrastructure and the reduction of vegetative cover. Mitigation strategies include increased tree canopy, green roofs, reflective pavements, and the reduction of impervious cover in new development.
 
-## Commercial Real Estate Implications
+## Commercial real estate implications
 
 The quality, density, and walkability of the built environment are primary inputs to site scoring in commercial real estate analysis. Nodes with fine-grained street grids, continuous pedestrian frontage, mixed land use, and access to transit infrastructure consistently outperform dispersed suburban nodes. This holds on metrics of anchor tenant viability, commercial rent performance, and [[co-location-strategy|co-location productivity]].
 
