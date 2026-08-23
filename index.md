@@ -29,7 +29,7 @@ across 8 markets spanning 13 countries. This encyclopedia is the methodology ref
 the [[co-location-ranking-system|ranking algorithm]], [[asset-architecture-standard|asset
 architecture]] standards, and regional deployment indices for
 [[atlas-tier-index-north-america|North America]] and [[atlas-tier-index-europe|Europe]].
-The platform is live at gis.woodfinegroup.com and is built and maintained by PointSav Digital Systems.
+The platform is live at gis.woodfinegroup.com.
 
 Articles are organized into six knowledge areas: co-location methodology, [[architecture/_index|building
 architecture]], [[markets/_index|market research]], [[urban/_index|urban and demographic context]],

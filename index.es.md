@@ -32,8 +32,7 @@ ubicaciones minoristas en 8 mercados que abarcan 13 países. Esta enciclopedia e
 metodológica para el [[co-location-ranking-system|algoritmo de clasificación]], los estándares
 de [[asset-architecture-standard|arquitectura de activos]] y los índices de despliegue regional
 para [[atlas-tier-index-north-america|América del Norte]] y [[atlas-tier-index-europe|Europa]].
-La plataforma está disponible en gis.woodfinegroup.com y es desarrollada y mantenida por PointSav
-Digital Systems.
+La plataforma está disponible en gis.woodfinegroup.com.
 
 Los artículos están organizados en seis áreas de conocimiento: metodología de co-localización,
 [[architecture/_index|arquitectura del edificio]], [[markets/_index|investigación de mercado]],
