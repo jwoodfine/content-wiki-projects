@@ -24,7 +24,7 @@ thesis_alignment: "Deconstructivist cultural institutions — Libeskind museums,
 keynote: false
 ---
 
-Deconstructivism is a [[postmodern-architecture|postmodern]] architectural movement that appeared in the 1980s, characterised by an impression of fragmentation in the constructed building — an absence of obvious harmony, continuity, or symmetry. The term is a portmanteau of Constructivism and Deconstruction, the form of semiotic analysis developed by the French philosopher Jacques Derrida. The name reflects the movement's engagement with post-structuralist theory rather than with a deconstructed visual appearance: deconstructivist architects manipulate the structure's surface skin, deploy non-rectilinear forms, and produce a visual character of controlled chaos, but the buildings are structurally sound and functionally resolved.
+Deconstructivist buildings present an impression of fragmentation — an absence of obvious harmony, continuity, or symmetry — while remaining structurally sound and functionally resolved. Deconstructivism is the [[postmodern-architecture|postmodern]] architectural movement, appearing in the 1980s, that produced them. The term is a portmanteau of Constructivism and Deconstruction, the form of semiotic analysis developed by the French philosopher Jacques Derrida. The name reflects the movement's engagement with post-structuralist theory rather than with a deconstructed visual appearance: deconstructivist architects manipulate the structure's surface skin, deploy non-rectilinear forms, and produce a visual character of controlled chaos.
 
 ## Leading practitioners
 

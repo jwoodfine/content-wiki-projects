@@ -25,7 +25,7 @@ keynote: true
 keynote_section: "Architecture"
 ---
 
-La arquitectura contextual es un enfoque de diseño que trata la relación de un edificio con su entorno como una restricción de diseño primaria. Un edificio contextual responde a la altura, el retranqueo, la paleta de materiales y los patrones de uso de las estructuras adyacentes, en lugar de afirmar su propia identidad arquitectónica con independencia de lo que le rodea. El enfoque se contrapone a la arquitectura de objeto, en la que un edificio se diseña como una declaración formal autónoma con independencia de lo que le circunda.
+Un edificio contextual responde a la altura, el retranqueo, la paleta de materiales y los patrones de uso de las estructuras adyacentes, en lugar de afirmar su propia identidad arquitectónica con independencia de lo que le rodea. La arquitectura contextual es el enfoque de diseño que trata esa relación con el entorno como una restricción de diseño primaria. El enfoque se contrapone a la arquitectura de objeto, en la que un edificio se diseña como una declaración formal autónoma con independencia de lo que le circunda.
 
 El enfoque contextual fue articulado como posición crítica en las décadas de 1960 y 1970, en parte como respuesta a los programas de renovación urbana que reemplazaron el tejido construido existente por torres modernas aisladas en plazas abiertas. Críticos como Jane Jacobs, Colin Rowe y Fred Koetter argumentaron que los entornos urbanos coherentes dependen de las relaciones acumuladas entre edificios, no de la excelencia arquitectónica individual. El Congreso para el [[new-urbanism|Nuevo Urbanismo]] y el movimiento de diseño urbano posterior a 1990 adoptaron los principios contextuales como fundamento del diseño de barrios.
 

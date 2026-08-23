@@ -25,7 +25,7 @@ keynote: true
 keynote_section: "Architecture"
 ---
 
-Contextual architecture is a design approach that treats a building's relationship to its surroundings as a primary design constraint. A contextual building responds to the height, setback, material palette, and use patterns of adjacent structures rather than asserting its own architectural identity independent of its setting. The approach is contrasted with object architecture, in which a building is designed as an autonomous formal statement regardless of what surrounds it.
+A contextual building responds to the height, setback, material palette, and use patterns of adjacent structures rather than asserting its own architectural identity independent of its setting. Contextual architecture is the design approach that treats that relationship to the surroundings as a primary design constraint. The approach is contrasted with object architecture, in which a building is designed as an autonomous formal statement regardless of what surrounds it.
 
 The contextual approach was articulated as a critical position in the 1960s and 1970s, partly in response to urban renewal programmes that replaced established built fabric with isolated modern towers set in open plazas. Critics including Jane Jacobs, Colin Rowe, and Fred Koetter argued that coherent urban environments depend on the accumulated relationships between buildings, not on individual architectural excellence. The Congress for the [[new-urbanism|New Urbanism]] and the post-1990 urban design movement adopted contextual principles as foundational to neighbourhood design.
 

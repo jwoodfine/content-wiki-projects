@@ -24,7 +24,7 @@ thesis_alignment: "Las instituciones culturales deconstructivistas — museos de
 keynote: false
 ---
 
-El deconstructivismo es un movimiento arquitectónico [[postmodern-architecture|posmoderno]] que apareció en la década de 1980, caracterizado por la impresión de fragmentación en el edificio construido — una ausencia de armonía, continuidad o simetría evidentes. El término es un acrónimo de Constructivismo y Deconstrucción, la forma de análisis semiótico desarrollada por el filósofo francés Jacques Derrida. El nombre refleja el compromiso del movimiento con la teoría postestructuralista más que con una apariencia visual deconstructivada: los arquitectos deconstructivistas manipulan la piel de la superficie estructural, despliegan formas no rectilíneas y producen un carácter visual de caos controlado, pero los edificios son estructuralmente sólidos y funcionalmente resueltos.
+Los edificios deconstructivistas presentan una impresión de fragmentación — una ausencia de armonía, continuidad o simetría evidentes — siendo a la vez estructuralmente sólidos y funcionalmente resueltos. El deconstructivismo es el movimiento arquitectónico [[postmodern-architecture|posmoderno]], aparecido en la década de 1980, que los produjo. El término es un acrónimo de Constructivismo y Deconstrucción, la forma de análisis semiótico desarrollada por el filósofo francés Jacques Derrida. El nombre refleja el compromiso del movimiento con la teoría postestructuralista más que con una apariencia visual deconstructivada: los arquitectos deconstructivistas manipulan la piel de la superficie estructural, despliegan formas no rectilíneas y producen un carácter visual de caos controlado.
 
 ## Principales exponentes
 
