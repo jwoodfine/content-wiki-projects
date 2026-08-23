@@ -17,7 +17,7 @@ paired_with: buildings/class-suburban-office.md
 cites: []
 ---
 
-Las Oficinas Suburbanas son una de las seis [[about-development-classes|clases de desarrollo]] de la cartera de tenencia directa de MCorp. Es un tipo de edificio de oficinas de varios pisos que extiende el producto de [[class-professional-centres|Centros Profesionales]] a un radio de proximidad más amplio, proporcionando el mismo formato de oficina institucional en sitios donde no se puede cumplir el estándar de emplazamiento más estrecho junto al [[power-centres|centro de potencia]].
+Las Oficinas Suburbanas extienden el producto de [[class-professional-centres|Centros Profesionales]] a un radio de proximidad de 2,0 kilómetros, ofreciendo el mismo formato de oficina institucional en sitios donde no se puede cumplir el estándar de emplazamiento más estrecho junto al [[power-centres|centro de potencia]]. Es una de las seis [[about-development-classes|clases de desarrollo]] de la cartera de tenencia directa de MCorp.
 
 ## Qué son las Oficinas Suburbanas
 

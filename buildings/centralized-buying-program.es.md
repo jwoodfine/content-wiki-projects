@@ -19,7 +19,7 @@ paired_with: buildings/centralized-buying-program.md
 cites: []
 ---
 
-El **Programa Centralizado de Compras** es la estructura de adquisición mediante la cual Woodfine gestiona las compras de materiales en múltiples proyectos de construcción de Woodfine Buildings simultáneos. Al comprar directamente a los proveedores para múltiples edificios a la vez, Woodfine asegura Precios Nacionales — precios de nivel de volumen disponibles para los compradores cuyos cantidades de pedido agregadas califican para el calendario de precios institucional del proveedor. Todos los reembolsos y descuentos por volumen generados por este programa fluyen directamente a las Direct-Hold Solutions en lugar de ser retenidos como beneficio por oficios o contratistas externos.
+El **Programa Centralizado de Compras** compra materiales directamente a los proveedores para todos los Woodfine Buildings en construcción a la vez, asegurando Precios Nacionales — precios de nivel de volumen disponibles para los compradores cuyas cantidades de pedido agregadas califican para el calendario de precios institucional del proveedor. Todos los reembolsos y descuentos por volumen generados por este programa fluyen directamente a las Direct-Hold Solutions en lugar de ser retenidos como beneficio por oficios o contratistas externos.
 
 ## El problema de adquisición en la construcción convencional
 

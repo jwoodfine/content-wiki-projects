@@ -16,7 +16,7 @@ short_description: "A strategic tenant curation model that assembles a professio
 paired_with: buildings/mix-of-use.es.md
 ---
 
-Mix-of-use is the tenant curation model for Woodfine professional centres. It designates five categories of professional occupier — academic, business, civic, laboratory, and medical — whose combined tenancy produces a stable, self-reinforcing professional ecosystem within a single building. The model is structurally distinct from generic mixed-use development, which combines residential, commercial, and retail in a single building. Mix-of-use combines only professional categories, optimizing for occupier stability and cross-category demand reinforcement.
+Mix-of-use, the tenant curation model for Woodfine professional centres, admits only five categories of professional occupier — academic, business, civic, laboratory, and medical — whose combined tenancy produces a stable, self-reinforcing professional ecosystem within a single building. The model is structurally distinct from generic mixed-use development, which combines residential, commercial, and retail in a single building. Mix-of-use combines only professional categories, optimizing for occupier stability and cross-category demand reinforcement.
 
 ## The five tenant categories
 

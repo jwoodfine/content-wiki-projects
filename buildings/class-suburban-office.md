@@ -17,7 +17,7 @@ paired_with: buildings/class-suburban-office.es.md
 cites: []
 ---
 
-Suburban Office is one of the six [[about-development-classes|development classes]] in MCorp's direct-hold portfolio. It is a multi-storey office building type that extends the [[class-professional-centres|Professional Centres]] product to a wider proximity radius, providing the same institutional office format at sites where the tighter [[power-centres|power centre]] siting standard cannot be met.
+Suburban Office extends the [[class-professional-centres|Professional Centres]] product to a 2.0-kilometre proximity radius, delivering the same institutional office format at sites where the tighter [[power-centres|power centre]] siting standard cannot be met. It is one of the six [[about-development-classes|development classes]] in MCorp's direct-hold portfolio.
 
 ## What Suburban Office is
 

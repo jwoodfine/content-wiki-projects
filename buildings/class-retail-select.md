@@ -17,7 +17,7 @@ paired_with: buildings/class-retail-select.es.md
 cites: []
 ---
 
-Retail Select is one of the six [[about-development-classes|development classes]] in MCorp's direct-hold portfolio. It is a single-storey commercial-retail building type positioned within the same 1.0-kilometre proximity radius as [[class-professional-centres|Professional Centres]], serving as the street-level retail complement to Woodfine's multi-storey office classes.
+Retail Select places single-storey, street-level retail within the same 1.0-kilometre proximity radius as [[class-professional-centres|Professional Centres]], serving as the retail complement to Woodfine's multi-storey office classes. It is one of the six [[about-development-classes|development classes]] in MCorp's direct-hold portfolio.
 
 ## What Retail Select is
 

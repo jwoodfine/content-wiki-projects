@@ -16,7 +16,7 @@ short_description: "Un modelo estratégico de selección de inquilinos que reún
 paired_with: buildings/mix-of-use.md
 ---
 
-La combinación de usos es el modelo de selección de inquilinos para los centros profesionales de Woodfine. Designa cinco categorías de ocupantes profesionales — académico, empresarial, cívico, laboratorio y médico — cuya tenencia combinada produce un ecosistema profesional estable y auto-reforzante dentro de un único edificio. El modelo es estructuralmente distinto del desarrollo de uso mixto convencional, que combina residencias, comercio y retail en un solo edificio. La combinación de usos combina únicamente categorías profesionales, optimizando la estabilidad del ocupante y el refuerzo mutuo de la demanda entre categorías.
+La combinación de usos, el modelo de selección de inquilinos para los centros profesionales de Woodfine, admite únicamente cinco categorías de ocupantes profesionales — académico, empresarial, cívico, laboratorio y médico — cuya tenencia combinada produce un ecosistema profesional estable y auto-reforzante dentro de un único edificio. El modelo es estructuralmente distinto del desarrollo de uso mixto convencional, que combina residencias, comercio y retail en un solo edificio. La combinación de usos combina únicamente categorías profesionales, optimizando la estabilidad del ocupante y el refuerzo mutuo de la demanda entre categorías.
 
 ## Las cinco categorías de inquilinos
 

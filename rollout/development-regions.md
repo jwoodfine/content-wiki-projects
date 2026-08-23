@@ -17,7 +17,7 @@ paired_with: development-regions.es.md
 cites: []
 ---
 
-Development regions are the geographic and jurisdictional zones used to segment market data, regulatory context, and site-selection scope. Each region defines a bounded envelope within which co-location candidates are evaluated, compliance postures are applied, and market intelligence accumulates. Regions are not delivery territories; they are analytical and operational boundaries that shape how development decisions are made.
+Every co-location candidate is evaluated inside a declared development region — a bounded geographic and jurisdictional envelope that scopes market data, regulatory context, and site selection. Within each region's envelope, compliance postures are applied and market intelligence accumulates. Regions are not delivery territories; they are analytical and operational boundaries that shape how development decisions are made.
 
 ## Purpose
 

@@ -17,7 +17,7 @@ paired_with: development-regions.md
 cites: []
 ---
 
-Las regiones de desarrollo son las zonas geográficas y jurisdiccionales utilizadas para segmentar datos de mercado, contexto regulatorio y alcance de selección de sitios. Cada región define un alcance delimitado dentro del cual se evalúan los candidatos de co-ubicación, se aplican posturas de cumplimiento y se acumula inteligencia de mercado. Las regiones no son territorios de entrega; son límites analíticos y operativos que determinan cómo se toman las decisiones de desarrollo.
+Cada candidato de co-ubicación se evalúa dentro de una región de desarrollo declarada — un alcance geográfico y jurisdiccional delimitado que acota los datos de mercado, el contexto regulatorio y la selección de sitios. Dentro del alcance de cada región se aplican posturas de cumplimiento y se acumula inteligencia de mercado. Las regiones no son territorios de entrega; son límites analíticos y operativos que determinan cómo se toman las decisiones de desarrollo.
 
 ## Propósito
 
