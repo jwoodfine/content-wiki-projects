@@ -83,7 +83,7 @@ The most architecturally consequential performance BIM Object is `bim.performanc
 **Correction (2026-08-02):** EN 12464-1 governs workplace illuminance/lux levels —
 it does not define a maximum workstation-to-window distance. The standard actually
 governing daylight depth is EN 17037 (Daylight in Buildings), correctly cited
-elsewhere in this same article's regulatory list. Notably, [[bim-building-width-method]]
+elsewhere in this same article's regulatory list. Notably, bim-building-width-method
 treats this same 6.0 m figure's citation as genuinely unresolved ("EN 12464-1 / EN
 17037, pending precise citation") — this article states it as settled fact under the
 wrong standard. **Flagged, not resolved.**

@@ -22,11 +22,11 @@ cites: []
 The **Geometry of Sustainability** is Woodfine's approach to building environmental performance: engineering three regulatory standards — the European Lighting Directive, Swiss Air Exchange Requirements, and German Circulation Requirements — directly into the Fixed Floor Plate geometry of every Woodfine Building, rather than seeking certification compliance after design is complete.
 
 **Correction (2026-08-02):** this article's sibling articles
-([[bim-private-office-key-plans]], [[bim-zone-depths-per-use-type]]) call the same
+(bim-private-office-key-plans, bim-zone-depths-per-use-type) call the same
 underlying rules the "European Lighting **Standard**" and "German Circulation
 **Law**," not "Directive"/"Requirements." This is more than naming drift — an EU
 Directive is transposed legislation, while a technical lighting norm like EN
-12464-1 (which [[bim-zone-depths-per-use-type]]'s own Future Research section
+12464-1 (which bim-zone-depths-per-use-type's own Future Research section
 speculates is the actual source) is a CEN Standard, a structurally different
 instrument type. Repeated in [[dual-mandate-building-certifications]]. **Flagged,
 not resolved.** The practical consequence is that every building in the Woodfine portfolio achieves a documented 30% reduction in operating costs for Office Tenants relative to conventional office construction.
