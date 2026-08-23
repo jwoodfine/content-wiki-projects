@@ -24,7 +24,7 @@ thesis_alignment: "An understanding of the full historical and typological range
 keynote: false
 ---
 
-Architecture is the art and technique of designing and constructing buildings and other physical structures. The word derives from the Latin *architectura*, itself from the Greek *arkhitekton*: *arkhi* (chief) and *tekton* (builder). Architecture encompasses not only the visual and aesthetic qualities of buildings but also their structural performance and spatial organization. It also covers environmental behaviour and integration into the urban context in which buildings sit. It is simultaneously a practical discipline, concerned with shelter, enclosure, structural stability, and programmatic function. It is also a cultural one, in which buildings embody the values, technical capacities, and aesthetic sensibilities of the societies that produce them.
+Buildings embody the values, technical capacities, and aesthetic sensibilities of the societies that produce them. Architecture — the art and technique of designing and constructing buildings and other physical structures — is the discipline that shapes that record. The word derives from the Latin *architectura*, itself from the Greek *arkhitekton*: *arkhi* (chief) and *tekton* (builder). Architecture encompasses not only the visual and aesthetic qualities of buildings but also their structural performance and spatial organization. It also covers environmental behaviour and integration into the urban context in which buildings sit. It is at once a practical discipline, concerned with shelter, enclosure, structural stability, and programmatic function, and a cultural one.
 
 ## Foundational theory: Vitruvius
 

@@ -24,7 +24,7 @@ thesis_alignment: "The built environment directly conditions co-location perform
 keynote: false
 ---
 
-The built environment comprises the human-made or human-modified areas in which people live, work, and conduct the activities of economic and social life. It is distinct from the natural environment in that its components are products of deliberate human design and construction rather than ecological process. Those components include buildings, transport infrastructure, parks and landscaped open space, agricultural land, and the utility networks that connect them. The quality, organization, and vintage of the built environment in any geography are the primary physical determinants of how people move through and use urban space. They are therefore central inputs to commercial real estate site analysis.
+The quality, organization, and vintage of the built environment in any geography are the primary physical determinants of how people move through and use urban space — and therefore central inputs to commercial real estate site analysis. The built environment comprises the human-made or human-modified areas in which people live, work, and conduct the activities of economic and social life. It is distinct from the natural environment in that its components are products of deliberate human design and construction rather than ecological process. Those components include buildings, transport infrastructure, parks and landscaped open space, agricultural land, and the utility networks that connect them.
 
 ## Scope and components
 

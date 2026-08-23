@@ -24,7 +24,7 @@ thesis_alignment: "Los edificios comerciales Art Decó — sucursales bancarias 
 keynote: false
 ---
 
-El Art Decó es un estilo arquitectónico y decorativo que surgió en Europa a principios del siglo XX y alcanzó su máxima expresión en los años veinte y treinta, especialmente en la arquitectura comercial de las ciudades norteamericanas. El estilo toma su nombre de la Exposición Internacional de Artes Decorativas e Industriales Modernas celebrada en París en 1925, aunque las características distintivas que lo definen — ornamento geométrico, escalonamiento o retranqueo de masas, composición simétrica y uso generoso de nuevos materiales industriales como el hormigón armado, el aluminio y el vidrio plano — ya habían aparecido en la arquitectura europea en la década anterior a la exposición.
+El Art Decó alcanzó su máxima expresión en los años veinte y treinta, especialmente en la arquitectura comercial de las ciudades norteamericanas. El estilo arquitectónico y decorativo había surgido en Europa a principios del siglo XX. El estilo toma su nombre de la Exposición Internacional de Artes Decorativas e Industriales Modernas celebrada en París en 1925, aunque las características distintivas que lo definen — ornamento geométrico, escalonamiento o retranqueo de masas, composición simétrica y uso generoso de nuevos materiales industriales como el hormigón armado, el aluminio y el vidrio plano — ya habían aparecido en la arquitectura europea en la década anterior a la exposición.
 
 ## Orígenes en París y Viena
 

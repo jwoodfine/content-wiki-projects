@@ -24,7 +24,7 @@ thesis_alignment: "Baroque streetscapes define the heritage commercial corridors
 keynote: false
 ---
 
-Baroque architecture is a highly decorative and theatrically expressive style that appeared in Italy in the early 17th century and spread across Europe and into Spanish and Portuguese colonial territories in the Americas and Asia. Originally sponsored by the Catholic Church as a Counter-Reformation tool — a new architecture intended to inspire surprise, emotion, and awe in the broad public — the style reached its peak in the High Baroque period of 1625 to 1675, when it was employed in churches and palaces in Italy, Spain, Portugal, France, Bavaria, and Austria. In the Late Baroque period of 1675 to 1750, the style spread across Europe and reached regional variants of maximum decorative elaboration, including the Rococo in France and the elaborate sculptural style of Balthasar Neumann in German-speaking central Europe.
+Baroque architecture was built to inspire surprise, emotion, and awe in the broad public — a highly decorative, theatrically expressive style originally sponsored by the Catholic Church as a Counter-Reformation tool. It appeared in Italy in the early 17th century and spread across Europe and into Spanish and Portuguese colonial territories in the Americas and Asia. The style reached its peak in the High Baroque period of 1625 to 1675, when it was employed in churches and palaces in Italy, Spain, Portugal, France, Bavaria, and Austria. In the Late Baroque period of 1675 to 1750, the style spread across Europe and reached regional variants of maximum decorative elaboration, including the Rococo in France and the elaborate sculptural style of Balthasar Neumann in German-speaking central Europe.
 
 ## Classical vocabulary made dramatic
 

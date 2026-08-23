@@ -24,7 +24,7 @@ thesis_alignment: "Una comprensión del alcance histórico y tipológico complet
 keynote: false
 ---
 
-La arquitectura es el arte y la técnica de diseñar y construir edificios y otras estructuras físicas. El término procede del latín *architectura*, a su vez del griego *arkhitekton*: *arkhi* (jefe) y *tekton* (constructor). La arquitectura abarca no sólo las cualidades visuales y estéticas de los edificios, sino también su comportamiento estructural, su organización espacial, su comportamiento medioambiental y su integración en el contexto urbano en el que se insertan. Es simultáneamente una disciplina práctica — concerniente al refugio, el cerramiento, la estabilidad estructural y la función programática — y una cultural, en la que los edificios encarnan los valores, las capacidades técnicas y las sensibilidades estéticas de las sociedades que los producen.
+Los edificios encarnan los valores, las capacidades técnicas y las sensibilidades estéticas de las sociedades que los producen. La arquitectura — el arte y la técnica de diseñar y construir edificios y otras estructuras físicas — es la disciplina que da forma a ese registro. El término procede del latín *architectura*, a su vez del griego *arkhitekton*: *arkhi* (jefe) y *tekton* (constructor). La arquitectura abarca no sólo las cualidades visuales y estéticas de los edificios, sino también su comportamiento estructural, su organización espacial, su comportamiento medioambiental y su integración en el contexto urbano en el que se insertan. Es a la vez una disciplina práctica — concerniente al refugio, el cerramiento, la estabilidad estructural y la función programática — y una cultural.
 
 ## Teoría fundacional: Vitruvio
 

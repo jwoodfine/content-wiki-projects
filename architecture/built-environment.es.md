@@ -24,7 +24,7 @@ thesis_alignment: "El entorno construido condiciona directamente el rendimiento 
 keynote: false
 ---
 
-El entorno construido comprende las áreas creadas o modificadas por el ser humano en las que las personas viven, trabajan y desarrollan las actividades de la vida económica y social. Se distingue del entorno natural en que sus componentes — edificios, infraestructura de transporte, parques y espacios abiertos ajardinados, terrenos agrícolas, y las redes de servicios que los conectan — son producto del diseño y la construcción humana deliberada, y no de procesos ecológicos. La calidad, organización y antigüedad del entorno construido en cualquier geografía son los determinantes físicos primarios de cómo las personas se mueven y utilizan el espacio urbano, y constituyen por ello datos de entrada esenciales para el análisis de ubicaciones en inmobiliario comercial.
+La calidad, organización y antigüedad del entorno construido en cualquier geografía son los determinantes físicos primarios de cómo las personas se mueven y utilizan el espacio urbano — y constituyen por ello datos de entrada esenciales para el análisis de ubicaciones en inmobiliario comercial. El entorno construido comprende las áreas creadas o modificadas por el ser humano en las que las personas viven, trabajan y desarrollan las actividades de la vida económica y social. Se distingue del entorno natural en que sus componentes — edificios, infraestructura de transporte, parques y espacios abiertos ajardinados, terrenos agrícolas, y las redes de servicios que los conectan — son producto del diseño y la construcción humana deliberada, y no de procesos ecológicos.
 
 ## Alcance y componentes
 

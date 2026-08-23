@@ -24,7 +24,7 @@ thesis_alignment: "Art Deco commercial buildings — downtown bank branches, dep
 keynote: false
 ---
 
-Art Deco is an architectural and decorative style that emerged in Europe in the early twentieth century. It reached its peak expression in the 1920s and 1930s, particularly in commercial architecture across North American cities. The style takes its name from the 1925 Exposition Internationale des Arts Décoratifs et Industriels Modernes held in Paris. Its distinctive characteristics — geometric ornament, stepped or setback massing, symmetrical composition, and lavish use of new industrial materials including reinforced concrete, aluminium, and plate glass — had already appeared in European architecture in the decade before the exhibition.
+Art Deco reached its peak expression in the 1920s and 1930s, above all in commercial architecture across North American cities. The architectural and decorative style had emerged in Europe in the early twentieth century. The style takes its name from the 1925 Exposition Internationale des Arts Décoratifs et Industriels Modernes held in Paris. Its distinctive characteristics — geometric ornament, stepped or setback massing, symmetrical composition, and lavish use of new industrial materials including reinforced concrete, aluminium, and plate glass — had already appeared in European architecture in the decade before the exhibition.
 
 ## Origins in Paris and Vienna
 
