@@ -25,7 +25,7 @@ keynote: true
 keynote_section: "Architecture"
 ---
 
-Modern architecture was the dominant architectural movement of the second half of the twentieth century, active from the 1920s through the 1980s, bridging the earlier [[art-deco|Art Deco]] period and the later [[postmodern-architecture|postmodern]] era. Its central propositions — that building form should follow function, that ornament is waste, and that new industrial materials should determine structural and visual expression — produced the glass-and-steel office building type that defines North American central business districts and suburban office corridors to the present day.
+Modern architecture's central propositions — that building form should follow function, that ornament is waste, and that new industrial materials should determine structural and visual expression — produced the glass-and-steel office building type that defines North American central business districts and suburban office corridors to the present day. The movement dominated the second half of the twentieth century, active from the 1920s through the 1980s, bridging the earlier [[art-deco|Art Deco]] period and the later [[postmodern-architecture|postmodern]] era.
 
 ## Engineering origins of the tall building
 

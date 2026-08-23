@@ -25,7 +25,7 @@ keynote: true
 keynote_section: "Architecture"
 ---
 
-Neomodern architecture — also termed New Modernism or neomodernist architecture — developed from the 1980s onward. It is a reaction against the complexity and eclecticism of [[postmodern-architecture|postmodern architecture]]. Where postmodernism had rejected modernist austerity and returned to historical ornament, classical allusion, and decorative surface, neomodernism sought to recover the rational, functional, and geometrically precise qualities of [[modern-architecture|classic modernism]]. It did so without the ideological baggage and the tendency toward the severe or the expressionless that characterised some midcentury modernist production.
+Neomodern architecture sought to recover the rational, functional, and geometrically precise qualities of [[modern-architecture|classic modernism]] — without the ideological baggage and the tendency toward the severe or the expressionless that characterised some midcentury modernist production. Also termed New Modernism or neomodernist architecture, it developed from the 1980s onward as a reaction against the complexity and eclecticism of [[postmodern-architecture|postmodern architecture]], which had rejected modernist austerity and returned to historical ornament, classical allusion, and decorative surface.
 
 ## Rationalism, individualism, and relativism
 

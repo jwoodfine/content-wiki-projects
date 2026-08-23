@@ -24,7 +24,7 @@ thesis_alignment: "Los edificios bancarios neoclásicos, las aduanas y los tribu
 keynote: false
 ---
 
-La arquitectura neoclásica es el estilo arquitectónico producido por el movimiento neoclásico que comenzó a mediados del siglo XVIII en Italia y Francia y se extendió por todo el mundo occidental. El estilo fue un retorno deliberado a las formas y principios de la antigua Grecia y Roma — no los renacimientos renacentistas y [[baroque-architecture|barrocos]] que ya habían recurrido a la antigüedad clásica, sino una versión más arqueológicamente rigurosa y doctrinalmente austera del [[classical-architecture|clasicismo]] que pretendía eliminar los excesos del ornamento barroco tardío y volver a lo que sus practicantes entendían como un estilo clásico más puro y auténtico.
+La arquitectura neoclásica pretendía eliminar los excesos del ornamento barroco tardío y volver a lo que sus practicantes entendían como un estilo clásico más puro y auténtico. El estilo fue producido por el movimiento neoclásico que comenzó a mediados del siglo XVIII en Italia y Francia y se extendió por todo el mundo occidental. Fue un retorno deliberado a las formas y principios de la antigua Grecia y Roma — no los renacimientos renacentistas y [[baroque-architecture|barrocos]] que ya habían recurrido a la antigüedad clásica, sino una versión más arqueológicamente rigurosa y doctrinalmente austera del [[classical-architecture|clasicismo]].
 
 ## Revival arqueológico y el Gran Tour
 

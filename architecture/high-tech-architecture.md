@@ -24,7 +24,7 @@ thesis_alignment: "High-tech architecture's exposed mechanical services and reco
 keynote: false
 ---
 
-High-tech architecture, also known as structural expressionism, is a late [[modern-architecture|modernist]] architectural style. It emerged in Britain in the 1960s and has continued as an international movement to the present. The style is defined by its transparency of construction. Rather than concealing a building's structural frame and mechanical services within its cladding, high-tech architecture places these elements on the exterior, where they are visible and legible as an expression of the building's function and technology. The use of aluminium, structural steel, and glass — the industrially produced materials that high-tech architects favoured — was not new. What was distinctive was the decision to expose rather than conceal them.
+High-tech architecture places a building's structural frame and mechanical services on the exterior — visible and legible as an expression of the building's function and technology — rather than concealing them within its cladding. Also known as structural expressionism, the late [[modern-architecture|modernist]] style emerged in Britain in the 1960s and has continued as an international movement to the present. The style is defined by this transparency of construction. The use of aluminium, structural steel, and glass — the industrially produced materials that high-tech architects favoured — was not new. What was distinctive was the decision to expose rather than conceal them.
 
 ## Serviced sheds and structural expression
 

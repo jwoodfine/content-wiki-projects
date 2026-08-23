@@ -25,7 +25,7 @@ keynote: true
 keynote_section: "Architecture"
 ---
 
-La arquitectura neomoderna — también denominada Nuevo Modernismo o arquitectura neomodernista — es una reacción contra la complejidad y el eclecticismo de la [[postmodern-architecture|arquitectura posmoderna]] que se desarrolló a partir de la década de 1980. Mientras que el posmodernismo había rechazado la austeridad modernista y retomado el ornamento histórico, la alusión clásica y la superficie decorativa, el neomodernismo buscó recuperar las cualidades racionales, funcionales y geométricamente precisas del [[modern-architecture|modernismo clásico]] — pero sin la carga ideológica y la tendencia hacia lo severo o lo inexpresivo que caracterizó a parte de la producción modernista de mediados del siglo XX.
+La arquitectura neomoderna buscó recuperar las cualidades racionales, funcionales y geométricamente precisas del [[modern-architecture|modernismo clásico]] — sin la carga ideológica ni la tendencia hacia lo severo o lo inexpresivo que caracterizó a parte de la producción modernista de mediados del siglo XX. También denominada Nuevo Modernismo o arquitectura neomodernista, se desarrolló a partir de la década de 1980 como reacción contra la complejidad y el eclecticismo de la [[postmodern-architecture|arquitectura posmoderna]], que había rechazado la austeridad modernista y retomado el ornamento histórico, la alusión clásica y la superficie decorativa.
 
 ## Racionalismo, individualismo y relativismo
 

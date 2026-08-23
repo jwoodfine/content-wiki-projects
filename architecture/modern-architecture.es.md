@@ -25,7 +25,7 @@ keynote: true
 keynote_section: "Architecture"
 ---
 
-La arquitectura moderna fue el movimiento arquitectónico dominante de la segunda mitad del siglo XX, activo desde los años veinte hasta los ochenta, como puente entre el anterior [[art-deco|Art Decó]] y el posterior [[postmodern-architecture|posmodernismo]]. Sus proposiciones centrales — que la forma del edificio debe seguir a la función, que el ornamento es un desperdicio y que los nuevos materiales industriales deben determinar la expresión estructural y visual — produjeron el tipo de edificio de oficinas de vidrio y acero que define los distritos de negocios centrales norteamericanos y los corredores de oficinas suburbanas hasta el presente.
+Las proposiciones centrales de la arquitectura moderna — que la forma del edificio debe seguir a la función, que el ornamento es un desperdicio y que los nuevos materiales industriales deben determinar la expresión estructural y visual — produjeron el tipo de edificio de oficinas de vidrio y acero que define los distritos de negocios centrales norteamericanos y los corredores de oficinas suburbanas hasta el presente. El movimiento dominó la segunda mitad del siglo XX, activo desde los años veinte hasta los ochenta, como puente entre el anterior [[art-deco|Art Decó]] y el posterior [[postmodern-architecture|posmodernismo]].
 
 ## Orígenes de ingeniería del edificio en altura
 

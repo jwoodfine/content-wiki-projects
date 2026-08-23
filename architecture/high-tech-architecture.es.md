@@ -24,7 +24,7 @@ thesis_alignment: "Los servicios mecánicos expuestos y la planta libre reconfig
 keynote: false
 ---
 
-La arquitectura high-tech, también conocida como expresionismo estructural, es un estilo arquitectónico [[modern-architecture|tardoModernista]] que surgió en Gran Bretaña en los años sesenta y se ha mantenido como movimiento internacional hasta el presente. El estilo se define por su transparencia constructiva: en lugar de ocultar la estructura portante y los servicios mecánicos de un edificio dentro de su revestimiento, la arquitectura high-tech coloca estos elementos en el exterior, donde son visibles y legibles como expresión de la función y la tecnología del edificio. El uso de aluminio, acero estructural y vidrio — los materiales producidos industrialmente que los arquitectos high-tech preferían — no era nuevo; lo distintivo era la decisión de exponerlos en lugar de ocultarlos.
+La arquitectura high-tech coloca la estructura portante y los servicios mecánicos de un edificio en el exterior — visibles y legibles como expresión de la función y la tecnología del edificio — en lugar de ocultarlos dentro de su revestimiento. También conocido como expresionismo estructural, el estilo [[modern-architecture|tardoModernista]] surgió en Gran Bretaña en los años sesenta y se ha mantenido como movimiento internacional hasta el presente. El estilo se define por esta transparencia constructiva. El uso de aluminio, acero estructural y vidrio — los materiales producidos industrialmente que los arquitectos high-tech preferían — no era nuevo; lo distintivo era la decisión de exponerlos en lugar de ocultarlos.
 
 ## Cobertizos con servicios y expresión estructural
 

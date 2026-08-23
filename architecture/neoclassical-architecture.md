@@ -24,7 +24,7 @@ thesis_alignment: "Neoclassical bank buildings, custom houses, and court houses 
 keynote: false
 ---
 
-Neoclassical architecture is the architectural style produced by the Neoclassical movement that began in the mid-18th century in Italy and France and spread throughout the Western world. The style was a deliberate return to the forms and principles of ancient Greece and Rome — not the Renaissance and [[baroque-architecture|Baroque]] revivals that had already drawn on classical antiquity, but a more archaeologically rigorous and doctrinally austere version of [[classical-architecture|classicism]] that aimed to strip away the excesses of Late Baroque ornament and return to what its practitioners understood as a purer and more authentic classical style.
+Neoclassical architecture aimed to strip away the excesses of Late Baroque ornament and return to what its practitioners understood as a purer and more authentic classical style. The style was produced by the Neoclassical movement that began in the mid-18th century in Italy and France and spread throughout the Western world. It was a deliberate return to the forms and principles of ancient Greece and Rome — not the Renaissance and [[baroque-architecture|Baroque]] revivals that had already drawn on classical antiquity, but a more archaeologically rigorous and doctrinally austere version of [[classical-architecture|classicism]].
 
 ## Archaeological revival and the Grand Tour
 
