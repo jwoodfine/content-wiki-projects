@@ -16,10 +16,10 @@ editor: woodfine-editorial
 paired_with: buildings/about-development-class-economics.md
 ---
 
-El análisis de inversión en bienes raíces comerciales comienza con las características físicas
-y económicas de las clases de edificios, que determinan la base de arrendatarios, las
-estructuras de contratos de arrendamiento, los perfiles de costos operativos y los parámetros
-de financiamiento aplicables a cada tipo de activo. El programa de tenencia directa de Woodfine
+La clase de un edificio determina su base de arrendatarios, las estructuras de contratos de
+arrendamiento, los perfiles de costos operativos y los parámetros de financiamiento — las
+características físicas y económicas donde comienza el análisis de inversión en bienes raíces
+comerciales. El programa de tenencia directa de Woodfine
 aplica una [[about-development-classes|taxonomía de seis clases]]: [[class-professional-centres|Centros Profesionales]], Oficina Suburbana, Industrial
 Tecnológico y Retail Selectivo — cubiertas a continuación con economía establecida — más
 Estructuras de Estacionamiento y Almacenes Verticales, dos clases aún en desarrollo cuyas

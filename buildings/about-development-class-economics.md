@@ -16,9 +16,9 @@ editor: woodfine-editorial
 paired_with: buildings/about-development-class-economics.es.md
 ---
 
-Commercial real estate investment analysis begins with the physical and economic
-characteristics of building classes, which determine the tenant base, lease structures,
-operating cost profiles, and financing parameters applicable to each asset type. Woodfine's
+A building's class determines its tenant base, lease structures, operating cost profiles,
+and financing parameters — the physical and economic characteristics where commercial real
+estate investment analysis begins. Woodfine's
 direct-hold programme applies a [[about-development-classes|six-class taxonomy]]: [[class-professional-centres|Professional Centres]], Suburban Office,
 Tech Industrial, and Retail Select — covered below with established economics — plus Parking
 Structures and Vertical Warehouses, two classes still under development whose economic
