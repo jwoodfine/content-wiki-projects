@@ -66,7 +66,7 @@ La investigación sobre la calidad del entorno construido y la salud humana ha i
 
 ### Emisiones y efectos de isla de calor urbana
 
-El entorno construido es un contribuidor significativo a las emisiones de gases de efecto invernadero. En los Estados Unidos, el transporte representa aproximadamente el 28% de las emisiones totales de GEI — el mayor sector individual — y los edificios representan aproximadamente el 43% cuando se combina el uso de energía comercial y residencial.
+El entorno construido es un contribuidor significativo a las emisiones de gases de efecto invernadero. En los Estados Unidos, el transporte representa aproximadamente el 28% de las emisiones totales de GEI — el mayor sector individual — y los edificios constituyen una de las mayores categorías de uso de energía y emisiones asociadas cuando se combina el consumo comercial y residencial.
 
 El efecto de isla de calor urbana — el fenómeno por el cual las ciudades y suburbios registran temperaturas más altas que las zonas rurales circundantes debido a la absorción de calor por las superficies oscuras de la infraestructura y la reducción de la cubierta vegetal — es consecuencia directa de las decisiones de diseño del entorno construido.
 

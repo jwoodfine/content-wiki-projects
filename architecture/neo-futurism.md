@@ -47,7 +47,7 @@ Art historian and theorist Jean-Louis Cohen defined neo-futurism as a corollary 
 
 The relaunch of neo-futurism in the 21st century has been most visibly associated with Pritzker Architecture Prize laureate Zaha Hadid and engineer-architect Santiago Calatrava. Hadid's Heydar Aliyev Cultural Center in Baku (2012), the MAXXI in Rome (2010), and the Guangzhou Opera House (2010) share a common achievement. They demonstrated that building envelopes of continuous curved surface were technically achievable at civic scale. Calatrava's transit infrastructure applied neo-futurist formal ambitions to civic transport programmes — the Liège-Guillemins railway station (2009) and the World Trade Center Transportation Hub in New York City (2016) are the leading examples.
 
-Norman Foster, Kenzo Tange, and Renzo Piano are associated with neo-futurism through their engagement with high-tech architectural themes. Foster's 30 St Mary Axe in London (the "Gherkin," 2003) and Apple Park in Cupertino (2017) apply neo-futurist formal logic to corporate and institutional programmes. Piano's Centre Pompidou-Metz (2010) extends the high-tech tradition while incorporating natural materials into the roof structure.
+Norman Foster, Kenzo Tange, and Renzo Piano are associated with neo-futurism through their engagement with high-tech architectural themes. Foster's 30 St Mary Axe in London (the "Gherkin," 2003) and Apple Park in Cupertino (2017) apply neo-futurist formal logic to corporate and institutional programmes. The Centre Pompidou-Metz by Shigeru Ban and Jean de Gastines (2010) extends the high-tech tradition while incorporating natural materials into the roof structure.
 
 ## Transit infrastructure and co-location
 

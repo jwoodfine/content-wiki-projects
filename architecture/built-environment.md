@@ -66,7 +66,7 @@ Research on built environment quality and human health has identified consistent
 
 ### Emissions and urban heat island effects
 
-The built environment is a significant contributor to greenhouse gas emissions. In the United States, transportation accounts for approximately 28 percent of total GHG emissions — the largest single sector. Buildings account for approximately 43 percent when commercial and residential energy use is combined. Urban form directly determines transportation emissions: compact, transit-served, walkable environments generate substantially lower per-capita transportation emissions than dispersed, automobile-dependent environments.
+The built environment is a significant contributor to greenhouse gas emissions. In the United States, transportation accounts for approximately 28 percent of total GHG emissions — the largest single sector. Buildings are one of the largest categories of energy use and associated emissions when commercial and residential consumption is combined. Urban form directly determines transportation emissions: compact, transit-served, walkable environments generate substantially lower per-capita transportation emissions than dispersed, automobile-dependent environments.
 
 The Urban Heat Island effect is a direct consequence of built environment design choices. It is the phenomenon by which cities and suburbs record higher temperatures than surrounding rural areas, due to heat absorption by dark-surfaced infrastructure and the reduction of vegetative cover. Mitigation strategies include increased tree canopy, green roofs, reflective pavements, and the reduction of impervious cover in new development.
 
