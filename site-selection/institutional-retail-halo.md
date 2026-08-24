@@ -49,7 +49,7 @@ The halo effect operates through concrete operational channels rather than throu
 
 ## Flight to Quality in the Office Sector
 
-The Institutional Retail Halo thesis operates against a backdrop of diverging performance within the office sector. Demand in the broader office market has concentrated in institutional-grade buildings with modern systems, strong environmental credentials, and amenity-rich locations, while legacy office inventory has faced rising vacancy. The [[north-american-office-market-recovery|flight to quality]] dynamic means that not all office development benefits equally from improving occupancy conditions — tenants and investors are making qualitative distinctions between buildings that would previously have been treated as interchangeable.
+The Institutional Retail Halo thesis operates against a backdrop of diverging performance within the office sector. Demand in the broader office market has concentrated in institutional-grade buildings with modern systems, strong environmental credentials, and amenity-rich locations, while legacy office inventory has faced rising vacancy. The flight to quality dynamic means that not all office development benefits equally from improving occupancy conditions — tenants and investors are making qualitative distinctions between buildings that would previously have been treated as interchangeable.
 
 ### Building certification positioning
 

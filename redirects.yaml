@@ -392,3 +392,9 @@ redirects:
   # article per the bim-objects-* / markets place-profile precedent above.
   - from: /building-design/build-a-key-plan-step-by-step
     to: /building-design/key-plan-development-methodology
+
+  # Content-scope retraction, 2026-08-24 (operator-directed): general negative-toned
+  # market commentary (corrections, distress, vacancy problems) is out of scope for this
+  # wiki -- indexed in the live sitemap, redirected to the parent category.
+  - from: /north-american-office-market-recovery
+    to: /category/industry

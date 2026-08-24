@@ -45,7 +45,7 @@ El efecto halo opera a través de canales operativos concretos:
 
 ## Huida hacia la Calidad en el Sector de Oficinas
 
-La tesis del Halo Minorista Institucional opera en el contexto de un desempeño divergente dentro del sector de oficinas. La demanda se ha concentrado en edificios de calidad institucional con sistemas modernos y credenciales ambientales sólidas, mientras que el inventario de oficinas heredado ha enfrentado vacancia creciente. La dinámica de [[north-american-office-market-recovery|huida hacia la calidad]] implica que no todo el desarrollo de oficinas se beneficia por igual de la mejora en las condiciones de ocupación — arrendatarios e inversores están estableciendo distinciones cualitativas entre edificios que antes se habrían tratado como intercambiables.
+La tesis del Halo Minorista Institucional opera en el contexto de un desempeño divergente dentro del sector de oficinas. La demanda se ha concentrado en edificios de calidad institucional con sistemas modernos y credenciales ambientales sólidas, mientras que el inventario de oficinas heredado ha enfrentado vacancia creciente. La dinámica de huida hacia la calidad implica que no todo el desarrollo de oficinas se beneficia por igual de la mejora en las condiciones de ocupación — arrendatarios e inversores están estableciendo distinciones cualitativas entre edificios que antes se habrían tratado como intercambiables.
 
 ### Posicionamiento de certificación del edificio
 

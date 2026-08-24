@@ -7,7 +7,10 @@ type: topic
 content_type: topic
 quality: complete
 short_description: "La corrección estructural en los bienes raíces comerciales de oficinas de América del Norte tras el ciclo de tasas 2022–2023: reajuste de precios, déficits de refinanciamiento, despliegue de capital seco y las condiciones bajo las cuales el volumen de transacciones está recuperándose."
-status: active
+status: archived
+archived: 2026-08-24
+archived_reason: "Decisión del operador del 2026-08-24: la wiki de proyectos debe limitarse a una descripción general real y evitar comentarios generales sobre el mercado, manteniéndose positiva sobre el propio trabajo de Woodfine en lugar de narrar la angustia/corrección del mercado — es mejor no decir nada que decir algo negativo. La premisa de este artículo (tasas de descuento, brechas de capital, angustia de vacancia) es comentario general negativo sobre el mercado por naturaleza; cada cifra fue verificada y corregida de forma independiente esta misma sesión, por lo que la retractación es una decisión de estrategia de contenido, no de exactitud factual."
+superseded_by: none
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES

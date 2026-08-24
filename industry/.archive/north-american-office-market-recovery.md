@@ -7,7 +7,10 @@ type: topic
 content_type: topic
 quality: complete
 short_description: "The structural correction in North American commercial office real estate following the 2022–2023 rate cycle: price resets, refinancing shortfalls, dry powder deployment, and the conditions under which transaction volume is returning."
-status: active
+status: archived
+archived: 2026-08-24
+archived_reason: "Operator-directed 2026-08-24: the projects wiki should stay to a real overview and avoid general market commentary, staying positive on Woodfine's own work rather than narrating market distress/corrections — better to say nothing than something negative. This article's premise (discount rates, equity gaps, vacancy distress) is negative general market commentary by nature; every figure in it had been independently fact-checked and corrected earlier this same session, so the retraction is a content-strategy decision, not a factual-accuracy one."
+superseded_by: none
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
