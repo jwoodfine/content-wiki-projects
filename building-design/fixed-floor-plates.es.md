@@ -12,7 +12,7 @@ bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
 keynote: true
 keynote_section: "Building Science"
-last_edited: 2026-06-26
+last_edited: 2026-08-24
 editor: pointsav-engineering
 short_description: "La base estructural estandarizada e inmutable utilizada en todos los edificios Woodfine, derivada de la geometría optimizada de los equipos para permitir una construcción repetible y un rendimiento espacial predecible."
 paired_with: building-design/fixed-floor-plates.md
@@ -45,3 +45,12 @@ La cuadrícula estructural rige la ubicación de las columnas, las dimensiones d
 ## Ancho del edificio y el estándar europeo de luz natural
 
 La geometría de la placa de piso cumple con las directivas europeas de iluminación que especifican la distancia máxima de las estaciones de trabajo a la ventana para garantizar luz natural adecuada — típicamente un máximo de 6 metros. El ancho de la placa de piso está limitado por este requisito en los mercados donde aplica la directiva, estableciendo una profundidad útil máxima desde el vidrio perimetral hasta el núcleo que fija la dimensión del módulo estructural de la placa. La placa de piso fija cumple previamente con los estándares de iluminación aplicables en cada clase jurisdiccional para la que existe un prototipo.
+
+## Véase también
+
+- [[key-plans-and-tiles]] — la geometría de módulos de la que se deriva la placa de piso
+- [[design-sequence-priority]] — el orden de colaboración que fija la placa de piso antes de Servicios del Edificio y el diseño Estructural
+- [[structural-bay-depth-discipline]] — por qué la profundidad del vano dentro de la cuadrícula fija sigue las necesidades del inquilino, no la economía de vigas
+- [[four-to-one-parking-ratio]] — el estándar de estacionamiento a nivel de sitio que limita el número de pisos para estos mismos prototipos
+- [[common-building-code]] — el estándar de provisión de baños aplicado dentro de la placa fija
+- [[tile-level-climate-zoning]] — la granularidad de Servicios del Edificio aplicada dentro de la placa fija

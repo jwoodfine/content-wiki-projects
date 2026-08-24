@@ -10,7 +10,7 @@ status: active
 audience: public
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-03
+last_edited: 2026-08-24
 editor: pointsav-engineering
 short_description: "Un glosario curado del vocabulario propio de tenencia directa de Woodfine — Clases de Desarrollo, Prototipo, Placa de Piso Fija, Programa de Expansión y términos relacionados — distinto de la terminología genérica de la industria AEC."
 paired_with: buildings/woodfine-development-vocabulary.md
@@ -54,6 +54,8 @@ Cuando un término ya cuenta con un artículo dedicado en la wiki, este glosario
 **Programa de Expansión.** El programa país por país de repetir un diseño de Prototipo estandarizado en múltiples sitios por razones de eficiencia y escalabilidad. Definición completa: [[rollout-index|El Programa de Expansión]].
 
 **Sub-Prototipos.** Variantes definidas del Prototipo adaptadas a restricciones específicas del sitio — una parcela angosta, un lote esquinero, un límite irregular — que preservan la cuadrícula estructural central y la disciplina de la Placa de Piso Fija. Definición completa: [[fixed-floor-plates|Placas de piso fijas]].
+
+Un Sub-Prototipo se origina cuando se contrata un colaborador de diseño para un Sitio de Desarrollo específico: como parte de su incorporación, el colaborador primero comenta sobre el Prototipo base y luego desarrolla el Sub-Prototipo del sitio en línea con él. La adaptación se limita a un conjunto definido de variables — orientación del edificio, latitud del sitio, disposición del estacionamiento y sistema estructural — y nunca se extiende a la economía subyacente del Prototipo, que permanece fija sin importar qué variante de Sub-Prototipo produzca un sitio determinado.
 
 **Sitios de Prueba.** Los primeros desarrollos utilizados para validar un nuevo Prototipo o un nuevo Mercado de Desarrollo antes de que el Programa de Expansión se comprometa con ese mercado a escala.
 

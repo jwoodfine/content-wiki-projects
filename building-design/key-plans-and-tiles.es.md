@@ -10,7 +10,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-06-26
+last_edited: 2026-08-24
 editor: pointsav-engineering
 short_description: "Un sistema de planificación espacial geométrico y autosimilar derivado de la geometría de equipos y circulación de los inquilinos, utilizado para determinar las dimensiones de las placas de piso fijas."
 paired_with: building-design/key-plans-and-tiles.md
@@ -45,3 +45,11 @@ Los límites de subdivisión están fijos en la cuadrícula estructural (determi
 El proceso de derivación de Planos Maestros y Módulos se ejecuta una vez por clase de prototipo. El resultado — las dimensiones del módulo base y las reglas de agregación — se fija entonces para ese prototipo. Cuando se emprende un nuevo desarrollo de la misma clase de prototipo, la placa de piso no se rediseña; se reproduce a partir de los parámetros fijos del módulo.
 
 Esto significa que los estándares de equipos y circulación integrados en el módulo — requisitos de proximidad a la iluminación, holguras de circulación, mínimos de adyacencia — se transmiten a cada desarrollo de la clase de prototipo sin necesidad de nueva derivación. El módulo es la especificación operativa del espacio útil del edificio, expresada como geometría en lugar de texto.
+
+## Véase también
+
+- [[design-sequence-priority]] — por qué Planos Maestros y Módulos se fija antes de que comiencen Servicios del Edificio y el diseño Estructural
+- [[common-building-code]] — el estándar de provisión de baños integrado en el Plano Maestro según la categoría de inquilino
+- [[tile-level-climate-zoning]] — cómo cada módulo tiene su propia zona climática
+- [[structural-bay-depth-discipline]] — por qué la cuadrícula estructural sigue al módulo, no al revés
+- [[fixed-floor-plates]] — las dimensiones de placa de piso que deriva este sistema

@@ -10,7 +10,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-06-26
+last_edited: 2026-08-24
 editor: pointsav-engineering
 short_description: "A strategic tenant curation model that assembles a professional ecosystem from five stability-anchored tenant categories within each Woodfine building."
 paired_with: buildings/mix-of-use.es.md
@@ -45,3 +45,8 @@ The term "mixed use" is not used in the Woodfine portfolio framework. Mixed use 
 [[national-tenants|National tenants]] — the academic, medical, and civic occupiers whose institutional identity carries market recognition within the regional professional community — serve as the anchor component of the mix-of-use model. Their presence validates the building as a professional destination, making it more attractive to the business and laboratory categories that complete the mix.
 
 The [[co-location-strategy|co-location framework]] positions the professional centre beside national retail anchors. Within the building, the mix-of-use framework positions national professional tenants as the demand anchors for the remaining commercial space. The co-location strategy and the mix-of-use model operate at different scales — site and building — but both use anchor credibility as the mechanism for attracting the broader occupier demand the portfolio requires.
+
+## See also
+
+- [[common-building-code]] — the washroom-provisioning standard keyed to these five categories and their daily foot traffic
+- [[national-tenants]] — the academic, medical, and civic occupiers that anchor the mix

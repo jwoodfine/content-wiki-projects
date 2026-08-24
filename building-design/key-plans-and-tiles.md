@@ -10,7 +10,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-11
+last_edited: 2026-08-24
 editor: pointsav-engineering
 short_description: "A geometric, self-similar space planning system derived from tenant equipment and circulation geometry, used to derive fixed floor plate dimensions."
 paired_with: building-design/key-plans-and-tiles.es.md
@@ -45,3 +45,11 @@ The subdivision boundaries are fixed in the structural grid (they determine wher
 The Key Plans and Tiles derivation process runs once per prototype class. The output — the base tile dimensions and the aggregation rules — is then fixed for that prototype. When a new deployment of the same prototype class is undertaken, the floor plate is not redesigned; it is reproduced from the fixed tile parameters.
 
 This means that equipment and circulation standards embedded in the tile — lighting proximity requirements, circulation clearances, adjacency minimums — carry through to every deployment in the prototype class without re-derivation. The tile is the operational specification of the building's usable space, expressed as geometry rather than prose.
+
+## See also
+
+- [[design-sequence-priority]] — why Key Plans and Tiles is fixed before Building Services and Structural design begin
+- [[common-building-code]] — the washroom-provisioning standard built into the Key Plan by tenant category
+- [[tile-level-climate-zoning]] — how each tile carries its own climate zone
+- [[structural-bay-depth-discipline]] — why the structural grid follows the tile, not the reverse
+- [[fixed-floor-plates]] — the floor plate dimensions this system derives

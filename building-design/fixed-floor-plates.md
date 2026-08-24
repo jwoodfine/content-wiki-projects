@@ -12,7 +12,7 @@ bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 keynote: true
 keynote_section: "Building Science"
-last_edited: 2026-07-11
+last_edited: 2026-08-24
 editor: pointsav-engineering
 short_description: "The standardized, immutable structural base used in all Woodfine buildings, derived from optimized equipment geometry to enable repeatable construction and predictable space performance."
 paired_with: building-design/fixed-floor-plates.es.md
@@ -45,3 +45,12 @@ The structural grid governs column placement, span dimensions, and the mechanica
 ## Building width and the European natural light standard
 
 Floor plate geometry accommodates European lighting directives that specify maximum workstation distance from window to ensure adequate natural light — typically a 6-metre maximum. The floor plate width is constrained by this requirement in markets where the directive applies, establishing a maximum useful depth from perimeter glass to core that sets the floor plate's structural bay dimension. The fixed floor plate is pre-compliant with applicable lighting standards in each jurisdiction class for which a prototype exists.
+
+## See also
+
+- [[key-plans-and-tiles]] — the tile geometry the floor plate is derived from
+- [[design-sequence-priority]] — the collaboration order that fixes the floor plate before Building Services and Structural design
+- [[structural-bay-depth-discipline]] — why bay depth within the fixed grid follows tenant need, not beam economics
+- [[four-to-one-parking-ratio]] — the site-level parking standard that bounds floor count for the same prototypes
+- [[common-building-code]] — the washroom-provisioning standard applied within the fixed plate
+- [[tile-level-climate-zoning]] — the building-services granularity applied within the fixed plate

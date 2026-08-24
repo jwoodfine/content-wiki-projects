@@ -51,3 +51,4 @@ Investment in Professional Centres, alongside the other development classes, is 
 - [[about-development-class-economics|Development Class Economics]] — floor plate size, lease term, and NOI characteristics for Professional Centres
 - [[class-suburban-office|Suburban Office]] — the wider-radius office class sharing the Offset Pulled Back Core configuration
 - [[class-retail-select|Retail Select]] — the single-storey retail complement class within the same campus deployments
+- [[power-centre-co-location-thesis|Power centre co-location thesis]] — how multiple building Prototypes are physically arranged on a shared Campus Design parcel

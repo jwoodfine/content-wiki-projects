@@ -10,7 +10,7 @@ status: active
 audience: public
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-03
+last_edited: 2026-08-24
 editor: pointsav-engineering
 short_description: "A curated glossary of proprietary Woodfine direct-hold vocabulary — Development Classes, Prototype, Fixed Floor Plate, Rollout Program, and related terms — distinct from generic AEC industry terminology."
 paired_with: buildings/woodfine-development-vocabulary.es.md
@@ -54,6 +54,8 @@ Where a term already has a dedicated wiki article, this glossary gives a one-lin
 **Rollout Program.** The country-by-country program of repeating a standardized Prototype design across multiple sites for efficiency and scalability. Full definition: [[rollout-index|The Rollout Program]].
 
 **Sub-Prototypes.** Defined variants of the Prototype adapted to specific site constraints — a narrow parcel, a corner lot, an irregular boundary — while preserving the core structural grid and Fixed Floor Plate discipline. Full definition: [[fixed-floor-plates|Fixed floor plates]].
+
+A Sub-Prototype originates when a design collaborator is engaged for a specific Development Site: as part of onboarding, the collaborator first comments on the base Prototype, then develops the site's Sub-Prototype in line with it. The adaptation is bounded to a defined set of variables — building orientation, site latitude, parking layout, and structural system — and never extends to the Prototype's underlying economics, which remain fixed regardless of which Sub-Prototype variant a given site produces.
 
 **Test Sites.** The initial deployments used to validate a new Prototype or a new Development Market before the Rollout Program commits to that market at scale.
 

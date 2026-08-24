@@ -10,7 +10,7 @@ short_description: "Site-selection discipline requiring Qualified Investment sit
 status: stable
 audience: customer-woodfine
 bcsc_class: current-fact
-last_edited: 2026-07-11
+last_edited: 2026-08-24
 editor: pointsav-engineering
 language_protocol: PROSE-TOPIC
 source_refs:
@@ -44,6 +44,16 @@ A common question in the site-selection context is whether proximity to a Power 
 Physical co-location delivers shared infrastructure economics — parking, utilities, site access, and municipal approvals — that proximity alone does not. A Woodfine Professional Centres development on a directly contiguous site benefits from the infrastructure investment the Power Centre anchor has already made. A development that is merely adjacent but not co-located bears the full cost of independent infrastructure and does not access the pedestrian and vehicle traffic patterns that the anchor generates during its operating hours.
 
 Campus Design — the requirement that all Woodfine Buildings on a single Development Site conform to a unified site organization — requires sufficient land to accommodate the Prototype combinations on a single parcel. If a development site does not accommodate the required Prototype combinations within a Campus Design, the land does not qualify for purchase. Woodfine Buildings are not redesigned to fit a site; sites are selected because they can accommodate the Prototype.
+
+## Physical Arrangement on a Shared Parcel
+
+Campus Design conformity is not only a land-area test; it also governs how multiple Woodfine Building Prototypes are physically positioned relative to one another once a Development Site accommodates more than one. Woodfine does not place additional Prototypes on a qualifying parcel independently of each other, as if each building were the only structure on the site.
+
+Where a Development Site's Prototype combination includes more than one Tech Industrial building, Woodfine's preferred configuration places them back-to-back around a shared concrete service apron rather than as freestanding structures with independent service yards. This arrangement gives the pair a functional space for service-vehicle access that a single building's footprint does not generate on its own, and it reduces the duplicated service infrastructure that independent placement would require. The same Tech Industrial Prototype is designed to perform as a single building where a site's combination calls for only one, so the back-to-back configuration is an optimization available to a multi-building Campus Design, not a dependency of the Prototype itself.
+
+Campus Design conformity also extends to the building exteriors that face each other and the shared parking field. Woodfine requires 360-degree exterior consistency — a standard under which the frontage, the two visible sides, and the rear of every building carry comparable design quality, rather than concentrating the finished materials on the frontage alone and finishing the remaining elevations in lower-cost materials that a Development Site's own history has shown weather poorly. Because every building on the parcel is visible from the others and from the shared parking field, an inconsistent finish on any one building degrades the coherence of the Campus Design as a whole, not just that building's own presentation.
+
+Floor-to-floor heights are coordinated across the Prototypes sharing a parcel for the same reason. Professional Centres and Suburban Office require distinct heights at the main floor, at the floor above it, and at the upper office floors; Retail Select and Tech Industrial each carry their own height requirements tied to their tenant use. Woodfine treats the resulting height profile as a single aesthetic composition when the buildings are placed together under one Campus Design, and manages each height independently only where a Prototype is constructed alone at a Development Site. This coordination is what allows a multi-building Campus Design to read as one Woodfine development rather than as a set of unrelated structures that happen to share a parcel.
 
 ## The Growth Strategy Mechanics
 

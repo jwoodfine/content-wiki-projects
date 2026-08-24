@@ -51,3 +51,4 @@ La inversión en Professional Centres, junto con las demás clases de desarrollo
 - [[about-development-class-economics|Economía de las Clases de Desarrollo]] — tamaño de placa de piso, plazo de arrendamiento y características de NOI para Professional Centres
 - [[class-suburban-office|Suburban Office]] — la clase de oficina de radio más amplio que comparte la configuración del Núcleo Desplazado Retrocedido
 - [[class-retail-select|Retail Select]] — la clase de comercio de un solo piso que complementa estos despliegues de campus
+- [[power-centre-co-location-thesis|Tesis de co-ubicación en centros comerciales]] — cómo se disponen físicamente varios Prototipos de edificio en una parcela compartida bajo el Diseño Campus
