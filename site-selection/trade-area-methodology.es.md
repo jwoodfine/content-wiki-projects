@@ -53,19 +53,13 @@ Las isócronas de tiempo de conducción responden a la pregunta "quién puede ll
 
 ## La fórmula de radio anterior
 
-La banda de distancia utilizada en la versión inicial del producto se calculaba como:
+La banda de distancia utilizada en la versión inicial del producto se calculaba a partir de la extensión geográfica del clúster — qué tan dispersas están sus tiendas miembro —, inflada por un factor de ajuste no documentado y sin derivación publicada, y acotada por un piso mínimo para que ningún clúster reciba una banda irrealmente pequeña.
 
-```
-radius_km = max(1.0, span_km / 2 × 1.15)
-```
+Esto es un artefacto geométrico, no una cantidad de demanda. Describe qué tan dispersas están las tiendas, no qué tan lejos viajan realmente los clientes. De ahí se derivan directamente dos modos de fallo: un clúster urbano denso obtiene un anillo pequeño porque sus tiendas están cerca entre sí, aunque su área de atracción real pueda ser grande; un clúster exurbano disperso obtiene un anillo grande porque sus tiendas están alejadas entre sí, no porque atraiga clientes de lejos.
 
-donde `span_km` es la extensión de las tiendas miembro dentro del clúster.
+Ni el factor de inflación ni el piso tienen una derivación publicada. Son constantes de ajuste que hacen que la imagen se vea razonable. Hasta que se adopten los límites de O-D observado o de tiempo de conducción, cualquier banda de distancia provisional divulga que se apoya en esta fórmula no publicada, basada solo en geometría, en el modal de Metodología, en lugar de aplicarla en silencio.
 
-Esto es un artefacto geométrico, no una cantidad de demanda. Describe qué tan dispersas están las tiendas y luego infla ese medio-alcance en un 15%. No aporta ninguna información sobre qué tan lejos viajan realmente los clientes. De ahí se derivan directamente dos modos de fallo: un clúster urbano denso obtiene un anillo pequeño porque sus tiendas están cerca entre sí, aunque su área de atracción real pueda ser grande; un clúster exurbano disperso obtiene un anillo grande porque sus tiendas están alejadas entre sí, no porque atraiga clientes de lejos.
-
-Ni el factor de inflación `1.15` ni el piso de `1.0 km` tienen una derivación publicada. Son constantes de ajuste que hacen que la imagen se vea razonable. Hasta que se adopten los límites de O-D observado o de tiempo de conducción, cualquier banda de distancia provisional divulga la fórmula y ambas constantes en el modal de Metodología, en lugar de aplicarlas en silencio.
-
-El estado final previsto elimina por completo la expresión `span_km / 2 × 1.15` de la canalización en vivo, reemplazándola por un límite cuyo parámetro es una cantidad que un experto en la materia puede evaluar por sus propios méritos — un tiempo de conducción declarado, un percentil declarado de demanda modelada, o un umbral de población declarado.
+El estado final previsto elimina por completo esta fórmula basada en la extensión geográfica de la canalización en vivo, reemplazándola por un límite cuyo parámetro es una cantidad que un experto en la materia puede evaluar por sus propios méritos — un tiempo de conducción declarado, un percentil declarado de demanda modelada, o un umbral de población declarado.
 
 ## Cálculo geodésico y la advertencia de Web Mercator
 
@@ -87,7 +81,7 @@ Una sola celda H3 puede caer dentro de las áreas de atracción de varios clúst
 
 La migración prevista desde los anillos de línea recta es por fases:
 
-1. **Edición de honestidad.** Reetiquetado de cada anillo de línea recta como "banda de distancia (línea recta)"; exposición de la fórmula del radio, el factor 1,15, el piso de 1,0 km y la advertencia de Web Mercator en el modal de Metodología.
+1. **Edición de honestidad.** Reetiquetado de cada anillo de línea recta como "banda de distancia (línea recta)"; exposición, en el modal de Metodología, de que la fórmula del radio se apoya en un factor de ajuste y un piso no documentados, junto con la advertencia de Web Mercator.
 2. **O-D observado donde existen datos.** Conexión de los datos de movilidad LODES y MITMA ya incorporados para que los clústeres de EE. UU. y España muestren un polígono de origen laboral observado.
 3. **Isócronas de tiempo de conducción.** Configuración de un motor de enrutamiento auto-alojado y oferta de una banda de tiempo de conducción fijo como la vista de área alcanzable predeterminada.
 4. **Calibración de decaimiento de distancia.** Ajuste de curvas de decaimiento a los flujos de O-D para establecer límites de percentil de demanda publicados.

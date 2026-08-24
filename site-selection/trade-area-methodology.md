@@ -55,19 +55,13 @@ Drive-time isochrones answer the question "who can reach this site." Observed O-
 
 ## The previous radius formula
 
-The distance band used in the initial product version was computed as:
+The distance band used in the initial product version was computed from the cluster's geographic span — how spread out its member stores are — inflated by an undocumented tuning factor with no published derivation, and bounded by a minimum floor so no cluster receives an unrealistically small band.
 
-```
-radius_km = max(1.0, span_km / 2 × 1.15)
-```
+This is a geometric artifact, not a demand quantity. It describes how spread out the stores are; it carries no information about how far customers actually travel. Two failure modes follow directly: a dense urban cluster gets a small ring because its stores sit close together, even though its trade area may be large; a sprawling exurban cluster gets a large ring because its stores sit far apart, not because it draws from far away.
 
-where `span_km` is the extent of the member stores within the cluster.
+Neither the inflation factor nor the floor has a published derivation. They are tuning constants that make the picture look reasonable. Until observed O-D or drive-time boundaries are adopted, any interim distance band discloses that it rests on this unpublished, geometry-only formula in the Method modal rather than applying it silently.
 
-This is a geometric artifact, not a demand quantity. It describes how spread out the stores are, then inflates that half-span by 15%. It carries no information about how far customers travel. Two failure modes follow directly: a dense urban cluster gets a small ring because its stores sit close together, even though its trade area may be large; a sprawling exurban cluster gets a large ring because its stores sit far apart, not because it draws from far away.
-
-Neither the `1.15` inflation factor nor the `1.0 km` floor has a published derivation. They are tuning constants that make the picture look reasonable. Until observed O-D or drive-time boundaries are adopted, any interim distance band discloses the formula and both constants in the Method modal rather than applying them silently.
-
-The intended end state removes the `span_km / 2 × 1.15` expression from the live pipeline entirely, replacing it with a boundary whose parameter is a quantity a domain expert can evaluate on its merits — a stated drive-time, a stated percentile of modelled demand, or a stated population threshold.
+The intended end state removes this span-based formula from the live pipeline entirely, replacing it with a boundary whose parameter is a quantity a domain expert can evaluate on its merits — a stated drive-time, a stated percentile of modelled demand, or a stated population threshold.
 
 ## Geodesic computation and the Web Mercator caveat
 
@@ -91,9 +85,9 @@ A single H3 cell may fall inside the trade areas of several clusters. This is in
 
 The intended migration from crow-flies rings is phased:
 
-1. **Honesty edit.** Relabel every straight-line ring "distance band (straight-line)"; surface the radius formula, the 1.15 factor, the 1.0 km floor, and the Web Mercator caveat in the Method modal.
+1. **Honesty edit.** Relabel every straight-line ring "distance band (straight-line)"; surface the radius formula's reliance on an undocumented tuning factor and floor, and the Web Mercator caveat, in the Method modal.
 2. **Observed O-D where data exists.** Wire the ingested LODES and MITMA mobility data into the cluster-click so US and Spain clusters show an observed work-origin polygon; clusters without coverage retain the labelled distance band.
-3. **Drive-time isochrones.** Stand up a self-hosted routing engine and offer a fixed-drive-time band as the default reachable-area view, removing the `span_km / 2 × 1.15` expression from the live pipeline.
+3. **Drive-time isochrones.** Stand up a self-hosted routing engine and offer a fixed-drive-time band as the default reachable-area view, retiring the span-based interim formula from the live pipeline.
 4. **Distance-decay calibration.** Fit decay curves to the O-D flows to set published percentile-of-demand boundaries, extending defensible polygons to countries with viable O-D sources.
 
 Each phase narrows the gap between what the polygon claims and what the data supports.
