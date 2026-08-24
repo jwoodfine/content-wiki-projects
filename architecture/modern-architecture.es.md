@@ -33,7 +33,7 @@ El movimiento surgió de dos desarrollos convergentes a finales del siglo XIX: l
 
 ## El Estilo Internacional y sus aplicaciones comerciales
 
-El movimiento que transformaría la construcción comercial en todo el mundo se consolidó en Europa entre las dos guerras mundiales. La escuela [[bauhaus|Bauhaus]], fundada en Alemania en 1919, promovió la integración de la artesanía y la producción industrial. Para los años veinte, arquitectos como Le Corbusier en Francia y Ludwig Mies van der Rohe y Walter Gropius en Alemania habían establecido el vocabulario formal que se conocería como Estilo Internacional: estructura de acero u hormigón; acristalamiento continuo de muro cortina independiente de la estructura; cubierta plana sin ornamento en el antepecho; planta libre conseguida desplazando los elementos portantes al perímetro.
+El movimiento que transformaría la construcción comercial en todo el mundo se consolidó en Europa entre las dos guerras mundiales. La escuela [[bauhaus|Bauhaus]], fundada en Alemania en 1919, promovió la integración de la artesanía y la producción industrial. Para los años veinte, arquitectos como Le Corbusier en Francia y Ludwig Mies van der Rohe y Walter Gropius en Alemania habían establecido el vocabulario formal que se conocería como Estilo Internacional. Sus elementos: estructura de acero u hormigón; acristalamiento continuo de muro cortina independiente de la estructura; cubierta plana sin ornamento en el antepecho; planta libre conseguida desplazando los elementos portantes al perímetro.
 
 ### Expansión comercial de posguerra
 
@@ -49,7 +49,7 @@ Las características negativas del parque comercial modernista de mediados del s
 
 ## Evaluación inmobiliaria comercial
 
-Para la [[co-location-strategy|evaluación de sitios de co-ubicación]], el parque de edificios comerciales modernistas de los mercados secundarios proporciona el contexto comparativo frente al que se evalúa el desarrollo de nuevos centros profesionales. Los Woodfine Professional Centres están diseñados con la misma disciplina de estructura portante y planta libre que la tradición modernista, pero con alturas de planta actualizadas (4,45 m frente a los 2,75 m típicos de la construcción suburbana de los años setenta), sistemas de acristalamiento contemporáneos y ratios de aparcamiento especificados para atender las necesidades de los inquilinos de servicios profesionales — sanidad, contabilidad, derecho y administración municipal — que requieren acceso eficiente en automóvil en mercados secundarios donde las alternativas de transporte público son limitadas.
+Para la [[co-location-strategy|evaluación de sitios de co-ubicación]], el parque de edificios comerciales modernistas de los mercados secundarios proporciona el contexto comparativo frente al que se evalúa el desarrollo de nuevos centros profesionales. Los Woodfine Professional Centres están diseñados con la misma disciplina de estructura portante y planta libre que la tradición modernista. Se diferencian en alturas de planta actualizadas (4,45 m frente a los 2,75 m típicos de la construcción suburbana de los años setenta), sistemas de acristalamiento contemporáneos y ratios de aparcamiento especificados para atender las necesidades de los inquilinos de servicios profesionales. Esos inquilinos — sanidad, contabilidad, derecho y administración municipal — requieren acceso eficiente en automóvil en mercados secundarios donde las alternativas de transporte público son limitadas.
 
 ### Inventario envejecido y economía de la rehabilitación
 

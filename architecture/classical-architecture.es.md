@@ -31,7 +31,7 @@ La característica definitoria de la arquitectura clásica es el empleo de un si
 
 ## Orígenes y desarrollo
 
-La arquitectura clásica deriva de las tradiciones constructivas de la Grecia y la Roma antiguas. La construcción de templos griegos alcanzó su forma canónica en el siglo V a.C.; la construcción romana extendió y adaptó los precedentes griegos — añadiendo el arco, la bóveda y la cúpula — y produjo el tratado enciclopédico *De architectura* de Vitruvio en el siglo I a.C., que se convirtió en la principal referencia textual para los revivalismos clásicos posteriores.
+La arquitectura clásica deriva de las tradiciones constructivas de la Grecia y la Roma antiguas. La construcción de templos griegos alcanzó su forma canónica en el siglo V a.C. La construcción romana extendió y adaptó los precedentes griegos — añadiendo el arco, la bóveda y la cúpula — y produjo el tratado enciclopédico *De architectura* de Vitruvio en el siglo I a.C. Ese tratado se convirtió en la principal referencia textual para los revivalismos clásicos posteriores.
 
 ### Revivalismos carolingio y renacentista
 
@@ -39,7 +39,7 @@ Con el colapso del Imperio Romano de Occidente, las tradiciones arquitectónicas
 
 ### Interpretaciones barroca, palladiana y neoclásica
 
-Períodos posteriores produjeron interpretaciones clásicas diferenciadas: el Barroco y el Rococó de los siglos XVII y XVIII aplicaron el vocabulario clásico con efecto dramático; el Palladianismo, derivado del arquitecto veneciano Andrea Palladio (1508–1580), dominó la arquitectura británica del período georgiano; y el Neoclasicismo, surgido hacia 1750 como reacción al exceso barroco, retomó una práctica clásica más austera y racional. El Clasicismo Nórdico produjo obras importantes en Escandinavia durante la década de 1920. El advenimiento del [[modern-architecture|modernismo]] a principios del siglo XX desplazó al clasicismo de su posición dominante en la práctica arquitectónica occidental.
+Períodos posteriores produjeron interpretaciones clásicas diferenciadas. El Barroco y el Rococó de los siglos XVII y XVIII aplicaron el vocabulario clásico con efecto dramático. El Palladianismo, derivado del arquitecto veneciano Andrea Palladio (1508–1580), dominó la arquitectura británica del período georgiano. Y el Neoclasicismo, surgido hacia 1750 como reacción al exceso barroco, retomó una práctica clásica más austera y racional. El Clasicismo Nórdico produjo obras importantes en Escandinavia durante la década de 1920. El advenimiento del [[modern-architecture|modernismo]] a principios del siglo XX desplazó al clasicismo de su posición dominante en la práctica arquitectónica occidental.
 
 ## Características formales
 

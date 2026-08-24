@@ -33,7 +33,7 @@ The movement emerged from two converging developments in the late nineteenth cen
 
 ## The International Style and its commercial applications
 
-The movement that would transform commercial construction worldwide coalesced in Europe between the wars. The [[bauhaus|Bauhaus]] school, founded in Germany in 1919, promoted the integration of craft and industrial production. The Deutscher Werkbund (formed 1907) had already sought to reconcile modern industrial manufacturing with good design. By the 1920s, architects including Le Corbusier in France and Ludwig Mies van der Rohe and Walter Gropius in Germany had established the formal vocabulary that would become known as the International Style: structural steel or concrete frame; continuous curtain-wall glazing independent of the structure; flat roof with no parapet ornament; open floor plan achieved by pushing load-bearing elements to the perimeter.
+The movement that would transform commercial construction worldwide coalesced in Europe between the wars. The [[bauhaus|Bauhaus]] school, founded in Germany in 1919, promoted the integration of craft and industrial production. The Deutscher Werkbund (formed 1907) had already sought to reconcile modern industrial manufacturing with good design. By the 1920s, architects including Le Corbusier in France and Ludwig Mies van der Rohe and Walter Gropius in Germany had established the formal vocabulary that would become known as the International Style. Its elements: structural steel or concrete frame; continuous curtain-wall glazing independent of the structure; flat roof with no parapet ornament; open floor plan achieved by pushing load-bearing elements to the perimeter.
 
 ### Postwar commercial expansion
 
@@ -53,7 +53,7 @@ The negative characteristics of mid-century modernist commercial stock in second
 
 ## Commercial real estate evaluation
 
-For [[co-location-strategy|co-location site evaluation]], the modernist commercial building stock of secondary markets provides the comparative context against which new professional centre development is evaluated. Woodfine Professional Centres are designed with the same structural frame and open floor plan discipline as the modernist tradition, but with updated storey heights (14 ft 7 in versus the typical 9 ft of 1970s suburban construction), contemporary glazing systems, and parking ratios specified to meet the demands of professional service tenants — health care, accounting, law, and municipal administration — who require efficient automobile access in secondary market locations where transit alternatives are limited.
+For [[co-location-strategy|co-location site evaluation]], the modernist commercial building stock of secondary markets provides the comparative context against which new professional centre development is evaluated. Woodfine Professional Centres are designed with the same structural frame and open floor plan discipline as the modernist tradition. They differ in updated storey heights (14 ft 7 in versus the typical 9 ft of 1970s suburban construction), contemporary glazing systems, and parking ratios specified to meet the demands of professional service tenants. Those tenants — health care, accounting, law, and municipal administration — require efficient automobile access in secondary market locations where transit alternatives are limited.
 
 ### Aging inventory and redevelopment economics
 

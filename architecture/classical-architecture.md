@@ -31,7 +31,7 @@ The defining characteristic of classical architecture is its use of a systematic
 
 ## Origins and development
 
-Classical architecture is derived from the building traditions of ancient Greece and ancient Rome. Greek temple construction reached its canonical form in the 5th century BC; Roman construction extended and adapted Greek precedents — adding the arch, the vault, and the dome — and produced the encyclopedic treatise *De architectura* by Vitruvius in the 1st century BC that became the primary textual reference for subsequent classical revivals.
+Classical architecture is derived from the building traditions of ancient Greece and ancient Rome. Greek temple construction reached its canonical form in the 5th century BC. Roman construction extended and adapted Greek precedents — adding the arch, the vault, and the dome — and produced the encyclopedic treatise *De architectura* by Vitruvius in the 1st century BC. That treatise became the primary textual reference for subsequent classical revivals.
 
 ### Carolingian and Renaissance revivals
 
@@ -39,7 +39,7 @@ With the collapse of the western Roman Empire, classical architectural tradition
 
 ### Baroque, Palladian, and Neoclassical interpretations
 
-Subsequent periods produced distinct classical interpretations: the Baroque and Rococo of the 17th and 18th centuries applied classical vocabulary with dramatic effect; Palladianism, derived from the Venetian architect Andrea Palladio (1508–1580), dominated British architecture of the Georgian period; and Neoclassicism, emerging from around 1750 as a reaction to Baroque excess, returned to a more austere and rational classical practice. Nordic Classicism produced important buildings in Scandinavia during the 1920s. The advent of [[modern-architecture|modernism]] in the early 20th century displaced classicism from its dominant position in Western architectural practice.
+Subsequent periods produced distinct classical interpretations. The Baroque and Rococo of the 17th and 18th centuries applied classical vocabulary with dramatic effect. Palladianism, derived from the Venetian architect Andrea Palladio (1508–1580), dominated British architecture of the Georgian period. And Neoclassicism, emerging from around 1750 as a reaction to Baroque excess, returned to a more austere and rational classical practice. Nordic Classicism produced important buildings in Scandinavia during the 1920s. The advent of [[modern-architecture|modernism]] in the early 20th century displaced classicism from its dominant position in Western architectural practice.
 
 ## Formal characteristics
 

@@ -32,7 +32,7 @@ El movimiento fue posible gracias al desarrollo de la arqueología como discipli
 
 ## Vocabulario formal y composición
 
-En términos formales, la arquitectura neoclásica se define por su énfasis en la superficie del muro más que en el relieve esculpido; por la simetría y la composición geométrica regular; y por la aplicación de órdenes clásicos — columnas, pilastras, entablamentos y frontones derivados de los precedentes griegos dórico, jónico y corintio — como elementos organizadores de la fachada.
+En términos formales, la arquitectura neoclásica se define por su énfasis en la superficie del muro más que en el relieve esculpido; por la simetría y la composición geométrica regular; y por la aplicación de órdenes clásicos como elementos organizadores de la fachada. Los órdenes — columnas, pilastras, entablamentos y frontones — derivan de los precedentes griegos dórico, jónico y corintio.
 
 ## El Palladianismo y la primera ola
 

@@ -25,7 +25,7 @@ keynote: true
 keynote_section: "Architecture"
 ---
 
-No single style dominates contemporary architecture — the architecture of the 21st century. Contemporary architects work across a range of design philosophies, from postmodern historicism and high-tech structural expressionism to new interpretations of classical and traditional architecture, to highly sculptural and conceptual building forms. The period is defined less by a shared formal vocabulary than by shared technical conditions: universal adoption of computer-aided design (CAD), which allows buildings to be modelled in three dimensions and constructed with greater precision; access to new building materials including tube structures, advanced cladding systems, and engineered composites; and the global reach of architectural practice, such that major buildings in China, Russia, and the Arab Gulf states are designed by practices based in Europe and North America.
+No single style dominates contemporary architecture — the architecture of the 21st century. Contemporary architects work across a range of design philosophies, from postmodern historicism and high-tech structural expressionism to new interpretations of classical and traditional architecture, to highly sculptural and conceptual building forms. The period is defined less by a shared formal vocabulary than by shared technical conditions. Computer-aided design (CAD) is universally adopted, allowing buildings to be modelled in three dimensions and constructed with greater precision. New building materials — tube structures, advanced cladding systems, and engineered composites — are widely accessible. And architectural practice has global reach: major buildings in China, Russia, and the Arab Gulf states are designed by practices based in Europe and North America.
 
 ## Formal range and materials
 
@@ -68,7 +68,7 @@ The ecological performance of contemporary commercial buildings is increasingly 
 
 ## New Traditional Architecture
 
-Within the broad field of contemporary architecture, a significant counter-movement maintains the practice of traditional and classical building design. New Classical architecture, described in a separate article, continues to produce buildings in European and North American markets, supported by the Driehaus Architecture Prize — positioned as the traditionalist alternative to the modernist Pritzker Prize — and by organisations including the International Network for Traditional Building, Architecture & Urbanism (INTBAU) and the Institute of Classical Architecture and Art.
+Within the broad field of contemporary architecture, a significant counter-movement maintains the practice of traditional and classical building design. New Classical architecture, described in a separate article, continues to produce buildings in European and North American markets. It is supported by the Driehaus Architecture Prize — positioned as the traditionalist alternative to the modernist Pritzker Prize — and by organisations including the International Network for Traditional Building, Architecture & Urbanism (INTBAU) and the Institute of Classical Architecture and Art.
 
 ---
 

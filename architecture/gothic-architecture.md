@@ -24,7 +24,7 @@ thesis_alignment: "Gothic Revival churches, universities, and civic institutions
 keynote: false
 ---
 
-Three structural innovations — the pointed arch, the rib vault, and the flying buttress — together allowed architects to build much taller structures with thinner walls and larger windows than had been possible in the preceding Romanesque tradition. Gothic architecture, the style those innovations define, prevailed in Catholic Europe and parts of Western Asia from the late 12th century through the 16th century. The style was driven by the theological demands of the Catholic Church, which sought buildings in which worshippers could experience divine light filtered through coloured glass, and by the civic pride of growing medieval cities, which competed with one another to erect the tallest and most elaborate cathedrals as expressions of municipal wealth and piety.
+Three structural innovations — the pointed arch, the rib vault, and the flying buttress — together allowed architects to build much taller structures with thinner walls and larger windows than had been possible in the preceding Romanesque tradition. Gothic architecture, the style those innovations define, prevailed in Catholic Europe and parts of Western Asia from the late 12th century through the 16th century. The style was driven by the theological demands of the Catholic Church, which sought buildings in which worshippers could experience divine light filtered through coloured glass. It was driven equally by the civic pride of growing medieval cities, which competed with one another to erect the tallest and most elaborate cathedrals as expressions of municipal wealth and piety.
 
 ## Origin of the term
 

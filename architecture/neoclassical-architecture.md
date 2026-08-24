@@ -36,7 +36,7 @@ before Pompeii's (1748) — dating both to 1748 elides a real gap between them.
 
 ## Formal vocabulary and composition
 
-In formal terms, neoclassical architecture is defined by its emphasis on the wall surface rather than carved relief; by symmetry and regular geometric composition; and by the application of classical orders — columns, pilasters, entablatures, and pediments derived from Greek Doric, Ionic, and Corinthian precedents — as organizing elements of the façade. This is distinguished from Baroque classicism, which had used the same vocabulary but treated it dynamically, with curving walls, dramatic contrasts of light and shadow, and elaborate sculptural ornament. Neoclassicism simplified, flattened, and geometricised.
+In formal terms, neoclassical architecture is defined by its emphasis on the wall surface rather than carved relief; by symmetry and regular geometric composition; and by the application of classical orders as organizing elements of the façade. The orders — columns, pilasters, entablatures, and pediments — derive from Greek Doric, Ionic, and Corinthian precedents. This is distinguished from Baroque classicism, which had used the same vocabulary but treated it dynamically, with curving walls, dramatic contrasts of light and shadow, and elaborate sculptural ornament. Neoclassicism simplified, flattened, and geometricised.
 
 ## Palladianism and the first wave
 
