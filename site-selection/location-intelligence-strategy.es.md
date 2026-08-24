@@ -64,7 +64,7 @@ Todos los hitos a continuación son objetivos planificados, sujetos a criterios 
 
 La secuencia prevista es: Semana 1 (aprovisionamiento del marco de despliegue y host virtual nginx); Semana 2 (andamiaje de la aplicación con datos ficticios estáticos para verificar la cadena de renderizado); Semana 3 (ingesta de datos de EE.UU. desde Foursquare Open Source Places u Overture Maps Foundation, aproximadamente 7.600 registros); Semana 4 (superficie de co-localización lista para demostración); Semanas 5–6 (extensión de cobertura a Canadá y México); Semana 7 (España); Semanas 8+ (service-places, service-parking, andamiaje del Workplace OS, y derivaciones editoriales).
 
-La especificación técnica completa, incluyendo el esquema de registros, el algoritmo de co-localización, las cifras de recuento de tiendas y la investigación de fuentes de datos, está disponible en inglés en el artículo principal.
+El esquema de registros completo está documentado en el sitio especializado de SIG (`gis.woodfinegroup.com`); el algoritmo de co-localización, las cifras de recuento de tiendas y la investigación de fuentes de datos están disponibles en inglés en el artículo principal.
 
 ## Véase también
 

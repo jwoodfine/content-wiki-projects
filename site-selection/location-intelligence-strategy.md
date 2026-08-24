@@ -86,36 +86,19 @@ For the current workload — tens of thousands of POI records across four countr
 
 ## Per-record schema
 
-A single record shape covers all three Ring 1 services with discriminator fields. Stored as JSONL for git readability; batch-rolled monthly into per-country GeoParquet and FlatGeobuf.
+A single record shape covers the Ring 1 place-data services, distinguished by a service
+discriminator, and is stored as JSONL for git readability, batch-rolled monthly into
+per-country GeoParquet and FlatGeobuf. Each record carries the operator and brand family, a
+localised name, country and address, coordinates and geometry, a store or place type, the
+opening year where known, and a data-provenance source and URL. That is enough to support
+the co-location query and honest sourcing, without over-specifying the wire format here. The
+full schema is maintained on the specialist GIS site (`gis.woodfinegroup.com`) for readers
+who need the exact field-level specification.
 
-```jsonc
-{
- "id": "01HZ...", // ULID
- "service": "business" | "places" | "parking",
- "operator": "walmart", // brand slug
- "operator_brand_family": "walmart", // unifies regional equivalents
- "name": "Walmart Supercenter Burnaby", // localised
- "country_code": "US" | "CA" | "MX" | "ES",
- "address": "...",
- "lat": 49.2827,
- "lng": -123.1207,
- "geometry": { "type": "Point", ... }, // GeoJSON; Polygon for parking
- "store_type": "supercenter" | "warehouse" | "diy" | "warehouse-club",
- "place_type": null, // service-places only: hospital | university | airport
- "open_year": 2018,
- "data_source": "official-store-locator" | "openstreetmap" | "overture" | "foursquare-os" | "manual",
- "data_provenance_url": "https://...",
- "captured_at": "2026-04-30T00:00:00Z"
-}
-```
-
-Brand-family normalisation lets the co-location query treat regional equivalents as one logical operator across countries:
-
-```yaml
-walmart_family: [walmart, ikea-spain] # large-format consumer general merchandise
-homedepot_family: [homedepot, bricomart-spain] # warehouse-format DIY and trade
-costco_family: [costco] # warehouse-club; present in Spain since 2014
-```
+Brand-family normalisation lets the co-location query treat regional equivalents as one
+logical operator across countries. Walmart groups with its Spanish general-merchandise
+equivalent; Home Depot groups with its Spanish trade-warehouse equivalent; Costco stays a
+single family, present directly in all four countries.
 
 ## Spain Home Depot equivalent — research finding
 
@@ -141,19 +124,24 @@ Implementation rule: bake static tiles for brand-family POIs and co-location rad
 
 ## Co-location analysis algorithm
 
-The surface use case: show where Walmart-family, Home-Depot-family, and Costco co-locate within 1 km, 2 km, and 3 km of each other. Retail co-location clustering is a recognised analytical method; the tendency of complementary large-format retailers to cluster near each other is documented in the literature [planetizen-retail-clusters][nber-w17220-costco].
+The surface use case: show where Walmart-family, Home-Depot-family, and Costco co-locate,
+graded by how tightly the three anchors cluster together. Retail co-location clustering is
+a recognised analytical method; the tendency of complementary large-format retailers to
+cluster near each other is documented in the literature [planetizen-retail-clusters][nber-w17220-costco].
 
-Algorithm (single batch pass):
-
-1. Iterate every record where `operator_brand_family = walmart_family`.
-2. For each, find the nearest record where `operator_brand_family = homedepot_family` and the nearest where `operator_brand_family = costco_family`. A haversine distance against an in-memory R-tree on tens of thousands of records is microseconds per query.
-3. Bucket each triple by the maximum pairwise distance among the three legs: under 1 km, 1–2 km, 2–3 km, above 3 km.
-4. Emit a GeoJSON FeatureCollection: triple centroid, triangle polyline connecting the three vertices, three radius circles, and a `cluster_grade` property.
+At a conceptual level, the pipeline runs a nearest-neighbour search: for each Walmart-family
+location, it finds the closest Home-Depot-family location and the closest Costco location,
+forming a triple. Each triple is then graded by how close together its three members sit;
+tighter triples earn a stronger co-location grade. The result is rendered as a lightweight
+geographic feature set — the triple's centroid, a connecting shape between the three points,
+and a grade property the map can style by. The nearest-neighbour search itself runs
+comfortably at interactive speed even across a full national dataset.
 
 Browser visualisation (MapLibre GL):
 
-- Layer 1: POIs as circles, coloured by `operator_brand_family`, sized by `store_type`.
-- Layer 2: co-location triples with `cluster_grade ≤ 1 km` shown as filled triangles and 1-km radius haloes; 2-km and 3-km grade layers toggleable.
+- Layer 1: POIs as circles, coloured by brand family, sized by store format.
+- Layer 2: co-location triples shown as filled shapes and proximity haloes, styled by
+  co-location grade, with looser grades toggleable independently of tighter ones.
 - Layer 3: country boundary; brand-family filter chips.
 - Hover popovers: brand, format, year opened, distances to co-located neighbours, cluster grade.
 
@@ -163,25 +151,19 @@ The current dataset is approximately 15,000 records (combined US/CA/MX/ES across
 
 All milestones below are intended targets, subject to acceptance criteria and operator review at each stage. [ni-51-102] [osc-sn-51-721]
 
-**Week 1 — Deployment frame.** The deployment instance is provisioned at `deployments/gateway-orchestration-gis-1/` with MANIFEST, README, and README.es.md per the deployment template. An nginx virtual host for `gis.woodfinegroup.com` serves HTTP first; HTTPS via Let's Encrypt once DNS resolves. Sub-clones are provisioned for `pointsav-monorepo`, `pointsav-design-system`, and `woodfine-fleet-deployment` under `clones/project-gis/`. The catalog folder in `customer/woodfine-fleet-deployment/gateway-orchestration-gis/` is created with initial GUIDE drafts.
+**Week 1 — Deployment frame.** A dedicated deployment instance is provisioned, with its standard manifest and bilingual README documentation. A public web host for `gis.woodfinegroup.com` serves HTTP first; HTTPS via Let's Encrypt once DNS resolves. Supporting engineering and documentation working copies are set up, and initial GUIDE drafts are started.
 
-**Week 2 — Application scaffold.** `app-orchestration-gis` Rust binary (Axum server, MapLibre GL JS front end) binds to the next available local port. Initial HTML shell with map container, brand-family filter chips, and country selector. Static dummy POI data verifies the rendering pipeline end-to-end.
+**Week 2 — Application scaffold.** The GIS application server (Rust backend, MapLibre GL JS front end) binds to an available local port. Initial HTML shell with map container, brand-family filter chips, and country selector. Static dummy POI data verifies the rendering pipeline end-to-end.
 
 **Week 3 — US data ingestion.** The Walmart, Home Depot, and Costco subset is drawn from Foursquare's Open Source Places monthly Parquet drop or the Overture Maps Foundation places dataset [foursquare-os-places][overture-maps], filtered by operator name and country, normalised into the `service-business` schema, and written as JSONL, GeoParquet, and FlatGeobuf. Approximately 7,600 records. Co-location algorithm runs in seconds at this scale.
 
-**Week 4 — Co-location surface ready for demonstration.** MapLibre GL layers for POIs, co-location triples, and 1/2/3 km radius circles. Click-through detail: brand, format, distance, cluster grade.
+**Week 4 — Co-location surface ready for demonstration.** MapLibre GL layers for POIs, co-location triples, and proximity radius circles at each co-location grade. Click-through detail: brand, format, distance, cluster grade.
 
 **Weeks 5–6 — Canada and Mexico.** Canada: Walmart 404, Home Depot 182, Costco 109. Mexico: Walmart 3,191, Home Depot 142, Costco 41. Total dataset approximately 12,000 records before Spain.
 
 **Week 7 — Spain.** IKEA Spain under `walmart_family`, Bricomart under `homedepot_family`, Costco Spain. Approximately 55 records — illustrative of the cross-regional brand-family abstraction.
 
-**Weeks 8+ — service-places, service-parking, Workplace OS scaffold, editorial fan-out.** `app-workplace-gis` Tauri desktop shell; `service-places` ingestion (hospitals, universities, airports); TOPIC drafts for the documentation wiki; COMPONENT drafts for the design system.
-
-## Deployment naming — Nomenclature recommendation
-
-The correct Nomenclature prefix for a Workplace OS deployment instance is `node-`. The Nomenclature Matrix §4 defines `node-` as "an individual user terminal endpoint / state manager." A `node-workplace-gis` instance is precisely "an individual user terminal endpoint" that projects the GIS workplace surface. This reuses the existing prefix and preserves symmetry with `node-console-gis`.
-
-If the operator later finds `node-workplace-*` insufficient — for example, because dedicated hardware warrants a visually distinct prefix — the alternative is a `desktop-` prefix amendment to the Nomenclature Matrix, which is a Master-scope edit gated on operator ratification.
+**Weeks 8+ — places and parking data, offline desktop shell, editorial fan-out.** A Tauri-based offline desktop shell for the GIS workplace surface; ingestion of institutional place data (hospitals, universities, airports) and parking geometries; TOPIC drafts for the documentation wiki; COMPONENT drafts for the design system.
 
 ## See also
 

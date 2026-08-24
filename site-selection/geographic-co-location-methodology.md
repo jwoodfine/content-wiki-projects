@@ -41,34 +41,35 @@ Degree Framework" in the JOURNAL working paper
 as "Primary anchor only... maps approximately to T3" — no secondary anchor required
 until the 2nd degree, unlike this article's First-Degree definition below (which
 requires a secondary anchor at the very first rung). Same name, same "Degree"
-vocabulary, same 5.0 km tertiary threshold, but genuinely different admission rules
-at each rung — neither article acknowledges the other. **Flagged, not resolved.**
+vocabulary, same tertiary-proximity threshold, but genuinely different admission
+rules at each rung — neither article acknowledges the other. **Flagged, not
+resolved.**
 
-The five cluster degrees are constructed from two radius thresholds: a 1.0 km threshold applied to Primary and Secondary Target co-occurrence, and a 5.0 km threshold applied to Tertiary Target proximity. Each degree builds on the prior.
+The five cluster degrees are constructed from two radius thresholds: a tighter threshold applied to Primary and Secondary Target co-occurrence, and a wider threshold applied to Tertiary Target proximity. Each degree builds on the prior.
 
 ### First- and second-degree clusters
 
-**First-Degree Cluster** — A [[co-location-target-hierarchy|Primary Target]] site (Walmart Supercentre) with either of the two Secondary Targets (Home Depot or Costco Wholesale) located within 1.0 km of each other. This is the baseline Qualified Investment indicator: the co-presence of a volume grocery operator and a major home improvement or membership warehouse operator within 1.0 km confirms that the geography meets the site thresholds of two institutionally distinct retail operators.
+**First-Degree Cluster** — A [[co-location-target-hierarchy|Primary Target]] site (Walmart Supercentre) with either of the two Secondary Targets (Home Depot or Costco Wholesale) located within the Primary-Secondary proximity threshold of each other. This is the baseline Qualified Investment indicator: the co-presence of a volume grocery operator and a major home improvement or membership warehouse operator at that proximity confirms that the geography meets the site thresholds of two institutionally distinct retail operators.
 
-**Second-Degree Cluster** — A First-Degree Cluster with either Tertiary Target (a post-secondary institution or a major medical centre) located within 5.0 km. The addition of a Tertiary Target introduces a demand source for professional services tenancy that is structurally independent of the retail node — a university or hospital draws professional staff, patient populations, and academic visitors who represent the primary target tenant base for Woodfine Professional Centres.
+**Second-Degree Cluster** — A First-Degree Cluster with either Tertiary Target (a post-secondary institution or a major medical centre) located within the wider Tertiary proximity threshold. The addition of a Tertiary Target introduces a demand source for professional services tenancy that is structurally independent of the retail node — a university or hospital draws professional staff, patient populations, and academic visitors who represent the primary target tenant base for Woodfine Professional Centres.
 
 ### Third- and fourth-degree clusters
 
-**Third-Degree Cluster** — A Primary Target with both Secondary Targets (Home Depot and Costco) within 1.0 km of each other. The requirement that both secondary operators be present at the 1.0 km radius is a materially higher bar than the First-Degree standard. Home Depot and Costco independently validate a geography through their own site selection processes; their simultaneous presence confirms that multiple institutional operators have evaluated the same geography against their independent criteria and reached the same conclusion.
+**Third-Degree Cluster** — A Primary Target with both Secondary Targets (Home Depot and Costco) within the Primary-Secondary proximity threshold of each other. The requirement that both secondary operators be present at that same tight radius is a materially higher bar than the First-Degree standard. Home Depot and Costco independently validate a geography through their own site selection processes; their simultaneous presence confirms that multiple institutional operators have evaluated the same geography against their independent criteria and reached the same conclusion.
 
-**Fourth-Degree Cluster** — A Third-Degree Cluster with either Tertiary Target within 5.0 km. The combination of both secondary operators plus an institutional tertiary demand source represents a geography in which retail, professional, and institutional activities have converged.
+**Fourth-Degree Cluster** — A Third-Degree Cluster with either Tertiary Target within the wider Tertiary proximity threshold. The combination of both secondary operators plus an institutional tertiary demand source represents a geography in which retail, professional, and institutional activities have converged.
 
 ### Fifth-degree clusters as highest-conviction sites
 
-**Fifth-Degree Cluster** — A Third-Degree Cluster with both Tertiary Targets within 5.0 km. Fifth-Degree Clusters are the highest-conviction sites in the dataset. The simultaneous presence of Walmart, Home Depot, Costco, a post-secondary institution, and a major medical centre within the respective radius thresholds marks a geography that has independently attracted five categories of institutional commercial commitment.
+**Fifth-Degree Cluster** — A Third-Degree Cluster with both Tertiary Targets within the wider Tertiary proximity threshold. Fifth-Degree Clusters are the highest-conviction sites in the dataset. The simultaneous presence of Walmart, Home Depot, Costco, a post-secondary institution, and a major medical centre within the respective radius thresholds marks a geography that has independently attracted five categories of institutional commercial commitment.
 
 ## Radius Calibration
 
-The 1.0 km threshold for Primary-Secondary co-occurrence reflects the operational reality of [[power-centres|power centre]] site design: retailers in the same commercial node or corridor are typically within this distance of each other, and proximity at this radius confirms shared site infrastructure rather than coincidental geographical proximity. The 5.0 km threshold for Tertiary co-occurrence reflects the wider catchment pattern of institutional employers. A university or major hospital does not anchor a power centre — it anchors a geography. Five kilometres is a drive time of approximately five to eight minutes in a [[about-regional-markets-system|Regional Market]] context, within the commute tolerance of professional services tenants.
+The Primary-Secondary threshold reflects the operational reality of [[power-centres|power centre]] site design: retailers in the same commercial node or corridor are typically clustered close together, and proximity at that scale confirms shared site infrastructure rather than coincidental geographical proximity. The wider Tertiary threshold reflects the broader catchment pattern of institutional employers. A university or major hospital does not anchor a power centre — it anchors a geography, at a scale consistent with the drive-time tolerance of professional services tenants in a [[about-regional-markets-system|Regional Market]] context.
 
-### Recalibration trigger at 10%
+### Periodic recalibration
 
-If Fifth-Degree Clusters account for more than 10% of all Primary Target entries in the full dataset, the thresholds are recalibrated: the Tertiary proximity threshold tightens from 5.0 km to 3.0 km, and the Primary-Secondary threshold tightens from 1.0 km to below 1.0 km. This recalibration mechanism prevents the top cluster tier from becoming too large to be operationally useful as a site selection filter.
+If Fifth-Degree Clusters come to represent an outsized share of all Primary Target entries in the full dataset, the thresholds are tightened — both the Tertiary and the Primary-Secondary proximity thresholds are reduced. This recalibration mechanism prevents the top cluster tier from becoming too large to be operationally useful as a site selection filter.
 
 ## Dataset Output Metrics
 
@@ -80,10 +81,10 @@ The output is then ranked to balance cluster degree, Primary-Secondary co-occurr
 
 ## Required Site Count by Jurisdiction
 
-The site shortlist requirements are calibrated to the planned capital raises and construction timelines of each Direct-Hold Solution. For Canada, the required development potential is 26 sites across equity and three debt financings over years one through eight and beyond. For the United States, the requirement is 52 sites over the same period. For Mexico, 26 sites.
+The site shortlist requirements are calibrated to the planned capital raises and construction timelines of each Direct-Hold Solution, with a jurisdiction-specific required development count set for Canada, the United States, and Mexico across the equity and debt financings planned over the multi-year build-out.
 
 ### Shortlist ratio and land availability
 
-Because not every high-ranked Primary Target will have available land adjacent to its site, and some available sites will carry rezoning or permitting timelines extending three to seven years, the site shortlist must exceed the required development count by at least a factor of two. A dataset that identifies 26 Required sites for Canada must therefore produce at least 52 shortlisted candidates — one required site for every two shortlisted.
+Because not every high-ranked Primary Target will have available land adjacent to its site, and some available sites will carry rezoning or permitting timelines extending three to seven years, the site shortlist must exceed the required development count by a substantial margin. Enough shortlisted candidates are carried per required site to absorb land-availability and entitlement attrition.
 
 Three separate datasets are maintained, one per jurisdiction, reflecting the distinct retail landscapes of Canada, the United States, and Mexico.

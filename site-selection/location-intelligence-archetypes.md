@@ -29,8 +29,8 @@ The three-letter codes were ratified on 1 June 2026.
 | Code | Name | Anchor type | Status |
 |------|------|-------------|--------|
 | **PRO** | Retail Centres | Grocery hypermarket with hardware and at least one of: price club, lifestyle, or electronics | Live — T1/T2/T3 co-location pipeline |
-| **VWH** | Urban Fringe | Hardware + trade-supply ecosystem (MRO, tool rental, builders merchant, auto parts) | Live — 6,368 clusters (T1=852 / T2=1,327 / T3=4,189) |
-| **PKS** | Commuter | Regional transit anchor (airport, rail, bus) + park-and-ride + car rental/hotel enrichment | Live — 6,953 clusters (T1=691 / T2=2,658 / T3=3,604) |
+| **VWH** | Urban Fringe | Hardware + trade-supply ecosystem (MRO, tool rental, builders merchant, auto parts) | Live — production co-location pipeline across three tiers |
+| **PKS** | Commuter | Regional transit anchor (airport, rail, bus) + park-and-ride + car rental/hotel enrichment | Live — production co-location pipeline across three tiers |
 
 PRO is the base map product — the foundation of the site-selection dataset.
 VWH and PKS are overlay archetypes that identify adjacent market structures
@@ -50,25 +50,20 @@ on anchor composition.
 **T1 — Regional:** A cluster containing a grocery hypermarket and a hardware
 retailer, plus at least one of a price club, lifestyle retailer, or electronics
 retailer. Alternatively: four or more anchor-category retailers in a tight
-cluster (span ≤ 1 km), or three or more anchors in any tight cluster.
+cluster, or three or more anchors in any tight cluster.
 
 **T2 — District:** A cluster containing a grocery hypermarket and a hardware
-retailer, with a span no greater than 2.5 km.
+retailer, within a wider district-level span.
 
 **T3 — Local:** All remaining anchor pairs that do not qualify for T1 or T2.
 
-### Current dataset (Phase 23 + Change B, 28 May 2026)
+### Current dataset
 
-| Tier | Clusters | Countries |
-|------|----------|-----------|
-| T1 | 1,746 | 17 |
-| T2 | 2,726 | 17 |
-| T3 | 2,021 | 17 |
-| **Total** | **6,493** | |
-
-The dataset covers 17 display countries across North America and Europe.
-The T2 span boundary was set to 2.5 km in the Change B rebuild, tightening
-the T2 boundary relative to earlier phases.
+The current production dataset spans thousands of PRO clusters across all
+three tiers, covering 17 display countries across North America and Europe.
+Tier boundaries are periodically re-tuned as the underlying retail footprint
+changes; the T2 district radius has been tightened in successive rebuilds
+relative to earlier phases.
 
 ---
 
@@ -76,15 +71,15 @@ the T2 boundary relative to earlier phases.
 
 VWH clusters identify concentrations of hardware and industrial-supply
 retailers in the absence of grocery anchors. These sites occupy the urban
-fringe — locations between 5 and 80 km from a major metro centre — and
-tend to cluster around highway interchanges in areas with adjacent industrial
-landuse.
+fringe — a band of distance beyond the immediate metro core but short of
+standalone-market territory — and tend to cluster around highway interchanges
+in areas with adjacent industrial landuse.
 
 ### Definition
 
 A VWH candidate is a location where one or more hardware retailers are
 present, no grocery hypermarket is within the cluster span, and the site
-sits within metro-distance 5–80 km. The typical built form is a 3–6 story
+sits within the Urban Fringe metro-distance band. The typical built form is a
 multi-storey warehouse or light-manufacturing building, distinct from the
 one-storey big-box format of the retail park.
 
@@ -97,46 +92,41 @@ and just-in-time logistics tenants — not general retail consumers.
 
 | Signal | Rationale |
 |--------|-----------|
-| Highway interchange ≤ 2 km | Truck ingress and egress |
-| Population ≥ 300,000 within 30-minute drive | Manufacturing and logistics labour |
+| Highway interchange nearby | Truck ingress and egress |
+| Sufficient population within a short drive | Manufacturing and logistics labour |
 | Industrial landuse adjacent | Zoning compatibility |
 
 **Significant:**
 
 | Signal | Rationale |
 |--------|-----------|
-| Air cargo airport ≤ 20 km | Electronics and components, rapid replenishment |
-| Freight rail ≤ 2 km | Just-in-time component delivery |
-| Transit corridor ≤ 500 m | Workforce access |
+| Air cargo airport within reach | Electronics and components, rapid replenishment |
+| Freight rail nearby | Just-in-time component delivery |
+| Transit corridor nearby | Workforce access |
 
 **Disqualifying:** Dense residential immediately adjacent; flood plain;
 heritage conservation zone; location inside a PRO cluster.
 
-### Production results (11 June 2026)
+### Production status
 
-The VWH pipeline is production-grade. Hardware stores (10,338 locations, 45 chains)
-were profiled as proxy anchors; DBSCAN was run on trade-supply POIs without the hardware
-anchor (held-out validation); tier rules use group-collapse logic validated at 73.4%
-hardware co-location on T1+T2 clusters (acceptance threshold: 55%).
+The VWH pipeline is production-grade. Hardware stores were profiled as
+proxy anchors, and the trade-supply clustering was validated against
+held-out hardware-anchor data, with an internally set acceptance threshold
+for cluster quality that the production build clears.
 
-| Country | Clusters |
-|---------|---------|
-| United States | 3,167 |
-| Germany | 648 |
-| United Kingdom | 543 |
-| Canada | 506 |
-| France | 420 |
-| Netherlands | 240 |
-| Italy | 226 |
-| Poland | 171 |
-| **Total (17 countries)** | **6,368** |
+The dataset spans thousands of clusters across the 17 display countries,
+concentrated most heavily in the United States with meaningful coverage
+across several other North American and European markets.
 
-Tier distribution: T1 (Full Trade Hub) = 852 (13.4%), T2 (Established) = 1,327 (20.8%),
-T3 (Emerging / Thin) = 4,189 (65.8%). T3-heavy distribution is expected: full trade hubs
-combining MRO, tool rental, builders merchant, and auto parts are legitimately rare.
+Clusters are distributed across the three tiers in the expected shape: a
+small minority reach the Full Trade Hub tier, a larger share reach the
+Established tier, and the majority sit in the Emerging/Thin tier. That
+T3-heavy distribution is expected — a full trade hub combining MRO, tool
+rental, builders merchant, and auto parts is a legitimately rare
+combination.
 
-A `retail_contamination` flag marks clusters where a grocery hypermarket lies within 1 km
-of the centroid (3,048 clusters; 47.9%). These are dual-use commercial parks — valid VWH
+A quality-control flag marks clusters that sit close enough to a grocery
+hypermarket to be considered dual-use commercial parks — valid VWH
 co-locations that also include grocery retail.
 
 ---
@@ -144,17 +134,17 @@ co-locations that also include grocery retail.
 ## PKS — Commuter
 
 PKS clusters identify commercial concentrations near regional airports and
-intercity train stations that sit in a Commuter belt 15–150 km from a major
-metro centre. The defining demand pattern is park-and-fly or park-and-train
-travel: residents of a Regional Market drive to a transit node, park, and
-travel to the Metro Market.
+intercity train stations that sit in a Commuter belt beyond the immediate
+metro core but short of standalone-market distance. The defining demand
+pattern is park-and-fly or park-and-train travel: residents of a Regional
+Market drive to a transit node, park, and travel to the Metro Market.
 
 ### Definition
 
 A PKS candidate is a regional transit node — airport or intercity train
-station — at metro distance 15–150 km. Nodes within 15 km of the metro
-centre are classified as suburban rather than regional; nodes beyond 150 km
-are considered standalone markets with a separate metro relationship.
+station — within the Commuter metro-distance band. Nodes closer than that
+band are classified as suburban rather than regional; nodes beyond it are
+considered standalone markets with a separate metro relationship.
 
 The defining commercial signal at a PKS location is car rental. Auto parts,
 fuel stations, quick-service restaurants, and convenience stores are
@@ -166,52 +156,52 @@ secondary signals.
 
 | Signal | Rationale |
 |--------|-----------|
-| Regional transit anchor ≤ 3 km | Airport or intercity station with direct metro service |
-| Metro isolation 15–150 km | Defines the regional relationship |
-| T1 or T2 cluster ≤ 10 km | Same population generates parking demand |
-| Regional population ≥ 150,000 | Minimum demand for multi-storey parking |
+| Regional transit anchor nearby | Airport or intercity station with direct metro service |
+| Metro isolation within the Commuter band | Defines the regional relationship |
+| PRO T1 or T2 cluster nearby | Same population generates parking demand |
+| Sufficient regional population | Minimum demand for multi-storey parking |
 
 **Significant:**
 
 | Signal | Rationale |
 |--------|-----------|
-| Car rental ≤ 1 km | Arriving travellers require transport |
-| Hotel cluster ≤ 500 m | Business travel and multi-day parking |
-| Second transit mode ≤ 5 km | Multi-modal integration |
+| Car rental nearby | Arriving travellers require transport |
+| Hotel cluster nearby | Business travel and multi-day parking |
+| Second transit mode nearby | Multi-modal integration |
 
-**Disqualifying:** Major hub within 15 km; population under 100,000; no
-direct metro service.
+**Disqualifying:** Major hub within the immediate metro core; population
+below a minimum viable threshold; no direct metro service.
 
-### Production results (11 June 2026)
+### Production status
 
-The PKS pipeline is production-grade. Park-and-ride records (23,117 locations) serve
-as the primary geographic anchor — actual car→transit transition points distributed
-independently of rail network geometry. Transit modes are enrichment signals; car rental
-and hotel presence define commercial maturity. Tier rules use mode-group collapse
-(intercity_rail + commuter_rail collapse to the RAIL group, preventing artificial
-bimodality inflation).
+The PKS pipeline is production-grade. Park-and-ride records serve as the
+primary geographic anchor — actual car-to-transit transition points
+distributed independently of rail network geometry. Transit modes are
+enrichment signals; car rental and hotel presence define commercial
+maturity. Related transit-mode categories are grouped together before
+tiering, to prevent related modes from inflating an apparent multi-modal
+signal.
 
-| Tier | Clusters | % | Definition |
-|------|---------|---|-----------|
-| T1 (Regional Hub) | 691 | 9.9% | Multi-modal + full commercial ecosystem |
-| T2 (Transit Interchange) | 2,658 | 38.2% | Transit + at least one commercial signal |
-| T3 (Transit Node) | 3,604 | 51.9% | Transit present; commercial opportunity |
-| **Total** | **6,953** | | |
+Clusters are distributed across three tiers. A Regional Hub tier combines
+multi-modal access with a full commercial ecosystem. A Transit Interchange
+tier combines transit with at least one commercial signal. A larger Transit
+Node tier is where transit is present but commercial opportunity remains to
+be proven out.
 
-Commercial enrichment: car rental chains (hertz-eu, avis-eu, europcar-eu, sixt-eu, and
-others) and hotel chains (ibis-eu, premier-inn-gb, holiday-inn-express-us, and others)
-are all ingested and active in the production build.
+Commercial enrichment draws on major car rental and hotel chains active in
+each market, ingested and reflected in the production build.
 
 ### Major hub filter
 
-Airports with a T1 PRO cluster within 5 km are excluded as likely major commercial hubs.
-Major airports generate their own retail gravity and do not exhibit the park-and-transit
-pattern. The filter correctly removes LAX, JFK, LHR, and CDG.
+Airports adjacent to a major PRO retail cluster are excluded as likely major
+commercial hubs. Major airports generate their own retail gravity and do not
+exhibit the park-and-transit pattern. The filter correctly removes hubs such
+as LAX, JFK, LHR, and CDG.
 
 ### Future enhancements
 
-- Airport passenger volume data (CAPA or IATA) to replace the T1-adjacency hub proxy
-  with a direct traffic-based classifier
+- Airport passenger volume data (CAPA or IATA) to replace the current
+  adjacency-based hub proxy with a direct traffic-based classifier
 - Parking operator directory: Q-Park, APCOA, NCP, Indigo/Vinci (EU); SP+ (US)
 
 ---
@@ -222,10 +212,10 @@ VWH and PKS appear as overlay layers under the **★ Regional Markets** section
 in the layer control panel.
 
 **VWH toggle** — displays orange dots at Urban Fringe candidate locations.
-When active, cluster bubbles fade to 10% opacity to reduce visual interference.
+When active, cluster bubbles fade to reduce visual interference.
 
-**PKS toggle** — displays teal dots at integrated candidates (T1/T2 cluster
-within 10 km) and grey dots at standalone candidates. The same 10% bubble
+**PKS toggle** — displays teal dots at integrated candidates (near a PRO
+T1/T2 cluster) and grey dots at standalone candidates. The same bubble
 fade applies.
 
 Both layers persist across view transitions — the fade state is maintained

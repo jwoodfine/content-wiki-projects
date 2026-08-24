@@ -24,31 +24,31 @@ La metodología produce cinco grados de clústeres, cada uno representando un ni
 
 ## El Sistema de Clústeres de Cinco Grados
 
-Los cinco grados de clústeres se construyen a partir de dos umbrales de radio: un umbral de 1,0 km aplicado a la co-ocurrencia de Objetivos Primarios y Secundarios, y un umbral de 5,0 km aplicado a la proximidad de Objetivos Terciarios. Cada grado se construye sobre el anterior.
+Los cinco grados de clústeres se construyen a partir de dos umbrales de radio: un umbral más estrecho aplicado a la co-ocurrencia de Objetivos Primarios y Secundarios, y un umbral más amplio aplicado a la proximidad de Objetivos Terciarios. Cada grado se construye sobre el anterior.
 
 ### Clústeres de primer y segundo grado
 
-**Clúster de Primer Grado** — Un sitio de [[co-location-target-hierarchy|Objetivo Primario]] (Walmart Supercentre) con alguno de los dos Objetivos Secundarios (Home Depot o Costco Wholesale) ubicados dentro de 1,0 km entre sí. Es el indicador de base de una Inversión Calificada: la co-presencia de un operador de comestibles en volumen y un gran minorista de mejoras para el hogar o almacén de membresía a 1,0 km confirma que la geografía cumple los umbrales de dos operadores minoristas institucionalmente distintos.
+**Clúster de Primer Grado** — Un sitio de [[co-location-target-hierarchy|Objetivo Primario]] (Walmart Supercentre) con alguno de los dos Objetivos Secundarios (Home Depot o Costco Wholesale) ubicados dentro del umbral de proximidad Primario-Secundario entre sí. Es el indicador de base de una Inversión Calificada: la co-presencia de un operador de comestibles en volumen y un gran minorista de mejoras para el hogar o almacén de membresía a esa proximidad confirma que la geografía cumple los umbrales de dos operadores minoristas institucionalmente distintos.
 
-**Clúster de Segundo Grado** — Un Clúster de Primer Grado con cualquiera de los Objetivos Terciarios (institución de educación superior o centro médico importante) ubicado dentro de 5,0 km. La adición de un Objetivo Terciario introduce una fuente de demanda para el arrendamiento de servicios profesionales que es estructuralmente independiente del nodo minorista.
+**Clúster de Segundo Grado** — Un Clúster de Primer Grado con cualquiera de los Objetivos Terciarios (institución de educación superior o centro médico importante) ubicado dentro del umbral de proximidad Terciario, más amplio. La adición de un Objetivo Terciario introduce una fuente de demanda para el arrendamiento de servicios profesionales que es estructuralmente independiente del nodo minorista.
 
 ### Clústeres de tercer y cuarto grado
 
-**Clúster de Tercer Grado** — Un Objetivo Primario con ambos Objetivos Secundarios (Home Depot y Costco) dentro de 1,0 km entre sí. El requisito de que ambos operadores secundarios estén presentes a 1,0 km es un listón materialmente más alto que el estándar de Primer Grado. Home Depot y Costco validan independientemente una geografía a través de sus propios procesos de selección de sitios; su presencia simultánea confirma que múltiples operadores institucionales evaluaron la misma geografía y llegaron a la misma conclusión.
+**Clúster de Tercer Grado** — Un Objetivo Primario con ambos Objetivos Secundarios (Home Depot y Costco) dentro del umbral de proximidad Primario-Secundario entre sí. El requisito de que ambos operadores secundarios estén presentes a ese mismo radio estrecho es un listón materialmente más alto que el estándar de Primer Grado. Home Depot y Costco validan independientemente una geografía a través de sus propios procesos de selección de sitios; su presencia simultánea confirma que múltiples operadores institucionales evaluaron la misma geografía y llegaron a la misma conclusión.
 
-**Clúster de Cuarto Grado** — Un Clúster de Tercer Grado con cualquiera de los Objetivos Terciarios dentro de 5,0 km. La combinación de ambos operadores secundarios más una fuente de demanda institucional terciaria.
+**Clúster de Cuarto Grado** — Un Clúster de Tercer Grado con cualquiera de los Objetivos Terciarios dentro del umbral de proximidad Terciario, más amplio. La combinación de ambos operadores secundarios más una fuente de demanda institucional terciaria.
 
 ### Clústeres de quinto grado como sitios de mayor convicción
 
-**Clúster de Quinto Grado** — Un Clúster de Tercer Grado con ambos Objetivos Terciarios dentro de 5,0 km. Los Clústeres de Quinto Grado son los sitios de mayor convicción en el conjunto de datos: la presencia simultánea de Walmart, Home Depot, Costco, una institución de educación superior y un centro médico importante, dentro de los umbrales de radio respectivos.
+**Clúster de Quinto Grado** — Un Clúster de Tercer Grado con ambos Objetivos Terciarios dentro del umbral de proximidad Terciario, más amplio. Los Clústeres de Quinto Grado son los sitios de mayor convicción en el conjunto de datos: la presencia simultánea de Walmart, Home Depot, Costco, una institución de educación superior y un centro médico importante, dentro de los umbrales de radio respectivos.
 
 ## Calibración del Radio
 
-El umbral de 1,0 km para la co-ocurrencia Primario-Secundario refleja la realidad operativa del diseño de sitios de [[power-centres|centros comerciales]]. El umbral de 5,0 km para la co-ocurrencia terciaria refleja el patrón de captación más amplio de los empleadores institucionales.
+El umbral Primario-Secundario refleja la realidad operativa del diseño de sitios de [[power-centres|centros comerciales]]: los minoristas de un mismo nodo o corredor comercial suelen estar muy próximos entre sí. El umbral Terciario, más amplio, refleja el patrón de captación más amplio de los empleadores institucionales, a una escala coherente con la tolerancia de desplazamiento en automóvil de los arrendatarios de servicios profesionales.
 
-### Umbral de recalibración del 10%
+### Recalibración periódica
 
-Si los Clústeres de Quinto Grado representan más del 10% de todas las entradas de Objetivo Primario en el conjunto de datos completo, los umbrales se recalibran: el umbral de proximidad terciaria se reduce de 5,0 km a 3,0 km, y el umbral Primario-Secundario se reduce de 1,0 km a menos de 1,0 km.
+Si los Clústeres de Quinto Grado llegan a representar una proporción desproporcionada de todas las entradas de Objetivo Primario en el conjunto de datos completo, los umbrales se ajustan a la baja — tanto el umbral Terciario como el Primario-Secundario se reducen. Este mecanismo de recalibración evita que el nivel superior de clústeres crezca demasiado como para seguir siendo un filtro operativamente útil de selección de sitios.
 
 ## Métricas de Salida del Conjunto de Datos
 
@@ -56,8 +56,8 @@ Para cada entrada de Objetivo Primario, la salida de co-ubicación geográfica r
 
 ## Cantidad de Sitios Requerida por Jurisdicción
 
-Los requisitos de shortlist de sitios están calibrados a las captaciones de capital planificadas y calendarios de construcción de cada Direct-Hold Solution. Para Canadá: 26 sitios a lo largo de financiamientos de capital y tres de deuda durante los años uno al ocho y más allá. Para Estados Unidos: 52 sitios. Para México: 26 sitios.
+Los requisitos de shortlist de sitios están calibrados a las captaciones de capital planificadas y calendarios de construcción de cada Direct-Hold Solution. Cada jurisdicción — Canadá, Estados Unidos y México — tiene su propia cantidad de desarrollo requerida, a lo largo de los financiamientos de capital y deuda planificados durante el período de construcción plurianual.
 
 ### Proporción de shortlist y disponibilidad de suelo
 
-Dado que no siempre habrá terrenos de desarrollo disponibles adyacentes a los mejores Objetivos Primarios, la shortlist de sitios debe superar el número requerido de desarrollo en al menos un factor de dos. Se mantienen tres conjuntos de datos separados, uno por jurisdicción.
+Dado que no siempre habrá terrenos de desarrollo disponibles adyacentes a los mejores Objetivos Primarios, y algunos sitios disponibles conllevarán calendarios de recalificación o permisos que se extienden por varios años, la shortlist de sitios debe superar el número requerido de desarrollo en un margen sustancial. Se preseleccionan suficientes candidatos por sitio requerido para absorber el desgaste por disponibilidad de suelo y trámites de permisos. Se mantienen tres conjuntos de datos separados, uno por jurisdicción.
