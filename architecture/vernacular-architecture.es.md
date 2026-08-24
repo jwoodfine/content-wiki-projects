@@ -25,9 +25,9 @@ keynote: true
 keynote_section: "Architecture"
 ---
 
-La arquitectura vernácula comprende edificios proyectados sin formación arquitectónica formal, empleando materiales disponibles localmente y técnicas constructivas transmitidas a través de la convención regional. El término distingue esta categoría de la arquitectura diseñada — edificios producidos por profesionales formados que trabajan dentro de tradiciones estilísticas reconocidas. Las formas vernáculas están definidas por la función, el clima y la disponibilidad de materiales, y no por un programa estético.
+El parque comercial vernáculo representa la mayor parte del espacio arrendable en los mercados secundarios y terciarios de América del Norte y Europa Occidental. La arquitectura vernácula comprende edificios proyectados sin formación arquitectónica formal, empleando materiales disponibles localmente y técnicas constructivas transmitidas a través de la convención regional. El término distingue esta categoría de la arquitectura diseñada — edificios producidos por profesionales formados que trabajan dentro de tradiciones estilísticas reconocidas. Las formas vernáculas están definidas por la función, el clima y la disponibilidad de materiales, y no por un programa estético.
 
-El parque comercial vernáculo representa la mayor parte del espacio arrendable en los mercados secundarios y terciarios de América del Norte y Europa Occidental. Los edificios comerciales en tira, los centros de servicios profesionales de barrio, los nodos de comercio comunitario y los bloques de uso mixto de baja altura construidos antes de 1980 pertenecen en general a esta categoría. Estos edificios no fueron diseñados para satisfacer un movimiento arquitectónico; fueron construidos para albergar el comercio local con los medios disponibles.
+Los edificios comerciales en tira, los centros de servicios profesionales de barrio, los nodos de comercio comunitario y los bloques de uso mixto de baja altura construidos antes de 1980 pertenecen en general a esta categoría. Estos edificios no fueron diseñados para satisfacer un movimiento arquitectónico; fueron construidos para albergar el comercio local con los medios disponibles.
 
 ## Características estructurales
 

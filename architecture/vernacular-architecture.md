@@ -25,9 +25,9 @@ keynote: true
 keynote_section: "Architecture"
 ---
 
-Vernacular architecture comprises buildings designed without formal architectural training, using locally available materials and construction techniques passed down through regional convention. The term distinguishes this category from designed architecture — buildings produced by trained practitioners working within named stylistic traditions. Vernacular forms are defined by function, climate, and material availability rather than aesthetic programme.
+Commercial vernacular accounts for the majority of leasable space in secondary and tertiary markets across North America and Western Europe. Vernacular architecture comprises buildings designed without formal architectural training, using locally available materials and construction techniques passed down through regional convention. The term distinguishes this category from designed architecture — buildings produced by trained practitioners working within named stylistic traditions. Vernacular forms are defined by function, climate, and material availability rather than aesthetic programme.
 
-Commercial vernacular accounts for the majority of leasable space in secondary and tertiary markets across North America and Western Europe. Strip commercial buildings, neighbourhood professional centres, community retail nodes, and low-rise mixed-use blocks constructed before 1980 typically fall into this category. These buildings were not designed to satisfy an architectural movement; they were built to accommodate local commerce using what was available.
+Strip commercial buildings, neighbourhood professional centres, community retail nodes, and low-rise mixed-use blocks constructed before 1980 typically fall into this category. These buildings were not designed to satisfy an architectural movement; they were built to accommodate local commerce using what was available.
 
 ## Structural characteristics
 

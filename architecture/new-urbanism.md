@@ -25,7 +25,7 @@ keynote: true
 keynote_section: "Architecture"
 ---
 
-New Urbanism is an urban design movement that emerged in the United States in the late 1980s as a critique of post-war suburban sprawl. Its central proposition is that cities and towns should be organized as compact, mixed-use, walkable communities with transit access, rather than as segregated zones connected primarily by automobile. The Congress for the New Urbanism, founded in 1993, codified the movement's principles in the Charter of the New Urbanism, which establishes design guidelines at the regional, neighbourhood, and street-block scales.
+New Urbanism proposes that cities and towns be organized as compact, mixed-use, walkable communities with transit access, rather than as segregated zones connected primarily by automobile. The urban design movement emerged in the United States in the late 1980s as a critique of post-war suburban sprawl. The Congress for the New Urbanism, founded in 1993, codified the movement's principles in the Charter of the New Urbanism, which establishes design guidelines at the regional, neighbourhood, and street-block scales.
 
 ## Design frameworks: TND and TOD
 

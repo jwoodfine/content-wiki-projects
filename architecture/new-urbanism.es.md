@@ -25,7 +25,7 @@ keynote: true
 keynote_section: "Architecture"
 ---
 
-El Nuevo Urbanismo es un movimiento de diseño urbano surgido en Estados Unidos a finales de la década de 1980 como crítica a la expansión urbana de posguerra. Su propuesta central es que las ciudades y pueblos deben organizarse como comunidades compactas, de uso mixto y acceso peatonal con conexión al transporte público, en lugar de zonas segregadas conectadas principalmente por el automóvil. El Congreso para el Nuevo Urbanismo, fundado en 1993, codificó los principios del movimiento en la Carta del Nuevo Urbanismo, que establece directrices de diseño a escalas regional, de barrio y de manzana.
+El Nuevo Urbanismo propone que las ciudades y pueblos se organicen como comunidades compactas, de uso mixto y acceso peatonal con conexión al transporte público, en lugar de zonas segregadas conectadas principalmente por el automóvil. El movimiento de diseño urbano surgió en Estados Unidos a finales de la década de 1980 como crítica a la expansión urbana de posguerra. El Congreso para el Nuevo Urbanismo, fundado en 1993, codificó los principios del movimiento en la Carta del Nuevo Urbanismo, que establece directrices de diseño a escalas regional, de barrio y de manzana.
 
 ## Marcos de diseño: TND y TOD
 

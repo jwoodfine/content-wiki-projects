@@ -18,7 +18,7 @@ paired_with: site-selection-terminology.es.md
 cites: []
 ---
 
-This glossary defines the terms used in MCorp's site selection and development methodology as they appear in [[co-location-strategy|co-location]] analyses, investor materials, and [[transaction-summary-report-protocol|Transaction Summary Reports]]. Where a term has a specific technical meaning that differs from its common use, the technical definition is stated explicitly.
+Terms in MCorp's site selection and development methodology carry specific technical meanings that can differ from their common use; this glossary states those definitions explicitly. The terms appear in [[co-location-strategy|co-location]] analyses, investor materials, and [[transaction-summary-report-protocol|Transaction Summary Reports]].
 
 ## Qualified Investment
 
