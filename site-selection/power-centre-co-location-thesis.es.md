@@ -56,7 +56,7 @@ Las alturas de piso a piso también se coordinan entre los Prototipos que compar
 
 La Estrategia de Crecimiento utiliza los Programas de Expansión de Minoristas Nacionales como plantilla geográfica para la secuenciación del despliegue. Los Minoristas Nacionales con programas de expansión activos publican o anuncian compromisos de apertura de tiendas en plazos que permiten a los desarrolladores identificar, optar y ejecutar el desarrollo de sitios anticipadamente o de manera concurrente con la propia preparación del sitio del minorista.
 
-Un importante minorista de mejoras para el hogar confirmó recientemente un programa para construir o remodelar un número significativo de tiendas en América del Norte. Programas de esta escala y duración crean un flujo predecible de oportunidades de co-ubicación en Mercados Regionales que de otro modo no serían visibles para el capital institucional sin acceso a la inteligencia de expansión interna del minorista.
+Un importante Minorista Nacional confirmó recientemente planes para construir o remodelar aproximadamente 800 tiendas en los próximos años (Kang, 2024). Programas de esta escala y duración crean un flujo predecible de oportunidades de co-ubicación en Mercados Regionales que de otro modo no serían visibles para el capital institucional sin acceso a la inteligencia de expansión interna del minorista.
 
 ## Alcance de las Jurisdicciones Calificadas
 

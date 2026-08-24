@@ -60,7 +60,7 @@ Floor-to-floor heights are coordinated across the Prototypes sharing a parcel fo
 
 The Growth Strategy implemented by the Direct-Hold Solutions uses National Retailer Rollout Programs as the geographic template for deployment sequencing. National Retailers with active expansion programs publish or announce store-opening commitments on timelines that allow developers to identify, option, and execute site development in advance of or concurrent with the retailer's own site preparation.
 
-A major home improvement retailer recently confirmed a program to build or remodel a significant number of stores across North America. Programs of this scale and duration create a predictable pipeline of co-location opportunities in Regional Markets that would otherwise not be visible to institutional capital without access to the retailer's internal expansion intelligence. Woodfine's development network in Regional Markets provides that access through existing relationships with the National Retailers' site development functions.
+A major National Retailer recently confirmed plans to build or remodel approximately 800 stores in the coming years (Kang, 2024). Programs of this scale and duration create a predictable pipeline of co-location opportunities in Regional Markets that would otherwise not be visible to institutional capital without access to the retailer's internal expansion intelligence. Woodfine's development network in Regional Markets provides that access through existing relationships with the National Retailers' site development functions.
 
 ## Scope of Qualified Jurisdictions
 

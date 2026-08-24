@@ -11,7 +11,7 @@ short_description: "Tesis económica según la cual la co-ubicación con Centros
 status: stable
 audience: customer-woodfine
 bcsc_class: current-fact
-last_edited: 2026-07-31
+last_edited: 2026-08-24
 editor: pointsav-engineering
 language_protocol: TRANSLATE-ES
 source_refs:
@@ -26,11 +26,11 @@ El mecanismo opera en dos direcciones simultáneamente: sustenta la demanda de a
 
 ## Resiliencia del Comercio Minorista
 
-Los asignadores de capital institucional han concentrado cada vez más la inversión en bienes raíces comerciales en formatos de necesidades básicas y minoristas anclados en comestibles. La justificación es conductual: los operadores de comestibles y cuidado personal generan patrones de visita diarios que no se comprimen materialmente durante las recesiones económicas porque las compras subyacentes son no discrecionales. Los minoristas que atienden estas categorías mantienen la frecuencia de visita incluso cuando el entorno económico es incierto, a diferencia del comercio minorista discrecional — moda, muebles del hogar, electrónica — que enfrenta compresión de demanda durante períodos de cautela del consumidor.
+Los asignadores de capital institucional han concentrado cada vez más la inversión en bienes raíces comerciales en formatos de necesidades básicas y minoristas anclados en comestibles. Informes de mercado recientes confirman una creciente demanda de los inversores por centros comerciales anclados en comestibles, productos de primera necesidad o comercios de salud y cuidado personal (Avison Young Canada, 2026). La justificación es la estabilidad del flujo de efectivo. Los operadores de comestibles y cuidado personal generan patrones de visita diarios que no se comprimen materialmente durante las recesiones económicas, porque las compras subyacentes son no discrecionales. Los minoristas que atienden estas categorías mantienen la frecuencia de visita incluso cuando el entorno económico es incierto, a diferencia del comercio minorista discrecional — moda, muebles del hogar, electrónica — que enfrenta compresión de demanda durante períodos de cautela del consumidor.
 
 ## El Mecanismo de Transferencia del Halo
 
-Woodfine posiciona sus edificios Professional Centres y Suburban Office directamente adyacentes a este entorno minorista estable. La co-ubicación estratégica crea lo que el modelo denomina un efecto halo: los atributos del ancla minorista — tráfico peatonal consistente, patrones de acceso del consumidor establecidos y la presencia de un operador institucional bien capitalizado comprometido con el sitio — extienden su influencia a los bienes raíces comerciales inmediatamente adyacentes.
+Woodfine posiciona sus edificios Professional Centres y Suburban Office directamente adyacentes a este entorno minorista estable. La co-ubicación estratégica crea lo que el modelo denomina un efecto halo: los atributos del ancla minorista — tráfico peatonal consistente, patrones de acceso del consumidor establecidos y la presencia de un operador institucional bien capitalizado comprometido con el sitio — extienden su influencia a los bienes raíces comerciales inmediatamente adyacentes (Avison Young Canada, 2026, pp. 19–20).
 
 El efecto halo opera a través de canales operativos concretos:
 

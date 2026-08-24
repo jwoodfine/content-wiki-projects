@@ -11,7 +11,7 @@ short_description: "Economic thesis that co-location with grocery-anchored Power
 status: stable
 audience: customer-woodfine
 bcsc_class: current-fact
-last_edited: 2026-07-11
+last_edited: 2026-08-24
 editor: pointsav-engineering
 language_protocol: PROSE-TOPIC
 source_refs:
@@ -26,7 +26,7 @@ The mechanism operates in two directions simultaneously: it supports tenant dema
 
 ## Retail Resilience in the Current Environment
 
-Institutional capital allocators have increasingly concentrated commercial real estate investment into necessity-based and grocery-anchored retail formats. The investor rationale is grounded in consumer behavior: grocery and personal care operators generate daily visit patterns that do not compress materially during economic downturns because the underlying purchases are non-discretionary. Consumers reduce spending on travel, entertainment, and durables before they reduce spending on food, pharmacy, and personal care. The retailers serving these categories maintain visit frequency even when the broader economic environment is uncertain.
+Institutional capital allocators have increasingly concentrated commercial real estate investment into necessity-based and grocery-anchored retail formats. Recent market reporting confirms rising investor demand for retail centres anchored by grocery, consumer-staple, or health and personal-care operators (Avison Young Canada, 2026). The rationale is cash-flow stability. Grocery and personal-care operators generate daily visit patterns that do not compress materially during economic downturns, because the underlying purchases are non-discretionary. Consumers reduce spending on travel, entertainment, and durables before they reduce spending on food, pharmacy, and personal care. The retailers serving these categories maintain visit frequency even when the broader economic environment is uncertain.
 
 ### Institutional concentration in necessity formats
 
@@ -34,7 +34,7 @@ This cash-flow characteristic is distinct from discretionary retail formats — 
 
 ## The Halo Transfer Mechanism
 
-Woodfine positions its Professional Centres and Suburban Office buildings directly adjacent to this stable retail environment. The strategic co-location creates what the model terms a halo effect: the attributes of the retail anchor — consistent foot traffic, established consumer access patterns, and the presence of a well-capitalized institutional operator committed to the site — extend their influence to the immediately adjacent commercial real estate.
+Woodfine positions its Professional Centres and Suburban Office buildings directly adjacent to this stable retail environment. The strategic co-location creates what the model terms a halo effect: the attributes of the retail anchor — consistent foot traffic, established consumer access patterns, and the presence of a well-capitalized institutional operator committed to the site — extend their influence to the immediately adjacent commercial real estate (Avison Young Canada, 2026, pp. 19–20).
 
 The halo effect operates through concrete operational channels rather than through market perception alone.
 
