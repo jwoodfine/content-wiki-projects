@@ -12,7 +12,7 @@ bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 last_edited: 2026-07-11
 editor: pointsav-engineering
-short_description: "Each co-location cluster is labelled with a human-readable regional name — a North American Metropolitan Area, a European NUTS-3 region, a Mexican municipio, a Canadian Census Subdivision. That name is the output of a layered offline reverse-geocoding pipeline that draws from five open boundary datasets without requiring external API calls."
+short_description: "Each co-location cluster is labelled with a human-readable regional name — a North American Metropolitan Area, a European NUTS-3 region, a Mexican municipio, a Canadian Census Subdivision. That name is the output of a layered offline reverse-geocoding pipeline that draws from a stack of open boundary datasets without requiring external API calls."
 paired_with: gis/regional-name-resolution-architecture.es.md
 cites:
   - osm-odbl
@@ -23,16 +23,9 @@ cites:
 
 The [[co-location-methodology|co-location]] map labels each cluster with a human-readable regional name — a North American Metropolitan Area, a European NUTS-3 region, a Mexican municipio, a Canadian Census Subdivision. The name is not a single field on the source data; it is the output of a layered offline reverse-geocoding pipeline. This article documents the data sources, the lookup order, and the post-processing that produces the names visible on the platform; the cluster itself is produced by the [[co-location-ranking-system|deterministic ranking system]] after [[cluster-deduplication-threshold|deduplication]].
 
-## The Five Boundary Layers
+## The Boundary Layers
 
-**Correction (2026-08-02, verified against canonical `origin/main`):** this heading
-undercounts even its own table below, which already lists six rows, and the real
-`region_engine.py` loads a seventh file this table omits entirely —
-`mx_metro.geojson` (INEGI 2018 Zonas Metropolitanas), an intermediate Mexico
-fallback layer that sits between the municipio lookup and the Natural Earth
-fallback described in the routing section below. **Flagged, not resolved.**
-
-Each cluster anchor's coordinates are tested against five boundary datasets in a country-specific order:
+Each cluster anchor's coordinates are tested against a layered set of boundary datasets in a country-specific order. The core routing layers are shown below.
 
 | Layer | Source | Coverage | Granularity |
 |---|---|---|---|
@@ -40,24 +33,19 @@ Each cluster anchor's coordinates are tested against five boundary datasets in a
 | `ca_cma.geojson` | Statistics Canada 2021 Census | Canada | Census Metropolitan Areas |
 | `ca_csd.geojson` | GADM 4.1 admin-3 (UC Davis Open Data) | Canada | Census Subdivision proxies (municipalities) |
 | `mx_municipio.geojson` | GADM 4.1 admin-2 (UC Davis Open Data) | Mexico | Municipios |
+| `mx_metro.geojson` | INEGI 2018 Zonas Metropolitanas | Mexico | Metropolitan zones (intermediate fallback layer) |
 | `eu_nuts3.geojson` | Eurostat GISCO 2021 | EU + UK + EFTA + Western Balkans | NUTS-3 regions |
 | `fallback_ne_admin1.geojson` | Natural Earth 10m | Global | Admin-1 (states / provinces) |
 
-All files load once at engine initialisation. Spatial indexes accelerate point-in-polygon lookups to O(log N) per query.
+Beyond this core routing set, the engine also loads a further layer of settlement-level boundary files — finer-grained city, town, and municipality boundaries for the United States, the European Union, and Canada. These resolve a more specific place name than the core layer alone provides, where that finer data is available. All files load once at engine initialisation. Spatial indexes accelerate point-in-polygon lookups to O(log N) per query.
 
 ## Country-Specific Routing
 
-The engine routes each cluster's anchor coordinates by ISO country code:
+The engine routes each cluster's anchor coordinates by ISO country code as follows.
 
 - **United States**: CBSA lookup. If a match is found, the CBSA name is formatted (state suffix stripped, "Metro Area" appended if absent).
 - **Canada**: Census Subdivision lookup first (admin-3). When both a Census Subdivision and the surrounding Census Metropolitan Area match and differ, the result is composed: "Strathcona County, Edmonton". When only one matches, that name is returned alone.
-- **Mexico**: Municipio lookup (admin-2). On a match, the municipio name is returned with Spanish-text post-processing applied. On a miss, the engine falls through to the Natural Earth state-level fallback.
-
-  **Correction (2026-08-02, verified against canonical `origin/main`):** the real
-  fallback order inserts an intermediate layer — a miss on the municipio lookup
-  falls through to `mx_metro.geojson` (legacy INEGI Zonas Metropolitanas) before
-  reaching the Natural Earth admin-1 fallback, not directly to Natural Earth as
-  stated. **Flagged, not resolved.**
+- **Mexico**: Municipio lookup (admin-2). On a match, the municipio name is returned with Spanish-text post-processing applied. On a miss, the engine falls through to a legacy metropolitan-zone layer (INEGI Zonas Metropolitanas); if that also misses, it falls through again to the Natural Earth state-level fallback.
 - **European Union, United Kingdom, EFTA, Western Balkans**: NUTS-3 lookup.
 - **Fallback**: Natural Earth admin-1 for any country not covered by the layered files. Returns state or province names.
 

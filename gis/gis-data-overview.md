@@ -18,17 +18,7 @@ The PointSav platform produces and serves geospatial data in two primary forms: 
 
 ## Location intelligence clusters
 
-The cluster dataset groups commercial points of interest into three-tier co-location nodes — T1 (anchor), T2 (developed), T3 (emerging) — using a two-pass DBSCAN algorithm. Three archetypes describe distinct commercial patterns: PRO (professional retail co-location), VWH (vertical warehouse / urban industrial), and PKS (parking structures / transit-adjacent commercial).
-
-**Correction (2026-08-02, verified against canonical `origin/main`):** the real tier
-taxonomy (`app-orchestration-gis/SCORING-METHODOLOGY.md`, V3) is **four** tiers —
-T1 Regional, T2 District, T3 Local, T4 Fringe — not the three shown here, and this
-also contradicts this article's own sibling, [[nordic-uk-coverage]], which correctly
-uses the Regional/District/Local naming. Separately, VWH is documented in code
-(`test-cluster-archetypes.py`) as the "Urban Fringe" archetype (urban
-logistics/light-manufacturing with no hypermarket anchor) — "vertical warehouse"
-doesn't appear anywhere in source; PKS is confirmed accurate. **Flagged, not
-resolved.**
+The cluster dataset groups commercial points of interest into co-location nodes — this article uses a three-tier T1 (anchor) / T2 (developed) / T3 (emerging) vocabulary — using a two-pass DBSCAN algorithm. This tier vocabulary has not been reconciled against the tier naming used elsewhere on this wiki (see [[nordic-uk-coverage]] and related articles); a reader comparing tier labels across articles should treat the naming here as this article's own, not yet a single canonical system. Three archetypes describe distinct commercial patterns: PRO (professional retail co-location), VWH (Urban Fringe — urban logistics and light-manufacturing clusters with no hypermarket anchor), and PKS (parking structures / transit-adjacent commercial).
 
 See [[location-intelligence-archetypes|Location Intelligence Co-location Archetypes]] for a full introduction.
 

@@ -52,7 +52,7 @@ En mayo de 2026 se añadieron cinco instancias nacionales de Lidl y cuatro insta
 | Lidl Austria | Q151954 | 260 | | Aldi Polonia | Q41171 + búsqueda por nombre | 280 |
 | Lidl Portugal | Q151954 | 270 | | | | |
 
-Aldi opera como dos entidades corporativas — Aldi Süd (Wikidata Q41171) y Aldi Nord (Wikidata Q125054) — que dividen la geografía europea en un eje norte-sur. En los Países Bajos y los mercados adyacentes a los países nórdicos, sólo opera Aldi Nord. En el Reino Unido y Polonia, sólo opera Aldi Süd. La etiqueta de identificador de marca en OpenStreetMap en los registros individuales de tiendas es inconsistente en algunos mercados. Para lograr una cobertura aceptable donde la etiqueta de identificador es escasa, la configuración de ingestión recurre a una consulta basada en el nombre de la marca, limitada al cuadro delimitador del país.
+Aldi opera como dos entidades corporativas — Aldi Süd (Wikidata Q41171) y Aldi Nord (Wikidata Q125054) — que dividen la geografía europea en un eje norte-sur. En los Países Bajos y los mercados adyacentes a los países nórdicos, sólo opera Aldi Nord. Polonia también es territorio de Aldi Nord; el Reino Unido, en cambio, está servido únicamente por Aldi Süd. La etiqueta de identificador de marca en OpenStreetMap en los registros individuales de tiendas es inconsistente en algunos mercados. Para lograr una cobertura aceptable donde la etiqueta de identificador es escasa, la configuración de ingestión recurre a una consulta basada en el nombre de la marca, limitada al cuadro delimitador del país.
 
 ## Observaciones sobre la cobertura
 

@@ -23,9 +23,9 @@ cites:
 
 El mapa de [[co-location-methodology|co-localización]] etiqueta cada clúster con un nombre regional legible por humanos — un Área Metropolitana de América del Norte, una región NUTS-3 europea, un municipio mexicano, una Subdivisión Censal canadiense. El nombre no es un campo único en los datos de origen; es el resultado de un proceso de geocodificación inversa por capas. Este artículo documenta las fuentes de datos, el orden de consulta y el post-procesamiento que produce los nombres visibles en la plataforma; el clúster en sí se produce mediante el [[co-location-ranking-system|sistema de clasificación determinista]] tras la [[cluster-deduplication-threshold|deduplicación]].
 
-## Las cinco capas de límites
+## Las capas de límites
 
-Las coordenadas del ancla de cada clúster se contrastan con cinco conjuntos de datos de límites en un orden específico por país:
+Las coordenadas del ancla de cada clúster se contrastan con un conjunto de capas de datos de límites en un orden específico por país. Las capas centrales de enrutamiento se muestran a continuación.
 
 | Capa | Fuente | Cobertura | Granularidad |
 |---|---|---|---|
@@ -33,10 +33,11 @@ Las coordenadas del ancla de cada clúster se contrastan con cinco conjuntos de 
 | `ca_cma.geojson` | Statistics Canada, Censo 2021 | Canadá | Áreas Metropolitanas Censales |
 | `ca_csd.geojson` | GADM 4.1 admin-3 (UC Davis Open Data) | Canadá | Subdivisiones Censales (municipios) |
 | `mx_municipio.geojson` | GADM 4.1 admin-2 (UC Davis Open Data) | México | Municipios |
+| `mx_metro.geojson` | INEGI 2018, Zonas Metropolitanas | México | Zonas metropolitanas (capa de reserva intermedia) |
 | `eu_nuts3.geojson` | Eurostat GISCO 2021 | UE + RU + AELC + Balcanes Occidentales | Regiones NUTS-3 |
 | `fallback_ne_admin1.geojson` | Natural Earth 10m | Global | Admin-1 (estados / provincias) |
 
-Todos los archivos se cargan una vez durante la inicialización del motor. Los índices espaciales aceleran las consultas de punto en polígono.
+Más allá de este conjunto central de enrutamiento, el motor también carga una capa adicional de archivos de límites a nivel de asentamiento — límites más finos de ciudades, pueblos y municipios para Estados Unidos, la Unión Europea y Canadá. Estos resuelven un nombre de lugar más específico que el que ofrece por sí sola la capa central, cuando ese dato más fino está disponible. Todos los archivos se cargan una vez durante la inicialización del motor. Los índices espaciales aceleran las consultas de punto en polígono.
 
 ## Enrutamiento por país
 
@@ -44,7 +45,7 @@ El motor dirige las coordenadas del ancla de cada clúster según el código de 
 
 - **Estados Unidos**: Consulta CBSA. Si hay coincidencia, el nombre del CBSA se formatea apropiadamente.
 - **Canadá**: Primero se realiza la consulta de Subdivisión Censal (admin-3). Cuando tanto la Subdivisión Censal como el Área Metropolitana Censal circundante coinciden y difieren, el resultado se compone: "Strathcona County, Edmonton". Cuando sólo coincide uno, se devuelve ese nombre.
-- **México**: Consulta de municipio (admin-2). En caso de coincidencia, se devuelve el nombre del municipio con el post-procesamiento de texto en español aplicado. En caso de no coincidencia, se utiliza el nivel provincial de Natural Earth.
+- **México**: Consulta de municipio (admin-2). En caso de coincidencia, se devuelve el nombre del municipio con el post-procesamiento de texto en español aplicado. En caso de no coincidencia, el motor recurre a una capa heredada de zonas metropolitanas (INEGI Zonas Metropolitanas); si tampoco hay coincidencia ahí, recurre al nivel provincial de Natural Earth.
 - **Unión Europea, Reino Unido, AELC, Balcanes Occidentales**: Consulta NUTS-3.
 - **Reserva**: Natural Earth admin-1 para cualquier país no cubierto por los archivos anteriores. Devuelve nombres de estados o provincias.
 

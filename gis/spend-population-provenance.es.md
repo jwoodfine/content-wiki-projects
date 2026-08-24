@@ -62,7 +62,7 @@ MAUP no es un defecto por corregir; es una propiedad inherente de cualquier agre
 
 ## Confianza y cómo se muestra
 
-La canalización ya calcula una **bandera de confianza** por mercado en `regional-markets.json`. En la compilación del 2026-05-22, 2.942 de 2.986 objetos del Mercado Regional llevaban la bandera de alta confianza. A pesar de esto, la bandera aún no se representa en ningún lugar — el mapa dibuja cada clúster con opacidad completa y un marcador idéntico.
+La canalización ya calcula una **bandera de confianza** por mercado en `regional-markets.json`. Esta bandera es una función de la calidad de la [[regional-name-resolution-architecture|resolución del nombre regional]], no de la calidad de ingestión de datos POI o censales. Se degrada específicamente donde el proceso de resolución de nombres recurre a un nombre de límite administrativo en lugar de resolver un nombre de lugar coloquial a nivel de asentamiento. En la compilación del 2026-05-22, 2.942 de 2.986 objetos del Mercado Regional llevaban la bandera de alta confianza. A pesar de esto, la bandera aún no se representa en ningún lugar — el mapa dibuja cada clúster con opacidad completa y un marcador idéntico.
 
 La intención cartográfica es hacer de la confianza un canal visual en el punto del nivel:
 

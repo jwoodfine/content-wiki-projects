@@ -66,33 +66,17 @@ Category identifiers are unchanged across this migration. Queries that previousl
 
 ## Spatial deduplication
 
-OSM data for large-format retailers sometimes includes both node and way elements for the same physical location — the building footprint as a way, and the entrance as a node. The pipeline deduplicates records within a 100-metre spatial cluster per chain, retaining the record with the most complete address fields.
+OSM data for large-format retailers sometimes includes both node and way elements for the same physical location — the building footprint as a way, and the entrance as a node. The pipeline deduplicates records by rounding each location's coordinates to four decimal places (approximately 11 metres) and treating records that round to the same coordinate pair as the same building, retaining the record with the most complete address fields.
 
-A second deduplication pass runs at 25 metres across different `chain_id` values sharing the same `brand_wikidata` QID. This identifies sub-format or co-branded stores — a fuel station sharing the parent retailer's QID, for example — which are candidates for the parent-child sub-location model described below.
-
-**Correction (2026-08-02, verified against canonical `origin/main`):** the real
-dedup threshold (`ingest-osm.py`) is coordinate rounding to 4 decimal places
-(~11 m), documented in-code as "same building" — no 100 m or 25 m dedup pass exists
-anywhere in the pipeline. **Flagged, not resolved.**
+Records that share coordinates at this resolution but carry different `chain_id` values under the same `brand_wikidata` QID are treated as sub-format or co-branded stores — a fuel station sharing the parent retailer's QID, for example — and are candidates for the parent-child sub-location model described below.
 
 ## Parent-child sub-location model
 
 Large-format retailers frequently operate ancillary services at the same address: pharmacies, fuel stations, optical centres, and garden centres. In raw OSM data these appear as separate POI elements, each with a distinct name and sometimes a distinct `chain_id`.
 
-The intended model (pending operator approval) treats the primary store as the parent location and collapses ancillary services into a `sub_entities` list within the parent record. On the map, one bubble represents the parent; the detail panel lists sub-services. This follows an industry-standard parent-child POI pattern in which the parent record holds the canonical address and coordinates, and sub-entities share that anchor while carrying their own service classification.
+The platform resolves this with a configuration-driven parent mapping: each sub-entity `chain_id` known to be an ancillary service is mapped to its canonical parent chain — a pharmacy sub-format mapped to its parent big-box chain, for example. Sub-entities are excluded from cluster scoring and are surfaced only on the parent's info card; the map itself shows one bubble per parent location. This follows an industry-standard parent-child POI pattern in which the parent record holds the canonical address and coordinates, and sub-entities share that anchor while carrying their own service classification.
 
-The Placekey standard — a globally unique location identifier with a `What@Where` structure — expresses this relationship via a shared `Where` component: two POIs at the same address share their `Where` suffix (the geocell), while their `What` prefix (the brand hash) differs. Placekey integration is intended as the primary mechanism for identifying co-located sub-businesses in a future pipeline update [ni-51-102].
-
-**Correction (2026-08-02, verified against canonical `origin/main`):** the parent-
-child model described above as "pending operator approval"/"a future pipeline
-update" is already live — `config.py` carries a real, in-production `CHAIN_FAMILIES`
-dict mapping sub-entity `chain_id`s to a canonical parent (e.g.
-`walmart-pharmacy-us → walmart-us`), with sub-entities excluded from scoring and
-shown only on info cards. This is a different, already-shipped, config-driven
-mechanism, not the Placekey-spatial-matching scheme described as future work — the
-`placekey` schema field exists but is hardcoded `None` in every ingest script
-checked. **Flagged, not resolved** — needs re-basing against the real mechanism,
-not a line fix.
+The Placekey standard — a globally unique location identifier with a `What@Where` structure — expresses this relationship via a shared `Where` component: two POIs at the same address share their `Where` suffix (the geocell), while their `What` prefix (the brand hash) differs. A Placekey-based spatial-matching approach remains a planned future mechanism rather than the current one; the schema retains a `placekey` field for this purpose, but it is not yet populated during ingest [ni-51-102].
 
 ## Address completeness
 
@@ -108,4 +92,4 @@ Service-business records are re-ingested per chain on demand — typically when 
 
 - location-intelligence-platform — platform overview, Named-Anchor Model, and V2 scoring tiers
 - location-intelligence-substrate — flat-file GIS architecture and storage layer
-- app-orchestration-gis — GIS service application that operates the ingest pipeline
+- the ingestion pipeline — the GIS service application that operates the ingest pipeline described in this article

@@ -66,14 +66,7 @@ MAUP is not a defect to be fixed; it is an inherent property of any areal aggreg
 
 ### What confidence already exists
 
-The pipeline already computes a per-market **confidence flag** in `regional-markets.json`. This flag is a function of input-data quality and coverage: clusters in OSM-sparse or census-stale regions, or clusters whose anchor geometry was resolved by name-query fallback rather than an exact Wikidata brand match, are lower confidence.
-
-**Correction (2026-08-02, verified against canonical `origin/main`):** the real
-`score-regional-markets.py` documents `mkt_conf` as the "geocode confidence of the
-best cluster in this RM," downgraded specifically where region-**naming**
-resolution returns administrative names instead of colloquial names — a function of
-[[regional-name-resolution-architecture|name-resolution]] quality, not POI/census
-data-ingestion quality as described here. **Flagged, not resolved.**
+The pipeline already computes a per-market **confidence flag** in `regional-markets.json`. This flag is a function of [[regional-name-resolution-architecture|regional name-resolution]] quality, not POI or census data-ingestion quality. It is downgraded specifically where the name-resolution pipeline falls back to an administrative boundary name rather than resolving a colloquial, settlement-level place name.
 
 At the 2026-05-22 build, 2,942 of 2,986 Regional Market objects carried the high-confidence flag. Despite this, the flag is not yet rendered anywhere — the map draws every cluster at full opacity with an identical marker, so a lower-confidence estimate is visually indistinguishable from a higher-confidence one.
 

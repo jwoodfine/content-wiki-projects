@@ -33,13 +33,13 @@ Ambas clases comparten los campos: `location_name`, `brand_wikidata`, `street_ad
 
 ## Deduplicación espacial
 
-El pipeline ejecuta una primera pasada de deduplicación dentro de 100 metros para registros de la misma cadena, conservando el registro con los campos de dirección más completos. Una segunda pasada a 25 metros entre distintos `chain_id` que comparten el mismo QID de Wikidata identifica formatos secundarios co-ubicados con el minorista principal (por ejemplo, gasolineras bajo la misma marca), candidatos para el modelo padre-hijo.
+El pipeline deduplica los registros redondeando las coordenadas de cada ubicación a cuatro decimales (aproximadamente 11 metros) y tratando los registros que redondean a la misma coordenada como el mismo edificio, conservando el registro con los campos de dirección más completos. Los registros que comparten coordenadas a esta resolución pero tienen distintos `chain_id` bajo el mismo QID de Wikidata se consideran formatos secundarios o tiendas de marca compartida — por ejemplo, una gasolinera bajo la misma marca que el minorista principal. Estos son candidatos para el modelo padre-hijo.
 
 ## Modelo padre-hijo y estándar Placekey
 
-El modelo previsto (pendiente de aprobación del operador) consolida los servicios auxiliares en una lista `sub_entities` dentro del registro padre, siguiendo el patrón estándar de POI padre-hijo del sector: el registro padre contiene la dirección y coordenadas canónicas, y cada sub-entidad hereda ese ancla mientras mantiene su propia clasificación de servicio.
+La plataforma resuelve esto mediante una asignación padre configurada: cada `chain_id` de sub-entidad reconocido como servicio auxiliar se asigna a su cadena matriz canónica — por ejemplo, un subformato de farmacia asignado a su cadena de gran formato matriz. Las sub-entidades quedan excluidas de la puntuación de clústeres y solo se muestran en la ficha informativa de la ubicación matriz; el mapa muestra una sola burbuja por ubicación matriz. Esto sigue el patrón estándar de POI padre-hijo del sector: el registro padre contiene la dirección y coordenadas canónicas, y cada sub-entidad hereda ese ancla mientras mantiene su propia clasificación de servicio.
 
-El estándar Placekey — identificador global de ubicación con estructura `Qué@Dónde` — expresa esta relación mediante un sufijo `Dónde` compartido: dos POI en la misma dirección comparten el sufijo geocelda, mientras que su prefijo de marca difiere. La integración de Placekey está prevista como mecanismo principal para detectar co-ubicaciones en futuras versiones del pipeline [ni-51-102].
+El estándar Placekey — identificador global de ubicación con estructura `Qué@Dónde` — expresa esta relación mediante un sufijo `Dónde` compartido: dos POI en la misma dirección comparten el sufijo geocelda, mientras que su prefijo de marca difiere. Un enfoque de coincidencia espacial basado en Placekey sigue siendo un mecanismo futuro previsto, no el mecanismo actual; el esquema conserva un campo `placekey` para este fin, pero aún no se completa durante la ingestión [ni-51-102].
 
 ## Completitud de direcciones y cadencia de actualización
 
@@ -51,4 +51,4 @@ Los registros service-business se reingesan por cadena bajo demanda; los registr
 
 - location-intelligence-platform — plataforma de inteligencia de ubicación y niveles de puntuación V2
 - location-intelligence-substrate — arquitectura de datos GIS de archivo plano
-- app-orchestration-gis — servicio de aplicación GIS que ejecuta el pipeline de ingestión
+- el pipeline de ingestión — el servicio de aplicación GIS que ejecuta el pipeline de ingestión descrito en este artículo
