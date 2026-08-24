@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Mercado Inmobiliario Comercial"
+title: "Las políticas estructurales de Woodfine"
 slug: industry-index
 category: industry
 type: topic

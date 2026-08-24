@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Commercial Real Estate Market"
+title: "Woodfine's structural policies"
 slug: industry-index
 category: industry
 type: topic

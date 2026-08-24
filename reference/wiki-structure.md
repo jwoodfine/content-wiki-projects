@@ -59,8 +59,10 @@ are targets and may change.
 
 ## The context
 
-**The Commercial Real Estate Market** explains how the market works:
-rents and building income, values, market cycles, and interest rates.
+**Woodfine's Structural Policies** covers two of the company's own
+deliberate market policies: the regional capital gap the Direct-Hold
+Solutions are designed to address, and the under-building discipline
+that preserves pricing power.
 
 **Why Places Grow** covers the city-scale forces behind demand:
 commuters, the urban fringe, demographics, and parking.

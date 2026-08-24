@@ -66,9 +66,11 @@ cambiar.
 
 ## El contexto
 
-**El mercado inmobiliario comercial** explica cómo funciona el mercado:
-las rentas y los ingresos de los edificios, los valores, los ciclos del
-mercado y los tipos de interés.
+**Las políticas estructurales de Woodfine** cubre dos políticas de
+mercado propias y deliberadas de la empresa: la brecha de capital
+regional que las Soluciones de Tenencia Directa están diseñadas para
+abordar, y la disciplina de construir por debajo de la demanda que
+preserva el poder de fijación de precios.
 
 **Por qué crecen los lugares** trata las fuerzas a escala urbana que hay
 detrás de la demanda: los desplazamientos al trabajo, la periferia urbana,

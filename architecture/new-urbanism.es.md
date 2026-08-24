@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-06-30
+last_edited: 2026-08-24
 editor: woodfine-editorial
 short_description: "Movimiento de diseño que reintroduce los barrios de uso mixto, conectados al transporte público y a escala peatonal como alternativa al desarrollo suburbano dependiente del automóvil — el marco urbanístico que formaliza muchas de las condiciones de uso del suelo que apoyan la colocalización."
 paired_with: new-urbanism.md
@@ -62,7 +62,7 @@ Para los inversores inmobiliarios comerciales, la pregunta relevante no es si un
 
 ## Relevancia para la evaluación de colocalización
 
-Las condiciones de uso del suelo que el Nuevo Urbanismo formaliza como doctrina urbanística — plantas de uso mixto, manzanas accesibles a pie, proximidad al transporte, densidad de servicios — son las mismas condiciones que la tesis de colocalización identifica como indicadores de nodos de alto valor en los mercados secundarios. Los emplazamientos que obtienen buenas puntuaciones en el [[geographic-co-location-methodology|sistema de clasificación de colocalización]] exhiben típicamente características del Nuevo Urbanismo, ya sea que dichas características hayan sido diseñadas intencionalmente o hayan surgido de forma orgánica con el tiempo.
+Las condiciones de uso del suelo que el Nuevo Urbanismo formaliza como doctrina urbanística — plantas de uso mixto, manzanas accesibles a pie, proximidad al transporte, densidad de servicios — son las mismas condiciones que la tesis de colocalización identifica como indicadores de nodos de alto valor en los mercados secundarios. Los emplazamientos que obtienen buenas puntuaciones en el [[geographic-co-location-methodology|sistema de puntuación de co-ubicación geográfica]] exhiben típicamente características del Nuevo Urbanismo, ya sea que dichas características hayan sido diseñadas intencionalmente o hayan surgido de forma orgánica con el tiempo.
 
 ### Desarrollo orientado al tránsito y captación peatonal
 

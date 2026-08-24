@@ -12,7 +12,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-16
+last_edited: 2026-08-24
 editor: woodfine-editorial
 short_description: "The six development classes for Woodfine direct-hold deployments: Professional Centres, Suburban Office, Retail Select, Tech Industrial, Parking Structures, and Vertical Warehouses."
 paired_with: buildings/about-development-classes.es.md
@@ -55,7 +55,7 @@ Vertical Warehouses are planned for locations beyond the power centre proximity 
 
 ## The rollout program as a cross-class framework
 
-The [[co-location-methodology|rollout program]] — the systematic repetition of a standardized design across multiple sites — applies to all six classes. Each class has its own prototype geometry and [[fixed-floor-plates|fixed floor plate]] standard, enabling consistent cost and schedule performance across deployments regardless of market or jurisdiction.
+The [[co-location-methodology|co-location methodology]] — the systematic repetition of a standardized design across multiple sites — applies to all six classes. Each class has its own prototype geometry and [[fixed-floor-plates|fixed floor plate]] standard, enabling consistent cost and schedule performance across deployments regardless of market or jurisdiction.
 
 The class taxonomy is exhaustive and categorical. A deployment is a Professional Centre, a Suburban Office, a Retail Select, a Tech Industrial, a Parking Structure, or a Vertical Warehouse — no hybrid classifications exist within the direct-hold portfolio framework.
 

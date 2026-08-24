@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-11
+last_edited: 2026-08-24
 editor: pointsav-engineering
 short_description: "A design movement that reintroduces mixed-use, transit-connected, pedestrian-scaled neighbourhoods as an alternative to automobile-dependent suburban development — the planning framework that formalizes many of the land-use conditions that support co-location."
 paired_with: new-urbanism.es.md
@@ -62,7 +62,7 @@ For commercial real estate investors, the relevant question is not whether a sit
 
 ## Relevance to co-location evaluation
 
-The land-use conditions that New Urbanism formalizes as planning doctrine — mixed-use floors, walkable blocks, transit proximity, service density — are the same conditions that the co-location thesis identifies as markers of high-value secondary market nodes. Sites that score well on the [[geographic-co-location-methodology|co-location ranking system]] typically exhibit New Urbanist characteristics, whether those characteristics were intentionally designed or have accumulated organically over time.
+The land-use conditions that New Urbanism formalizes as planning doctrine — mixed-use floors, walkable blocks, transit proximity, service density — are the same conditions that the co-location thesis identifies as markers of high-value secondary market nodes. Sites that score well on the [[geographic-co-location-methodology|geographic co-location scoring system]] typically exhibit New Urbanist characteristics, whether those characteristics were intentionally designed or have accumulated organically over time.
 
 ### Transit-oriented development and pedestrian capture
 

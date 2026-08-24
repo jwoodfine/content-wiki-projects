@@ -12,7 +12,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-07-16
+last_edited: 2026-08-24
 editor: woodfine-editorial
 short_description: "Las seis clases de desarrollo para los desarrollos de tenencia directa de Woodfine: Centros Profesionales, Oficinas Suburbanas, Retail Select, Industrial Tecnológico, Estructuras de Estacionamiento y Almacenes Verticales."
 paired_with: buildings/about-development-classes.md
@@ -55,7 +55,7 @@ Los Almacenes Verticales están planificados para ubicaciones más allá del cri
 
 ## El programa de implementación como marco transclase
 
-El [[co-location-methodology|programa de implementación]] — la repetición sistemática de un diseño estandarizado en múltiples sitios — aplica a las seis clases. Cada clase tiene su propia geometría de prototipo y estándar de [[fixed-floor-plates|placa de piso fija]], lo que permite un rendimiento consistente en costos y plazos en todos los desarrollos, independientemente del mercado o la jurisdicción.
+La [[co-location-methodology|metodología de co-localización]] — la repetición sistemática de un diseño estandarizado en múltiples sitios — aplica a las seis clases. Cada clase tiene su propia geometría de prototipo y estándar de [[fixed-floor-plates|placa de piso fija]], lo que permite un rendimiento consistente en costos y plazos en todos los desarrollos, independientemente del mercado o la jurisdicción.
 
 La taxonomía de clases es exhaustiva y categórica. Un desarrollo es un Centro Profesional, una Oficina Suburbana, un Retail Select, un Industrial Tecnológico, una Estructura de Estacionamiento o un Almacén Vertical — no existen clasificaciones híbridas dentro del marco de cartera de tenencia directa.
 
