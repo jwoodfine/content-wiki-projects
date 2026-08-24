@@ -7,7 +7,10 @@ type: topic
 content_type: topic
 quality: complete
 short_description: "Cómo los cambios en las tasas libres de riesgo y las condiciones crediticias se propagan a través de las tasas de capitalización, los costos del servicio de deuda y los márgenes de factibilidad de desarrollo hacia las valoraciones de propiedades comerciales y los rendimientos de inversión."
-status: active
+status: archived
+archived: 2026-08-24
+archived_reason: "Decisión del operador del 2026-08-24: la wiki de proyectos trata sobre las Clases de Desarrollo, Edificios, Mercados Regionales, arquitectura/diseño de edificios, el Programa de Expansión y el Programa de Compras de Woodfine -- procedimiento y hechos, no contenido general de glosario de economía de bienes raíces comerciales. Este es un explicador general de mecanismos de mercado (cómo los cambios de tasas se propagan a través de las tasas de capitalización y los costos de deuda) sin contenido de procedimiento específico de Woodfine -- fuera del alcance de esta wiki."
+superseded_by: none
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES

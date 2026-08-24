@@ -33,7 +33,7 @@ Despite this, commercial banks do not systematically extend construction and tak
 
 ## The Legacy Joint Venture Model
 
-The financing shortfall in Regional Markets is not a new condition. It has persisted across multiple [[commercial-real-estate-cycles|real estate cycles]]. The conventional response for developers operating in these geographies was the joint venture structure: a combination of the developer's project expertise and site control with a financial partner's balance sheet capacity.
+The financing shortfall in Regional Markets is not a new condition. It has persisted across multiple real estate cycles. The conventional response for developers operating in these geographies was the joint venture structure: a combination of the developer's project expertise and site control with a financial partner's balance sheet capacity.
 
 The joint venture model required financial partners capable of contributing a larger percentage of equity than conventional financing dictates, along with the balance sheet capacity to guarantee conventional construction loans and take-out financing. This arrangement worked at the project level: a developer with strong regional relationships and a committed financial partner could execute individual developments within the capital constraints of Regional Markets.
 

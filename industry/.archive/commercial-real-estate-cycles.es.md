@@ -7,7 +7,10 @@ type: topic
 content_type: topic
 quality: complete
 short_description: "El ciclo de cuatro fases de oferta y demanda que rige los mercados de propiedades comerciales: recuperación, expansión, sobreoferta y recesión, y las características estructurales que distinguen los ciclos inmobiliarios de otras clases de activos."
-status: active
+status: archived
+archived: 2026-08-24
+archived_reason: "Decisión del operador del 2026-08-24: la wiki de proyectos trata sobre las Clases de Desarrollo, Edificios, Mercados Regionales, arquitectura/diseño de edificios, el Programa de Expansión y el Programa de Compras de Woodfine -- procedimiento y hechos, no contenido general de glosario de economía de bienes raíces comerciales. Este es un marco general de teoría de ciclos de bienes raíces comerciales (recuperación/expansión/sobreoferta/recesión) sin contenido de procedimiento específico de Woodfine -- fuera del alcance de esta wiki."
+superseded_by: none
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES

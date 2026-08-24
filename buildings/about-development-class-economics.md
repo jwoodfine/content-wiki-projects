@@ -34,7 +34,8 @@ property market with distinct economic characteristics.
 - Single-tenancy and small-bay configurations (Tech Industrial, Retail Select) produce higher
   management intensity but lower co-tenancy dependency risk than multi-floor office buildings.
 - Professional Centres and Suburban Office assets are valued primarily on the income
-  capitalisation method (NOI ÷ [[capitalization-rate|cap rate]]); Tech Industrial and Retail Select assets in [[power-centre-co-location-thesis|co-located]]
+  capitalisation method (net operating income divided by the market capitalisation rate);
+  Tech Industrial and Retail Select assets in [[power-centre-co-location-thesis|co-located]]
   nodes are additionally influenced by anchor-driven traffic and consumer expenditure data.
 
 ## Professional Centres
@@ -148,5 +149,3 @@ Parking Structures and Vertical Warehouses complete the [[about-development-clas
 ## See also
 
 - [[about-development-classes|Development Classes]] — the six-class framework, including the two classes without established economics yet
-- [[net-operating-income]] — the metric applied to each class to assess operating performance
-- [[commercial-real-estate-cycles]] — how each class responds differently to market cycle phases

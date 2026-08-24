@@ -7,7 +7,10 @@ type: topic
 content_type: topic
 quality: complete
 short_description: "The four-phase supply-and-demand cycle governing commercial property markets: recovery, expansion, hyper-supply, and recession — and the structural features that make CRE cycles distinct from other asset classes."
-status: active
+status: archived
+archived: 2026-08-24
+archived_reason: "Operator-directed 2026-08-24: the projects wiki is about Woodfine's Development Classes, Buildings, Regional Markets, architecture/building design, Rollout Program, and Buying Program -- procedure and facts, not general CRE market-economics glossary content. This is a general CRE cycle-theory framework (recovery/expansion/hyper-supply/recession) with no Woodfine-specific procedure content -- out of scope for this wiki."
+superseded_by: none
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC

@@ -33,7 +33,7 @@ A pesar de esto, los bancos comerciales no otorgan sistemáticamente financiamie
 
 ## El Modelo Legacy de Joint Venture
 
-La brecha de financiamiento en los Mercados Regionales no es una condición nueva. Ha persistido a través de múltiples [[commercial-real-estate-cycles|ciclos inmobiliarios]]. La respuesta convencional para los desarrolladores que operan en estas geografías fue la estructura de joint venture: una combinación de la experiencia en proyectos del desarrollador y el control del sitio con la capacidad de balance del socio financiero.
+La brecha de financiamiento en los Mercados Regionales no es una condición nueva. Ha persistido a través de múltiples ciclos inmobiliarios. La respuesta convencional para los desarrolladores que operan en estas geografías fue la estructura de joint venture: una combinación de la experiencia en proyectos del desarrollador y el control del sitio con la capacidad de balance del socio financiero.
 
 El modelo de joint venture requería socios financieros capaces de aportar un mayor porcentaje de capital del que dicta el financiamiento convencional, junto con la capacidad de balance para garantizar préstamos de construcción convencionales y financiamiento de salida. Este acuerdo funcionó a nivel de proyecto: un desarrollador con sólidas relaciones regionales y un socio financiero comprometido podía ejecutar desarrollos individuales dentro de las restricciones de capital de los Mercados Regionales.
 

@@ -7,7 +7,10 @@ type: topic
 content_type: topic
 quality: complete
 short_description: "La métrica de rendimiento que convierte el ingreso operativo neto estabilizado en un valor implícito de la propiedad, y el principal mecanismo de transmisión entre los mercados de capital y la fijación de precios en bienes raíces comerciales."
-status: active
+status: archived
+archived: 2026-08-24
+archived_reason: "Decisión del operador del 2026-08-24: la wiki de proyectos trata sobre las Clases de Desarrollo, Edificios, Mercados Regionales, arquitectura/diseño de edificios, el Programa de Expansión y el Programa de Compras de Woodfine -- procedimiento y hechos, no contenido general de glosario de economía de bienes raíces comerciales. Esta es una entrada pura de fórmula/definición sin contenido de procedimiento específico de Woodfine -- fuera del alcance de esta wiki."
+superseded_by: none
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES

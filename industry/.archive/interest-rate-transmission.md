@@ -7,7 +7,10 @@ type: topic
 content_type: topic
 quality: complete
 short_description: "How changes in risk-free rates and lending conditions propagate through capitalisation rates, debt service costs, and development feasibility margins into commercial property valuations and investment returns."
-status: active
+status: archived
+archived: 2026-08-24
+archived_reason: "Operator-directed 2026-08-24: the projects wiki is about Woodfine's Development Classes, Buildings, Regional Markets, architecture/building design, Rollout Program, and Buying Program -- procedure and facts, not general CRE market-economics glossary content. This is a general market-mechanism explainer (how rate changes propagate through cap rates and debt costs) with no Woodfine-specific procedure content -- out of scope for this wiki."
+superseded_by: none
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC

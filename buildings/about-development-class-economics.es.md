@@ -35,8 +35,9 @@ sus especificaciones físicas.
   Selectivo) producen mayor intensidad de gestión pero menor riesgo de dependencia de
   co-arrendatario que los edificios de oficinas con múltiples pisos.
 - Los Centros Profesionales y Oficina Suburbana se valoran principalmente por el método de
-  capitalización de ingresos (ION ÷ [[capitalization-rate|tasa de capitalización]]); los activos de Industrial
-  Tecnológico y Retail Selectivo en nodos [[power-centre-co-location-thesis|co-ubicados]] son adicionalmente influenciados
+  capitalización de ingresos (ingreso operativo neto dividido entre la tasa de
+  capitalización de mercado); los activos de Industrial Tecnológico y Retail Selectivo en
+  nodos [[power-centre-co-location-thesis|co-ubicados]] son adicionalmente influenciados
   por el tráfico generado por anclas y datos de gasto del consumidor.
 
 ## Centros Profesionales
@@ -105,6 +106,3 @@ Las Estructuras de Estacionamiento y los Almacenes Verticales completan la [[abo
 ## Consulte también
 
 - [[about-development-classes|Clases de Desarrollo]] — el marco de seis clases, incluidas las dos clases sin economía establecida todavía
-- [[net-operating-income]] — la métrica aplicada a cada clase para evaluar el desempeño operativo
-- [[commercial-real-estate-cycles]] — cómo cada clase responde de manera diferente a las
-  fases del ciclo de mercado

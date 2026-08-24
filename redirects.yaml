@@ -405,3 +405,17 @@ redirects:
   # category.
   - from: /private-cre-market-structure
     to: /category/industry
+
+  # Content-scope retraction, 2026-08-24 (operator-directed, same batch): general CRE
+  # glossary/formula/framework entries (cap rate, NOI, cycle theory, rate transmission)
+  # -- procedure and facts about Woodfine's own Buildings/Regions/Architecture/Programs
+  # is the wiki's scope, not market-economics glossary content. All 4 indexed in the
+  # live sitemap, redirected to the parent category.
+  - from: /capitalization-rate
+    to: /category/industry
+  - from: /net-operating-income
+    to: /category/industry
+  - from: /commercial-real-estate-cycles
+    to: /category/industry
+  - from: /interest-rate-transmission
+    to: /category/industry
