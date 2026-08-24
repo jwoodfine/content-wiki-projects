@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Protocolo del Informe de Resumen de Transacción"
 slug: transaction-summary-report-protocol
 category: gis
+index_group: site-and-transaction-integration
 type: topic
 content_type: topic
 quality: complete

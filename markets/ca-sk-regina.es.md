@@ -5,6 +5,7 @@ slug: ca-sk-regina
 language: es
 language_protocol: TRANSLATE-ES
 category: markets
+index_group: market-profiles
 type: topic
 content_type: topic
 quality: stub

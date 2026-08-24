@@ -4,6 +4,7 @@ title: "POI data schema"
 slug: poi-data-schema
 language: en
 category: gis
+index_group: data-overview-and-sources
 type: topic
 content_type: topic
 status: active

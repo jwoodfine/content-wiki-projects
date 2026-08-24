@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Arquetipos de Co-localización en Inteligencia de Ubicación"
 slug: location-intelligence-archetypes
 category: site-selection
+index_group: the-method
 type: topic
 content_type: topic
 quality: complete

@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Site selection terminology"
 slug: site-selection-terminology
 category: reference
+index_group: glossaries
 type: topic
 content_type: topic
 quality: complete

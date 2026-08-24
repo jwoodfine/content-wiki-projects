@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "National tenants"
 slug: national-tenants
 category: site-selection
+index_group: anchors-and-tenants
 type: topic
 content_type: topic
 quality: pre-build

@@ -5,6 +5,7 @@ title: "Tempe, Arizona — Regional Market"
 language: en
 language_protocol: PROSE-TOPIC
 category: markets
+index_group: market-profiles
 type: reference
 content_type: topic
 quality: stub

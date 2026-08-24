@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Planos Maestros y Módulos"
 slug: key-plans-and-tiles
 category: building-design
+index_group: the-leasing-geometry
 type: topic
 content_type: topic
 quality: pre-build

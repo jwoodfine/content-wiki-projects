@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Expansión de Cobertura en los Países Nórdicos y el Reino Unido"
 slug: nordic-uk-coverage
 category: gis
+index_group: coverage-expansion
 type: topic
 content_type: topic
 quality: complete

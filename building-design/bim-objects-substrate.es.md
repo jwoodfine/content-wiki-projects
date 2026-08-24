@@ -4,6 +4,7 @@ title: "Objetos BIM — Sustrato"
 slug: bim-objects-substrate
 language: es
 category: building-design
+index_group: bim-objects-and-the-digital-record
 type: topic
 content_type: topic
 status: active

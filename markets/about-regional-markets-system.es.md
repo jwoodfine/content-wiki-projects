@@ -5,6 +5,7 @@ title: "Sistema de Inteligencia de Mercados Regionales"
 language: es
 language_protocol: TRANSLATE-ES
 category: markets
+index_group: screening-universe-and-rankings
 type: reference
 content_type: topic
 quality: complete

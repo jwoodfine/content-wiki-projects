@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "UK and European food retail coverage"
 slug: uk-eu-food-retail-coverage
 category: gis
+index_group: coverage-expansion
 type: topic
 content_type: topic
 quality: complete

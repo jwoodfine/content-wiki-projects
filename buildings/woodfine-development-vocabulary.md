@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Glossary of Woodfine Development Vocabulary"
 slug: woodfine-development-vocabulary
 category: buildings
+index_group: vocabulary
 type: topic
 content_type: topic
 quality: complete

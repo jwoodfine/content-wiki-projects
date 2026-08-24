@@ -4,7 +4,7 @@ title: "Reino Unido — Índice de mercados regionales"
 slug: atlas-united-kingdom
 category: markets
 type: topic
-index_group: europe-regional-markets
+index_group: country-breakouts
 content_type: topic
 quality: complete
 status: active

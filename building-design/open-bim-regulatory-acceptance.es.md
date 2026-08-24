@@ -4,6 +4,7 @@ title: "BIM abierto y aceptación regulatoria"
 slug: open-bim-regulatory-acceptance
 language: es
 category: building-design
+index_group: design-philosophy-and-system
 type: topic
 content_type: topic
 status: active

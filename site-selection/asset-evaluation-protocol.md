@@ -4,6 +4,7 @@ title: "Asset evaluation protocol"
 slug: asset-evaluation-protocol
 short_description: "How the co-location ranking matrix drives Woodfine's commercial asset acquisition targeting: tier score as the entry criterion, independent GIS analysis as the verification method."
 category: site-selection
+index_group: before-land-is-bought
 type: reference
 content_type: topic
 quality: complete

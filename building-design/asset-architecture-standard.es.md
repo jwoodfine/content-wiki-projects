@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Estándar de Arquitectura de Activos"
 slug: asset-architecture-standard
 category: building-design
+index_group: the-leasing-geometry
 type: reference
 content_type: topic
 quality: complete

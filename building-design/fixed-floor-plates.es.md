@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Placas de Piso Fijas"
 slug: fixed-floor-plates
 category: building-design
+index_group: the-leasing-geometry
 type: topic
 content_type: topic
 quality: pre-build

@@ -4,6 +4,7 @@ title: "Plataforma de inteligencia de localización — Estrategia y arquitectur
 slug: location-intelligence-strategy
 language: es
 category: site-selection
+index_group: the-method
 type: topic
 content_type: topic
 status: active

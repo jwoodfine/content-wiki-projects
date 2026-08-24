@@ -7,6 +7,7 @@ title: "Mississauga, Ontario — Mercado Regional"
 language: es
 language_protocol: TRANSLATE-ES
 category: markets
+index_group: market-profiles
 type: reference
 content_type: topic
 quality: complete

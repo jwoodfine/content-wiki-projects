@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Inteligencia de Co-ubicación Minorista — Resumen"
 slug: co-location-intelligence-overview
 category: site-selection
+index_group: the-method
 type: topic
 index_type: thematic
 content_type: topic

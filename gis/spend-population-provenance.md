@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Spend and population estimation: provenance and assumptions"
 slug: spend-population-provenance
 category: gis
+index_group: data-overview-and-sources
 type: concept
 content_type: topic
 quality: complete

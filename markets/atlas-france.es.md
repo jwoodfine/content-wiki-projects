@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Francia — Índice de Mercados Regionales"
 slug: atlas-france
 category: markets
+index_group: superseded-and-retired
 type: topic
 content_type: topic
 quality: complete

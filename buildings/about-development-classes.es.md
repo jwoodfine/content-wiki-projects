@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Clases de Desarrollo"
 slug: about-development-classes
 category: buildings
+index_group: the-six-development-classes
 type: topic
 index_type: thematic
 content_type: topic

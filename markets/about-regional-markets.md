@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Regional Markets"
 slug: about-regional-markets
 category: markets
+index_group: superseded-and-retired
 type: topic
 content_type: topic
 quality: pre-build

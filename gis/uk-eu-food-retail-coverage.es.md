@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Cobertura de Retail Alimentario en el Reino Unido y Europa"
 slug: uk-eu-food-retail-coverage
 category: gis
+index_group: coverage-expansion
 type: topic
 content_type: topic
 quality: complete

@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Alemania — Índice de mercados regionales"
 slug: atlas-germany
 category: markets
+index_group: superseded-and-retired
 type: topic
 content_type: topic
 quality: complete

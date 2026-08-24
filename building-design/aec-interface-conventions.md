@@ -4,6 +4,7 @@ title: "AEC interface conventions"
 slug: aec-interface-conventions
 language: en
 category: building-design
+index_group: design-philosophy-and-system
 type: topic
 content_type: topic
 status: active

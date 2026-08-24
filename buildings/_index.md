@@ -6,23 +6,57 @@ category: buildings
 type: topic
 content_type: topic
 quality: complete
-short_description: "What we build: the six development classes — Professional Centres, Suburban Office, Retail Select, Tech Industrial, and the planned Parking Structures and Vertical Warehouses."
+short_description: "What we build: the six development classes — Professional Centres, Suburban Office, Retail Select, Tech Industrial, and the planned Parking Structures and Vertical Warehouses — plus tenant curation and procurement."
+index_type: thematic
+index_scope: buildings
 status: active
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-03
+last_edited: 2026-08-24
 editor: pointsav-engineering
 paired_with: _index.es.md
 ---
 
-The Buildings covers what Woodfine builds: six development classes — Professional
-Centres, Suburban Office, Retail Select, and Tech Industrial today, with Parking
-Structures and Vertical Warehouses planned as the programme expands. Each class article
-explains what the building type is, who it is designed for, and its underlying
-economics.
+The Buildings names what Woodfine actually builds: four development classes in force today, two more planned, and the tenant curation and procurement disciplines that fill and supply them.
 
-Two classes are described here in intended terms until their physical specifications are
-formally set; the rest carry current, in-force definitions.
+<!-- START-HERE-HIGHLIGHT: engine reads this block to render the single "start here" card (reuses the existing cluster-card--start-here component). Do not add more than one. -->
 
-See [[about-development-classes|Development Classes]] for the full walk-through of all
-six classes, their economics, and the shared development vocabulary.
+**Start here:** [[about-development-classes|Development Classes]]
+
+<!-- END-START-HERE-HIGHLIGHT -->
+
+## The Six Development Classes
+
+[[about-development-classes|Development Classes]] walks through all six: what each building type is, who it serves, and how it is sited. [[about-development-class-economics|Development Class Economics]] sets out the numbers behind each one. Four classes carry current, in-force definitions; two are planned and described in intended terms until their physical specifications are formally set.
+
+<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: the-six-development-classes -->
+- [[about-development-classes]] — The six development classes for Woodfine direct-hold deployments: Professional Centres, Suburban Office, Retail Select, Tech Industrial, Parking Structures, and Vertical Warehouses.
+- [[about-development-class-economics]] — The economic characteristics of Woodfine's direct-hold building classes: Professional Centres, Suburban Office, Tech Industrial, and Retail Select, with Parking Structures and Vertical Warehouses to follow.
+- [[class-professional-centres]] — Professional Centres are three-to-five-floor office buildings for professional service tenants, built to a fixed Prototype within 1.0 km of a power centre anchor.
+- [[class-suburban-office]] — Suburban Office extends the Professional Centres office product to a 2.0-kilometre radius where 1.0-kilometre siting is not feasible, serving the same tenant base in a fallback deployment format.
+- [[class-retail-select]] — Retail Select is the single-storey commercial-retail class that complements Woodfine's multi-storey office buildings within the 1.0-kilometre power centre radius.
+- [[class-tech-industrial]] — Tech Industrial is a single-format industrial-retail building — 25% retail storefront, 75% shop floor with grade-level panel van access — serving last-mile logistics and workshop tenants within the co-location footprint.
+- [[class-parking-structures]] — Parking Structures are planned for regional transit hubs and airport catchment zones, providing structured parking as a standalone direct-hold asset outside the power centre proximity model.
+- [[class-vertical-warehouses]] — Vertical Warehouses are planned as a purpose-built vertical-stacking industrial and logistics class for inter-city fringe locations, sited outside the power centre proximity model.
+<!-- END AUTO-GENERATED -->
+
+## Tenant Curation and Procurement
+
+Two further articles cover how a building fills and supplies itself. [[mix-of-use|Mix-of-Use]] is the tenant curation model that assembles a stable, five-category tenant ecosystem inside every Woodfine building. [[centralized-buying-program|The Centralized Buying Program]] aggregates materials purchasing across simultaneous projects to secure national pricing, with rebates flowing back to the Direct-Hold Solutions.
+
+<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: tenant-curation-and-procurement -->
+- [[mix-of-use]] — A strategic tenant curation model that assembles a professional ecosystem from five stability-anchored tenant categories within each Woodfine building.
+- [[centralized-buying-program]] — Procurement structure aggregating materials purchasing across simultaneous building projects to secure National Pricing, with rebates flowing to the Direct-Hold Solutions.
+<!-- END AUTO-GENERATED -->
+
+## Vocabulary
+
+[[woodfine-development-vocabulary|The Development Vocabulary]] collects the proprietary terms used across this category — Development Class, Prototype, Fixed Floor Plate, and Rollout Program — kept distinct from generic AEC industry usage.
+
+<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: vocabulary -->
+- [[woodfine-development-vocabulary]] — A curated glossary of proprietary Woodfine direct-hold vocabulary — Development Classes, Prototype, Fixed Floor Plate, Rollout Program, and related terms — distinct from generic AEC industry terminology.
+<!-- END AUTO-GENERATED -->
+
+## See also
+
+- [[building-design-index|How We Build]]

@@ -4,6 +4,7 @@ title: "Bóveda BIM anclada al activo"
 slug: asset-anchored-bim-vault
 language: es
 category: building-design
+index_group: bim-objects-and-the-digital-record
 type: topic
 content_type: topic
 status: active

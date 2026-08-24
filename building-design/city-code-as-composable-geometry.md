@@ -4,6 +4,7 @@ title: "City code as composable geometry"
 slug: city-code-as-composable-geometry
 language: en
 category: building-design
+index_group: bim-objects-and-the-digital-record
 type: topic
 content_type: topic
 status: active

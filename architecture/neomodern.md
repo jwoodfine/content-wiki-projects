@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Neomodern architecture"
 slug: neomodern
 category: architecture
+index_group: styles-and-movements-postmodern-to-contemporary
 type: topic
 content_type: topic
 quality: complete

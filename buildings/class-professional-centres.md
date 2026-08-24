@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Professional centres development class"
 slug: class-professional-centres
 category: buildings
+index_group: the-six-development-classes
 type: topic
 content_type: topic
 quality: complete

@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Clase de Desarrollo Estructuras de Estacionamiento"
 slug: class-parking-structures
 category: buildings
+index_group: the-six-development-classes
 type: topic
 content_type: topic
 quality: pre-build

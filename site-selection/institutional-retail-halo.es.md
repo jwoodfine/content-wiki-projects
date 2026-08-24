@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Halo Minorista Institucional"
 slug: institutional-retail-halo
 category: site-selection
+index_group: the-method
 type: topic
 content_type: topic
 quality: complete

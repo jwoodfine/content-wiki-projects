@@ -4,7 +4,7 @@ title: "España — Índice de mercados regionales"
 slug: atlas-spain
 category: markets
 type: topic
-index_group: europe-regional-markets
+index_group: country-breakouts
 content_type: topic
 quality: complete
 status: active

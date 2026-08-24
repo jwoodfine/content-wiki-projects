@@ -4,6 +4,7 @@ title: "Objetos BIM — Tres capas de composición"
 slug: bim-objects-three-layers
 language: es
 category: building-design
+index_group: bim-objects-and-the-digital-record
 type: topic
 content_type: topic
 status: active

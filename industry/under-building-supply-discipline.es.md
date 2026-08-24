@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Baja Construcción y Disciplina de Oferta"
 slug: under-building-supply-discipline
 category: industry
+index_group: woodfines-structural-policies
 type: topic
 content_type: topic
 quality: complete

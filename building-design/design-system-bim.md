@@ -4,6 +4,7 @@ title: "Building design system for the built environment"
 slug: design-system-bim
 language: en
 category: building-design
+index_group: design-philosophy-and-system
 type: topic
 content_type: topic
 status: active

@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Perfil Demográfico del Mosaico Óptimo"
 slug: optimum-mosaic-demographic-profiling
 category: urban
+index_group: demographic-and-parking-standards
 type: topic
 content_type: topic
 quality: complete

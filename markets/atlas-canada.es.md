@@ -4,7 +4,7 @@ title: "Canadá — Índice de mercados regionales"
 slug: atlas-canada
 category: markets
 type: topic
-index_group: north-america-regional-markets
+index_group: country-breakouts
 content_type: topic
 quality: complete
 status: active

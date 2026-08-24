@@ -4,6 +4,7 @@ title: "Objetos BIM — Qué son"
 slug: bim-objects-what-they-are
 language: es
 category: building-design
+index_group: bim-objects-and-the-digital-record
 type: topic
 content_type: topic
 status: active

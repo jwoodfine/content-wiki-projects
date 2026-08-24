@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Three-dimensional asset token"
 slug: 3d-asset-tokens
 category: building-design
+index_group: bim-objects-and-the-digital-record
 type: topic
 content_type: topic
 status: stub

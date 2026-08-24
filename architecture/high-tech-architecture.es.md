@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Arquitectura High-Tech"
 slug: high-tech-architecture
 category: architecture
+index_group: styles-and-movements-postmodern-to-contemporary
 type: topic
 content_type: topic
 quality: complete

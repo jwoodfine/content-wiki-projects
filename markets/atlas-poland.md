@@ -4,7 +4,7 @@ title: "Poland — Regional Market index"
 slug: atlas-poland
 category: markets
 type: topic
-index_group: europe-regional-markets
+index_group: country-breakouts
 content_type: topic
 quality: complete
 status: active

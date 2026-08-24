@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Built environment"
 slug: built-environment
 category: architecture
+index_group: the-discipline
 type: topic
 content_type: topic
 quality: complete

@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Estándar BOMA"
 slug: boma-standard
 category: building-design
+index_group: the-leasing-geometry
 type: topic
 content_type: topic
 quality: pre-build

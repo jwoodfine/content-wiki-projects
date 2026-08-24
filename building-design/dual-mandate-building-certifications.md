@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Dual-mandate building certifications"
 slug: dual-mandate-building-certifications
 category: building-design
+index_group: site-and-building-disciplines
 type: topic
 content_type: topic
 quality: complete

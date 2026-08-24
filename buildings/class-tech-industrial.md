@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Tech industrial development class"
 slug: class-tech-industrial
 category: buildings
+index_group: the-six-development-classes
 type: topic
 content_type: topic
 quality: complete

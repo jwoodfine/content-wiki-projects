@@ -4,6 +4,7 @@ title: "Property manager BIM gap"
 slug: property-manager-bim-gap
 language: en
 category: building-design
+index_group: design-philosophy-and-system
 type: topic
 content_type: topic
 status: active

@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Anclajes de Co-ubicación"
 slug: co-location-anchors
 category: site-selection
+index_group: anchors-and-tenants
 type: reference
 content_type: topic
 quality: complete

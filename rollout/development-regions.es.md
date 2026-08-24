@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Regiones de desarrollo"
 slug: development-regions
 category: rollout
+index_group: regions-and-tracking
 type: concept
 content_type: topic
 quality: complete

@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Arquitectura de Resolución de Nombres Regionales"
 slug: regional-name-resolution-architecture
 category: gis
+index_group: data-overview-and-sources
 type: topic
 content_type: topic
 quality: complete

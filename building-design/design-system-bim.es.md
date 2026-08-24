@@ -4,6 +4,7 @@ title: "Sistema de diseño de la construcción"
 slug: design-system-bim
 language: es
 category: building-design
+index_group: design-philosophy-and-system
 type: topic
 content_type: topic
 status: active

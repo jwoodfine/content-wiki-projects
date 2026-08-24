@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "BIM design philosophy"
 slug: bim-design-philosophy
 category: building-design
+index_group: design-philosophy-and-system
 type: topic
 content_type: topic
 status: active

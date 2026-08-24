@@ -4,6 +4,7 @@ title: "GIS como sustrato BIM"
 slug: gis-as-bim-substrate
 language: es
 category: building-design
+index_group: bim-objects-and-the-digital-record
 type: topic
 content_type: topic
 status: active

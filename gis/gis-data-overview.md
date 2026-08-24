@@ -4,6 +4,7 @@ title: "Data overview — location intelligence and GIS data layers"
 slug: gis-data-overview
 language: en
 category: gis
+index_group: data-overview-and-sources
 type: concept
 content_type: topic
 status: active

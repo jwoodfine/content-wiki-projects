@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Programa Centralizado de Compras"
 slug: centralized-buying-program
 category: buildings
+index_group: tenant-curation-and-procurement
 type: topic
 content_type: topic
 quality: complete

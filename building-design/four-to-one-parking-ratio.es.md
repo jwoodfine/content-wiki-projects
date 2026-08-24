@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Relación de estacionamiento 4:1"
 slug: four-to-one-parking-ratio
 category: building-design
+index_group: site-and-building-disciplines
 type: topic
 content_type: topic
 quality: pre-build

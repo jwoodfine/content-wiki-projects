@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Trade area data sources — population and spend"
 slug: trade-area-data-sources
 category: gis
+index_group: data-overview-and-sources
 type: topic
 content_type: topic
 quality: complete

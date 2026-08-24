@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Viajero Habitual (PKS)"
 slug: commuter
 category: urban
+index_group: co-location-archetypes
 type: concept
 content_type: topic
 quality: complete

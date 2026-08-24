@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Water management system"
 slug: water-management-system
 category: building-design
+index_group: site-and-building-disciplines
 type: topic
 content_type: topic
 quality: pre-build

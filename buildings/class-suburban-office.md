@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Suburban office development class"
 slug: class-suburban-office
 category: buildings
+index_group: the-six-development-classes
 type: topic
 content_type: topic
 quality: complete

@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Mexico programme"
 slug: mx-programme
 category: rollout
+index_group: country-programmes
 type: topic
 content_type: topic
 quality: pre-build

@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Vertical warehouses development class"
 slug: class-vertical-warehouses
 category: buildings
+index_group: the-six-development-classes
 type: topic
 content_type: topic
 quality: pre-build

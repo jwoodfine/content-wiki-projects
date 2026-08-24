@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Regional name resolution architecture"
 slug: regional-name-resolution-architecture
 category: gis
+index_group: data-overview-and-sources
 type: topic
 content_type: topic
 quality: complete

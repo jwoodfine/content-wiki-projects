@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "TOP600 Europe — Regional Market index"
 slug: atlas-top-600-europe
 category: markets
+index_group: screening-universe-and-rankings
 type: topic
 content_type: topic
 quality: stub

@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Pure-predicate catchment ranking methodology (V3)"
 slug: catchment-ranking-methodology-v3
 category: site-selection
+index_group: scoring-and-clustering
 type: topic
 content_type: topic
 quality: complete

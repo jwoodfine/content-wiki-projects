@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Under-building and supply discipline"
 slug: under-building-supply-discipline
 category: industry
+index_group: woodfines-structural-policies
 type: topic
 content_type: topic
 quality: complete

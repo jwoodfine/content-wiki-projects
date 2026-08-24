@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Regional Market demographic threshold"
 slug: regional-market-demographic-threshold
 category: urban
+index_group: demographic-and-parking-standards
 type: topic
 content_type: topic
 quality: complete

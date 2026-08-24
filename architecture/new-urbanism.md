@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "New urbanism"
 slug: new-urbanism
 category: architecture
+index_group: style-and-place
 type: topic
 content_type: topic
 quality: complete

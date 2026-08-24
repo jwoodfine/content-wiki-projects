@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Retail co-location methodology"
 slug: co-location-methodology
 category: site-selection
+index_group: the-method
 type: topic
 content_type: topic
 quality: complete

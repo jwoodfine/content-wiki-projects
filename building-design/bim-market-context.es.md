@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Contexto del mercado BIM y marco regulatorio"
 slug: bim-market-context
 category: building-design
+index_group: design-philosophy-and-system
 type: topic
 content_type: topic
 status: active

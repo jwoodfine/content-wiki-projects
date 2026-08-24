@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Co-location cluster formation"
 slug: co-location-cluster-formation
 category: site-selection
+index_group: scoring-and-clustering
 type: topic
 content_type: topic
 quality: stub

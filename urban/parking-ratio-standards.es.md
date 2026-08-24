@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Estándares de Proporción de Estacionamiento para Centros Profesionales"
 slug: parking-ratio-standards
 category: urban
+index_group: demographic-and-parking-standards
 type: topic
 content_type: topic
 quality: complete

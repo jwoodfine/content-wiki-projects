@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Índice de Niveles de Co-ubicación: América del Norte"
 slug: atlas-tier-index-north-america
 category: markets
+index_group: screening-universe-and-rankings
 type: topic
 content_type: topic
 quality: complete

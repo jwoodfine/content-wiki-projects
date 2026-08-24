@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Geographic co-location methodology"
 slug: geographic-co-location-methodology
 category: site-selection
+index_group: scoring-and-clustering
 type: topic
 content_type: topic
 quality: complete

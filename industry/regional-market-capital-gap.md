@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Regional Market capital gap"
 slug: regional-market-capital-gap
 category: industry
+index_group: woodfines-structural-policies
 type: topic
 content_type: topic
 quality: complete

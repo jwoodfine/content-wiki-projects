@@ -4,6 +4,7 @@ title: Salto tecnológico del BIM de archivo plano
 slug: flat-file-bim-leapfrog
 language: es
 category: building-design
+index_group: design-philosophy-and-system
 type: topic
 content_type: topic
 status: active

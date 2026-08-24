@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Índice de Co-ubicación: Estados Unidos"
 slug: atlas-co-location-index-us
 category: markets
+index_group: co-location-indices-by-country
 type: topic
 content_type: topic
 quality: partial

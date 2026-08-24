@@ -7,17 +7,45 @@ type: topic
 content_type: topic
 quality: complete
 short_description: "Where building is planned next: the intended country-by-country programme, its planned development regions, and the registers that track candidate sites — targets that may change."
+index_type: thematic
+index_scope: rollout
 status: active
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-03
+last_edited: 2026-08-24
 editor: pointsav-engineering
 paired_with: _index.es.md
 ---
 
-The Rollout Program covers where building is planned next: the intended,
-country-by-country programme across Canada, the United States, Spain, and Mexico, and
-the development regions inside each country where sites are sought. Articles in this
-category also cover the registers that track candidate sites through the pipeline.
-Locations, counts, and timing described here are targets and may change as the
-programme develops.
+The Rollout Program covers where building is planned next: the intended, country-by-country programme, and the registers that track candidate sites through the pipeline. Locations, counts, and timing described here are targets and may change as the programme develops.
+
+<!-- START-HERE-HIGHLIGHT: engine reads this block to render the single "start here" card (reuses the existing cluster-card--start-here component). Do not add more than one. -->
+
+**Start here:** [[development-regions|Development Regions]]
+
+<!-- END-START-HERE-HIGHLIGHT -->
+
+## Country Programmes
+
+[[ca-programme|Canada]], [[us-programme|the United States]], [[es-programme|Spain]], and [[mx-programme|Mexico]] each carry an intended, country-by-country programme article. Every one is currently at the planned stage: development regions and a site register are to be defined and tracked as each country's programme matures.
+
+<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: country-programmes -->
+- [[ca-programme]] — The intended country-by-country rollout for Canada: development regions and a site register to be defined and tracked as the programme matures. Status: planned.
+- [[us-programme]] — The intended country-by-country rollout for the United States: development regions and a site register to be defined and tracked as the programme matures. Status: planned.
+- [[es-programme]] — The intended country-by-country rollout for Spain: development regions and a site register to be defined and tracked as the programme matures. Status: planned.
+- [[mx-programme]] — The intended country-by-country rollout for Mexico: development regions and a site register to be defined and tracked as the programme matures. Status: planned.
+<!-- END AUTO-GENERATED -->
+
+## Regions and Tracking
+
+[[development-regions|Development Regions]] defines the geographic and jurisdictional zones that segment market data, regulatory context, and site-selection scope. [[about-development-site-monitoring-register|The Development Site Monitoring Register]] is the passive tracking register that holds qualified sites removed from the active pipeline — for adjacent land unavailability, for example — kept scored with documented re-entry criteria.
+
+<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: regions-and-tracking -->
+- [[development-regions]] — Geographic and jurisdictional zones segmenting market data, regulatory context, and site-selection scope for co-location evaluation and compliance.
+- [[about-development-site-monitoring-register]] — Passive tracking register holding qualified co-location sites removed from the active pipeline for adjacent land unavailability, kept scored with documented re-entry criteria.
+<!-- END AUTO-GENERATED -->
+
+## See also
+
+- [[site-selection-index|How We Choose Sites]]
+- [[markets|The Markets]]

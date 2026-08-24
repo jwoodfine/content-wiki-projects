@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Zoning acquisition rules"
 slug: zoning-acquisition-rules
 category: site-selection
+index_group: before-land-is-bought
 type: reference
 content_type: topic
 quality: complete

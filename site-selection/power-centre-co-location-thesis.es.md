@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Tesis de Co-Ubicación en Centros Comerciales"
 slug: power-centre-co-location-thesis
 category: site-selection
+index_group: the-method
 type: topic
 content_type: topic
 quality: complete

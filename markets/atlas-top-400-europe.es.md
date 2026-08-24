@@ -6,7 +6,7 @@ language: es
 language_protocol: TRANSLATE-ES
 category: markets
 type: reference
-index_group: europe-regional-markets
+index_group: screening-universe-and-rankings
 content_type: topic
 quality: complete
 status: active

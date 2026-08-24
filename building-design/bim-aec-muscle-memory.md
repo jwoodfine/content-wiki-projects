@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "AEC muscle memory and interface patterns"
 slug: bim-aec-muscle-memory
 category: building-design
+index_group: design-philosophy-and-system
 type: topic
 content_type: topic
 status: active

@@ -4,6 +4,7 @@ title: "Location intelligence platform — strategy and architecture"
 slug: location-intelligence-strategy
 language: en
 category: site-selection
+index_group: the-method
 type: topic
 content_type: topic
 status: active

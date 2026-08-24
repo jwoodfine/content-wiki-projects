@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Jerarquía de Objetivos de Co-Ubicación"
 slug: co-location-target-hierarchy
 category: site-selection
+index_group: anchors-and-tenants
 type: topic
 content_type: topic
 quality: complete

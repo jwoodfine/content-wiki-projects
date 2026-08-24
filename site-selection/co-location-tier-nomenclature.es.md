@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Nomenclatura de Niveles de Co-localización"
 slug: co-location-tier-nomenclature
 category: site-selection
+index_group: anchors-and-tenants
 type: topic
 content_type: topic
 quality: complete

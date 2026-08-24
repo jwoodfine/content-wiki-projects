@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Metodología de captación O-D — áreas de influencia primaria y secundaria"
 slug: od-catchment-methodology
 category: site-selection
+index_group: scoring-and-clustering
 type: topic
 content_type: topic
 quality: complete

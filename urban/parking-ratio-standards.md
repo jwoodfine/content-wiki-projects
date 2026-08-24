@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Parking ratio standards for professional centres"
 slug: parking-ratio-standards
 category: urban
+index_group: demographic-and-parking-standards
 type: topic
 content_type: topic
 quality: complete

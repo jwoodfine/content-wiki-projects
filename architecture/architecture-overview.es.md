@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Arquitectura"
 slug: architecture-overview
 category: architecture
+index_group: the-discipline
 type: topic
 content_type: topic
 quality: complete

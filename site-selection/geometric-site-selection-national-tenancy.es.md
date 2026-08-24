@@ -4,6 +4,7 @@ title: "Composición de la co-localización de anclas minoristas como indicador 
 slug: geometric-site-selection-national-tenancy
 language: es
 category: site-selection
+index_group: scoring-and-clustering
 type: research
 content_type: research
 status: active

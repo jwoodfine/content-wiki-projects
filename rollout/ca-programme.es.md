@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Programa de Canadá"
 slug: ca-programme
 category: rollout
+index_group: country-programmes
 type: topic
 content_type: topic
 quality: pre-build

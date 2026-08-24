@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Retail centres (PRO)"
 slug: retail-centres
 category: site-selection
+index_group: anchors-and-tenants
 type: concept
 content_type: topic
 quality: complete

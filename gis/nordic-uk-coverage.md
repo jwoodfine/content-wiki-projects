@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Nordic and UK coverage expansion"
 slug: nordic-uk-coverage
 category: gis
+index_group: coverage-expansion
 type: topic
 content_type: topic
 quality: complete

@@ -4,6 +4,7 @@ title: "BIM objects — substrate"
 slug: bim-objects-substrate
 language: en
 category: building-design
+index_group: bim-objects-and-the-digital-record
 type: topic
 content_type: topic
 status: active

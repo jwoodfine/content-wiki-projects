@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Co-location tier nomenclature"
 slug: co-location-tier-nomenclature
 category: site-selection
+index_group: anchors-and-tenants
 type: topic
 content_type: topic
 quality: complete

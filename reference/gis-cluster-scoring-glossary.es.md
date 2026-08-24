@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Glosario de Puntuación de Clústeres GIS"
 slug: gis-cluster-scoring-glossary
 category: reference
+index_group: glossaries
 type: topic
 content_type: topic
 quality: complete

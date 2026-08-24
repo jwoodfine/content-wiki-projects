@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Estrategia de Co-localización"
 slug: co-location-strategy
 category: site-selection
+index_group: the-method
 type: topic
 content_type: topic
 quality: pre-build

@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Taxonomía de Familias de Marcas Minoristas"
 slug: retail-brand-family-taxonomy
 category: site-selection
+index_group: anchors-and-tenants
 type: topic
 content_type: topic
 quality: complete

@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Retail brand family taxonomy"
 slug: retail-brand-family-taxonomy
 category: site-selection
+index_group: anchors-and-tenants
 type: topic
 content_type: topic
 quality: complete

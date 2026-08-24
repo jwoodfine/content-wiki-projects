@@ -7,17 +7,45 @@ type: topic
 content_type: topic
 quality: complete
 short_description: "Dónde se planea construir a continuación: el programa previsto país por país, sus regiones de desarrollo planeadas y los registros que siguen los sitios candidatos — objetivos que pueden cambiar."
+index_type: thematic
+index_scope: rollout
 status: active
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-07-03
+last_edited: 2026-08-24
 editor: pointsav-engineering
 paired_with: rollout/_index.md
 ---
 
-El Programa de Expansión describe dónde se planea construir a continuación: el programa
-previsto, país por país, en Canadá, Estados Unidos, España y México, y las regiones de
-desarrollo dentro de cada país donde se buscan sitios. Los artículos de esta categoría
-también cubren los registros que siguen los sitios candidatos a través del proceso. Las
-ubicaciones, cifras y plazos descritos aquí son objetivos y pueden cambiar a medida que
-el programa avanza.
+El Programa de Expansión abarca dónde se planea construir a continuación: el programa previsto, país por país, y los registros que siguen a los sitios candidatos a través del proceso. Las ubicaciones, cifras y plazos descritos aquí son objetivos y pueden cambiar a medida que el programa avanza.
+
+<!-- START-HERE-HIGHLIGHT: engine reads this block to render the single "start here" card (reuses the existing cluster-card--start-here component). Do not add more than one. -->
+
+**Comience aquí:** [[development-regions|Regiones de Desarrollo]]
+
+<!-- END-START-HERE-HIGHLIGHT -->
+
+## Programas por País
+
+[[ca-programme|Canadá]], [[us-programme|Estados Unidos]], [[es-programme|España]] y [[mx-programme|México]] tienen, cada uno, un artículo de programa previsto, país por país. Los cuatro están actualmente en etapa planeada: las regiones de desarrollo y un registro de sitios se definirán y seguirán a medida que madure el programa de cada país.
+
+<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: country-programmes -->
+- [[ca-programme]] — El programa previsto de expansión país por país para Canadá: regiones de desarrollo y un registro de sitios por definir y dar seguimiento a medida que el programa avanza. Estado: planificado.
+- [[us-programme]] — El programa previsto de expansión país por país para Estados Unidos: regiones de desarrollo y un registro de sitios por definir y dar seguimiento a medida que el programa avanza. Estado: planificado.
+- [[es-programme]] — El programa previsto de expansión país por país para España: regiones de desarrollo y un registro de sitios por definir y dar seguimiento a medida que el programa avanza. Estado: planificado.
+- [[mx-programme]] — El programa previsto de expansión país por país para México: regiones de desarrollo y un registro de sitios por definir y dar seguimiento a medida que el programa avanza. Estado: planificado.
+<!-- END AUTO-GENERATED -->
+
+## Regiones y Seguimiento
+
+[[development-regions|Las Regiones de Desarrollo]] definen las zonas geográficas y jurisdiccionales que segmentan los datos de mercado, el contexto regulatorio y el alcance de la selección de sitios. [[about-development-site-monitoring-register|El Registro de Monitoreo de Sitios de Desarrollo]] es el registro de seguimiento pasivo que conserva los sitios calificados retirados del proceso activo — por indisponibilidad de terreno adyacente, por ejemplo — manteniéndolos puntuados con criterios documentados de reingreso.
+
+<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: regions-and-tracking -->
+- [[development-regions]] — Zonas geográficas y jurisdiccionales que segmentan datos de mercado, contexto regulatorio y alcance de selección de sitios para la evaluación de coubicación y cumplimiento.
+- [[about-development-site-monitoring-register]] — Registro de seguimiento pasivo que conserva sitios de co-ubicación calificados retirados del pipeline activo por falta de terreno adyacente, puntuados y con criterios de re-entrada.
+<!-- END AUTO-GENERATED -->
+
+## Véase también
+
+- [[site-selection-index|Cómo Elegimos los Sitios]]
+- [[markets|Los Mercados]]

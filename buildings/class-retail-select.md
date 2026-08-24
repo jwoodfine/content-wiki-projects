@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Retail select development class"
 slug: class-retail-select
 category: buildings
+index_group: the-six-development-classes
 type: topic
 content_type: topic
 quality: complete

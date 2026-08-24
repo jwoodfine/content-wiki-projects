@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Co-location index: Canada"
 slug: atlas-co-location-index-canada
 category: markets
+index_group: co-location-indices-by-country
 type: topic
 content_type: topic
 quality: complete

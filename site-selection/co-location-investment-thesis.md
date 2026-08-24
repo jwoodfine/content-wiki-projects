@@ -4,6 +4,7 @@ title: "Co-location investment thesis"
 slug: co-location-investment-thesis
 short_description: "The investment thesis that commercial nodes where institutional-grade retailers converge within defined catchment radii present objectively verifiable, superior site characteristics."
 category: site-selection
+index_group: the-method
 type: reference
 content_type: topic
 quality: complete

@@ -4,6 +4,7 @@ title: "Protocolo de Evaluación de Activos"
 slug: asset-evaluation-protocol
 short_description: "Cómo la matriz de clasificación por co-ubicación orienta la selección de activos comerciales de Woodfine: la puntuación por niveles como criterio de entrada, el análisis GIS independiente como método de verificación."
 category: site-selection
+index_group: before-land-is-bought
 type: reference
 content_type: topic
 quality: complete

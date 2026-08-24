@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Power centre co-location thesis"
 slug: power-centre-co-location-thesis
 category: site-selection
+index_group: the-method
 type: topic
 content_type: topic
 quality: complete

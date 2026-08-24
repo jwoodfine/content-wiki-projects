@@ -4,6 +4,7 @@ title: "Brecha BIM del administrador de propiedades"
 slug: property-manager-bim-gap
 language: es
 category: building-design
+index_group: design-philosophy-and-system
 type: topic
 content_type: topic
 status: active

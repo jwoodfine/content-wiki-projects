@@ -6,18 +6,28 @@ category: industry
 type: topic
 content_type: topic
 quality: complete
-short_description: "How the market works: rents and building income, values and capitalization rates, market cycles, interest rates, and the structure of the private market."
+short_description: "Two of Woodfine's own structural policies in the Regional Markets: the capital gap the Direct-Hold Solutions are designed to address, and the deliberate under-building discipline that preserves pricing power."
+index_type: thematic
+index_scope: industry
 status: active
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-03
+last_edited: 2026-08-24
 editor: pointsav-engineering
 paired_with: _index.es.md
 ---
 
-The Commercial Real Estate Market explains how the market works: rents and building
-income, values and capitalization rates, the cycles that move commercial property, the
-transmission of interest rates into asset values, and the structure of the private real
-estate market relative to public alternatives. Articles in this category give the
-market context behind the buildings and the places described elsewhere in this
-knowledge base.
+This category does not cover general commercial real estate market economics — no rents and income, no capitalization rates, no interest-rate cycles. What remains are two of Woodfine's own structural policies in the Regional Markets, each responding to a real market condition rather than commenting on the market generally.
+
+## Woodfine's Structural Policies
+
+[[regional-market-capital-gap|The Regional Market Capital Gap]] documents a structural shortfall in construction and take-out financing in Regional Markets, despite Metro-comparable incomes — the gap Woodfine's Direct-Hold Solutions are designed to address. [[under-building-supply-discipline|Under-Building and Supply Discipline]] is Woodfine's deliberate policy of developing less leasable area than identified Regional Market demand, producing full occupancy, documented waiting lists, and preserved pricing power.
+
+<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: woodfines-structural-policies -->
+- [[regional-market-capital-gap]] — Structural shortfall in construction and take-out financing in Regional Markets, despite Metro-comparable incomes, that the Direct-Hold Solutions are designed to address.
+- [[under-building-supply-discipline]] — Deliberate policy of developing less leasable area than identified Regional Market demand, producing full occupancy, documented waiting lists, and preserved pricing power.
+<!-- END AUTO-GENERATED -->
+
+## See also
+
+- [[markets|The Markets]]

@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Registro de Monitoreo de Sitios de Desarrollo"
 slug: about-development-site-monitoring-register
 category: rollout
+index_group: regions-and-tracking
 type: topic
 content_type: topic
 quality: complete

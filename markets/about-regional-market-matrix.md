@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Regional Market matrix"
 slug: about-regional-market-matrix
 category: markets
+index_group: superseded-and-retired
 type: reference
 content_type: topic
 quality: complete

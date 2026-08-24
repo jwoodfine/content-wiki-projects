@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Neoclassical architecture"
 slug: neoclassical-architecture
 category: architecture
+index_group: styles-and-movements-classical-to-modern
 type: topic
 content_type: topic
 quality: complete

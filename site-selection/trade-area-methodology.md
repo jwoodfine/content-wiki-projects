@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "Trade-area methodology"
 slug: trade-area-methodology
 category: site-selection
+index_group: scoring-and-clustering
 type: topic
 content_type: topic
 quality: complete

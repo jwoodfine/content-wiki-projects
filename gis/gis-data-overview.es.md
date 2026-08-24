@@ -4,6 +4,7 @@ title: "Descripción General de Datos — Capas de Inteligencia de Ubicación y 
 slug: gis-data-overview
 language: es
 category: gis
+index_group: data-overview-and-sources
 type: concept
 content_type: topic
 status: active

@@ -4,6 +4,7 @@ title: "Flat-file BIM leapfrog"
 slug: flat-file-bim-leapfrog
 language: en
 category: building-design
+index_group: design-philosophy-and-system
 type: topic
 content_type: topic
 status: active

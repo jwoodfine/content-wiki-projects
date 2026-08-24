@@ -5,6 +5,7 @@ title: "Regional Markets intelligence system"
 language: en
 language_protocol: PROSE-TOPIC
 category: markets
+index_group: screening-universe-and-rankings
 type: reference
 content_type: topic
 quality: complete

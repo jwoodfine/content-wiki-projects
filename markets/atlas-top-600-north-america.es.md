@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 title: "TOP600 Norteamérica — Índice de mercados regionales"
 slug: atlas-top-600-north-america
 category: markets
+index_group: screening-universe-and-rankings
 type: topic
 content_type: topic
 quality: stub
