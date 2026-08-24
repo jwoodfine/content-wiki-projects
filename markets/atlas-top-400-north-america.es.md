@@ -14,7 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Lista clasificada de los 400 Mercados Regionales suburbanos de mayor puntuación en América del Norte. Posición 1: Plano, TX (suburbio de Dallas, puntuación 25,5)."
 paired_with: markets/atlas-top-400-north-america.md
-last_edited: 2026-07-16
+last_edited: 2026-08-24
 editor: editorial
 ---
 
@@ -511,8 +511,8 @@ Los veinticinco Mercados Regionales de América del Norte mejor clasificados se 
 
 | País | Cantidad | Notas |
 |------|----------|-------|
-| [[atlas-united-states\|Estados Unidos]] | 369 | Suburbios de todas las principales áreas metropolitanas de EE. UU. |
-| [[atlas-canada\|Canadá]] | 23 | Suburbios de Toronto (8), Vancouver (4), Calgary (2) y otras |
+| [[atlas-united-states|Estados Unidos]] | 369 | Suburbios de todas las principales áreas metropolitanas de EE. UU. |
+| [[atlas-canada|Canadá]] | 23 | Suburbios de Toronto (8), Vancouver (4), Calgary (2) y otras |
 | México | 8 | Suburbios de Ciudad de México, Guadalajara y Monterrey |
 
 ## Fuentes de Datos y Metodología

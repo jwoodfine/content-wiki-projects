@@ -12,7 +12,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
 keynote: false
-last_edited: 2026-07-16
+last_edited: 2026-08-24
 editor: editorial
 short_description: "Índice clasificado de las 16 entradas polacas en la lista Top 400 Mercados Regionales — Europa, filtrado de la tabla continental con agrupaciones por referencia metropolitana."
 paired_with: markets/atlas-poland.md
@@ -32,7 +32,7 @@ Bielsko-Biała (suburbio de Katowice, puntuación 12,0) es la entrada de mayor p
 
 | Posición | Mercado | Suburbio de | km | N1 | N2 | N3 | Cívica | Puntuación |
 |---|---|---|---|---|---|---|---|---|
-| 6 | [[pl-bielsko-biala\|Bielsko-Biała]] | Katowice | 48 | 2 | 0 | 0 | Sí | 12,0 |
+| 6 | [[pl-bielsko-biala|Bielsko-Biała]] | Katowice | 48 | 2 | 0 | 0 | Sí | 12,0 |
 | 8 | Radom | Kielce | 69 | 1 | 1 | 1 | Sí | 10,5 |
 | 25 | Toruń | Bydgoszcz | 45 | 1 | 1 | 0 | Sí | 9,0 |
 | 26 | Częstochowa | Katowice | — | 1 | 1 | 0 | — | 9,0 |

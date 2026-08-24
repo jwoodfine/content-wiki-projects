@@ -14,7 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Lista clasificada de 399 Mercados Regionales distintos verificados en Europa a lo largo de 400 puestos clasificados (el puesto 285 está vacante en espera de una entrada número 400 genuina), bajo la metodología suburbano-regional corregida. Posición 1: Chemnitz (suburbio de Dresden, 64 km, puntuación 18,0)."
 paired_with: markets/atlas-top-400-europe.md
-last_edited: 2026-07-16
+last_edited: 2026-08-24
 editor: editorial
 es_status: complete
 ---
@@ -523,13 +523,13 @@ mercados distintos verificados en los 399 puestos ocupados restantes.
 
 | País | Cantidad | Notas |
 |------|----------|-------|
-| [[atlas-germany\|Alemania (DE)]] | 124 | Sistema urbano policéntrico; corredores del Rin-Ruhr, Rin-Neckar y Sajonia-Turingia dominantes |
-| [[atlas-france\|Francia (FR)]] | 102 | Île-de-France y anillos de ciudades provinciales; la metrópoli de Le Havre genera notable densidad de clústeres |
-| [[atlas-united-kingdom\|Reino Unido (GB)]] | 81 | Cinturón de conmutación de Londres, Midlands y Cinturón Central escocés |
-| [[atlas-spain\|España (ES)]] | 22 | Anillos suburbanos de Madrid y Barcelona; cobertura de OSM más escasa fuera de estos núcleos |
-| [[atlas-italy\|Italia (IT)]] | 21 | Municipios suburbanos del Valle del Po; anillos de Turín y Milán |
-| [[atlas-poland\|Polonia (PL)]] | 16 | Suburbios de la Región Industrial de la Alta Silesia; anillos de Katowice y Łódź |
-| [[atlas-netherlands\|Países Bajos (NL)]] | 14 | Anillo suburbano exterior de la Randstad; municipios de conmutación de Róterdam y Ámsterdam |
+| [[atlas-germany|Alemania (DE)]] | 124 | Sistema urbano policéntrico; corredores del Rin-Ruhr, Rin-Neckar y Sajonia-Turingia dominantes |
+| [[atlas-france|Francia (FR)]] | 102 | Île-de-France y anillos de ciudades provinciales; la metrópoli de Le Havre genera notable densidad de clústeres |
+| [[atlas-united-kingdom|Reino Unido (GB)]] | 81 | Cinturón de conmutación de Londres, Midlands y Cinturón Central escocés |
+| [[atlas-spain|España (ES)]] | 22 | Anillos suburbanos de Madrid y Barcelona; cobertura de OSM más escasa fuera de estos núcleos |
+| [[atlas-italy|Italia (IT)]] | 21 | Municipios suburbanos del Valle del Po; anillos de Turín y Milán |
+| [[atlas-poland|Polonia (PL)]] | 16 | Suburbios de la Región Industrial de la Alta Silesia; anillos de Katowice y Łódź |
+| [[atlas-netherlands|Países Bajos (NL)]] | 14 | Anillo suburbano exterior de la Randstad; municipios de conmutación de Róterdam y Ámsterdam |
 | Austria (AT) | 7 | Anillo suburbano de Viena |
 | Dinamarca (DK) | 5 | Municipios suburbanos de Copenhague y Aarhus |
 | Suecia (SE) | 4 | Anillo suburbano de Estocolmo |

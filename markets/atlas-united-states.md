@@ -12,7 +12,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 keynote: false
-last_edited: 2026-07-16
+last_edited: 2026-08-24
 editor: woodfine-editorial
 short_description: "Ranked index of US regional commercial real estate markets meeting co-location screening thresholds across all major census regions."
 paired_with: markets/atlas-united-states.es.md
@@ -84,7 +84,7 @@ same 400-market ranking).
 |---|---|---|---|---|---|---|---|---|
 | 1 | [[us-tx-plano|Plano, TX]] | Dallas | 28 | 3 | 2 | 1 | Yes | 25.5 |
 | 2 | Mesa, AZ | Phoenix | 31 | 2 | 2 | 3 | Yes | 22.5 |
-| 3 | [[us-tx-frisco\|Frisco, TX]] | Dallas | 44 | 3 | 1 | 0 | Yes | 21.0 |
+| 3 | [[us-tx-frisco|Frisco, TX]] | Dallas | 44 | 3 | 1 | 0 | Yes | 21.0 |
 | 5 | Santa Clarita, CA | Los Angeles | 48 | 2 | 2 | 0 | Yes | 18.0 |
 | 6 | Nashua, NH | Boston | 56 | 2 | 2 | 0 | Yes | 18.0 |
 | 7 | Warwick, RI | Providence | 19 | 2 | 1 | 1 | Yes | 16.5 |
@@ -132,7 +132,7 @@ own correction, not silently dropped or silently kept without comment.
 | 32 | Overland Park, KS | Kansas City | — | 1 | 1 | 1 | — | 10.5 |
 | 33 | Grand Prairie, TX | Dallas | — | 1 | 1 | 1 | — | 10.5 |
 | 34 | Moorestown-Lenola, NJ | Philadelphia | — | 1 | 0 | 2 | — | 9.0 |
-| 35 | [[us-az-tempe\|Tempe, AZ]] | Phoenix | — | 1 | 0 | 2 | — | 9.0 |
+| 35 | [[us-az-tempe|Tempe, AZ]] | Phoenix | — | 1 | 0 | 2 | — | 9.0 |
 | 37 | Brandon, FL | Tampa | — | 1 | 1 | 0 | — | 9.0 |
 | 38 | Huntington Beach, CA | Los Angeles | — | 1 | 1 | 0 | — | 9.0 |
 | 39 | Anaheim, CA | Los Angeles | — | 1 | 1 | 0 | — | 9.0 |
@@ -201,7 +201,7 @@ own correction, not silently dropped or silently kept without comment.
 | 109 | Owasso, OK | Tulsa | — | 1 | 0 | 0 | — | 6.0 |
 | 110 | Stratford Downtown, CT | New Haven | — | 1 | 0 | 0 | — | 6.0 |
 | 111 | East York, PA | Lancaster | — | 1 | 0 | 0 | — | 6.0 |
-| 112 | [[us-ca-torrance\|Torrance, CA]] | Los Angeles | — | 1 | 0 | 0 | — | 6.0 |
+| 112 | [[us-ca-torrance|Torrance, CA]] | Los Angeles | — | 1 | 0 | 0 | — | 6.0 |
 | 113 | Lincoln Park, NY | Albany | — | 1 | 0 | 0 | — | 6.0 |
 | 114 | Bayou Cane, LA | New Orleans | — | 1 | 0 | 0 | — | 6.0 |
 | 115 | San Leandro, CA | San Francisco | — | 1 | 0 | 0 | — | 6.0 |
@@ -367,7 +367,7 @@ own correction, not silently dropped or silently kept without comment.
 | 275 | Issaquah, WA | Seattle | — | 1 | 0 | 0 | — | 6.0 |
 | 276 | Mayfield Heights, OH | Cleveland | — | 1 | 0 | 0 | — | 6.0 |
 | 277 | Oaks, PA | Wilmington DE | — | 1 | 0 | 0 | — | 6.0 |
-| 278 | [[us-ut-provo-orem\|Provo, UT]] | Salt Lake City | — | 1 | 0 | 0 | — | 6.0 |
+| 278 | [[us-ut-provo-orem|Provo, UT]] | Salt Lake City | — | 1 | 0 | 0 | — | 6.0 |
 | 279 | Silverdale, WA | Seattle | — | 1 | 0 | 0 | — | 6.0 |
 | 280 | Owings Mills, MD | Baltimore | — | 1 | 0 | 0 | — | 6.0 |
 | 281 | Whippany, NJ | New York | — | 1 | 0 | 0 | — | 6.0 |
@@ -411,7 +411,7 @@ own correction, not silently dropped or silently kept without comment.
 | 330 | Carson, CA | Los Angeles | — | 0 | 1 | 1 | — | 4.5 |
 | 331 | Winter Haven, FL | Orlando | — | 0 | 1 | 1 | — | 4.5 |
 | 332 | Las Cruces, NM | El Paso | — | 0 | 1 | 1 | — | 4.5 |
-| 333 | [[us-la-kenner\|Kenner, LA]] | New Orleans | — | 0 | 1 | 1 | — | 4.5 |
+| 333 | [[us-la-kenner|Kenner, LA]] | New Orleans | — | 0 | 1 | 1 | — | 4.5 |
 | 334 | Delray Beach, FL | Miami | — | 0 | 1 | 1 | — | 4.5 |
 | 335 | Covina, CA | Los Angeles | — | 0 | 1 | 1 | — | 4.5 |
 | 336 | Mentor, OH | Cleveland | — | 0 | 1 | 1 | — | 4.5 |
@@ -447,7 +447,7 @@ own correction, not silently dropped or silently kept without comment.
 | 369 | Woodland, CA | Sacramento | — | 1 | 0 | 0 | — | 4.0 |
 | 370 | Sequim, WA | Seattle | — | 1 | 0 | 0 | — | 4.0 |
 | 371 | Bel Air South, MD | Baltimore | — | 1 | 0 | 0 | — | 4.0 |
-| 372 | [[us-mn-eagan\|Eagan, MN]] | Minneapolis | — | 1 | 0 | 0 | — | 4.0 |
+| 372 | [[us-mn-eagan|Eagan, MN]] | Minneapolis | — | 1 | 0 | 0 | — | 4.0 |
 | 373 | Bradenton, FL | Tampa | — | 1 | 0 | 0 | — | 4.0 |
 | 374 | Madison Park, NJ | New York | — | 1 | 0 | 0 | — | 4.0 |
 | 375 | Mooresville, NC | Charlotte | — | 1 | 0 | 0 | — | 4.0 |

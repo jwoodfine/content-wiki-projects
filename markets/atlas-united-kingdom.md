@@ -12,7 +12,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 keynote: false
-last_edited: 2026-07-16
+last_edited: 2026-08-24
 editor: woodfine-editorial
 short_description: "Ranked index of UK regional commercial real estate markets meeting co-location screening thresholds outside London and the South East."
 paired_with: markets/atlas-united-kingdom.es.md
@@ -97,7 +97,7 @@ settlement name.
 | 58 | Gloucester | Bristol | — | 1 | 0 | 0 | — | 6.0 |
 | 59 | Rushmoor | Reading | — | 1 | 0 | 0 | — | 6.0 |
 | 265 | Stevenage | Luton | — | 0 | 1 | 2 | — | 6.0 |
-| 266 | [[gb-eng-york\|York]] | Leeds | — | 0 | 1 | 2 | — | 6.0 |
+| 266 | [[gb-eng-york|York]] | Leeds | — | 0 | 1 | 2 | — | 6.0 |
 | 267 | Redbridge | London | — | 0 | 2 | 0 | — | 6.0 |
 | 268 | Wakefield | Leeds | — | 0 | 2 | 0 | — | 6.0 |
 | 269 | Ipswich | Cambridge | — | 0 | 2 | 0 | — | 6.0 |
@@ -118,7 +118,7 @@ settlement name.
 | 291 | Sefton | Wigan | — | 0 | 1 | 1 | — | 4.5 |
 | 292 | Havant | Southampton | — | 0 | 1 | 1 | — | 4.5 |
 | 293 | Stroud | Bristol | — | 0 | 1 | 1 | — | 4.5 |
-| 294 | [[gb-eng-warrington\|Warrington]] | Wigan | — | 0 | 1 | 1 | — | 4.5 |
+| 294 | [[gb-eng-warrington|Warrington]] | Wigan | — | 0 | 1 | 1 | — | 4.5 |
 | 295 | Newport | Cardiff | — | 0 | 1 | 1 | — | 4.5 |
 | 296 | Saint Edmundsbury | Cambridge | — | 0 | 1 | 1 | — | 4.5 |
 | 297 | Colchester | Cambridge | — | 0 | 1 | 1 | — | 4.5 |
@@ -139,11 +139,11 @@ settlement name.
 | 365 | Spelthorne | London | — | 0 | 0 | 2 | — | 3.0 |
 | 366 | Bexley | London | — | 0 | 0 | 2 | — | 3.0 |
 | 367 | Wirral | Wigan | — | 0 | 0 | 2 | — | 3.0 |
-| 368 | [[gb-eng-cherwell\|Cherwell]] | Oxford | — | 0 | 0 | 2 | — | 3.0 |
+| 368 | [[gb-eng-cherwell|Cherwell]] | Oxford | — | 0 | 0 | 2 | — | 3.0 |
 | 369 | Kingston upon Hull | Leeds | — | 0 | 0 | 2 | — | 3.0 |
 | 370 | Medway | London | — | 0 | 0 | 2 | — | 3.0 |
 | 371 | Arun | Brighton | — | 0 | 0 | 2 | — | 3.0 |
-| 372 | [[gb-eng-northampton\|Northampton]] | Coventry | — | 0 | 0 | 2 | — | 3.0 |
+| 372 | [[gb-eng-northampton|Northampton]] | Coventry | — | 0 | 0 | 2 | — | 3.0 |
 | 373 | Eastbourne | Brighton | — | 0 | 0 | 2 | — | 3.0 |
 | 374 | Bedford | Luton | — | 0 | 0 | 2 | — | 3.0 |
 | 383 | Dartford | London | — | 0 | 1 | 0 | — | 3.0 |

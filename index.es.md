@@ -9,7 +9,7 @@ paired_with: index.md
 category: root
 status: active
 bcsc_class: current-fact
-last_edited: 2026-06-26
+last_edited: 2026-08-24
 editor: pointsav-engineering
 ---
 
@@ -35,8 +35,8 @@ para [[atlas-tier-index-north-america|América del Norte]] y [[atlas-tier-index-
 La plataforma está disponible en gis.woodfinegroup.com.
 
 Los artículos están organizados en seis áreas de conocimiento: metodología de co-localización,
-[[architecture/_index|arquitectura del edificio]], [[markets/_index|investigación de mercado]],
-[[urban/_index|contexto urbano y demográfico]], inteligencia geográfica y terminología de referencia.
+[[architecture|arquitectura del edificio]], [[markets|investigación de mercado]],
+[[urban|contexto urbano y demográfico]], inteligencia geográfica y terminología de referencia.
 
 Las declaraciones prospectivas en esta enciclopedia reflejan las intenciones actuales y están
 sujetas a riesgos e incertidumbres; las afirmaciones se formulan con términos como planificado,

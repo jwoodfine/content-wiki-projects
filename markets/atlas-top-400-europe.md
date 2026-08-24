@@ -14,7 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Ranked list of 399 verified distinct European Regional Markets across 400 ranked slots (rank 285 vacant pending a genuine 400th entry) under the corrected suburban-regional methodology. Rank 1: Chemnitz (suburb of Dresden, 64 km, score 18.0)."
 paired_with: markets/atlas-top-400-europe.es.md
-last_edited: 2026-07-16
+last_edited: 2026-08-24
 editor: editorial
 ---
 
@@ -528,13 +528,13 @@ markets across the remaining 399 filled ranks.
 
 | Country | Count | Notes |
 |---------|-------|-------|
-| [[atlas-germany\|Germany (DE)]] | 124 | Polycentric urban system; Rhine-Ruhr, Rhine-Neckar, and Saxon-Thuringian corridors dominant |
-| [[atlas-france\|France (FR)]] | 102 | Île-de-France and provincial city rings; Le Havre metro generates notable cluster density |
-| [[atlas-united-kingdom\|United Kingdom (GB)]] | 81 | London commuter belt, Midlands, and Scottish Central Belt |
-| [[atlas-spain\|Spain (ES)]] | 22 | Madrid and Barcelona suburban rings; OSM coverage thinner outside these cores |
-| [[atlas-italy\|Italy (IT)]] | 21 | Po Valley suburban municipalities; Turin and Milan rings |
-| [[atlas-poland\|Poland (PL)]] | 16 | Upper Silesian Industrial Region suburbs; Katowice and Łódź rings |
-| [[atlas-netherlands\|Netherlands (NL)]] | 14 | Randstad outer suburban ring; Rotterdam and Amsterdam commuter municipalities |
+| [[atlas-germany|Germany (DE)]] | 124 | Polycentric urban system; Rhine-Ruhr, Rhine-Neckar, and Saxon-Thuringian corridors dominant |
+| [[atlas-france|France (FR)]] | 102 | Île-de-France and provincial city rings; Le Havre metro generates notable cluster density |
+| [[atlas-united-kingdom|United Kingdom (GB)]] | 81 | London commuter belt, Midlands, and Scottish Central Belt |
+| [[atlas-spain|Spain (ES)]] | 22 | Madrid and Barcelona suburban rings; OSM coverage thinner outside these cores |
+| [[atlas-italy|Italy (IT)]] | 21 | Po Valley suburban municipalities; Turin and Milan rings |
+| [[atlas-poland|Poland (PL)]] | 16 | Upper Silesian Industrial Region suburbs; Katowice and Łódź rings |
+| [[atlas-netherlands|Netherlands (NL)]] | 14 | Randstad outer suburban ring; Rotterdam and Amsterdam commuter municipalities |
 | Austria (AT) | 7 | Vienna suburban ring |
 | Denmark (DK) | 5 | Copenhagen and Aarhus suburban municipalities |
 | Sweden (SE) | 4 | Stockholm suburban ring |

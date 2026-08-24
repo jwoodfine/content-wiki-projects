@@ -7,7 +7,7 @@ short_description: "MCorp's retail co-location intelligence platform — spatial
 category: root
 status: active
 bcsc_class: current-fact
-last_edited: 2026-06-26
+last_edited: 2026-08-24
 editor: pointsav-engineering
 ---
 
@@ -31,8 +31,8 @@ architecture]] standards, and regional deployment indices for
 [[atlas-tier-index-north-america|North America]] and [[atlas-tier-index-europe|Europe]].
 The platform is live at gis.woodfinegroup.com.
 
-Articles are organized into six knowledge areas: co-location methodology, [[architecture/_index|building
-architecture]], [[markets/_index|market research]], [[urban/_index|urban and demographic context]],
+Articles are organized into six knowledge areas: co-location methodology, [[architecture|building
+architecture]], [[markets|market research]], [[urban|urban and demographic context]],
 geographic intelligence, and reference terminology. The co-location methodology section covers the
 [[co-location-strategy|strategy]], [[power-centres|power centre anchors]], [[fixed-floor-plates|floor plate
 standards]], and the [[mix-of-use|mix-of-use]] tenant model in detail.

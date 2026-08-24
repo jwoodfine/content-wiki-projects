@@ -70,6 +70,6 @@ El BIM de archivo plano presenta limitaciones reconocidas: la edición colaborat
 
 ## Véase también
 
-- [[worm-ledger-design]]
-- [[sel4-microkernel-substrate]]
-- [[sovereign-ai-routing]]
+- [Diseño del libro de registros WORM](https://documentation.pointsav.com/wiki/worm-ledger-design) (wiki de documentación)
+- [Sustrato del micronúcleo seL4](https://documentation.pointsav.com/wiki/sel4-microkernel-substrate) (wiki de documentación)
+- [Enrutamiento de IA y la esclusa lingüística](https://documentation.pointsav.com/wiki/sovereign-ai-routing) (wiki de documentación)

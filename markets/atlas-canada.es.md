@@ -12,7 +12,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
 keynote: false
-last_edited: 2026-07-16
+last_edited: 2026-08-24
 editor: woodfine-editorial
 short_description: "Índice clasificado de mercados inmobiliarios comerciales regionales canadienses que cumplen los umbrales de selección para co-ubicación."
 paired_with: markets/atlas-canada.md
@@ -84,7 +84,7 @@ se corrige.
 
 | Posición | Mercado | Suburbio de | km | N1 | N2 | N3 | Cívica | Puntuación |
 |---|---|---|---|---|---|---|---|---|
-| 4 | [[ca-on-mississauga\|Mississauga, ON]] | Toronto | 25 | 2 | 1 | 2 | Sí | 18,0 |
+| 4 | [[ca-on-mississauga|Mississauga, ON]] | Toronto | 25 | 2 | 1 | 2 | Sí | 18,0 |
 | 9 | Brampton | Toronto | 30 | 1 | 3 | 0 | Sí | 15,0 |
 | 11 | Surrey | Vancouver | 26 | 1 | 2 | 1 | Sí | 13,5 |
 | 12 | Vaughan, Ontario | Toronto | 22 | 1 | 2 | 1 | Sí | 13,5 |

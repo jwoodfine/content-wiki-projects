@@ -92,4 +92,4 @@ The City Code as Composable Geometry model is implemented progressively.
 - [[bim-objects-three-layers]]
 - [[flat-file-bim-leapfrog]]
 - [[open-bim-regulatory-acceptance|open-bim-regulatory-acceptance]]
-- [[leapfrog-2030-architecture]]
+- [Leapfrog 2030 architecture](https://documentation.pointsav.com/wiki/leapfrog-2030-architecture) (documentation wiki)

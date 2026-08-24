@@ -12,7 +12,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 keynote: false
-last_edited: 2026-07-16
+last_edited: 2026-08-24
 editor: editorial
 short_description: "RETIRED (2026-08-17) — Netherlands is deliberately excluded from the current Regional Markets methodology (locked 2026-06-30). The content below is historical and does not appear in the ranked list."
 paired_with: markets/atlas-netherlands.es.md
@@ -48,7 +48,7 @@ seven. **Flagged, not resolved.**
 | 56 | 's-Gravenhage | Rotterdam | — | 1 | 1 | 0 | — | 6.0 |
 | 260 | Maastricht | Liège | — | 1 | 0 | 0 | — | 6.0 |
 | 261 | Roermond | Eindhoven | — | 1 | 0 | 0 | — | 6.0 |
-| 286 | [[nl-breda\|Breda]] | Rotterdam | — | 1 | 0 | 1 | — | 5.0 |
+| 286 | [[nl-breda|Breda]] | Rotterdam | — | 1 | 0 | 1 | — | 5.0 |
 | 331 | Zwolle | Nijmegen | — | 0 | 1 | 1 | — | 4.5 |
 | 356 | Tilburg | Eindhoven | — | 1 | 0 | 0 | — | 4.0 |
 | 357 | Leeuwarden | Groningen | — | 1 | 0 | 0 | — | 4.0 |

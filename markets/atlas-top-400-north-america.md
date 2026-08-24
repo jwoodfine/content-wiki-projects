@@ -14,7 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Ranked list of the 400 highest-scoring North American suburban Regional Markets. Rank 1: Plano, TX (suburb of Dallas, score 25.5)."
 paired_with: markets/atlas-top-400-north-america.es.md
-last_edited: 2026-07-16
+last_edited: 2026-08-24
 editor: editorial
 ---
 
@@ -513,8 +513,8 @@ The twenty-five highest-ranked North American Regional Markets are listed below,
 
 | Country | Count | Notes |
 |---------|-------|-------|
-| [[atlas-united-states\|United States]] | 369 | Suburbs of all major US metropolitan areas |
-| [[atlas-canada\|Canada]] | 23 | Suburbs of Toronto (8), Vancouver (4), Calgary (2), and others |
+| [[atlas-united-states|United States]] | 369 | Suburbs of all major US metropolitan areas |
+| [[atlas-canada|Canada]] | 23 | Suburbs of Toronto (8), Vancouver (4), Calgary (2), and others |
 | Mexico | 8 | Suburbs of Mexico City, Guadalajara, and Monterrey |
 
 **Correction (2026-08-02):** the Canada breakdown note above misstates its own

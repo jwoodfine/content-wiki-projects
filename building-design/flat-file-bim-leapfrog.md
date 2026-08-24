@@ -87,6 +87,6 @@ These are deliberate trade-offs for the offline-first, vendor-obsolescence-survi
 
 ## See also
 
-- [[worm-ledger-design]]
-- [[sel4-microkernel-substrate]]
-- [[sovereign-ai-routing]]
+- [WORM ledger design](https://documentation.pointsav.com/wiki/worm-ledger-design) (documentation wiki)
+- [seL4 microkernel substrate](https://documentation.pointsav.com/wiki/sel4-microkernel-substrate) (documentation wiki)
+- [AI routing and the linguistic air-lock](https://documentation.pointsav.com/wiki/sovereign-ai-routing) (documentation wiki)

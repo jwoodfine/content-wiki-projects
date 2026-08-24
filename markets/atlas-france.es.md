@@ -12,7 +12,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
 keynote: false
-last_edited: 2026-07-16
+last_edited: 2026-08-24
 editor: editorial
 short_description: "RETIRADO (2026-08-17) — Francia está excluida deliberadamente de la metodología vigente de Mercados Regionales (fijada el 2026-06-30). El contenido siguiente es histórico y no forma parte de la lista clasificada."
 paired_with: markets/atlas-france.md
@@ -44,7 +44,7 @@ Las entradas de mayor puntuación de Francia — Auch (suburbio de Toulouse, pun
 |---|---|---|---|---|---|---|---|---|
 | 15 | Auch | Toulouse | 69 | 1 | 1 | 0 | Sí | 9,0 |
 | 16 | Beauvais | Amiens | 54 | 1 | 1 | 0 | Sí | 9,0 |
-| 33 | [[fr-chambery\|Chambéry]] | Grenoble | — | 1 | 0 | 1 | — | 7,5 |
+| 33 | [[fr-chambery|Chambéry]] | Grenoble | — | 1 | 0 | 1 | — | 7,5 |
 | 34 | Albi | Toulouse | — | 1 | 0 | 1 | — | 7,5 |
 | 35 | Cambrai | Valenciennes | — | 1 | 0 | 1 | — | 7,5 |
 | 36 | Osny | París | — | 1 | 0 | 1 | — | 7,5 |

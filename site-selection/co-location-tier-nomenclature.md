@@ -52,7 +52,7 @@ of the imprecision. (2) This article's claim that the T1/T2/T3 numeric scheme wa
 retired platform-wide is now confirmed accurate against the authoritative source
 (`SCORING-METHODOLOGY.md`, project-gis, V3, 2026-05-16): the Regional/District/
 Local/Fringe tiers below are the current, live system. Two of the three sibling
-articles that previously contradicted this — [[reference/gis-cluster-scoring-glossary|
+articles that previously contradicted this — [[gis-cluster-scoring-glossary|
 gis-cluster-scoring-glossary]] and [[co-location-ranking-system]] — have been
 corrected to match (2026-08-24). [[co-location-tiering-scoring]] still presents a
 separate DBSCAN-based T1/T2/T3 system as current and has not yet been reconciled —

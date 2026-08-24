@@ -12,7 +12,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 keynote: false
-last_edited: 2026-07-16
+last_edited: 2026-08-24
 editor: woodfine-editorial
 short_description: "RETIRED (2026-08-17) — Germany is deliberately excluded from the current Regional Markets methodology (locked 2026-06-30). The content below is historical and does not appear in the ranked list."
 paired_with: markets/atlas-germany.es.md
@@ -102,8 +102,8 @@ automatically if that table is corrected.
 | 1 | Chemnitz, Stadt | Dresden | 64 | 3 | 0 | 0 | Yes | 18.0 |
 | 2 | Ingolstadt | Regensburg | 56 | 2 | 0 | 1 | Yes | 13.5 |
 | 3 | Dessau-Roßlau, Stadt | Halle | 44 | 2 | 0 | 0 | Yes | 12.0 |
-| 4 | [[de-rp-kaiserslautern\|Kaiserslautern, Stadt]] | Mannheim | 54 | 2 | 0 | 0 | Yes | 12.0 |
-| 5 | [[de-nw-krefeld\|Krefeld, Stadt]] | Düsseldorf | 19 | 2 | 0 | 0 | Yes | 12.0 |
+| 4 | [[de-rp-kaiserslautern|Kaiserslautern, Stadt]] | Mannheim | 54 | 2 | 0 | 0 | Yes | 12.0 |
+| 5 | [[de-nw-krefeld|Krefeld, Stadt]] | Düsseldorf | 19 | 2 | 0 | 0 | Yes | 12.0 |
 | 7 | Zwickau, Stadt | Leipzig | 69 | 1 | 1 | 1 | Yes | 10.5 |
 | 11 | Duisburg, Stadt | Essen | 17 | 1 | 0 | 2 | Yes | 9.0 |
 | 12 | Bremerhaven, Stadt | Bremen | 54 | 1 | 0 | 2 | Yes | 9.0 |

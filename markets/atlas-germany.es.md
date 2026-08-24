@@ -12,7 +12,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
 keynote: false
-last_edited: 2026-07-16
+last_edited: 2026-08-24
 editor: woodfine-editorial
 short_description: "RETIRADO (2026-08-17) — Alemania está excluida deliberadamente de la metodología vigente de Mercados Regionales (fijada el 2026-06-30). El contenido siguiente es histórico y no forma parte de la lista clasificada."
 paired_with: markets/atlas-germany.md
@@ -96,8 +96,8 @@ corrige.
 | 1 | Chemnitz, Stadt | Dresde | 64 | 3 | 0 | 0 | Sí | 18,0 |
 | 2 | Ingolstadt | Ratisbona | 56 | 2 | 0 | 1 | Sí | 13,5 |
 | 3 | Dessau-Roßlau, Stadt | Halle | 44 | 2 | 0 | 0 | Sí | 12,0 |
-| 4 | [[de-rp-kaiserslautern\|Kaiserslautern, Stadt]] | Mannheim | 54 | 2 | 0 | 0 | Sí | 12,0 |
-| 5 | [[de-nw-krefeld\|Krefeld, Stadt]] | Düsseldorf | 19 | 2 | 0 | 0 | Sí | 12,0 |
+| 4 | [[de-rp-kaiserslautern|Kaiserslautern, Stadt]] | Mannheim | 54 | 2 | 0 | 0 | Sí | 12,0 |
+| 5 | [[de-nw-krefeld|Krefeld, Stadt]] | Düsseldorf | 19 | 2 | 0 | 0 | Sí | 12,0 |
 | 7 | Zwickau, Stadt | Leipzig | 69 | 1 | 1 | 1 | Sí | 10,5 |
 | 11 | Duisburgo, Stadt | Essen | 17 | 1 | 0 | 2 | Sí | 9,0 |
 | 12 | Bremerhaven, Stadt | Bremen | 54 | 1 | 0 | 2 | Sí | 9,0 |

@@ -12,7 +12,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
 keynote: false
-last_edited: 2026-07-16
+last_edited: 2026-08-24
 editor: editorial
 short_description: "RETIRADO (2026-08-17) — Países Bajos está excluido deliberadamente de la metodología vigente de Mercados Regionales (fijada el 2026-06-30). El contenido siguiente es histórico y no forma parte de la lista clasificada."
 paired_with: markets/atlas-netherlands.md
@@ -45,7 +45,7 @@ Los 14 mercados de los Países Bajos se agrupan mayoritariamente en torno a Rót
 | 56 | 's-Gravenhage | Róterdam | — | 1 | 1 | 0 | — | 6,0 |
 | 260 | Maastricht | Lieja | — | 1 | 0 | 0 | — | 6,0 |
 | 261 | Roermond | Eindhoven | — | 1 | 0 | 0 | — | 6,0 |
-| 286 | [[nl-breda\|Breda]] | Róterdam | — | 1 | 0 | 1 | — | 5,0 |
+| 286 | [[nl-breda|Breda]] | Róterdam | — | 1 | 0 | 1 | — | 5,0 |
 | 331 | Zwolle | Nimega | — | 0 | 1 | 1 | — | 4,5 |
 | 356 | Tilburg | Eindhoven | — | 1 | 0 | 0 | — | 4,0 |
 | 357 | Leeuwarden | Groninga | — | 1 | 0 | 0 | — | 4,0 |

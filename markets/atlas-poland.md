@@ -12,7 +12,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 keynote: false
-last_edited: 2026-07-16
+last_edited: 2026-08-24
 editor: editorial
 short_description: "Ranked index of the 16 Polish entries in the Top 400 Regional Markets — Europe list, filtered from the continental table with metro-reference groupings."
 paired_with: markets/atlas-poland.es.md
@@ -32,7 +32,7 @@ Bielsko-Biała (suburb of Katowice, score 12.0) is Poland's highest-scoring entr
 
 | Rank | Market | Suburb of | km | T1 | T2 | T3 | Civic | Score |
 |---|---|---|---|---|---|---|---|---|
-| 6 | [[pl-bielsko-biala\|Bielsko-Biała]] | Katowice | 48 | 2 | 0 | 0 | Yes | 12.0 |
+| 6 | [[pl-bielsko-biala|Bielsko-Biała]] | Katowice | 48 | 2 | 0 | 0 | Yes | 12.0 |
 | 8 | Radom | Kielce | 69 | 1 | 1 | 1 | Yes | 10.5 |
 | 25 | Toruń | Bydgoszcz | 45 | 1 | 1 | 0 | Yes | 9.0 |
 | 26 | Częstochowa | Katowice | — | 1 | 1 | 0 | — | 9.0 |

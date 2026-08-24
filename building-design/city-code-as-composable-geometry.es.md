@@ -147,4 +147,4 @@ El modelo del Código Urbano como Geometría Composable es especialmente relevan
 - [[bim-objects-three-layers]]
 - [[flat-file-bim-leapfrog]]
 - [[open-bim-regulatory-acceptance|open-bim-regulatory-acceptance]]
-- [[leapfrog-2030-architecture]]
+- [Arquitectura Leapfrog 2030](https://documentation.pointsav.com/wiki/leapfrog-2030-architecture) (wiki de documentación)
