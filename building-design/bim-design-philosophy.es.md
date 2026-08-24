@@ -11,35 +11,27 @@ bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
 last_edited: 2026-08-24
 editor: pointsav-engineering
-short_description: "Extensión AEC anclada a IFC 4.3 que traduce almacenamiento en archivos planos, estándares abiertos y ejecución offline-first en herramientas BIM profesionales."
+short_description: "Los edificios de Woodfine se diseñan para cumplir con los códigos jurisdiccionales en la etapa de diseño, en lugar de verificarse después del hecho — una consecuencia de construir sobre estándares abiertos y portátiles desde el principio."
 paired_with: building-design/bim-design-philosophy.md
-cites: [ifc-4-3, uniclass-2015, bsdd-v1]
+cites: [ifc-4-3]
 ---
 
-El Sistema de Diseño de Edificios está diseñado para ser la contraparte AEC del sustrato de diseño de la plataforma. Se basa en una postura estructural: los compromisos de PointSav — almacenamiento en archivos planos, estándares abiertos, ejecución fuera de línea y seguridad seL4 — no son preferencias estéticas, sino las ventajas concebidas para superar las debilidades del software en la nube tradicional.
+El enfoque de Woodfine hacia la información de construcción está diseñado para detectar infracciones de código en la etapa de diseño, antes de que comience la construcción, en lugar de depender de la inspección posterior. De ahí se derivan dos consecuencias directas: un menor riesgo de retrabajos costosos en etapas tardías, y un registro del edificio que permanece utilizable y transferible sin importar qué herramientas de software aparezcan o desaparezcan a lo largo de la vida del edificio.
 
-## Puntos clave
+## Cumplimiento por construcción, no verificación posterior al diseño
 
-- El sistema de diseño está pensado para anclarse a la jerarquía de entidades IFC 4.3 y utilizar una pila de estándares abiertos basada en texto (IFC-SPF, BCF 3.0, IDS 1.0, COBie). Los datos estructurados con estos estándares permanecen accesibles durante 50 o más años y sobreviven a los proveedores de software específicos que los generan.
-- El BIM Anclado al Activo está diseñado para ser el diferenciador estructural: el gemelo digital está concebido como un artefacto legal firmado con el título de propiedad. Está diseñado para moverse con la escritura del inmueble en lugar de estar vinculado al modelo de inquilino de un proveedor — de modo que los datos sobrevivirían a cambios de plataforma o fallos del proveedor sin necesidad de migración.
-- El cumplimiento normativo de construcción primero está pensado para desplazar el enfoque de "verificar después del diseño" a "cumplir por construcción". Está previsto que las ciudades publiquen códigos como tokens de diseño componibles (diccionarios bSDD + restricciones IDS 1.0), y que los diseñadores ensamblen modelos dentro de envolventes pre-restringidas donde las infracciones se vuelvan geométricamente imposibles antes de producirse.
-- La capacidad fuera de línea está concebida como estructural, no como una opción configurable. Está previsto que la funcionalidad BIM completa se mantenga en sótanos, instalaciones con aislamiento de red y sitios remotos. Esta propiedad estructural está pensada para distinguir la plataforma de las herramientas BIM solo en la nube que requieren conexión persistente para funcionar.
+El modelo convencional verifica un diseño contra los códigos de construcción solo cuando está prácticamente terminado — una infracción detectada tarde es costosa de corregir. El enfoque de Woodfine está diseñado para adelantar esa verificación. Los elementos del edificio están pensados para llevar sus requisitos de código aplicables desde el momento en que se colocan, de modo que una infracción se vuelve visible en el propio diseño en lugar de surgir en la inspección.
 
-## Diferenciadores Estratégicos
+## Por qué esto importa para el valor a largo plazo de un edificio
 
-La filosofía de la plataforma se centra en cinco capacidades únicas:
-1. **BIM Anclado al Activo:** El gemelo digital está diseñado para ser un activo legal que viaje con la escritura del edificio.
-2. **Capacidad fuera de línea:** Funcionalidad total prevista para entornos sin internet o de alta seguridad.
-3. **Supervivencia a la Obsolescencia:** Datos diseñados para permanecer legibles durante 50 años mediante el uso de estándares ISO abiertos.
-4. **Integración IoT Local:** Datos de sensores diseñados para procesarse localmente sin cargos por uso de nube.
-5. **Convergencia de Datos:** Unificación prevista de la identidad espacial, legal y financiera en un único archivo portátil del edificio.
+Dos propiedades estructurales se derivan de construir sobre estándares abiertos en lugar de un sistema propietario. Primero, los registros del edificio están diseñados para permanecer legibles de forma independiente durante toda la vida del edificio, sin depender de la continuidad de ningún proveedor de software en particular. Segundo, el registro está diseñado para trasladarse con la propiedad en la venta, funcionando como parte de la memoria institucional del activo en lugar de quedar retenido en la cuenta de software de un propietario anterior.
 
-## El Salto del Código Componible
+## Dónde vive la especificación
 
-La plataforma está diseñada para proponer un modelo donde las normativas urbanísticas se publicarían como "tokens de diseño" (IDS 1.0). El diseñador trabajaría dentro de envolventes ya validadas, haciendo que los errores de cumplimiento sean geométricamente imposibles desde el primer trazo. Este enfoque de "cumplimiento por construcción" está concebido como el núcleo de la ventaja tecnológica de PointSav.
+La arquitectura de tokens de diseño, la biblioteca de componentes y la implementación del estándar IFC detrás de este enfoque se mantienen directamente en [bim.woodfinegroup.com](https://bim.woodfinegroup.com).
 
-## Véase también
+## Consulte también
 
-- [[bim-aec-muscle-memory]]
-- [[bim-objects-substrate]]
-- Salto BIM en archivos planos
+- [[bim-market-context]] — el contexto regulatorio al que responde este enfoque de diseño
+- [[asset-anchored-bim-vault]] — la estructura de archivo que este enfoque está diseñado para producir
+- [[flat-file-bim-leapfrog]] — por qué el archivo utiliza formatos de archivo abiertos y portátiles

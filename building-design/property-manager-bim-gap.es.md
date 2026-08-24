@@ -9,57 +9,29 @@ content_type: topic
 status: active
 last_edited: 2026-08-24
 editor: pointsav-engineering
-short_description: "Una parte sustancial de los gerentes de instalaciones no utiliza activamente los modelos BIM entregados en la entrega del proyecto, debido al costo del software, requisitos de capacitación y opacidad del formato de archivo. Los componentes de interfaz específicos de FM del Building Design System están diseñados para proporcionar acceso de solo lectura a datos BIM de fidelidad completa a través de búsquedas GUID sin necesidad de licencias de herramienta de autoría propietarias."
+short_description: "Una parte sustancial de los gerentes de instalaciones no utiliza activamente los modelos BIM entregados en la entrega del proyecto, debido al costo del software, los requisitos de capacitación y la opacidad del formato de archivo — una brecha que los registros de construcción de Woodfine están diseñados para cerrar."
 cites: [ifc-4-3, iso-19650]
 paired_with: building-design/property-manager-bim-gap.md
 ---
 
-Los Modelos de Información para la Construcción son elaborados por arquitectos e ingenieros estructurales, entregados a los contratistas para la construcción, y luego transferidos a los administradores de propiedades en la finalización práctica. En esa transferencia, la utilidad del modelo para las personas que operan el edificio durante los próximos 30 años depende enteramente de si el administrador de propiedades tiene acceso a un visor BIM, sabe cómo usarlo y puede permitirse mantener la licencia de la herramienta de autoría que produjo el archivo. Véase también [[asset-anchored-bim-vault|la bóveda BIM anclada al activo]] y [[design-system-bim|el Sistema de Diseño de la Construcción]].
+Los Modelos de Información para la Construcción son elaborados por arquitectos e ingenieros estructurales, entregados a los contratistas para la construcción, y luego transferidos a los administradores de propiedades en la finalización práctica. En la práctica, la mayor parte de ese valor nunca se aprovecha — un gerente de instalaciones que carece de un visor BIM, de la capacitación para usarlo, o del presupuesto para una licencia de herramienta de autoría no puede aprovechar el archivo que recibió. Véase [[asset-anchored-bim-vault|la bóveda BIM anclada al activo]] y [[design-system-bim|el Sistema de Diseño de la Construcción]] para conocer cómo el enfoque de Woodfine aborda esto.
 
-En la práctica, la mayoría no puede.
+## Una brecha documentada de la industria
 
-## Lo que Documenta la Investigación
+La brecha entre la producción BIM y el consumo BIM en la gestión de instalaciones está documentada en la literatura revisada por pares: una parte sustancial de los gerentes de instalaciones no utiliza activamente los modelos BIM que reciben en la entrega. Las barreras recurrentes citadas son el costo del software, un requisito de capacitación significativo y la opacidad del formato de archivo. Varios investigadores llaman a esto la "brecha de transferencia BIM" — existe un modelo digital detallado, fue pagado por el promotor y cumple el requisito de entrega contractual, y aun así permanece sin usar.
 
-La brecha entre la producción BIM y el consumo BIM en la gestión de instalaciones está documentada en la literatura revisada por pares. Los estudios publicados apuntan a un hallazgo consistente: una parte sustancial de los gestores de instalaciones no usa activamente los modelos BIM que reciben en la transferencia. Las barreras citadas con más frecuencia son:
+Los proveedores de plataformas de gestión de instalaciones han comenzado a abordar esto integrando visores BIM directamente en su software CAFM/CMMS. Sin embargo, importar datos BIM a una plataforma CAFM suele implicar pérdidas: los atributos que el esquema CAFM no reconoce se descartan, y los datos importados se desincronizan del modelo canónico a medida que el edificio se renueva.
 
-1. **Costo del software.** Las licencias de autoría completa están pensadas para profesionales del diseño. Un gestor de instalaciones que solo necesita buscar un valor Pset o registrar un problema BCF no puede justificar el costo.
+## El enfoque de Woodfine
 
-2. **Requisito de capacitación.** Las herramientas de autoría BIM tienen una curva de aprendizaje significativa. La interfaz está diseñada para crear modelos, no para consumirlos.
+Los registros de construcción de Woodfine están diseñados para dar a un gerente de instalaciones acceso directo y de solo lectura a los datos del modelo con fidelidad completa. No requieren una licencia de herramienta de autoría, ni una importación CAFM con pérdidas que se desincroniza con el tiempo. Se prevé que el mismo enfoque se extienda a los datos del registro de arrendamiento, manteniendo los registros espaciales, operativos y financieros de un edificio como un solo sistema en lugar de tres que deben reconciliarse manualmente.
 
-3. **Opacidad del formato de archivo.** IFC-SPF es texto simple, pero un archivo IFC de 50 MB para un edificio de tamaño mediano no es navegable con un editor de texto. Sin un visor, el archivo es prácticamente inaccesible.
+## Dónde vive la especificación
 
-### Brecha de transferencia en la práctica
+Los componentes de interfaz, el mecanismo de acceso a datos y el detalle de implementación detrás de este enfoque se mantienen directamente en [bim.woodfinegroup.com](https://bim.woodfinegroup.com).
 
-El resultado es lo que varios investigadores llaman la "brecha de transferencia BIM": existe un modelo digital detallado del edificio, fue pagado por el promotor y cumple el requisito de entrega contractual — y permanece sin usar en una unidad compartida.
+## Consulte también
 
-## Cómo Han Abordado el Problema los Proveedores de Plataformas de FM
-
-Las plataformas de gestión de instalaciones han reconocido esta brecha y han comenzado a desarrollar integraciones de visor BIM. Un enfoque documentado es un sistema CAFM que importa datos del modelo BIM en la transferencia, vincula los elementos con los programas de mantenimiento y las órdenes de trabajo, y permite a los operadores de FM interactuar con los datos a través de la interfaz CAFM en lugar de un visor BIM.
-
-### Compromiso de fidelidad en las importaciones CAFM
-
-Este enfoque resuelve los problemas de costo del visor y costo de capacitación al traducir los datos BIM a una forma que la plataforma CAFM ya sabe cómo mostrar. La desventaja es la fidelidad: la importación CAFM es con pérdidas. Los valores Pset que el esquema CAFM no reconoce se descartan.
-
-## La Brecha que Esta Plataforma Está Prevista para Cubrir
-
-Los [[aec-interface-conventions|componentes de interfaz]] específicos para FM del [[design-system-bim|Sistema de Diseño de la Construcción]] — `GuidSearch` y `AuditLog` — están diseñados para el gestor de instalaciones que necesita acceso de solo lectura a los datos del modelo BIM.
-
-### Componentes GuidSearch y AuditLog
-
-`GuidSearch` está diseñado para ser una interfaz de búsqueda que toma un GUID IFC — el identificador alfanumérico estampado en cada puerta, cada muro, cada componente HVAC en un modelo BIM. Devolvería los valores Pset del elemento, el historial de mantenimiento y los problemas BCF abiertos. Un gestor de instalaciones que escanea un código QR adjunto a un equipo recuperaría los datos del modelo para ese elemento específico sin navegar por un viewport 3D.
-
-`AuditLog` está pensado para ser un registro cronológico de todos los cambios en la bóveda: actualizaciones del modelo IFC, resoluciones de temas BCF, finalizaciones de órdenes de trabajo y anomalías en las lecturas de sensores.
-
-### Lecturas de fidelidad completa desde la bóveda canónica
-
-Ambos componentes están previstos para ejecutarse en la [[asset-anchored-bim-vault]] — el mismo archivo de archivo plano que usó el equipo de diseño y construcción. No hay importación CAFM, no hay traducción de esquema y no hay brecha de sincronización.
-
-## La Convergencia del Registro de Arrendamiento
-
-La brecha en la gestión de instalaciones tiene una dimensión financiera que es inmediata para un administrador de propiedades que también es arrendador. Los datos del registro de arrendamiento — nombres de inquilinos, plazos de arrendamiento, importes de alquiler, coordenadas de los muros de separación — viven en una hoja de cálculo separada, desconectada del modelo espacial de la planta.
-
-### Datos de arrendamiento en los sidecars por elemento
-
-Los sidecars YAML por elemento de la bóveda Woodfine están diseñados para llevar referencias de arrendamiento junto con lecturas de sensores e historial de órdenes de trabajo. Cuando cambia el arrendamiento, el sidecar se actualizaría en la misma confirmación git que registra el cambio del modelo, de modo que los tres registros se conviertan en uno.
-
-Esta convergencia está prevista que sea la capacidad más estratégicamente significativa de la plataforma para un administrador de propiedades que también es propietario del activo: la identidad espacial, operativa y financiera del edificio en un archivo portátil que se mueve con la escritura de propiedad.
+- [[asset-anchored-bim-vault]] — la estructura de archivo de la que lee el gerente de instalaciones
+- [[design-system-bim]] — el Sistema de Diseño de la Construcción más amplio en el que se inscribe
+- [[bim-design-philosophy]] — por qué los registros de Woodfine están diseñados para permanecer utilizables de forma independiente durante toda la vida de un edificio

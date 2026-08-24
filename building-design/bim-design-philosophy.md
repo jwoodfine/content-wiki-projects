@@ -11,47 +11,27 @@ bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 last_edited: 2026-08-24
 editor: pointsav-engineering
-short_description: "AEC-specific design extension anchored to IFC 4.3, translating flat-file storage, open standards, and offline-first execution into a professional BIM toolset."
+short_description: "Woodfine's buildings are designed to comply with jurisdictional codes at the design stage, rather than being checked for compliance after the fact — a consequence of building on open, portable standards from the outset."
 paired_with: building-design/bim-design-philosophy.es.md
-cites: [ifc-4-3, uniclass-2015, bsdd-v1]
+cites: [ifc-4-3]
 ---
 
-The Building Design System is designed to serve as the AEC-specific extension of the platform's design substrate, analogous to the relationship between IBM Carbon and specialized industry modules. It is intended to be anchored to the IFC 4.3 entity hierarchy and prioritized for high-fidelity operational environments. The system is designed to translate the platform's core commitments — flat-file storage, open standards, and offline-first execution — into a professional toolset intended to address the structural weaknesses of legacy cloud-only BIM. The seL4 security foundation is intended to provide the hardware-attested isolation that defence and healthcare clients require.
+Woodfine's approach to building information is designed to catch code violations at the design stage, before construction begins, rather than relying on inspection after the fact. Two consequences follow directly: a lower risk of costly late-stage rework, and a building record that stays usable and transferable regardless of which software tools come and go over the building's life.
 
-## Key Takeaways
+## Compliant-by-construction, not check-after-design
 
-- The design system is intended to be anchored to the IFC 4.3 entity hierarchy and to use a text-based open-standard stack (IFC-SPF, BCF 3.0, IDS 1.0, COBie). Data structured to these standards remains accessible for 50+ years and outlasts the specific software vendors that generate it.
-- Asset-Anchored BIM is designed to be the structural differentiator: the digital twin is intended to be a legal artifact signed with the land title. It is designed to move with the property deed rather than being held in a vendor's tenant model — the data would survive platform changes or vendor failure without requiring a migration.
-- Compositional-first regulatory compliance is intended to shift the model from "check-after-design" to "compliant-by-construction". Cities are intended to publish codes as composable design tokens (bSDD dictionaries + IDS 1.0 constraints), and designers would assemble models within pre-constrained envelopes where violations become geometrically impossible before they occur.
-- Offline capability is designed to be structural, not a feature flag. Full BIM functionality is intended to be maintained in basements, air-gapped facilities, and remote sites. This structural property is designed to separate the platform from cloud-only BIM tools that require a persistent connection to function.
+The conventional model checks a design against building codes only after it's largely finished — a violation found late is expensive to fix. Woodfine's approach is designed to shift that check earlier: building elements are intended to carry their applicable code requirements from the moment they're placed, so a violation becomes visible in the design itself rather than surfacing at inspection.
 
-## Structural Differentiators
+## Why this matters for a building's long-term value
 
-The platform's design philosophy is predicated on five capabilities that are structurally incompatible with multi-tenant SaaS models:
+Two structural properties follow from building against open standards rather than a proprietary system. First, the building's records are designed to remain independently readable for the life of the building, not tied to any one software vendor's continued existence. Second, the record is designed to move with the property at sale, functioning as part of the asset's institutional memory rather than staying locked in a prior owner's software account.
 
-1. **Asset-Anchored BIM:** The digital twin is intended to be a legal artifact signed with the land title, designed to move with the property deed rather than being tied to a vendor's tenant model.
-2. **Offline-Capable Operations:** Full BIM functionality is intended to be maintained in basements, air-gapped facilities, and remote sites where internet access is unavailable.
-3. **Vendor-Obsolescence Survival:** By design, the text-based open-standard stack (IFC-SPF, BCF 3.0, IDS 1.0, COBie) is intended to keep data accessible for 50+ years, outlasting specific software vendors.
-4. **Local IoT Integration:** Sensor data is designed to be ingested via local brokers into YAML sidecars, intended to ensure data residency and eliminate usage-based token charges.
-5. **Legal-Financial Convergence:** The building archive is designed to unify the building's spatial, operational, and financial identities into a single portable artifact.
+## Where the specification lives
 
-## Compositional-First Regulatory Compliance
-
-The platform is designed to introduce a "compositional-first" approach to building codes and jurisdictional rules. Instead of post-design validation, cities are intended to publish codes as composable design tokens (bSDD dictionaries + IDS 1.0 constraints). Designers would then assemble models within pre-constrained envelopes where violations become geometrically impossible by construction.
-
-This shift from "check-after-design" to "compliant-by-construction" represents a significant leapfrog in AEC technology.
-
-## Integration with the Design Substrate
-
-The BIM-SEMANTIC layer is designed to sit atop the platform's broader design-token substrate. While the baseline design-token and DTCG vault standards are shared across the platform, the Building Design System is intended to manage the BIM-specific extensions:
-* 8 BIM token categories anchored to IFC 4.3.
-* 18 specialized component recipes.
-* Uniclass 2015 as the universal classification floor.
-
-This architecture is intended to keep BIM components consistent with the broader platform design language while meeting the rigorous semantic requirements of ISO-standardized building data.
+The design-token architecture, component library, and IFC-standard implementation behind this approach are maintained directly at [bim.woodfinegroup.com](https://bim.woodfinegroup.com).
 
 ## See also
 
-- [[bim-aec-muscle-memory]]
-- [[bim-objects-substrate]]
-- [[flat-file-bim-leapfrog]]
+- [[bim-market-context]] — the regulatory context this design approach responds to
+- [[asset-anchored-bim-vault]] — the archive structure this approach is designed to produce
+- [[flat-file-bim-leapfrog]] — why the archive uses open, portable file formats

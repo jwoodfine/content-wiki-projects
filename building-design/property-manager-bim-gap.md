@@ -9,61 +9,29 @@ content_type: topic
 status: active
 last_edited: 2026-08-24
 editor: pointsav-engineering
-short_description: "A substantial share of facilities managers do not actively use the BIM models delivered at project handover, due to software cost, training requirements, and file format opacity. The Building Design System's FM-specific interface components are designed to provide read-only access to full-fidelity BIM data through searchable GUID lookups without requiring proprietary authoring tool licences."
+short_description: "A substantial share of facilities managers do not actively use the BIM models delivered at project handover, due to software cost, training requirements, and file format opacity — a gap Woodfine's building records are designed to close."
 cites: [ifc-4-3, iso-19650]
 paired_with: building-design/property-manager-bim-gap.es.md
 ---
 
-Building Information Models are authored by architects and structural engineers, delivered to contractors for construction, and then handed to property managers at practical completion. At that handover, the model's usefulness to the people who operate the building for the next 30 years depends entirely on whether the property manager has access to a BIM viewer, knows how to use it, and can afford to maintain the authoring-tool licence that produced the file. See also [[asset-anchored-bim-vault|the asset-anchored BIM vault]] and [[design-system-bim|the Building Design System]].
+Building Information Models are authored by architects and structural engineers, delivered to contractors for construction, and then handed to property managers at practical completion. In practice, most of that model's value is never realized — a facilities manager who lacks a BIM viewer, the training to use one, or the budget for an authoring-tool licence cannot make use of the file they've been handed. See [[asset-anchored-bim-vault|the asset-anchored BIM vault]] and [[design-system-bim|the Building Design System]] for how Woodfine's approach addresses this.
 
-In practice, most do not.
+## A documented industry gap
 
-## What the Research Documents
+The gap between BIM production and BIM consumption in facilities management is documented in peer-reviewed literature: a substantial share of facilities managers do not actively use the BIM models they receive at handover. The recurring barriers cited are software cost, a significant training requirement, and file format opacity. Several researchers call this the "BIM handover gap" — a detailed digital model exists, was paid for by the developer, and meets the contractual delivery requirement, yet sits unused.
 
-The gap between BIM production and BIM consumption in facilities management is documented in peer-reviewed literature. Published research studies point to a consistent finding: a substantial share of facilities managers do not actively use the BIM models they receive at handover. The barriers cited most often are:
+Facilities management platform vendors have begun addressing this by building BIM viewer integrations directly into their CAFM/CMMS software. Importing BIM data into a CAFM platform is typically lossy, though: property attributes the CAFM schema doesn't recognize are discarded, and the imported data drifts out of sync with the canonical model as the building is renovated.
 
-1. **Software cost.** Full-feature authoring licences are priced for design professionals. A facilities manager who only needs to look up a Pset value or file a BCF issue cannot justify the cost.
+## Woodfine's approach
 
-2. **Training requirement.** BIM authoring tools carry a significant learning curve. The interface is designed for model creation, not model consumption. A facilities manager who needs to locate a door's fire rating does not want to learn a coordinate system, a view matrix, and a family library to retrieve a single attribute.
+Woodfine's building records are designed to give a facilities manager direct, read-only access to the full-fidelity model data — without requiring an authoring-tool licence, and without a lossy CAFM import that drifts out of sync over time. The same approach is designed to extend to lease-register data, keeping a building's spatial, operational, and financial records as one system rather than three that must be reconciled by hand.
 
-3. **File format opacity.** IFC-SPF is plain text, but a 50 MB IFC file for a mid-size building is not navigable with a text editor. Without a viewer, the file is effectively inaccessible.
+## Where the specification lives
 
-### Handover gap in practice
+The interface components, data-access mechanism, and implementation detail behind this approach are maintained directly at [bim.woodfinegroup.com](https://bim.woodfinegroup.com).
 
-The result is what several researchers call the "BIM handover gap": a detailed digital model of the building exists, was paid for by the developer, and meets the contractual delivery requirement — and sits unused on a shared drive.
+## See also
 
-## How FM Platform Vendors Have Addressed It
-
-Facilities management platforms — CAFM and CMMS software categories — have recognised this gap and begun building BIM viewer integrations. One documented example is a CAFM platform whose BIM integration imports model data at handover, links elements to maintenance schedules and work orders, and lets FM operators interact with the data through the CAFM interface rather than a BIM viewer.
-
-### Fidelity trade-off in CAFM imports
-
-This approach solves the viewer-cost and training-cost problems by translating BIM data into a form the CAFM platform already knows how to display. The trade-off is fidelity: the CAFM import is lossy. Pset values that the CAFM schema does not recognise are discarded. The geometric model is reduced to a floor-plan bitmap or a simple room list. The bidirectional link between FM work orders and the canonical IFC model is not maintained.
-
-When the building is renovated — walls moved, systems upgraded — the CAFM database and the IFC model diverge and must be re-synchronised manually. In practice, this synchronisation rarely happens. The FM database reflects the building as it was delivered, not as it stands.
-
-## The Gap This Platform Is Intended to Fill
-
-The [[design-system-bim|Building Design System]]'s FM-specific [[aec-interface-conventions|interface components]] — `GuidSearch` and `AuditLog` — are designed for the facilities manager who needs read-only access to BIM model data without the cost or complexity of an authoring-tool licence.
-
-### GuidSearch and AuditLog components
-
-`GuidSearch` is designed to be a search interface that takes an IFC GUID — the alphanumeric identifier stamped on every door, every wall, every HVAC component in a BIM model — and returns the element's Pset values, maintenance history, and open BCF issues. A facilities manager scanning a QR code attached to a piece of equipment, or reading a GUID from a work-order form, would retrieve the building model data for that specific element without navigating a 3D viewport.
-
-`AuditLog` is intended to be a time-ordered log of all changes to the vault: IFC model updates, BCF topic resolutions, work-order completions, and sensor-reading anomalies. For a facilities manager whose regulatory obligation is to demonstrate that a fire door was inspected, tested, and found compliant, the AuditLog is designed to be the audit trail.
-
-### Full-fidelity reads from the canonical vault
-
-Both components are intended to run on the [[asset-anchored-bim-vault]] — the same flat-file archive that the design and construction team used. There is no CAFM import, no schema translation, and no synchronisation gap. The FM operator reads the canonical model directly, at full Pset fidelity, through an interface designed for their workflow rather than for model creation.
-
-## The Lease Register Convergence
-
-The facilities management gap has a financial dimension that is less documented in the academic literature but is immediate for a property manager who is also a landlord. Lease register data — tenant names, lease terms, rent amounts, demising-wall coordinates — lives in a separate spreadsheet or lease management system, disconnected from the spatial model of the floor plate.
-
-When a tenant changes use, or a demising wall is moved for a new tenant, the lease register, the FM work-order system, and the BIM model are three separate records of the same physical change. Each must be updated independently; none automatically propagates the change to the others.
-
-### Lease data in per-element sidecars
-
-The Woodfine vault's per-element YAML sidecars are designed to carry lease references alongside sensor readings and work-order history. A wall element's sidecar is intended to include the tenant identifier and lease term for the space it bounds. When the lease changes, the sidecar would be updated in the same git commit that records the model change, so the three records become one.
-
-This convergence is intended to be the most strategically consequential capability of the platform for a property manager who is also an asset owner: the building's spatial, operational, and financial identity in one portable archive that moves with the property deed.
+- [[asset-anchored-bim-vault]] — the archive structure the facilities manager reads from
+- [[design-system-bim]] — the broader Building Design System this fits within
+- [[bim-design-philosophy]] — why Woodfine's records are designed to stay independently usable over a building's life

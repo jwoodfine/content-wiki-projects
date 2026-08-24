@@ -9,77 +9,25 @@ content_type: topic
 status: active
 last_edited: 2026-08-24
 editor: pointsav-engineering
-short_description: "Los BIM Objects son unidades de especificación del entorno construido componibles que codifican el tipo de elemento, requisitos regulatorios por jurisdicción y requisitos de desempeño de zona climática, preconstriñendo el espacio de diseño para que las configuraciones no conformes no puedan colocarse."
-cites: [ifc-4-3, uniclass-2015, bsdd-v1, ids-1-0, dtcg-w3c]
+short_description: "Un Objeto BIM es el término de Woodfine para una especificación reutilizable de un elemento de construcción que lleva consigo sus requisitos de código y desempeño aplicables, de modo que las configuraciones no conformes se detectan en la etapa de diseño en lugar de en la inspección."
+cites: [ifc-4-3]
 paired_with: building-design/bim-objects-what-they-are.md
 aliases:
   - bim-token-what-it-is
 ---
 
-El Modelado de Información para la Construcción produce representaciones digitales detalladas de estructuras. En su forma estándar, no previene infracciones. Un modelo puede estar geométricamente completo, con materiales especificados y clasificado por tipo de entidad IFC, y aún así contener elementos que no cumplen con el código, violan los requisitos de desempeño climático o entran en conflicto con regulaciones jurisdiccionales — descubrimientos que sólo se hacen cuando un verificador posterior al diseño se ejecuta. Un Objeto BIM está diseñado para abordar esto desde el principio. Está pensado para codificar una decisión sobre un elemento del entorno construido como una unidad de especificación composable y reasignable que pre-restringe el espacio de diseño en lugar de auditar un modelo completado. Véase también [[bim-objects-substrate|categorías de Objetos BIM]] y [[design-system-bim|el Sistema de Diseño de la Construcción]].
+El Modelado de Información para la Construcción produce representaciones digitales detalladas de una estructura, pero un modelo BIM estándar no previene por sí mismo las infracciones de código. Un modelo puede estar geométricamente completo y aun así incumplir los requisitos de una jurisdicción, algo que solo se descubre cuando se ejecuta una verificación de cumplimiento posterior. Un **Objeto BIM** es el término de Woodfine para una especificación de elemento de construcción diseñada para llevar consigo sus requisitos de código y desempeño aplicables desde el momento en que se coloca, de modo que una infracción se detecta en el propio diseño en lugar de en una inspección posterior. Véase [[bim-design-philosophy]] para entender por qué este enfoque importa para el riesgo de cumplimiento y el valor a largo plazo de un edificio.
 
-## Definición
+## Qué distingue a un Objeto BIM
 
-Un Objeto BIM es una unidad de especificación composable para el entorno construido — el equivalente estructural de un Token del Sistema de Diseño. Donde un Token del Sistema de Diseño codifica una decisión de diseño (un color, una unidad de espaciado, una receta de componente) como un valor reutilizable y reasignable que todas las superficies conformes deben respetar, un Objeto BIM codifica una decisión sobre un elemento del entorno construido en tres ejes simultáneos:
+Un Objeto BIM difiere de los elementos con los que podría confundirse. No es un tipo de entidad IFC en bruto (que define una forma de datos pero no lleva requisitos específicos de jurisdicción). No es un formato de autoría de modelos propietario y atado a un proveedor. No son datos de gestión de instalaciones capturados después de completado el modelo. Combina tres cosas a la vez: qué es el elemento, qué requisitos regulatorios debe satisfacer en su jurisdicción, y qué requisitos de desempeño debe cumplir para su zona climática. Todo queda integrado en una única especificación reutilizable, en lugar de verificarse por separado después del diseño.
 
-1. **Lo que el elemento ES** — su clase de entidad IFC, clasificación Uniclass 2015, URI de identidad bSDD, y plantillas de conjuntos de propiedades aplicables.
-2. **Lo que DEBE satisfacer** — los requisitos regulatorios impuestos por su jurisdicción, expresados como superposiciones jurisdiccionales (archivos de restricción IDS 1.0 y fragmentos geométricos de exclusión IFC).
-3. **Cómo DEBE desempeñarse** — los requisitos de energía, térmicos, estructurales y acústicos impuestos por su zona climática, expresados como parámetros de desempeño tabulares vinculados a ASHRAE y normas nacionales equivalentes.
+## Dónde vive la especificación
 
-Al colocar un Objeto BIM en un modelo, el diseño está pensado para colocar simultáneamente el elemento, su envolvente regulatoria y su piso de desempeño climático. Las infracciones están concebidas para ser geométricamente imposibles por construcción, en lugar de ser descubiertas en la revisión posterior al diseño.
+El modelo de datos completo — el esquema del objeto, la estructura de composición en tres capas, el formato de archivo y el detalle de implementación de cómo funciona realmente — se mantiene directamente en [bim.woodfinegroup.com](https://bim.woodfinegroup.com).
 
-## Lo que un Objeto BIM NO Es
+## Consulte también
 
-La precisión requiere distinguir el Objeto BIM de cuatro estructuras a las que se asemeja superficialmente.
-
-**No es un tipo de entidad IFC.** IFC 4.3 (ISO 16739-1:2024) define `IfcWall`, `IfcSlab`, `IfcBeam` y aproximadamente 900 otras clases de esquema. Un tipo de entidad IFC es una clase de esquema — define la forma que deben tener los datos de un registro de muro. No lleva valores de restricción, requisitos específicos de jurisdicción ni parámetros de desempeño. Un Objeto BIM usa la clase de entidad IFC como ancla de identidad, pero agrega las tres capas de restricción que la clase de esquema no puede contener.
-
-**No es un formato de Familia BIM propietario.** Un formato de Familia BIM propietario es geometría parametrizada para una herramienta de autoría, almacenada en un formato binario específico de proveedor y vinculada a esa herramienta. No lleva datos regulatorios normativos, mapeo de jurisdicción ni especificación de desempeño de zona climática. No puede leerse con otras herramientas sin exportarlo. Un Objeto BIM es JSON simple (formato W3C DTCG), neutro respecto a las herramientas y legible por máquinas por cualquier consumidor conforme.
-
-**No es una hoja de cálculo COBie.** COBie (Construction Operations Building Information Exchange) es captura de datos posterior al hecho — datos de gestión de instalaciones extraídos de un modelo después de que el diseño está completo. Documenta lo que se construyó. Un Objeto BIM restringe lo que puede colocarse.
-
-**No es un Conjunto de Propiedades IFC.** Un Conjunto de Propiedades IFC (`Pset_WallCommon`, etc.) es una plantilla para valores sin lógica de aplicación, jerarquía de restricciones ni mapeo de jurisdicción. Registra propiedades; no las hace cumplir. Un Objeto BIM incluye definiciones de conjuntos de propiedades aplicables, pero agrega las capas de aplicación regulatoria y de zona climática que los conjuntos de propiedades no pueden expresar.
-
-**No es un archivo de modelo BIM.** Un modelo IFC es una instancia geométrica para un proyecto específico. Un Objeto BIM es una especificación reutilizable — una plantilla que genera instancias geométricas conformes cuando se instancia.
-
-## La Tesis de Pre-Restricción
-
-Dos décadas de herramientas BIM se han construido sobre un supuesto de validación primero: diseñar libremente y luego verificar. Las plataformas de validación comercial ejecutan reglas contra modelos completados e informan infracciones. Singapore CORENET X — el sistema de presentación BIM gubernamental más avanzado en producción — opera bajo el mismo principio. Presentar un modelo; recibir un informe de cumplimiento.
-
-El enfoque de pre-restricción invierte esto. Si los únicos elementos disponibles para un diseñador son Objetos BIM, y cada Objeto BIM ya codifica las restricciones regulatorias y de desempeño aplicables a su tipo en una jurisdicción y zona climática dadas, entonces el informe de cumplimiento es estructuralmente innecesario. El modelo no puede ser no conforme porque las configuraciones no conformes no pueden colocarse.
-
-Esta es una afirmación composicional, no una afirmación de validación. La distinción importa porque los validadores generan informes que requieren remediación humana. Un sistema de composición que aplica restricciones en el momento de la colocación no tiene infracciones que informar.
-
-## Tres Capas
-
-Un Objeto BIM tiene [[bim-objects-three-layers|tres capas]]. Las tres son datos integrados en el objeto. Ni Regulación ni Zona Climática son opciones seleccionables por el usuario en tiempo de ejecución — son datos de referencia mostrados como tablas de consulta estáticas, exactamente como una hoja de datos de estándar técnico muestra múltiples filas de jurisdicción simultáneamente.
-
-**Capa 1 — Especificación.** La clase de entidad IFC (por ejemplo, `IfcWall`), referencia de clasificación Uniclass 2015 (por ejemplo, `Ss_20_05_30_75`), URI de concepto bSDD, descripción en lenguaje llano y plantillas de conjuntos de propiedades aplicables. Esta capa es la identidad permanente del Objeto BIM.
-
-**Capa 2 — Regulación.** Una tabla de superposiciones jurisdiccionales registradas. Cada fila es una superposición: jurisdicción, estándar, tipo de restricción, valor requerido, autoridad fuente y ruta de archivo IDS 1.0. Cuando una superposición incluye un fragmento de exclusión geométrica IFC, ese fragmento tiene precedencia incondicional sobre cualquier restricción numérica.
-
-**Capa 3 — Zona Climática.** Una tabla de requisitos de desempeño de zona climática registrados. Cada fila es una zona registrada: identificador de zona (alineado con ASHRAE 90.1 o equivalente nacional), parámetro de desempeño, valor requerido, unidad y estándar fuente. Cuando una fila de zona climática entra en conflicto con una fila de Regulación para el mismo parámetro, se aplica el valor más restrictivo.
-
-**Regla de composición:** `effective_value = max(regulation_requirement, climate_zone_requirement)` donde ambos expresan límites inferiores. Los fragmentos de exclusión geométrica anulan las restricciones numéricas incondicionalmente.
-
-## Forma de Implementación
-
-Los Objetos BIM están diseñados para almacenarse como JSON en formato W3C Design Token Community Group (DTCG), extendido con tipos de objeto específicos para BIM. El campo `$type` está pensado para extenderse más allá del conjunto central DTCG e incluir `bim-element`, `bim-material`, `bim-assembly` y tipos específicos de AEC relacionados. El mecanismo de alias DTCG estándar (`{token.reference}`) está diseñado para preservarse, permitiendo que los Objetos BIM se referencien entre sí composicionalmente.
-
-El formato legible por máquinas está pensado para permitir:
-- Integración de herramientas: cualquier herramienta de autoría BIM con un analizador DTCG podría consumir Objetos BIM sin desarrollo de complementos propietarios.
-- Control de versiones regulatorias: las superposiciones jurisdiccionales estarían versionadas independientemente de la capa de especificación.
-- Operación sin conexión: una bóveda completa de Objetos BIM está diseñada para ser un directorio de archivos JSON, clonable via git y consultable sin acceso a la red.
-
-## Relación con el Sistema de Diseño
-
-El sistema de Objetos BIM está diseñado para ser paralelo a la estructura de un sistema de diseño de software. IBM Carbon o un sistema similar proporciona una capa primitiva de tokens, una capa de recetas de componentes y una capa de extensiones específicas por superficie. La plataforma de Objetos BIM está pensada para proporcionar, de forma análoga, una capa primitiva de objetos (las 8 categorías de objetos DTCG ancladas a IFC 4.3), una capa de [[aec-interface-conventions|componentes AEC universal]] y extensiones específicas por superficie por tipo de programa del entorno construido.
-
-La analogía es estructural, no metafórica. Ambos sistemas abordan el mismo problema: aplicar coherencia entre superficies de autoría independientes codificando decisiones como unidades reutilizables, reasignables y versionables con especificaciones de restricciones legibles por máquinas.
-
-## Véase también
-
-- [[bim-objects-three-layers]] — cómo se estructuran las tres capas de composición (Especificación, Regulación, Zona Climática)
-- [[bim-objects-substrate]] — las ocho categorías de Objetos BIM primitivos y sus anclas de entidades IFC
-- [[design-system-bim]] — el Sistema de Diseño de la Construcción para el entorno construido
-- [[flat-file-bim-leapfrog]] — el sustrato de archivo plano que hace posible la composición pre-restringida
+- [[bim-design-philosophy]] — por qué importa este enfoque de pre-restricción, y qué reemplaza
+- [[bim-objects-three-layers]] — la estructura de tres capas que lleva un Objeto BIM
+- [[design-system-bim]] — el Sistema de Diseño de la Construcción más amplio en el que se inscribe
