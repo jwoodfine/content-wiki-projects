@@ -26,7 +26,7 @@ The Optimum Mosaic is used in two ways. It serves as a benchmarking standard for
 
 ## The sales per square foot ranking
 
-The Optimum Mosaic methodology uses sales per square foot as its primary sorting criterion for identifying the top Primary Target locations. Sales per square foot is a retail performance metric that reflects consumer purchasing intensity within the trade area: a Walmart Supercentre generating high sales per square foot is operating in a trade area where consumers have both the purchasing capacity and the frequency of visit required to drive volume above the chain average.
+The Optimum Mosaic methodology uses sales per square foot as its primary sorting criterion for identifying the top Primary Target locations. Sales per square foot is a retail performance metric that reflects consumer purchasing intensity within the trade area. A Walmart Supercentre generating high sales per square foot is operating in a trade area where consumers have both the purchasing capacity and the frequency of visit required to drive volume above the chain average.
 
 Sorting Primary Targets strictly by sales per square foot — rather than by total sales volume, total floor area, or geographic rank — identifies which retail nodes are most efficiently extracting consumer purchasing from their trade areas. A smaller Supercentre with exceptionally high sales per square foot outranks a larger Supercentre with average productivity. This ranking captures consumer demand density rather than absolute market size, which is the more relevant criterion for identifying development sites where professional services tenancy will find a viable client base.
 

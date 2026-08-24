@@ -39,7 +39,7 @@ label swap.
 
 Adjacent land availability is a separate condition. A site can have the correct co-location configuration and the correct demographic profile, but lack a parcel adjacent to the Primary Target that is available for acquisition at the time of assessment. This is particularly common in [[about-regional-markets-system|Regional Markets]] where the [[power-centres|Power Centre]] footprint has been fully developed and surrounding parcels are occupied by existing buildings whose owners are not current sellers.
 
-The Monitoring Register preserves the investment made in scoring and profiling these sites rather than discarding them from the dataset. The site's qualifying cluster characteristics are not expected to change — the Primary Target is typically a large-format retailer with a long-term lease and substantial capital invested in the site — and the probability that adjacent land will eventually become available is a function of normal commercial real estate turnover in the surrounding area.
+The Monitoring Register preserves the investment made in scoring and profiling these sites rather than discarding them from the dataset. The site's qualifying cluster characteristics are not expected to change — the Primary Target is typically a large-format retailer with a long-term lease and substantial capital invested in the site. The probability that adjacent land will eventually become available is a function of normal commercial real estate turnover in the surrounding area.
 
 ## Update cadence and scoring maintenance
 

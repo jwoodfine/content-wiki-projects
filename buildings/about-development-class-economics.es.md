@@ -22,9 +22,9 @@ características físicas y económicas donde comienza el análisis de inversió
 comerciales. El programa de tenencia directa de Woodfine
 aplica una [[about-development-classes|taxonomía de seis clases]]: [[class-professional-centres|Centros Profesionales]], Oficina Suburbana, Industrial
 Tecnológico y Retail Selectivo — cubiertas a continuación con economía establecida — más
-Estructuras de Estacionamiento y Almacenes Verticales, dos clases aún en desarrollo cuyas
-características económicas se publicarán una vez que se suministren formalmente sus
-especificaciones físicas.
+Estructuras de Estacionamiento y Almacenes Verticales. Estas dos últimas clases están aún en
+desarrollo; sus características económicas se publicarán una vez que se suministren formalmente
+sus especificaciones físicas.
 
 ## Puntos clave
 

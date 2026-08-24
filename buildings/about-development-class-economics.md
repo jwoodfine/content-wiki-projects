@@ -21,9 +21,9 @@ and financing parameters — the physical and economic characteristics where com
 estate investment analysis begins. Woodfine's
 direct-hold programme applies a [[about-development-classes|six-class taxonomy]]: [[class-professional-centres|Professional Centres]], Suburban Office,
 Tech Industrial, and Retail Select — covered below with established economics — plus Parking
-Structures and Vertical Warehouses, two classes still under development whose economic
-characteristics (floor plate, lease term, NOI profile) will be published once their physical
-specifications are formally supplied. Each class occupies a distinct position in the commercial
+Structures and Vertical Warehouses. The latter two classes are still under development; their
+economic characteristics (floor plate, lease term, NOI profile) will be published once their
+physical specifications are formally supplied. Each class occupies a distinct position in the commercial
 property market with distinct economic characteristics.
 
 ## Key takeaways
