@@ -24,7 +24,7 @@ El capital de desarrollo minorista suele comprometerse sobre comparables y estim
 
 La metodología de co-ubicación de Woodfine la mide. Clasifica los sitios de desarrollo por la convergencia objetiva de operadores minoristas independientes con capital intensivo, no por estimaciones de mercado ni pronósticos de analistas. El marco se operacionaliza mediante el [[co-location-ranking-system|sistema de clasificación determinista]] y se expone a los usuarios de la plataforma a través del [[co-location-intelligence-overview|resumen de inteligencia de co-ubicación]].
 
-Un nodo califica cuando un hipermercado, un club de almacén y una tienda de mejoras del hogar han comprometido capital independientemente dentro de 1,0 a 3,0 km entre sí. Cada operador ejecuta su propio proceso de selección de sitio; la convergencia es corroboración independiente, no un pronóstico único. La lógica de calificación, la formación de clústeres y el requisito de adyacencia de [[co-location-anchors|anclas]] son los tres insumos estructurales del índice.
+Un nodo califica cuando un hipermercado, un club de almacén y una tienda de mejoras del hogar han comprometido capital independientemente dentro de un radio de captación definido entre sí. Cada operador ejecuta su propio proceso de selección de sitio; la convergencia es corroboración independiente, no un pronóstico único. La lógica de calificación, la formación de clústeres y el requisito de adyacencia de [[co-location-anchors|anclas]] son los tres insumos estructurales del índice.
 
 Para un asignador de capital el índice es un filtro defensivo: prioriza los sitios donde varias partes han validado de forma independiente el área de comercio. Este artículo cubre el Modelo de Anclas Nominadas, los tres niveles de operadores y los cinco niveles de calidad; los artículos relacionados describen la [[od-catchment-methodology|metodología de captación O-D]], las [[trade-area-data-sources|fuentes de datos de áreas comerciales]] y la [[catchment-ranking-methodology-v3|metodología de clasificación de captación]].
 
@@ -35,8 +35,8 @@ Los grandes minoristas aplican criterios de selección de sitio rigurosos y basa
 La metodología ordena a estos operadores en tres niveles, por función comercial y contribución de tráfico peatonal.
 
 1. **Objetivos Primarios (el ancla):** el requisito fundamental de cualquier nodo evaluado; el motor de tráfico central. En Norteamérica, Walmart Supercentre; en Europa, IKEA como línea base operativa.
-2. **Objetivos Secundarios (soporte comercial):** operadores complementarios de gran formato — hardware (Home Depot, Lowe's, Leroy Merlin) y clubes de almacén (Costco, Sam's Club, Makro) — evaluados en un radio de captación de 1,0 a 3,0 km.
-3. **Objetivos Terciarios (soporte institucional):** infraestructura cívica — hospitales y universidades — evaluada en un radio de 5,0 km.
+2. **Objetivos Secundarios (soporte comercial):** operadores complementarios de gran formato — hardware (Home Depot, Lowe's, Leroy Merlin) y clubes de almacén (Costco, Sam's Club, Makro) — evaluados en un radio de captación definido.
+3. **Objetivos Terciarios (soporte institucional):** infraestructura cívica — hospitales y universidades — evaluada en un radio de captación más amplio que el de los secundarios comerciales.
 
 ## Validación de sitios y niveles de calidad
 

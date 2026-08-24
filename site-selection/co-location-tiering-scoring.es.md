@@ -17,7 +17,9 @@ paired_with: site-selection/co-location-tiering-scoring.md
 cites: []
 ---
 
-El mapa de inteligencia de ubicación de Woodfine asigna a cada clúster de co-ubicación uno de tres niveles — T1, T2 o T3 — sobre la base de la composición de categorías de minoristas. Los niveles se representan como puntos de colores graduados de T1 (co-ubicación más profunda) a T3 (co-ubicación calificada más superficial). Comprender con precisión qué miden los niveles — y qué no — es necesario para leer correctamente cualquier resultado de clúster.
+Este artículo describe una metodología de niveles composicionales — fundamentada en la investigación de agrupación basada en DBSCAN documentada en [[geometric-site-selection-national-tenancy]] — que asigna a cada clúster de co-ubicación uno de tres niveles — T1, T2 o T3 — sobre la base de la composición de categorías de minoristas. Representados como puntos de colores, los niveles se gradúan de T1 (co-ubicación más profunda) a T3 (co-ubicación calificada más superficial). Comprender con precisión qué miden estos niveles — y qué no — es necesario para leer correctamente un resultado de clúster composicional.
+
+Las etiquetas de nivel que se muestran actualmente en el mapa de inteligencia de ubicación de Woodfine son el sistema de cuatro niveles — Regional, Distrital, Local, Marginal — descrito en [[co-location-tier-nomenclature]]. El modelo composicional T1/T2/T3 documentado en este artículo es un enfoque de clasificación distinto y relacionado; los dos no deben leerse como intercambiables.
 
 ## Qué miden los niveles
 
@@ -39,11 +41,11 @@ Los clústeres se producen mediante agrupación espacial de ubicaciones de minor
 - **minPts** — el número mínimo de puntos necesarios para iniciar un clúster.
 - **Umbral de IoU** — el corte de intersección sobre unión utilizado para deduplicar clústeres candidatos superpuestos.
 
-Un límite duro de **3,0 km** en el alcance del clúster (diámetro máximo por pares) se aplica uniformemente. Un alcance de 1,0 km o menos lleva una bandera de calidad `tight_intact`.
+Un límite duro en el alcance del clúster (diámetro máximo por pares) se aplica uniformemente; un ajuste más amplio no se utiliza porque fusiona aglomeraciones distintas. Los clústeres cuyo alcance queda muy por debajo de ese límite llevan una bandera de calidad interna que indica una mayor compacidad espacial.
 
 ### Sensibilidad: el conteo de clústeres es una salida del modelo
 
-DBSCAN es un procedimiento **descriptivo**. El número de clústeres que devuelve el algoritmo es una función de eps, minPts y el umbral de IoU, y se mueve materialmente cuando estos varían dentro de rangos razonables. Los barridos de parámetros realizados durante el desarrollo demuestran esto directamente: en el rango razonable probado, el **conteo de clústeres norteamericanos se mueve de aproximadamente 226 a 476** dependiendo de la configuración. Un conteo titular de clústeres es, por tanto, una salida del modelo bajo una parametrización elegida, no un conteo preciso de un fenómeno objetivo.
+DBSCAN es un procedimiento **descriptivo**. El número de clústeres que devuelve el algoritmo es una función de eps, minPts y el umbral de IoU, y se mueve materialmente cuando estos varían dentro de rangos razonables. Los barridos de parámetros realizados durante el desarrollo demuestran esto directamente: en el rango razonable probado, el conteo de clústeres norteamericanos varía en más del doble dependiendo de la configuración, sin ningún cambio en los datos minoristas subyacentes. Un conteo titular de clústeres es, por tanto, una salida del modelo bajo una parametrización elegida, no un conteo preciso de un fenómeno objetivo.
 
 ## El puntaje de fortaleza planeado
 
@@ -83,8 +85,8 @@ Para cada clúster seleccionado, el panel de detalle planeado presenta, como mí
 | Qué mide un nivel | Ambiguo | Explícitamente composición (conteo y combinación de categorías de ancla), ordinal |
 | Apoyo a la decisión | Solo insignia de nivel y anillos | Cuadro de mando planeado: población, gasto, cadenas co-ubicadas, puntaje de fortaleza explicable con factores nombrados |
 | Puntaje de fortaleza | Conflado con el nivel | Planeado como dimensión separada, del lado de la demanda, descomponible |
-| Parámetros DBSCAN | No publicados | eps, minPts, IoU y el límite de alcance de 3,0 km publicados en el modal de Metodología y aquí |
-| Conteo de clústeres | Declarado como cifra precisa | Salida del modelo bajo una parametrización; rango del barrido de Norteamérica divulgado |
+| Parámetros DBSCAN | No publicados | eps, minPts, IoU y el límite de alcance publicados en el modal de Metodología y aquí |
+| Conteo de clústeres | Declarado como cifra precisa | Salida del modelo bajo una parametrización; sensibilidad a la elección de parámetros divulgada |
 
 ## Véase también
 

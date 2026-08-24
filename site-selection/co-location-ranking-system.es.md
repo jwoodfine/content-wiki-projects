@@ -37,7 +37,7 @@ Los operadores secundarios y terciarios se clasifican en cuatro categorías dete
 | **Salud** | Terciario-A | Infraestructura cívica crítica (hospitales, centros médicos) que proporciona bases demográficas estables. |
 | **Educación superior** | Terciario-B | Anclas institucionales (universidades, colegios) que generan densidad de tráfico no cíclica. |
 
-Un operador secundario se considera co-ubicado cuando se encuentra dentro del radio secundario (por defecto: 3 km desde el ancla). Los operadores terciarios se puntúan dentro de un radio de 5 km.
+Un operador secundario se considera co-ubicado cuando se encuentra dentro de un radio de captación secundario definido desde el ancla. Los operadores terciarios se puntúan dentro de un radio de captación más amplio.
 
 ## La matriz de 12 rangos
 
@@ -68,38 +68,36 @@ Los doce rangos se agrupan en cinco niveles para ofrecer una visión de alto niv
 
 ### ★★★★★ Rango 1 — Co-ubicación completa
 *Solo Rango 1. Las cuatro categorías presentes.*
-La designación más alta. El ancla opera dentro de 3 km tanto de una gran superficie de hardware como de un club de precio, y dentro de 5 km de una instalación sanitaria y una universidad. Esto indica que cuatro procesos independientes de selección de sitios han convergido en el mismo nodo. A 2 de mayo de 2026: **102 sitios** (Norteamérica).
+La designación más alta. El ancla opera dentro del radio de captación secundario tanto de una gran superficie de hardware como de un club de precio, y dentro del radio terciario más amplio de una instalación sanitaria y una universidad. Esto indica que cuatro procesos independientes de selección de sitios han convergido en el mismo nodo. Es el rango más raro y selectivo del índice.
 
 ### ★★★★ Rango 2 — Co-ubicación fuerte
 *Rangos 2–3. Tres categorías presentes.*
-El ancla está emparejada con una gran superficie de hardware y un club de precio, más una de las dos categorías terciarias. La co-ubicación comercial es estructuralmente completa; falta una dimensión institucional. A 2 de mayo de 2026: **268 sitios** (NA: 259, UE: 9).
+El ancla está emparejada con una gran superficie de hardware y un club de precio, más una de las dos categorías terciarias. La co-ubicación comercial es estructuralmente completa; falta una dimensión institucional. Este rango sigue siendo poco común, aunque menos raro que el Rango 1.
 
 ### ★★★ Rango 3 — Co-ubicación parcial
 *Rangos 4–7. Dos categorías presentes.*
-La base comercial del índice. Incluye la combinación de Rango 4 (ancla + hardware + club de precio) así como combinaciones de secundario único apoyadas por presencia institucional terciaria. A 2 de mayo de 2026: **1,571 sitios** (NA: 1,396, UE: 175).
+La base comercial del índice. Incluye la combinación de Rango 4 (ancla + hardware + club de precio) así como combinaciones de secundario único apoyadas por presencia institucional terciaria. Este rango representa la mayor proporción de sitios calificados.
 
 ### ★★ Rango 4 — Co-ubicación limitada
 *Rangos 8–10. Una categoría presente.*
-El ancla tiene un secundario o soporte terciario co-ubicado importante. La calidad del sitio en este nivel depende en gran medida del mercado. A 2 de mayo de 2026: **356 sitios** (NA: 333, UE: 23).
+El ancla tiene un secundario o soporte terciario co-ubicado importante. La calidad del sitio en este nivel depende en gran medida del mercado.
 
 ### ★ Rango 5 — Solo ancla
 *Rangos 11–12. Solo terciario o solo club de precio.*
-El ancla hipermercado está presente, pero los secundarios principales de co-ubicación comercial (hardware y/o club de precio) están mayormente ausentes. Estos sitios representan el mínimo del índice. A 2 de mayo de 2026: **441 sitios** (NA: 398, UE: 43).
+El ancla hipermercado está presente, pero los secundarios principales de co-ubicación comercial (hardware y/o club de precio) están mayormente ausentes. Estos sitios representan el mínimo del índice.
 
 ## Calibración y escasez
 
-El radio secundario (1 km, 2 km o 3 km) determina la densidad del índice. La plataforma aplica una **regla de calibración** automática para mantener la escasez del índice: si los sitios de Rango 1 superan el 10% del total de ubicaciones de anclas, el sistema reduce el radio por defecto.
-
-A 2 de mayo de 2026, los sitios de Rango 1 representan el 3,7% del total de anclas — muy por debajo del umbral. El valor por defecto actual de 3 km sigue siendo la configuración de calibración activa.
+El radio de captación secundario es un parámetro ajustable que determina la densidad del índice. La plataforma recalibra periódicamente este radio para preservar la escasez del índice, asegurando que el nivel más alto siga siendo una pequeña minoría del total de sitios ancla en lugar de crecer hasta abarcar una proporción grande del índice.
 
 ## Adaptación al mercado
 
 Cada uno de los ocho mercados minoristas utiliza una configuración de región dedicada que mapea los operadores locales a los roles canónicos de ancla y secundario. Esto asegura que el algoritmo aplique una lógica estructural consistente en las distintas jurisdicciones donde diferentes marcas desempeñan funciones comerciales equivalentes (por ejemplo, Costco en Canadá, Makro en Europa).
 
-La integración del conjunto de datos de instalaciones de aviación (29.020 registros) en la puntuación terciaria es un objetivo previsto para futuras iteraciones de la matriz de clasificación. [ni-51-102] [osc-sn-51-721]
+La integración de un conjunto de datos de instalaciones de aviación en la puntuación terciaria es un objetivo previsto para futuras iteraciones de la matriz de clasificación. [ni-51-102] [osc-sn-51-721]
 
 ## Procedencia
-- **Verificación:** La distribución de rangos y la lógica de la matriz han sido verificadas contra la configuración de la plataforma SIG al 2 de mayo de 2026.
+- **Verificación:** La distribución de rangos y la lógica de la matriz han sido verificadas contra la configuración de la plataforma SIG.
 - **Declaración prospectiva:** La integración del conjunto de datos de aviación en la puntuación terciaria es un objetivo previsto, etiquetado conforme a [ni-51-102].
 
 ## Ver también

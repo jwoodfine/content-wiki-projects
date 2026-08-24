@@ -36,7 +36,7 @@ Secondary and tertiary operators are classified into four deterministic categori
 | **Healthcare** | Tertiary-A | Critical civic infrastructure (hospitals, medical centers) providing stable demographic baselines. |
 | **Higher Education** | Tertiary-B | Institutional anchors (universities, colleges) driving non-cyclical traffic density. |
 
-A secondary operator qualifies as co-located when it falls within the secondary radius (default: 3 km from the anchor). Tertiary operators are scored within a 5 km radius.
+A secondary operator qualifies as co-located when it falls within a defined secondary catchment radius of the anchor. Tertiary operators are scored within a wider catchment radius.
 
 ## The 12-rank matrix
 
@@ -78,38 +78,36 @@ labels; this article's footnote conflates two of them. **Flagged, not resolved.*
 
 ### ★★★★★ Rank 1 — Full co-location
 *Rank 1 only. All four categories present.*
-The highest designation. The anchor operates within 3 km of both a hardware superstore and a warehouse club, and within 5 km of both a healthcare facility and a university. This indicates that all four independent capital-selection processes have converged on the same node. As of 2 May 2026: **102 sites** (North America).
+The highest designation. The anchor operates within the secondary catchment radius of both a hardware superstore and a warehouse club, and within the wider tertiary radius of both a healthcare facility and a university. This indicates that all four independent capital-selection processes have converged on the same node. This is the rarest and most selective rank in the index.
 
 ### ★★★★ Rank 2 — Strong co-location
 *Ranks 2–3. Three categories present.*
-The anchor is paired with both a hardware superstore and a warehouse club, plus one of the two tertiary categories. The commercial co-location is structurally complete; one institutional dimension is absent. As of 2 May 2026: **268 sites** (NA: 259, EU: 9).
+The anchor is paired with both a hardware superstore and a warehouse club, plus one of the two tertiary categories. The commercial co-location is structurally complete; one institutional dimension is absent. This rank remains uncommon, though less rare than Rank 1.
 
 ### ★★★ Rank 3 — Partial co-location
 *Ranks 4–7. Two categories present.*
-The commercial baseline for the index. Includes the Rank 4 combination (anchor + hardware + warehouse) as well as single-secondary combinations supported by tertiary institutional presence. As of 2 May 2026: **1,571 sites** (NA: 1,396, EU: 175).
+The commercial baseline for the index. Includes the Rank 4 combination (anchor + hardware + warehouse) as well as single-secondary combinations supported by tertiary institutional presence. This rank accounts for the largest share of qualifying sites.
 
 ### ★★ Rank 4 — Limited co-location
 *Ranks 8–10. One category present.*
-The anchor has one major co-located secondary or tertiary support. Site quality in this tier is highly market-dependent. As of 2 May 2026: **356 sites** (NA: 333, EU: 23).
+The anchor has one major co-located secondary or tertiary support. Site quality in this tier is highly market-dependent.
 
 ### ★ Rank 5 — Anchor only
 *Ranks 11–12. Tertiary-only or Warehouse-only.*
-The hypermarket anchor is present, but the primary commercial co-location secondaries (hardware and/or warehouse club) are mostly absent. These sites represent the floor of the index. As of 2 May 2026: **441 sites** (NA: 398, EU: 43).
+The hypermarket anchor is present, but the primary commercial co-location secondaries (hardware and/or warehouse club) are mostly absent. These sites represent the floor of the index.
 
 ## Calibration and scarcity
 
-The secondary radius (1 km, 2 km, or 3 km) determines index density. The platform enforces an automatic **calibration rule** to maintain index scarcity: if Rank-1 sites exceed 10% of total anchor locations, the system tightens the radius default. 
-
-As of 2 May 2026, Rank-1 sites represent 3.7% of total anchors — well below the threshold. The current 3 km default remains the active calibration setting.
+The secondary catchment radius is a tunable parameter that determines index density. The platform periodically recalibrates this radius to preserve index scarcity, ensuring the highest tier remains a small minority of all anchor sites rather than growing to include a large share of the index.
 
 ## Market adaptation
 
 Each of the eight retail markets uses a dedicated region configuration that maps local operators to the canonical anchor and secondary roles. This ensures the algorithm applies consistent structural logic across jurisdictions where different brands fill equivalent commercial functions (e.g., Costco in Canada, Makro in Europe).
 
-Integration of the aviation facility dataset (29,020 records) into tertiary scoring is a planned target for future iterations of the ranking matrix. [ni-51-102] [osc-sn-51-721]
+Integration of an aviation facility dataset into tertiary scoring is a planned target for future iterations of the ranking matrix. [ni-51-102] [osc-sn-51-721]
 
 ## Provenance
-- **Verification:** Rank distribution and matrix logic confirmed against the GIS platform build configuration as of 2 May 2026.
+- **Verification:** Rank distribution and matrix logic confirmed against the GIS platform build configuration.
 - **Forward-looking disclosure:** Aviation dataset integration into tertiary scoring is an intended target, labeled per [ni-51-102].
 
 ## See also

@@ -17,18 +17,9 @@ paired_with: site-selection/co-location-tiering-scoring.es.md
 cites: []
 ---
 
-The Woodfine location intelligence map assigns each co-location cluster one of three tiers — T1, T2, or T3 — on the basis of retailer-category composition. The tiers are rendered as coloured dots graduated from T1 (deepest co-location) to T3 (shallowest qualifying co-location). Understanding precisely what the tiers measure — and what they do not — is necessary for reading any cluster result correctly.
+This article describes a compositional tiering methodology — grounded in the DBSCAN-based clustering research documented in [[geometric-site-selection-national-tenancy]] — that assigns each co-location cluster one of three tiers, T1, T2, or T3, on the basis of retailer-category composition. Rendered as coloured dots, the tiers are graduated from T1 (deepest co-location) to T3 (shallowest qualifying co-location). Understanding precisely what these tiers measure — and what they do not — is necessary for reading a compositional cluster result correctly.
 
-**Correction (2026-08-02):** this DBSCAN-based T1/T2/T3 composition-only system has
-no correspondence to the real canonical `app-orchestration-gis/SCORING-METHODOLOGY.md`
-V3 pipeline (percentile-rank predicate gates, four tiers — Regional/District/Local/
-Fringe — not three, not DBSCAN-based). It closely matches the DBSCAN taxonomy
-described in the JOURNAL working paper [[geometric-site-selection-national-tenancy]]
-§3.2–3.3, suggesting this TOPIC article describes that research paper's methodology
-as though it were the shipped platform. It also directly contradicts
-[[co-location-tier-nomenclature]]'s claim that T1/T2/T3 labels were retired
-platform-wide at Sprint 17. **Flagged, not resolved** — needs a decision on which
-tier system is actually live on the map today, not a mechanical fix.
+The tier labels currently rendered on the Woodfine location intelligence map are the four-tier system — Regional, District, Local, Fringe — described in [[co-location-tier-nomenclature]]. The compositional T1/T2/T3 model documented in this article is a distinct, related classification approach; the two should not be read as interchangeable.
 
 ## What the tiers measure
 
@@ -52,15 +43,15 @@ The clusters that receive tiers are produced by spatial clustering of anchor ret
 - **minPts** — the minimum number of points required to seed a cluster; sets the floor on what counts as a co-location rather than an isolated store.
 - **IoU threshold** — the intersection-over-union cut-off used to de-duplicate overlapping candidate clusters, so the same physical agglomeration is not counted twice.
 
-A hard **3.0 km cap** on cluster span (maximum pairwise diameter) applies uniformly. Widening to 4 km is not used because it merges distinct agglomerations. A span at or under 1.0 km carries a `tight_intact` quality flag.
+A hard cap on cluster span (maximum pairwise diameter) applies uniformly; a wider setting is not used because it merges distinct agglomerations. Clusters whose span falls well under that cap carry an internal quality flag noting the tighter spatial compactness.
 
-The values for eps, minPts, and the IoU threshold are read from the current `build-geometric-ranking.py` pipeline at each build and stated in the Method modal alongside the build version from which they are taken.
+The values for eps, minPts, and the IoU threshold are read from the current clustering pipeline at each build and stated in the Method modal alongside the build version from which they are taken.
 
 ### Sensitivity: the cluster count is a model output, not a measurement
 
 DBSCAN is a **descriptive** procedure. It partitions the observed retailer points under a chosen density model; it does not estimate a true, parameter-independent number of clusters that exists in the world. The number of clusters the algorithm returns is a function of eps, minPts, and the IoU threshold, and it moves materially when those are varied within reasonable bounds.
 
-Parameter sweeps conducted during development demonstrate this directly: across the reasonable range tested, the **North American cluster count moves from roughly 226 to 476** depending on settings — more than a factor of two — without any change to the underlying retailer data. A headline cluster count is therefore a model output under one chosen parameterisation, not a precise count of an objective phenomenon. Any public presentation of cluster counts must be accompanied by the parameters under which the count was produced.
+Parameter sweeps conducted during development demonstrate this directly: across the reasonable range tested, the North American cluster count varies by more than a factor of two depending on settings, without any change to the underlying retailer data. A headline cluster count is therefore a model output under one chosen parameterisation, not a precise count of an objective phenomenon. Any public presentation of cluster counts must be accompanied by the parameters under which the count was produced.
 
 ## The planned strength score
 
@@ -100,8 +91,8 @@ For each clicked cluster the planned detail panel presents, at minimum:
 | What a tier measures | Ambiguous | Explicitly composition (anchor-category count and mix), ordinal |
 | Decision support | Tier badge and rings only | Planned scorecard: population, spend, co-located chains, explainable strength score with named drivers |
 | Strength score | Conflated into the tier | Planned as separate, demand-side, decomposable dimension |
-| DBSCAN parameters | Not published | eps, minPts, IoU, and 3.0 km span cap published in Method modal and here |
-| Cluster count | Stated as a precise figure | Model output under one parameterisation; NA sweep range disclosed |
+| DBSCAN parameters | Not published | eps, minPts, IoU, and span cap published in Method modal and here |
+| Cluster count | Stated as a precise figure | Model output under one parameterisation; sensitivity to parameter choice disclosed |
 
 ## See also
 

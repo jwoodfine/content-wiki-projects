@@ -25,7 +25,7 @@ Retail development capital is usually committed on comparables and analyst senti
 
 The Woodfine co-location methodology measures it. It ranks development sites by the objective convergence of independent, capital-intensive retail operators, not by market sentiment or analyst forecasts. The framework is operationalised by the [[co-location-ranking-system|deterministic ranking system]] and exposed to platform users via the [[co-location-intelligence-overview|co-location intelligence overview]].
 
-A node qualifies when a hypermarket, a warehouse club, and a home-improvement superstore have each independently committed capital within 1.0 to 3.0 km of one another. Each operator runs its own site-selection process; convergence is independent corroboration, not a single forecast. The qualification logic, [[co-location-cluster-formation|cluster formation]], and the [[co-location-anchors|anchor]] adjacency requirement are the three structural inputs to the index.
+A node qualifies when a hypermarket, a warehouse club, and a home-improvement superstore have each independently committed capital within a defined catchment radius of one another. Each operator runs its own site-selection process; convergence is independent corroboration, not a single forecast. The qualification logic, [[co-location-cluster-formation|cluster formation]], and the [[co-location-anchors|anchor]] adjacency requirement are the three structural inputs to the index.
 
 For a capital allocator the index is a defensive filter: it prioritises the sites where several parties have independently validated the trade area. This article covers the Named-Anchor Model, the three operator tiers, and the five quality tiers; sibling articles describe the [[od-catchment-methodology|O-D catchment methodology]], the [[trade-area-data-sources|trade-area data sources]], and the [[catchment-ranking-methodology-v3|catchment ranking methodology]].
 
@@ -44,14 +44,14 @@ The foundational requirement for any evaluated node; the core traffic driver.
 
 ### Secondary Targets — commercial support
 
-Complementary large-format operators that validate the trade area's commercial depth. They are evaluated within a strict 1.0 km to 3.0 km catchment radius of the Primary Target.
+Complementary large-format operators that validate the trade area's commercial depth. They are evaluated within a defined catchment radius of the Primary Target, tighter than the radius used for institutional support.
 
 - **Secondary-1 (hardware):** Home Depot, Lowe's, Leroy Merlin.
 - **Secondary-2 (warehouse club):** Costco, Sam's Club, Makro.
 
 ### Tertiary Targets — institutional support
 
-Civic and institutional infrastructure that provides a non-cyclical, stable demographic baseline. Evaluated within a 5.0 km catchment radius.
+Civic and institutional infrastructure that provides a non-cyclical, stable demographic baseline. Evaluated within a wider catchment radius than the commercial secondaries.
 
 - **Tertiary-A (healthcare):** major hospitals and medical centres.
 - **Tertiary-B (higher education):** universities and colleges.
