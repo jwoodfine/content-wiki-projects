@@ -10,7 +10,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-06-26
+last_edited: 2026-08-24
 editor: pointsav-engineering
 short_description: "El estándar de medición de área de piso de la Building Owners and Managers Association, base de medición común para las áreas de arrendamiento y comparaciones de edificios de Woodfine."
 paired_with: building-design/boma-standard.md
@@ -26,7 +26,7 @@ El estándar BOMA distingue dos medidas principales de área:
 
 El **Área Utilizable** es el espacio que un inquilino ocupa exclusivamente — el área demisada dentro de los muros divisorios, excluyendo el núcleo del edificio y las áreas comunes de múltiples inquilinos. Representa el espacio que un inquilino configura y opera.
 
-El **Área Arrendable** agrega una participación proporcional de las áreas comunes del edificio — vestíbulos, pasillos, áreas de servicio — al Área Utilizable, produciendo el área sobre la que se aplica la tarifa de arrendamiento. La relación entre Área Arrendable y Área Utilizable (el "factor de carga" o "factor de pérdida") refleja qué tan eficientemente el edificio convierte el área bruta en uso exclusivo del inquilino.
+El **Área Arrendable** agrega una participación proporcional de las áreas comunes del edificio — vestíbulos, pasillos, áreas de servicio — al Área Utilizable, produciendo el área sobre la que se aplica la tarifa de arrendamiento. Dos cifras relacionadas pero distintas describen esta relación: el **factor de carga** es la razón entre el Área Arrendable y el Área Utilizable — un multiplicador, típicamente cercano a 1.15 — mientras que el **factor de pérdida** es la diferencia entre el Área Arrendable y el Área Utilizable expresada como porcentaje del Área Arrendable, típicamente cercano al 13%. Ambos reflejan qué tan eficientemente el edificio convierte el área bruta en uso exclusivo del inquilino, pero no son intercambiables: el factor de carga multiplica el Área Utilizable hasta llegar al Área Arrendable, mientras que el factor de pérdida indica qué proporción del Área Arrendable corresponde a la asignación de áreas comunes.
 
 Las [[fixed-floor-plates|placas de piso fijas]] de Woodfine están diseñadas para optimizar la relación Arrendable/Utilizable minimizando la huella del núcleo en relación con el área total de la placa. Un núcleo de edificio más pequeño en relación con la placa produce un factor de carga menor, lo que significa que los inquilinos obtienen más Área Utilizable por unidad de Área Arrendable pagada.
 

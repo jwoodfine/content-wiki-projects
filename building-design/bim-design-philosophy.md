@@ -54,4 +54,4 @@ This architecture is intended to keep BIM components consistent with the broader
 
 - [[bim-aec-muscle-memory]]
 - [[bim-objects-substrate]]
-- Flat-file BIM leapfrog
+- [[flat-file-bim-leapfrog]]

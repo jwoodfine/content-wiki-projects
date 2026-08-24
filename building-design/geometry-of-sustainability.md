@@ -6,11 +6,11 @@ category: building-design
 type: topic
 content_type: topic
 quality: complete
-short_description: "Engineering discipline applying European lighting, Swiss air-exchange, and German circulation standards to the fixed floor plate, with a documented 30% operating-cost reduction."
+short_description: "Engineering discipline applying European lighting, Swiss air-exchange, and German circulation standards to the fixed floor plate, for improved building operating-cost efficiency."
 status: stable
 audience: customer-woodfine
 bcsc_class: current-fact
-last_edited: 2026-07-11
+last_edited: 2026-08-24
 editor: pointsav-engineering
 language_protocol: PROSE-TOPIC
 source_refs:
@@ -19,36 +19,26 @@ paired_with: building-design/geometry-of-sustainability.es.md
 cites: []
 ---
 
-The **Geometry of Sustainability** is Woodfine's approach to building environmental performance: engineering three regulatory standards — the European Lighting Directive, Swiss Air Exchange Requirements, and German Circulation Requirements — directly into the Fixed Floor Plate geometry of every Woodfine Building, rather than seeking certification compliance after design is complete.
-
-**Correction (2026-08-02):** this article's sibling articles
-(bim-private-office-key-plans, bim-zone-depths-per-use-type) call the same
-underlying rules the "European Lighting **Standard**" and "German Circulation
-**Law**," not "Directive"/"Requirements." This is more than naming drift — an EU
-Directive is transposed legislation, while a technical lighting norm like EN
-12464-1 (which bim-zone-depths-per-use-type's own Future Research section
-speculates is the actual source) is a CEN Standard, a structurally different
-instrument type. Repeated in [[dual-mandate-building-certifications]]. **Flagged,
-not resolved.** The practical consequence is that every building in the Woodfine portfolio achieves a documented 30% reduction in operating costs for Office Tenants relative to conventional office construction.
+The **Geometry of Sustainability** is Woodfine's approach to building environmental performance: engineering three regulatory standards — the European Lighting Standard, Swiss Air Exchange Requirements, and German Circulation Law — directly into the Fixed Floor Plate geometry of every Woodfine Building, rather than seeking certification compliance after design is complete. The practical consequence is that every building in the Woodfine portfolio achieves a meaningful reduction in operating costs for Office Tenants relative to conventional office construction.
 
 ## The Three Regulatory Standards
 
 The Geometry of Sustainability operates through adherence to three specific regulatory frameworks applied as design constraints at the floor plate level.
 
-**European Lighting Directive.** The directive specifies minimum standards for both daylight access and artificial lighting quality in occupied workspace. Anchoring the Fixed Floor Plate geometry to this standard governs floor plate depth, fenestration positioning, and internal ceiling height. Buildings designed to these parameters reduce reliance on artificial lighting during daylight hours and produce measurable improvements in occupant environment quality without requiring post-construction technology overlays.
+**European Lighting Standard.** The standard specifies minimum requirements for both daylight access and artificial lighting quality in occupied workspace. Anchoring the Fixed Floor Plate geometry to this standard governs floor plate depth, fenestration positioning, and internal ceiling height. Buildings designed to these parameters reduce reliance on artificial lighting during daylight hours and produce measurable improvements in occupant environment quality without requiring post-construction technology overlays.
 
 **Swiss Air Exchange Requirements.** The Swiss standard for mechanical air exchange in occupied workspace specifies minimum fresh air volume per occupied person per hour. Incorporating this standard into the building section — the vertical dimension of the prototype — drives mechanical system sizing, slab-to-slab height, and duct zone allocation. The consequence is that air quality in Woodfine Buildings meets a defined quantitative threshold regardless of building occupancy level, eliminating the variable air quality that results from conventional systems optimized for average rather than peak occupant conditions.
 
-**German Circulation Requirements.** The standard governs corridor width, emergency egress, and internal vertical circulation capacity relative to floor plate area and occupant count. The Offset Pulled Back Core deployed in Woodfine Buildings is dimensioned to satisfy this standard: continuous corridor with direct line of sight to elevator lobbies at every floor. This configuration meets the required circulation standard while preserving the perimeter leasable area that centre-core designs sacrifice.
+**German Circulation Law.** The law governs corridor width, emergency egress, and internal vertical circulation capacity relative to floor plate area and occupant count. The Offset Pulled Back Core deployed in Woodfine Buildings is dimensioned to satisfy this requirement: continuous corridor with direct line of sight to elevator lobbies at every floor. This configuration meets the required circulation standard while preserving the perimeter leasable area that centre-core designs sacrifice.
 
 ## ESG Vocabulary and Regulatory Performance
 
 Woodfine does not pursue ESG labels as a distinct objective. The approach is the reverse: regulatory standards are applied as engineering constraints, and the measurable consequence is a building that performs at or above the threshold that ESG certification bodies assess. The distinction is methodological — outcome-first rather than label-first.
 
-This approach produces an outcome that is independently verifiable: the 30% operating cost reduction is a consequence of compliance with specific regulatory thresholds, not a performance claim based on a certification body's assessment. The source of the reduction is structural — fixed in the geometry of the floor plate — rather than operational, meaning it is not dependent on tenant behaviour, building management practices, or technology retrofits.
+This approach produces an outcome that is verifiable against the underlying regulatory thresholds: the operating cost reduction is a consequence of compliance with those thresholds, not a performance claim based on a certification body's assessment. The source of the reduction is structural — fixed in the geometry of the floor plate — rather than operational, meaning it is not dependent on tenant behaviour, building management practices, or technology retrofits.
 
 ## Operating Cost Consequence
 
 Operating costs are a primary determinant of Office Tenant profitability in Regional Markets. In a Regional Market, where competitive alternatives to Woodfine Buildings are typically conventional older construction, the operating cost differential compounds over a lease term. A tenant occupying a Woodfine Building at a given gross rent may have a lower total occupancy cost than a tenant in a legacy building at a lower headline rent, if the legacy building carries proportionately higher operating cost pass-throughs.
 
-The 30% operating cost reduction applies to the tenant's allocable share of building operating costs — HVAC, lighting, and common area mechanical maintenance — not to base rent. The reduction is a direct consequence of the building geometry meeting the three regulatory standards, which reduces energy consumption, mechanical system wear, and maintenance intervention frequency relative to buildings not designed to those standards.
+The operating cost reduction applies to the tenant's allocable share of building operating costs — HVAC, lighting, and common area mechanical maintenance — not to base rent. The reduction is a direct consequence of the building geometry meeting the three regulatory standards, which reduces energy consumption, mechanical system wear, and maintenance intervention frequency relative to buildings not designed to those standards.

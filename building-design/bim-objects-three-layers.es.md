@@ -7,7 +7,7 @@ category: building-design
 type: topic
 content_type: topic
 status: active
-last_edited: 2026-07-31
+last_edited: 2026-08-24
 editor: pointsav-engineering
 short_description: "Los BIM Objects incrustan tres capas de restricción simultáneas — Especificación (identidad permanente del elemento), Regulación (requisitos específicos de jurisdicción) y Zona Climática (requisitos de desempeño) — como datos de referencia estática con una regla de composición que aplica el valor más restrictivo."
 cites: [ifc-4-3, uniclass-2015, bsdd-v1, ids-1-0, dtcg-w3c, ashrae-90-1, nbc-2020]
@@ -78,7 +78,7 @@ La capa de Regulación contiene requisitos específicos de la jurisdicción. Es 
 
 | Jurisdicción | Estándar | Parámetro | Valor requerido | Unidad |
 |---|---|---|---|---|
-| CA-BC | NBC 2020 Parte 11 | Resistencia térmica (muro opaco) | ≥ RSI 3.85 | m²K/W |
+| CA-BC | NBC 2020 División B §9.36 | Resistencia térmica (muro opaco) | ≥ RSI 3.85 | m²K/W |
 | DE | EnEV 2020 | Transmitancia térmica (valor U) | ≤ 0.28 | W/m²K |
 | SG | SGBC BCA Green Mark | Transmitancia térmica (OTTV) | ≤ 45 | W/m² |
 | US-VA (federal) | ASHRAE 90.1-2022 | Factor U del conjunto (zona climática 4A) | ≤ 0.124 | Btu/h·ft²·°F |
@@ -98,7 +98,7 @@ La capa de Zona Climática contiene requisitos de desempeño basados en el clima
 | Sistema | Cobertura de jurisdicción | Estándar de referencia |
 |---|---|---|
 | Zonas climáticas ASHRAE 90.1 (1A–8) | EE. UU., referencia internacional | ASHRAE Standard 90.1-2022 |
-| Zonas climáticas del Código Nacional de Construcción | Canadá | NBC 2020 Parte 11 |
+| Zonas climáticas del Código Nacional de Construcción | Canadá | NBC 2020 |
 | Zonas de desempeño energético EN ISO 52000 | Estados miembros de la UE | EN ISO 52000-1:2017 |
 | Köppen-Geiger simplificado | Referencia cruzada global | Kottek et al. 2006 (actualizado 2021) |
 

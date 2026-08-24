@@ -7,7 +7,7 @@ category: building-design
 type: topic
 content_type: topic
 status: active
-last_edited: 2026-06-20
+last_edited: 2026-08-24
 editor: pointsav-engineering
 short_description: "A design-system platform for the built environment organized into eight BIM Object primitive categories and ten universal AEC interface components, providing shared specification vocabulary for independent authoring surfaces to coordinate without introducing new learning surfaces."
 cites: [ifc-4-3, uniclass-2015, bsdd-v1, ids-1-0, dtcg-w3c]
@@ -65,14 +65,7 @@ Research identified ten universal components that appear in every BIM authoring 
 9. **BIM Object Detail Tab** — The tabbed detail view for a single BIM Object category: Specification tab, Regulation tab, Climate Zone tab.
 10. **BIM Code Overlay Card** — Display unit for a single registered regulatory overlay: jurisdiction name, standard identifier, constraint summary, IDS file link, effective date.
 
-Three of these components (Spatial Tree, Properties Panel, Viewport 3D) are implemented at v0.0.1. The remaining seven are intended for v0.0.2 and v0.0.3.
-
-**Correction (2026-08-02, verified against canonical `origin/main`):** none of these
-component names exist in canonical code. `app-workplace-bim` and `app-console-bim`
-contain only documentation files (`CLAUDE.md`/`RESEARCH.md`/`NEXT.md`), no source
-code. `app-orchestration-bim` has real code, but it's an Axum server rendering DTCG
-tokens/markdown into a static catalog page — no viewport, spatial tree, or
-properties panel implementation exists anywhere in it. **Flagged, not resolved.**
+All ten of these components are planned, conceptual designs — none exists in canonical code yet. `app-workplace-bim` and `app-console-bim` contain only documentation files (`CLAUDE.md`/`RESEARCH.md`/`NEXT.md`), no source code. `app-orchestration-bim` has real code, but it is an Axum server rendering DTCG tokens/markdown into a static catalog page — no viewport, spatial tree, or properties panel implementation exists anywhere in it. Spatial Tree, Properties Panel, and Viewport 3D are intended for the earliest release; the remaining seven are intended for later releases.
 
 ## Surface-Specific Extensions
 
@@ -80,9 +73,9 @@ Beyond universal components, each built-environment programme type has a distinc
 
 **app-orchestration-bim** — The BIM Object Catalog web surface. Displays the full catalog, regulatory overlays, and standards reference. Read-only; serves designers, regulators, and machine consumers.
 
-**app-workplace-bim** — The BIM authoring workbench. Tauri 2.x desktop application embedding xeokit for 3D rendering and IfcOpenShell (via sidecar) for IFC parsing. Licensed AGPL-3.0 due to xeokit component licensing.
+**app-workplace-bim** — The planned BIM authoring workbench: a Tauri 2.x desktop application intended to embed xeokit for 3D rendering and IfcOpenShell (via sidecar) for IFC parsing, to be licensed AGPL-3.0 due to xeokit component licensing. Documentation only at this stage; no source code yet.
 
-**app-console-bim** — The administrative console for BIM Object vault management. Web-only Axum application. Read surface for object browsing; write surface (intended for v0.1.x) for BIM Object authoring via the four-zone CMS model.
+**app-console-bim** — The planned administrative console for BIM Object vault management: a web-only Axum application. Documentation only at this stage. Read surface for object browsing; write surface (intended for v0.1.x) for BIM Object authoring via the four-zone CMS model.
 
 ## Uniclass 2015 as Classification Floor
 

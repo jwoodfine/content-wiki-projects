@@ -7,7 +7,7 @@ category: building-design
 type: topic
 content_type: topic
 status: active
-last_edited: 2026-06-20
+last_edited: 2026-08-24
 editor: pointsav-engineering
 short_description: "Los BIM Objects se anclan a la jerarquía de entidades IFC 4.3, la clasificación Uniclass 2015 y URIs bSDD, organizándose en ocho categorías primitivas que codifican especificaciones espaciales, elementales, de materiales, de ensamblajes, de sistemas, de desempeño y de zona climática."
 cites: [ifc-4-3, uniclass-2015, bsdd-v1, ids-1-0, dtcg-w3c]
@@ -70,7 +70,7 @@ Archivo fuente: `systems.dtcg.json`
 
 ### 6. Desempeño (`bim.performance.*`)
 
-Umbrales de energía, iluminación, accesibilidad y seguridad contra incendios — mínimos regulatorios extraídos de EN 12464-1, EN 17037, ADA 2010, IBC 2021 y ASHRAE 90.1. El Objeto BIM de desempeño más arquitectónicamente significativo es `bim.performance.max-workstation-to-window`, establecido en 6.0 metros.
+Umbrales de energía, iluminación, accesibilidad y seguridad contra incendios — mínimos regulatorios extraídos de EN 12464-1, EN 17037, ADA 2010, IBC 2021 y ASHRAE 90.1. El Objeto BIM de desempeño más arquitectónicamente significativo es `bim.performance.max-workstation-to-window`, establecido en 6.0 metros según EN 17037 (Daylight in Buildings) — el estándar que rige la profundidad de iluminación natural.
 
 Archivo fuente: `performance.dtcg.json`
 

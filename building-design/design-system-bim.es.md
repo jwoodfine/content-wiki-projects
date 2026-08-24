@@ -7,7 +7,7 @@ category: building-design
 type: topic
 content_type: topic
 status: active
-last_edited: 2026-07-31
+last_edited: 2026-08-24
 editor: pointsav-engineering
 short_description: "Una plataforma de sistema de diseño para el entorno construido organizada en ocho categorías primitivas de BIM Objects y diez componentes universales de interfaz AEC, proporcionando vocabulario de especificación compartido para que superficies de autoría independientes se coordinen sin introducir nuevas superficies de aprendizaje."
 cites: [ifc-4-3, uniclass-2015, bsdd-v1, ids-1-0, dtcg-w3c]
@@ -76,27 +76,33 @@ autoría BIM:
     superposición normativa registrada: nombre de jurisdicción, identificador de la norma,
     resumen de restricciones, enlace al archivo IDS, fecha de vigencia.
 
-Tres de estos componentes (Árbol Espacial, Panel de Propiedades, Vista 3D) están
-implementados en v0.0.1. Los siete restantes están previstos para v0.0.2 y v0.0.3.
+Los diez componentes son diseños planificados y conceptuales — ninguno existe todavía en el
+código canónico. `app-workplace-bim` y `app-console-bim` contienen solo archivos de
+documentación (`CLAUDE.md`/`RESEARCH.md`/`NEXT.md`), sin código fuente. `app-orchestration-bim`
+tiene código real, pero es un servidor Axum que renderiza tokens/markdown DTCG en una página de
+catálogo estática — no existe en ningún lugar una implementación de visor, árbol espacial o
+panel de propiedades. Árbol Espacial, Panel de Propiedades y Vista 3D están previstos para la
+primera versión; los siete restantes están previstos para versiones posteriores.
 
 ## Extensiones específicas de superficie
 
 Más allá de los componentes universales, cada tipo de programa del entorno construido tiene
-un conjunto distinto de requisitos de interfaz. Tres tipos de programa están en alcance en
-v0.0.1:
+un conjunto distinto de requisitos de interfaz. Tres tipos de programa están previstos en el
+alcance inicial:
 
 **app-orchestration-bim** — La superficie web del catálogo de Objetos BIM. Muestra el
 catálogo completo, las superposiciones normativas y la referencia de normas. Solo lectura;
 sirve a diseñadores, reguladores y consumidores automatizados.
 
-**app-workplace-bim** — El banco de trabajo de autoría BIM. Aplicación de escritorio Tauri
-2.x que incorpora xeokit para renderizado 3D e IfcOpenShell (vía sidecar) para el análisis de
-archivos IFC. Licenciada bajo AGPL-3.0 debido a la licencia del componente xeokit.
+**app-workplace-bim** — El banco de trabajo de autoría BIM previsto: una aplicación de
+escritorio Tauri 2.x concebida para incorporar xeokit para renderizado 3D e IfcOpenShell
+(vía sidecar) para el análisis de archivos IFC, a licenciarse bajo AGPL-3.0 debido a la
+licencia del componente xeokit. Solo documentación en esta etapa; sin código fuente todavía.
 
-**app-console-bim** — La consola administrativa para la gestión de la bóveda de Objetos BIM.
-Aplicación Axum exclusivamente web. Superficie de lectura para la exploración de objetos;
-superficie de escritura (prevista para v0.1.x) para la autoría de Objetos BIM mediante el
-modelo CMS de cuatro zonas.
+**app-console-bim** — La consola administrativa prevista para la gestión de la bóveda de
+Objetos BIM: una aplicación Axum exclusivamente web. Solo documentación en esta etapa.
+Superficie de lectura para la exploración de objetos; superficie de escritura (prevista
+para v0.1.x) para la autoría de Objetos BIM mediante el modelo CMS de cuatro zonas.
 
 ## Uniclass 2015 como piso de clasificación
 

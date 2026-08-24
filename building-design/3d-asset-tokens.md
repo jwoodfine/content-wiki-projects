@@ -9,7 +9,7 @@ status: stub
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-03
+last_edited: 2026-08-24
 editor: pointsav-engineering
 short_description: "The archive's unit of stored data, combining an immutable binary payload, machine-readable metadata skeleton, and live taxonomic graph connection encoding provenance and context."
 paired_with: building-design/3d-asset-tokens.es.md
@@ -26,4 +26,4 @@ The three dimensions — payload, metadata, and graph position — are written t
 
 ## See also
 
-- the flat-file, append-only archive that holds three-dimensional asset tokens
+- [[asset-anchored-bim-vault]] — the flat-file, hash-addressed archive that holds three-dimensional asset tokens

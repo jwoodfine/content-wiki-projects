@@ -7,7 +7,7 @@ category: building-design
 type: topic
 content_type: topic
 status: active
-last_edited: 2026-06-20
+last_edited: 2026-08-24
 editor: pointsav-engineering
 short_description: "BIM Objects anchor to the IFC 4.3 entity hierarchy, Uniclass 2015 classification, and bSDD URIs, organizing into eight primitive categories that encode spatial, elemental, material, assembly, system, performance, and climate-zone specifications."
 cites: [ifc-4-3, uniclass-2015, bsdd-v1, ids-1-0, dtcg-w3c]
@@ -24,11 +24,7 @@ The [[design-system-bim|Building Design System]] [[bim-objects-what-they-are|BIM
 
 IFC 4.3 was published as ISO 16739-1:2024 in April 2024. The standard defines a hierarchy of named entity classes — `IfcSite`, `IfcBuilding`, `IfcBuildingStorey`, `IfcSpace`, `IfcWall`, `IfcSlab`, `IfcDoor`, and hundreds more — each with typed Property Sets (Psets) specifying what attributes a compliant implementation must support.
 
-Every [[design-system-bim|Building Design System]] BIM Object maps to a specific IFC entity class or Pset. The spatial BIM Object `bim.spatial.storey` anchors to `IfcBuildingStorey`; the performance BIM Object `bim.performance.door-fire-exit` anchors to `Pset_DoorCommon.IsFireExit`. When a BIM Object value changes, a validator can trace the change back to the IFC Pset that the BIM Object represents.
-
-**Correction (2026-08-02, verified against buildingSMART's own published IFC
-property definitions):** the correct property is `Pset_DoorCommon.FireExit`, not
-`IsFireExit` — repeated below in the bSDD URI too. **Flagged, not resolved.**
+Every [[design-system-bim|Building Design System]] BIM Object maps to a specific IFC entity class or Pset. The spatial BIM Object `bim.spatial.storey` anchors to `IfcBuildingStorey`; the performance BIM Object `bim.performance.door-fire-exit` anchors to `Pset_DoorCommon.FireExit`. When a BIM Object value changes, a validator can trace the change back to the IFC Pset that the BIM Object represents.
 
 ### Layer 2 — Uniclass 2015 classification floor
 
@@ -38,7 +34,7 @@ The classification is non-normative for jurisdictions outside the UK but serves 
 
 ### Layer 3 — bSDD URIs
 
-buildingSMART's Data Dictionary (bSDD) publishes machine-readable JSON-LD definitions for building properties and classifications, each with a stable dereferenceable URI such as `https://identifier.buildingsmart.org/uri/buildingsmart/ifc-4.3/prop/IsFireExit`. Building Design System BIM Objects carry these URIs in their `$extensions.bsdd_uri` fields, linking the object to an authoritative definition that a validator or authoring tool can resolve at runtime.
+buildingSMART's Data Dictionary (bSDD) publishes machine-readable JSON-LD definitions for building properties and classifications, each with a stable dereferenceable URI such as `https://identifier.buildingsmart.org/uri/buildingsmart/ifc-4.3/prop/FireExit`. Building Design System BIM Objects carry these URIs in their `$extensions.bsdd_uri` fields, linking the object to an authoritative definition that a validator or authoring tool can resolve at runtime.
 
 ## Eight BIM Object Primitive Categories
 
@@ -78,15 +74,7 @@ Source file: `systems.dtcg.json`
 
 Energy, daylight, accessibility, and fire-safety thresholds — regulatory minima drawn from EN 12464-1 (workplace daylight), EN 17037 (daylight in buildings), ADA 2010, IBC 2021, and ASHRAE 90.1. Performance BIM Objects are the regulatory floor that the spatial and element objects must satisfy.
 
-The most architecturally consequential performance BIM Object is `bim.performance.max-workstation-to-window`, set at 6.0 metres from EN 12464-1:2021. This single value drives the Zone 1 Habitat depth in every professional office floor plate.
-
-**Correction (2026-08-02):** EN 12464-1 governs workplace illuminance/lux levels —
-it does not define a maximum workstation-to-window distance. The standard actually
-governing daylight depth is EN 17037 (Daylight in Buildings), correctly cited
-elsewhere in this same article's regulatory list. Notably, bim-building-width-method
-treats this same 6.0 m figure's citation as genuinely unresolved ("EN 12464-1 / EN
-17037, pending precise citation") — this article states it as settled fact under the
-wrong standard. **Flagged, not resolved.**
+The most architecturally consequential performance BIM Object is `bim.performance.max-workstation-to-window`, set at 6.0 metres from EN 17037 (Daylight in Buildings) — the standard that governs daylight depth. This single value drives the Zone 1 Habitat depth in every professional office floor plate.
 
 Source file: `performance.dtcg.json`
 

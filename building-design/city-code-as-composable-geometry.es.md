@@ -7,7 +7,7 @@ category: building-design
 type: topic
 content_type: topic
 status: active
-last_edited: 2026-07-31
+last_edited: 2026-08-24
 editor: pointsav-engineering
 short_description: "Un modelo arquitectónico que codifica requisitos regulatorios directamente en especificaciones de elementos como restricciones geométricas y numéricas en lugar de aplicarlas después del diseño, haciendo que las configuraciones no conformes sean estructuralmente imposibles por construcción."
 cites: [ifc-4-3, ids-1-0, bsdd-v1]
@@ -146,4 +146,4 @@ El modelo del Código Urbano como Geometría Composable es especialmente relevan
 - [[bim-objects-three-layers]]
 - [[flat-file-bim-leapfrog]]
 - [[open-bim-regulatory-acceptance|open-bim-regulatory-acceptance]]
-- leapfrog-2030-architecture
+- [[leapfrog-2030-architecture]]

@@ -9,7 +9,7 @@ status: stub
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-07-03
+last_edited: 2026-08-24
 editor: pointsav-engineering
 short_description: "La unidad de datos almacenados en el archivo, que combina una carga útil binaria inmutable, un esqueleto de metadatos legible por máquina y una conexión gráfica taxonómica dinámica que codifica la procedencia y el contexto."
 paired_with: building-design/3d-asset-tokens.md
@@ -26,4 +26,4 @@ Los tres componentes — carga útil, metadatos y posición en el grafo — se e
 
 ## Véase también
 
-- el archivo de solo adición basado en archivos planos que almacena los tokens de activo tridimensional
+- [[asset-anchored-bim-vault]] — el archivo de archivos planos con direccionamiento por hash que almacena los tokens de activo tridimensional

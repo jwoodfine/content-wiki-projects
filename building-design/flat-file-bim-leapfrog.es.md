@@ -7,7 +7,7 @@ category: building-design
 type: topic
 content_type: topic
 status: active
-last_edited: 2026-07-31
+last_edited: 2026-08-24
 short_description: "El Building Design System se construye sobre cinco restricciones arquitectónicas — almacenamiento de archivos planos, estándares abiertos, Rust y Tauri, funcionamiento sin conexión y licencia Apache 2.0 — permitiendo modelos de información de construcción supervivientes a la obsolescencia de proveedores. La propiedad anclada en activos, la capacidad sin conexión, la integración IoT y la convergencia de BIM con libros mayores de arrendamiento y financieros se derivan de la arquitectura en sí."
 paired_with: building-design/flat-file-bim-leapfrog.md
 ---
@@ -34,7 +34,7 @@ Un directorio de archivos de texto plano y binarios estandarizados que un editor
 | Sidecars YAML por elemento | convención local | Datos Pset_*, sensores y órdenes de trabajo |
 | Almacén de objetos direccionado por hash | convención local; inspirado en Speckle | DAG de Merkle versionado |
 | glTF 2.0 | ISO/IEC 12113:2022 | Caché de visualización (regenerable) |
-| SVG | ISO/IEC 14496-22:2019 | Dibujos 2D (regenerables) |
+| SVG | Recomendación W3C (sin número ISO/IEC) | Dibujos 2D (regenerables) |
 | CityJSONSeq | OGC | Portafolio / contexto urbano |
 
 El archivo `.ifc` es el estado espacial y semántico autoritativo del edificio. Los sidecars llevan datos no geométricos (calificaciones, cantidades, lecturas de sensores, órdenes de trabajo, referencias de arrendamiento). La capa de almacén de objetos otorga a todo el archivo semánticas de versionado de grado git. Los derivados de visualización son cachés que se regeneran a voluntad desde la fuente autoritativa. Cualquier visor o herramienta de autoría BIM específico es reemplazable. El archivo es permanente.
@@ -69,7 +69,6 @@ El BIM de archivo plano presenta limitaciones reconocidas: la edición colaborat
 
 ## Véase también
 
-- worm-ledger-design
-- service-fs-architecture
-- sel4-microkernel-substrate
-- sovereign-ai-routing
+- [[worm-ledger-design]]
+- [[sel4-microkernel-substrate]]
+- [[sovereign-ai-routing]]

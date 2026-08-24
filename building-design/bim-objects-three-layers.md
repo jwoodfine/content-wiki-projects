@@ -7,7 +7,7 @@ category: building-design
 type: topic
 content_type: topic
 status: active
-last_edited: 2026-06-20
+last_edited: 2026-08-24
 editor: pointsav-engineering
 short_description: "BIM Objects embed three simultaneous constraint layers — Specification (permanent element identity), Regulation (jurisdiction-specific requirements), and Climate Zone (performance requirements) — as static reference data with a composition rule that applies the more restrictive value."
 cites: [ifc-4-3, uniclass-2015, bsdd-v1, ids-1-0, dtcg-w3c, ashrae-90-1, nbc-2020]
@@ -27,7 +27,7 @@ Software design system tokens typically have two concerns: what a value IS (its 
 A built-environment element specification must simultaneously answer:
 - **What is this element?** — its type in a neutral, tool-independent schema (IFC), its classification in a neutral reference system (Uniclass), and its semantic identity in a jurisdiction-spanning dictionary (bSDD). This is stable across all deployments.
 - **What does the jurisdiction require of it?** — the specific regulatory requirements imposed by the law of the place where the building is located. These vary by jurisdiction, change when regulations are updated, and may include geometric constraints (setbacks, clearances, fire compartment boundaries) that cannot be expressed as numeric values.
-- **What does the climate require of it?** — the thermal, moisture, and structural performance requirements imposed by the physical climate of the site. These vary by climate zone, are expressed in energy codes (ASHRAE 90.1, NBC Part 11, EN ISO 52000), and change as climate zone mapping is updated.
+- **What does the climate require of it?** — the thermal, moisture, and structural performance requirements imposed by the physical climate of the site. These vary by climate zone, are expressed in energy codes (ASHRAE 90.1, the National Energy Code of Canada for Buildings (NECB), EN ISO 52000), and change as climate zone mapping is updated.
 
 The three-layer structure gives each concern a clean home and a clear composition rule.
 
@@ -85,17 +85,10 @@ The Regulation layer holds jurisdiction-specific requirements. It is a table of 
 
 | Jurisdiction | Standard | Parameter | Required value | Unit |
 |---|---|---|---|---|
-| CA-BC | NBC 2020 Part 11 *(correction below)* | Thermal resistance (opaque wall) | ≥ RSI 3.85 | m²K/W |
+| CA-BC | NBC 2020 Division B §9.36 | Thermal resistance (opaque wall) | ≥ RSI 3.85 | m²K/W |
 | DE | EnEV 2020 | Wärmedurchgangskoeffizient (U-value) | ≤ 0.28 | W/m²K |
 | SG | SGBC BCA Green Mark | Thermal transmittance (OTTV) | ≤ 45 | W/m² |
 | US-VA (federal) | ASHRAE 90.1-2022 | Assembly U-factor (climate zone 4A) | ≤ 0.124 | Btu/h·ft²·°F |
-
-**Correction (2026-08-02):** the National Building Code of Canada has no energy-
-focused "Part 11" — a renovation-focused "Part 11" exists only in the Ontario
-Building Code (a provincial code, not the NBC). Canada's actual building-energy
-code is the separate National Energy Code of Canada for Buildings (NECB 2020), or
-NBC Division B §9.36. This citation is used as an authoritative source for a
-specific numeric requirement, not just a label. **Flagged, not resolved.**
 
 ### Empty state and geometric exclusion fragments
 
@@ -118,7 +111,7 @@ BIM Object performance specifications use Climate Zones exclusively. The eco-reg
 | System | Jurisdiction coverage | Reference standard |
 |---|---|---|
 | ASHRAE 90.1 climate zones (1A–8) | US, international reference | ASHRAE Standard 90.1-2022 |
-| National Building Code climate zones | Canada | NBC 2020 Part 11 |
+| National Building Code climate zones | Canada | NBC 2020 |
 | EN ISO 52000 energy performance zones | EU member states | EN ISO 52000-1:2017 |
 | Köppen-Geiger simplified | Global cross-reference | Kottek et al. 2006 (updated 2021) |
 

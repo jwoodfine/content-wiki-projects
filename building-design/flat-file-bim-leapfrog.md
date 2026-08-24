@@ -7,7 +7,7 @@ category: building-design
 type: topic
 content_type: topic
 status: active
-last_edited: 2026-06-20
+last_edited: 2026-08-24
 short_description: "The Building Design System is constructed on five architectural constraints — flat-file storage, open standards, Rust and Tauri, offline-first operation, and Apache 2.0 licensing — enabling vendor-obsolescence-survivable building information models. Asset-anchored ownership, offline capability, IoT integration, and convergence of BIM with lease and financial ledgers follow from the architecture itself."
 cites: [ifc-4-3, iso-19650]
 paired_with: building-design/flat-file-bim-leapfrog.es.md
@@ -37,17 +37,10 @@ A directory of plain-text and standardised-binary files that an ordinary text ed
 | Per-element YAML sidecars | local convention | Pset_* + sensor + work-order data |
 | Hash-addressed object store | local convention; Speckle-inspired | Versioned Merkle DAG |
 | glTF 2.0 | ISO/IEC 12113:2022 | Visualisation cache (regenerable) |
-| SVG | ISO/IEC 14496-22:2019 *(correction below)* | 2D drawings (regenerable) |
+| SVG | W3C Recommendation (no ISO/IEC number) | 2D drawings (regenerable) |
 | CityJSONSeq | OGC | Portfolio / urban context |
 
 The `.ifc` file is the authoritative spatial and semantic state of the building. The sidecars carry non-geometric data (ratings, quantities, sensor readings, work orders, lease references). The object store layer gives the whole vault git-grade versioning semantics. Visualisation derivatives are caches that regenerate at will from the authoritative source. Any specific BIM viewer or authoring tool is replaceable. The archive is permanent.
-
-**Correction (2026-08-02):** ISO/IEC 14496-22:2019 is not SVG — it is the Open Font
-Format (an OpenType-based font standard, part of the MPEG-4 family). SVG is a W3C
-Recommendation with no ISO/IEC number. Every other row in the table above (IFC-SPF/
-ISO 16739-1:2024, glTF 2.0/ISO-IEC 12113:2022) checks out correctly, making this row's
-citation stand out as an error rather than a formatting artifact. **Flagged, not
-resolved.**
 
 ## Five capabilities that follow from the architecture
 
@@ -93,7 +86,6 @@ These are deliberate trade-offs for the offline-first, vendor-obsolescence-survi
 
 ## See also
 
-- worm-ledger-design
-- service-fs-architecture
-- sel4-microkernel-substrate
-- sovereign-ai-routing
+- [[worm-ledger-design]]
+- [[sel4-microkernel-substrate]]
+- [[sovereign-ai-routing]]
