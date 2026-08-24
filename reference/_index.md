@@ -21,11 +21,11 @@ Glossary covers the terminology and standard definitions used across this wiki, 
 
 ## Glossaries
 
-[[site-selection-terminology|Site Selection Terminology]] defines the vocabulary of choosing where to build — Qualified Investment, Power Centre, Campus Design, and the Primary–Tertiary target tiers. [[gis-cluster-scoring-glossary|The Cluster Scoring Glossary]] defines the tier labels and radius conventions (T3 Apex, T2 Hub, T1 Valid) behind the geographic co-location scoring system described in [[markets|The Markets]] and [[site-selection-index|How We Choose Sites]].
+[[site-selection-terminology|Site Selection Terminology]] defines the vocabulary of choosing where to build — Qualified Investment, Power Centre, Campus Design, and the Primary–Tertiary target tiers. [[gis-cluster-scoring-glossary|The Cluster Scoring Glossary]] defines the anchor taxonomy, tier definitions (Regional, District, Local, Fringe), and radius convention behind the geographic co-location scoring system described in [[markets|The Markets]] and [[site-selection-index|How We Choose Sites]].
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: glossaries -->
 - [[site-selection-terminology]] — Glossary of Woodfine site selection and development terms, including Qualified Investment, Power Centre, Campus Design, and the Primary–Tertiary target tiers.
-- [[gis-cluster-scoring-glossary]] — Glossary of cluster degree terms, tier labels (T3 Apex, T2 Hub, T1 Valid), and radius conventions used in the Woodfine geographic co-location scoring system.
+- [[gis-cluster-scoring-glossary]] — Glossary of the anchor taxonomy, tier definitions (Regional, District, Local, Fringe), predicate gates, and radius convention used in the Woodfine geographic co-location scoring system.
 <!-- END AUTO-GENERATED -->
 
 ## Orientation

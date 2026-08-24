@@ -7,10 +7,10 @@ index_group: scoring-and-clustering
 type: topic
 content_type: topic
 quality: complete
-short_description: "Sistema de cinco grados de clúster que puntúa nodos minoristas por co-ocurrencia de objetivos Primarios, Secundarios y Terciarios para clasificar sitios de desarrollo."
+short_description: "Sistema de niveles por compuertas de calificación que puntúa clústeres de co-ubicación minorista por composición de anclas, rango de captación y presencia cívica para clasificar sitios de desarrollo."
 status: stable
 bcsc_class: current-fact
-last_edited: 2026-07-01
+last_edited: 2026-08-24
 editor: pointsav-engineering
 language_protocol: TRANSLATE-ES
 source_refs:
@@ -21,39 +21,35 @@ cites: []
 
 La **Metodología de Co-Ubicación Geográfica** es la disciplina de análisis espacial que MCorp aplica para identificar y clasificar Sitios de Desarrollo potenciales en sus tres jurisdicciones principales. La metodología puntúa los nodos minoristas según la proximidad y la combinación de minoristas ancla que operan en la geografía, produciendo un conjunto de datos clasificados de sitios en los que la inversión de desarrollo está validada por los compromisos comerciales demostrables de minoristas institucionales, en lugar de proyecciones demográficas especulativas.
 
-La metodología produce cinco grados de clústeres, cada uno representando un nivel más refinado de co-ocurrencia de anclas. Los clústeres de mayor grado indican que una geografía ha atraído múltiples categorías de inversión comercial institucional — una validación compuesta que supera el umbral que cualquier ancla individual produce por sí sola.
+La metodología asigna cada clúster a uno de cuatro niveles mediante compuertas de calificación, no mediante una puntuación acumulada. Un clúster obtiene un nivel solo cuando supera todas las compuertas requeridas para ese nivel — composición de anclas, rango de captación y presencia cívica en conjunto, no un solo factor por sí solo. Esta estructura de compuertas reemplazó una escala anterior basada en puntos el 16 de mayo de 2026; la escala retirada, y sus etiquetas numéricas, ya no describen ningún clúster actual.
 
-## El Sistema de Clústeres de Cinco Grados
+## El Sistema de Niveles
 
-Los cinco grados de clústeres se construyen a partir de dos umbrales de radio: un umbral más estrecho aplicado a la co-ocurrencia de Objetivos Primarios y Secundarios, y un umbral más amplio aplicado a la proximidad de Objetivos Terciarios. Cada grado se construye sobre el anterior.
+Cada clúster está anclado por una tienda de una de cuatro clases de ancla — Hipermercado, Estilo de Vida, Ferretería o Almacén — y se asigna a un nivel al superar las compuertas requeridas de ese nivel. Los nombres de nivel siguen la jerarquía de propiedades comerciales del Consejo Internacional de Centros Comerciales: **Regional**, **Distrital**, **Local** y **Marginal**, de mayor a menor. Las definiciones completas de nivel y las tablas de compuertas se mantienen en el [[gis-cluster-scoring-glossary|glosario de puntuación de clústeres]] y la [[co-location-tier-nomenclature|nomenclatura de niveles]]; el resumen a continuación indica lo que un analista de desarrollo necesita para leer el mapa.
 
-### Clústeres de primer y segundo grado
+### Regional y Distrital — los niveles calificantes para selección de sitios
 
-**Clúster de Primer Grado** — Un sitio de [[co-location-target-hierarchy|Objetivo Primario]] (Walmart Supercentre) con alguno de los dos Objetivos Secundarios (Home Depot o Costco Wholesale) ubicados dentro del umbral de proximidad Primario-Secundario entre sí. Es el indicador de base de una Inversión Calificada: la co-presencia de un operador de comestibles en volumen y un gran minorista de mejoras para el hogar o almacén de membresía a esa proximidad confirma que la geografía cumple los umbrales de dos operadores minoristas institucionalmente distintos.
+Los clústeres **Regionales** combinan un ancla de Almacén o Estilo de Vida con un ancla de Hipermercado, se ubican en el decil superior de su país por captación de población primaria y tienen un hospital clasificado como regional cerca. Este es el nivel de mayor convicción: la presencia simultánea de múltiples categorías de ancla independientes, a escala de captación nacionalmente significativa, confirma que varios operadores institucionales llegaron a la misma conclusión sobre la geografía.
 
-**Clúster de Segundo Grado** — Un Clúster de Primer Grado con cualquiera de los Objetivos Terciarios (institución de educación superior o centro médico importante) ubicado dentro del umbral de proximidad Terciario, más amplio. La adición de un Objetivo Terciario introduce una fuente de demanda para el arrendamiento de servicios profesionales que es estructuralmente independiente del nodo minorista.
+Los clústeres **Distritales** combinan un ancla de Hipermercado con un ancla de Ferretería o Almacén, se ubican en el cuartil superior de su país por captación de población primaria y tienen acceso hospitalario dentro del anillo cívico. Los clústeres Distritales son candidatos calificados: se cumplen las condiciones de co-ubicación y captación, pero a escala subregional en lugar de nacionalmente significativa.
 
-### Clústeres de tercer y cuarto grado
+### Local y Marginal
 
-**Clúster de Tercer Grado** — Un Objetivo Primario con ambos Objetivos Secundarios (Home Depot y Costco) dentro del umbral de proximidad Primario-Secundario entre sí. El requisito de que ambos operadores secundarios estén presentes a ese mismo radio estrecho es un listón materialmente más alto que el estándar de Primer Grado. Home Depot y Costco validan independientemente una geografía a través de sus propios procesos de selección de sitios; su presencia simultánea confirma que múltiples operadores institucionales evaluaron la misma geografía y llegaron a la misma conclusión.
+Los clústeres **Locales** contienen un ancla de Ferretería o Almacén, se ubican en la mitad superior de su país por captación de población primaria y tienen algún hospital dentro del anillo cívico. Los clústeres Locales confirman co-ubicación y apoyo de captación a nivel comunitario sin calificar a escala Distrital o Regional.
 
-**Clúster de Cuarto Grado** — Un Clúster de Tercer Grado con cualquiera de los Objetivos Terciarios dentro del umbral de proximidad Terciario, más amplio. La combinación de ambos operadores secundarios más una fuente de demanda institucional terciaria.
+**Marginal** se asigna a cualquier clúster que no supere las compuertas de Regional, Distrital o Local. Un clúster Marginal puede aún mostrar co-tenencia minorista; le falta el alcance de captación, la composición o el apoyo cívico que requieren los niveles superiores.
 
-### Clústeres de quinto grado como sitios de mayor convicción
+## Radio de No-Superposición
 
-**Clúster de Quinto Grado** — Un Clúster de Tercer Grado con ambos Objetivos Terciarios dentro del umbral de proximidad Terciario, más amplio. Los Clústeres de Quinto Grado son los sitios de mayor convicción en el conjunto de datos: la presencia simultánea de Walmart, Home Depot, Costco, una institución de educación superior y un centro médico importante, dentro de los umbrales de radio respectivos.
-
-## Calibración del Radio
-
-El umbral Primario-Secundario refleja la realidad operativa del diseño de sitios de [[power-centres|centros comerciales]]: los minoristas de un mismo nodo o corredor comercial suelen estar muy próximos entre sí. El umbral Terciario, más amplio, refleja el patrón de captación más amplio de los empleadores institucionales, a una escala coherente con la tolerancia de desplazamiento en automóvil de los arrendatarios de servicios profesionales.
-
-### Recalibración periódica
-
-Si los Clústeres de Quinto Grado llegan a representar una proporción desproporcionada de todas las entradas de Objetivo Primario en el conjunto de datos completo, los umbrales se ajustan a la baja — tanto el umbral Terciario como el Primario-Secundario se reducen. Este mecanismo de recalibración evita que el nivel superior de clústeres crezca demasiado como para seguir siendo un filtro operativamente útil de selección de sitios.
+Dos clústeres cercanos se comparan por superposición usando un disco de radio fijo de 3,0 km centrado en cada uno. Cuando la superposición entre los discos de dos clústeres supera el límite de la compuerta de no-superposición, el clúster más débil queda por debajo del nivel que su composición habría obtenido de otro modo — evitando que un solo nodo fuerte se cuente como varios clústeres separados. Esta convención de radio única se aplica de manera uniforme; no se ajusta al alza o a la baja según cuántos clústeres califiquen actualmente en un nivel dado.
 
 ## Métricas de Salida del Conjunto de Datos
 
 Para cada entrada de Objetivo Primario, la salida de co-ubicación geográfica registra: la ciudad, pueblo o municipio del Objetivo Primario; la población de la comunidad circundante; las ventas por pie cuadrado del Objetivo Primario; y el ranking global de ese Objetivo Primario por ventas por pie cuadrado en todas las entradas del conjunto de datos.
+
+## Clasificación y producción de shortlist
+
+La salida se clasifica luego para equilibrar el nivel del clúster, la proximidad de anclas y las ventas por pie cuadrado absolutas del Objetivo Primario. La clasificación produce la shortlist de sitios a partir de la cual Woodfine contrata profesionales inmobiliarios en cada mercado identificado para evaluar la disponibilidad de terreno y el cronograma de desarrollo.
 
 ## Cantidad de Sitios Requerida por Jurisdicción
 

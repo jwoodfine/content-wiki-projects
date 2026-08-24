@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-11
+last_edited: 2026-08-24
 editor: pointsav-engineering
 short_description: "How Norway, Sweden, and the United Kingdom entered the co-location intelligence dataset through three Alpha-tier chain promotions in May 2026."
 paired_with: gis/nordic-uk-coverage.es.md
@@ -24,7 +24,9 @@ The Woodfine [[co-location-intelligence-overview|co-location intelligence map]] 
 
 ## What Changed
 
-The platform's tier system classifies hardware and warehouse retailers into two groups: Alpha chains, which alone are sufficient to qualify a co-location as a T2 Hub, and Generic chains, which produce only the lowest qualifying tier. Three chains previously held at the Generic level were promoted to Alpha following confirmation of sufficient data coverage. (Map-facing labels follow the ICSC hierarchy described in [[co-location-tier-nomenclature|tier nomenclature]].)
+**Note on terminology (added 2026-08-24):** the tier labels in this article — T2 Hub, T3, and the Alpha/Generic chain classification described below — reflect the points-based scoring system that was current on the event date, May 6, 2026. That system was retired platform-wide on 2026-05-16 and replaced with the current predicate-gate tier system (Regional, District, Local, Fringe; see [[gis-cluster-scoring-glossary|the cluster scoring glossary]]). The coverage figures below — store counts, cluster counts, and dates — are unaffected by that change and remain accurate; only the tier vocabulary describing them is historical.
+
+At the time, the platform's tier system classified hardware and warehouse retailers into two groups: Alpha chains, which alone were sufficient to qualify a co-location as a T2 Hub, and Generic chains, which produced only the lowest qualifying tier. Three chains previously held at the Generic level were promoted to Alpha following confirmation of sufficient data coverage. (Map-facing labels follow the ICSC hierarchy described in [[co-location-tier-nomenclature|tier nomenclature]].)
 
 **Bauhaus Sverige** (Sweden) — 40 locations. Bauhaus is the dominant large-format home improvement chain in Sweden. Its national footprint overlaps directly with IKEA's retail corridor presence. Promotion to Alpha immediately activated T2 status at IKEA-adjacent nodes across Stockholm, Gothenburg, Uppsala, and Malmö.
 
@@ -41,7 +43,7 @@ The platform's tier system classifies hardware and warehouse retailers into two 
 | United Kingdom (1 km radius) | 0 | 9+ |
 | EU total (1 km) | 162 | 229 |
 
-All new Norwegian clusters carry T2 Hub designation, reflecting the combination of Obs Coop (anchor) and Obs Bygg (alpha hardware) within a 1 km radius — the characteristic footprint of the Coop Norge co-tenancy format.
+At the time, all new Norwegian clusters carried T2 Hub designation, reflecting the combination of Obs Coop (anchor) and Obs Bygg (alpha hardware) within a 1 km radius — the characteristic footprint of the Coop Norge co-tenancy format. Under the current tier system, the same Obs Coop / Obs Bygg composition feeds the composition gate for District; the actual tier a given cluster now carries also depends on catchment rank and civic presence, which are not restated here.
 
 ## Significance
 
@@ -52,7 +54,7 @@ The B&Q promotion resolves the most significant prior data gap in the UK dataset
 ## See Also
 
 - [[atlas-co-location-index-nordics]] — ranked index of Nordic commercial convergence sites
-- [[co-location-ranking-system]] — how T2 Hub and T3 designations are assigned
+- [[co-location-ranking-system]] — the current named-anchor ranking model
 - [[co-location-methodology]] — the linear-geometry scoring model underlying all rankings
 - [[atlas-tier-index-europe]] — the full European tier index
 

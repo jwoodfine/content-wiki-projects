@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-06-19
+last_edited: 2026-08-24
 editor: editorial
 es_status: complete
 short_description: "Algoritmo de puntuación de 12 rangos determinista que evalúa sitios de co-ubicación minorista por convergencia de ancla nombrada en radios de captación definidos."
@@ -65,7 +65,7 @@ La combinación de categorías presentes determina el rango del sitio. La matriz
 
 Los doce rangos se agrupan en cinco niveles para ofrecer una visión de alto nivel de la calidad del mercado.
 
-**Nota sobre la escala de rangos de calidad.** La escala de cinco rangos de este artículo (Rango 1 = más alto, Rango 5 = más bajo) describe el índice de calidad visualizado en el mapa. Los sitios individuales de co-ubicación dentro de un Mercado Regional se describen por separado mediante una clasificación espacial de tres niveles de clústeres (T1, T2, T3), en la que T1 designa el clúster con el mayor número de categorías de tipo ancla presentes — el tipo de clúster de mayor composición en un mercado determinado. La escala de cinco rangos de calidad y los niveles espaciales T1/T2/T3 son distintos: el rango de calidad mide la densidad comercial en todo el índice; el nivel espacial clasifica la composición de anclas dentro de un único mercado. Para el vocabulario de niveles T1/T2/T3, consulte [[co-location-tier-nomenclature|Nomenclatura de Niveles de Co-ubicación]].
+**Nota sobre la escala de rangos de calidad.** La escala de cinco rangos de este artículo (Rango 1 = más alto, Rango 5 = más bajo) describe el índice de calidad visualizado en el mapa — una matriz de combinación de anclas nominadas distinta, no el sistema de niveles de clúster de la plataforma. Los clústeres individuales de co-ubicación dentro de un Mercado Regional se clasifican por separado mediante el sistema de niveles actual — **Regional**, **Distrital**, **Local**, **Marginal** — descrito en la [[co-location-tier-nomenclature|nomenclatura de niveles]] y el [[gis-cluster-scoring-glossary|glosario de puntuación de clústeres]]. La escala de cinco rangos de calidad y la clasificación de cuatro niveles miden cosas distintas: el rango de calidad puntúa la densidad comercial en todo el índice de 12 rangos; el nivel clasifica la composición de anclas y el rango de captación de un clúster contra compuertas fijas. No son intercambiables, y tampoco lo es una escala numerada "T1/T2/T3" — ese esquema numérico fue retirado en toda la plataforma el 16 de mayo de 2026 y no describe ningún clúster actual.
 
 ### ★★★★★ Rango 1 — Co-ubicación completa
 *Solo Rango 1. Las cuatro categorías presentes.*

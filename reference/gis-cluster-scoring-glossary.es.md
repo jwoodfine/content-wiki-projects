@@ -7,10 +7,10 @@ index_group: glossaries
 type: topic
 content_type: topic
 quality: complete
-short_description: "Glosario de los grados de clúster, etiquetas de nivel (T3 Apex, T2 Hub, T1 Valid) y convenciones de radio del sistema de puntuación de co-ubicación geográfica de Woodfine."
+short_description: "Glosario de la taxonomía de anclas, las definiciones de nivel (Regional, Distrital, Local, Marginal), las compuertas de calificación y la convención de radio del sistema de puntuación de co-ubicación geográfica de Woodfine."
 status: stable
 bcsc_class: current-fact
-last_edited: 2026-07-01
+last_edited: 2026-08-24
 editor: pointsav-engineering
 language_protocol: TRANSLATE-ES
 source_refs:
@@ -20,44 +20,24 @@ paired_with: gis-cluster-scoring-glossary.md
 cites: []
 ---
 
-Estos términos aparecen en los informes del conjunto de datos de co-ubicación, las comunicaciones de cobertura GIS y los materiales de selección de sitios preparados para revisión por los Directores Independientes del Socio General. Este glosario define la terminología del [[geographic-co-location-methodology|sistema de puntuación de co-ubicación geográfica]] de MCorp: las designaciones de grado de clúster, las etiquetas de puntuación de nivel, las convenciones de umbral de radio y las métricas de salida del conjunto de datos.
+Estos términos aparecen en los informes del conjunto de datos de co-ubicación, las comunicaciones de cobertura GIS y los materiales de selección de sitios preparados para revisión por los Directores Independientes del Socio General. Este glosario define la terminología del [[geographic-co-location-methodology|sistema de puntuación de co-ubicación geográfica]] de MCorp: la taxonomía de anclas, la clasificación de cuatro niveles, las compuertas de calificación que asignan cada nivel y la convención de radio detrás de la compuerta de no-superposición.
 
-## Términos de grado de clúster
+## Taxonomía de anclas
 
-**Clúster de Primer Grado** — Un nodo de co-ubicación puntuado en el que un [[co-location-target-hierarchy|Objetivo Primario]] (Walmart Supercentre) y al menos un Objetivo Secundario (Home Depot o Costco Wholesale) están ubicados dentro de 1,0 km entre sí. El indicador de base de un nodo comercial co-anclado.
+Cada clúster puntuado se forma alrededor de una tienda de una de cuatro clases de ancla. Las anclas de **Hipermercado** son cadenas de mercancía general como Walmart, Target, Mercadona y Tesco. Las anclas de **Estilo de Vida** son minoristas de hogar y decoración a gran formato; IKEA es la única cadena en esta clase. Las anclas de **Ferretería** son cadenas de mejoras para el hogar como Home Depot, Lowe's y Leroy Merlin. Las anclas de **Almacén** son clubes de almacén por membresía como Costco, Sam's Club y Makro. La composición de un clúster — qué clases de ancla se co-ubican en un nodo — es el primer insumo para la asignación de nivel. El mapeo completo de cadenas a familias se documenta en la [[retail-brand-family-taxonomy|taxonomía de familias de marcas minoristas]].
 
-**Clúster de Segundo Grado** — Un Clúster de Primer Grado en el que al menos un Objetivo Terciario (institución de educación superior o centro médico importante) está ubicado dentro de 5,0 km. Indica presencia de co-ancla más demanda de empleo institucional dentro del radio de desplazamiento.
+## Definiciones de nivel
 
-**Clúster de Tercer Grado** — Un nodo puntuado en el que un Objetivo Primario y ambos Objetivos Secundarios (Home Depot y Costco Wholesale) están ubicados dentro de 1,0 km entre sí. Requiere confirmación doble de secundarios al radio de 1,0 km.
+El sistema de puntuación actual asigna cada clúster a uno de cuatro niveles, siguiendo la jerarquía de propiedades comerciales del Consejo Internacional de Centros Comerciales: **Regional**, **Distrital**, **Local** y **Marginal**. Regional es el nivel más alto; Marginal agrupa cualquier clúster que no supere ninguna de las compuertas calificantes. Este sistema de niveles reemplazó una escala intermedia basada en puntos el 16 de mayo de 2026 — esa escala anterior, junto con las etiquetas numéricas T1/T2/T3 que llevaba, quedó retirada y no describe ningún clúster actual. Véase [[co-location-tier-nomenclature|la nomenclatura de niveles]] para el historial completo de nombres.
 
-**Clúster de Cuarto Grado** — Un Clúster de Tercer Grado con al menos un Objetivo Terciario dentro de 5,0 km. Confirmación doble de secundarios más demanda de empleo institucional.
+## Compuertas de calificación
 
-**Clúster de Quinto Grado** — Un Clúster de Tercer Grado con ambos Objetivos Terciarios (institución de educación superior y centro médico importante) dentro de 5,0 km. La designación de clúster de mayor convicción en el sistema de puntuación: cinco categorías independientes de inversión institucional confirmadas dentro de los umbrales de radio aplicables.
+Un clúster obtiene un nivel al superar todas las compuertas requeridas para ese nivel, no al acumular puntos hacia un umbral. Se aplican cuatro familias de compuertas: **composición** (qué clases de ancla están presentes), **rango de captación** (el percentil de población del clúster dentro de su propio país), **cívica** (un hospital de la clasificación requerida dentro del anillo circundante) y **no-superposición** (el clúster no está dominado por un clúster más fuerte cercano, medido mediante la convención de radio a continuación). Las tablas completas de compuertas se publican en gis.woodfinegroup.com; este glosario define los conceptos, no los umbrales de aprobación.
 
-## Etiquetas de puntuación de nivel
+## Convención de radio
 
-La metodología de puntuación V2 asigna los clústeres puntuados a tres niveles según la puntuación agregada:
-
-**T3 Apex** — Puntuación ≥ 700. La designación de nivel superior. Los clústeres T3 Apex representan los candidatos a Sitio de Desarrollo de mayor prioridad en el conjunto de datos.
-
-**T2 Hub** — Puntuación ≥ 450. La designación de nivel medio. Un clúster T2 Hub tiene co-ocurrencia Primario-Secundario confirmada y contribuciones de puntuación de factores adicionales. Los clústeres T2 Hub son candidatos calificados que requieren evaluación adicional de disponibilidad del sitio.
-
-**T1 Valid** — Puntuación ≥ 150. La designación de nivel de entrada. Un clúster T1 Valid tiene presencia de Objetivo Primario con confirmación de co-ubicación parcial. Los clústeres T1 Valid pueden calificar si los factores de disponibilidad del sitio y proximidad terciaria se confirman en el proceso de [[transaction-summary-report-protocol|Informe de Resumen de Transacción]].
-
-## Convenciones de umbral de radio
-
-**Umbral de 1,0 km** — Aplicado a la co-ocurrencia de Objetivo Primario y Secundario. Corresponde a la zona de infraestructura de sitio compartida de un centro comercial co-anclado.
-
-**Umbral de 3,0 km** — Un radio recalibrado aplicado cuando los Clústeres de Quinto Grado superan el 10% de todas las entradas de Objetivo Primario en el conjunto de datos. Cuando el nivel de clúster superior contiene más del 10% de todas las entradas, el umbral de proximidad terciaria se reduce de 5,0 km a 3,0 km.
-
-**Umbral de 5,0 km** — Aplicado a la co-ocurrencia de Objetivo Terciario bajo la calibración estándar. Captura el área de captación geográfica de un empleador institucional que influye en la demanda de arrendamiento profesional en el área circundante.
+Los clústeres se comparan por superposición usando un disco de radio fijo de 3,0 km centrado en cada clúster. Dos clústeres compiten por el mismo nodo cuando la superposición entre sus discos — medida como intersección sobre unión — supera el límite de la compuerta de no-superposición; el clúster más débil queda entonces por debajo del nivel que su composición habría obtenido de otro modo. Esta convención de radio única reemplazó un esquema anterior de umbrales de proximidad separados de 1,0 km y 5,0 km; ese esquema anterior no se aplica a ningún nivel actual.
 
 ## Métricas de salida del conjunto de datos
 
-**Objetivo Primario** — En el conjunto de datos de co-ubicación de Woodfine, un Walmart Supercentre que opera en una geografía dada. Cada entrada de Objetivo Primario está asociada con el nombre de una ciudad o municipio, cifra de población, ventas por pie cuadrado y una posición de ranking global.
-
-**Ventas por Pie Cuadrado** — La métrica de productividad minorista utilizada para clasificar los Objetivos Primarios dentro del conjunto de datos. Refleja la intensidad de compra de los consumidores dentro de la zona de influencia y sirve como criterio de ordenación principal.
-
-**Posición Global** — El rango de un Objetivo Primario por ventas por pie cuadrado en relación con todas las entradas de Objetivo Primario en los tres conjuntos de datos (Canadá, Estados Unidos, México).
-
-**Clúster Puntuado** — Un nodo geo-localizado que ha cumplido los criterios de Objetivo Primario y al que se le ha asignado un grado de clúster y puntuación de nivel basados en la co-ocurrencia de Objetivos Secundarios y Terciarios a los umbrales de radio aplicables.
+**Descriptor de composición** — Las clases de ancla presentes en un clúster, mostradas como una etiqueta en lenguaje sencillo como "Hipermercado + Ferretería + Almacén." **Rango de captación** — La posición percentil de un clúster por población dentro de su propio país; un clúster en el 10% superior a nivel nacional supera la compuerta de captación más estricta. **Clúster puntuado** — Cualquier nodo geo-localizado que ha sido evaluado contra la taxonomía de anclas y al que se le ha asignado un nivel. El término aparece en los informes de cobertura GIS para describir el conteo total de nodos evaluados en una geografía dada.

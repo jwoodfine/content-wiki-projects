@@ -7,10 +7,10 @@ index_group: glossaries
 type: topic
 content_type: topic
 quality: complete
-short_description: "Glossary of cluster degree terms, tier labels (T3 Apex, T2 Hub, T1 Valid), and radius conventions used in the Woodfine geographic co-location scoring system."
+short_description: "Glossary of the anchor taxonomy, tier definitions (Regional, District, Local, Fringe), predicate gates, and radius convention used in the Woodfine geographic co-location scoring system."
 status: stable
 bcsc_class: current-fact
-last_edited: 2026-07-11
+last_edited: 2026-08-24
 editor: pointsav-engineering
 language_protocol: PROSE-TOPIC
 source_refs:
@@ -20,44 +20,24 @@ paired_with: gis-cluster-scoring-glossary.es.md
 cites: []
 ---
 
-These terms appear in co-location dataset reports, GIS coverage communications, and site selection materials prepared for review by the Independent Directors of the General Partner. This glossary defines the terminology of MCorp's [[geographic-co-location-methodology|geographic co-location scoring system]]: cluster degree designations, tier score labels, radius threshold conventions, and dataset output metrics.
+These terms appear in co-location dataset reports, GIS coverage communications, and site selection materials prepared for review by the Independent Directors of the General Partner. This glossary defines the terminology of MCorp's [[geographic-co-location-methodology|geographic co-location scoring system]]: the anchor taxonomy, the four-tier classification, the predicate gates that assign each tier, and the radius convention behind the non-overlap gate.
 
-## Cluster degree terms
+## Anchor taxonomy
 
-**First-Degree Cluster** — A scored co-location node at which a [[co-location-target-hierarchy|Primary Target]] (Walmart Supercentre) and at least one Secondary Target (Home Depot or Costco Wholesale) are located within 1.0 km of each other. The baseline indicator of a co-anchored commercial node.
+Every scored cluster forms around a store from one of four anchor classes. **Hypermarket** anchors are general-merchandise chains such as Walmart, Target, Mercadona, and Tesco. **Lifestyle** anchors are large-format home-and-furnishings retailers; IKEA is the only chain in this class. **Hardware** anchors are home-improvement chains such as Home Depot, Lowe's, and Leroy Merlin. **Warehouse** anchors are membership warehouse clubs such as Costco, Sam's Club, and Makro. A cluster's composition — which anchor classes co-locate at one node — is the first input to tier assignment. The full chain-to-family mapping is documented in the [[retail-brand-family-taxonomy|retail brand family taxonomy]].
 
-**Second-Degree Cluster** — A First-Degree Cluster at which at least one Tertiary Target (a post-secondary institution or a major medical centre) is located within 5.0 km. Indicates co-anchor presence plus institutional employment demand within commute range.
+## Tier definitions
 
-**Third-Degree Cluster** — A scored node at which a Primary Target and both Secondary Targets (Home Depot and Costco Wholesale) are located within 1.0 km of each other. Requires dual secondary confirmation at the 1.0 km radius.
+The current scoring system assigns each cluster to one of four tiers, following the retail property hierarchy used by the International Council of Shopping Centres: **Regional**, **District**, **Local**, and **Fringe**. Regional is the highest tier; Fringe holds any cluster that clears none of the qualifying gates. This tier system replaced an interim points-based scale on 2026-05-16 — the earlier scale, and the T1/T2/T3 numeric labels attached to it, is retired and does not describe any current cluster. See [[co-location-tier-nomenclature|the tier nomenclature]] for the full naming history.
 
-**Fourth-Degree Cluster** — A Third-Degree Cluster with at least one Tertiary Target within 5.0 km. Dual secondary confirmation plus institutional employment demand.
+## Predicate gates
 
-**Fifth-Degree Cluster** — A Third-Degree Cluster with both Tertiary Targets (post-secondary institution and major medical centre) within 5.0 km. The highest-conviction cluster designation in the scoring system: five independent categories of institutional investment confirmed within the applicable radius thresholds.
+A cluster earns a tier by clearing every required gate for that tier, not by accumulating points toward a threshold. Four gate families apply: **composition** (which anchor classes are present), **catchment rank** (the cluster's population percentile within its own country), **civic** (a hospital of the required classification within the surrounding ring), and **non-overlap** (the cluster is not dominated by a stronger cluster nearby, measured by the radius convention below). The full gate tables are published at gis.woodfinegroup.com; this glossary defines the concepts, not the pass/fail thresholds.
 
-## Tier score labels
+## Radius convention
 
-The V2 scoring methodology assigns scored clusters to three tiers based on aggregate score:
-
-**T3 Apex** — Score ≥ 700. The top-tier designation. A T3 Apex cluster meets the full Primary plus Secondary co-occurrence threshold and has sufficient score from Tertiary proximity and Primary Target sales productivity to clear the 700-point threshold. T3 Apex clusters represent the highest-priority Development Site candidates in the dataset.
-
-**T2 Hub** — Score ≥ 450. The mid-tier designation. A T2 Hub cluster has confirmed Primary-Secondary co-occurrence and score contributions from additional factors — Tertiary proximity, high Primary Target sales per square foot, or Secondary multiplicity — sufficient to clear 450 points. T2 Hub clusters are qualified candidates requiring further site availability assessment.
-
-**T1 Valid** — Score ≥ 150. The entry-level designation. A T1 Valid cluster has Primary Target presence with partial co-location confirmation. T1 Valid clusters may qualify if site availability and Tertiary proximity factors are confirmed in the [[transaction-summary-report-protocol|Transaction Summary Report]] process.
-
-## Radius threshold conventions
-
-**1.0 km threshold** — Applied to Primary and Secondary Target co-occurrence. A 1.0 km radius at [[about-regional-markets-system|Regional Market]] spatial scales corresponds to the shared site infrastructure zone of a co-anchored [[power-centres|power centre]]. Secondary Targets within 1.0 km of a Primary Target are treated as operating within the same commercial node rather than as independently located operators.
-
-**3.0 km threshold** — A recalibrated radius applied when Fifth-Degree Clusters exceed 10% of all Primary Target entries in the dataset. When the top cluster tier contains more than 10% of all entries, the Tertiary proximity threshold tightens from 5.0 km to 3.0 km and the Primary-Secondary threshold tightens from 1.0 km to below 1.0 km. The recalibration preserves the discriminating power of the cluster hierarchy.
-
-**5.0 km threshold** — Applied to Tertiary Target co-occurrence under the standard calibration. A 5.0 km radius captures the geographic catchment of an institutional employer (university or medical centre) that influences professional tenancy demand in the surrounding area without requiring co-location on the same commercial node.
+Clusters are compared for overlap using a fixed 3.0 km radius disk centred on each cluster. Two clusters compete for the same node when the overlap between their disks — measured as intersection over union — exceeds the non-overlap gate's limit; the weaker cluster is then held below the tier its composition would otherwise earn. This single radius convention replaced an earlier scheme of separate 1.0 km and 5.0 km proximity thresholds; the earlier scheme does not apply to any current tier.
 
 ## Dataset output metrics
 
-**Primary Target** — In the Woodfine co-location dataset, a Walmart Supercentre operating in a given geography. Each Primary Target entry is associated with a city or municipality name, population figure, sales per square foot, and a global ranking position relative to all other Primary Target entries in the dataset.
-
-**Sales per Square Foot** — The retail productivity metric used to rank Primary Targets within the dataset. Sales per square foot reflects consumer purchasing intensity within the trade area and serves as the primary sorting criterion for identifying the highest-priority Development Site candidates and for generating the [[optimum-mosaic-demographic-profiling|Optimum Mosaic]] demographic analysis.
-
-**Global Position** — The rank of a Primary Target by sales per square foot relative to all Primary Target entries across all three datasets (Canada, United States, Mexico). A Primary Target in the top decile of global position is both a high-performing local node and a high-performing site relative to the full North American dataset.
-
-**Scored Cluster** — A geo-located node that has met the Primary Target criteria and has been assigned a cluster degree and tier score based on the co-occurrence of Secondary and Tertiary Targets at the applicable radius thresholds. The term appears in GIS coverage reports to describe the total count of evaluated nodes in a given geography.
+**Composition descriptor** — The anchor classes present at a cluster, shown as a plain-language label such as "Hypermarket + Hardware + Warehouse." **Catchment rank** — A cluster's percentile position by population within its own country; a cluster in the top 10% nationally clears the strictest catchment gate. **Scored cluster** — Any geo-located node that has been evaluated against the anchor taxonomy and assigned a tier. The term appears in GIS coverage reports to describe the total count of evaluated nodes in a given geography.

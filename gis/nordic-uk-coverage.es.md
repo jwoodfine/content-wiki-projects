@@ -12,7 +12,7 @@ lang: es
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-05-06
+last_edited: 2026-08-24
 editor: pointsav-engineering
 short_description: "Cómo Noruega, Suecia y el Reino Unido ingresaron al conjunto de datos de inteligencia de co-ubicación mediante tres promociones de cadenas al nivel Alfa en mayo de 2026."
 paired_with: gis/nordic-uk-coverage.md
@@ -25,7 +25,9 @@ El [[co-location-intelligence-overview|mapa de inteligencia de co-ubicación]] d
 
 ## Qué Cambió
 
-El sistema de niveles de la plataforma clasifica a los minoristas de mejoras del hogar y almacenes en dos grupos: cadenas Alfa, que por sí solas califican una co-ubicación como T2 Hub, y cadenas Genéricas, que solo producen el nivel de calificación más bajo. Tres cadenas mantenidas en el nivel Genérico fueron promovidas al nivel Alfa tras confirmar una cobertura de datos suficiente. (Las etiquetas orientadas al mapa siguen la jerarquía ICSC descrita en [[co-location-tier-nomenclature|nomenclatura de niveles]].)
+**Nota sobre terminología (añadida 2026-08-24):** las etiquetas de nivel de este artículo — T2 Hub, T3, y la clasificación de cadenas Alfa/Genérica descrita a continuación — reflejan el sistema de puntuación basado en puntos vigente en la fecha del evento, 6 de mayo de 2026. Ese sistema fue retirado en toda la plataforma el 16 de mayo de 2026 y reemplazado por el sistema de niveles por compuertas actual (Regional, Distrital, Local, Marginal; véase el [[gis-cluster-scoring-glossary|glosario de puntuación de clústeres]]). Las cifras de cobertura a continuación — conteos de tiendas, conteos de clústeres y fechas — no se ven afectadas por ese cambio y permanecen precisas; solo el vocabulario de nivel que las describe es histórico.
+
+En ese momento, el sistema de niveles de la plataforma clasificaba a los minoristas de mejoras del hogar y almacenes en dos grupos: cadenas Alfa, que por sí solas calificaban una co-ubicación como T2 Hub, y cadenas Genéricas, que solo producían el nivel de calificación más bajo. Tres cadenas mantenidas en el nivel Genérico fueron promovidas al nivel Alfa tras confirmar una cobertura de datos suficiente. (Las etiquetas orientadas al mapa siguen la jerarquía ICSC descrita en [[co-location-tier-nomenclature|nomenclatura de niveles]].)
 
 **Bauhaus Sverige** (Suecia) — 40 ubicaciones. Bauhaus es la cadena dominante de grandes superficies de mejoras del hogar en Suecia. Su presencia nacional se superpone directamente con los corredores minoristas de IKEA. La promoción al nivel Alfa activó de inmediato el estado T2 en los nodos adyacentes a IKEA en Estocolmo, Gotemburgo, Uppsala y Malmö.
 
@@ -42,7 +44,7 @@ El sistema de niveles de la plataforma clasifica a los minoristas de mejoras del
 | Reino Unido (radio de 1 km) | 0 | 9+ |
 | Total Europa (1 km) | 162 | 229 |
 
-Todos los nuevos clústeres noruegos llevan la designación T2 Hub, lo que refleja la combinación de Obs Coop (ancla) y Obs Bygg (ferretería alfa) dentro de un radio de 1 km — el patrón de co-tenencia característico del formato Coop Norge.
+En ese momento, todos los nuevos clústeres noruegos llevaban la designación T2 Hub, lo que reflejaba la combinación de Obs Coop (ancla) y Obs Bygg (ferretería alfa) dentro de un radio de 1 km — el patrón de co-tenencia característico del formato Coop Norge. Bajo el sistema de niveles actual, la misma composición Obs Coop / Obs Bygg alimenta la compuerta de composición para Distrital; el nivel real que lleva un clúster hoy también depende del rango de captación y la presencia cívica, que no se reafirman aquí.
 
 ## Relevancia
 
@@ -53,6 +55,6 @@ La promoción de B&Q resuelve la brecha de datos más significativa del conjunto
 ## Véase También
 
 - [[atlas-co-location-index-nordics]] — índice clasificado de sitios de convergencia comercial en los países nórdicos
-- [[co-location-ranking-system]] — cómo se asignan las designaciones T2 Hub y T3
+- [[co-location-ranking-system]] — el modelo de clasificación de anclas nominadas actual
 - [[co-location-methodology]] — el modelo de puntuación de geometría lineal en el que se basan todos los índices
 - [[atlas-tier-index-europe]] — el índice europeo de niveles completo

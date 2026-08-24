@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-11
+last_edited: 2026-08-24
 editor: pointsav-engineering
 short_description: "Deterministic 12-rank scoring algorithm evaluating retail co-location sites by named-anchor convergence across defined catchment radii."
 paired_with: site-selection/co-location-ranking-system.es.md
@@ -64,18 +64,7 @@ The combination of present categories determines the site rank. There are twelve
 
 The twelve ranks are grouped into five quality ranks to provide a high-level view of market quality.
 
-**Quality rank note.** This article's five-rank scale (Rank 1 = highest, Rank 5 = lowest) describes the quality index rendered on the map. Individual co-location sites within a Regional Market are separately described using a three-tier spatial cluster classification (T1, T2, T3) in which T1 denotes the cluster with the most anchor-type categories present — the highest-composition cluster type in a given market. The five-rank quality scale and the T1/T2/T3 spatial cluster tiers are distinct: the quality rank measures commercial density across the full index; the spatial tier ranks anchor composition within a single market. For the T1/T2/T3 tier vocabulary, see [Co-location Tier Nomenclature](https://documentation.pointsav.com/reference/colocation-tier-nomenclature).
-
-**Correction (2026-08-02, verified against [[gis-cluster-scoring-glossary]]):** the
-T1/T2/T3 definition here is inverted. The real glossary defines T1 Valid as the
-**entry-level** tier (score ≥ 150, "partial co-location confirmation") and T3 Apex
-as the **top** tier (score ≥ 700) — the opposite of "T1 denotes the cluster with the
-most anchor-type categories present." Separately, the linked URL
-(`documentation.pointsav.com/reference/colocation-tier-nomenclature`) points to a
-different wiki entirely and a misspelled slug — this repo's own
-`[[co-location-tier-nomenclature]]` wikilink should be used instead. This wiki
-maintains several unreconciled co-location tier systems reusing the same T1/T2/T3
-labels; this article's footnote conflates two of them. **Flagged, not resolved.**
+**Quality rank note.** This article's five-rank scale (Rank 1 = highest, Rank 5 = lowest) describes the quality index rendered on the map — a distinct, named-anchor combination matrix, not the platform's cluster tier system. Individual co-location clusters within a Regional Market are separately classified by the current tier system — **Regional**, **District**, **Local**, **Fringe** — described in [[co-location-tier-nomenclature|tier nomenclature]] and [[gis-cluster-scoring-glossary|the cluster scoring glossary]]. The five-rank quality scale and the four-tier cluster classification measure different things: the quality rank scores commercial density across the full 12-rank index; the tier classifies a cluster's anchor composition and catchment rank against fixed gates. They are not interchangeable, and neither is a numbered "T1/T2/T3" scale — that numeric scheme was retired platform-wide on 2026-05-16 and does not describe any current cluster.
 
 ### ★★★★★ Rank 1 — Full co-location
 *Rank 1 only. All four categories present.*

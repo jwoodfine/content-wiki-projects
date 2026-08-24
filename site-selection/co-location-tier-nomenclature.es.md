@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-05-25
+last_edited: 2026-08-24
 editor: pointsav-engineering
 short_description: "Las cuatro etiquetas de nivel — Regional, Distrital, Local, Marginal — visibles en el mapa de co-localización siguen la jerarquía de propiedades comerciales del Consejo Internacional de Centros Comerciales (ICSC), una nomenclatura internacionalmente reconocida que lleva significado propio sin necesidad de contexto específico de la plataforma."
 paired_with: site-selection/co-location-tier-nomenclature.md

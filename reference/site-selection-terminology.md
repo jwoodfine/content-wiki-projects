@@ -45,9 +45,9 @@ In the geographic co-location dataset:
 
 A **Primary Target** is a Walmart Supercentre. It is the anchor from which all cluster scoring originates. Every scored node in the dataset begins with a confirmed Primary Target entry.
 
-A **Secondary Target** is either a Home Depot or a Costco Wholesale operating within 1.0 km of a Primary Target. Secondary Targets are required for First-Degree Cluster designation. The presence of both Secondary Targets is required for Third-Degree Cluster designation. The Second and Third Degree labels distinguish one-secondary from two-secondary co-occurrence.
+A **Secondary Target** is either a Home Depot or a Costco Wholesale operating near a Primary Target. Secondary Target presence — specifically, which of Hardware or Warehouse anchor classes are present — feeds the composition gate of the current tier system, which classifies each cluster as Regional, District, Local, or Fringe. See [[gis-cluster-scoring-glossary|the cluster scoring glossary]] for the gate definitions.
 
-A **Tertiary Target** is a post-secondary educational institution or a major medical centre operating within 5.0 km of a Primary Target or Primary-Secondary cluster. Tertiary Targets contribute to Second-Degree (one Tertiary), Fourth-Degree (one Tertiary on a Third-Degree base), and Fifth-Degree (both Tertiary categories on a Third-Degree base) designations.
+A **Tertiary Target** is a post-secondary educational institution or a major medical centre operating near a Primary Target or Primary-Secondary cluster. Tertiary Target presence — specifically, a classified hospital within the civic ring — is one of the civic gates the current tier system applies at Regional, District, and Local.
 
 ## Required Development Count and Site Shortlist
 

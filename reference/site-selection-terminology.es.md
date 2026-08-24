@@ -41,9 +41,9 @@ En el conjunto de datos de co-ubicación geográfica:
 
 Un **Objetivo Primario** es un Walmart Supercentre. Es el ancla desde la que se origina toda la puntuación de clústeres.
 
-Un **Objetivo Secundario** es un Home Depot o Costco Wholesale que opera dentro de 1,0 km de un Objetivo Primario. Los Objetivos Secundarios son necesarios para la designación de Clúster de Primer Grado. La presencia de ambos Objetivos Secundarios es necesaria para la designación de Clúster de Tercer Grado.
+Un **Objetivo Secundario** es un Home Depot o Costco Wholesale que opera cerca de un Objetivo Primario. La presencia de un Objetivo Secundario — específicamente, cuáles clases de ancla Ferretería o Almacén están presentes — alimenta la compuerta de composición del sistema de niveles actual, que clasifica cada clúster como Regional, Distrital, Local o Marginal. Véase el [[gis-cluster-scoring-glossary|glosario de puntuación de clústeres]] para las definiciones de compuerta.
 
-Un **Objetivo Terciario** es una institución educativa de nivel superior o un centro médico importante que opera dentro de 5,0 km de un Objetivo Primario o clúster Primario-Secundario. Los Objetivos Terciarios contribuyen a las designaciones de Segundo, Cuarto y Quinto Grado.
+Un **Objetivo Terciario** es una institución educativa de nivel superior o un centro médico importante que opera cerca de un Objetivo Primario o clúster Primario-Secundario. La presencia de un Objetivo Terciario — específicamente, un hospital clasificado dentro del anillo cívico — es una de las compuertas cívicas que el sistema de niveles actual aplica en Regional, Distrital y Local.
 
 ## Cantidad de Desarrollo Requerida y Shortlist de Sitios
 
