@@ -7,9 +7,9 @@ category: building-design
 type: topic
 content_type: topic
 status: active
-last_edited: 2026-06-20
+last_edited: 2026-08-24
 editor: pointsav-engineering
-short_description: "Menos del 40 por ciento de los gerentes de instalaciones utilizan activamente los modelos BIM entregados en la entrega del proyecto, debido al costo del software, requisitos de capacitación y opacidad del formato de archivo. Los componentes de interfaz específicos de FM del Building Design System proporcionan acceso de solo lectura a datos BIM de fidelidad completa a través de búsquedas GUID sin necesidad de licencias de herramienta de autoría propietarias."
+short_description: "Una parte sustancial de los gerentes de instalaciones no utiliza activamente los modelos BIM entregados en la entrega del proyecto, debido al costo del software, requisitos de capacitación y opacidad del formato de archivo. Los componentes de interfaz específicos de FM del Building Design System están diseñados para proporcionar acceso de solo lectura a datos BIM de fidelidad completa a través de búsquedas GUID sin necesidad de licencias de herramienta de autoría propietarias."
 cites: [ifc-4-3, iso-19650]
 paired_with: building-design/property-manager-bim-gap.md
 ---
@@ -20,7 +20,7 @@ En la práctica, la mayoría no puede.
 
 ## Lo que Documenta la Investigación
 
-La brecha entre la producción BIM y el consumo BIM en la gestión de instalaciones está documentada en la literatura revisada por pares. Un hallazgo consistente en estudios publicados entre 2015 y 2024 es que menos del 40 por ciento de los gestores de instalaciones usa activamente los modelos BIM que reciben en la transferencia. Las barreras citadas con más frecuencia son:
+La brecha entre la producción BIM y el consumo BIM en la gestión de instalaciones está documentada en la literatura revisada por pares. Los estudios publicados apuntan a un hallazgo consistente: una parte sustancial de los gestores de instalaciones no usa activamente los modelos BIM que reciben en la transferencia. Las barreras citadas con más frecuencia son:
 
 1. **Costo del software.** Las licencias de autoría completa están pensadas para profesionales del diseño. Un gestor de instalaciones que solo necesita buscar un valor Pset o registrar un problema BCF no puede justificar el costo.
 
@@ -46,9 +46,9 @@ Los [[aec-interface-conventions|componentes de interfaz]] específicos para FM d
 
 ### Componentes GuidSearch y AuditLog
 
-`GuidSearch` es una interfaz de búsqueda que toma un GUID IFC — el identificador alfanumérico estampado en cada puerta, cada muro, cada componente HVAC en un modelo BIM — y devuelve los valores Pset del elemento, el historial de mantenimiento y los problemas BCF abiertos. Un gestor de instalaciones que escanea un código QR adjunto a un equipo recupera los datos del modelo para ese elemento específico sin navegar por un viewport 3D.
+`GuidSearch` está diseñado para ser una interfaz de búsqueda que toma un GUID IFC — el identificador alfanumérico estampado en cada puerta, cada muro, cada componente HVAC en un modelo BIM. Devolvería los valores Pset del elemento, el historial de mantenimiento y los problemas BCF abiertos. Un gestor de instalaciones que escanea un código QR adjunto a un equipo recuperaría los datos del modelo para ese elemento específico sin navegar por un viewport 3D.
 
-`AuditLog` es un registro cronológico de todos los cambios en la bóveda: actualizaciones del modelo IFC, resoluciones de temas BCF, finalizaciones de órdenes de trabajo y anomalías en las lecturas de sensores.
+`AuditLog` está pensado para ser un registro cronológico de todos los cambios en la bóveda: actualizaciones del modelo IFC, resoluciones de temas BCF, finalizaciones de órdenes de trabajo y anomalías en las lecturas de sensores.
 
 ### Lecturas de fidelidad completa desde la bóveda canónica
 
@@ -60,6 +60,6 @@ La brecha en la gestión de instalaciones tiene una dimensión financiera que es
 
 ### Datos de arrendamiento en los sidecars por elemento
 
-Los sidecars YAML por elemento de la bóveda Woodfine llevan referencias de arrendamiento junto con lecturas de sensores e historial de órdenes de trabajo. Cuando cambia el arrendamiento, el sidecar se actualiza en la misma confirmación git que registra el cambio del modelo. Los tres registros se convierten en uno.
+Los sidecars YAML por elemento de la bóveda Woodfine están diseñados para llevar referencias de arrendamiento junto con lecturas de sensores e historial de órdenes de trabajo. Cuando cambia el arrendamiento, el sidecar se actualizaría en la misma confirmación git que registra el cambio del modelo, de modo que los tres registros se conviertan en uno.
 
 Esta convergencia está prevista que sea la capacidad más estratégicamente significativa de la plataforma para un administrador de propiedades que también es propietario del activo: la identidad espacial, operativa y financiera del edificio en un archivo portátil que se mueve con la escritura de propiedad.

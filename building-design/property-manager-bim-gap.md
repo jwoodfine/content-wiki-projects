@@ -7,9 +7,9 @@ category: building-design
 type: topic
 content_type: topic
 status: active
-last_edited: 2026-06-20
+last_edited: 2026-08-24
 editor: pointsav-engineering
-short_description: "Fewer than 40 percent of facilities managers actively use the BIM models delivered at project handover, due to software cost, training requirements, and file format opacity. The Building Design System's FM-specific interface components provide read-only access to full-fidelity BIM data through searchable GUID lookups without requiring proprietary authoring tool licences."
+short_description: "A substantial share of facilities managers do not actively use the BIM models delivered at project handover, due to software cost, training requirements, and file format opacity. The Building Design System's FM-specific interface components are designed to provide read-only access to full-fidelity BIM data through searchable GUID lookups without requiring proprietary authoring tool licences."
 cites: [ifc-4-3, iso-19650]
 paired_with: building-design/property-manager-bim-gap.es.md
 ---
@@ -20,7 +20,7 @@ In practice, most do not.
 
 ## What the Research Documents
 
-The gap between BIM production and BIM consumption in facilities management is documented in peer-reviewed literature. A consistent finding across studies published between 2015 and 2024 is that fewer than 40 percent of facilities managers actively use the BIM models they receive at handover. The barriers cited most often are:
+The gap between BIM production and BIM consumption in facilities management is documented in peer-reviewed literature. Published research studies point to a consistent finding: a substantial share of facilities managers do not actively use the BIM models they receive at handover. The barriers cited most often are:
 
 1. **Software cost.** Full-feature authoring licences are priced for design professionals. A facilities manager who only needs to look up a Pset value or file a BCF issue cannot justify the cost.
 
@@ -48,9 +48,9 @@ The [[design-system-bim|Building Design System]]'s FM-specific [[aec-interface-c
 
 ### GuidSearch and AuditLog components
 
-`GuidSearch` is a search interface that takes an IFC GUID — the alphanumeric identifier stamped on every door, every wall, every HVAC component in a BIM model — and returns the element's Pset values, maintenance history, and open BCF issues. A facilities manager scanning a QR code attached to a piece of equipment, or reading a GUID from a work-order form, retrieves the building model data for that specific element without navigating a 3D viewport.
+`GuidSearch` is designed to be a search interface that takes an IFC GUID — the alphanumeric identifier stamped on every door, every wall, every HVAC component in a BIM model — and returns the element's Pset values, maintenance history, and open BCF issues. A facilities manager scanning a QR code attached to a piece of equipment, or reading a GUID from a work-order form, would retrieve the building model data for that specific element without navigating a 3D viewport.
 
-`AuditLog` is a time-ordered log of all changes to the vault: IFC model updates, BCF topic resolutions, work-order completions, and sensor-reading anomalies. For a facilities manager whose regulatory obligation is to demonstrate that a fire door was inspected, tested, and found compliant, the AuditLog is the audit trail.
+`AuditLog` is intended to be a time-ordered log of all changes to the vault: IFC model updates, BCF topic resolutions, work-order completions, and sensor-reading anomalies. For a facilities manager whose regulatory obligation is to demonstrate that a fire door was inspected, tested, and found compliant, the AuditLog is designed to be the audit trail.
 
 ### Full-fidelity reads from the canonical vault
 
@@ -64,6 +64,6 @@ When a tenant changes use, or a demising wall is moved for a new tenant, the lea
 
 ### Lease data in per-element sidecars
 
-The Woodfine vault's per-element YAML sidecars carry lease references alongside sensor readings and work-order history. A wall element's sidecar includes the tenant identifier and lease term for the space it bounds. When the lease changes, the sidecar is updated in the same git commit that records the model change. The three records become one.
+The Woodfine vault's per-element YAML sidecars are designed to carry lease references alongside sensor readings and work-order history. A wall element's sidecar is intended to include the tenant identifier and lease term for the space it bounds. When the lease changes, the sidecar would be updated in the same git commit that records the model change, so the three records become one.
 
 This convergence is intended to be the most strategically consequential capability of the platform for a property manager who is also an asset owner: the building's spatial, operational, and financial identity in one portable archive that moves with the property deed.

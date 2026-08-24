@@ -7,7 +7,7 @@ category: building-design
 type: topic
 content_type: topic
 status: active
-last_edited: 2026-06-20
+last_edited: 2026-08-24
 editor: pointsav-engineering
 short_description: "Building Information Modelling is mandated across most G7 economies for public procurement, with open standards — IFC 4.3, IDS 1.0, COBie — as the delivery requirement rather than proprietary formats. Offline-first, self-hosted BIM platforms are the only architecture type that natively satisfies sovereign data requirements imposed by ITAR, GDPR, HIPAA, and equivalent regulatory frameworks."
 cites: [ifc-4-3, iso-19650, ids-1-0]
@@ -45,7 +45,7 @@ The EU 2014 Public Procurement Directive (Directive 2014/24/EU) explicitly permi
 
 **Germany.** The Federal Ministry for Digital and Transport (BMDV) issued a BIM roadmap mandating BIM on infrastructure projects, with targets for federal transport infrastructure projects set for 2020 (design phase) and 2025 (full lifecycle).
 
-**Italy.** Legislative Decree 36/2023 (the new Public Contracts Code) mandates BIM for public works contracts above €15 million from January 2023, extending to lower thresholds through 2025.
+**Italy.** Italy's BIM mandate originates from Ministerial Decree 560/2017, which phased in mandatory BIM use on public works by project value starting January 2019, reaching all public works by 2025. The 2023 Public Contracts Code (Legislative Decree 36/2023) continues this digitalization requirement under the current procurement framework.
 
 **Spain.** The Plan de Impulso de la Contratación Pública de Edificación BIM (PPRE 2022-2026) establishes a progressive mandate targeting full implementation across all public works by 2026.
 

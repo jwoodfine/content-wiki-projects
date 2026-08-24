@@ -7,7 +7,7 @@ category: building-design
 type: topic
 content_type: topic
 status: active
-last_edited: 2026-06-20
+last_edited: 2026-08-24
 editor: pointsav-engineering
 short_description: "Los BIM Objects son unidades de especificación del entorno construido componibles que codifican el tipo de elemento, requisitos regulatorios por jurisdicción y requisitos de desempeño de zona climática, preconstriñendo el espacio de diseño para que las configuraciones no conformes no puedan colocarse."
 cites: [ifc-4-3, uniclass-2015, bsdd-v1, ids-1-0, dtcg-w3c]
@@ -16,7 +16,7 @@ aliases:
   - bim-token-what-it-is
 ---
 
-El Modelado de Información para la Construcción produce representaciones digitales detalladas de estructuras. En su forma estándar, no previene infracciones. Un modelo puede estar geométricamente completo, con materiales especificados y clasificado por tipo de entidad IFC, y aún así contener elementos que no cumplen con el código, violan los requisitos de desempeño climático o entran en conflicto con regulaciones jurisdiccionales — descubrimientos que sólo se hacen cuando un verificador posterior al diseño se ejecuta. Un Objeto BIM aborda esto desde el principio. Codifica una decisión sobre un elemento del entorno construido como una unidad de especificación composable y reasignable que pre-restringe el espacio de diseño en lugar de auditar un modelo completado. Véase también [[bim-objects-substrate|categorías de Objetos BIM]] y [[design-system-bim|el Sistema de Diseño de la Construcción]].
+El Modelado de Información para la Construcción produce representaciones digitales detalladas de estructuras. En su forma estándar, no previene infracciones. Un modelo puede estar geométricamente completo, con materiales especificados y clasificado por tipo de entidad IFC, y aún así contener elementos que no cumplen con el código, violan los requisitos de desempeño climático o entran en conflicto con regulaciones jurisdiccionales — descubrimientos que sólo se hacen cuando un verificador posterior al diseño se ejecuta. Un Objeto BIM está diseñado para abordar esto desde el principio. Está pensado para codificar una decisión sobre un elemento del entorno construido como una unidad de especificación composable y reasignable que pre-restringe el espacio de diseño en lugar de auditar un modelo completado. Véase también [[bim-objects-substrate|categorías de Objetos BIM]] y [[design-system-bim|el Sistema de Diseño de la Construcción]].
 
 ## Definición
 
@@ -26,7 +26,7 @@ Un Objeto BIM es una unidad de especificación composable para el entorno constr
 2. **Lo que DEBE satisfacer** — los requisitos regulatorios impuestos por su jurisdicción, expresados como superposiciones jurisdiccionales (archivos de restricción IDS 1.0 y fragmentos geométricos de exclusión IFC).
 3. **Cómo DEBE desempeñarse** — los requisitos de energía, térmicos, estructurales y acústicos impuestos por su zona climática, expresados como parámetros de desempeño tabulares vinculados a ASHRAE y normas nacionales equivalentes.
 
-Al colocar un Objeto BIM en un modelo se colocan simultáneamente el elemento, su envolvente regulatoria y su piso de desempeño climático. Las infracciones son geométricamente imposibles por construcción, en lugar de ser descubiertas en la revisión posterior al diseño.
+Al colocar un Objeto BIM en un modelo, el diseño está pensado para colocar simultáneamente el elemento, su envolvente regulatoria y su piso de desempeño climático. Las infracciones están concebidas para ser geométricamente imposibles por construcción, en lugar de ser descubiertas en la revisión posterior al diseño.
 
 ## Lo que un Objeto BIM NO Es
 
@@ -64,16 +64,16 @@ Un Objeto BIM tiene [[bim-objects-three-layers|tres capas]]. Las tres son datos 
 
 ## Forma de Implementación
 
-Los Objetos BIM se almacenan como JSON en formato W3C Design Token Community Group (DTCG), extendido con tipos de objeto específicos para BIM. El campo `$type` se extiende más allá del conjunto central DTCG para incluir `bim-element`, `bim-material`, `bim-assembly` y tipos específicos de AEC relacionados. El mecanismo de alias DTCG estándar (`{token.reference}`) se preserva, permitiendo que los Objetos BIM se referencien entre sí composicionalmente.
+Los Objetos BIM están diseñados para almacenarse como JSON en formato W3C Design Token Community Group (DTCG), extendido con tipos de objeto específicos para BIM. El campo `$type` está pensado para extenderse más allá del conjunto central DTCG e incluir `bim-element`, `bim-material`, `bim-assembly` y tipos específicos de AEC relacionados. El mecanismo de alias DTCG estándar (`{token.reference}`) está diseñado para preservarse, permitiendo que los Objetos BIM se referencien entre sí composicionalmente.
 
-El formato legible por máquinas permite:
-- Integración de herramientas: cualquier herramienta de autoría BIM con un analizador DTCG puede consumir Objetos BIM sin desarrollo de complementos propietarios.
-- Control de versiones regulatorias: las superposiciones jurisdiccionales tienen versiones independientes de la capa de especificación.
-- Operación sin conexión: una bóveda completa de Objetos BIM es un directorio de archivos JSON, clonable via git y consultable sin acceso a la red.
+El formato legible por máquinas está pensado para permitir:
+- Integración de herramientas: cualquier herramienta de autoría BIM con un analizador DTCG podría consumir Objetos BIM sin desarrollo de complementos propietarios.
+- Control de versiones regulatorias: las superposiciones jurisdiccionales estarían versionadas independientemente de la capa de especificación.
+- Operación sin conexión: una bóveda completa de Objetos BIM está diseñada para ser un directorio de archivos JSON, clonable via git y consultable sin acceso a la red.
 
 ## Relación con el Sistema de Diseño
 
-El sistema de Objetos BIM es paralelo a la estructura de un sistema de diseño de software. Donde IBM Carbon o un sistema similar proporciona una capa primitiva de tokens, una capa de recetas de componentes y una capa de extensiones específicas por superficie, la plataforma de Objetos BIM proporciona una capa primitiva de objetos (las 8 categorías de objetos DTCG ancladas a IFC 4.3), una capa de [[aec-interface-conventions|componentes AEC universal]] y extensiones específicas por superficie por tipo de programa del entorno construido.
+El sistema de Objetos BIM está diseñado para ser paralelo a la estructura de un sistema de diseño de software. IBM Carbon o un sistema similar proporciona una capa primitiva de tokens, una capa de recetas de componentes y una capa de extensiones específicas por superficie. La plataforma de Objetos BIM está pensada para proporcionar, de forma análoga, una capa primitiva de objetos (las 8 categorías de objetos DTCG ancladas a IFC 4.3), una capa de [[aec-interface-conventions|componentes AEC universal]] y extensiones específicas por superficie por tipo de programa del entorno construido.
 
 La analogía es estructural, no metafórica. Ambos sistemas abordan el mismo problema: aplicar coherencia entre superficies de autoría independientes codificando decisiones como unidades reutilizables, reasignables y versionables con especificaciones de restricciones legibles por máquinas.
 

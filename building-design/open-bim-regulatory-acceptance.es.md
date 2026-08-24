@@ -7,7 +7,7 @@ category: building-design
 type: topic
 content_type: topic
 status: active
-last_edited: 2026-07-31
+last_edited: 2026-08-24
 editor: pointsav-engineering
 short_description: "El modelado de información de construcción es obligatorio en la mayoría de las economías del G7 para contratación pública, con estándares abiertos — IFC 4.3, IDS 1.0, COBie — como requisito de entrega en lugar de formatos propietarios. Las plataformas BIM sin conexión y autohospedadas son el único tipo de arquitectura que satisface de forma nativa los requisitos de datos soberanos impuestos por ITAR, GDPR, HIPAA y marcos regulatorios equivalentes."
 cites: [ifc-4-3, iso-19650, ids-1-0]
@@ -41,7 +41,7 @@ La Directiva de Contratación Pública de la UE de 2014 (Directiva 2014/24/UE) p
 
 **Alemania.** El Ministerio Federal de Asuntos Digitales y Transporte (BMDV) emitió una hoja de ruta BIM con objetivos para la infraestructura federal de transporte establecidos para 2020 (fase de diseño) y 2025 (ciclo de vida completo).
 
-**Italia.** El Decreto Legislativo 36/2023 (el nuevo Código de Contratos Públicos) exige BIM para contratos de obras públicas superiores a 15 millones de euros desde enero de 2023.
+**Italia.** El mandato BIM de Italia se origina en el Decreto Ministerial 560/2017, que introdujo por fases el uso obligatorio de BIM en obras públicas según el valor del proyecto a partir de enero de 2019, alcanzando todas las obras públicas para 2025. El Código de Contratos Públicos de 2023 (Decreto Legislativo 36/2023) continúa este requisito de digitalización bajo el marco de contratación vigente.
 
 **España.** El Plan de Impulso de la Contratación Pública de Edificación BIM (PPRE 2022-2026) establece un mandato progresivo que apunta a la implementación completa en todas las obras públicas para 2026.
 

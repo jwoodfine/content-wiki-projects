@@ -9,7 +9,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-07-03
+last_edited: 2026-08-24
 editor: pointsav-engineering
 short_description: "Mandatos gubernamentales de BIM en jurisdicciones clave, ISO 19650 e IFC como estándares globales, y la demanda del Golden Thread británico de registros digitales portátiles."
 paired_with: building-design/bim-market-context.md
@@ -41,7 +41,7 @@ La Directiva de la UE 2014/24/EU sobre contratación pública anima explícitame
 | Reino Unido | Todos los proyectos públicos adquiridos centralmente | IFC / ISO 19650 | 2016 |
 | Alemania | Plan federal por etapas — mandato gradual | IFC | Desde 2017 |
 | España | Comisión BIM — grandes infraestructuras | IFC | 2018+ |
-| Italia | D.Lgs. 36/2023 — obras públicas por fases | IFC | 2023+ |
+| Italia | Mandato por fases (DM 560/2017); continuado bajo D.Lgs. 36/2023 | IFC | 2019–2025 (por fases) |
 | Francia | Fomentado en obras públicas | IFC | Activo |
 | Polonia | Proyectos de más de 10 M€ para 2025, todos para 2030 | IFC | Por fases |
 | Singapur | Todas las nuevas solicitudes de edificación (CORENET X) | IFC | 2025 |
@@ -52,7 +52,7 @@ La convergencia es clara: ISO 19650 como estándar de proceso e IFC como formato
 
 ISO 19650 define cómo se gestiona la información a lo largo del ciclo de vida de un activo construido utilizando BIM. La Parte 6, centrada en datos de salud y seguridad, se publicó en 2025. El estándar está actualmente en revisión — los cambios propuestos incluyen una terminología más clara, la eliminación de contenido repetitivo, un flujo de trabajo más lógico y una mayor atención a la información del ciclo de vida completo que abarca operaciones, mantenimiento y desmantelamiento.
 
-**Lo que esto significa para PointSav:** Todo proyecto financiado por gobiernos en Europa y en la mayoría de los mercados principales fuera de Estados Unidos exige legalmente entregables en formato IFC y gestión de la información alineada con ISO 19650. El archivo de archivos planos de PointSav, canonizado en IFC-SPF, es la infraestructura que hace que esos mandatos sean sostenibles más allá de la fase de construcción. El microkernel seL4 aborda el requisito de soberanía de datos que las plataformas BIM en la nube no pueden satisfacer estructuralmente.
+**Lo que esto significa para PointSav:** Todo proyecto financiado por gobiernos en Europa y en la mayoría de los mercados principales fuera de Estados Unidos exige legalmente entregables en formato IFC y gestión de la información alineada con ISO 19650. El archivo de archivos planos de PointSav, canonizado en IFC-SPF, está diseñado para ser la infraestructura que haga que esos mandatos sean sostenibles más allá de la fase de construcción. El microkernel seL4 está pensado para abordar el requisito de soberanía de datos que las plataformas BIM en la nube no pueden satisfacer estructuralmente.
 
 ---
 
@@ -68,7 +68,7 @@ La Building Safety Alliance publicó orientaciones detalladas sobre el Golden Th
 
 ### La conexión con el gemelo digital
 
-El Golden Thread ha creado, por estatuto, un mercado legal para exactamente lo que un Archivo de Propiedad de PointSav ofrece: un registro digital portátil, con control de versiones y continuamente mantenido de un edificio, transferible en la entrega, independientemente verificable, sin dependencia continua de la existencia de ningún proveedor. Este es un argumento de adquisición, no un argumento tecnológico.
+El Golden Thread ha creado, por estatuto, un mercado legal para exactamente lo que un Archivo de Propiedad de PointSav está diseñado para ofrecer: un registro digital portátil, con control de versiones y continuamente mantenido de un edificio, transferible en la entrega, independientemente verificable, sin dependencia continua de la existencia de ningún proveedor. Este es un argumento de adquisición, no un argumento tecnológico.
 
 ---
 
@@ -115,7 +115,7 @@ CityJSON 2.0 es un Estándar Comunitario OGC — una codificación JSON del est�
 
 ### Formatos de importación — no formatos de archivo
 
-**RVT** es un formato binario cerrado. Para proyectos conformes con ISO 19650, el arquitecto exporta IFC en cada hito del proyecto. PointSav ingiere IFC. El archivo RVT permanece en el entorno de autoría del arquitecto. Esta es la arquitectura de información correcta bajo cualquier mandato gubernamental de BIM — no es un compromiso.
+**RVT** es un formato binario cerrado. Para proyectos conformes con ISO 19650, el arquitecto exporta IFC en cada hito del proyecto. PointSav está diseñado para ingerir IFC, dejando el archivo RVT en el entorno de autoría del arquitecto. Esta es la arquitectura de información correcta bajo cualquier mandato gubernamental de BIM — no es un compromiso.
 
 La Open Design Alliance (ODA) proporciona una implementación legalmente limpia para leer formatos DWG/DXF. **DXF** es completamente abierto (especificación publicada); **DWG** es legible a través de la membresía en ODA.
 
@@ -171,7 +171,9 @@ SAREF es un estándar IoT de ETSI (SAREF4BLDG para la extensión de edificios). 
 
 Project Haystack es una taxonomía de etiquetado de código abierto para datos de equipos de edificios, especialmente puntos de sistemas de gestión de edificios (BMS). Donde Brick proporciona una ontología basada en grafos, Haystack proporciona etiquetado plano que muchos proveedores de BMS admiten de forma nativa. Los dos son complementarios.
 
-### El patrón de integración IoT de PointSav
+### El patrón de integración IoT previsto para PointSav
+
+El flujo de datos previsto — no una tubería actualmente en funcionamiento:
 
 ```
 Sensor físico (BACnet / KNX / MQTT)
@@ -181,7 +183,7 @@ ingestión de service-bim
 elements/{IFC-GUID}/sensors.yaml
 ```
 
-Las lecturas de los sensores se añaden a un archivo de series temporales JSONL. El archivo crece solo por adición. No se requiere ningún motor de base de datos. Todo el historial de sensores es legible por cualquier herramienta compatible con JSONL.
+Las lecturas de los sensores están diseñadas para añadirse a un archivo de series temporales JSONL, creciendo solo por adición, sin requerir ningún motor de base de datos. Todo el historial de sensores sería legible por cualquier herramienta compatible con JSONL.
 
 ---
 
@@ -198,9 +200,9 @@ Plataforma de FM / archivo (PointSav PropertyArchive)
  ↓ IFC como registro permanente
 ```
 
-PointSav se sitúa al final de este flujo de trabajo como el archivo permanente — el "Modelo de Información del Activo" que ISO 19650 Parte 3 exige entregar y mantener. El arquitecto nunca abre PointSav. El contratista nunca abre PointSav. Entregan IFC en la entrega, que es lo que la ley ya exige en cualquier proyecto mandatado.
+PointSav está diseñado para situarse al final de este flujo de trabajo como el archivo permanente — el "Modelo de Información del Activo" que ISO 19650 Parte 3 exige entregar y mantener. Ni el arquitecto ni el contratista necesitarían abrir PointSav directamente: entregan IFC en la entrega, que es lo que la ley ya exige en cualquier proyecto mandatado.
 
-PointSav produce DXF como salida de coordinación — legible en cualquier herramienta de dibujo. Los planos SVG son legibles en cualquier navegador y editor de gráficos vectoriales. glTF es visualizable en cualquier aplicación 3D principal. El archivo produce derivados para cualquier flujo de trabajo sin comprometer el IFC canónico.
+PointSav está pensado para producir DXF como salida de coordinación — legible en cualquier herramienta de dibujo. Los planos SVG son legibles en cualquier navegador y editor de gráficos vectoriales. glTF es visualizable en cualquier aplicación 3D principal. El archivo está diseñado para producir derivados para cualquier flujo de trabajo sin comprometer el IFC canónico.
 
 ---
 
@@ -208,13 +210,13 @@ PointSav produce DXF como salida de coordinación — legible en cualquier herra
 
 Cinco capacidades están ausentes en todas las plataformas BIM comerciales actualmente disponibles — no por descuido, sino por incompatibilidad estructural con el modelo de nube por suscripción:
 
-1. **BIM anclado al activo.** Un PointSav PropertyArchive, exportado como imagen de disco arrancable, se transfiere con la escritura de propiedad. El comprador recibe la memoria institucional completa del edificio. Ninguna plataforma actual puede ofrecer esto de forma creíble porque socavaría la renovación de suscripciones.
+1. **BIM anclado al activo.** Un PointSav PropertyArchive, exportado como imagen de disco arrancable, está diseñado para transferirse con la escritura de propiedad. El comprador recibiría la memoria institucional completa del edificio. Ninguna plataforma actual puede ofrecer esto de forma creíble porque socavaría la renovación de suscripciones.
 
 2. **BIM con capacidad sin conexión.** Los sótanos, las azoteas, los sitios de construcción rurales, las instalaciones de defensa aisladas por aire, los campus de salud con estrictos requisitos de residencia de datos y las regiones con menor conectividad son estructuralmente inaccesibles para las plataformas BIM que priorizan la nube.
 
-3. **BIM superviviente a la obsolescencia del proveedor.** Un edificio dura 50-100 años. Una suscripción de software dura hasta que el proveedor cambia su modelo de precios. El archivo PointSav, escrito en IFC-SPF + YAML + SVG + glTF, será legible en 2076 con herramientas que todavía no existen.
+3. **BIM superviviente a la obsolescencia del proveedor.** Un edificio dura 50-100 años. Una suscripción de software dura hasta que el proveedor cambia su modelo de precios. El archivo PointSav está diseñado para escribirse en IFC-SPF + YAML + SVG + glTF — formatos que seguirán siendo legibles en 2076 con herramientas que todavía no existen.
 
-4. **Integración IoT sin intermediario en la nube.** Un nodo de PointSav ingiere datos de sensores BACnet/KNX/MQTT directamente en el archivo a través de un broker local — los datos nunca abandonan las instalaciones del propietario a menos que el propietario elija enviarlos.
+4. **Integración IoT sin intermediario en la nube.** Un nodo de PointSav está diseñado para ingerir datos de sensores BACnet/KNX/MQTT directamente en el archivo a través de un broker local, de modo que los datos no abandonarían las instalaciones del propietario a menos que el propietario elija enviarlos.
 
 5. **BIM + arrendamientos + libro mayor financiero en un único archivo portátil.** Un PropertyArchive que contenga la geometría de un edificio, el registro de arrendamientos, el libro mayor financiero y el historial de mantenimiento en un único archivo controlado por el propietario es arquitectónicamente imposible para cualquier plataforma compartida multiusuario. Para un propietario de inmuebles, estos no son cuatro conjuntos de datos — son un único registro sobre un único activo. El principio del grafo propiedad del cliente implica que el registro pertenece al propietario del inmueble, no a ningún proveedor de plataforma.
 
@@ -222,9 +224,9 @@ Cinco capacidades están ausentes en todas las plataformas BIM comerciales actua
 
 La convergencia de tres fuerzas independientes para 2030 crea el mercado hacia el que PointSav está arquitecturando:
 
-- **El mercado de tokenización.** El mercado de bienes raíces tokenizados se proyecta hacia los 30 billones de dólares para 2034. Cada propiedad tokenizada carece actualmente de un registro operativo. Un PointSav PropertyArchive, vinculado a un título de propiedad y entregado con el edificio en la venta, es el registro operativo que le falta al mercado de tokenización.
-- **El mandato del Golden Thread.** El requisito del Golden Thread de la Ley de Seguridad en Edificios del Reino Unido (en vigor desde abril de 2024) crea una obligación legal para exactamente el registro de edificio continuo, transferible y mantenido digitalmente que un PropertyArchive ofrece.
-- **La posición de seguridad de seL4.** Las propiedades de seguridad formalmente verificadas del microkernel seL4 abordan la preocupación que impide que los clientes clasificados, de salud y defensa adopten BIM en la nube: la soberanía de los datos.
+- **El mercado de tokenización.** El mercado de bienes raíces tokenizados es un segmento amplio y en crecimiento de los bienes raíces institucionales. Cada propiedad tokenizada carece actualmente de un registro operativo. Un PointSav PropertyArchive, vinculado a un título de propiedad y entregado con el edificio en la venta, está diseñado para ser el registro operativo que le falta al mercado de tokenización.
+- **El mandato del Golden Thread.** El requisito del Golden Thread de la Ley de Seguridad en Edificios del Reino Unido (en vigor desde abril de 2024) crea una obligación legal para exactamente el registro de edificio continuo, transferible y mantenido digitalmente que un PropertyArchive está diseñado para ofrecer.
+- **La posición de seguridad de seL4.** Las propiedades de seguridad formalmente verificadas del microkernel seL4 están pensadas para abordar la preocupación que impide que los clientes clasificados, de salud y defensa adopten BIM en la nube: la soberanía de los datos.
 
 ---
 

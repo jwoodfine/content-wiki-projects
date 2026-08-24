@@ -9,7 +9,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-03
+last_edited: 2026-08-24
 editor: pointsav-engineering
 short_description: "Government BIM mandates across key jurisdictions, ISO 19650 and IFC as global defaults, and the UK Golden Thread's demand for portable digital building records."
 paired_with: building-design/bim-market-context.es.md
@@ -41,7 +41,7 @@ EU Directive 2014/24/EU on public procurement explicitly encourages member state
 | UK | All centrally procured public projects | IFC / ISO 19650 | 2016 |
 | Germany | Federal Stufenplan — phased mandate | IFC | 2017 onwards |
 | Spain | BIM Commission — large infrastructure | IFC | 2018+ |
-| Italy | D.Lgs. 36/2023 — all public works phased | IFC | 2023+ |
+| Italy | DM 560/2017 phased mandate; continued under D.Lgs. 36/2023 | IFC | 2019–2025 (phased) |
 | France | Encouraged across public works | IFC | Active |
 | Poland | €10M+ projects by 2025, all by 2030 | IFC | Phased |
 | Singapore | All new building applications (CORENET X) | IFC | 2025 |
@@ -52,7 +52,7 @@ The convergence is clear: ISO 19650 as the process standard and IFC as the data 
 
 ISO 19650 defines how information is managed throughout the lifecycle of a built asset using BIM. Part 6, focused on health and safety data, was released in 2025. The standard is currently under revision — proposed changes include clearer terminology, removal of repetitive content, a more logical workflow, and expanded focus on whole-lifecycle information covering operations, maintenance, and decommissioning.
 
-**What this means for PointSav:** Every government-funded project in Europe and most major markets outside the US now legally requires IFC-format deliverables and ISO 19650-aligned information management. PointSav's flat-file archive, canonicalised on IFC-SPF, is the infrastructure that makes those mandates survivable beyond the construction phase. The seL4 microkernel foundation addresses the data-sovereignty requirement that cloud BIM platforms cannot meet structurally.
+**What this means for PointSav:** Every government-funded project in Europe and most major markets outside the US now legally requires IFC-format deliverables and ISO 19650-aligned information management. PointSav's flat-file archive, canonicalised on IFC-SPF, is designed to be the infrastructure that makes those mandates survivable beyond the construction phase. The seL4 microkernel foundation is intended to address the data-sovereignty requirement that cloud BIM platforms cannot meet structurally.
 
 ---
 
@@ -68,7 +68,7 @@ The Building Safety Alliance published detailed Golden Thread guidance in May 20
 
 ### The Digital Twin Connection
 
-The Golden Thread has created, by statute, a legal market for exactly what a PointSav PropertyArchive delivers: a portable, version-controlled, continuously maintained digital record of a building, transferable at handover, independently verifiable, with no ongoing dependency on any vendor's continued existence. This is a procurement argument, not a technology argument.
+The Golden Thread has created, by statute, a legal market for exactly what a PointSav PropertyArchive is designed to deliver: a portable, version-controlled, continuously maintained digital record of a building, transferable at handover, independently verifiable, with no ongoing dependency on any vendor's continued existence. This is a procurement argument, not a technology argument.
 
 ---
 
@@ -115,7 +115,7 @@ CityJSON 2.0 is an OGC Community Standard — a JSON encoding of the CityGML urb
 
 ### Import Formats — Not Archive Formats
 
-**RVT** is a closed binary format. For ISO 19650-compliant projects, the architect exports IFC at each project milestone. PointSav ingests IFC. The RVT file remains in the architect's authoring environment. This is the correct information architecture under every government BIM mandate — not a compromise.
+**RVT** is a closed binary format. For ISO 19650-compliant projects, the architect exports IFC at each project milestone. PointSav is designed to ingest IFC, with the RVT file remaining in the architect's authoring environment. This is the correct information architecture under every government BIM mandate — not a compromise.
 
 The Open Design Alliance (ODA) provides a legally clean-room implementation for reading DWG/DXF formats. **DXF** is fully open (published specification); **DWG** is readable through ODA membership.
 
@@ -171,7 +171,9 @@ SAREF is an ETSI IoT standard (SAREF4BLDG for the buildings extension). It align
 
 Project Haystack is an open-source tagging taxonomy for building equipment data, particularly BMS points. Where Brick provides a graph-based ontology, Haystack provides flat tagging that many BMS vendors support natively. The two are complementary.
 
-### The PointSav IoT Integration Pattern
+### The Intended PointSav IoT Integration Pattern
+
+The intended data flow — not a currently operating pipeline:
 
 ```
 Physical sensor (BACnet / KNX / MQTT)
@@ -181,7 +183,7 @@ service-bim ingestion
 elements/{IFC-GUID}/sensors.yaml
 ```
 
-Sensor readings are appended to a JSONL time-series file. The file grows append-only. No database engine is required. The entire sensor history is readable by any JSONL-capable tool.
+Sensor readings are designed to be appended to a JSONL time-series file, growing append-only, with no database engine required. The entire sensor history would be readable by any JSONL-capable tool.
 
 ---
 
@@ -198,9 +200,9 @@ FM platform / archive (PointSav PropertyArchive)
  ↓ IFC as permanent record
 ```
 
-PointSav sits at the end of this workflow as the permanent archive — the ISO 19650 "Asset Information Model" that ISO 19650 Part 3 requires to be handed over and maintained. The architect never opens PointSav. The contractor never opens PointSav. They deliver IFC at handover, which is what the law already requires on any mandated project.
+PointSav is designed to sit at the end of this workflow as the permanent archive — the ISO 19650 "Asset Information Model" that ISO 19650 Part 3 requires to be handed over and maintained. Neither the architect nor the contractor would need to open PointSav directly: they deliver IFC at handover, which is what the law already requires on any mandated project.
 
-PointSav produces DXF as a coordination output — readable in every drafting tool. SVG floor plans are readable in every browser and vector graphics editor. glTF is viewable in every major 3D application. The archive produces derivatives for any workflow without compromising the canonical IFC.
+PointSav is intended to produce DXF as a coordination output — readable in every drafting tool. SVG floor plans are readable in every browser and vector graphics editor. glTF is viewable in every major 3D application. The archive is designed to produce derivatives for any workflow without compromising the canonical IFC.
 
 ---
 
@@ -208,13 +210,13 @@ PointSav produces DXF as a coordination output — readable in every drafting to
 
 Five capabilities are absent from every currently shipping commercial BIM platform — not through oversight, but through structural incompatibility with the subscription cloud model:
 
-1. **Asset-anchored BIM.** A PointSav PropertyArchive, exported as a bootable disk image, transfers with the deed. The buyer receives the building's complete institutional memory. No current platform can offer this credibly because it undermines subscription renewal.
+1. **Asset-anchored BIM.** A PointSav PropertyArchive, exported as a bootable disk image, is designed to transfer with the deed. The buyer would receive the building's complete institutional memory. No current platform can offer this credibly because it undermines subscription renewal.
 
 2. **Offline-capable BIM.** Basements, rooftops, rural construction sites, air-gapped defence facilities, healthcare campuses with strict data residency requirements, and lower-connectivity regions are structurally inaccessible to cloud-first BIM platforms.
 
-3. **Vendor-obsolescence-survivable BIM.** A building lives 50–100 years. A software subscription lives until the vendor changes its pricing model. The PointSav archive, written in IFC-SPF + YAML + SVG + glTF, will be readable in 2076 by tools that do not yet exist.
+3. **Vendor-obsolescence-survivable BIM.** A building lives 50–100 years. A software subscription lives until the vendor changes its pricing model. The PointSav archive is designed to be written in IFC-SPF + YAML + SVG + glTF — formats that will remain readable in 2076 by tools that do not yet exist.
 
-4. **IoT integration without cloud intermediary.** A PointSav node ingests BACnet / KNX / MQTT sensor data directly into the archive via a local broker — the data never leaves the owner's premises unless the owner chooses to send it.
+4. **IoT integration without cloud intermediary.** A PointSav node is designed to ingest BACnet / KNX / MQTT sensor data directly into the archive via a local broker, so that data would never leave the owner's premises unless the owner chooses to send it.
 
 5. **BIM + lease + financial ledger in one portable archive.** A PropertyArchive holding a building's geometry, lease register, financial ledger, and maintenance history in a single owner-controlled archive is architecturally impossible for any multi-tenant shared platform. For a property owner, these are not four datasets — they are one record about one asset. The customer-owned graph principle means the record belongs to the property owner, not to any platform vendor.
 
@@ -222,9 +224,9 @@ Five capabilities are absent from every currently shipping commercial BIM platfo
 
 The convergence of three independent forces by 2030 creates the market PointSav is architecting toward:
 
-- **The tokenisation market.** The tokenised real estate market is projected toward $30 trillion by 2034. Every tokenised property currently lacks an operational record. A PointSav PropertyArchive, attached to a land title and delivered with the building at sale, is the operational record the tokenisation market is missing.
-- **The Golden Thread mandate.** The UK Building Safety Act's Golden Thread requirement (in force April 2024) creates a legal obligation for exactly the continuous, transferable, digitally maintained building record that a PropertyArchive delivers.
-- **The seL4 security position.** The seL4 microkernel's formally verified security properties address the one concern that prevents classified, healthcare, and defence clients from adopting cloud BIM: data sovereignty.
+- **The tokenisation market.** The tokenised real estate market is a large and growing segment of institutional real estate. Every tokenised property currently lacks an operational record. A PointSav PropertyArchive, attached to a land title and delivered with the building at sale, is designed to be the operational record the tokenisation market is missing.
+- **The Golden Thread mandate.** The UK Building Safety Act's Golden Thread requirement (in force April 2024) creates a legal obligation for exactly the continuous, transferable, digitally maintained building record that a PropertyArchive is designed to deliver.
+- **The seL4 security position.** The seL4 microkernel's formally verified security properties are intended to address the one concern that prevents classified, healthcare, and defence clients from adopting cloud BIM: data sovereignty.
 
 ---
 
