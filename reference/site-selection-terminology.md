@@ -10,7 +10,7 @@ quality: complete
 short_description: "Glossary of Woodfine site selection and development terms, including Qualified Investment, Power Centre, Campus Design, and the Primary–Tertiary target tiers."
 status: stable
 bcsc_class: current-fact
-last_edited: 2026-07-11
+last_edited: 2026-08-24
 editor: pointsav-engineering
 language_protocol: PROSE-TOPIC
 source_refs:
@@ -29,7 +29,7 @@ The co-location criterion is the gating condition: a site without a Power Centre
 
 ## Power Centre
 
-A **Power Centre** is a large-format retail node anchored by one or more National Retailers operating at institutional scale. In the North American context, a Power Centre is typically characterized by large-footprint single-storey buildings with surface parking, anchored by retailers with store areas exceeding 10,000 square metres. The Power Centre format is purpose-built for the operational requirements of large-format retailers whose store Prototypes require extensive ground-level access for receiving, cart return, and large-item customer loading.
+A **Power Centre** is a large-format retail node anchored by one or more National Retailers operating at institutional scale. In the North American context, a Power Centre is typically characterized by large-footprint single-storey buildings with surface parking, anchored by at least one retailer of good reputation operating a store in excess of 60,000 square feet. The Power Centre format is purpose-built for the operational requirements of large-format retailers whose store Prototypes require extensive ground-level access for receiving, cart return, and large-item customer loading.
 
 In the European and Latin American contexts, the equivalent format varies by jurisdiction. Spain's equivalent node typically involves a Hipermercado anchor with adjacent standalone retail units. Mexico's commercial park (Parque Comercial) format is comparable in function to the North American Power Centre. In all jurisdictions, the relevant criterion is whether a National Retailer anchor is operating at institutional scale on or adjacent to the Development Site — the physical format is secondary to the anchor covenant.
 

@@ -10,7 +10,7 @@ quality: complete
 short_description: "Glosario de los términos de selección de sitios y desarrollo de Woodfine, incluyendo Inversión Calificada, Power Centre, Diseño Campus y los objetivos Primario a Terciario."
 status: stable
 bcsc_class: current-fact
-last_edited: 2026-07-01
+last_edited: 2026-08-24
 editor: pointsav-engineering
 language_protocol: TRANSLATE-ES
 source_refs:
@@ -29,7 +29,7 @@ El criterio de co-ubicación es la condición determinante: un sitio sin un ancl
 
 ## Centro Comercial
 
-Un **Centro Comercial** es un nodo minorista de gran formato anclado por uno o más Minoristas Nacionales que operan a escala institucional. En el contexto norteamericano, un Centro Comercial se caracteriza típicamente por edificios de gran planta y un solo piso con estacionamiento en superficie. En contextos europeos y latinoamericanos, el formato equivalente varía por jurisdicción. En todas las jurisdicciones, el criterio relevante es si un ancla de Minorista Nacional está operando a escala institucional en o adyacente al Sitio de Desarrollo.
+Un **Centro Comercial** es un nodo minorista de gran formato anclado por uno o más Minoristas Nacionales que operan a escala institucional. En el contexto norteamericano, un Centro Comercial se caracteriza típicamente por edificios de gran planta y un solo piso con estacionamiento en superficie, anclado por al menos un minorista de buena reputación que opera una tienda de más de 5.574 metros cuadrados (60.000 pies cuadrados). En contextos europeos y latinoamericanos, el formato equivalente varía por jurisdicción. En todas las jurisdicciones, el criterio relevante es si un ancla de Minorista Nacional está operando a escala institucional en o adyacente al Sitio de Desarrollo.
 
 ## Diseño Campus
 
