@@ -11,9 +11,10 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-11
+last_edited: 2026-08-24
 editor: woodfine-editorial
 paired_with: industry/north-american-office-market-recovery.es.md
+cites: []
 ---
 
 The North American commercial office market entered a structural correction beginning in 2022
@@ -28,12 +29,12 @@ submarket, asset quality, and remaining lease term profile.
 
 The magnitude of the repricing has been substantial. Major transactions completed during
 2023 and into 2024 demonstrated discount rates of 40–45% relative to prior-cycle peak
-values. Jones Lang LaSalle estimated that property owners with loans maturing through the
-end of 2025 would require between $270 billion and $570 billion in new equity to address
-the gap between maturing debt and asset values that had declined materially from origination.
-Of the approximately $3.1 trillion in global commercial real estate with maturing debt
-through 2025, more than three-quarters was concentrated in the United States,
-disproportionately in the residential and office sectors.
+values. Of the approximately $3.1 trillion in global commercial real estate debt maturing
+through 2025, more than three-quarters was concentrated in the United States (JLL, MSCI).
+Many of these loans were underwritten at a materially higher loan-to-value ratio than
+current asset prices support, so refinancing at today's valuations leaves an equity gap
+that owners must close with new capital, a restructured balance, a joint-venture partner,
+or a sale.
 
 ## Dry powder accumulation
 
@@ -51,13 +52,13 @@ repositioning the asset for multi-tenant use or residential conversion.
 
 ## Transaction signals
 
-Early indicators of market recovery included rising bid-per-deal ratios, measured at
-a 16% increase by November 2023 relative to year-end 2022 (JLL data), and growing
-tour volumes for marketed properties. Green Street's commercial property price index
-registered flat price movement in December 2023 — the first stabilisation signal after
-sustained monthly declines. The pricing relationship between commercial real estate yields
-and corporate bond yields was assessed by Green Street as having returned to fair value by
-January 2024.
+Early indicators of market recovery included a rising Bid Intensity Index — JLL's
+measure of bids per deal, which increased approximately 16% by late 2023 relative to
+year-end 2022 — and growing tour volumes for marketed properties. Green Street's
+commercial property price index registered flat price movement in December 2023 — the
+first stabilisation signal after sustained monthly declines. The pricing relationship
+between commercial real estate yields and corporate bond yields was assessed by Green
+Street as having returned to roughly fair value in early 2024.
 
 ## Floor plate and configuration trends
 
@@ -65,10 +66,10 @@ The correction has also accelerated a structural shift in the configuration dema
 office space. Research from Canadian markets documents a sustained increase in demand for
 smaller tenant suites — spaces under 5,000 square feet — in contrast to the large
 contiguous blocks that dominated pre-2015 leasing activity. Calgary's downtown office
-market, which experienced vacancy rising to approximately 25% following the 2014 oil price
-decline, documented this trend directly: demand from smaller tenants was growing noticeably
-while large block space (100,000 square feet or more available as one contiguous unit)
-accounted for 26% of available inventory with limited uptake.
+market documented this trend directly. Vacancy there climbed from roughly 10% in 2014 to
+a peak above 27% several years after the oil price decline. Demand from smaller tenants
+was growing noticeably while large block space (100,000 square feet or more available as
+one contiguous unit) accounted for 26% of available inventory with limited uptake.
 
 Buildings designed around 15,000-to-17,000-square-foot floor plates — smaller than the
 20,000-to-26,000-square-foot plates that characterised construction from 2000 to 2015 —

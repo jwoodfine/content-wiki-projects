@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-07-31
+last_edited: 2026-08-24
 editor: woodfine-editorial
 paired_with: industry/north-american-office-market-recovery.md
 ---
@@ -24,10 +24,13 @@ propiedades e incrementó considerablemente el costo de la deuda.
 
 La magnitud del reajuste de precios ha sido sustancial. Las principales transacciones
 completadas en 2023 y principios de 2024 demostraron tasas de descuento del 40–45%
-respecto a los valores máximos del ciclo anterior. Jones Lang LaSalle estimó que los
-propietarios con préstamos que vencían antes de finales de 2025 necesitarían entre $270
-mil millones y $570 mil millones en nuevo capital para cubrir la brecha entre la deuda
-vencida y los valores de activos que habían disminuido materialmente desde la originación.
+respecto a los valores máximos del ciclo anterior. De los aproximadamente $3.1 billones
+de dólares en deuda de bienes raíces comerciales a nivel global que vencía hasta 2025,
+más de tres cuartas partes se concentraba en los Estados Unidos (JLL, MSCI). Muchos de
+estos préstamos se suscribieron con una relación préstamo-valor considerablemente más
+alta que la que soportan los precios actuales de los activos, de modo que refinanciar a
+las valuaciones de hoy deja una brecha de capital que los propietarios deben cubrir con
+capital nuevo, un balance reestructurado, un socio de empresa conjunta o una venta.
 
 ## Acumulación de capital seco
 
@@ -36,11 +39,23 @@ bienes raíces comerciales a fines de 2023. La presencia de capital seco sustanc
 a vendedores motivados creó condiciones para adquisiciones oportunistas por compradores
 bien capitalizados.
 
+Las primeras etapas de la recuperación del mercado se caracterizaron por ventajas para el
+capital que podía suscribir con rapidez y cerrar sin condiciones de financiamiento.
+Propiedades previamente asociadas con un único inquilino de gran superficie han atraído
+el interés de compradores que reposicionan el activo para uso multiarrendatario o
+conversión residencial.
+
 ## Señales de transacción
 
-Los indicadores tempranos de recuperación del mercado incluyeron un aumento del 16% en
-las ofertas por operación para noviembre de 2023 (datos de JLL), y el índice de precios
-de propiedades comerciales de Green Street registró movimiento plano en diciembre de 2023.
+Los indicadores tempranos de recuperación del mercado incluyeron un aumento de
+aproximadamente el 16% en el Índice de Intensidad de Ofertas de JLL — su medida de
+ofertas por operación — hacia fines de 2023 respecto al cierre de 2022, junto con un
+crecimiento en el volumen de recorridos de propiedades en el mercado. El índice de
+precios de propiedades comerciales de Green Street registró movimiento plano en
+diciembre de 2023 — la primera señal de estabilización tras meses de descensos
+sostenidos. La relación de precios entre los rendimientos de bienes raíces comerciales y
+los rendimientos de bonos corporativos fue evaluada por Green Street como cercana al
+valor razonable a comienzos de 2024.
 
 ## Tendencias en plantas de piso y configuración
 
@@ -48,10 +63,11 @@ La corrección también ha acelerado un cambio estructural en la demanda de conf
 de espacios de oficina. La investigación de mercados canadienses documenta un aumento
 sostenido en la demanda de suites de inquilinos más pequeñas — espacios de menos de
 5,000 pies cuadrados — en contraste con los grandes bloques contiguos que dominaron la
-actividad de arrendamiento previa a 2015. El mercado de oficinas del centro de Calgary,
-donde la vacancia se elevó a aproximadamente 25% tras la caída del precio del petróleo en
-2014, documentó esta tendencia directamente: la demanda de inquilinos más pequeños crecía
-de manera notable, mientras que el espacio en grandes bloques (100,000 pies cuadrados o más
+actividad de arrendamiento previa a 2015. El mercado de oficinas del centro de Calgary
+documentó esta tendencia directamente. La vacancia allí subió de aproximadamente 10% en
+2014 a un máximo superior al 27% varios años después de la caída del precio del petróleo.
+La demanda de inquilinos más pequeños crecía de manera notable, mientras que el espacio en
+grandes bloques (100,000 pies cuadrados o más
 disponibles como una sola unidad contigua) representaba el 26% del inventario disponible,
 con una absorción limitada.
 
