@@ -25,11 +25,11 @@ Tech Industrial buildings provide a 25% retail storefront component and 75% shop
 
 ## Tenant fit
 
-The Tech Industrial format accommodates last-mile logistics operators and workshop users who require direct vehicle access at grade combined with a retail presence — occupiers whose operations sit between conventional retail use and heavier industrial use. Tech Industrial tenants serve the last-mile logistics, light manufacturing, and service-business demand that a regional commercial cluster generates: as a Power Centre attracts retail and professional activity, the supporting supply chain, maintenance, and service infrastructure grows proportionally, and Tech Industrial spaces on or adjacent to the site accommodate the operators who serve that demand.
+The Tech Industrial format accommodates last-mile logistics operators and workshop users who require direct vehicle access at grade combined with a retail presence — occupiers whose operations sit between conventional retail use and heavier industrial use. Tech Industrial tenants serve the last-mile logistics, light manufacturing, and service-business demand that a regional commercial cluster generates. As a Power Centre attracts retail and professional activity, the supporting supply chain, maintenance, and service infrastructure grows proportionally; Tech Industrial spaces on or adjacent to the site accommodate the operators who serve that demand.
 
 ## Siting within the co-location footprint
 
-Like Retail Select, Tech Industrial functions as a backfill format: it is not deployed as a standalone product, but maximizes site coverage on a Development Site where the primary office building types do not consume the full developable area or where zoning height restrictions apply, in relationship to a qualifying [[power-centres|power centre]] anchor under the [[co-location-methodology|co-location methodology]].
+Like Retail Select, Tech Industrial functions as a backfill format: it is not deployed as a standalone product. It maximizes site coverage on a Development Site where the primary office building types do not consume the full developable area or where zoning height restrictions apply, in relationship to a qualifying [[power-centres|power centre]] anchor under the [[co-location-methodology|co-location methodology]].
 
 ## See also
 

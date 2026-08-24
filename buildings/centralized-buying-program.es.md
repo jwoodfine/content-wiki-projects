@@ -31,7 +31,7 @@ Esta estructura es una fuente de desalineación en los programas de construcció
 
 Woodfine resuelve esto operando como el comprador directo de los proveedores para todos los Woodfine Buildings bajo construcción simultáneamente. Las adquisiciones de materiales se agregan a través del portafolio de construcción activo, y la compra se realiza en la cuenta de Woodfine directamente con el proveedor. El beneficio de precio — descuentos por volumen, programas de reembolso y calendarios de precios de Cuenta Nacional — es recibido por Woodfine y fluye directamente a las Direct-Hold Solutions propietarias de los edificios en construcción.
 
-El Programa Centralizado de Compras es posible gracias al Prototipo: debido a que cada Woodfine Building utiliza la misma geometría de Planta Fija, las mismas especificaciones mecánicas, eléctricas y estructurales, y los mismos estándares de acabado en las cuatro jurisdicciones, los requisitos de materiales para cualquier nuevo edificio son predecibles antes de que comience el proyecto. Un proveedor puede cotizar un acuerdo de Cuenta Nacional basado en un volumen recurrente definido por el Prototipo, no negociado proyecto por proyecto.
+El Programa Centralizado de Compras es posible gracias al Prototipo. Cada Woodfine Building utiliza la misma geometría de Planta Fija, las mismas especificaciones mecánicas, eléctricas y estructurales, y los mismos estándares de acabado en las cuatro jurisdicciones, por lo que los requisitos de materiales para cualquier nuevo edificio son predecibles antes de que comience el proyecto. Un proveedor puede cotizar un acuerdo de Cuenta Nacional basado en un volumen recurrente definido por el Prototipo, no negociado proyecto por proyecto.
 
 ## Disciplina del Prototipo y derivación del sitio
 

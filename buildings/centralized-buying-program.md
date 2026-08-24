@@ -31,7 +31,7 @@ This structure is a source of misalignment in high-volume construction programs:
 
 Woodfine resolves this by operating as the direct purchaser from suppliers for all Woodfine Buildings under construction simultaneously. Materials procurement is aggregated across the active construction portfolio, and the purchase is made at Woodfine's account directly with the supplier. The pricing benefit — volume discounts, rebate programs, and National Account pricing schedules — is received by Woodfine and flows directly to the Direct-Hold Solutions that own the buildings under construction.
 
-The Centralized Buying Program is made possible by the Prototype: because every Woodfine Building uses the same Fixed Floor Plate geometry, the same mechanical, electrical, and structural specifications, and the same finish standards across all four jurisdictions, the materials requirements for any new building are predictable before the project begins. A supplier can price a National Account arrangement based on recurring volume that is defined by the Prototype, not negotiated project-by-project.
+The Centralized Buying Program is made possible by the Prototype. Every Woodfine Building uses the same Fixed Floor Plate geometry, the same mechanical, electrical, and structural specifications, and the same finish standards across all four jurisdictions, so the materials requirements for any new building are predictable before the project begins. A supplier can price a National Account arrangement based on recurring volume that is defined by the Prototype, not negotiated project-by-project.
 
 ## Prototype discipline and site bypass
 

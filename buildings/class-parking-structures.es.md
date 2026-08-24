@@ -29,7 +29,7 @@ Las Estructuras de Estacionamiento están previstas para su despliegue en centro
 
 ## Por qué no aplica la adyacencia de co-localización
 
-El factor determinante de la ocupación para una Estructura de Estacionamiento es la infraestructura de movilidad regional, no la proximidad a un ancla minorista. Debido a esto, la [[co-location-methodology|metodología de adyacencia de co-localización]] que puntúa los sitios para las otras cinco clases no aplica a las Estructuras de Estacionamiento. La selección de sitios para esta clase se rige, en cambio, por el análisis de capacidad del centro de tránsito y la conectividad multimodal — una evaluación de cuánta demanda de estacionamiento genera un determinado centro de tránsito o zona de captación aeroportuaria y qué tan bien se conecta un sitio candidato con los puntos de acceso del centro, en lugar de una puntuación de clúster de centro de potencia.
+El factor determinante de la ocupación para una Estructura de Estacionamiento es la infraestructura de movilidad regional, no la proximidad a un ancla minorista. Debido a esto, la [[co-location-methodology|metodología de adyacencia de co-localización]] que puntúa los sitios para las otras cinco clases no aplica a las Estructuras de Estacionamiento. La selección de sitios para esta clase se rige, en cambio, por el análisis de capacidad del centro de tránsito y la conectividad multimodal, no por una puntuación de clúster de centro de potencia. El análisis evalúa cuánta demanda de estacionamiento genera un determinado centro de tránsito o zona de captación aeroportuaria y qué tan bien se conecta un sitio candidato con los puntos de acceso del centro.
 
 ## Estado: expansión de cartera planificada
 

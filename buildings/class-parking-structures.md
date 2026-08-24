@@ -29,7 +29,7 @@ Parking Structures are intended for deployment at regional transit hubs and airp
 
 ## Why co-location adjacency does not apply
 
-The occupancy driver for a Parking Structure is regional mobility infrastructure, not proximity to a retail anchor. Because of this, the [[co-location-methodology|co-location adjacency methodology]] that scores sites for the other five classes does not apply to Parking Structures. Site selection for this class is instead governed by transit hub capacity and modal connectivity analysis — an assessment of how much parking demand a given transit hub or airport catchment generates and how well a candidate site connects to the hub's access points, rather than a power centre cluster score.
+The occupancy driver for a Parking Structure is regional mobility infrastructure, not proximity to a retail anchor. Because of this, the [[co-location-methodology|co-location adjacency methodology]] that scores sites for the other five classes does not apply to Parking Structures. Site selection for this class is instead governed by transit hub capacity and modal connectivity analysis, not a power centre cluster score. The analysis assesses how much parking demand a given transit hub or airport catchment generates and how well a candidate site connects to the hub's access points.
 
 ## Status: planned portfolio expansion
 

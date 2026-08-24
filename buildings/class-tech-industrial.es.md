@@ -25,11 +25,11 @@ Los edificios Tech Industrial proporcionan un componente de 25% de local comerci
 
 ## Ajuste de arrendatarios
 
-El formato Tech Industrial acomoda a operadores de logística de última milla y usuarios de taller que requieren acceso directo de vehículos a nivel combinado con presencia comercial — ocupantes cuyas operaciones se sitúan entre el uso comercial convencional y un uso industrial más pesado. Los inquilinos de Tech Industrial atienden la demanda de logística de última milla, manufactura ligera y servicios que genera un clúster comercial regional: a medida que un Centro Comercial atrae actividad minorista y profesional, la infraestructura de cadena de suministro, mantenimiento y servicios que la respalda crece proporcionalmente, y los espacios Tech Industrial en el sitio o adyacentes a él acomodan a los operadores que atienden esa demanda.
+El formato Tech Industrial acomoda a operadores de logística de última milla y usuarios de taller que requieren acceso directo de vehículos a nivel combinado con presencia comercial — ocupantes cuyas operaciones se sitúan entre el uso comercial convencional y un uso industrial más pesado. Los inquilinos de Tech Industrial atienden la demanda de logística de última milla, manufactura ligera y servicios que genera un clúster comercial regional. A medida que un Centro Comercial atrae actividad minorista y profesional, la infraestructura de cadena de suministro, mantenimiento y servicios que la respalda crece proporcionalmente; los espacios Tech Industrial en el sitio o adyacentes a él acomodan a los operadores que atienden esa demanda.
 
 ## Emplazamiento dentro de la huella de co-localización
 
-Como Retail Select, Tech Industrial funciona como un formato de relleno: no se despliega como un producto independiente, sino que maximiza la cobertura del sitio en un Sitio de Desarrollo donde los tipos de edificio de oficina principales no consumen toda el área desarrollable o donde aplican restricciones de altura de zonificación, en relación con un ancla de [[power-centres|centro de potencia]] calificada bajo la [[co-location-methodology|metodología de co-localización]].
+Como Retail Select, Tech Industrial funciona como un formato de relleno: no se despliega como un producto independiente. Maximiza la cobertura del sitio en un Sitio de Desarrollo donde los tipos de edificio de oficina principales no consumen toda el área desarrollable o donde aplican restricciones de altura de zonificación, en relación con un ancla de [[power-centres|centro de potencia]] calificada bajo la [[co-location-methodology|metodología de co-localización]].
 
 ## Véase también
 

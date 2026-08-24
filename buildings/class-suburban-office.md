@@ -23,7 +23,7 @@ Suburban Office extends the [[class-professional-centres|Professional Centres]] 
 
 Suburban Office buildings span six to nine floors, serving a broader range of office users than Professional Centres, including academic, business, civic, and laboratory occupants who require larger floor plates or greater vertical presence than the Professional Centres configuration provides. The building type, floor plate configuration, and tenant fit-out standard follow the same fixed [[fixed-floor-plates|floor plate]] discipline that governs Professional Centres. Suburban Office is not a lower-standard product — it is the same institutional standard applied at a different siting radius, positioned to reach sites the primary radius cannot.
 
-Suburban Office shares a defining structural characteristic with [[class-professional-centres|Professional Centres]]: the Offset Pulled Back Core, which moves the elevator and service core away from the building's geometric centre, freeing the floor plate perimeter for contiguous tenant occupancy and allowing a single floor to be configured as a single large tenancy, multiple smaller tenancies, or any combination, without altering the structural envelope.
+Suburban Office shares a defining structural characteristic with [[class-professional-centres|Professional Centres]]: the Offset Pulled Back Core, which moves the elevator and service core away from the building's geometric centre, freeing the floor plate perimeter for contiguous tenant occupancy. A single floor can be configured as a single large tenancy, multiple smaller tenancies, or any combination, without altering the structural envelope.
 
 ## Siting logic: the 2.0-kilometre radius
 
@@ -31,7 +31,7 @@ Professional Centres are positioned within 1.0 kilometre of a power centre ancho
 
 ## Why the class exists: a site-geometry fallback, not a lesser product
 
-Suburban Office exists because site availability, not tenant demand, is frequently the binding constraint on Professional Centres deployment. When co-location scoring under the [[co-location-methodology|co-location methodology]] confirms a qualifying power centre anchor but adjacent land at the 1.0-kilometre radius is unavailable, Suburban Office allows the same institutional-grade office product to proceed at the wider radius rather than the site being passed over or held indefinitely in the [[about-development-site-monitoring-register|monitoring register]] pending land availability. The class is a deliberate extension of the addressable footprint for the office deployment classes, not a downgrade in building quality, tenant standard, or lease structure.
+Suburban Office exists because site availability, not tenant demand, is frequently the binding constraint on Professional Centres deployment. When co-location scoring under the [[co-location-methodology|co-location methodology]] confirms a qualifying power centre anchor but adjacent land at the 1.0-kilometre radius is unavailable, Suburban Office allows the same institutional-grade office product to proceed at the wider radius. The site is neither passed over nor held indefinitely in the [[about-development-site-monitoring-register|monitoring register]] pending land availability. The class is a deliberate extension of the addressable footprint for the office deployment classes, not a downgrade in building quality, tenant standard, or lease structure.
 
 ## Tenant fit
 
