@@ -7,7 +7,10 @@ type: topic
 content_type: topic
 quality: complete
 short_description: "Cómo se organizan los mercados privados de bienes raíces comerciales: mecánica de transacciones, descubrimiento de precios, flujos de capital institucional y las características estructurales que diferencian los mercados privados de propiedades de los instrumentos de capital público."
-status: active
+status: archived
+archived: 2026-08-24
+archived_reason: "Decisión del operador del 2026-08-24: la wiki de proyectos trata sobre las Clases de Desarrollo, Edificios, Mercados Regionales, arquitectura/diseño de edificios, el Programa de Expansión y el Programa de Compras de Woodfine — procedimiento y hechos, no comentario u opinión general sobre economía de mercado. Este artículo es en su totalidad contenido general sobre la estructura del mercado de bienes raíces comerciales (mecánica de transacciones privado-vs-REIT, descubrimiento de precios, rezago de tasación, fuentes de datos de firmas de investigación) sin contenido específico de procedimiento o hechos de Woodfine — fuera del alcance de esta wiki."
+superseded_by: none
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
