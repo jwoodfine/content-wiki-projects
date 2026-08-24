@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-07-31
+last_edited: 2026-08-24
 editor: woodfine-editorial
 paired_with: industry/interest-rate-transmission.md
 ---
@@ -48,7 +48,9 @@ capitalización se expanden.
 El efecto cuantitativo es directo: para un activo que genera un ION estabilizado de
 $1,000,000, una expansión de 100 puntos básicos en la tasa de capitalización de mercado
 del 5.0% al 6.0% reduce el valor implícito de $20,000,000 a $16,667,000, una pérdida de
-aproximadamente el 17%.
+aproximadamente el 17%. Una expansión de 50 puntos básicos produce una reducción de valor
+de aproximadamente el 9.1% — de $20,000,000 a una tasa del 5.0% a $18,182,000 al 5.5%, el
+mismo ejemplo utilizado en [[net-operating-income]].
 
 ## Canal 2 — Cobertura del servicio de deuda
 

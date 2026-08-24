@@ -6,12 +6,12 @@ category: industry
 type: topic
 content_type: topic
 quality: complete
-short_description: "El ciclo de cuatro fases de oferta y demanda que rige los mercados de propiedades comerciales: recuperación, expansión, sobreoferta e recesión, y las características estructurales que distinguen los ciclos inmobiliarios de otras clases de activos."
+short_description: "El ciclo de cuatro fases de oferta y demanda que rige los mercados de propiedades comerciales: recuperación, expansión, sobreoferta y recesión, y las características estructurales que distinguen los ciclos inmobiliarios de otras clases de activos."
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-07-31
+last_edited: 2026-08-24
 editor: woodfine-editorial
 paired_with: industry/commercial-real-estate-cycles.md
 ---

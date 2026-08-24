@@ -10,7 +10,7 @@ short_description: "Structural shortfall in construction and take-out financing 
 status: stable
 audience: customer-woodfine
 bcsc_class: current-fact
-last_edited: 2026-07-11
+last_edited: 2026-08-24
 editor: pointsav-engineering
 language_protocol: PROSE-TOPIC
 source_refs:
@@ -25,7 +25,7 @@ A **Regional Market** is a commercial real estate geography that sits outside th
 
 Regional Markets are not economically secondary. Disposable income levels in established Regional Markets are frequently on par with Metro Markets. National Retailers — the anchor tenants whose committed occupancy makes development financeable — are present across these geographies and operate according to their established Rollout Programs. The structural constraint is not demand: it is capital availability.
 
-National Retailers such as Walmart, Costco, and Home Depot operate with industrial efficiency. They deploy a standard Prototype across locations according to predetermined construction schedules and franchisee commitments. The presence of a National Retailer at a development site in a Regional Market confirms that the geography meets the retailer's threshold for consumer demand and operational viability. The retailer's commitment also provides the anchor-tenant covenant that institutional lenders in Metro Markets would consider a prerequisite for financing.
+National Retailers such as Walmart, Costco, and Home Depot operate with industrial efficiency. They deploy a standard Prototype across locations according to predetermined, corporately-managed construction and rollout schedules. The presence of a National Retailer at a development site in a Regional Market confirms that the geography meets the retailer's threshold for consumer demand and operational viability. The retailer's commitment also provides the anchor-tenant covenant that institutional lenders in Metro Markets would consider a prerequisite for financing.
 
 ### Financing shortfall despite anchor covenants
 

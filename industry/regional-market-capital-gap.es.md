@@ -10,7 +10,7 @@ short_description: "Déficit estructural de financiamiento de construcción y sa
 status: stable
 audience: customer-woodfine
 bcsc_class: current-fact
-last_edited: 2026-07-01
+last_edited: 2026-08-24
 editor: pointsav-engineering
 language_protocol: TRANSLATE-ES
 source_refs:
@@ -25,7 +25,7 @@ Un **Mercado Regional** es una geografía de bienes raíces comerciales situada 
 
 Los Mercados Regionales no son secundarios en términos económicos. Los niveles de ingreso disponible en Mercados Regionales consolidados son frecuentemente comparables a los Mercados Metropolitanos. Los Minoristas Nacionales — los arrendatarios ancla cuyo compromiso de ocupación hace financiable el desarrollo — están presentes en estas geografías y operan según sus Programas de Expansión establecidos. La restricción estructural no es la demanda: es la disponibilidad de capital.
 
-Minoristas Nacionales como Walmart, Costco y Home Depot operan con eficiencia industrial. Despliegan un Prototipo estándar en distintas ubicaciones según calendarios de construcción y compromisos de franquiciados predeterminados. La presencia de un Minorista Nacional en un sitio de desarrollo en un Mercado Regional confirma que la geografía cumple el umbral del minorista para demanda de consumidores y viabilidad operativa. El compromiso del minorista también proporciona el compromiso de arrendatario ancla que los prestamistas institucionales en Mercados Metropolitanos considerarían un requisito previo para el financiamiento.
+Minoristas Nacionales como Walmart, Costco y Home Depot operan con eficiencia industrial. Despliegan un Prototipo estándar en distintas ubicaciones según calendarios de construcción y expansión predeterminados y gestionados corporativamente. La presencia de un Minorista Nacional en un sitio de desarrollo en un Mercado Regional confirma que la geografía cumple el umbral del minorista para demanda de consumidores y viabilidad operativa. El compromiso del minorista también proporciona el compromiso de arrendatario ancla que los prestamistas institucionales en Mercados Metropolitanos considerarían un requisito previo para el financiamiento.
 
 ### Déficit de financiamiento pese a los compromisos ancla
 
