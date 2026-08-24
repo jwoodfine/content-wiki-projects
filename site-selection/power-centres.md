@@ -34,9 +34,9 @@ The national retailers that anchor power centres relevant to Woodfine co-locatio
 
 ## Geographic distribution and market targeting
 
-Power centres are concentrated in [[about-regional-markets-system|regional markets]] — cities and metropolitan areas with populations between 50,000 and 300,000 — where land availability and drive-based catchment economics favour the large-format model. In major metro areas, power centres compete with infill retail formats; in regional markets, the power centre is typically the dominant commercial hub.
+Power centres are concentrated in [[about-regional-markets-system|regional markets]] — small and mid-sized metropolitan areas — where land availability and drive-based catchment economics favour the large-format model. In major metro areas, power centres compete with infill retail formats; in regional markets, the power centre is typically the dominant commercial hub.
 
-The Site Selection Pipeline assesses power centre composition, anchor retailer age and operational status, and proximity to available development parcels to score potential co-location sites within the [[co-location-ranking-system|ranking system]].
+The site-selection evaluation process assesses power centre composition, anchor retailer age and operational status, and proximity to available development parcels to score potential co-location sites within the [[co-location-ranking-system|ranking system]].
 
 ## Relationship to the 1-kilometre criterion
 

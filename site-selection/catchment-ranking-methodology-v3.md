@@ -31,16 +31,16 @@ Binary gates make the qualification criteria explicit and independently verifiab
 
 ## Population Catchment Ranks
 
-Catchment population is computed using a crow-flies H3 grid at resolution 7 (cell width approximately 2.1 km), per the [[od-catchment-methodology|O-D catchment methodology]]. Two zones are defined for each cluster:
+Catchment population is computed using a fixed-resolution geographic grid over crow-flies distance, per the [[od-catchment-methodology|O-D catchment methodology]]. Two zones are defined for each cluster:
 
-- **Primary zone**: all H3 cells within 35 km of the cluster anchor
-- **Secondary zone**: all H3 cells between 35 km and 150 km of the cluster anchor
+- **Primary zone**: all grid cells within 35 km of the cluster anchor
+- **Secondary zone**: all grid cells between 35 km and 150 km of the cluster anchor
 
-Population totals draw from WorldPop 2026 100 m rasters aggregated to H3 resolution 7 (see [[trade-area-data-sources|trade-area data sources]]). Clusters are ranked within their ISO country on each of eight axes: primary population, secondary population, primary grocery spend, secondary grocery spend, primary hardware spend, secondary hardware spend, primary wholesale spend, and secondary wholesale spend.
+Population totals draw from WorldPop 2026 gridded population data, aggregated to the same grid used for catchment analysis (see [[trade-area-data-sources|trade-area data sources]]). Clusters are ranked within their ISO country on each of eight axes: primary population, secondary population, primary grocery spend, secondary grocery spend, primary hardware spend, secondary hardware spend, primary wholesale spend, and secondary wholesale spend.
 
-The rank is expressed as a fraction: rank 1 in a country of 500 clusters yields 0.002; rank 50 yields 0.100. Lower values indicate higher relative reach within the country. A cluster with a primary-population rank of 0.10 is in the top 10% of its country by primary trade-area population.
+The rank is expressed as a percentile fraction within the cluster's country: a lower value indicates a higher relative reach. This puts countries with very different total cluster counts on a common scale.
 
-Spend estimates are derived from per-capita household spending surveys (BLS for the United States, StatCan for Canada, Eurostat HBS for European Union member states, INEGI for Mexico) applied to WorldPop grid cells, stratified by grocery, hardware, and wholesale category shares.
+Spend estimates are derived from per-capita household spending surveys (BLS for the United States, StatCan for Canada, Eurostat HBS for European Union member states, INEGI for Mexico) applied to the population grid, stratified by grocery, hardware, and wholesale category shares.
 
 ## Tier Gate Definitions
 
@@ -49,28 +49,28 @@ Spend estimates are derived from per-capita household spending surveys (BLS for 
 A cluster qualifies as Regional if all five of the following conditions are true:
 
 1. **Composition**: The cluster contains a Warehouse anchor (Costco, Sam's Club, Makro, or equivalent) and a Hypermarket anchor (Walmart, Target, Mercadona, Tesco, Sainsbury's, or equivalent); or it contains a Lifestyle anchor (IKEA) and a Hypermarket anchor.
-2. **Primary catchment**: The cluster's primary-population rank within its country is in the top 10% (rank value ≤ 0.10).
-3. **Secondary catchment**: The cluster's secondary-population rank within its country is in the top 20% (rank value ≤ 0.20).
-4. **Civic — regional hospital**: At least one hospital classified as "regional" by the OSM-derived civic classification is present within the 5 km civic ring around the cluster anchor.
-5. **Spatial independence**: The Intersection over Union (IoU) between this cluster's 3 km disk and the 3 km disk of any cluster in the same country with a higher primary-population rank does not exceed 0.10.
+2. **Primary catchment**: The cluster's primary-population rank within its country must be among the highest in the country — this is the tightest primary-catchment bar of any tier.
+3. **Secondary catchment**: The cluster's secondary-population rank within its country must also be well above the country median, though the bar here is looser than the primary-catchment gate.
+4. **Civic — regional hospital**: At least one hospital classified as "regional" by the OSM-derived civic classification is present within a defined civic-proximity ring around the cluster anchor.
+5. **Spatial independence**: The overlap between this cluster's trade-area disk and the equivalent disk of any cluster in the same country with a higher primary-population rank must stay low — Regional carries the strictest independence bar of any tier.
 
 ### Tier 2 — District
 
 A cluster qualifies as District if all five of the following conditions are true:
 
 1. **Composition**: The cluster contains a Hypermarket anchor and a Hardware anchor (Home Depot, Lowe's, Leroy Merlin, or equivalent) or a Warehouse anchor.
-2. **Primary catchment**: The cluster's primary-population rank within its country is in the top 25% (rank value ≤ 0.25).
-3. **Spend reach**: The cluster's rank within its country on at least one of grocery spend, hardware spend, or wholesale spend is in the top 25% (rank value ≤ 0.25).
-4. **Civic — hospital present**: At least one hospital classified as "regional" or "district" is present within the 5 km civic ring.
-5. **Spatial independence**: The IoU between this cluster's 3 km disk and the 3 km disk of any Regional cluster in the same country does not exceed 0.25.
+2. **Primary catchment**: The cluster's primary-population rank within its country must clear a materially lower bar than Regional, but still well above the country median.
+3. **Spend reach**: The cluster's rank within its country on at least one of grocery spend, hardware spend, or wholesale spend must also clear that same bar.
+4. **Civic — hospital present**: At least one hospital classified as "regional" or "district" is present within the civic-proximity ring.
+5. **Spatial independence**: The overlap between this cluster's trade-area disk and the equivalent disk of any Regional cluster in the same country is allowed to run somewhat higher than the Regional-tier limit, but is still bounded.
 
 ### Tier 3 — Local
 
 A cluster qualifies as Local if all three of the following conditions are true:
 
 1. **Composition**: The cluster contains a Hardware or Warehouse anchor.
-2. **Primary catchment**: The cluster's primary-population rank within its country is in the top 50% (rank value ≤ 0.50).
-3. **Civic — any hospital**: At least one hospital of any classification is present within the 5 km civic ring.
+2. **Primary catchment**: The cluster's primary-population rank within its country must be at or above the country median.
+3. **Civic — any hospital**: At least one hospital of any classification is present within the civic-proximity ring.
 
 ### Tier 4 — Fringe
 
@@ -78,14 +78,7 @@ A cluster that does not qualify for Regional, District, or Local is classified a
 
 ## Overlap Measurement
 
-The spatial independence gate uses the closed-form intersection-over-union formula for two equal-radius circles:
-
-```
-lens_area = 2r² · arccos(d/2r) − (d/2) · √(4r² − d²)
-IoU = lens_area / (2·π·r² − lens_area)
-```
-
-where d is the haversine distance between cluster centroids and r = 3.0 km (the secondary co-location radius). Two clusters whose centroids are further than 6 km apart have IoU = 0 by definition.
+The spatial independence gate measures overlap between two clusters' trade-area disks, each drawn at a fixed radius held constant across tiers, using a standard geometric intersection-over-union (IoU) calculation — the area shared by both disks, relative to their combined area. Two clusters whose centroids are far enough apart that their disks no longer overlap are treated as fully independent (IoU = 0); as the disks increasingly overlap, IoU rises, and the weaker cluster's tier is capped accordingly.
 
 ## Civic Classification
 
@@ -93,18 +86,9 @@ Hospital and university tier assignments are produced from OpenStreetMap data. H
 
 ## Threshold Summary
 
-| Threshold | Symbol | Value |
-|---|---|---|
-| T1 primary catchment | P10 | top 10% within country |
-| T1 secondary catchment | P20 | top 20% within country |
-| T2 primary catchment / spend | P25 | top 25% within country |
-| T3 primary catchment | P50 | top 50% within country |
-| T1 IoU limit | — | ≤ 0.10 |
-| T2 IoU limit | — | ≤ 0.25 |
-| Civic ring radius | — | 5 km |
-| IoU disk radius | — | 3 km |
+The catchment and spend bars tighten moving from Local up through Regional, and the spatial-independence allowance tightens correspondingly — Regional clusters face both the highest catchment bar and the strictest overlap limit, while Local clusters face the lowest catchment bar and no explicit overlap gate. The civic-ring radius and the spatial-independence disk radius are each held constant across tiers.
 
-Thresholds are intentionally coarse. The P10/P25/P50 values distinguish nationally significant clusters from local nodes. Refinement is planned for a future update as additional catchment data becomes available.
+Thresholds are intentionally coarse — designed to distinguish nationally significant clusters from local nodes, not to finely rank within a tier. Refinement is planned for a future update as additional catchment data becomes available.
 
 ## References
 

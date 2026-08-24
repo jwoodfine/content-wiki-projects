@@ -51,7 +51,7 @@ All distances are calculated as the crow-flies (great-circle) distance using the
 - Computationally efficient over millions of H3 cells
 - Suitable as a baseline before empirical O-D data is available
 
-H3 ring traversal identifies candidate cells efficiently (17 rings ≈ 35 km; 72 rings ≈ 150 km at resolution 7), with haversine as the definitive distance measure.
+H3 ring traversal identifies candidate cells efficiently, with haversine as the definitive distance measure for final inclusion.
 
 ## HOME and AWAY Perspectives
 

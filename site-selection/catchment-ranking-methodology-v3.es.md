@@ -31,14 +31,14 @@ Las compuertas binarias hacen que los criterios de calificación sean explícito
 
 ## Rangos de captación de población
 
-La captación de población se calcula mediante una cuadrícula H3 en línea recta a resolución 7 (ancho de celda aproximado de 2,1 km), según la [[od-catchment-methodology|metodología de captación O-D]]. Se definen dos zonas para cada clúster:
+La captación de población se calcula mediante una cuadrícula geográfica de resolución fija sobre distancia en línea recta, según la [[od-catchment-methodology|metodología de captación O-D]]. Se definen dos zonas para cada clúster:
 
-- **Zona primaria**: todas las celdas H3 dentro de 35 km del ancla del clúster
-- **Zona secundaria**: todas las celdas H3 entre 35 km y 150 km del ancla del clúster
+- **Zona primaria**: todas las celdas de la cuadrícula dentro de 35 km del ancla del clúster
+- **Zona secundaria**: todas las celdas de la cuadrícula entre 35 km y 150 km del ancla del clúster
 
-Los totales de población provienen de los rásteres WorldPop 2026 a 100 m, agregados a la resolución 7 de H3 (véase [[trade-area-data-sources|fuentes de datos de áreas comerciales]]). Los clústeres se clasifican dentro de su país ISO en ocho ejes: población primaria, población secundaria, gasto primario en víveres, gasto secundario en víveres, gasto primario en ferretería, gasto secundario en ferretería, gasto primario en mayoreo y gasto secundario en mayoreo.
+Los totales de población provienen de los datos de población en cuadrícula WorldPop 2026, agregados a la misma cuadrícula usada para el análisis de captación (véase [[trade-area-data-sources|fuentes de datos de áreas comerciales]]). Los clústeres se clasifican dentro de su país ISO en ocho ejes: población primaria, población secundaria, gasto primario en víveres, gasto secundario en víveres, gasto primario en ferretería, gasto secundario en ferretería, gasto primario en mayoreo y gasto secundario en mayoreo.
 
-El rango se expresa como fracción: el rango 1 en un país con 500 clústeres produce un valor de 0,002; el rango 50, de 0,100. Los valores más bajos indican mayor alcance relativo dentro del país.
+El rango se expresa como una fracción percentil dentro del país del clúster: un valor más bajo indica un mayor alcance relativo. Esto permite comparar países con recuentos totales de clústeres muy distintos en una escala común.
 
 ## Definición de las compuertas de nivel
 
@@ -47,28 +47,28 @@ El rango se expresa como fracción: el rango 1 en un país con 500 clústeres pr
 Un clúster califica como Regional si se cumplen las cinco condiciones siguientes:
 
 1. **Composición**: El clúster contiene un ancla de tipo Almacén (Costco, Sam's Club, Makro o equivalente) y un ancla de tipo Hipermercado (Walmart, Target, Mercadona, Tesco, Sainsbury's o equivalente); o contiene un ancla de tipo Estilo de Vida (IKEA) y un ancla de tipo Hipermercado.
-2. **Captación primaria**: El rango de población primaria del clúster dentro de su país está en el 10% superior (valor de rango ≤ 0,10).
-3. **Captación secundaria**: El rango de población secundaria del clúster dentro de su país está en el 20% superior (valor de rango ≤ 0,20).
-4. **Cívico — hospital regional**: Al menos un hospital clasificado como "regional" está presente dentro del anillo cívico de 5 km alrededor del ancla del clúster.
-5. **Independencia espacial**: La intersección sobre la unión (IoU) entre el disco de 3 km de este clúster y el disco de 3 km de cualquier clúster del mismo país con mayor rango de población primaria no supera 0,10.
+2. **Captación primaria**: El rango de población primaria del clúster dentro de su país debe estar entre los más altos del país — la barra de captación primaria más exigente de todos los niveles.
+3. **Captación secundaria**: El rango de población secundaria del clúster dentro de su país también debe estar muy por encima de la mediana del país, aunque esta barra es más laxa que la de captación primaria.
+4. **Cívico — hospital regional**: Al menos un hospital clasificado como "regional" está presente dentro de un anillo cívico de proximidad definido alrededor del ancla del clúster.
+5. **Independencia espacial**: La superposición entre el disco de área comercial de este clúster y el disco equivalente de cualquier clúster del mismo país con mayor rango de población primaria debe mantenerse baja — Regional exige la barra de independencia más estricta de todos los niveles.
 
 ### Nivel 2 — Distrital
 
 Un clúster califica como Distrital si se cumplen las cinco condiciones siguientes:
 
 1. **Composición**: El clúster contiene un ancla de tipo Hipermercado y un ancla de tipo Ferretería (Home Depot, Lowe's, Leroy Merlin o equivalente) o un ancla de tipo Almacén.
-2. **Captación primaria**: El rango de población primaria del clúster dentro de su país está en el 25% superior (valor de rango ≤ 0,25).
-3. **Alcance de gasto**: El rango del clúster dentro de su país en al menos uno de los ejes — gasto en víveres, ferretería o mayoreo — está en el 25% superior (valor de rango ≤ 0,25).
-4. **Cívico — hospital presente**: Al menos un hospital clasificado como "regional" o "distrital" está presente dentro del anillo cívico de 5 km.
-5. **Independencia espacial**: La IoU entre el disco de 3 km de este clúster y el disco de 3 km de cualquier clúster Regional del mismo país no supera 0,25.
+2. **Captación primaria**: El rango de población primaria del clúster dentro de su país debe superar una barra sustancialmente más baja que la de Regional, aunque sigue estando muy por encima de la mediana del país.
+3. **Alcance de gasto**: El rango del clúster dentro de su país en al menos uno de los ejes — gasto en víveres, ferretería o mayoreo — también debe superar esa misma barra.
+4. **Cívico — hospital presente**: Al menos un hospital clasificado como "regional" o "distrital" está presente dentro del anillo cívico de proximidad.
+5. **Independencia espacial**: Se permite que la superposición entre el disco de área comercial de este clúster y el disco equivalente de cualquier clúster Regional del mismo país sea algo mayor que el límite del nivel Regional, aunque sigue estando acotada.
 
 ### Nivel 3 — Local
 
 Un clúster califica como Local si se cumplen las tres condiciones siguientes:
 
 1. **Composición**: El clúster contiene un ancla de tipo Ferretería o Almacén.
-2. **Captación primaria**: El rango de población primaria del clúster dentro de su país está en el 50% superior (valor de rango ≤ 0,50).
-3. **Cívico — cualquier hospital**: Al menos un hospital de cualquier clasificación está presente dentro del anillo cívico de 5 km.
+2. **Captación primaria**: El rango de población primaria del clúster dentro de su país debe estar en la mediana del país o por encima de ella.
+3. **Cívico — cualquier hospital**: Al menos un hospital de cualquier clasificación está presente dentro del anillo cívico de proximidad.
 
 ### Nivel 4 — Marginal
 
@@ -76,27 +76,11 @@ Un clúster que no califica para los niveles Regional, Distrital o Local se clas
 
 ## Medición de la superposición
 
-La compuerta de independencia espacial utiliza la fórmula de forma cerrada de intersección sobre unión para dos círculos de radio igual:
-
-```
-área_lente = 2r² · arccos(d/2r) − (d/2) · √(4r² − d²)
-IoU = área_lente / (2·π·r² − área_lente)
-```
-
-donde d es la distancia haversine entre centroides de clúster y r = 3,0 km.
+La compuerta de independencia espacial mide la superposición entre los discos de área comercial de dos clústeres, cada uno trazado con un radio fijo constante en todos los niveles, mediante un cálculo geométrico estándar de intersección sobre unión (IoU) — el área compartida por ambos discos, en relación con su área combinada. Dos clústeres cuyos centroides están lo bastante separados como para que sus discos ya no se superpongan se consideran totalmente independientes (IoU = 0); a medida que los discos se superponen más, el IoU aumenta, y el nivel del clúster más débil se limita en consecuencia.
 
 ## Resumen de umbrales
 
-| Umbral | Símbolo | Valor |
-|---|---|---|
-| Captación primaria T1 | P10 | 10% superior dentro del país |
-| Captación secundaria T1 | P20 | 20% superior dentro del país |
-| Captación primaria / gasto T2 | P25 | 25% superior dentro del país |
-| Captación primaria T3 | P50 | 50% superior dentro del país |
-| Límite IoU T1 | — | ≤ 0,10 |
-| Límite IoU T2 | — | ≤ 0,25 |
-| Radio del anillo cívico | — | 5 km |
-| Radio del disco IoU | — | 3 km |
+Las barras de captación y de gasto se vuelven más exigentes al pasar de Local a Regional, y el margen de independencia espacial se estrecha en consecuencia — los clústeres Regional enfrentan tanto la barra de captación más alta como el límite de superposición más estricto, mientras que los clústeres Local enfrentan la barra de captación más baja y ninguna compuerta explícita de superposición. El radio del anillo cívico y el radio del disco de independencia espacial se mantienen cada uno constante en todos los niveles.
 
 ## Referencias
 
