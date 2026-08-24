@@ -12,7 +12,7 @@ audience: vendor-public
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
 language: es
-last_edited: 2026-06-20
+last_edited: 2026-08-24
 editor: pointsav-engineering
 paired_with: urban/urban-fringe.md
 short_description: "Los clústeres de Periferia Urbana (VWH) identifican el comercio minorista de gran formato y la actividad de distribución e industrial en la periferia urbana — grandes superficies, mejora del hogar y logística — uno de los tres arquetipos de co-localización de Inteligencia de Localización."
@@ -83,19 +83,23 @@ Las etiquetas de nivel T1/T2/T3 utilizadas aquí son compartidas con los otros a
 
 El sistema VWH es de grado de producción. Las ferreterías (10.338 ubicaciones en 45 cadenas) se perfilaron como anclas indicadoras; las reglas de nivel usan lógica de colapso por grupo validada al 73,4% de co-localización de ferretería en clústeres T1+T2 (frente a un umbral de aceptación del 55%).
 
-**6.368 clústeres** identificados en 17 países de visualización:
+**6.368 clústeres** identificados en la geografía de estudio de dieciocho países. Los
+mayores contribuyentes, por participación del total:
 
-| País | Clústeres |
-|------|----------|
-| Estados Unidos | 3.167 |
-| Alemania | 648 |
-| Reino Unido | 543 |
-| Canadá | 506 |
-| Francia | 420 |
-| Países Bajos | 240 |
-| Italia | 226 |
-| Polonia | 171 |
-| **Total (17 países)** | **6.368** |
+| País | Clústeres | Participación |
+|------|----------|----------------|
+| Estados Unidos | 2.207 | 34,7% |
+| Alemania | 848 | 13,3% |
+| Francia | 612 | 9,6% |
+| México | 321 | 5,0% |
+| Italia | 287 | 4,5% |
+| Reino Unido | 263 | 4,1% |
+| Países Bajos | 198 | 3,1% |
+| Resto de países | 1.632 | 25,7% |
+| **Total** | **6.368** | **100%** |
+
+Los once países restantes del estudio no se desglosan individualmente en los datos
+fuente disponibles actualmente.
 
 Distribución por niveles: T1 (Centro de Comercio Completo) = 852 (13,4%), T2 (Consolidado) = 1.327 (20,8%), T3 (Emergente / Básico) = 4.189 (65,8%). La distribución con predominio T3 es esperada: los centros de comercio completo que combinan MRO, alquiler de herramientas, almacenista de la construcción y repuestos de automóviles son genuinamente escasos.
 

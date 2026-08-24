@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-11
+last_edited: 2026-08-24
 editor: pointsav-engineering
 short_description: "Three co-location archetypes — Retail Centres (PRO), Urban Fringe (VWH), and Commuter (PKS) — identifying distinct commercial clustering patterns across 17 countries in North America and Europe."
 paired_with: site-selection/location-intelligence-archetypes.es.md
@@ -29,7 +29,7 @@ The three-letter codes were ratified on 1 June 2026.
 
 | Code | Name | Anchor type | Status |
 |------|------|-------------|--------|
-| **PRO** | Retail Centres | Grocery hypermarket with hardware and at least one of: price club, lifestyle, or electronics | Live — T1/T2/T3 co-location pipeline |
+| **PRO** | Retail Centres | Predicate-gate composition test — grocery hypermarket plus hardware/warehouse/lifestyle anchor combinations | Live — Regional/District/Local/Fringe tier pipeline |
 | **VWH** | Urban Fringe | Hardware + trade-supply ecosystem (MRO, tool rental, builders merchant, auto parts) | Live — production co-location pipeline across three tiers |
 | **PKS** | Commuter | Regional transit anchor (airport, rail, bus) + park-and-ride + car rental/hotel enrichment | Live — production co-location pipeline across three tiers |
 
@@ -41,30 +41,45 @@ not captured by grocery-anchored clustering.
 
 ## PRO — Retail Centres
 
-PRO clusters represent grocery-anchored commercial co-locations at three
-scales. The pipeline groups anchor-category retail locations that fall within
-a defined span distance, then assigns each group to one of three tiers based
-on anchor composition.
+PRO clusters represent grocery-anchored commercial co-locations, assigned to
+one of four tiers by a predicate-gate test — each tier requires every listed
+condition to pass, not an additive score against a threshold.
 
 ### Tier definitions
 
-**T1 — Regional:** A cluster containing a grocery hypermarket and a hardware
-retailer, plus at least one of a price club, lifestyle retailer, or electronics
-retailer. Alternatively: four or more anchor-category retailers in a tight
-cluster, or three or more anchors in any tight cluster.
+**Tier 1 — Regional:** Cluster contains (Warehouse AND Hypermarket) or
+(Lifestyle AND Hypermarket); ranks in the top 10% of its country by primary
+catchment population and top 20% by secondary catchment population; has at
+least one regionally classified hospital within the tertiary ring; and is not
+dominated by a stronger cluster within a 3.0 km disk radius.
 
-**T2 — District:** A cluster containing a grocery hypermarket and a hardware
-retailer, within a wider district-level span.
+**Tier 2 — District:** Cluster contains a Hypermarket plus Hardware or
+Warehouse; ranks in the top quartile of its country by primary catchment
+population, and in the top quartile on at least one spend axis (grocery,
+hardware, or wholesale); has at least one regional or district hospital
+within the tertiary ring.
 
-**T3 — Local:** All remaining anchor pairs that do not qualify for T1 or T2.
+**Tier 3 — Local:** Cluster contains Hardware or Warehouse; ranks in the top
+half of its country by primary catchment population; has at least one
+hospital of any classification within the tertiary ring.
+
+**Tier 4 — Fringe:** All clusters that do not pass the Tier 1, 2, or 3 gates.
+
+Anchor classes: ALPHA_HYPERMARKET (large-format grocery — Walmart, Target,
+Carrefour, Kaufland, Tesco, and other national chains), ALPHA_LIFESTYLE
+(IKEA), ALPHA_HARDWARE (Home Depot, Lowe's, Leroy Merlin, and similar), and
+ALPHA_WAREHOUSE (Costco, Sam's Club, and similar). Neighbourhood grocery
+formats (Lidl, Aldi) are deliberately excluded — their density would produce
+false-positive clusters below any useful threshold.
 
 ### Current dataset
 
-The current production dataset spans thousands of PRO clusters across all
-three tiers, covering 17 display countries across North America and Europe.
-Tier boundaries are periodically re-tuned as the underlying retail footprint
-changes; the T2 district radius has been tightened in successive rebuilds
-relative to earlier phases.
+As of the most recent published tier count, the production dataset spans
+157 Tier 1, 1,462 Tier 2, 2,081 Tier 3, and 6,513 Tier 4 clusters — 10,213
+total after deduplication — across seven headline countries (United States,
+Mexico, Spain, Germany, Canada, France, and Great Britain) plus additional
+markets not yet broken out individually. Tier boundaries are periodically
+re-tuned as anchor-chain coverage and the underlying retail footprint change.
 
 ---
 
@@ -222,6 +237,10 @@ fade applies.
 Both layers persist across view transitions — the fade state is maintained
 when switching between the Retail View and the BentoBox market detail panel.
 
+## Data Sources
+
+Map and location data © [OpenStreetMap contributors](https://www.openstreetmap.org/copyright) / [ODbL](https://opendatacommons.org/licenses/odbl/).
+
 ## See also
 
 - [[co-location-methodology|Co-location Methodology]] — the anchor-composition scoring that drives PRO tier assignment
@@ -230,7 +249,3 @@ when switching between the Retail View and the BentoBox market detail panel.
 - [[atlas-top-400-north-america|Top 400 Regional Markets — North America]] — ranked list of suburban-regional PRO markets in NA
 - [[atlas-top-400-europe|Top 400 Regional Markets — Europe]] — ranked list of suburban-regional PRO markets in EU
 - [[od-catchment-methodology|O-D Catchment Methodology]] — how catchment zones are measured around each cluster centroid
-
-## Data Sources
-
-Map and location data © [OpenStreetMap contributors](https://www.openstreetmap.org/copyright) / [ODbL](https://opendatacommons.org/licenses/odbl/).

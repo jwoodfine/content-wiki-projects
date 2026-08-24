@@ -12,7 +12,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
 language: es
-last_edited: 2026-06-15
+last_edited: 2026-08-24
 editor: pointsav-engineering
 short_description: "Tres arquetipos de co-localización — Centros Comerciales (PRO), Franja Urbana (VWH) y Área de Acceso (PKS) — que identifican patrones de agrupación comercial diferenciados en 17 países de Norteamérica y Europa."
 paired_with: site-selection/location-intelligence-archetypes.md
@@ -30,7 +30,7 @@ Los códigos de tres letras fueron ratificados el 1 de junio de 2026.
 
 | Código | Nombre | Tipo de ancla | Estado |
 |--------|--------|---------------|--------|
-| **PRO** | Centros Comerciales | Hipermercado de alimentación con ferretería y al menos uno de: club de precio, estilo de vida o electrónica | Activo — canal de co-localización T1/T2/T3 |
+| **PRO** | Centros Comerciales | Prueba de predicados de composición — hipermercado de alimentación más combinaciones de anclas de ferretería/mayorista/estilo de vida | Activo — canal de niveles Regional/Distrito/Local/Marginal |
 | **VWH** | Franja Urbana | Ferretería + ecosistema de suministro industrial (MRO, alquiler de herramientas, distribuidores de construcción, recambios de auto) | Activo — canal de co-localización productivo en tres niveles |
 | **PKS** | Área de Acceso | Ancla de tránsito regional (aeropuerto, tren, bus) + aparcamiento disuasorio + alquiler de vehículos/hotel | Activo — canal de co-localización productivo en tres niveles |
 
@@ -44,32 +44,49 @@ alimentación.
 ## PRO — Centros Comerciales
 
 Los clústeres PRO representan co-localizaciones comerciales ancladas en
-alimentación a tres escalas. El canal agrupa ubicaciones de categorías ancla
-que se encuentran dentro de una distancia de extensión definida y asigna cada
-grupo a uno de tres niveles según la composición de anclas.
+alimentación, asignadas a uno de cuatro niveles mediante una prueba de
+predicados: cada nivel exige que se cumplan todas las condiciones listadas,
+no una puntuación aditiva frente a un umbral.
 
 ### Definiciones de nivel
 
-**T1 — Regional:** Un clúster que contiene un hipermercado de alimentación y
-un establecimiento de ferretería, más al menos uno de los siguientes: club de
-precio, establecimiento de estilo de vida o retailer de electrónica.
-Alternativamente: cuatro o más minoristas de categoría ancla en un clúster
-compacto, o tres o más anclas en cualquier clúster compacto.
+**Nivel 1 — Regional:** El clúster contiene (Mayorista Y Hipermercado) o
+(Estilo de Vida Y Hipermercado); se ubica en el 10% superior de su país por
+población de captación primaria y en el 20% superior por captación
+secundaria; cuenta con al menos un hospital de clasificación regional
+dentro del anillo terciario; y no está dominado por un clúster más fuerte
+dentro de un radio de disco de 3,0 km.
 
-**T2 — Distrito:** Un clúster que contiene un hipermercado de alimentación y
-un establecimiento de ferretería, dentro de una extensión de distrito más
-amplia.
+**Nivel 2 — Distrito:** El clúster contiene un Hipermercado más Ferretería o
+Mayorista; se ubica en el cuartil superior de su país por población de
+captación primaria, y en el cuartil superior en al menos un eje de gasto
+(alimentación, ferretería o mayorista); cuenta con al menos un hospital
+regional o distrital dentro del anillo terciario.
 
-**T3 — Local:** Todos los pares de anclas restantes que no cumplen los
-criterios de T1 ni T2.
+**Nivel 3 — Local:** El clúster contiene Ferretería o Mayorista; se ubica en
+la mitad superior de su país por población de captación primaria; cuenta con
+al menos un hospital de cualquier clasificación dentro del anillo terciario.
+
+**Nivel 4 — Marginal:** Todos los clústeres que no superan las pruebas de
+Nivel 1, 2 o 3.
+
+Clases de ancla: ALPHA_HYPERMARKET (alimentación de gran formato — Walmart,
+Target, Carrefour, Kaufland, Tesco y otras cadenas nacionales), ALPHA_LIFESTYLE
+(IKEA), ALPHA_HARDWARE (Home Depot, Lowe's, Leroy Merlin y similares) y
+ALPHA_WAREHOUSE (Costco, Sam's Club y similares). Los formatos de
+alimentación de proximidad (Lidl, Aldi) se excluyen deliberadamente — su
+densidad produciría clústeres falsos positivos por debajo de cualquier
+umbral útil.
 
 ### Conjunto de datos actual
 
-El conjunto de datos de producción actual abarca miles de clústeres PRO en
-los tres niveles, cubriendo 17 países en Norteamérica y Europa. Los límites
-de nivel se reajustan periódicamente a medida que cambia la huella
-minorista subyacente; el radio de distrito de T2 se ha estrechado en
-sucesivas reconstrucciones con respecto a fases anteriores.
+Según el último recuento de niveles publicado, el conjunto de datos de
+producción abarca 157 clústeres de Nivel 1, 1.462 de Nivel 2, 2.081 de
+Nivel 3 y 6.513 de Nivel 4 — 10.213 en total tras la deduplicación — en
+siete países principales (Estados Unidos, México, España, Alemania, Canadá,
+Francia y Gran Bretaña) más otros mercados aún no desglosados
+individualmente. Los límites de nivel se reajustan periódicamente a medida
+que cambia la cobertura de cadenas ancla y la huella minorista subyacente.
 
 ---
 

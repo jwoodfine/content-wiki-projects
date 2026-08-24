@@ -12,7 +12,7 @@ audience: vendor-public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
 language: en
-last_edited: 2026-07-11
+last_edited: 2026-08-24
 editor: pointsav-engineering
 paired_with: urban/urban-fringe.es.md
 short_description: "Urban Fringe (VWH) clusters identify large-format retail and distribution-industrial activity on the urban periphery — big-box hardware, home improvement, and logistics — one of three Location Intelligence co-location archetypes."
@@ -83,19 +83,23 @@ The T1/T2/T3 tier labels used here are shared with the other Location Intelligen
 
 The VWH pipeline is production-grade. Hardware stores (10,338 locations across 45 chains) were profiled as proxy anchors; tier rules use group-collapse logic validated at 73.4% hardware co-location on T1+T2 clusters (against a 55% acceptance threshold).
 
-**6,368 clusters** identified across 17 display countries:
+**6,368 clusters** identified across the eighteen-country study geography. The largest
+contributors, by share of the total:
 
-| Country | Clusters |
-|---------|---------|
-| United States | 3,167 |
-| Germany | 648 |
-| United Kingdom | 543 |
-| Canada | 506 |
-| France | 420 |
-| Netherlands | 240 |
-| Italy | 226 |
-| Poland | 171 |
-| **Total (17 countries)** | **6,368** |
+| Country | Clusters | Share |
+|---------|---------|-------|
+| United States | 2,207 | 34.7% |
+| Germany | 848 | 13.3% |
+| France | 612 | 9.6% |
+| Mexico | 321 | 5.0% |
+| Italy | 287 | 4.5% |
+| United Kingdom | 263 | 4.1% |
+| Netherlands | 198 | 3.1% |
+| Remaining countries | 1,632 | 25.7% |
+| **Total** | **6,368** | **100%** |
+
+The remaining eleven countries in the study are not individually broken out in the
+current source data.
 
 Tier distribution: T1 (Full Trade Hub) = 852 (13.4%), T2 (Established) = 1,327 (20.8%), T3 (Emerging / Thin) = 4,189 (65.8%). The T3-heavy distribution is expected: full trade hubs combining MRO, tool rental, builders merchant, and auto parts are legitimately rare.
 
