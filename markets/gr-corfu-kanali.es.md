@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Mercado regional de Kanali"
+title: "Kanali, Corfú"
 slug: gr-corfu-kanali
 language: es
 language_protocol: TRANSLATE-ES
@@ -19,40 +19,57 @@ last_edited: 2026-08-25
 editor: editorial
 ---
 
-Kanali, localidad en la isla de Corfú, en el mar Jónico, es un Mercado Regional de Europa
-bajo la puerta de composición del marco de selección por co-ubicación. El punto de referencia
-metropolitano más cercano según el marco es Patras, a 219,8 kilómetros — la distancia más
-larga entre las siete entradas griegas actuales, y una que cruza mar abierto hasta la Grecia
-continental. Kanali cuenta con un clúster de co-ubicación de nivel Regional.
+Kanali es una comunidad en la isla de Corfú, en el mar Jónico. Está anclada por Sklavenitis
+(hipermercado), Kotsovolos (electrónica) y Praktiker (ferretería) — un clúster de co-ubicación de
+nivel Regional, el nivel más alto para un único clúster dentro del marco. Patras se encuentra a
+219,8 kilómetros en línea recta — la distancia más larga entre las siete entradas griegas
+actuales, y una que cruza mar abierto hasta la Grecia continental. Kanali funciona dentro de la
+economía propia de Corfú y no como suburbio funcional de Patras; la distancia de referencia
+refleja la regla del marco sobre el punto de referencia continental más cercano, no una relación
+de desplazamiento diario.
 
 ## Descripción general
 
-Según Wikipedia (consultado el 25-08-2026), Kanali registró 4.768 habitantes en el censo de
-2021, dentro del municipio de Corfú Central e Islas Diapónticas. <!-- wikipedia-sourced:
-population/description --> La localidad funciona como comunidad de la ciudad de Corfú y ha
-crecido de forma constante desde unos 2.700 habitantes en 1991, lo que refleja un desarrollo
-insular gradual y no una expansión metropolitana acelerada.
+Kanali registró 4.768 habitantes en el censo de 2021, dentro del municipio de Corfú Central e
+Islas Diapónticas. <!-- wikipedia-sourced: population/description --> Kanali funciona como parte
+del área urbana de la ciudad de Corfú y ha crecido de forma constante desde unos 2.700 habitantes
+en 1991, lo que refleja un desarrollo insular gradual y no una expansión metropolitana acelerada.
+
+## Composición de anclas
+
+El clúster abarca 4,8 kilómetros y combina un ancla de hipermercado, ferretería y electrónica.
+Sklavenitis, cadena griega de hipermercados comparable a Walmart o Kroger, cuenta con dos
+ubicaciones dentro del clúster, junto con una tienda de electrónica Kotsovolos y una ferretería
+Praktiker.
+
+El peso cívico proviene de la Universidad Jónica, que mantiene cuatro edificios distintos en la
+zona — su campus central, la rectoría y dos emplazamientos históricos, un antiguo hospital
+psiquiátrico y la vieja fortaleza, reconvertidos para uso universitario.
 
 ## Posición en el Mercado Regional
 
 | Campo | Valor |
 |---|---|
 | Punto de referencia metropolitano | Patras |
-| Distancia | 219,8 km |
+| Distancia (línea recta) | 219,8 km |
 | Clústeres de co-ubicación | 1 de nivel Regional |
 | Población de la cuenca de influencia | 121.909 |
 | Método de la cuenca de influencia | Clúster miembro más fuerte (recurso de respaldo de un solo clúster) |
 
-Kanali tiene un clúster de co-ubicación de nivel Regional. **Señalado, no resuelto:** Corfú no
-tiene conexión terrestre con Patras, de modo que los 219,8 km de distancia de referencia
-miden el punto de referencia continental más cercano según el marco, no una distancia de
-desplazamiento — un recordatorio de que este campo es una referencia del algoritmo de
-selección, no una relación administrativa o de proximidad funcional. El detalle a nivel de
-clúster — las anclas minoristas y cívicas específicas que lo componen — está pendiente del
-conjunto de datos SIG subyacente y no se incluye en este esbozo. Véase
-[[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]] para el conjunto Top 400
-completo y [[co-location-methodology|Metodología de Co-ubicación]] para conocer los criterios
-de calificación de mercados.
+La distancia anterior es una medición en línea recta (a vuelo de pájaro) hasta el punto de
+referencia metropolitano más cercano, no una estimación de tiempo de conducción o de
+desplazamiento diario. Corfú no tiene conexión terrestre con Patras, de modo que esta cifra mide
+el punto de referencia continental más cercano según el marco, no una relación de desplazamiento
+real. Véase [[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]] para el conjunto Top 400
+completo y [[co-location-methodology|Metodología de Co-ubicación]] para conocer los criterios de
+calificación de mercados.
+
+## Datos AEC
+
+Los datos de clima, sismicidad y riesgo de incendio a nivel de clúster aún no se han calculado
+para el clúster de Kanali en la generación vigente del conjunto de datos SIG. Esta sección se
+completará cuando esa cobertura se extienda hasta aquí; véase [[gis-data-overview|Resumen de Datos
+SIG]] para conocer el flujo de trabajo de datos AEC.
 
 ## Véase también
 

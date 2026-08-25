@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Mercado regional de Chania"
+title: "Chania, Grecia"
 slug: gr-crete-chania
 language: es
 language_protocol: TRANSLATE-ES
@@ -19,35 +19,55 @@ last_edited: 2026-08-25
 editor: editorial
 ---
 
-Chania, la segunda ciudad más grande de Creta y capital de la unidad regional homónima, es un
-Mercado Regional de Europa bajo la puerta de composición del marco de selección por
-co-ubicación. El punto de referencia metropolitano más cercano según el marco es Heraclión, a
-103,3 kilómetros. Chania cuenta con un clúster de co-ubicación de nivel Local.
+Chania es la segunda ciudad más grande de Creta y capital de la unidad regional homónima. Está
+anclada por Sklavenitis (hipermercado), IKEA (estilo de vida) y Kotsovolos (electrónica) — un
+clúster de co-ubicación de nivel Local. Heraclión se encuentra a 103,3 kilómetros en línea recta.
+El mercado tiene clasificación de Mercado Regional de Europa bajo la puerta de composición del
+marco de selección por co-ubicación.
 
 ## Descripción general
 
-Según Wikipedia (consultado el 25-08-2026), Chania registró 111.375 habitantes municipales en
-el censo de 2021, en la costa noroeste de Creta. <!-- wikipedia-sourced:
-population/description --> La economía de la ciudad se apoya en el cultivo de olivo y
-cítricos y en el turismo, que se expandió con rapidez desde comienzos de los años setenta,
-sobre un trazado urbano formado por influencias minoicas, venecianas y otomanas.
+Chania registró 111.375 habitantes municipales en el censo de 2021, en la costa noroeste de
+Creta. <!-- wikipedia-sourced: population/description --> La economía de la ciudad se apoya en el
+cultivo de olivo y cítricos y en el turismo, que se expandió con rapidez desde comienzos de los
+años setenta, sobre un trazado urbano formado por influencias minoicas, venecianas y otomanas.
+
+## Composición de anclas
+
+El clúster abarca 2,8 kilómetros y combina un ancla de hipermercado, estilo de vida y
+electrónica. Sklavenitis, cadena griega de hipermercados comparable a Walmart o Kroger, cuenta con
+tres ubicaciones dentro del clúster; IKEA y Kotsovolos (electrónica, comparable a Best Buy) cuentan
+con una cada una.
+
+Las anclas cívicas incluyen el Hospital General de Chania «Agios Georgios» y la clínica privada
+Iassis. La educación superior está bien representada: la Universidad Técnica de Creta, el
+departamento de Chania de la Universidad Mediterránea Helénica y el Instituto Agronómico
+Mediterráneo de Chania (CIHEAM) se ubican todos dentro de la cuenca de influencia, junto con la
+Academia Naval Helénica de Creta.
 
 ## Posición en el Mercado Regional
 
 | Campo | Valor |
 |---|---|
 | Punto de referencia metropolitano | Heraclión |
-| Distancia | 103,3 km |
+| Distancia (línea recta) | 103,3 km |
 | Clústeres de co-ubicación | 1 de nivel Local |
 | Población de la cuenca de influencia | 161.567 |
 | Método de la cuenca de influencia | Clúster miembro más fuerte (recurso de respaldo de un solo clúster) |
 
-Chania tiene un clúster de co-ubicación de nivel Local. El detalle a nivel de clúster — las
-anclas minoristas y cívicas específicas que lo componen — está pendiente del conjunto de
-datos SIG subyacente y no se incluye en este esbozo. Véase
-[[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]] para el conjunto Top 400
-completo y [[co-location-methodology|Metodología de Co-ubicación]] para conocer los criterios
-de calificación de mercados.
+La distancia anterior es una medición en línea recta (a vuelo de pájaro) hasta el punto de
+referencia metropolitano más cercano, no una estimación de tiempo de conducción o de
+desplazamiento diario. Chania cuenta con un clúster de co-ubicación de nivel Local. Véase
+[[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]] para el conjunto Top 400 completo y
+[[co-location-methodology|Metodología de Co-ubicación]] para conocer los criterios de calificación
+de mercados.
+
+## Datos AEC
+
+Los datos de clima, sismicidad y riesgo de incendio a nivel de clúster aún no se han calculado
+para el clúster de Chania en la generación vigente del conjunto de datos SIG. Esta sección se
+completará cuando esa cobertura se extienda hasta aquí; véase [[gis-data-overview|Resumen de Datos
+SIG]] para conocer el flujo de trabajo de datos AEC.
 
 ## Véase también
 

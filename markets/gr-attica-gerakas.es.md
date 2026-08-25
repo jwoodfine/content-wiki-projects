@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Mercado regional de Gerakas"
+title: "Gerakas, Grecia"
 slug: gr-attica-gerakas
 language: es
 language_protocol: TRANSLATE-ES
@@ -19,40 +19,65 @@ last_edited: 2026-08-25
 editor: editorial
 ---
 
-Gerakas, suburbio oriental de Atenas en la unidad regional de Ática Oriental, es un Mercado
-Regional de Europa bajo la puerta de composición del marco de selección por co-ubicación. El
-punto de referencia metropolitano más cercano según el marco es Atenas, a 12,3 kilómetros —
-la distancia más corta entre las siete entradas griegas actuales. Gerakas cuenta con un
-clúster de co-ubicación de nivel Regional.
+Gerakas es un suburbio del este de Atenas en la unidad regional de Ática Oriental. Está anclado
+por Sklavenitis (hipermercado), Praktiker (ferretería) y MediaMarkt (electrónica) — un clúster de
+co-ubicación de nivel Regional, el nivel más alto para un único clúster dentro del marco. Atenas se
+encuentra a 12,3 kilómetros en línea recta — la distancia más corta entre las siete entradas
+griegas actuales. El mercado tiene clasificación de Mercado Regional de Europa bajo la puerta de
+composición del marco de selección por co-ubicación.
 
 ## Descripción general
 
-Según Wikipedia (consultado el 25-08-2026), Gerakas registró 33.856 habitantes en el censo de
-2021 en unos 6,6 kilómetros cuadrados, y forma parte del municipio de Pallini desde una fusión
-administrativa de 2011. <!-- wikipedia-sourced: population/description --> La zona pasó
-rápidamente de terreno agrícola a vivienda suburbana densa tras las infraestructuras
-construidas para los Juegos Olímpicos de Atenas de 2004, y figura en la antigüedad como el
-lugar de nacimiento del filósofo Epicuro.
+Gerakas registró 33.856 habitantes en el censo de 2021 en unos 6,6 kilómetros cuadrados, y forma
+parte del municipio de Pallini desde una fusión administrativa de 2011. <!-- wikipedia-sourced:
+population/description --> La zona pasó rápidamente de terreno agrícola a vivienda suburbana densa
+tras las infraestructuras construidas para los Juegos Olímpicos de Atenas de 2004, y figura en la
+antigüedad como el lugar de nacimiento del filósofo Epicuro.
+
+## Composición de anclas
+
+El clúster abarca 2,6 kilómetros y combina un ancla de hipermercado, ferretería y electrónica — el
+umbral que exige la puerta de composición. Sklavenitis, cadena griega de hipermercados comparable
+a Walmart o Kroger, cuenta con varias ubicaciones dentro del clúster. Praktiker (ferretería,
+comparable a Home Depot o Lowe's) y MediaMarkt (electrónica, homólogo paneuropeo de Best Buy)
+completan el conjunto de anclas minoristas.
+
+La infraestructura cívica añade peso al clúster. El Hospital General Sismanogleio y el Hospital
+Amalia Fleming anclan la presencia médica. Otros tres hospitales se ubican dentro de la misma
+cuenca de influencia del área de Atenas, incluido un hospital militar especializado y un hospital
+infantil.
 
 ## Posición en el Mercado Regional
 
 | Campo | Valor |
 |---|---|
 | Punto de referencia metropolitano | Atenas |
-| Distancia | 12,3 km |
+| Distancia (línea recta) | 12,3 km |
 | Clústeres de co-ubicación | 1 de nivel Regional |
 | Población de la cuenca de influencia | 3.547.734 |
 | Método de la cuenca de influencia | Clúster miembro más fuerte (recurso de respaldo de un solo clúster) |
 
-Gerakas tiene un clúster de co-ubicación de nivel Regional. La cifra de población de la
-cuenca de influencia refleja la escala de la cuenca metropolitana de Atenas en su conjunto,
-subyacente al clúster miembro más fuerte, y no una población exclusiva de Gerakas — una
-consecuencia del método de respaldo de un solo clúster que el marco divulga, no un error. El
-detalle a nivel de clúster — las anclas minoristas y cívicas específicas que lo componen —
-está pendiente del conjunto de datos SIG subyacente y no se incluye en este esbozo. Véase
-[[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]] para el conjunto Top 400
-completo y [[co-location-methodology|Metodología de Co-ubicación]] para conocer los criterios
-de calificación de mercados.
+La distancia anterior es una medición en línea recta (a vuelo de pájaro) hasta el punto de
+referencia metropolitano más cercano, no una estimación de tiempo de conducción o de
+desplazamiento diario. La cifra de población de la cuenca de influencia refleja la cuenca
+metropolitana de Atenas en su conjunto, subyacente al clúster de Gerakas — una consecuencia del
+método de respaldo de un solo clúster que el marco divulga, no una población exclusiva de Gerakas.
+Véase [[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]] para el conjunto Top 400
+completo y [[co-location-methodology|Metodología de Co-ubicación]] para conocer los criterios de
+calificación de mercados.
+
+## Datos AEC
+
+Gerakas se ubica en una zona climática Csa de Köppen (mediterráneo de verano cálido), con una
+temperatura media anual de 17,7 °C. El sitio registra 1.289 grados-día de calefacción y 1.185
+grados-día de refrigeración al año (base 18 °C), velocidad media del viento de 2,65 m/s, e
+irradiación solar anual (GHI) de 1.782,7 kWh/m².
+
+La exposición sísmica y de incendios forestales es alta en ambos casos. La aceleración máxima del
+suelo alcanza 0,2012g — una cifra real y relevante para la planificación de seguros y costos de
+construcción — y el riesgo de incendio forestal se clasifica como muy alto. La ecorregión
+circundante es la de bosques esclerófilos y mixtos del Egeo y el oeste de Turquía, dentro del
+bioma de bosques, arboledas y matorrales mediterráneos.
 
 ## Véase también
 

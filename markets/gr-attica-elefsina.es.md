@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Mercado regional de Elefsina"
+title: "Elefsina, Grecia"
 slug: gr-attica-elefsina
 language: es
 language_protocol: TRANSLATE-ES
@@ -19,38 +19,55 @@ last_edited: 2026-08-25
 editor: editorial
 ---
 
-Elefsina, ciudad industrial en la llanura de Thriasio, al oeste de Atenas, es un Mercado
-Regional de Europa bajo la puerta de composición del marco de selección por co-ubicación. El
-punto de referencia metropolitano más cercano según el marco es Atenas, a 17,9 kilómetros.
-Elefsina cuenta con un clúster de co-ubicación de nivel Regional.
+Elefsina es una ciudad industrial en la llanura de Thriasio, al oeste de Atenas. Está anclada por
+Sklavenitis (hipermercado), Praktiker (ferretería) y Kotsovolos (electrónica) — un clúster de
+co-ubicación de nivel Regional, el nivel más alto para un único clúster dentro del marco. Atenas se
+encuentra a 17,9 kilómetros en línea recta. El mercado tiene clasificación de Mercado Regional de
+Europa bajo la puerta de composición del marco de selección por co-ubicación.
 
 ## Descripción general
 
-Según Wikipedia (consultado el 25-08-2026), Elefsina registró 30.147 habitantes municipales en
-el censo de 2021, en Ática Occidental, en el extremo norte del golfo Sarónico. <!--
-wikipedia-sourced: population/description --> La ciudad alberga la mayor refinería de
-petróleo de Grecia y figura en la antigüedad como el escenario de los Misterios Eleusinos y
-el lugar de nacimiento del dramaturgo Esquilo; también se la conoce por el nombre histórico
-de Eleusis.
+Elefsina registró 30.147 habitantes municipales en el censo de 2021, en Ática Occidental, en el
+extremo norte del golfo Sarónico. <!-- wikipedia-sourced: population/description --> La ciudad
+alberga la mayor refinería de petróleo de Grecia y figura en la antigüedad como el escenario de
+los Misterios Eleusinos y el lugar de nacimiento del dramaturgo Esquilo; también se la conoce por
+el nombre histórico de Eleusis.
+
+## Composición de anclas
+
+El clúster abarca 2,1 kilómetros y combina un ancla de hipermercado, ferretería y electrónica.
+Sklavenitis, cadena griega de hipermercados comparable a Walmart o Kroger, cuenta con tres
+ubicaciones dentro del clúster. La sucursal de Praktiker (ferretería, comparable a Home Depot o
+Lowe's) más cercana se encuentra en la vecina Mandra, y Kotsovolos (electrónica, comparable a Best
+Buy) completa el conjunto.
+
+La infraestructura cívica se centra en la sanidad. El Hospital General de Elefsina «Thriasio» y la
+Maternidad de Elefsina se ubican ambos dentro de la cuenca de influencia.
 
 ## Posición en el Mercado Regional
 
 | Campo | Valor |
 |---|---|
 | Punto de referencia metropolitano | Atenas |
-| Distancia | 17,9 km |
+| Distancia (línea recta) | 17,9 km |
 | Clústeres de co-ubicación | 1 de nivel Regional |
 | Población de la cuenca de influencia | 3.540.223 |
 | Método de la cuenca de influencia | Clúster miembro más fuerte (recurso de respaldo de un solo clúster) |
 
-Elefsina tiene un clúster de co-ubicación de nivel Regional. Como en la entrada vecina de
-Gerakas, la cifra de población de la cuenca de influencia refleja la cuenca metropolitana de
-Atenas en su conjunto, subyacente al clúster miembro más fuerte del mercado, y no una
-población exclusiva de Elefsina. El detalle a nivel de clúster — las anclas minoristas y
-cívicas específicas que lo componen — está pendiente del conjunto de datos SIG subyacente y
-no se incluye en este esbozo. Véase [[atlas-top-400-europe|Top 400 Mercados Regionales —
-Europa]] para el conjunto Top 400 completo y [[co-location-methodology|Metodología de
+La distancia anterior es una medición en línea recta (a vuelo de pájaro) hasta el punto de
+referencia metropolitano más cercano, no una estimación de tiempo de conducción o de
+desplazamiento diario. Como en la entrada vecina de Gerakas, la cifra de población de la cuenca de
+influencia refleja la cuenca metropolitana de Atenas en su conjunto, subyacente al clúster de
+Elefsina, y no una población exclusiva de Elefsina. Véase [[atlas-top-400-europe|Top 400 Mercados
+Regionales — Europa]] para el conjunto Top 400 completo y [[co-location-methodology|Metodología de
 Co-ubicación]] para conocer los criterios de calificación de mercados.
+
+## Datos AEC
+
+Los datos de clima, sismicidad y riesgo de incendio a nivel de clúster aún no se han calculado
+para el clúster de Elefsina en la generación vigente del conjunto de datos SIG. Esta sección se
+completará cuando esa cobertura se extienda hasta aquí; véase [[gis-data-overview|Resumen de Datos
+SIG]] para conocer el flujo de trabajo de datos AEC.
 
 ## Véase también
 
