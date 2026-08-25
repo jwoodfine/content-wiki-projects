@@ -12,7 +12,7 @@ index_scope: site-selection
 status: active
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-24
+last_edited: 2026-08-25
 editor: pointsav-engineering
 paired_with: site-selection/_index.md
 ---
@@ -63,7 +63,7 @@ Cómo Elegimos los Sitios abarca el método detrás de "cerca de los Power Centr
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: scoring-and-clustering -->
 - [[co-location-cluster-formation]] — Paso del flujo que convierte cada tienda ancla calificada en una agrupación candidata de co-ubicación; las candidatas superpuestas en una misma área de comercio se resuelven mediante deduplicación antes de agregar los datos para el ranking.
 - [[cluster-deduplication-threshold]] — El proceso de deduplicación del índice de co-localización elimina los clústeres superpuestos que representan la misma zona comercial utilizando un umbral de proximidad fijo y estrecho, conservando el clúster con mayor recuento de operadores secundarios. Un umbral previo, sustancialmente más amplio, suprimía nodos comerciales legítimamente distintos en corredores suburbanos de alta densidad.
-- [[co-location-ranking-system]] — Algoritmo de puntuación de 12 rangos determinista que evalúa sitios de co-ubicación minorista por convergencia de ancla nombrada en radios de captación definidos.
+- [[co-location-ranking-system]] — La mecánica determinista detrás de la clasificación de clústeres — ejes de percentil relativos al país, la prueba de superposición entre clústeres vecinos y el orden de desempate aplicado dentro de un nivel.
 - [[co-location-tiering-scoring]] — Puntuación por niveles de clústeres de co-localización — qué miden los niveles T1–T3 de composición, los parámetros DBSCAN que forman clústeres y qué no afirman.
 - [[catchment-ranking-methodology-v3]] — La metodología V3 asigna cada clúster de co-localización a uno de cuatro niveles mediante compuertas de predicado binarias — composición, rango de captación nacional, clasificación cívica e independencia espacial — sustituyendo el sistema previo de puntuación compuesta introducido en Sprint 17 (mayo de 2026).
 - [[geographic-co-location-methodology]] — Sistema de cinco grados de clúster que puntúa nodos minoristas por co-ocurrencia de objetivos Primarios, Secundarios y Terciarios para clasificar sitios de desarrollo.

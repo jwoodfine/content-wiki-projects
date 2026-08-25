@@ -11,108 +11,48 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-24
+last_edited: 2026-08-25
 editor: pointsav-engineering
-short_description: "Deterministic 12-rank scoring algorithm evaluating retail co-location sites by named-anchor convergence across defined catchment radii."
+short_description: "The deterministic mechanics behind cluster ranking on the co-location platform — country-relative percentile axes, the overlap test between neighbouring clusters, and the tiebreak order applied within a tier."
 paired_with: site-selection/co-location-ranking-system.es.md
-cites:
-  - ni-51-102
-  - osc-sn-51-721
 ---
 
-The Woodfine [[co-location-methodology|co-location methodology]] is operationalised as a **named-anchor combination matrix** — a deterministic algorithm that scores each hypermarket [[co-location-anchors|anchor]] location based on the convergence of secondary and tertiary retail and civic categories within defined catchment radii.
+The Woodfine [[co-location-methodology|co-location methodology]] assigns each cluster's tier through binary predicate gates, not a composite score — no cluster earns a tier by accumulating points toward a threshold. This article covers the mechanics behind those gates: how a cluster's catchment position is measured against its national peers, how competing clusters are compared for overlap, and how clusters are ordered once ranked. The gate definitions themselves — which combination of tests each tier requires — are set out in the [[catchment-ranking-methodology-v3|V3 catchment ranking methodology]]; the tier labels are described in [[co-location-tier-nomenclature|tier nomenclature]].
 
-The system produces a 12-rank index mapped to five quality tiers, visualised on the Geographic Information System (GIS) platform at [gis.woodfinegroup.com](https://gis.woodfinegroup.com) using a warm-to-cool colour scale: deep amber (★★★★★ Rank 1, highest) through pale blue (★ Rank 5, lowest). The map-facing labels — Regional, District, Local, Fringe — follow the ICSC hierarchy described in [[co-location-tier-nomenclature|tier nomenclature]], and qualification gates are detailed in the [[catchment-ranking-methodology-v3|V3 catchment ranking methodology]]. This approach provides an objective, capital-validated framework for assessing commercial site defensibility.
+## Country-relative percentile axes
 
-## The named-anchor model
+A cluster's tier depends on where it stands against every other cluster in its own country, not against a fixed global threshold. Each cluster is ranked against its national peers on eight measures: primary and secondary catchment population, and primary and secondary spend across grocery, hardware, and wholesale categories. A cluster's percentile on each axis is its rank divided by the country's total cluster count — a cluster in the top 10% by primary population carries a percentile of 0.10 on that axis.
 
-Every co-location site in the index is anchored by a single hypermarket or large-format general merchandise operator — Walmart, IKEA, Carrefour, and their regional equivalents. The anchor is the foundational requirement: no site without a qualifying anchor is admitted to the index. The full chain-to-family mapping is documented in the [[retail-brand-family-taxonomy|retail brand family taxonomy]].
+Two catchment zones feed the population and spend axes: a primary zone within 35 km of the cluster and a secondary zone between 35 km and 150 km, per the [[od-catchment-methodology|O-D catchment methodology]]. Spend estimates draw on national household-spending surveys applied to the same population grid. Ranking within-country, rather than against one global bar, keeps a smaller market's structure intact against a larger one.
 
-Secondary and tertiary operators are classified into four deterministic categories:
+These thresholds are intentionally coarse. The system is built to separate nationally significant clusters from local nodes, not to finely rank clusters against one another within a tier.
 
-| Category | Role | Commercial Rationale |
-|----------|------|----------------------|
-| **Hardware** | Secondary-1 | High-frequency, destination-driven superstores (Home Depot, Lowe's, Leroy Merlin). |
-| **Warehouse Club** | Secondary-2 | Membership-driven, high-volume bulk retail (Costco, Sam's Club, Makro). |
-| **Healthcare** | Tertiary-A | Critical civic infrastructure (hospitals, medical centers) providing stable demographic baselines. |
-| **Higher Education** | Tertiary-B | Institutional anchors (universities, colleges) driving non-cyclical traffic density. |
+## The overlap test
 
-A secondary operator qualifies as co-located when it falls within a defined secondary catchment radius of the anchor. Tertiary operators are scored within a wider catchment radius.
+A cluster is only credited for its tier when it is not dominated by a stronger neighbour nearby. Overlap between two clusters is measured as the intersection-over-union (IoU) of two equal-radius disks, each 3.0 km, centred on the cluster anchors — the shared area between the disks, relative to their combined area. As two cluster centroids move apart, IoU falls toward zero and the clusters are treated as spatially independent. A cluster whose disk substantially overlaps a stronger cluster's disk is held below the tier its composition and catchment would otherwise earn. Regional carries the strictest overlap limit of any tier, per the [[catchment-ranking-methodology-v3|gate definitions]].
 
-## The 12-rank matrix
+## Ordering within a tier
 
-The combination of present categories determines the site rank. There are twelve named combinations in the matrix, ordered by structural complexity and commercial validation:
-
-| Rank | Tier | Hardware | Warehouse | Healthcare | Higher Ed |
-|------|------|:--------:|:---------:|:----------:|:---------:|
-| 1  | ★★★★★ | ✓ | ✓ | ✓ | ✓ |
-| 2  | ★★★★ | ✓ | ✓ |   | ✓ |
-| 3  | ★★★★ | ✓ | ✓ | ✓ |   |
-| 4  | ★★★  | ✓ | ✓ |   |   |
-| 5  | ★★★  | ✓ |   |   | ✓ |
-| 6  | ★★★  | ✓ |   | ✓ |   |
-| 7  | ★★★  |   | ✓ | ✓ | ✓ |
-| 8  | ★★   | ✓ |   |   |   |
-| 9  | ★★   |   | ✓ |   | ✓ |
-| 10 | ★★   |   | ✓ | ✓ |   |
-| 11 | ★    |   |   | ✓ | ✓ |
-| 12 | ★    |   | ✓ |   |   |
-
-*Anchors present with no qualifying secondary or tertiary operators are excluded from the ranked index.*
-
-## Quality tiers and distribution
-
-The twelve ranks are grouped into five quality ranks to provide a high-level view of market quality.
-
-**Quality rank note.** This article's five-rank scale (Rank 1 = highest, Rank 5 = lowest) describes the quality index rendered on the map — a distinct, named-anchor combination matrix, not the platform's cluster tier system. Individual co-location clusters within a Regional Market are separately classified by the current tier system — **Regional**, **District**, **Local**, **Fringe** — described in [[co-location-tier-nomenclature|tier nomenclature]] and [[gis-cluster-scoring-glossary|the cluster scoring glossary]]. The five-rank quality scale and the four-tier cluster classification measure different things: the quality rank scores commercial density across the full 12-rank index; the tier classifies a cluster's anchor composition and catchment rank against fixed gates. They are not interchangeable, and neither is a numbered "T1/T2/T3" scale — that numeric scheme was retired platform-wide on 2026-05-16 and does not describe any current cluster.
-
-### ★★★★★ Rank 1 — Full co-location
-*Rank 1 only. All four categories present.*
-The highest designation. The anchor operates within the secondary catchment radius of both a hardware superstore and a warehouse club, and within the wider tertiary radius of both a healthcare facility and a university. This indicates that all four independent capital-selection processes have converged on the same node. This is the rarest and most selective rank in the index.
-
-### ★★★★ Rank 2 — Strong co-location
-*Ranks 2–3. Three categories present.*
-The anchor is paired with both a hardware superstore and a warehouse club, plus one of the two tertiary categories. The commercial co-location is structurally complete; one institutional dimension is absent. This rank remains uncommon, though less rare than Rank 1.
-
-### ★★★ Rank 3 — Partial co-location
-*Ranks 4–7. Two categories present.*
-The commercial baseline for the index. Includes the Rank 4 combination (anchor + hardware + warehouse) as well as single-secondary combinations supported by tertiary institutional presence. This rank accounts for the largest share of qualifying sites.
-
-### ★★ Rank 4 — Limited co-location
-*Ranks 8–10. One category present.*
-The anchor has one major co-located secondary or tertiary support. Site quality in this tier is highly market-dependent.
-
-### ★ Rank 5 — Anchor only
-*Ranks 11–12. Tertiary-only or Warehouse-only.*
-The hypermarket anchor is present, but the primary commercial co-location secondaries (hardware and/or warehouse club) are mostly absent. These sites represent the floor of the index.
-
-## Calibration and scarcity
-
-The secondary catchment radius is a tunable parameter that determines index density. The platform periodically recalibrates this radius to preserve index scarcity, ensuring the highest tier remains a small minority of all anchor sites rather than growing to include a large share of the index.
-
-## Market adaptation
-
-Each of the eight retail markets uses a dedicated region configuration that maps local operators to the canonical anchor and secondary roles. This ensures the algorithm applies consistent structural logic across jurisdictions where different brands fill equivalent commercial functions (e.g., Costco in Canada, Makro in Europe).
-
-Integration of an aviation facility dataset into tertiary scoring is a planned target for future iterations of the ranking matrix. [ni-51-102] [osc-sn-51-721]
+Clusters that share a tier and a country are ordered by three criteria, applied in sequence: store count within 3.0 km, then primary catchment population, both highest first. The cluster identifier breaks any remaining tie, guaranteeing a deterministic order.
 
 ## Provenance
-- **Verification:** Rank distribution and matrix logic confirmed against the GIS platform build configuration.
-- **Forward-looking disclosure:** Aviation dataset integration into tertiary scoring is an intended target, labeled per [ni-51-102].
+
+- **Verification:** Ranking mechanics confirmed against the GIS platform's V3 scoring methodology.
+
+## Data Sources
+
+Map and location data © [OpenStreetMap contributors](https://www.openstreetmap.org/copyright) / [ODbL](https://opendatacommons.org/licenses/odbl/).
 
 ## See also
-*   [[co-location-methodology]]
-*   [[co-location-intelligence-overview]]
-*   [[co-location-anchors]]
+
+- [[co-location-methodology]]
+- [[co-location-intelligence-overview]]
+- [[catchment-ranking-methodology-v3]]
 
 ## References
 
 - [Big-box store](https://en.wikipedia.org/wiki/Big-box_store) — Wikipedia, accessed 2026-06-14
 - [DBSCAN](https://en.wikipedia.org/wiki/DBSCAN) — Wikipedia, accessed 2026-06-14
-
-## Data Sources
-
-Map and location data © [OpenStreetMap contributors](https://www.openstreetmap.org/copyright) / [ODbL](https://opendatacommons.org/licenses/odbl/).
 
 ---
 

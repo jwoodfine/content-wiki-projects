@@ -12,7 +12,7 @@ index_scope: site-selection
 status: active
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-24
+last_edited: 2026-08-25
 editor: pointsav-engineering
 paired_with: _index.es.md
 ---
@@ -63,7 +63,7 @@ How We Choose Sites covers the method behind "near Power Centres" — the discip
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: scoring-and-clustering -->
 - [[co-location-cluster-formation]] — The pipeline step that converts each qualifying anchor store into a candidate co-location cluster; overlapping candidates from a single trade area are resolved by deduplication before ranking inputs are aggregated.
 - [[cluster-deduplication-threshold]] — The co-location index pipeline deduplicates overlapping clusters that represent the same commercial zone using a fixed, tightly-set proximity threshold, retaining the cluster with the higher secondary operator count. An earlier, substantially wider threshold was found to suppress legitimately distinct commercial nodes in dense suburban corridors.
-- [[co-location-ranking-system]] — Deterministic 12-rank scoring algorithm evaluating retail co-location sites by named-anchor convergence across defined catchment radii.
+- [[co-location-ranking-system]] — The deterministic mechanics behind cluster ranking — country-relative percentile axes, the overlap test between neighbouring clusters, and the tiebreak order applied within a tier.
 - [[co-location-tiering-scoring]] — Tier scoring for co-location clusters — what the T1–T3 composition tiers measure, the DBSCAN parameters that form clusters, and what the tiers do not claim.
 - [[catchment-ranking-methodology-v3]] — The V3 tier-assignment methodology assigns each co-location cluster to one of four tiers using binary predicate gates — composition, national catchment rank, civic classification, and spatial overlap — replacing the prior composite-score system introduced in Sprint 17 (May 2026).
 - [[geographic-co-location-methodology]] — Five-degree cluster system scoring retail node proximity from Primary, Secondary, and Tertiary target co-occurrence to rank development sites by anchor strength.

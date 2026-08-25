@@ -8,7 +8,7 @@ index_group: data-overview-and-sources
 type: topic
 content_type: topic
 status: active
-last_edited: 2026-06-20
+last_edited: 2026-08-25
 editor: pointsav-engineering
 short_description: "The POI data schema defines record structures for location data ingested from OpenStreetMap and Overture Maps Foundation, normalized into a unified JSONL format before cluster analysis. Wikidata QIDs serve as the primary chain identifier, and parent-child sub-location models handle co-branded ancillary services."
 cites:
@@ -91,6 +91,6 @@ Service-business records are re-ingested per chain on demand — typically when 
 
 ## See also
 
-- location-intelligence-platform — platform overview, Named-Anchor Model, and V2 scoring tiers
+- location-intelligence-platform — platform overview and V2 scoring tiers
 - location-intelligence-substrate — flat-file GIS architecture and storage layer
 - the ingestion pipeline — the GIS service application that operates the ingest pipeline described in this article
