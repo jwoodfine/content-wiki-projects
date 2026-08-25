@@ -3,7 +3,6 @@ schema: foundry-doc-v1
 content_type: page
 title: "Woodfine Capital Projects — Co-location Intelligence Platform"
 slug: index
-short_description: "MCorp's retail co-location intelligence platform — spatial methodologies, ranking algorithms, and regional deployment indices spanning North America and Europe, with 7,567 co-location clusters scored across 24 countries as of the most recent full processing run (2026-08-06)."
 category: root
 status: active
 bcsc_class: current-fact
