@@ -3,6 +3,7 @@ schema: foundry-doc-v1
 content_type: page
 title: "Woodfine Capital Projects — Co-location Intelligence Platform"
 slug: index
+short_description: "The buildings-and-places record for Woodfine Capital Projects Inc.: six development classes, the design system behind them, and the site-selection method built on established retail anchors. Articles span regional markets across North America and Europe, the rollout programme, and the maps and data behind the analysis."
 category: root
 status: active
 bcsc_class: current-fact
