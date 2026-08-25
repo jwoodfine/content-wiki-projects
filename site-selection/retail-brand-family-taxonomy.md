@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-11
+last_edited: 2026-08-25
 editor: pointsav-engineering
 short_description: "Every retail location on the co-location map carries a brand family classification that determines how the location is displayed and, for some families, whether it contributes to cluster scoring. The taxonomy was designed around the anchor types used in the co-location methodology while remaining extensible to the full range of ingested operators."
 paired_with: site-selection/retail-brand-family-taxonomy.es.md
@@ -27,7 +27,7 @@ Every retail location on the [[co-location-methodology|co-location]] map carries
 
 ### Hypermarket
 
-Large-format general merchandise and grocery retailers operating facilities of 80,000 square feet or more. Includes Walmart Supercenter, Target, Carrefour Hypermarket, IKEA, and equivalents across [[atlas-tier-index-north-america|North American]] and [[atlas-tier-index-europe|European]] markets. Hypermarket stores are the primary anchor type in the co-location methodology — cluster formation requires one Hypermarket anchor. Displayed with a navy badge.
+Large-format general merchandise and grocery retailers operating facilities of 80,000 square feet or more. Includes Walmart Supercenter, Target, Carrefour Hypermarket, IKEA, and equivalents across North American and European markets covered by the [[co-location-tier-system|co-location tier system]]. Hypermarket stores are the primary anchor type in the co-location methodology — cluster formation requires one Hypermarket anchor. Displayed with a navy badge.
 
 IKEA belongs to a separate lifestyle-anchor class in the live scoring pipeline, kept
 structurally apart from Hypermarket so it can independently satisfy a qualifying-anchor

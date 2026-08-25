@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-11
+last_edited: 2026-08-25
 editor: pointsav-engineering
 short_description: "The co-location index pipeline deduplicates overlapping clusters that represent the same commercial zone using a fixed, tightly-set proximity threshold, retaining the cluster with the higher secondary operator count. An earlier, substantially wider threshold was found to suppress legitimately distinct commercial nodes in dense suburban corridors."
 paired_with: site-selection/cluster-deduplication-threshold.es.md
@@ -43,4 +43,4 @@ After applying the tightened threshold, deduplication removes a meaningful share
 ## See also
 
 - [[co-location-methodology]]
-- [[atlas-tier-index-north-america]]
+- [[co-location-tier-system]]

@@ -556,4 +556,4 @@ For full methodology, see [[about-regional-markets-system|Regional Markets Intel
 
 - [[about-regional-markets-system|Regional Markets Intelligence System]]
 - [[co-location-methodology|Co-location Methodology]]
-- [[atlas-tier-index-europe|Tier Index — Europe]]
+- [[co-location-tier-system|Co-location Tier System]]

@@ -11,16 +11,16 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-05-25
+last_edited: 2026-08-25
 editor: pointsav-engineering
-short_description: "Índice clasificado de nodos de convergencia comercial de alto crecimiento en Polonia, donde los anclas IKEA se agrupan con Makro, Leroy Merlin, Auchan e infraestructura cívica."
+short_description: "Índice de nodos de convergencia comercial de alto crecimiento en Polonia, donde las anclas IKEA se agrupan con Makro, Leroy Merlin, Auchan e infraestructura cívica."
 paired_with: markets/atlas-co-location-index-poland.md
 cites:
   - ni-51-102
   - osc-sn-51-721
 ---
 
-El Índice de Co-ubicación de Polonia clasifica los nodos comerciales del mercado polaco según la [[co-location-methodology]] y el [[co-location-ranking-system|sistema de clasificación determinista]]. Los sitios se evalúan donde IKEA opera como [[co-location-anchors|ancla]] Objetivo Primario, puntuados frente a operadores secundarios (Makro, Leroy Merlin) e infraestructura cívica terciaria dentro de los radios de captación definidos. Polonia es uno de los cuatro mercados cubiertos en el [[atlas-tier-index-europe|índice europeo de niveles]].
+El Índice de Co-ubicación de Polonia evalúa los nodos comerciales del mercado polaco según la [[co-location-methodology]] y el [[co-location-ranking-system|sistema de clasificación determinista]]. Los sitios se evalúan donde IKEA opera como [[co-location-anchors|ancla]] Objetivo Primario, frente a operadores secundarios (Makro, Leroy Merlin) e infraestructura cívica terciaria dentro de los radios de captación definidos. Polonia es uno de los cuatro mercados cubiertos en el [[co-location-tier-system|sistema de niveles de co-ubicación]].
 
 ## Red de Anclas
 
@@ -28,16 +28,16 @@ IKEA opera aproximadamente 12 tiendas en Polonia, con presencia en Varsovia (dos
 
 ## Densidad de Convergencia en Europa Central
 
-La expansión comercial de Polonia durante la década de 2010 y 2020 generó una alta densidad de convergencia co-ubicada, especialmente en ciudades de tamaño medio (200.000–600.000 habitantes) donde una sola zona comercial acoge múltiples anclas de gran formato. Ciudades como Wrocław, Poznań, Gdańsk y Cracovia combinan presencia IKEA con alta densidad de operadores secundarios y sólida infraestructura cívica terciaria, generando condiciones fiables de Nivel 4+. El índice completo cubre más de 15 ubicaciones de ancla evaluadas.
+La expansión comercial de Polonia durante la década de 2010 y 2020 generó una alta densidad de convergencia co-ubicada, especialmente en ciudades de tamaño medio (200.000–600.000 habitantes) donde una sola zona comercial acoge múltiples anclas de gran formato. Ciudades como Wrocław, Poznań, Gdańsk y Cracovia combinan presencia IKEA con alta densidad de operadores secundarios y sólida infraestructura cívica terciaria, generando condiciones fiables de nivel Distrital.
 
-## Nivel 4+ (★★★★+) — Nodos Comerciales de Alta Validación
+## Distrital — nodos comerciales de alta validación
 
-Una calificación de Nivel 4+ en Polonia indica un nodo donde la presencia del ancla primaria cuenta con el respaldo de operadores secundarios e infraestructura cívica esencial dentro de los radios de captación requeridos. La convergencia de operadores en todas las categorías confirma la solidez comercial del sitio.
+Un nodo de nivel Distrital en Polonia combina el ancla principal IKEA con un ancla secundaria de ferretería o almacén — Leroy Merlin, Makro, Castorama y OBI son los operadores que con más frecuencia satisfacen esta compuerta —, población de captación en el cuartil superior, y acceso hospitalario dentro del anillo cívico. La convergencia de operadores en todas las categorías confirma la solidez comercial del sitio.
 
-*El índice de sitios clasificados para Polonia está disponible en [gis.woodfinegroup.com](https://gis.woodfinegroup.com). El índice completo cubre más de 15 ubicaciones de ancla evaluadas.*
+*El índice de sitios para Polonia, clasificado bajo el sistema actual de niveles, está disponible en [gis.woodfinegroup.com](https://gis.woodfinegroup.com).*
 
 ## Ver También
-*   [[atlas-tier-index-europe]]
+*   [[co-location-tier-system]]
 *   [[co-location-methodology]]
 *   [[co-location-ranking-system]]
 

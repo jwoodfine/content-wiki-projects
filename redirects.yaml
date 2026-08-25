@@ -428,3 +428,13 @@ redirects:
     to: /category/industry
   - from: /interest-rate-transmission
     to: /category/industry
+
+  # Consolidation, 2026-08-25: the two continent-level tier-index pages carried the
+  # deprecated Tier 5 star-rating scheme and unresolved T1/T2/T3 "Valid/Hub/Apex"
+  # correction flags (2026-08-02), never fully reconciled to the real V3 predicate-gate
+  # tier system (Regional/District/Local/Fringe). Merged into one article explaining the
+  # system once, with a single application section covering both continents.
+  - from: /markets/atlas-tier-index-north-america
+    to: /markets/co-location-tier-system
+  - from: /markets/atlas-tier-index-europe
+    to: /markets/co-location-tier-system

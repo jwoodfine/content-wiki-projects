@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-24
+last_edited: 2026-08-25
 editor: pointsav-engineering
 short_description: "The four tier labels — Regional, District, Local, Fringe — visible on the co-location map follow the International Council of Shopping Centres retail property hierarchy, providing a nomenclature that carries meaning independently of the platform itself. Sprint 17 (May 2026) introduced both the ICSC labels and the V3 pure-predicate tier engine."
 paired_with: site-selection/co-location-tier-nomenclature.es.md
@@ -20,7 +20,7 @@ cites:
   - osc-sn-51-721
 ---
 
-The [[co-location-methodology|co-location index]] assigns each cluster to one of four tiers based on the categorical composition of its [[co-location-anchors|anchor]] and secondary stores and on the cluster's position within its national population catchment. The tier labels visible on the map and in the inspector panel — **Regional**, **District**, **Local**, **Fringe** — follow the International Council of Shopping Centres (ICSC) retail property hierarchy, which is used by property developers, planners, and retail analysts across [[atlas-tier-index-north-america|North America]] and [[atlas-tier-index-europe|Europe]]. The qualifying gates are defined in the [[catchment-ranking-methodology-v3|V3 catchment ranking methodology]] and the underlying scoring logic in the [[co-location-ranking-system|co-location ranking system]].
+The [[co-location-methodology|co-location index]] assigns each cluster to one of four tiers based on the categorical composition of its [[co-location-anchors|anchor]] and secondary stores and on the cluster's position within its national population catchment. The tier labels visible on the map and in the inspector panel — **Regional**, **District**, **Local**, **Fringe** — follow the International Council of Shopping Centres (ICSC) retail property hierarchy, which is used by property developers, planners, and retail analysts across the [[co-location-tier-system|North American and European markets]] the platform covers. The qualifying gates are defined in the [[catchment-ranking-methodology-v3|V3 catchment ranking methodology]] and the underlying scoring logic in the [[co-location-ranking-system|co-location ranking system]].
 
 ## What Each Tier Means
 

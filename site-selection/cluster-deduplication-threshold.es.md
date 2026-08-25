@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-05-25
+last_edited: 2026-08-25
 editor: pointsav-engineering
 short_description: "El proceso de deduplicación del índice de co-localización elimina los clústeres superpuestos que representan la misma zona comercial utilizando un umbral de proximidad fijo y estrecho, conservando el clúster con mayor recuento de operadores secundarios. Un umbral previo, sustancialmente más amplio, suprimía nodos comerciales legítimamente distintos en corredores suburbanos de alta densidad."
 paired_with: site-selection/cluster-deduplication-threshold.md
@@ -43,4 +43,4 @@ Tras aplicar el umbral ajustado, la deduplicación elimina una proporción signi
 ## Véase también
 
 - [[co-location-methodology]]
-- [[atlas-tier-index-north-america]]
+- [[co-location-tier-system]]

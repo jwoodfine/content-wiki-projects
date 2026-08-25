@@ -11,16 +11,16 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-11
+last_edited: 2026-08-25
 editor: pointsav-engineering
-short_description: "Ranked index of commercial convergence sites across Sweden, Norway, Denmark, Finland, and Iceland, anchored by IKEA with Nordic secondary operators."
+short_description: "Index of commercial convergence sites across Sweden, Norway, Denmark, Finland, and Iceland, anchored by IKEA with Nordic secondary operators."
 paired_with: markets/atlas-co-location-index-nordics.es.md
 cites:
   - ni-51-102
   - osc-sn-51-721
 ---
 
-The Nordics Co-location Index ranks commercial nodes across Northern Europe using the [[co-location-methodology]] and the [[co-location-ranking-system|deterministic ranking system]]. The index evaluates sites where IKEA operates as the Primary Target [[co-location-anchors|anchor]], scored against secondary and tertiary infrastructure within defined catchment radii. The Nordics are one of the four markets covered in the [[atlas-tier-index-europe|European tier index]]; recent coverage expansions are documented in [[nordic-uk-coverage|Nordic and UK coverage expansion]].
+The Nordics Co-location Index evaluates commercial nodes across Northern Europe using the [[co-location-methodology]] and the [[co-location-ranking-system|deterministic ranking system]]. The index evaluates sites where IKEA operates as the Primary Target [[co-location-anchors|anchor]], against secondary and tertiary infrastructure within defined catchment radii. The Nordics are one of the four markets covered in the [[co-location-tier-system|co-location tier system]]; recent coverage expansions are documented in [[nordic-uk-coverage|Nordic and UK coverage expansion]].
 
 ## Anchor Network
 
@@ -31,19 +31,19 @@ too large a gap (~25%) to be rounding. **Flagged, not resolved.** Secondary anch
 
 ## Nordic market characteristics
 
-The Nordic region's smaller geographic spread means fewer distinct co-location nodes compared to larger markets, but each validated node benefits from the density of institutional infrastructure typical of Nordic urban planning. Nordic cities tend to site large-format retail, civic hospitals, and university campuses within the same suburban zone. The full ranked index covers 30+ evaluated anchor locations across the five countries.
+The Nordic region's smaller geographic spread means fewer distinct co-location nodes compared to larger markets, but each qualifying node benefits from the density of institutional infrastructure typical of Nordic urban planning. Nordic cities tend to site large-format retail, civic hospitals, and university campuses within the same suburban zone.
 
-## Tier 4+ (★★★★+) — Premier Nordic hubs
+## District — premier Nordic hubs
 
-A Tier 4+ designation indicates a node where primary anchor presence is supported by at least one secondary operator and essential civic infrastructure within the required catchment radii. These sites represent the strongest validated commercial environments the Nordic dataset currently identifies.
+A District-tier node pairs the IKEA primary anchor with at least one hardware or warehouse secondary — Bauhaus, Biltema, Jula, and Stark are the operators that most often satisfy this gate, by country — top-quartile catchment population, and hospital access within the civic ring. These sites represent the most consistently validated commercial environments the Nordic dataset currently identifies.
 
-*The ranked site index for the Nordics is available at [gis.woodfinegroup.com](https://gis.woodfinegroup.com). The full index covers 30+ evaluated anchor locations.*
+*The site index for the Nordics, classified under the current tier system, is available at [gis.woodfinegroup.com](https://gis.woodfinegroup.com).*
 
 ## Provenance
 - **Verification:** Anchor network data sourced from OpenStreetMap records as of May 2026.
 
 ## See also
-*   [[atlas-tier-index-europe]]
+*   [[co-location-tier-system]]
 *   [[co-location-methodology]]
 *   [[co-location-ranking-system]]
 

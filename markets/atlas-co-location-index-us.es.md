@@ -11,9 +11,9 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-05-25
+last_edited: 2026-08-25
 editor: pointsav-engineering
-short_description: "Índice clasificado de los principales nodos de co-ubicación en Estados Unidos, evaluado por la metodología de ancla nombrada en ubicaciones ancla Walmart Supercentre."
+short_description: "Índice de los principales nodos de co-ubicación en Estados Unidos, evaluado por la metodología de ancla nombrada en ubicaciones ancla Walmart Supercentre."
 
 paired_with: markets/atlas-co-location-index-us.md
 cites:
@@ -21,14 +21,14 @@ cites:
   - osc-sn-51-721
 ---
 
-El Índice de Co-ubicación de los Estados Unidos clasifica los nodos comerciales del mercado estadounidense según la [[co-location-methodology]] y operacionalizado por el [[co-location-ranking-system|sistema de clasificación determinista]]. Los sitios se evalúan donde Walmart Supercentre opera como [[co-location-anchors|ancla]] Objetivo Primario, puntuados frente a operadores secundarios (Home Depot, Costco) e infraestructura cívica terciaria dentro de los radios de captación definidos. Estados Unidos es uno de los tres mercados cubiertos en el [[atlas-tier-index-north-america|índice de niveles de América del Norte]].
+El Índice de Co-ubicación de los Estados Unidos evalúa los nodos comerciales del mercado estadounidense según la [[co-location-methodology]] y operacionalizado por el [[co-location-ranking-system|sistema de clasificación determinista]]. Los sitios se evalúan donde Walmart Supercentre opera como [[co-location-anchors|ancla]] Objetivo Primario, frente a operadores secundarios (Home Depot, Costco) e infraestructura cívica terciaria dentro de los radios de captación definidos. Estados Unidos es uno de los tres mercados cubiertos en el [[co-location-tier-system|sistema de niveles de co-ubicación]].
 
-## Nivel 5 (★★★★★) — Co-ubicación Completa
+## Regional — el nivel más alto
 
-La designación Nivel 5 en los Estados Unidos es la validación más alta de la matriz: Objetivo Primario (Walmart Supercentre), anclas secundarias (Home Depot, Costco) e infraestructura cívica terciaria esencial — un hospital importante y una universidad — todos presentes dentro de los radios de captación requeridos. El conjunto de datos estadounidense contiene 85 sitios de Nivel 5 al 2 de mayo de 2026, lo que representa el 2,4% de las ubicaciones de ancla evaluadas.
+Un sitio de nivel Regional supera las mismas compuertas predicativas que cualquier clúster Regional en toda la plataforma: un ancla de formato hipermercado (Walmart Supercentre) combinada con un ancla de almacén o de estilo de vida, población de captación en el decil superior nacional, y un hospital clasificado como regional dentro del anillo cívico. Home Depot y Costco son las anclas secundarias que con más frecuencia satisfacen la compuerta de composición junto a Walmart Supercentre. Regional es el nivel más escaso del conjunto de datos estadounidense; los recuentos actuales se publican en vivo en la plataforma GIS en lugar de repetirse aquí.
 
 ## Ver También
-*   [[atlas-tier-index-north-america]]
+*   [[co-location-tier-system]]
 *   [[co-location-methodology]]
 *   [[co-location-ranking-system]]
 

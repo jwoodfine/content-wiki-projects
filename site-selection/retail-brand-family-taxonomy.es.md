@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-05-25
+last_edited: 2026-08-25
 editor: pointsav-engineering
 short_description: "Cada ubicación minorista en el mapa de co-localización lleva una clasificación de familia de marca que determina cómo se muestra la ubicación y, para algunas familias, si contribuye a la puntuación del clúster. La taxonomía fue diseñada en torno a los tipos de ancla utilizados en la metodología de co-localización, y es extensible a la gama completa de operadores ingestados."
 paired_with: site-selection/retail-brand-family-taxonomy.md
@@ -27,7 +27,7 @@ Cada ubicación minorista en el mapa de [[co-location-methodology|co-localizaci�
 
 ### Hipermercado
 
-Minoristas de gran formato de mercancía general y víveres que operan instalaciones de 80.000 pies cuadrados o más. Incluye Walmart Supercenter, Target, Carrefour Hypermarket, IKEA y equivalentes en los mercados de [[atlas-tier-index-north-america|América del Norte]] y [[atlas-tier-index-europe|Europa]]. Las tiendas de tipo Hipermercado son el tipo de ancla principal en la metodología de co-localización — la formación de clústeres requiere un ancla Hipermercado. Se muestra con una insignia azul marino.
+Minoristas de gran formato de mercancía general y víveres que operan instalaciones de 80.000 pies cuadrados o más. Incluye Walmart Supercenter, Target, Carrefour Hypermarket, IKEA y equivalentes en los mercados de América del Norte y Europa cubiertos por el [[co-location-tier-system|sistema de niveles de co-ubicación]]. Las tiendas de tipo Hipermercado son el tipo de ancla principal en la metodología de co-localización — la formación de clústeres requiere un ancla Hipermercado. Se muestra con una insignia azul marino.
 
 ### Ferretería
 

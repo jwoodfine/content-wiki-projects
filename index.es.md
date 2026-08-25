@@ -9,7 +9,7 @@ paired_with: index.md
 category: root
 status: active
 bcsc_class: current-fact
-last_edited: 2026-08-24
+last_edited: 2026-08-25
 editor: pointsav-engineering
 ---
 
@@ -30,8 +30,8 @@ propios procesos de selección de sitios.
 La plataforma de inteligencia de co-localización ha evaluado 6.493 clusters a partir de 229.054
 ubicaciones minoristas en 8 mercados que abarcan 13 países. Esta enciclopedia es la referencia
 metodológica para el [[co-location-ranking-system|algoritmo de clasificación]], los estándares
-de [[asset-architecture-standard|arquitectura de activos]] y los índices de despliegue regional
-para [[atlas-tier-index-north-america|América del Norte]] y [[atlas-tier-index-europe|Europa]].
+de [[asset-architecture-standard|arquitectura de activos]] y el [[co-location-tier-system|sistema
+de niveles de co-ubicación]] aplicado en América del Norte y Europa.
 La plataforma está disponible en gis.woodfinegroup.com.
 
 Los artículos están organizados en seis áreas de conocimiento: metodología de co-localización,

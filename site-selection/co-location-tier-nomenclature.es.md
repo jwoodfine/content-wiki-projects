@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-24
+last_edited: 2026-08-25
 editor: pointsav-engineering
 short_description: "Las cuatro etiquetas de nivel — Regional, Distrital, Local, Marginal — visibles en el mapa de co-localización siguen la jerarquía de propiedades comerciales del Consejo Internacional de Centros Comerciales (ICSC), una nomenclatura internacionalmente reconocida que lleva significado propio sin necesidad de contexto específico de la plataforma."
 paired_with: site-selection/co-location-tier-nomenclature.md
@@ -20,7 +20,7 @@ cites:
   - osc-sn-51-721
 ---
 
-El [[co-location-methodology|índice de co-localización]] asigna cada clúster a uno de cuatro niveles en función de la composición categórica de sus [[co-location-anchors|anclas]] y tiendas secundarias, y de la posición del clúster dentro de la captación nacional de población. Las etiquetas visibles en el mapa y en el panel inspector — **Regional**, **Distrital**, **Local**, **Marginal** — siguen la jerarquía de propiedades del Consejo Internacional de Centros Comerciales (ICSC), utilizada por promotores inmobiliarios, planificadores y analistas de retail en [[atlas-tier-index-north-america|América del Norte]] y [[atlas-tier-index-europe|Europa]]. Las compuertas de calificación se definen en la [[catchment-ranking-methodology-v3|metodología V3 de clasificación de captación]] y la lógica de puntuación subyacente en el [[co-location-ranking-system|sistema de clasificación de co-ubicación]].
+El [[co-location-methodology|índice de co-localización]] asigna cada clúster a uno de cuatro niveles en función de la composición categórica de sus [[co-location-anchors|anclas]] y tiendas secundarias, y de la posición del clúster dentro de la captación nacional de población. Las etiquetas visibles en el mapa y en el panel inspector — **Regional**, **Distrital**, **Local**, **Marginal** — siguen la jerarquía de propiedades del Consejo Internacional de Centros Comerciales (ICSC), utilizada por promotores inmobiliarios, planificadores y analistas de retail en los mercados de [[co-location-tier-system|América del Norte y Europa]] que cubre la plataforma. Las compuertas de calificación se definen en la [[catchment-ranking-methodology-v3|metodología V3 de clasificación de captación]] y la lógica de puntuación subyacente en el [[co-location-ranking-system|sistema de clasificación de co-ubicación]].
 
 ## Qué significa cada nivel
 

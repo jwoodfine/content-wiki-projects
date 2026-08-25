@@ -549,4 +549,4 @@ Para la metodología completa, véase [[about-regional-markets-system|Sistema de
 
 - [[about-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]]
 - [[co-location-methodology|Metodología de Co-localización]]
-- [[atlas-tier-index-europe|Índice de Niveles de Co-ubicación: Europa]]
+- [[co-location-tier-system|Sistema de Niveles de Co-ubicación]]

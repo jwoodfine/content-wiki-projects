@@ -7,7 +7,7 @@ short_description: "MCorp's retail co-location intelligence platform — spatial
 category: root
 status: active
 bcsc_class: current-fact
-last_edited: 2026-08-24
+last_edited: 2026-08-25
 editor: pointsav-engineering
 ---
 
@@ -27,8 +27,8 @@ superstores, and general merchandise chains in their own site-selection processe
 The co-location intelligence platform has scored 6,493 clusters from 229,054 retail locations
 across 8 markets spanning 13 countries. This encyclopedia is the methodology reference for
 the [[co-location-ranking-system|ranking algorithm]], [[asset-architecture-standard|asset
-architecture]] standards, and regional deployment indices for
-[[atlas-tier-index-north-america|North America]] and [[atlas-tier-index-europe|Europe]].
+architecture]] standards, and the [[co-location-tier-system|co-location tier system]] applied
+across North America and Europe.
 The platform is live at gis.woodfinegroup.com.
 
 Articles are organized into six knowledge areas: co-location methodology, [[architecture|building

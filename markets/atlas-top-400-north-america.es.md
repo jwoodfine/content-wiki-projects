@@ -523,4 +523,4 @@ Para la metodología completa, véase [[about-regional-markets-system|Sistema de
 
 - [[about-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]]
 - [[co-location-methodology|Metodología de Co-localización]]
-- [[atlas-tier-index-north-america|Índice de Niveles — América del Norte]]
+- [[co-location-tier-system|Sistema de Niveles de Co-ubicación]]

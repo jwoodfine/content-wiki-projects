@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-24
+last_edited: 2026-08-25
 editor: pointsav-engineering
 short_description: "How Norway, Sweden, and the United Kingdom entered the co-location intelligence dataset through three Alpha-tier chain promotions in May 2026."
 paired_with: gis/nordic-uk-coverage.es.md
@@ -56,7 +56,7 @@ The B&Q promotion resolves the most significant prior data gap in the UK dataset
 - [[atlas-co-location-index-nordics]] — ranked index of Nordic commercial convergence sites
 - [[co-location-ranking-system]] — the current named-anchor ranking model
 - [[co-location-methodology]] — the linear-geometry scoring model underlying all rankings
-- [[atlas-tier-index-europe]] — the full European tier index
+- [[co-location-tier-system]] — the co-location tier system, including European application
 
 ---
 

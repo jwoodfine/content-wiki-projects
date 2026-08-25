@@ -12,7 +12,7 @@ lang: es
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-24
+last_edited: 2026-08-25
 editor: pointsav-engineering
 short_description: "Cómo Noruega, Suecia y el Reino Unido ingresaron al conjunto de datos de inteligencia de co-ubicación mediante tres promociones de cadenas al nivel Alfa en mayo de 2026."
 paired_with: gis/nordic-uk-coverage.md
@@ -57,4 +57,4 @@ La promoción de B&Q resuelve la brecha de datos más significativa del conjunto
 - [[atlas-co-location-index-nordics]] — índice clasificado de sitios de convergencia comercial en los países nórdicos
 - [[co-location-ranking-system]] — el modelo de clasificación de anclas nominadas actual
 - [[co-location-methodology]] — el modelo de puntuación de geometría lineal en el que se basan todos los índices
-- [[atlas-tier-index-europe]] — el índice europeo de niveles completo
+- [[co-location-tier-system]] — el sistema de niveles de co-ubicación, incluida la aplicación europea

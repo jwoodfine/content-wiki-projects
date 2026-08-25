@@ -11,45 +11,45 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-11
+last_edited: 2026-08-25
 editor: pointsav-engineering
-short_description: "Ranked index of high-value co-location nodes in Canada, evaluating Walmart Supercentre anchor sites by proximity to Costco, Home Depot, and civic infrastructure."
+short_description: "Index of high-value co-location nodes in Canada, evaluating Walmart Supercentre anchor sites by proximity to Costco, Home Depot, and civic infrastructure."
 paired_with: markets/atlas-co-location-index-canada.es.md
 cites:
   - ni-51-102
   - osc-sn-51-721
 ---
 
-This index identifies and ranks high-value commercial nodes within the Canadian market, evaluated according to the [[co-location-methodology]] and operationalised by the [[co-location-ranking-system|deterministic ranking system]]. The list represents the Canadian subset of the [[atlas-tier-index-north-america|North American ranked index]].
+This index identifies high-value commercial nodes within the Canadian market, evaluated according to the [[co-location-methodology]] and operationalised by the [[co-location-ranking-system|deterministic ranking system]]. The list represents the Canadian subset of the [[co-location-tier-system|co-location tier system]].
 
 Sites are evaluated based on the proximity of Secondary [[co-location-anchors|anchors]] (Costco, Home Depot) and Tertiary institutional infrastructure (Healthcare, Higher Education) to the Primary Target anchor (Walmart Supercentre).
 
-## Tier 5 (★★★★★) — Full co-location sites
+## Regional tier — illustrative convergence sites
 
-The following municipalities host nodes that have achieved full commercial convergence, with all primary, secondary, and tertiary anchors present within the required catchment radii.
+The following municipalities illustrate Regional-tier composition: a Walmart Supercentre primary anchor paired with secondary and tertiary anchors within the required catchment radii. Tier assignment is dynamic; current status for any specific site is verified on the live GIS platform, not restated here.
 
-| Rank | Municipality | Province | Primary Anchor | Secondary Coverage (≤3km) | Institutional (≤5km) |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | Grande Prairie | AB | Walmart Supercentre | Home Depot, Costco | Hospital, Regional College |
-| 2 | Milton | ON | Walmart Supercentre | Home Depot, Costco | Hospital, College Campus |
-| 3 | Dartmouth | NS | Walmart Supercentre | Home Depot, Costco | General Hospital, College |
-| 4 | South Edmonton | AB | Walmart Supercentre | Home Depot, Costco | Medical Centre, University |
-| 5 | Saskatoon | SK | Walmart Supercentre | Home Depot, Costco | Hospital, University |
-| 6 | Kitchener | ON | Walmart Supercentre | Home Depot, Costco | Hospital, College |
-| 7 | Calgary (South) | AB | Walmart Supercentre | Home Depot, Costco | Health Centre, University |
-| 8 | Moncton | NB | Walmart Supercentre | Home Depot, Costco | City Hospital, College |
-| 9 | Abbotsford | BC | Walmart Supercentre | Home Depot, Costco | Regional Hospital, University |
-| 10 | Guelph | ON | Walmart Supercentre | Home Depot, Costco | General Hospital, University |
-| 11 | Red Deer | AB | Walmart Supercentre | Home Depot, Costco | Hospital, College |
-| 12 | Oshawa | ON | Walmart Supercentre | Home Depot, Costco | Hospital, University |
+| Municipality | Province | Primary Anchor | Secondary Coverage (≤3km) | Institutional (≤5km) |
+| :--- | :--- | :--- | :--- | :--- |
+| Grande Prairie | AB | Walmart Supercentre | Home Depot, Costco | Hospital, Regional College |
+| Milton | ON | Walmart Supercentre | Home Depot, Costco | Hospital, College Campus |
+| Dartmouth | NS | Walmart Supercentre | Home Depot, Costco | General Hospital, College |
+| South Edmonton | AB | Walmart Supercentre | Home Depot, Costco | Medical Centre, University |
+| Saskatoon | SK | Walmart Supercentre | Home Depot, Costco | Hospital, University |
+| Kitchener | ON | Walmart Supercentre | Home Depot, Costco | Hospital, College |
+| Calgary (South) | AB | Walmart Supercentre | Home Depot, Costco | Health Centre, University |
+| Moncton | NB | Walmart Supercentre | Home Depot, Costco | City Hospital, College |
+| Abbotsford | BC | Walmart Supercentre | Home Depot, Costco | Regional Hospital, University |
+| Guelph | ON | Walmart Supercentre | Home Depot, Costco | General Hospital, University |
+| Red Deer | AB | Walmart Supercentre | Home Depot, Costco | Hospital, College |
+| Oshawa | ON | Walmart Supercentre | Home Depot, Costco | Hospital, University |
 
-*Note: Rank is determined by the specific proximity distances within the matrix. The complete index of all 400+ Canadian anchor sites, including Tier 1 through Tier 4 rankings, is available via the [gis.woodfinegroup.com](https://gis.woodfinegroup.com) platform.*
+*Note: The complete Canadian index, classified under the current four-tier system (Regional, District, Local, Fringe), is published via the [gis.woodfinegroup.com](https://gis.woodfinegroup.com) platform.*
 
 ## Provenance
-- **Verification:** Municipal rankings and anchor coverage verified against GIS platform build results as of 2 May 2026.
+- **Verification:** Municipal listings and anchor coverage verified against GIS platform build results as of 2 May 2026.
 
 ## See also
-*   [[atlas-tier-index-north-america]]
+*   [[co-location-tier-system]]
 *   [[co-location-methodology]]
 *   [[co-location-ranking-system]]
 

@@ -12,7 +12,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-07-16
+last_edited: 2026-08-25
 editor: editorial
 es_status: complete
 short_description: "Análisis geográfico sistemático que identifica y clasifica sitios minoristas donde las categorías de gran formato convergen dentro de radios de captación definidos."
@@ -61,7 +61,7 @@ La plataforma integra tres fuentes de datos primarias para garantizar un anális
 
 ## Índice de sitios y niveles de calidad
 
-El conjunto de datos actual identifica **2.738 sitios de co-ubicación clasificados** a nivel global: 2.488 en [[atlas-tier-index-north-america|América del Norte]] y 250 en [[atlas-tier-index-europe|Europa]]. Los sitios se clasifican mediante una matriz determinista que evalúa la proximidad y la categoría de los anclas secundarias en relación con el ancla principal de hipermercado.
+El conjunto de datos actual identifica **2.738 sitios de co-ubicación clasificados** a nivel global: 2.488 en América del Norte y 250 en Europa, ambos cubiertos por el [[co-location-tier-system|sistema de niveles de co-ubicación]]. Los sitios se clasifican mediante una matriz determinista que evalúa la proximidad y la categoría de los anclas secundarias en relación con el ancla principal de hipermercado.
 
 | Nivel | Descripción | Recuento NA | Recuento UE |
 |-------|-------------|-------------|-------------|
@@ -86,7 +86,7 @@ La plataforma se actualiza cuando se incorporan nuevos datos de cadenas o cuando
 ## Ver también
 *   [[co-location-methodology]]
 *   [[co-location-ranking-system]]
-*   [[atlas-tier-index-north-america]]
+*   [[co-location-tier-system]]
 
 ## Referencias
 

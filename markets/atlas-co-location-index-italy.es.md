@@ -11,16 +11,16 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-05-25
+last_edited: 2026-08-25
 editor: pointsav-engineering
-short_description: "Índice clasificado de nodos de co-ubicación de grado institucional en Italia, centrado en ubicaciones ancla IKEA con convergencia secundaria de Leroy Merlin y Makro."
+short_description: "Índice de nodos de co-ubicación de grado institucional en Italia, centrado en ubicaciones ancla IKEA con convergencia secundaria de Leroy Merlin y Makro."
 paired_with: markets/atlas-co-location-index-italy.md
 cites:
   - ni-51-102
   - osc-sn-51-721
 ---
 
-El Índice de Co-ubicación de Italia clasifica los nodos comerciales de la península italiana según la [[co-location-methodology]] y el [[co-location-ranking-system|sistema de clasificación determinista]]. Los sitios se evalúan donde IKEA opera como [[co-location-anchors|ancla]] Objetivo Primario, puntuados frente a operadores secundarios (Leroy Merlin, Makro) e infraestructura cívica terciaria dentro de los radios de captación definidos. Italia es uno de los cuatro mercados cubiertos en el [[atlas-tier-index-europe|índice europeo de niveles]].
+El Índice de Co-ubicación de Italia evalúa los nodos comerciales de la península italiana según la [[co-location-methodology]] y el [[co-location-ranking-system|sistema de clasificación determinista]]. Los sitios se evalúan donde IKEA opera como [[co-location-anchors|ancla]] Objetivo Primario, frente a operadores secundarios (Leroy Merlin, Makro) e infraestructura cívica terciaria dentro de los radios de captación definidos. Italia es uno de los cuatro mercados cubiertos en el [[co-location-tier-system|sistema de niveles de co-ubicación]].
 
 ## Red de Anclas
 
@@ -28,16 +28,16 @@ IKEA opera aproximadamente 22 tiendas en Italia. Las concentraciones más import
 
 ## Patrón de Convergencia Típico
 
-Los nodos italianos de Nivel 4+ se concentran en zonas comerciales periurbanas en torno a las cinco grandes áreas metropolitanas. El nodo validado típico combina una tienda IKEA con un Leroy Merlin o Makro en un radio de 3 km, adyacente a un hospital regional y un campus universitario en un radio de 5 km. Esta agrupación refleja el patrón de desarrollo comercial italiano: el comercio de gran formato se ha concentrado en los corredores de circunvalación de los centros de población, co-ubicado con infraestructura cívica que precedió al desarrollo minorista.
+Los nodos italianos de nivel Distrital se concentran en zonas comerciales periurbanas en torno a las cinco grandes áreas metropolitanas. El nodo calificado típico combina una tienda IKEA con un Leroy Merlin o Makro dentro del radio de captación secundario, con acceso hospitalario dentro del anillo cívico; un campus universitario suele estar presente cerca, pero no constituye por sí mismo una condición de compuerta. Esta agrupación refleja el patrón de desarrollo comercial italiano: el comercio de gran formato se ha concentrado en los corredores de circunvalación de los centros de población, co-ubicado con infraestructura cívica que precedió al desarrollo minorista.
 
-## Nivel 4+ (★★★★+) — Nodos de Grado Institucional
+## Distrital — nodos de grado institucional
 
-Una calificación de Nivel 4+ indica un nodo donde la presencia del ancla primaria cuenta con el respaldo de operadores secundarios e infraestructura cívica esencial dentro de los radios de captación requeridos. Estos sitios representan los entornos comerciales más validados que identifica actualmente el conjunto de datos de Italia.
+Un nodo de nivel Distrital combina el ancla principal IKEA con un ancla secundaria de ferretería o almacén — Leroy Merlin y Makro son los operadores que con más frecuencia satisfacen esta compuerta —, población de captación en el cuartil superior, y acceso hospitalario dentro del anillo cívico. Estos sitios representan los entornos comerciales más consistentemente validados que identifica actualmente el conjunto de datos de Italia.
 
-*El índice de sitios clasificados para Italia está disponible en [gis.woodfinegroup.com](https://gis.woodfinegroup.com).*
+*El índice de sitios para Italia, clasificado bajo el sistema actual de niveles, está disponible en [gis.woodfinegroup.com](https://gis.woodfinegroup.com).*
 
 ## Ver También
-*   [[atlas-tier-index-europe]]
+*   [[co-location-tier-system]]
 *   [[co-location-methodology]]
 *   [[co-location-ranking-system]]
 

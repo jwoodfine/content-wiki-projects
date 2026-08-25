@@ -12,7 +12,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-16
+last_edited: 2026-08-25
 editor: pointsav-engineering
 short_description: "Systematic geographic analysis identifying and ranking retail sites where large-format categories converge within defined catchment radii."
 paired_with: site-selection/co-location-intelligence-overview.es.md
@@ -64,7 +64,7 @@ The platform integrates three primary data sources to ensure high-fidelity spati
 
 ## Site index and quality tiers
 
-The current dataset identifies **2,738 ranked co-location sites** globally: 2,488 in [[atlas-tier-index-north-america|North America]] and 250 in [[atlas-tier-index-europe|Europe]]. Sites are ranked using a deterministic matrix that evaluates the proximity and category of secondary anchors relative to a primary hypermarket anchor.
+The current dataset identifies **2,738 ranked co-location sites** globally: 2,488 in North America and 250 in Europe, both covered by the [[co-location-tier-system|co-location tier system]]. Sites are ranked using a deterministic matrix that evaluates the proximity and category of secondary anchors relative to a primary hypermarket anchor.
 
 | Tier | Description | NA count | EU count |
 |------|-------------|----------|----------|
@@ -89,7 +89,7 @@ The platform is updated when new chain data is ingested or when the ranking matr
 ## See also
 *   [[co-location-methodology]]
 *   [[co-location-ranking-system]]
-*   [[atlas-tier-index-north-america]]
+*   [[co-location-tier-system]]
 
 ## References
 
