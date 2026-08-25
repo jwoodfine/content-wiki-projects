@@ -246,11 +246,21 @@ redirects:
   - from: /markets/united-states-markets
     to: /wiki/atlas-united-states
 
+  # 2026-08-25: Top 600 retracted entirely (operator directive -- superseded by the
+  # Top 400). Both /markets/top600-* legacy paths and the direct article slugs now
+  # redirect straight to their Top 400 successor rather than dead-ending on an
+  # archived page.
   - from: /markets/top600-europe
-    to: /wiki/atlas-top-600-europe
+    to: /wiki/atlas-top-400-europe
 
   - from: /markets/top600-north-america
-    to: /wiki/atlas-top-600-north-america
+    to: /wiki/atlas-top-400-north-america
+
+  - from: /atlas-top-600-europe
+    to: /wiki/atlas-top-400-europe
+
+  - from: /atlas-top-600-north-america
+    to: /wiki/atlas-top-400-north-america
 
   - from: /topic-top-400-regional-markets-eu
     to: /wiki/atlas-top-400-europe

@@ -3,11 +3,13 @@ schema: foundry-doc-v1
 title: "TOP600 North America — Regional Market index"
 slug: atlas-top-600-north-america
 category: markets
-index_group: screening-universe
 type: topic
 content_type: topic
 quality: stub
-status: active
+status: archived
+archived: 2026-08-25
+archived_reason: "Top 600 was an earlier, superseded concept -- operator directive 2026-08-25 (restated from earlier this session): zero public mention anywhere on the wiki. Superseded by the Top 400 (editorially-selected, ~400 markets per continent, per the 2026-08-07 methodology)."
+superseded_by: atlas-top-400-north-america
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
