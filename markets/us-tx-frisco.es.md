@@ -1,7 +1,7 @@
 ---
 schema: foundry-doc-v1
 slug: us-tx-frisco
-title: "Frisco, Texas — Mercado Regional"
+title: "Mercado regional de Frisco"
 language: es
 language_protocol: TRANSLATE-ES
 category: markets
@@ -14,7 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Mercado Regional número 3 en América del Norte — suburbio de Dallas, 44 km; puntuación compuesta 21,0."
 paired_with: markets/us-tx-frisco.md
-last_edited: 2026-07-10
+last_edited: 2026-08-24
 editor: editorial
 ---
 

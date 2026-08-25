@@ -3,7 +3,7 @@ schema: foundry-doc-v1
 slug: de-nw-krefeld
 aliases:
   - topic-rm-krefeld-de.es
-title: "Krefeld — Mercado Regional"
+title: "Mercado regional de Krefeld"
 language: es
 language_protocol: TRANSLATE-ES
 category: markets
@@ -16,7 +16,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Mercado Regional número 5 en Europa — suburbio de Düsseldorf, 19,4 km; puntuación compuesta 12,0."
 paired_with: markets/de-nw-krefeld.md
-last_edited: 2026-06-16
+last_edited: 2026-08-24
 editor: editorial
 ---
 

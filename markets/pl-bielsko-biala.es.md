@@ -1,7 +1,7 @@
 ---
 schema: foundry-doc-v1
 slug: pl-bielsko-biala
-title: "Bielsko-Biała, Polonia — Mercado Regional"
+title: "Mercado regional de Bielsko-Biała"
 language: es
 language_protocol: TRANSLATE-ES
 category: markets
@@ -14,7 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Mercado Regional número 6 en Europa — suburbio de Katowice, 48 km; puntuación compuesta 12,0."
 paired_with: markets/pl-bielsko-biala.md
-last_edited: 2026-07-10
+last_edited: 2026-08-24
 editor: editorial
 ---
 

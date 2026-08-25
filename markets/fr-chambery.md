@@ -1,7 +1,7 @@
 ---
 schema: foundry-doc-v1
 slug: fr-chambery
-title: "Chambéry, France — Regional Market"
+title: "Chambéry Regional Market"
 language: en
 language_protocol: PROSE-TOPIC
 category: markets
@@ -14,7 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Rank 33 European Regional Market — suburb of Grenoble; composite score 7.5."
 paired_with: markets/fr-chambery.es.md
-last_edited: 2026-07-10
+last_edited: 2026-08-24
 editor: editorial
 ---
 

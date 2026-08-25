@@ -1,7 +1,7 @@
 ---
 schema: foundry-doc-v1
 slug: us-la-kenner
-title: "Kenner, Luisiana — Mercado Regional"
+title: "Mercado regional de Kenner"
 language: es
 language_protocol: TRANSLATE-ES
 category: markets
@@ -14,7 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Mercado Regional número 333 en América del Norte — suburbio de Nueva Orleans; puntuación compuesta 4,5."
 paired_with: markets/us-la-kenner.md
-last_edited: 2026-07-10
+last_edited: 2026-08-24
 editor: editorial
 ---
 

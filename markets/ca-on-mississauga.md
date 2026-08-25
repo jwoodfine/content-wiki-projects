@@ -3,7 +3,7 @@ schema: foundry-doc-v1
 slug: ca-on-mississauga
 aliases:
   - topic-rm-mississauga-on
-title: "Mississauga, Ontario — Regional Market"
+title: "Mississauga Regional Market"
 language: en
 language_protocol: PROSE-TOPIC
 category: markets
@@ -16,7 +16,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Rank 4 North American Regional Market — suburb of Toronto, 24.9 km; composite score 18.0."
 paired_with: markets/ca-on-mississauga.es.md
-last_edited: 2026-06-16
+last_edited: 2026-08-24
 editor: editorial
 ---
 

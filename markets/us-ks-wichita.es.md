@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Wichita, Kansas — Mercado Regional"
+title: "Mercado regional de Wichita"
 slug: us-ks-wichita
 language: es
 language_protocol: TRANSLATE-ES
@@ -14,7 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "La ciudad más grande de Kansas, muy fuera de distancia de cercanías de cualquier metrópoli importante — fuera del conjunto clasificado Top-400 actual."
 paired_with: markets/us-ks-wichita.md
-last_edited: 2026-07-10
+last_edited: 2026-08-24
 editor: editorial
 ---
 

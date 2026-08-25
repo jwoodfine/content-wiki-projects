@@ -1,7 +1,7 @@
 ---
 schema: foundry-doc-v1
 slug: nl-breda
-title: "Breda, Países Bajos — Mercado Regional"
+title: "Mercado regional de Breda"
 language: es
 language_protocol: TRANSLATE-ES
 category: markets
@@ -14,7 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Mercado Regional número 286 en Europa — suburbio de Róterdam; puntuación compuesta 5,0."
 paired_with: markets/nl-breda.md
-last_edited: 2026-07-10
+last_edited: 2026-08-24
 editor: editorial
 ---
 

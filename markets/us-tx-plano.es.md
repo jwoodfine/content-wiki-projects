@@ -3,7 +3,7 @@ schema: foundry-doc-v1
 slug: us-tx-plano
 aliases:
   - topic-rm-plano-tx.es
-title: "Plano, Texas — Mercado Regional"
+title: "Mercado regional de Plano"
 language: es
 language_protocol: TRANSLATE-ES
 category: markets
@@ -16,7 +16,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Mercado Regional número 1 en América del Norte — suburbio de Dallas, 28,1 km; puntuación compuesta 25,5."
 paired_with: markets/us-tx-plano.md
-last_edited: 2026-06-16
+last_edited: 2026-08-24
 editor: editorial
 ---
 

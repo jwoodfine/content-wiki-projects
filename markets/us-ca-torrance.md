@@ -1,7 +1,7 @@
 ---
 schema: foundry-doc-v1
 slug: us-ca-torrance
-title: "Torrance, California — Regional Market"
+title: "Torrance Regional Market"
 language: en
 language_protocol: PROSE-TOPIC
 category: markets
@@ -14,7 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Rank 112 North American Regional Market — suburb of Los Angeles; composite score 6.0."
 paired_with: markets/us-ca-torrance.es.md
-last_edited: 2026-07-10
+last_edited: 2026-08-24
 editor: editorial
 ---
 

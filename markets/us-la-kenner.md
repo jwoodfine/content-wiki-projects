@@ -1,7 +1,7 @@
 ---
 schema: foundry-doc-v1
 slug: us-la-kenner
-title: "Kenner, Louisiana — Regional Market"
+title: "Kenner Regional Market"
 language: en
 language_protocol: PROSE-TOPIC
 category: markets
@@ -14,7 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Rank 333 North American Regional Market — suburb of New Orleans; composite score 4.5."
 paired_with: markets/us-la-kenner.es.md
-last_edited: 2026-07-11
+last_edited: 2026-08-24
 editor: editorial
 ---
 

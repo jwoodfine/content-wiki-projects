@@ -3,7 +3,7 @@ schema: foundry-doc-v1
 slug: ca-on-mississauga
 aliases:
   - topic-rm-mississauga-on.es
-title: "Mississauga, Ontario — Mercado Regional"
+title: "Mercado regional de Mississauga"
 language: es
 language_protocol: TRANSLATE-ES
 category: markets
@@ -16,7 +16,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Mercado Regional número 4 en América del Norte — suburbio de Toronto, 24,9 km; puntuación compuesta 18,0."
 paired_with: markets/ca-on-mississauga.md
-last_edited: 2026-06-16
+last_edited: 2026-08-24
 editor: editorial
 ---
 

@@ -1,7 +1,7 @@
 ---
 schema: foundry-doc-v1
 slug: gb-eng-cherwell
-title: "Cherwell, England — Regional Market"
+title: "Cherwell Regional Market"
 language: en
 language_protocol: PROSE-TOPIC
 category: markets
@@ -14,7 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Rank 368 European Regional Market — suburb of Oxford; composite score 3.0."
 paired_with: markets/gb-eng-cherwell.es.md
-last_edited: 2026-07-11
+last_edited: 2026-08-24
 editor: editorial
 ---
 

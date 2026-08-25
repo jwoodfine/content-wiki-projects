@@ -1,7 +1,7 @@
 ---
 schema: foundry-doc-v1
 slug: gb-eng-cherwell
-title: "Cherwell, Inglaterra — Mercado Regional"
+title: "Mercado regional de Cherwell"
 language: es
 language_protocol: TRANSLATE-ES
 category: markets
@@ -14,7 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Mercado Regional número 368 en Europa — suburbio de Oxford; puntuación compuesta 3,0."
 paired_with: markets/gb-eng-cherwell.md
-last_edited: 2026-07-10
+last_edited: 2026-08-24
 editor: editorial
 ---
 

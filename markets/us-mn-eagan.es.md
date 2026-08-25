@@ -1,7 +1,7 @@
 ---
 schema: foundry-doc-v1
 slug: us-mn-eagan
-title: "Eagan, Minnesota — Mercado Regional"
+title: "Mercado regional de Eagan"
 language: es
 language_protocol: TRANSLATE-ES
 category: markets
@@ -14,7 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Mercado Regional número 372 en América del Norte — suburbio de Minneapolis; puntuación compuesta 4,0."
 paired_with: markets/us-mn-eagan.md
-last_edited: 2026-07-10
+last_edited: 2026-08-24
 editor: editorial
 ---
 

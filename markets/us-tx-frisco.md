@@ -1,7 +1,7 @@
 ---
 schema: foundry-doc-v1
 slug: us-tx-frisco
-title: "Frisco, Texas — Regional Market"
+title: "Frisco Regional Market"
 language: en
 language_protocol: PROSE-TOPIC
 category: markets
@@ -14,7 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Rank 3 North American Regional Market — suburb of Dallas, 44 km; composite score 21.0."
 paired_with: markets/us-tx-frisco.es.md
-last_edited: 2026-07-11
+last_edited: 2026-08-24
 editor: editorial
 ---
 

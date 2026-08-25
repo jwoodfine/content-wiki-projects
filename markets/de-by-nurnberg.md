@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Nuremberg, Germany — Regional Market"
+title: "Nuremberg Regional Market"
 slug: de-by-nurnberg
 language: en
 language_protocol: PROSE-TOPIC
@@ -14,7 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Bavarian metro-core reference point for surrounding suburban markets — not itself in the Top-400 ranked pool."
 paired_with: markets/de-by-nurnberg.es.md
-last_edited: 2026-07-10
+last_edited: 2026-08-24
 editor: editorial
 ---
 

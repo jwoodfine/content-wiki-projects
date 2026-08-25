@@ -1,7 +1,7 @@
 ---
 schema: foundry-doc-v1
 slug: us-ca-torrance
-title: "Torrance, California — Mercado Regional"
+title: "Mercado regional de Torrance"
 language: es
 language_protocol: TRANSLATE-ES
 category: markets
@@ -14,7 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Mercado Regional número 112 en América del Norte — suburbio de Los Ángeles; puntuación compuesta 6,0."
 paired_with: markets/us-ca-torrance.md
-last_edited: 2026-07-10
+last_edited: 2026-08-24
 editor: editorial
 ---
 

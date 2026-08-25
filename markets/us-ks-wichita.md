@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Wichita, Kansas — Regional Market"
+title: "Wichita Regional Market"
 slug: us-ks-wichita
 language: en
 language_protocol: PROSE-TOPIC
@@ -14,7 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Kansas's largest city, well beyond commuting distance of any major metro — outside the current Top-400 ranked pool."
 paired_with: markets/us-ks-wichita.es.md
-last_edited: 2026-07-11
+last_edited: 2026-08-24
 editor: editorial
 ---
 

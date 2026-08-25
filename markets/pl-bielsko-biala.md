@@ -1,7 +1,7 @@
 ---
 schema: foundry-doc-v1
 slug: pl-bielsko-biala
-title: "Bielsko-Biała, Poland — Regional Market"
+title: "Bielsko-Biała Regional Market"
 language: en
 language_protocol: PROSE-TOPIC
 category: markets
@@ -14,7 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Rank 6 European Regional Market — suburb of Katowice, 48 km; composite score 12.0."
 paired_with: markets/pl-bielsko-biala.es.md
-last_edited: 2026-07-10
+last_edited: 2026-08-24
 editor: editorial
 ---
 
