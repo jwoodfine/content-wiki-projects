@@ -12,15 +12,15 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Navarre's regional capital, 117 km from Bilbao — outside the current Top-400 ranked pool."
+short_description: "Navarre's regional capital, 117 km from Bilbao — outside the current Top-400 screening band."
 paired_with: markets/es-nc-pamplona.es.md
-last_edited: 2026-07-11
+last_edited: 2026-08-25
 editor: editorial
 ---
 
 Pamplona does not currently appear in the European Top-400 Regional Markets list. Its
 nearest major metro, Bilbao, sits 117 kilometres away, beyond the 80 km outer edge of the
-suburban-regional band the ranking uses.
+suburban-regional band the screening applies.
 
 ## Overview
 
@@ -40,7 +40,7 @@ average; foreign-born residents comprised 21.6 percent of the population as of 2
 
 Pamplona does not currently appear in the [[atlas-top-400-europe|Top 400 Regional Markets —
 Europe]] list. This is not a data defect; at 117 km from Bilbao, its nearest major metro,
-Pamplona falls outside [[about-regional-markets-system|the co-location scoring system's]]
+Pamplona falls outside [[about-regional-markets-system|the co-location screening system's]]
 15–80 km suburban-regional band. This classifies it as standalone-secondary.
 
 ## See Also

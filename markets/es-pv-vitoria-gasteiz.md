@@ -12,9 +12,9 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Basque Country capital — outside the current Top-400 ranked pool (no nearby major metro core in the dataset)."
+short_description: "Basque Country capital — outside the current Top-400 screening band (no nearby major metro core in the dataset)."
 paired_with: markets/es-pv-vitoria-gasteiz.es.md
-last_edited: 2026-07-10
+last_edited: 2026-08-25
 editor: editorial
 ---
 
@@ -43,7 +43,7 @@ Markets — Europe]] list, and Wikipedia's coverage does not place it within a s
 of a single dominant major metro. This is not a data defect; it reflects either a gap in the
 current OSM-derived build for the Basque Country or the city's function as its own regional
 capital rather than a suburb, consistent with
-[[about-regional-markets-system|the co-location scoring system's]] taxonomy.
+[[about-regional-markets-system|the co-location screening system's]] taxonomy.
 
 ## See Also
 

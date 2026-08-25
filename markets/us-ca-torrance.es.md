@@ -12,16 +12,16 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Mercado Regional número 112 en América del Norte — suburbio de Los Ángeles; puntuación compuesta 6,0."
+short_description: "Mercado Regional de América del Norte — suburbio de Los Ángeles; 1 clúster de co-localización de Nivel Regional."
 paired_with: markets/us-ca-torrance.md
-last_edited: 2026-08-24
+last_edited: 2026-08-25
 editor: editorial
 ---
 
-Torrance, suburbio mixto industrial-residencial en el suroeste del condado de Los Ángeles,
-ocupa el puesto 112 entre los 400 Mercados Regionales de América del Norte con una puntuación
-compuesta de 6,0. La ciudad combina un gran centro comercial regional con una base de empleo
-manufacturero y aeroespacial poco habitual entre los mercados de clúster único del índice.
+Torrance, suburbio mixto industrial-residencial en el suroeste del condado de Los Ángeles, es
+un suburbio de Los Ángeles con un único clúster de co-localización de Nivel Regional. La
+ciudad combina un gran centro comercial regional con una base de empleo manufacturero y
+aeroespacial poco habitual entre los mercados cubiertos con un solo clúster.
 
 ## Descripción general
 
@@ -41,21 +41,15 @@ una población del 35,30% blanca, 35,26% asiática y 19,09% hispana o latina.
 
 ## Posición en el Mercado Regional
 
-| Campo | Valor |
-|---|---|
-| Posición | 112 de 400 (América del Norte) |
-| Puntuación compuesta | 6,0 |
-| Clústeres de Nivel 1 | 1 |
-| Clústeres de Nivel 2 | 0 |
-| Clústeres de Nivel 3 | 0 |
-| Suburbio de | Los Ángeles |
+Torrance es un suburbio de Los Ángeles, con un único clúster de co-localización de Nivel
+Regional.
 
 El detalle a nivel de clúster — las anclas minoristas y cívicas específicas que componen el
-único clúster de Nivel 1 de Torrance — está pendiente del conjunto de datos SIG subyacente y
-no se incluye en este esbozo. Véase
-[[atlas-top-400-north-america|Top 400 Mercados Regionales — América del Norte]] para la lista
-clasificada completa y [[co-location-methodology|Metodología de Co-ubicación]] para conocer
-cómo se calcula la puntuación compuesta.
+único clúster de Nivel Regional de Torrance — está pendiente del conjunto de datos SIG
+subyacente y no se incluye en este esbozo. Véase
+[[atlas-top-400-north-america|Top 400 Mercados Regionales — América del Norte]] para el
+conjunto completo del Top 400 y [[co-location-methodology|Metodología de Co-ubicación]] para
+conocer los criterios de calificación de mercados.
 
 ## Véase también
 

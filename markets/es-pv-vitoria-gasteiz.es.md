@@ -12,9 +12,9 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Capital del País Vasco — fuera del conjunto clasificado Top-400 actual (sin núcleo metropolitano cercano en el conjunto de datos)."
+short_description: "Capital del País Vasco — fuera del conjunto de selección Top-400 actual (sin núcleo metropolitano cercano en el conjunto de datos)."
 paired_with: markets/es-pv-vitoria-gasteiz.md
-last_edited: 2026-07-10
+last_edited: 2026-08-25
 editor: editorial
 ---
 
@@ -43,7 +43,7 @@ Regionales — Europa]], y la cobertura de Wikipedia no la sitúa a una distanci
 una única metrópoli dominante. Esto no es un defecto de datos; refleja bien una laguna en la
 versión actual del conjunto de datos derivado de OSM para el País Vasco, o la función de la
 ciudad como su propia capital regional en lugar de como suburbio, conforme a la taxonomía de
-[[about-regional-markets-system|el sistema de puntuación de co-ubicación]].
+[[about-regional-markets-system|el sistema de selección de co-ubicación]].
 
 ## Véase también
 

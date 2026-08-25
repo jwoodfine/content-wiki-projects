@@ -12,15 +12,15 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Eastern Washington's second-largest city, 280 miles from Seattle — outside the current Top-400 ranked pool."
+short_description: "Eastern Washington's second-largest city, 280 miles from Seattle — outside the current Top-400 screening band."
 paired_with: markets/us-wa-spokane.es.md
-last_edited: 2026-07-10
+last_edited: 2026-08-25
 editor: editorial
 ---
 
 Spokane does not currently appear in the North American Top-400 Regional Markets list — at
 280 miles from Seattle it sits far outside the 80 km outer edge of the suburban-regional band
-the ranking uses.
+the screening applies.
 
 ## Overview
 
@@ -41,8 +41,7 @@ in the Hillyard neighborhood.
 
 Spokane does not currently appear in the [[atlas-top-400-north-america|Top 400 Regional
 Markets — North America]] list. This is not a data defect; its 280-mile distance from
-Seattle places it well outside [[about-regional-markets-system|the co-location scoring
-system's]] 15–80 km suburban-regional band, classifying it as standalone-secondary.
+Seattle places it well outside [[about-regional-markets-system|the co-location screening system's]] 15–80 km suburban-regional band, classifying it as standalone-secondary.
 
 ## See Also
 

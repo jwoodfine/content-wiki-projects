@@ -12,15 +12,15 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Rank 372 European Regional Market — suburb of Coventry; composite score 3.0."
+short_description: "European Regional Market — suburb of Coventry; 2 Local-tier co-location clusters."
 paired_with: markets/gb-eng-northampton.es.md
-last_edited: 2026-07-10
+last_edited: 2026-08-25
 editor: editorial
 ---
 
 Northampton, a former footwear-manufacturing town now functioning as a London commuter town
-and East Midlands logistics hub, ranks 372nd among the 400 European Regional Markets with a
-composite score of 3.0, near the floor of the ranked list.
+and East Midlands logistics hub, is a European Regional Market with two Local-tier
+co-location clusters.
 
 ## Overview
 
@@ -40,18 +40,13 @@ The population has diversified significantly, with notable Eastern European migr
 
 | Field | Value |
 |---|---|
-| Rank | 372 of 400 (Europe) |
-| Composite score | 3.0 |
-| Tier 1 clusters | 0 |
-| Tier 2 clusters | 0 |
-| Tier 3 clusters | 2 |
 | Suburb of | Coventry |
 
-Cluster-level detail — the specific retail and civic anchors composing each of Northampton's
-two Tier 3 clusters — is pending the underlying GIS dataset and is not included in this
-stub. See [[atlas-top-400-europe|Top 400 Regional Markets — Europe]] for the full ranked
-list and [[co-location-methodology|Co-location Methodology]] for how the composite score is
-derived.
+Northampton has two Local-tier co-location clusters. Cluster-level detail — the specific
+retail and civic anchors composing each cluster — is pending the underlying GIS dataset and
+is not included in this stub. See [[atlas-top-400-europe|Top 400 Regional Markets — Europe]]
+for the full Top 400 set and [[co-location-methodology|Co-location Methodology]] for how
+markets qualify.
 
 ## See Also
 

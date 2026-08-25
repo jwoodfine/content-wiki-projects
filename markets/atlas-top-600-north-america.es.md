@@ -3,7 +3,7 @@ schema: foundry-doc-v1
 title: "TOP600 Norteamérica — Índice de mercados regionales"
 slug: atlas-top-600-north-america
 category: markets
-index_group: screening-universe-and-rankings
+index_group: screening-universe
 type: topic
 content_type: topic
 quality: stub
@@ -12,7 +12,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
 keynote: false
-last_edited: 2026-06-29
+last_edited: 2026-08-25
 editor: woodfine-editorial
 short_description: "Índice de hasta 600 mercados inmobiliarios comerciales regionales en Norteamérica evaluados para viabilidad de co-ubicación."
 paired_with: markets/atlas-top-600-north-america.md
@@ -44,8 +44,8 @@ mejoras del hogar o mercancías generales.
 del mercado proporciona infraestructura física compatible con la co-ubicación de centros
 profesionales.
 
-Los mercados que cumplen los tres filtros se puntúan utilizando el sistema de clasificación
-de co-ubicación y se les asigna un rango dentro del índice norteamericano.
+Los mercados que cumplen los tres filtros se incluyen en el índice norteamericano. No se
+publica posición ni puntuación para ningún mercado del índice.
 
 ## Cobertura geográfica
 

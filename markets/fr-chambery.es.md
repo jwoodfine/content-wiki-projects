@@ -12,17 +12,17 @@ quality: stub
 status: retired
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Mercado Regional número 33 en Europa — suburbio de Grenoble; puntuación compuesta 7,5."
+short_description: "Mercado Regional europeo — suburbio de Grenoble; 1 clúster de Nivel Regional y 1 de Nivel Local."
 paired_with: markets/fr-chambery.md
-last_edited: 2026-08-24
+last_edited: 2026-08-25
 editor: editorial
 ---
 
-Chambéry, prefectura del departamento de Saboya y un importante nudo ferroviario alpino,
-ocupa el puesto 33 entre los 400 Mercados Regionales de Europa con una puntuación compuesta
-de 7,5. El carácter de la ciudad — administrativo, educativo y orientado al transporte, más
-que un destino comercial convencional — resulta atípico entre los mercados de Nivel 1 del
-índice.
+Chambéry, prefectura del departamento de Saboya y un importante nudo ferroviario alpino, es
+un suburbio de Grenoble con un clúster de Nivel Regional y un clúster de Nivel Local. El
+carácter de la ciudad — administrativo, educativo y orientado al transporte, más que un
+destino comercial convencional — resulta atípico entre los mercados cubiertos que cuentan
+con un clúster de Nivel Regional.
 
 ## Descripción general
 
@@ -41,21 +41,15 @@ por encima del desarrollo comercial moderno.
 
 ## Posición en el Mercado Regional
 
-| Campo | Valor |
-|---|---|
-| Posición | 33 de 400 (Europa) |
-| Puntuación compuesta | 7,5 |
-| Clústeres de Nivel 1 | 1 |
-| Clústeres de Nivel 2 | 0 |
-| Clústeres de Nivel 3 | 1 |
-| Suburbio de | Grenoble |
+Chambéry es un suburbio de Grenoble, con un clúster de co-localización de Nivel Regional y
+un clúster de Nivel Local.
 
 El detalle a nivel de clúster — las anclas minoristas y cívicas específicas que componen cada
 uno de los clústeres de co-localización de Chambéry — está pendiente del conjunto de datos
 SIG subyacente y no se incluye en este esbozo. Véase
-[[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]] para la lista clasificada
-completa y [[co-location-methodology|Metodología de Co-ubicación]] para conocer cómo se
-calcula la puntuación compuesta.
+[[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]] para el conjunto completo del
+Top 400 y [[co-location-methodology|Metodología de Co-ubicación]] para conocer los criterios
+de calificación de mercados.
 
 ## Véase también
 

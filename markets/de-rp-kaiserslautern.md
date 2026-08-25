@@ -12,15 +12,15 @@ quality: stub
 status: retired
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Rank 4 European Regional Market — suburb of Mannheim, 54 km; composite score 12.0."
+short_description: "European Regional Market — suburb of Mannheim, 54 km; 2 Regional-tier co-location clusters with a confirmed civic anchor."
 paired_with: markets/de-rp-kaiserslautern.es.md
-last_edited: 2026-07-10
+last_edited: 2026-08-25
 editor: editorial
 ---
 
 Kaiserslautern, a Rhineland-Palatinate technology and research centre with a substantial US
-military presence, ranks 4th among the 400 European Regional Markets with a composite score
-of 12.0 — among the highest-scoring markets in the entire European index.
+military presence, is a European Regional Market with two Regional-tier co-location clusters
+and a confirmed civic anchor.
 
 ## Overview
 
@@ -46,19 +46,13 @@ post-WWII growth, having recovered from 85 percent destruction during wartime bo
 
 | Field | Value |
 |---|---|
-| Rank | 4 of 400 (Europe) |
-| Composite score | 12.0 |
-| Tier 1 clusters | 2 |
-| Tier 2 clusters | 0 |
-| Tier 3 clusters | 0 |
-| Civic anchor confirmed | Yes |
 | Suburb of | Mannheim (54 km) |
 
-Cluster-level detail — the specific retail and civic anchors composing each of
-Kaiserslautern's two Tier 1 clusters — is pending the underlying GIS dataset and is not
-included in this stub. See [[atlas-top-400-europe|Top 400 Regional Markets — Europe]] for
-the full ranked list and [[co-location-methodology|Co-location Methodology]] for how the
-composite score is derived.
+Kaiserslautern has two Regional-tier co-location clusters and a confirmed civic anchor.
+Cluster-level detail — the specific retail and civic anchors composing each cluster — is
+pending the underlying GIS dataset and is not included in this stub. See
+[[atlas-top-400-europe|Top 400 Regional Markets — Europe]] for the full Top 400 set and
+[[co-location-methodology|Co-location Methodology]] for how markets qualify.
 
 ## See Also
 

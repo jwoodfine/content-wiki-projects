@@ -4,7 +4,7 @@ title: "Definición de mercado regional"
 slug: regional-market-definition
 short_description: "Contenedores espaciales del mapa de inteligencia de ubicaciones — en qué difieren los asentamientos con co-localización de los Regional Markets; cobertura no es demanda."
 category: markets
-index_group: screening-universe-and-rankings
+index_group: screening-universe
 type: concept
 content_type: topic
 quality: complete
@@ -13,7 +13,7 @@ audience: customer-woodfine
 bcsc_class: public-disclosure-safe
 language: es
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-03
+last_edited: 2026-08-25
 editor: pointsav-engineering
 paired_with: markets/regional-market-definition.md
 cites: []
@@ -53,17 +53,17 @@ La separación de objetos que sigue se mantiene — un catálogo de cobertura pe
 
 ### Mercado Regional
 
-Un asentamiento se promueve a Mercado Regional cuando sus co-ubicaciones superan un umbral declarado **basado en niveles**, no en conteo — por ejemplo, "contiene al menos un clúster T1" o "el puntaje de nivel agregado (T1×4 + T2×2 + T3×1) alcanza un mínimo declarado". Esto vincula el término a la *fortaleza* del clúster en lugar de al *conteo* de clústeres, admitiendo correctamente el caso de un solo clúster fuerte y excluyendo correctamente el caso de muchos clústeres débiles que un umbral de conteo confundiría.
+Un asentamiento se promueve a Mercado Regional cuando sus co-ubicaciones superan un umbral declarado **basado en niveles**, no en conteo — por ejemplo, "contiene al menos un clúster T1". Esto vincula el término a la *fortaleza* del clúster en lugar de al *conteo* de clústeres, admitiendo correctamente el caso de un solo clúster fuerte y excluyendo correctamente el caso de muchos clústeres débiles que un umbral de conteo confundiría.
 
 Una alternativa, y analíticamente más sólida, es un **umbral de demanda**: un Mercado Regional supera un umbral declarado de población de cuenca o gasto anual estimado, vinculando el término a la demanda en lugar de la densidad de oferta. Esto depende de que las superficies de cuenca y gasto sean confiables primero (véase [[trade-area-methodology|la metodología de área de atracción]] y [[spend-population-provenance|la procedencia de gasto y población]]); su adopción es apropiada una vez que esas superficies incorporen su propio marco de incertidumbre.
 
 Cualquiera que sea el umbral elegido, **el conteo resultante del Mercado Regional debe re-derivarse y publicarse junto al umbral y la regla que lo produjo**.
 
-## Las Top-400 co-ubicaciones — clasificación por puntuación compuesta
+## Las Top-400 co-ubicaciones — un conjunto calificado, no una clasificación
 
-El Top-400 es una lista de co-ubicaciones (no Mercados Regionales) producida por región, cortada en 400.
+El Top-400 es una lista de co-ubicaciones (no Mercados Regionales) producida por región, cortada en 400, presentada en un orden fijo que no constituye una posición declarada.
 
-**La clasificación del Top-400 se basa en una puntuación compuesta publicada**, no en una variable no declarada: `tier_score × civic_multiplier × confidence_factor` — con cada factor visible, no una caja negra. Véase [[about-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]] para la fórmula completa.
+**Ninguna co-ubicación del Top-400 publica una posición o puntuación.** La entrada se decide por composición de anclas, no por una puntuación numérica: una co-ubicación califica al superar una de tres condiciones de composición — un ancla de hipermercado con al menos dos de {ferretería, club de precio, estilo de vida, electrónica, artículos deportivos}; un par hipermercado-ferretería presente en al menos dos clústeres distintos; o esa misma condición hipermercado-ferretería aplicada a una co-ubicación geográficamente aislada. Existe una puntuación compuesta de uso interno para apoyar la selección, pero nunca se muestra al lector. Véase [[about-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]] para el método de calificación completo.
 
 ## Mercado Metro
 
@@ -74,14 +74,14 @@ El Mercado Metro es un contenedor contextual más grueso: un área metropolitana
 | Objeto | Regla | Conteo | Qué mide |
 |---|---|---|---|
 | Asentamientos con presencia de co-ubicación | ≥1 co-ubicación en polígono | ~3.011 (NA + UE/RU, compilación 2026-05-22) | Cobertura y huella |
-| Mercados Regionales (umbral basado en niveles, recomendación corregida) | ≥1 clúster T1, o puntaje de nivel agregado declarado | Por re-derivar en la adopción | Co-ubicación concentrada, admitiendo correctamente los mercados de un solo clúster fuerte |
+| Mercados Regionales (umbral basado en niveles, recomendación corregida) | ≥1 clúster T1 | Por re-derivar en la adopción | Co-ubicación concentrada, admitiendo correctamente los mercados de un solo clúster fuerte |
 | Objetos RM publicados (gateway, compilación posterior) | Regla permisiva (≥1 co-ubicación), sin cambios | 4.436 (compilación 2026-05-30, 18 países — véase [[about-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]]) | Cobertura; crecida por expansión de datos, no por un cambio de umbral |
-| Top-400 co-ubicaciones (por región) | Puntuación compuesta — nivel × cívico × confianza, publicada | 400 NA + 400 UE | Sitios candidatos clasificados; adoptada según la recomendación anterior |
+| Top-400 co-ubicaciones (por región) | Condiciones de composición (puntuación interna, no publicada) | 400 NA + 400 UE | Sitios candidatos calificados, no una lista clasificada; adoptada según la recomendación anterior |
 | Co-ubicaciones NA (DBSCAN) | eps/minPts/IoU — sensible | 226–476 en el barrido de parámetros | Conteo de clústeres (descriptivo) |
 
 ## Véase también
 
-- [[about-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]] — el conjunto de datos completo, el sistema de niveles y la metodología de puntuación compuesta de la que parten las definiciones de este artículo
+- [[about-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]] — el conjunto de datos completo, el sistema de niveles y el método de calificación de los que parten las definiciones de este artículo
 - [[co-location-tiering-scoring]] — cómo se calculan los niveles y el puntaje de fortaleza planeado para cada co-ubicación dentro de un Mercado Regional
 - [[trade-area-methodology]] — cómo se define el área de atracción para cada co-ubicación
 - [[spend-population-provenance]] — la cadena de estimación para las cifras de población y gasto

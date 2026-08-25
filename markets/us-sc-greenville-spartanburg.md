@@ -12,16 +12,16 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "South Carolina Upstate metro-core reference point for surrounding suburban markets — not itself in the Top-400 ranked pool."
+short_description: "South Carolina Upstate metro-core reference point for surrounding suburban markets — not itself part of the Top-400 screening band."
 paired_with: markets/us-sc-greenville-spartanburg.es.md
-last_edited: 2026-07-11
+last_edited: 2026-08-25
 editor: editorial
 ---
 
 Greenville does not carry its own entry in the North American Top-400 Regional Markets list.
 In the current dataset, "Greenville SC" functions as the metro-core reference point. Two
-other markets — Spartanburg, SC (rank 45) and Asheville, NC (rank 104) — are ranked as
-suburbs *of* Greenville, rather than Greenville being ranked as a suburban market itself.
+other markets — Spartanburg, SC and Asheville, NC — are counted as suburbs *of* Greenville,
+rather than Greenville being counted as a suburban market itself.
 
 ## Overview
 
@@ -51,12 +51,11 @@ and corporate services.
 
 ## Regional Market Standing
 
-Greenville does not appear as a ranked entry in the
+Greenville does not appear as an entry in the
 [[atlas-top-400-north-america|Top 400 Regional Markets — North America]] list. This is not a
 data defect: in the current build, "Greenville SC" is the metro-core reference point for two
-other suburban entries (Spartanburg, rank 45, score 9.0; Asheville, rank 104, score 7.5). This
-is consistent with [[about-regional-markets-system|the co-location scoring system's]] own
-taxonomy, which excludes metro cores from the suburban-regional ranked pool.
+other suburban entries (Spartanburg and Asheville). This is consistent with [[about-regional-markets-system|the co-location screening system's]] own
+taxonomy, which excludes metro cores from the suburban-regional screening band.
 
 ## See Also
 

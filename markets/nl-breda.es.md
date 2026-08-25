@@ -12,15 +12,15 @@ quality: stub
 status: retired
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Mercado Regional número 286 en Europa — suburbio de Róterdam; puntuación compuesta 5,0."
+short_description: "Mercado Regional en Europa — suburbio de Róterdam; 1 clúster de nivel Regional y 1 de nivel Local."
 paired_with: markets/nl-breda.md
-last_edited: 2026-08-24
+last_edited: 2026-08-25
 editor: editorial
 ---
 
 Breda, ciudad de Brabante Septentrional situada de forma equidistante entre Róterdam y
-Amberes, ocupa el puesto 286 entre los 400 Mercados Regionales de Europa con una puntuación
-compuesta de 5,0. Una economía de servicios y logística sostenida por varias sedes regionales
+Amberes, es un Mercado Regional de Europa con un clúster de nivel Regional y uno de nivel
+Local. Una economía de servicios y logística sostenida por varias sedes regionales
 multinacionales la distingue de un suburbio puramente residencial.
 
 ## Descripción general
@@ -42,19 +42,14 @@ inmigrantes de Marruecos (3,1%), Indonesia (2,9%) y Turquía (1,7%).
 
 | Campo | Valor |
 |---|---|
-| Posición | 286 de 400 (Europa) |
-| Puntuación compuesta | 5,0 |
-| Clústeres de Nivel 1 | 1 |
-| Clústeres de Nivel 2 | 0 |
-| Clústeres de Nivel 3 | 1 |
 | Suburbio de | Róterdam |
 
-El detalle a nivel de clúster — las anclas minoristas y cívicas específicas que componen cada
-uno de los clústeres de co-localización de Breda — está pendiente del conjunto de datos SIG
-subyacente y no se incluye en este esbozo. Véase
-[[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]] para la lista clasificada
-completa y [[co-location-methodology|Metodología de Co-ubicación]] para conocer cómo se
-calcula la puntuación compuesta.
+Breda tiene un clúster de nivel Regional y uno de nivel Local. El detalle a nivel de
+clúster — las anclas minoristas y cívicas específicas que componen cada clúster — está
+pendiente del conjunto de datos SIG subyacente y no se incluye en este esbozo. Véase
+[[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]] para el conjunto Top 400
+completo y [[co-location-methodology|Metodología de Co-ubicación]] para conocer los criterios
+de calificación de mercados.
 
 ## Véase también
 

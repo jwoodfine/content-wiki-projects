@@ -12,7 +12,7 @@ superseded_by: about-regional-markets-system
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-07-10
+last_edited: 2026-08-25
 editor: editorial
 short_description: "SUSTITUIDO (2026-07-10) — véase about-regional-markets-system para el marco actual. La definición anterior describía la matriz de tenencia directa de 8 mercados objetivo de MCorp, previa al sistema actual de co-ubicación suburbana de 18 países."
 
@@ -26,7 +26,7 @@ cites:
 > directa de "8 mercados objetivo de MCorp" anterior que precede y contradice el sistema de
 > puntuación de co-ubicación actualmente en uso — véase
 > [[about-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]] para el
-> marco actual (18 países, 4.436 Mercados Regionales, que sostiene las listas clasificadas
+> marco actual (18 países, 4.436 Mercados Regionales, que sostiene el conjunto
 > [[atlas-top-400-north-america|Top 400]]). Se conserva conforme a la convención de nunca
 > eliminar; se mantiene solo como referencia histórica. Sustitución confirmada por el
 > operador, 2026-07-10.

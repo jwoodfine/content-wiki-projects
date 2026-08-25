@@ -12,15 +12,15 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Okanagan Valley market, 390 km from Vancouver — outside the current Top-400 ranked pool."
+short_description: "Okanagan Valley market, 390 km from Vancouver — outside the current Top-400 screening band."
 paired_with: markets/ca-bc-kelowna.es.md
-last_edited: 2026-07-10
+last_edited: 2026-08-25
 editor: editorial
 ---
 
 Kelowna, the commercial hub of British Columbia's Okanagan Valley, does not currently appear
 in the North American Top-400 Regional Markets list — at 390 kilometres from Vancouver it
-sits far outside the 15–80 km suburban-regional band the ranking uses.
+sits far outside the 15–80 km suburban-regional band the screening applies.
 
 ## Overview
 
@@ -37,10 +37,10 @@ British Columbia, and the province's seventh-largest municipality overall.
 ## Regional Market Standing
 
 Kelowna does not currently appear in the [[atlas-top-400-north-america|Top 400 Regional
-Markets — North America]] ranked list — its distance from Vancouver places it outside the
-15–80 km suburban-regional band the ranking applies. This is not a data defect; it reflects
+Markets — North America]] list — its distance from Vancouver places it outside the
+15–80 km suburban-regional band the screening applies. This is not a data defect; it reflects
 the market's classification as standalone-secondary rather than suburban-regional under
-[[about-regional-markets-system|the co-location scoring system's]] own taxonomy.
+[[about-regional-markets-system|the co-location screening system's]] own taxonomy.
 
 ## See Also
 

@@ -12,17 +12,16 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Mercado Regional número 368 en Europa — suburbio de Oxford; puntuación compuesta 3,0."
+short_description: "Mercado Regional europeo — suburbio de Oxford; 2 clústeres de Nivel Local."
 paired_with: markets/gb-eng-cherwell.md
-last_edited: 2026-08-24
+last_edited: 2026-08-25
 editor: editorial
 ---
 
-Cherwell, distrito del norte de Oxfordshire con centro en Banbury y Bicester, ocupa el
-puesto 368 entre los 400 Mercados Regionales de Europa con una puntuación compuesta de 3,0,
-cerca del límite inferior de la lista clasificada. Una sólida conectividad por la autopista
-M40 y por ferrocarril hacia Londres, Birmingham y Oxford sostiene sus dos clústeres de
-co-localización de Nivel 3.
+Cherwell, distrito del norte de Oxfordshire con centro en Banbury y Bicester, es un suburbio
+de Oxford con dos clústeres de co-localización de Nivel Local. Una sólida conectividad por la
+autopista M40 y por ferrocarril hacia Londres, Birmingham y Oxford sostiene la geografía
+comercial del distrito.
 
 ## Descripción general
 
@@ -41,21 +40,14 @@ Castle Quay en Banbury, como parte de una regeneración urbana en curso.
 
 ## Posición en el Mercado Regional
 
-| Campo | Valor |
-|---|---|
-| Posición | 368 de 400 (Europa) |
-| Puntuación compuesta | 3,0 |
-| Clústeres de Nivel 1 | 0 |
-| Clústeres de Nivel 2 | 0 |
-| Clústeres de Nivel 3 | 2 |
-| Suburbio de | Oxford |
+Cherwell es un suburbio de Oxford, con dos clústeres de co-localización de Nivel Local.
 
 El detalle a nivel de clúster — las anclas minoristas y cívicas específicas que componen cada
-uno de los dos clústeres de Nivel 3 de Cherwell — está pendiente del conjunto de datos SIG
-subyacente y no se incluye en este esbozo. Véase
-[[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]] para la lista clasificada
-completa y [[co-location-methodology|Metodología de Co-ubicación]] para conocer cómo se
-calcula la puntuación compuesta.
+uno de los dos clústeres de Nivel Local de Cherwell — está pendiente del conjunto de datos
+SIG subyacente y no se incluye en este esbozo. Véase
+[[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]] para el conjunto completo del
+Top 400 y [[co-location-methodology|Metodología de Co-ubicación]] para conocer los criterios
+de calificación de mercados.
 
 ## Véase también
 

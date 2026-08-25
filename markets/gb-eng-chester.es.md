@@ -12,9 +12,9 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Ciudad histórica de Cheshire, a 30-40 millas de Liverpool — no es actualmente una entrada clasificada Top-400 pese a situarse dentro de la banda de distancia suburbano-regional."
+short_description: "Ciudad histórica de Cheshire, a 30-40 millas de Liverpool — no es actualmente una entrada Top-400 pese a situarse dentro de la banda de distancia suburbano-regional."
 paired_with: markets/gb-eng-chester.md
-last_edited: 2026-07-10
+last_edited: 2026-08-25
 editor: editorial
 ---
 
@@ -22,7 +22,7 @@ Chester, una ciudad histórica de Cheshire cerca de la frontera galesa, no apare
 en la lista Top-400 de Mercados Regionales de Europa — cabe destacar que, a diferencia de
 otros mercados de este grupo de esbozos, su distancia respecto a Liverpool (unas 30 a 40
 millas, o 48-64 km) se encuentra dentro de la banda suburbano-regional de 15 a 80 km que
-aplica la clasificación en otros casos, lo que sugiere una laguna de cobertura en el conjunto
+aplica la selección en otros casos, lo que sugiere una laguna de cobertura en el conjunto
 de datos más que una exclusión por distancia.
 
 ## Descripción general
@@ -42,17 +42,16 @@ millones de libras) representa una inversión cultural reciente.
 
 ## Posición en el Mercado Regional
 
-Chester no aparece actualmente en la lista clasificada
+Chester no aparece actualmente en la lista
 [[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]], aunque su distancia respecto a
 Liverpool se sitúa dentro de la propia banda suburbano-regional de 15 a 80 km de
-[[about-regional-markets-system|el sistema de puntuación de co-ubicación]] — a diferencia de
+[[about-regional-markets-system|el sistema de selección de co-ubicación]] — a diferencia de
 los mercados independiente-secundarios y de núcleo metropolitano del resto de este grupo de
 esbozos. Esto refleja con mayor probabilidad una laguna en la versión actual del conjunto de
 datos derivado de OSM que una exclusión deliberada; la unidad administrativa "Cheshire West
-and Chester" sí aparece en la tabla clasificada (posición 32, suburbio de Wigan, puntuación
-7,5), pero esa entrada cubre un límite administrativo distinto al de la propia ciudad de
-Chester, y este artículo no afirma que se trate del mismo mercado sin una verificación
-adicional.
+and Chester" sí aparece en el conjunto Top-400 (suburbio de Wigan), pero esa entrada cubre un
+límite administrativo distinto al de la propia ciudad de Chester, y este artículo no afirma
+que se trate del mismo mercado sin una verificación adicional.
 
 ## Véase también
 

@@ -12,15 +12,15 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Capital y segunda ciudad más grande de Wisconsin, a 77 millas de Milwaukee — fuera del conjunto clasificado Top-400 actual."
+short_description: "Capital y segunda ciudad más grande de Wisconsin, a 77 millas de Milwaukee — fuera del conjunto de selección Top-400 actual."
 paired_with: markets/us-wi-madison.md
-last_edited: 2026-07-10
+last_edited: 2026-08-25
 editor: editorial
 ---
 
 Madison no aparece actualmente en la lista Top-400 de Mercados Regionales de América del
 Norte — a 77 millas de Milwaukee se sitúa fuera del límite exterior de 80 km de la banda
-suburbano-regional que utiliza la clasificación, aunque por poco margen.
+suburbano-regional que aplica la selección, aunque por poco margen.
 
 ## Descripción general
 
@@ -43,7 +43,7 @@ un ingreso familiar medio de 67.565 dólares.
 Madison no aparece actualmente en la lista [[atlas-top-400-north-america|Top 400 Mercados
 Regionales — América del Norte]]. Esto no es un defecto de datos; a 77 millas (124 km) de
 Milwaukee, queda fuera del límite exterior de 80 km de la banda suburbano-regional de
-[[about-regional-markets-system|el sistema de puntuación de co-ubicación]], clasificándola
+[[about-regional-markets-system|el sistema de selección de co-ubicación]], clasificándola
 como independiente-secundaria.
 
 ## Véase también

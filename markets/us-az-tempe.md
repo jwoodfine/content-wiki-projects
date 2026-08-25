@@ -12,16 +12,16 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Rank 35 North American Regional Market — suburb of Phoenix; composite score 9.0."
+short_description: "North American Regional Market — suburb of Phoenix; 1 Regional-tier and 2 Local-tier co-location clusters."
 paired_with: markets/us-az-tempe.es.md
-last_edited: 2026-08-24
+last_edited: 2026-08-25
 editor: editorial
 ---
 
-Tempe, an East Valley suburb bordering Phoenix's core, ranks 35th among the 400 North
-American Regional Markets with a composite score of 9.0. Arizona State University's main
-campus anchors the local economy and drives a denser, more urbanized character than the
-typical suburban Regional Market in the index.
+Tempe, an East Valley suburb bordering Phoenix's core, is a North American Regional Market
+with one Regional-tier and two Local-tier co-location clusters. Arizona State University's
+main campus anchors the local economy and drives a denser, more urbanized character than a
+typical suburban Regional Market.
 
 ## Overview
 
@@ -48,18 +48,13 @@ Avenue pedestrian shopping district anchors downtown.
 
 | Field | Value |
 |---|---|
-| Rank | 35 of 400 (North America) |
-| Composite score | 9.0 |
-| Tier 1 clusters | 1 |
-| Tier 2 clusters | 0 |
-| Tier 3 clusters | 2 |
 | Suburb of | Phoenix |
 
-Cluster-level detail — the specific retail and civic anchors composing each of Tempe's
-co-location clusters — is pending the underlying GIS dataset and is not included in this
-stub. See [[atlas-top-400-north-america|Top 400 Regional Markets — North America]] for the
-full ranked list and [[co-location-methodology|Co-location Methodology]] for how the
-composite score is derived.
+Tempe has one Regional-tier and two Local-tier co-location clusters. Cluster-level detail —
+the specific retail and civic anchors composing each cluster — is pending the underlying GIS
+dataset and is not included in this stub. See
+[[atlas-top-400-north-america|Top 400 Regional Markets — North America]] for the full Top
+400 set and [[co-location-methodology|Co-location Methodology]] for how markets qualify.
 
 ## See Also
 

@@ -12,16 +12,15 @@ quality: stub
 status: retired
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Mercado Regional número 4 en Europa — suburbio de Mannheim, 54 km; puntuación compuesta 12,0."
+short_description: "Mercado Regional en Europa — suburbio de Mannheim, 54 km; 2 clústeres de nivel Regional con ancla cívica confirmada."
 paired_with: markets/de-rp-kaiserslautern.md
-last_edited: 2026-07-10
+last_edited: 2026-08-25
 editor: editorial
 ---
 
 Kaiserslautern, un centro tecnológico y de investigación de Renania-Palatinado con una
-importante presencia militar estadounidense, ocupa el cuarto puesto entre los 400 Mercados
-Regionales de Europa con una puntuación compuesta de 12,0 — entre los mercados de mayor
-puntuación de todo el índice europeo.
+importante presencia militar estadounidense, es un Mercado Regional de Europa con dos
+clústeres de nivel Regional y un ancla cívica confirmada.
 
 ## Descripción general
 
@@ -44,20 +43,14 @@ del 85% durante los bombardeos.
 
 | Campo | Valor |
 |---|---|
-| Posición | 4 de 400 (Europa) |
-| Puntuación compuesta | 12,0 |
-| Clústeres de Nivel 1 | 2 |
-| Clústeres de Nivel 2 | 0 |
-| Clústeres de Nivel 3 | 0 |
-| Ancla cívica confirmada | Sí |
 | Suburbio de | Mannheim (54 km) |
 
-El detalle a nivel de clúster — las anclas minoristas y cívicas específicas que componen cada
-uno de los dos clústeres de Nivel 1 de Kaiserslautern — está pendiente del conjunto de datos
-SIG subyacente y no se incluye en este esbozo. Véase
-[[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]] para la lista clasificada
-completa y [[co-location-methodology|Metodología de Co-ubicación]] para conocer cómo se
-calcula la puntuación compuesta.
+Kaiserslautern tiene dos clústeres de nivel Regional y un ancla cívica confirmada. El detalle
+a nivel de clúster — las anclas minoristas y cívicas específicas que componen cada clúster —
+está pendiente del conjunto de datos SIG subyacente y no se incluye en este esbozo. Véase
+[[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]] para el conjunto Top 400
+completo y [[co-location-methodology|Metodología de Co-ubicación]] para conocer los criterios
+de calificación de mercados.
 
 ## Véase también
 

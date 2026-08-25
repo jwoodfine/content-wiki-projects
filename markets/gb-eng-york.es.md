@@ -12,16 +12,15 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Mercado Regional número 266 en Europa — suburbio de Leeds; puntuación compuesta 6,0."
+short_description: "Mercado Regional en Europa — suburbio de Leeds; 1 clúster de nivel District y 2 de nivel Local."
 paired_with: markets/gb-eng-york.md
-last_edited: 2026-07-10
+last_edited: 2026-08-25
 editor: editorial
 ---
 
-York, ciudad histórica de Yorkshire con una economía de turismo y servicios, ocupa el puesto
-266 entre los 400 Mercados Regionales de Europa con una puntuación compuesta de 6,0. Una base
-de empleo dual universitaria, de turismo patrimonial y del sector público sostiene un
-clúster de Nivel 2 y dos de Nivel 3.
+York, ciudad histórica de Yorkshire con una economía de turismo y servicios, es un Mercado
+Regional de Europa con un clúster de nivel District y dos de nivel Local. Una base de empleo
+dual universitaria, de turismo patrimonial y del sector público los sostiene.
 
 ## Descripción general
 
@@ -44,19 +43,14 @@ entretenimiento inaugurado en 2018.
 
 | Campo | Valor |
 |---|---|
-| Posición | 266 de 400 (Europa) |
-| Puntuación compuesta | 6,0 |
-| Clústeres de Nivel 1 | 0 |
-| Clústeres de Nivel 2 | 1 |
-| Clústeres de Nivel 3 | 2 |
 | Suburbio de | Leeds |
 
-El detalle a nivel de clúster — las anclas minoristas y cívicas específicas que componen cada
-uno de los clústeres de co-localización de York — está pendiente del conjunto de datos SIG
-subyacente y no se incluye en este esbozo. Véase
-[[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]] para la lista clasificada
-completa y [[co-location-methodology|Metodología de Co-ubicación]] para conocer cómo se
-calcula la puntuación compuesta.
+York tiene un clúster de nivel District y dos de nivel Local. El detalle a nivel de clúster —
+las anclas minoristas y cívicas específicas que componen cada clúster — está pendiente del
+conjunto de datos SIG subyacente y no se incluye en este esbozo. Véase
+[[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]] para el conjunto Top 400
+completo y [[co-location-methodology|Metodología de Co-ubicación]] para conocer los criterios
+de calificación de mercados.
 
 ## Véase también
 

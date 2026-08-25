@@ -12,15 +12,15 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Central Ontario market, 90 km from Toronto — just outside the current Top-400 ranked pool's 80 km band."
+short_description: "Central Ontario market, 90 km from Toronto — just outside the current Top-400 Top-400 screening band's 80 km outer edge."
 paired_with: markets/ca-on-barrie-innisfil.es.md
-last_edited: 2026-07-11
+last_edited: 2026-08-25
 editor: editorial
 ---
 
 Barrie, together with neighbouring Innisfil, does not currently appear in the North American
 Top-400 Regional Markets list. At roughly 90 kilometres from Toronto it sits just beyond the
-80 km outer edge of the suburban-regional band the ranking uses.
+80 km outer edge of the suburban-regional band the screening applies.
 
 ## Overview
 
@@ -39,9 +39,9 @@ developed rapidly since 2000. Barrie annexed 2,293 hectares from Innisfil in 201
 ## Regional Market Standing
 
 Barrie–Innisfil does not currently appear in the [[atlas-top-400-north-america|Top 400
-Regional Markets — North America]] ranked list. This is not a data defect; at roughly 90 km
+Regional Markets — North America]] list. This is not a data defect; at roughly 90 km
 from Toronto, the market falls just outside the 80 km outer boundary of
-[[about-regional-markets-system|the co-location scoring system's]] suburban-regional band.
+[[about-regional-markets-system|the co-location screening system's]] suburban-regional band.
 It falls into the standalone-secondary category instead.
 
 ## See Also

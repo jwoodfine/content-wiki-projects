@@ -12,16 +12,15 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Mercado del valle de Okanagan, a 390 km de Vancouver — fuera del conjunto clasificado Top-400 actual."
+short_description: "Mercado del valle de Okanagan, a 390 km de Vancouver — fuera del conjunto de selección Top-400 actual."
 paired_with: markets/ca-bc-kelowna.md
-last_edited: 2026-07-10
+last_edited: 2026-08-25
 editor: editorial
 ---
 
 Kelowna, el centro comercial del valle de Okanagan en Columbia Británica, no aparece
 actualmente en la lista Top-400 de Mercados Regionales de América del Norte — a 390
-kilómetros de Vancouver se sitúa muy fuera de la banda suburbano-regional de 15 a 80 km que
-utiliza la clasificación.
+kilómetros de Vancouver se sitúa muy fuera de la banda suburbano-regional de 15 a 80 km que aplica la selección.
 
 ## Descripción general
 
@@ -39,12 +38,12 @@ general.
 
 ## Posición en el Mercado Regional
 
-Kelowna no aparece actualmente en la lista clasificada
+Kelowna no aparece actualmente en la lista
 [[atlas-top-400-north-america|Top 400 Mercados Regionales — América del Norte]] — su
 distancia respecto a Vancouver la sitúa fuera de la banda suburbano-regional de 15 a 80 km
-que aplica la clasificación. Esto no es un defecto de datos; refleja la clasificación del
+que aplica la selección. Esto no es un defecto de datos; refleja la clasificación del
 mercado como independiente-secundario en lugar de suburbano-regional según la propia
-taxonomía de [[about-regional-markets-system|el sistema de puntuación de co-ubicación]].
+taxonomía de [[about-regional-markets-system|el sistema de selección de co-ubicación]].
 
 ## Véase también
 

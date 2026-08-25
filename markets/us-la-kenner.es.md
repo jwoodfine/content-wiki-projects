@@ -12,17 +12,17 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Mercado Regional número 333 en América del Norte — suburbio de Nueva Orleans; puntuación compuesta 4,5."
+short_description: "Mercado Regional en América del Norte — suburbio de Nueva Orleans; 1 clúster de nivel District y 1 de nivel Local."
 paired_with: markets/us-la-kenner.md
-last_edited: 2026-08-24
+last_edited: 2026-08-25
 editor: editorial
 ---
 
-Kenner, el suburbio incorporado más grande de Nueva Orleans, ocupa el puesto 333 entre los
-400 Mercados Regionales de América del Norte con una puntuación compuesta de 4,5. Su posición
-entre el lago Pontchartrain y el río Misisipi, junto con el Aeropuerto Internacional Louis
-Armstrong de Nueva Orleans dentro de sus límites, le confiere una combinación inusual de
-comercio impulsado por el aeropuerto y comercio minorista suburbano.
+Kenner, el suburbio incorporado más grande de Nueva Orleans, es un Mercado Regional de
+América del Norte con un clúster de nivel District y uno de nivel Local. Su posición entre el
+lago Pontchartrain y el río Misisipi, junto con el Aeropuerto Internacional Louis Armstrong de
+Nueva Orleans dentro de sus límites, le confiere una combinación inusual de comercio impulsado
+por el aeropuerto y comercio minorista suburbano.
 
 ## Descripción general
 
@@ -44,19 +44,14 @@ latina y 21,48% negra o afroamericana, con una sección del norte de Kenner cono
 
 | Campo | Valor |
 |---|---|
-| Posición | 333 de 400 (América del Norte) |
-| Puntuación compuesta | 4,5 |
-| Clústeres de Nivel 1 | 0 |
-| Clústeres de Nivel 2 | 1 |
-| Clústeres de Nivel 3 | 1 |
 | Suburbio de | Nueva Orleans |
 
-El detalle a nivel de clúster — las anclas minoristas y cívicas específicas que componen cada
-uno de los clústeres de co-localización de Kenner — está pendiente del conjunto de datos SIG
-subyacente y no se incluye en este esbozo. Véase
-[[atlas-top-400-north-america|Top 400 Mercados Regionales — América del Norte]] para la lista
-clasificada completa y [[co-location-methodology|Metodología de Co-ubicación]] para conocer
-cómo se calcula la puntuación compuesta.
+Kenner tiene un clúster de nivel District y uno de nivel Local. El detalle a nivel de
+clúster — las anclas minoristas y cívicas específicas que componen cada clúster — está
+pendiente del conjunto de datos SIG subyacente y no se incluye en este esbozo. Véase
+[[atlas-top-400-north-america|Top 400 Mercados Regionales — América del Norte]] para el
+conjunto Top 400 completo y [[co-location-methodology|Metodología de Co-ubicación]] para
+conocer los criterios de calificación de mercados.
 
 ## Véase también
 

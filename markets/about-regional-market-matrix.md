@@ -12,7 +12,7 @@ superseded_by: about-regional-markets-system
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-11
+last_edited: 2026-08-25
 editor: editorial
 short_description: "SUPERSEDED (2026-07-10) — see about-regional-markets-system for the current framework. Prior definition described MCorp's 8-target-market direct-hold matrix, pre-dating the 18-country suburban co-location system now in use."
 paired_with: markets/about-regional-market-matrix.es.md
@@ -26,7 +26,7 @@ cites:
 > system now in use — see
 > [[about-regional-markets-system|Regional Markets Intelligence System]] for the current
 > framework (18 countries, 4,436 Regional Markets, powering the
-> [[atlas-top-400-north-america|Top 400]] ranked lists). Retained per the never-delete
+> [[atlas-top-400-north-america|Top 400]] set). Retained per the never-delete
 > convention; kept for historical reference only. Confirmed superseded by operator,
 > 2026-07-10.
 

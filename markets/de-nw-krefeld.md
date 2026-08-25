@@ -14,13 +14,13 @@ quality: complete
 status: retired
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Rank 5 European Regional Market — suburb of Düsseldorf, 19.4 km; composite score 12.0."
+short_description: "European Regional Market — suburb of Düsseldorf, 19.4 km; 2 Regional-tier co-location clusters."
 paired_with: markets/de-nw-krefeld.es.md
-last_edited: 2026-08-24
+last_edited: 2026-08-25
 editor: editorial
 ---
 
-Krefeld is an independent city (*kreisfreie Stadt*) in North Rhine-Westphalia, 19.4 km northwest of Düsseldorf within the Rhine-Ruhr polycentric metropolitan area of over ten million people. Founded on a silk-and-textile tradition dating to the eighteenth century, the city retains a diversified industrial base — Nirosta steel, Canon, Hitachi, Evonik — alongside substantial civic infrastructure: two Helios hospital campuses, Krankenhaus Maria-Hilf, and Hochschule Niederrhein with roughly 11,000 students enrolled. Two Tier 1 co-location clusters, each combining hypermarket, hardware, and consumer-electronics anchors, place Krefeld 5th among the 400 European Regional Markets, with a composite co-location score of 12.0.
+Krefeld is an independent city (*kreisfreie Stadt*) in North Rhine-Westphalia, 19.4 km northwest of Düsseldorf within the Rhine-Ruhr polycentric metropolitan area of over ten million people. Founded on a silk-and-textile tradition dating to the eighteenth century, the city retains a diversified industrial base — Nirosta steel, Canon, Hitachi, Evonik — alongside substantial civic infrastructure: two Helios hospital campuses, Krankenhaus Maria-Hilf, and Hochschule Niederrhein with roughly 11,000 students enrolled. Two Regional-tier co-location clusters, each combining hypermarket, hardware, and consumer-electronics anchors, anchor Krefeld's commercial geography.
 
 ## Overview
 
@@ -32,7 +32,7 @@ Geographically, Krefeld functions as a component municipality of the Rhine-Ruhr 
 
 ## Co-location Profile
 
-Krefeld contains two Tier 1 co-locations. Both combine the three German big-box retail formats — hypermarket, hardware, and consumer electronics — producing the highest composition score available in the European dataset.
+Krefeld contains two Tier 1 co-locations. Both combine the three German big-box retail formats — hypermarket, hardware, and consumer electronics.
 
 **Table 1.** Krefeld co-locations.
 
@@ -51,7 +51,7 @@ Krefeld's civic anchor profile is dense for a city of its size. The Helios netwo
 
 Higher education is anchored by Hochschule Niederrhein, a University of Applied Sciences with approximately 11,000 students enrolled across its Krefeld facilities. The institution maintains two physically separated campuses in the city — Krefeld-West and Krefeld-Süd — and a further campus in neighbouring Mönchengladbach. The geographic separation of the West and Süd campuses places one or both within the catchment radius of each Tier 1 retail cluster, which is why both campuses appear as members of both clusters in the data.
 
-The combined hospital and university footprint produces the 1.5× civic multiplier applied to Krefeld's composite score.
+The combined hospital and university footprint gives Krefeld civic-anchor presence alongside its two Regional-tier co-location clusters.
 
 ## AEC Data
 
@@ -66,19 +66,11 @@ The combined hospital and university footprint produces the 1.5× civic multipli
 
 Cfb is the dominant climate regime across the Rhine-Ruhr region: mild summers, cool but rarely severe winters, and rainfall distributed across the year. For building design, this implies moderate heating demand and minimal mechanical cooling demand relative to continental European zones further east. The Atlantic-Oceanic regime contrasts with the Dfb continental profile that prevails in Bavaria and the eastern German states.
 
-## Composite Score
+Krefeld is a suburban-regional market, 19.4 km from the Düsseldorf metro centroid.
 
-**Table 3.** Composite score derivation for Krefeld.
+## The bottom line
 
-| Component | Value | Notes |
-|---|---|---|
-| Tier score | 8 | (2 × 4) + (0 × 2) + (0 × 1) |
-| Civic multiplier | 1.5 | Medical and academic anchors present |
-| Confidence factor | 1.0 | High confidence |
-| **Composite score** | **12.0** | tier_score × civic_multiplier × confidence_factor |
-| Regional Market type | suburban-regional | 19.4 km from Düsseldorf metro centroid |
-
-A composite score of 12.0 is representative of the upper European suburban-regional tier. The European dataset exhibits lower maximum scores than the North American dataset because European municipalities are geographically smaller units, so even economically significant centres tend to span fewer Tier 1 compositions than their suburban North American counterparts. The composite score formula does not apply a metro-distance multiplier; suburban-regional classification is recorded as a categorical descriptor rather than a scoring penalty.
+Krefeld is a suburban-regional market 19.4 km from Düsseldorf, built on two Regional-tier co-locations that each combine hypermarket, hardware, and consumer-electronics formats. Its civic anchor base — three hospitals and a University of Applied Sciences — is unusually dense for a city of roughly 230,000. For site and building planning, the Atlantic-Oceanic (Cfb) climate implies moderate heating demand and minimal mechanical cooling relative to continental zones further east.
 
 ## See Also
 
@@ -87,10 +79,6 @@ A composite score of 12.0 is representative of the upper European suburban-regio
 - [[co-location-methodology|Co-location Methodology]]
 - [[co-location-ranking-system|Co-location Ranking System]]
 - [[od-catchment-methodology|O-D Catchment Methodology]]
-
-## The bottom line
-
-Krefeld is a suburban-regional market 19.4 km from Düsseldorf, ranking 5th among the 400 European Regional Markets with a composite score of 12.0. Its strength comes from two Tier 1 co-locations that each combine hypermarket, hardware, and consumer-electronics formats, paired with a civic anchor base — three hospitals and a University of Applied Sciences — that is unusually dense for a city of roughly 230,000 and earns the 1.5× civic multiplier. For site and building planning, the Atlantic-Oceanic (Cfb) climate implies moderate heating demand and minimal mechanical cooling relative to continental zones further east.
 
 ## References
 

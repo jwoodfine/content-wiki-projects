@@ -3,7 +3,7 @@ schema: foundry-doc-v1
 title: "TOP600 Europa — Índice de mercados regionales"
 slug: atlas-top-600-europe
 category: markets
-index_group: screening-universe-and-rankings
+index_group: screening-universe
 type: topic
 content_type: topic
 quality: stub
@@ -12,7 +12,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
 keynote: false
-last_edited: 2026-06-29
+last_edited: 2026-08-25
 editor: woodfine-editorial
 short_description: "Índice de hasta 600 mercados inmobiliarios comerciales regionales en Europa evaluados para viabilidad de co-ubicación."
 paired_with: markets/atlas-top-600-europe.md
@@ -25,7 +25,7 @@ mercados europeos presentan un conjunto distintivo de características estructur
 comparación con los equivalentes norteamericanos: núcleos urbanos históricos más densos, mayor
 dependencia del transporte público, entornos de planificación minorista más regulados y una
 gama más amplia de niveles de ingresos entre los estados miembros de la Unión Europea. El
-índice aplica criterios de selección coherentes adaptando la metodología de clasificación a
+índice aplica criterios de selección coherentes adaptando la metodología de calificación a
 estas diferencias regionales.
 
 ## Alcance y clasificación

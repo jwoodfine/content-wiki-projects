@@ -12,16 +12,16 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Rank 112 North American Regional Market — suburb of Los Angeles; composite score 6.0."
+short_description: "North American Regional Market — suburb of Los Angeles; 1 Regional-tier co-location cluster."
 paired_with: markets/us-ca-torrance.es.md
-last_edited: 2026-08-24
+last_edited: 2026-08-25
 editor: editorial
 ---
 
-Torrance, a mixed industrial-residential suburb in southwestern Los Angeles County, ranks
-112th among the 400 North American Regional Markets with a composite score of 6.0. The city
-combines a large regional mall with a manufacturing and aerospace employment base uncommon
-among the index's single-cluster markets.
+Torrance, a mixed industrial-residential suburb in southwestern Los Angeles County, is a
+suburb of Los Angeles with a single Regional-tier co-location cluster. The city combines a
+large regional mall with a manufacturing and aerospace employment base uncommon among the
+covered markets with only one cluster.
 
 ## Overview
 
@@ -40,20 +40,13 @@ percent Asian, and 19.09 percent Hispanic or Latino.
 
 ## Regional Market Standing
 
-| Field | Value |
-|---|---|
-| Rank | 112 of 400 (North America) |
-| Composite score | 6.0 |
-| Tier 1 clusters | 1 |
-| Tier 2 clusters | 0 |
-| Tier 3 clusters | 0 |
-| Suburb of | Los Angeles |
+Torrance is a suburb of Los Angeles, with a single Regional-tier co-location cluster.
 
 Cluster-level detail — the specific retail and civic anchors composing Torrance's single
-Tier 1 cluster — is pending the underlying GIS dataset and is not included in this stub. See
-[[atlas-top-400-north-america|Top 400 Regional Markets — North America]] for the full ranked
-list and [[co-location-methodology|Co-location Methodology]] for how the composite score is
-derived.
+Regional-tier cluster — is pending the underlying GIS dataset and is not included in this
+stub. See [[atlas-top-400-north-america|Top 400 Regional Markets — North America]] for the
+full Top 400 set and [[co-location-methodology|Co-location Methodology]] for how markets
+qualify.
 
 ## See Also
 

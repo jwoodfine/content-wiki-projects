@@ -12,16 +12,15 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Rank 294 European Regional Market — suburb of Wigan; composite score 4.5."
+short_description: "European Regional Market — suburb of Wigan; 1 District-tier and 1 Local-tier co-location cluster."
 paired_with: markets/gb-eng-warrington.es.md
-last_edited: 2026-07-10
+last_edited: 2026-08-25
 editor: editorial
 ---
 
-Warrington, a Cheshire New Town positioned between Manchester and Liverpool, ranks 294th
-among the 400 European Regional Markets with a composite score of 4.5. A transition from
-heavy industry to retail, distribution, and technology employment underpins one Tier 2 and
-one Tier 3 co-location cluster.
+Warrington, a Cheshire New Town positioned between Manchester and Liverpool, is a European
+Regional Market with one District-tier and one Local-tier co-location cluster. A transition
+from heavy industry to retail, distribution, and technology employment underpins both.
 
 ## Overview
 
@@ -41,18 +40,13 @@ when the retailer entered the market in 1987.
 
 | Field | Value |
 |---|---|
-| Rank | 294 of 400 (Europe) |
-| Composite score | 4.5 |
-| Tier 1 clusters | 0 |
-| Tier 2 clusters | 1 |
-| Tier 3 clusters | 1 |
 | Suburb of | Wigan |
 
-Cluster-level detail — the specific retail and civic anchors composing each of Warrington's
-co-location clusters — is pending the underlying GIS dataset and is not included in this
-stub. See [[atlas-top-400-europe|Top 400 Regional Markets — Europe]] for the full ranked
-list and [[co-location-methodology|Co-location Methodology]] for how the composite score is
-derived.
+Warrington has one District-tier and one Local-tier co-location cluster. Cluster-level
+detail — the specific retail and civic anchors composing each cluster — is pending the
+underlying GIS dataset and is not included in this stub. See
+[[atlas-top-400-europe|Top 400 Regional Markets — Europe]] for the full Top 400 set and
+[[co-location-methodology|Co-location Methodology]] for how markets qualify.
 
 ## See Also
 

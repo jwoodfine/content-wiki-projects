@@ -12,16 +12,16 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Mercado Regional número 278 en América del Norte — suburbio de Salt Lake City; puntuación compuesta 6,0."
+short_description: "Mercado Regional en América del Norte — suburbio de Salt Lake City; 1 clúster de nivel Regional."
 paired_with: markets/us-ut-provo-orem.md
-last_edited: 2026-07-10
+last_edited: 2026-08-25
 editor: editorial
 ---
 
-Provo, la mayor de las ciudades gemelas del Valle de Utah junto con Orem, ocupa el puesto 278
-entre los 400 Mercados Regionales de América del Norte con una puntuación compuesta de 6,0.
-La Universidad Brigham Young sostiene una economía tecnológica inusualmente joven y de
-rápido crecimiento, a veces descrita como el clúster "Silicon Slopes".
+Provo, la mayor de las ciudades gemelas del Valle de Utah junto con Orem, es un Mercado
+Regional de América del Norte con un clúster de nivel Regional. La Universidad Brigham Young
+sostiene una economía tecnológica inusualmente joven y de rápido crecimiento, a veces
+descrita como el clúster "Silicon Slopes".
 
 ## Descripción general
 
@@ -43,22 +43,17 @@ una ciudad distinta y no como una entidad combinada.
 
 | Campo | Valor |
 |---|---|
-| Posición | 278 de 400 (América del Norte) |
-| Puntuación compuesta | 6,0 |
-| Clústeres de Nivel 1 | 1 |
-| Clústeres de Nivel 2 | 0 |
-| Clústeres de Nivel 3 | 0 |
 | Suburbio de | Salt Lake City |
 
-Nota: la entrada de la tabla TOP-400 corresponde específicamente a "Provo, UT" — Orem no
-tiene una entrada clasificada propia en el conjunto de datos actual. Este artículo se titula
-"Provo–Orem" reflejando el carácter de mercado regional combinado de ambas ciudades, pero la
-posición y puntuación anteriores describen únicamente a Provo. El detalle a nivel de clúster
-— las anclas minoristas y cívicas específicas que componen el único clúster de Nivel 1 de
-Provo — está pendiente del conjunto de datos SIG subyacente y no se incluye en este esbozo.
-Véase [[atlas-top-400-north-america|Top 400 Mercados Regionales — América del Norte]] para la
-lista clasificada completa y [[co-location-methodology|Metodología de Co-ubicación]] para
-conocer cómo se calcula la puntuación compuesta.
+Nota: la entrada de la tabla Top 400 corresponde específicamente a "Provo, UT" — Orem no
+tiene una entrada propia en el conjunto de datos actual. Este artículo se titula "Provo–Orem"
+reflejando el carácter de mercado regional combinado de ambas ciudades, pero el recuento de
+clústeres anterior describe únicamente a Provo. Provo tiene un clúster de nivel Regional. El
+detalle a nivel de clúster — las anclas minoristas y cívicas específicas que lo componen —
+está pendiente del conjunto de datos SIG subyacente y no se incluye en este esbozo. Véase
+[[atlas-top-400-north-america|Top 400 Mercados Regionales — América del Norte]] para el
+conjunto Top 400 completo y [[co-location-methodology|Metodología de Co-ubicación]] para
+conocer los criterios de calificación de mercados.
 
 ## Véase también
 

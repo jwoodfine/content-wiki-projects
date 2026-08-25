@@ -12,15 +12,15 @@ quality: stub
 status: retired
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Ciudad bávara que funciona como punto de referencia metropolitano para los mercados suburbanos circundantes — no está en el conjunto clasificado Top-400."
+short_description: "Ciudad bávara que funciona como punto de referencia metropolitano para los mercados suburbanos circundantes — no está en el conjunto de selección Top-400."
 paired_with: markets/de-by-augsburg.md
-last_edited: 2026-07-10
+last_edited: 2026-08-25
 editor: editorial
 ---
 
 Augsburg no tiene entrada propia en la lista Top-400 de Mercados Regionales de Europa. En el
 conjunto de datos actual, Augsburg funciona como el punto de referencia metropolitano frente
-al cual se clasifican otros cuatro mercados suburbanos — Nördlingen, Landsberg am Lech,
+al cual se cuentan otros cuatro mercados suburbanos — Nördlingen, Landsberg am Lech,
 Donauwörth y Heidenheim an der Brenz — en lugar de ser ella misma un mercado suburbano.
 
 ## Descripción general
@@ -39,13 +39,11 @@ atrajo artistas y artesanos y consolidó a la ciudad como centro creativo.
 
 ## Posición en el Mercado Regional
 
-Augsburg no aparece como entrada clasificada en la lista
+Augsburg no aparece como entrada en la lista
 [[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]]. Esto no es un defecto de
 datos: en la versión actual, Augsburg es el punto de referencia metropolitano de otras cuatro
 entradas suburbanas (Nördlingen, Landsberg am Lech, Donauwörth, Heidenheim an der Brenz),
-conforme a la propia taxonomía de [[about-regional-markets-system|el sistema de puntuación de
-co-ubicación]], que excluye los núcleos metropolitanos del conjunto clasificado
-suburbano-regional.
+conforme a la propia taxonomía de [[about-regional-markets-system|el sistema de selección de co-ubicación]], que excluye los núcleos metropolitanos del conjunto de selección suburbano-regional.
 
 ## Véase también
 

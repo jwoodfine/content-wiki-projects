@@ -3,7 +3,7 @@ schema: foundry-doc-v1
 title: "Índice de Niveles de Co-ubicación: América del Norte"
 slug: atlas-tier-index-north-america
 category: markets
-index_group: screening-universe-and-rankings
+index_group: screening-universe
 type: topic
 content_type: topic
 quality: complete
@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-05-25
+last_edited: 2026-08-25
 editor: pointsav-engineering
 short_description: "Índice clasificado por niveles de nodos de convergencia comercial en Estados Unidos, Canadá y México, resumiendo la distribución por nivel de calidad por mercado."
 paired_with: markets/atlas-tier-index-north-america.md

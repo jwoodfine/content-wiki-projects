@@ -12,9 +12,9 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Saskatchewan's provincial capital — outside the current Top-400 ranked pool (no nearby major metro core)."
+short_description: "Saskatchewan's provincial capital — outside the current Top-400 screening band (no nearby major metro core)."
 paired_with: markets/ca-sk-regina.es.md
-last_edited: 2026-07-10
+last_edited: 2026-08-25
 editor: editorial
 ---
 
@@ -38,8 +38,8 @@ led by Filipino, Indian, and Chinese communities.
 ## Regional Market Standing
 
 Regina does not currently appear in the [[atlas-top-400-north-america|Top 400 Regional
-Markets — North America]] ranked list. This is not a data defect; the Canadian prairies do
-not place Regina within [[about-regional-markets-system|the co-location scoring system's]]
+Markets — North America]] list. This is not a data defect; the Canadian prairies do
+not place Regina within [[about-regional-markets-system|the co-location screening system's]]
 15–80 km suburban-regional distance band of any major metro core — it functions as its own
 provincial commercial centre.
 

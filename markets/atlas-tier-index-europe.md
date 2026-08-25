@@ -3,7 +3,7 @@ schema: foundry-doc-v1
 title: "Co-location tier index: Europe"
 slug: atlas-tier-index-europe
 category: markets
-index_group: screening-universe-and-rankings
+index_group: screening-universe
 type: topic
 content_type: topic
 quality: complete
@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-11
+last_edited: 2026-08-25
 editor: editorial
 short_description: "Aggregated tier-ranked index of commercial convergence nodes across European markets, summarizing quality tier distribution with IKEA as the primary anchor."
 paired_with: markets/atlas-tier-index-europe.es.md

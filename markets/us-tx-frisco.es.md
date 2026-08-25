@@ -12,18 +12,18 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Mercado Regional número 3 en América del Norte — suburbio de Dallas, 44 km; puntuación compuesta 21,0."
+short_description: "Mercado Regional en América del Norte — suburbio de Dallas, 44 km; 3 clústeres de nivel Regional y 1 de nivel District con ancla cívica confirmada."
 paired_with: markets/us-tx-frisco.md
-last_edited: 2026-08-24
+last_edited: 2026-08-25
 editor: editorial
 ---
 
-Frisco, suburbio de Dallas a 44 kilómetros al norte del núcleo metropolitano, ocupa el
-tercer puesto entre los 400 Mercados Regionales de América del Norte con una puntuación
-compuesta de 21,0, construida a partir de tres clústeres de co-localización de Nivel 1 y un
-ancla cívica confirmada. La población de la ciudad más que se duplicó en la década posterior
-a 2010, impulsada por traslados corporativos y desarrollo minorista de gran formato que la
-situaron entre las ciudades de más rápido crecimiento de Estados Unidos.
+Frisco, suburbio de Dallas a 44 kilómetros al norte del núcleo metropolitano, es un Mercado
+Regional de América del Norte construido a partir de tres clústeres de nivel Regional y uno
+de nivel District, con un ancla cívica confirmada. La población de la ciudad creció con
+fuerza en la década posterior a 2010, impulsada por traslados corporativos y desarrollo
+minorista de gran formato, lo que la situó entre las ciudades de más rápido crecimiento de
+Estados Unidos.
 
 ## Descripción general
 
@@ -47,20 +47,15 @@ desarrollo de uso mixto en el centro que combina el ayuntamiento, la biblioteca 
 
 | Campo | Valor |
 |---|---|
-| Posición | 3 de 400 (América del Norte) |
-| Puntuación compuesta | 21,0 |
-| Clústeres de Nivel 1 | 3 |
-| Clústeres de Nivel 2 | 1 |
-| Clústeres de Nivel 3 | 0 |
-| Ancla cívica confirmada | Sí |
 | Suburbio de | Dallas (44 km) |
 
-El detalle a nivel de clúster — las anclas minoristas y cívicas específicas que componen cada
-uno de los cuatro clústeres de co-localización de Frisco — está pendiente del conjunto de
-datos SIG subyacente y no se incluye en este esbozo. Véase
-[[atlas-top-400-north-america|Top 400 Mercados Regionales — América del Norte]] para la lista
-clasificada completa y [[co-location-methodology|Metodología de Co-ubicación]] para conocer
-cómo se calcula la puntuación compuesta.
+Frisco tiene tres clústeres de nivel Regional y uno de nivel District, con un ancla cívica
+confirmada. El detalle a nivel de clúster — las anclas minoristas y cívicas específicas que
+componen cada uno de los cuatro clústeres de Frisco — está pendiente del conjunto de datos
+SIG subyacente y no se incluye en este esbozo. Véase
+[[atlas-top-400-north-america|Top 400 Mercados Regionales — América del Norte]] para el
+conjunto Top 400 completo y [[co-location-methodology|Metodología de Co-ubicación]] para
+conocer los criterios de calificación de mercados.
 
 ## Véase también
 

@@ -14,13 +14,13 @@ quality: complete
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Rank 4 North American Regional Market — suburb of Toronto, 24.9 km; composite score 18.0."
+short_description: "North American Regional Market — suburb of Toronto, 24.9 km; 2 Regional-tier, 1 District-tier, and 2 Local-tier co-location clusters."
 paired_with: markets/ca-on-mississauga.es.md
-last_edited: 2026-08-24
+last_edited: 2026-08-25
 editor: editorial
 ---
 
-Mississauga, on the northwestern shore of Lake Ontario 25 km west of downtown Toronto, is the commercial centre of the western Greater Toronto Area and Canada's seventh-most populous municipality. More than sixty Fortune 500 companies maintain regional offices or Canadian headquarters in the city — among them TD Bank, Royal Bank of Canada, and Oracle — and Toronto Pearson International Airport, Canada's busiest, sits within its northern boundary. Two Trillium Health Partners hospital campuses and the University of Toronto Mississauga anchor its civic infrastructure alongside five co-location clusters, two of them Tier 1. Mississauga ranks fourth among the 400 North American Regional Markets, with a composite co-location score of 18.0.
+Mississauga, on the northwestern shore of Lake Ontario 25 km west of downtown Toronto, is the commercial centre of the western Greater Toronto Area and Canada's seventh-most populous municipality. More than sixty Fortune 500 companies maintain regional offices or Canadian headquarters in the city — among them TD Bank, Royal Bank of Canada, and Oracle — and Toronto Pearson International Airport, Canada's busiest, sits within its northern boundary. Two Trillium Health Partners hospital campuses and the University of Toronto Mississauga anchor its civic infrastructure alongside five co-location clusters, two of them Regional-tier.
 
 ## Overview
 
@@ -50,7 +50,7 @@ Mississauga's civic anchor set is unusually strong for a suburban-regional marke
 
 The academic anchor is the University of Toronto Mississauga, a full research campus of the University of Toronto with an enrolment in the range of fifteen thousand students. UTM appears in two of the five clusters, reflecting the way the campus and its surrounding commercial fabric have grown together along the Mississauga Road corridor.
 
-The presence of both medical and academic anchors triggers the 1.5× civic multiplier in the composite score. The multiplier is not awarded for civic presence in general — it specifically rewards markets in which civic institutions co-locate with retail clusters at the cluster geometry level, indicating a built environment in which institutional and commercial activity reinforce one another.
+The presence of both medical and academic anchors gives Mississauga civic-anchor presence at the cluster geometry level — civic institutions co-locate with retail clusters rather than sitting apart from them, indicating a built environment in which institutional and commercial activity reinforce one another.
 
 ## AEC Data
 
@@ -65,19 +65,11 @@ The presence of both medical and academic anchors triggers the 1.5× civic multi
 
 Southern Ontario's Dfa climate is characterised by hot, humid summers and cold winters with persistent snow cover, mixed liquid-and-frozen precipitation across the shoulder seasons, and a four-season energy demand profile in which both heating loads in winter and cooling loads in summer are substantial. Annual temperature swings exceed forty degrees Celsius between seasonal extremes, and the building envelope, HVAC, and stormwater design considerations all reflect that range.
 
-## Composite Score
+Mississauga is a suburban-regional market, 24.9 km from the Toronto metro centroid, with two Regional-tier clusters, one District-tier cluster, and two Local-tier clusters. The suburban-regional classification — applied to markets located 15 to 80 km from a major metropolitan centroid — is the filter that determines which markets are covered by the Regional Markets dataset at all.
 
-**Table 3.** Composite score components.
+## The bottom line
 
-| Component | Value |
-|---|---|
-| Tier score | (2 × 4) + (1 × 2) + (2 × 1) = 12 |
-| Civic multiplier | 1.5 |
-| Confidence factor | 1.0 |
-| **Composite score** | **12 × 1.5 × 1.0 = 18.0** |
-| rm_type | suburban-regional (24.9 km from Toronto metro centroid) |
-
-The composite score of 18.0 places Mississauga fourth among the 400 ranked North American Regional Markets under the corrected methodology. The score reflects the dense T1 pairing, the supporting T2 and T3 layer, and the civic infrastructure multiplier. The suburban-regional classification — applied to markets located 15 to 80 km from a major metropolitan centroid — is a filter that determines which markets enter the Regional Market list at all; it is not itself a numeric input to the score.
+Mississauga's five co-location clusters reflect a mature suburban retail geography, with the major North American big-box operators established at multiple sites within the municipal boundary. Two Trillium Health Partners hospitals and a full University of Toronto research campus give the market an unusually strong civic anchor set. For a market sitting 24.9 km from downtown Toronto, this combination signals both household-goods density and institutional reinforcement of commercial activity — defining traits of a suburban-regional market.
 
 ## See Also
 
@@ -86,10 +78,6 @@ The composite score of 18.0 places Mississauga fourth among the 400 ranked North
 - [[co-location-methodology|Co-location Methodology]]
 - [[co-location-ranking-system|Co-location Ranking System]]
 - [[od-catchment-methodology|O-D Catchment Methodology]]
-
-## The bottom line
-
-Mississauga's fourth-place ranking reflects a mature suburban retail geography in which the major North American big-box operators have established multiple stores within the municipal boundary, paired with an unusually strong civic anchor set of two Trillium Health Partners hospitals and a full University of Toronto research campus. The co-occurrence of those medical and academic institutions with retail clusters triggers the 1.5× civic multiplier that lifts the composite score to 18.0. For a market sitting 24.9 km from downtown Toronto, this combination signals both household-goods density and institutional reinforcement of commercial activity — the defining traits of a high-value suburban-regional market.
 
 ## References
 

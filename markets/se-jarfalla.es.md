@@ -12,16 +12,16 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Mercado Regional número 60 en Europa — suburbio de Estocolmo; puntuación compuesta 6,0."
+short_description: "Mercado Regional en Europa — suburbio de Estocolmo; 1 clúster de nivel Regional."
 paired_with: markets/se-jarfalla.md
-last_edited: 2026-08-24
+last_edited: 2026-08-25
 editor: editorial
 ---
 
-Järfälla, municipio de cercanías en el lago Mälaren al norte de Estocolmo, ocupa el puesto 60
-entre los 400 Mercados Regionales de Europa con una puntuación compuesta de 6,0. Un
-crecimiento demográfico constante desde la década de 1970 y una ampliación del metro prevista
-para 2027 apuntan a una continua intensificación suburbana.
+Järfälla, municipio de cercanías en el lago Mälaren al norte de Estocolmo, es un Mercado
+Regional de Europa con un clúster de nivel Regional. Un crecimiento demográfico constante
+desde la década de 1970 y una ampliación del metro prevista para 2027 apuntan a una continua
+intensificación suburbana.
 
 ## Descripción general
 
@@ -43,19 +43,14 @@ de autobuses.
 
 | Campo | Valor |
 |---|---|
-| Posición | 60 de 400 (Europa) |
-| Puntuación compuesta | 6,0 |
-| Clústeres de Nivel 1 | 1 |
-| Clústeres de Nivel 2 | 0 |
-| Clústeres de Nivel 3 | 0 |
 | Suburbio de | Estocolmo |
 
-El detalle a nivel de clúster — las anclas minoristas y cívicas específicas que componen el
-único clúster de Nivel 1 de Järfälla — está pendiente del conjunto de datos SIG subyacente y
-no se incluye en este esbozo. Véase [[atlas-top-400-europe|Top 400 Mercados Regionales —
-Europa]] para la lista clasificada completa y
-[[co-location-methodology|Metodología de Co-ubicación]] para conocer cómo se calcula la
-puntuación compuesta.
+Järfälla tiene un clúster de nivel Regional. El detalle a nivel de clúster — las anclas
+minoristas y cívicas específicas que lo componen — está pendiente del conjunto de datos SIG
+subyacente y no se incluye en este esbozo. Véase [[atlas-top-400-europe|Top 400 Mercados
+Regionales — Europa]] para el conjunto Top 400 completo y
+[[co-location-methodology|Metodología de Co-ubicación]] para conocer los criterios de
+calificación de mercados.
 
 ## Véase también
 

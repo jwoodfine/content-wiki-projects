@@ -12,15 +12,14 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Castile and León city, 244 km from Madrid — outside the current Top-400 ranked pool."
+short_description: "Castile and León city, 244 km from Madrid — outside the current Top-400 screening band."
 paired_with: markets/es-cl-burgos.es.md
-last_edited: 2026-07-10
+last_edited: 2026-08-25
 editor: editorial
 ---
 
 Burgos does not currently appear in the European Top-400 Regional Markets list — at 244
-kilometres from Madrid it sits well outside the 15–80 km suburban-regional band the ranking
-uses.
+kilometres from Madrid it sits well outside the 15–80 km suburban-regional band applied for screening.
 
 ## Overview
 
@@ -45,7 +44,7 @@ percent), primarily from Colombia, Romania, and Ecuador.
 
 Burgos does not currently appear in the [[atlas-top-400-europe|Top 400 Regional Markets —
 Europe]] list. This is not a data defect; its 244 km distance from Madrid places it outside
-[[about-regional-markets-system|the co-location scoring system's]] 15–80 km suburban-regional
+[[about-regional-markets-system|the co-location screening system's]] 15–80 km suburban-regional
 band, classifying it as standalone-secondary.
 
 ## See Also

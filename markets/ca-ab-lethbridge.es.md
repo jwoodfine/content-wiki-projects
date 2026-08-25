@@ -12,15 +12,15 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Mercado del sur de Alberta, a 215 km de Calgary — fuera del conjunto clasificado Top-400 actual."
+short_description: "Mercado del sur de Alberta, a 215 km de Calgary — fuera del conjunto de selección Top-400 actual."
 paired_with: markets/ca-ab-lethbridge.md
-last_edited: 2026-07-10
+last_edited: 2026-08-25
 editor: editorial
 ---
 
 Lethbridge, el centro comercial e industrial del sur de Alberta, no aparece actualmente en la
 lista Top-400 de Mercados Regionales de América del Norte — a 215 kilómetros de Calgary se
-sitúa fuera de la banda suburbano-regional de 15 a 80 km que utiliza la clasificación, lo que
+sitúa fuera de la banda suburbano-regional de 15 a 80 km que aplica la selección, lo que
 la convierte en un mercado independiente-secundario en lugar de un suburbio de un núcleo
 metropolitano importante.
 
@@ -40,12 +40,12 @@ mayor número de días de viento fuerte de cualquier ciudad canadiense.
 
 ## Posición en el Mercado Regional
 
-Lethbridge no aparece actualmente en la lista clasificada
+Lethbridge no aparece actualmente en la lista
 [[atlas-top-400-north-america|Top 400 Mercados Regionales — América del Norte]] — su
 distancia respecto a Calgary la sitúa fuera de la banda suburbano-regional de 15 a 80 km que
-aplica la clasificación. Esto no es un defecto de datos; refleja la clasificación del mercado
+aplica la selección. Esto no es un defecto de datos; refleja la clasificación del mercado
 como independiente-secundario en lugar de suburbano-regional según la propia taxonomía de
-[[about-regional-markets-system|el sistema de puntuación de co-ubicación]].
+[[about-regional-markets-system|el sistema de selección de co-ubicación]].
 
 ## Véase también
 

@@ -3,7 +3,7 @@ schema: foundry-doc-v1
 title: "TOP600 North America — Regional Market index"
 slug: atlas-top-600-north-america
 category: markets
-index_group: screening-universe-and-rankings
+index_group: screening-universe
 type: topic
 content_type: topic
 quality: stub
@@ -12,7 +12,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 keynote: false
-last_edited: 2026-07-11
+last_edited: 2026-08-25
 editor: woodfine-editorial
 short_description: "Index of up to 600 regional commercial real estate markets across North America screened for co-location viability."
 paired_with: markets/atlas-top-600-north-america.es.md
@@ -43,8 +43,7 @@ corroboration of local income and demand conditions.
 provides physical infrastructure compatible with professional centre co-location. Markets with
 no power centre investment are deferred.
 
-Markets meeting all three screens are scored using the [[co-location-ranking-system|co-location ranking system]]
-and assigned a rank within the North American index.
+Markets meeting all three screens are included in the North American index. No rank or score is published for any market in the index.
 
 ## Geographic coverage
 
@@ -54,7 +53,7 @@ The index covers markets across:
 - **Canada** — markets concentrated in Ontario, Alberta, British Columbia, and Quebec, with secondary representation in the Atlantic and Prairie provinces
 - **Mexico** — targeted coverage of OECD-income-level metropolitan markets in the central and western regions
 
-Country-level sub-indexes provide ranked market tables for each jurisdiction.
+Country-level sub-indexes provide market tables for each jurisdiction.
 
 **Update (2026-07-16) — partially resolved.** A same-day Command correction clarifies:
 "TOP400" is a **permanent public label by design**, not a rename-in-progress — the
@@ -63,7 +62,7 @@ list-in-transition was itself wrong (`gis-top600-proforma-coverage` BRIEF, proje
 commit `ee004649`). Separately confirmed real and live: project-gis's
 `score-regional-markets.py` tool produces `rm-top600.json` with a `top400` tier (the
 published subset, matching `atlas-top-400-*`) and a distinct **"buffer" tier** — 83
-markets total (NA 20, EU 63), the unpublished overflow pool one rank below the TOP400
+markets total (NA 20, EU 63), the unpublished overflow pool just outside the TOP400
 cutoff, not a fixed round number. **Still unreconciled**: whether that live top400/buffer
 tiering is the same methodology this stub article describes (population 50,000–500,000,
 disposable-income + power-centre screens) — the seed-data file needed to check this is

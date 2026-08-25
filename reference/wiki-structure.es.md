@@ -53,7 +53,7 @@ contemporáneos.
 análisis de quién vive y compra en las cercanías, la puntuación y las
 pruebas que un sitio debe superar antes de comprar el terreno.
 
-**Los mercados** es el atlas: cómo se criban y se clasifican los lugares,
+**Los mercados** es el atlas: cómo se criban los lugares,
 los índices por país y por nivel, y una página de perfil para cada mercado
 — una colección en crecimiento, un artículo por lugar.
 

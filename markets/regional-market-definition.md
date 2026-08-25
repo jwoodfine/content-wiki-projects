@@ -4,7 +4,7 @@ title: "Regional market definition"
 slug: regional-market-definition
 short_description: "Spatial containers on the location intelligence map — how settlements with co-location presence differ from Regional Markets, and why coverage is not market strength."
 category: markets
-index_group: screening-universe-and-rankings
+index_group: screening-universe
 type: concept
 content_type: topic
 quality: complete
@@ -13,7 +13,7 @@ audience: customer-woodfine
 bcsc_class: public-disclosure-safe
 language: en
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-03
+last_edited: 2026-08-25
 editor: pointsav-engineering
 paired_with: markets/regional-market-definition.es.md
 cites: []
@@ -43,7 +43,7 @@ Two failure modes follow from conflating coverage with market:
 
 **A count-based floor — a minimum *number* of co-locations within a polygon — is not the right fix.** A settlement can clear a count floor of one and still be a genuinely strong market, if its single co-location cluster is itself a convergence of multiple independent anchor categories — a hypermarket, a hardware retailer, and a warehouse club within one tight cluster is already a T1 by the tier system's own definition (see [[about-regional-markets-system|Regional Markets Intelligence System]]), and a T1 is exactly the concentrated-demand signal the term "market" is supposed to carry. Conversely, a settlement that clears a count floor of two by holding two separate, single-anchor (T3) clusters is not obviously stronger than the single-T1 case a count floor would exclude. Counting *how many* co-location events a settlement has and counting *how strong* each one is are different questions, and only the second one is what "Regional Market" should mean. Composition — the anchor-category mix *within* a cluster — is already captured correctly by the T1/T2/T3 tier classification; a floor built on cluster count instead of cluster tier repeats the exact coverage-versus-market conflation described above.
 
-The object split below still holds. A permissive coverage catalog is a legitimate, honestly-labelled thing to publish, separate from a claim about market strength. But the tighter object's floor should be tier-based (e.g., "contains at least one T1 cluster, or clears a stated aggregate tier score"), not count-based.
+The object split below still holds. A permissive coverage catalog is a legitimate, honestly-labelled thing to publish, separate from a claim about market strength. But the tighter object's floor should be tier-based (e.g., "contains at least one T1 cluster"), not count-based.
 
 ### Settlement with co-location presence
 
@@ -53,7 +53,7 @@ The object split below still holds. A permissive coverage catalog is a legitimat
 
 ### Regional Market
 
-A settlement is promoted to Regional Market when its co-location clusters clear a stated **tier-based** floor, not a count floor. For example: "contains at least one T1 cluster" or "the aggregate tier score (T1×4 + T2×2 + T3×1) meets a stated minimum." This ties the term to cluster *strength* rather than cluster *count*. It correctly admits the single-strong-cluster case and correctly excludes the many-weak-clusters case that a count floor would get backwards.
+A settlement is promoted to Regional Market when its co-location clusters clear a stated **tier-based** floor, not a count floor. For example: "contains at least one T1 cluster." This ties the term to cluster *strength* rather than cluster *count*. It correctly admits the single-strong-cluster case and correctly excludes the many-weak-clusters case that a count floor would get backwards.
 
 An alternative, and analytically stronger, floor is a **demand threshold**. Under this approach a Regional Market clears a stated catchment population or estimated annual spend threshold, tying the term to demand rather than supply density. This depends on the catchment and spend surfaces being trustworthy first (see [[trade-area-methodology|the trade-area methodology]] and [[spend-population-provenance|the spend and population provenance]] write-ups). Adoption is appropriate once those surfaces carry their uncertainty framing.
 
@@ -61,11 +61,11 @@ Whichever floor is chosen, **the resulting Regional Market count must be re-deri
 
 If no floor is adopted, the minimum acceptable change is renaming. That means dropping "Regional Market" for the permissive object and calling it "settlements with co-location presence" on the map face, in the Method modal, and in this TOPIC. The term "market" carries an implied claim of concentrated demand that the one-co-location rule does not support on its own. Per the correction above, though, a single co-location *can* support that claim if its tier is high enough.
 
-## The Top-400 co-locations — ranking by composite score
+## The Top-400 co-locations — a qualifying set, not a ranking
 
-The Top-400 is a list of co-locations, not Regional Markets, produced per region. North America is one region; Europe (UK, Nordics, Continental) is another; the list is cut at 400 per region. Each row carries a Regional Market column for context. It is the spine of the BentoBox detail view, where the rank shown is a continental-cutoff position.
+The Top-400 is a list of co-locations, not Regional Markets, produced per region. North America is one region; Europe (UK, Nordics, Continental) is another; the list is cut at 400 per region. Each row carries a Regional Market column for context. It is the spine of the BentoBox detail view, presented in a fixed order that is not an asserted rank.
 
-**The Top-400 ranking runs on a published composite score**, not an unstated variable: `tier_score × civic_multiplier × confidence_factor` — tier_score weighting T1/T2/T3 cluster strength (4/2/1), a civic multiplier for medical or higher-education anchor presence, and a confidence factor for chain-data quality — with every driver visible, not a black box. See [[about-regional-markets-system|Regional Markets Intelligence System]] for the full formula and its rationale.
+**No rank or score is published against any co-location in the Top-400.** Entry is decided by anchor composition, not by a numeric score: a co-location qualifies when it clears one of three composition gates — a hypermarket anchor with at least two of {hardware, price club, lifestyle, electronics, sport}; a hypermarket-plus-hardware anchor pair across at least two distinct clusters; or that same hypermarket-plus-hardware condition applied to a geographically isolated co-location. A composite score exists internally to support selection but is never surfaced to a reader. See [[about-regional-markets-system|Regional Markets Intelligence System]] for the full qualification method.
 
 ## Metro Market
 
@@ -84,9 +84,9 @@ Every count below is reported with the rule that produced it. Figures are as of 
 | Object | Rule | Count | What it measures |
 |---|---|---|---|
 | Settlements with co-location presence | ≥1 co-location in polygon | ~3,011 (NA + EU/UK, 2026-05-22 build) | Coverage and footprint |
-| Regional Markets (tier-based floor, corrected recommendation) | ≥1 T1 cluster, or a stated aggregate tier score | To be re-derived on adoption | Concentrated co-location, correctly admitting single-strong-cluster markets |
+| Regional Markets (tier-based floor, corrected recommendation) | ≥1 T1 cluster | To be re-derived on adoption | Concentrated co-location, correctly admitting single-strong-cluster markets |
 | Published RM objects (gateway, later build) | Permissive rule (≥1 co-location), unchanged | 4,436 (2026-05-30 build, 18 countries — see [[about-regional-markets-system|Regional Markets Intelligence System]]) | Coverage; grown by dataset expansion, not by a floor change |
-| Top-400 co-locations (per region) | Composite score — tier × civic × confidence, published | 400 NA + 400 EU | Ranked candidate sites; adopted per the recommendation above |
+| Top-400 co-locations (per region) | Composition gates (internal score, not published) | 400 NA + 400 EU | Qualifying candidate sites, not a ranked list; adopted per the recommendation above |
 | NA co-locations (DBSCAN) | eps/minPts/IoU — sensitive | 226–476 across parameter sweep | Cluster count (descriptive) |
 
 Two honesty notes belong in the Method modal alongside this table:
@@ -96,7 +96,7 @@ Two honesty notes belong in the Method modal alongside this table:
 
 ## See also
 
-- [[about-regional-markets-system|Regional Markets Intelligence System]] — the full dataset, tier system, and composite-score methodology this article's definitions build on
+- [[about-regional-markets-system|Regional Markets Intelligence System]] — the full dataset, tier system, and qualification method this article's definitions build on
 - [[co-location-tiering-scoring]] — how tiers and the planned strength score are computed for each co-location inside a Regional Market
 - [[trade-area-methodology]] — how the trade area for each co-location is defined
 - [[spend-population-provenance]] — the estimation chain for population and spend figures attributed to each co-location

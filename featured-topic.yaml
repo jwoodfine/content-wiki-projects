@@ -6,10 +6,10 @@
 # real-asset desk, sovereign-wealth real estate allocator, regional retail-
 # development banker. Bloomberg/FT register; deal-pipeline framing.
 #
-# Quarterly rotation pool (17 articles ranked by institutional banker relevance):
+# Quarterly rotation pool (17 articles in priority order for institutional banker relevance):
 #
 # Q1 — Flagship methodology (3 weeks):
-#   1. co-location-ranking-system          — 12-rank matrix; scarcity (102 NA Tier 5; 0 EU Tier 5)
+#   1. co-location-ranking-system          — deterministic site-tier index; scarcity of the highest-tier sites in the current dataset
 #   2. co-location-methodology             — Named-Anchor Model; rejects analyst forecasts
 #   3. co-location-intelligence-overview   — 7,594 clusters from 229,054 locations across 13 countries
 #
@@ -20,15 +20,15 @@
 #   7. site-ledger-integration             — immutable daily construction audit trail
 #
 # Q3 — North America regional indices (5 weeks):
-#   8. tier-index-north-america            — 102 Tier 5 sites; scarcity baseline
-#   9. co-location-index-us                — Top 400 of 3,500+ nodes; Tier 5 = Michelin 3-star
-#  10. co-location-index-canada            — 12 Tier 5; Grande Prairie, Milton, Dartmouth lead
+#   8. tier-index-north-america            — highest-tier sites; scarcity baseline
+#   9. co-location-index-us                — screened from 3,500+ nodes; anchor-composition tiering
+#  10. co-location-index-canada            — Grande Prairie, Milton, Dartmouth among the highest-tier sites
 #  11. co-location-index-mexico            — 300+ evaluated; Walmart/Home Depot/Costco convergence
 #
 # Q4 — Europe regional indices (5 weeks):
-#  12. tier-index-europe                   — 250 ranked nodes; data-maturity profile
+#  12. tier-index-europe                   — data-maturity profile across the covered node set
 #  13. co-location-index-spain             — IKEA-anchored; Leroy Merlin + Makro support
-#  14. co-location-index-italy             — Tier 4+ (1) + Tier 3 (20); secondary-cities story
+#  14. co-location-index-italy             — a small highest-tier set alongside a broader secondary-cities story
 #  15. co-location-index-nordics           — Bilka, Prisma, K-Citymarket regional variants
 #  16. co-location-index-poland            — central Europe high-growth; post-EU-accession
 #
@@ -39,4 +39,4 @@
 
 slug: topic-co-location-ranking-system
 since: 2026-05-09
-note: Q1 rotation 1 — methodology cornerstone; the 12-rank matrix that converts capital convergence into defensible site tiers
+note: Q1 rotation 1 — methodology cornerstone; the deterministic index that converts capital convergence into defensible site tiers

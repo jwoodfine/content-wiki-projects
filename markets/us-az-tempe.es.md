@@ -12,16 +12,16 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Mercado Regional número 35 en América del Norte — suburbio de Phoenix; puntuación compuesta 9,0."
+short_description: "Mercado Regional en América del Norte — suburbio de Phoenix; 1 clúster de nivel Regional y 2 de nivel Local."
 paired_with: markets/us-az-tempe.md
-last_edited: 2026-08-24
+last_edited: 2026-08-25
 editor: editorial
 ---
 
-Tempe, suburbio del East Valley que limita con el núcleo de Phoenix, ocupa el puesto 35 entre
-los 400 Mercados Regionales de América del Norte con una puntuación compuesta de 9,0. El
-campus principal de la Universidad Estatal de Arizona sostiene la economía local y le confiere
-un carácter más denso y urbanizado que el típico Mercado Regional suburbano del índice.
+Tempe, suburbio del East Valley que limita con el núcleo de Phoenix, es un Mercado Regional de
+América del Norte con un clúster de nivel Regional y dos de nivel Local. El campus principal
+de la Universidad Estatal de Arizona sostiene la economía local y le confiere un carácter más
+denso y urbanizado que el de un Mercado Regional suburbano típico.
 
 ## Descripción general
 
@@ -44,19 +44,14 @@ comercial peatonal de Mill Avenue en el centro.
 
 | Campo | Valor |
 |---|---|
-| Posición | 35 de 400 (América del Norte) |
-| Puntuación compuesta | 9,0 |
-| Clústeres de Nivel 1 | 1 |
-| Clústeres de Nivel 2 | 0 |
-| Clústeres de Nivel 3 | 2 |
 | Suburbio de | Phoenix |
 
-El detalle a nivel de clúster — las anclas minoristas y cívicas específicas que componen cada
-uno de los clústeres de co-localización de Tempe — está pendiente del conjunto de datos SIG
-subyacente y no se incluye en este esbozo. Véase
-[[atlas-top-400-north-america|Top 400 Mercados Regionales — América del Norte]] para la lista
-clasificada completa y [[co-location-methodology|Metodología de Co-ubicación]] para conocer
-cómo se calcula la puntuación compuesta.
+Tempe tiene un clúster de nivel Regional y dos de nivel Local. El detalle a nivel de clúster —
+las anclas minoristas y cívicas específicas que componen cada clúster — está pendiente del
+conjunto de datos SIG subyacente y no se incluye en este esbozo. Véase
+[[atlas-top-400-north-america|Top 400 Mercados Regionales — América del Norte]] para el
+conjunto Top 400 completo y [[co-location-methodology|Metodología de Co-ubicación]] para
+conocer los criterios de calificación de mercados.
 
 ## Véase también
 

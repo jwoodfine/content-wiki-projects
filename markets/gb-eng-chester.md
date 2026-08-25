@@ -12,16 +12,16 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Cheshire heritage city, 30-40 miles from Liverpool — not currently a ranked Top-400 entry despite sitting within the suburban-regional distance band."
+short_description: "Cheshire heritage city, 30-40 miles from Liverpool — not currently included as a Top-400 entry despite sitting within the suburban-regional distance band."
 paired_with: markets/gb-eng-chester.es.md
-last_edited: 2026-07-11
+last_edited: 2026-08-25
 editor: editorial
 ---
 
 Chester, a historic Cheshire city near the Welsh border, does not currently appear in the
 European Top-400 Regional Markets list. Notably, unlike the other markets in this stub
 group, its distance from Liverpool (roughly 30 to 40 miles, or 48–64 km) falls within the
-15–80 km suburban-regional band the ranking otherwise applies — suggesting a build-coverage
+15–80 km suburban-regional band the screening otherwise applies — suggesting a build-coverage
 gap rather than a distance exclusion.
 
 ## Overview
@@ -46,14 +46,14 @@ Cheshire Oaks Designer Outlet and Broughton Retail Park nearby. The Storyhouse a
 ## Regional Market Standing
 
 Chester does not currently appear in the [[atlas-top-400-europe|Top 400 Regional Markets —
-Europe]] ranked list, though its distance from Liverpool sits within
-[[about-regional-markets-system|the co-location scoring system's]] own 15–80 km
+Europe]] list, though its distance from Liverpool sits within
+[[about-regional-markets-system|the co-location screening system's]] own 15–80 km
 suburban-regional band — unlike the standalone-secondary and metro-core markets elsewhere in
 this stub group. This more plausibly reflects a gap in the current OSM-derived build than a
 deliberate exclusion. The administrative unit "Cheshire West and Chester" does appear in the
-ranked table (rank 32, suburb of Wigan, score 7.5), but that entry covers a different
-administrative boundary than the city of Chester itself. This article does not assert
-they are the same market without further verification.
+Top-400 set (suburb of Wigan), but that entry covers a different administrative boundary
+than the city of Chester itself. This article does not assert they are the same market
+without further verification.
 
 ## See Also
 

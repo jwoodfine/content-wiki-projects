@@ -5,16 +5,16 @@ title: "Regional Markets intelligence system"
 language: en
 language_protocol: PROSE-TOPIC
 category: markets
-index_group: screening-universe-and-rankings
+index_group: screening-universe
 type: reference
 content_type: topic
 quality: complete
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Reference article for the co-location analysis system that identifies and ranks suburban retail markets in North America and Europe."
+short_description: "Reference article for the co-location analysis system that identifies suburban retail markets in North America and Europe."
 paired_with: markets/about-regional-markets-system.es.md
-last_edited: 2026-08-03
+last_edited: 2026-08-25
 editor: editorial
 ---
 
@@ -84,47 +84,35 @@ The tier rule is compositional rather than count-based. A site with four co-loca
 
 A Regional Market is a named municipality or equivalent administrative unit that contains one or more co-location clusters and lies within commuting distance of a major metropolitan centre. Three settlement types are distinguished:
 
-| Type | Distance from major metro | Ranking |
+| Type | Distance from major metro | Top 400 status |
 |---|---|---|
 | **Metro-core** | < 15 km | Excluded from Top 400 (covered by institutional metro-market research) |
-| **Suburban-regional** | 15–80 km | Ranked in the Top 400 (the research gap) |
+| **Suburban-regional** | 15–80 km | Included in the Top 400 (the research gap) |
 | **Standalone-secondary** | > 80 km | Excluded from Top 400 (separate analysis category) |
 
 ### Suburban-regional band and coherence constraint
 
-The suburban-regional type is the Top 400 pool. Markets closer than 15 km from a major metro centroid are treated as extensions of the metro core. Markets further than 80 km from any major metro centroid are standalone secondary cities that function independently rather than as satellites; they are tracked but ranked separately. A geographic coherence constraint excludes name-collision aggregations: any settlement whose constituent clusters span more than 200 km is excluded as an administrative artefact rather than a functioning market.
+The suburban-regional type is the Top 400 pool. Markets closer than 15 km from a major metro centroid are treated as extensions of the metro core. Markets further than 80 km from any major metro centroid are standalone secondary cities that function independently rather than as satellites; they are tracked separately and do not appear in the Top 400. A geographic coherence constraint excludes name-collision aggregations: any settlement whose constituent clusters span more than 200 km is excluded as an administrative artefact rather than a functioning market.
 
 **Total count: 4,436 Regional Markets** (all three types combined). Of these, **2,327 are in North America** and **2,109 are in Europe**.
 
-## Top 400 Composite Ranking
+## Top 400 Qualification Method
 
-The Top 400 Regional Markets list is a composite ranking of suburban-regional settlements. The list is produced separately for North America and Europe, yielding two ranked surfaces of 400 markets each. The suburban-regional classification (15–80 km, described above) is a pre-filter, not a score component: every market that reaches the scoring stage is already in the correct proximity band.
+The Top 400 Regional Markets list is a curated set of suburban-regional settlements, not a numeric ranking. The set is produced separately for North America and Europe, yielding two lists of 400 markets each, ordered alphabetically rather than by any score. No rank or score field is published for any market. The suburban-regional classification (15–80 km, described above) is a pre-filter: every market in the set is already in the correct proximity band.
 
-### Score formula
+### Qualification gates
 
-**Composite score formula.**
+A market qualifies for the Top 400 by clearing one of three compositional gates, applied to its co-location clusters:
 
-```
-score = tier_score × civic_multiplier × confidence_factor
+1. **Main gate.** A hypermarket anchor plus at least two of: hardware, price club, lifestyle, electronics, or sport.
+2. **Narrower gate.** A hypermarket anchor plus a hardware anchor only, present across at least two distinct clusters.
+3. **Isolated-market gate.** The same narrower gate (hypermarket plus hardware, across at least two distinct clusters), applied to markets that are geographically isolated from other qualifying markets.
 
-where:
-  tier_score = (T1 × 4) + (T2 × 2) + (T3 × 1)
-  civic_multiplier = 1.5  if any medical or higher-education anchor present, else 1.0
-  confidence_factor = 1.0  for high-confidence chain coverage
-                      0.7  for low-confidence chain coverage
-```
+A composite score exists internally to support selection but is not published and is not a market-facing ranking. It has no bearing on how a market is described in this wiki.
 
-### Weighting rationale
+No metro-distance multiplier is applied. Under a previous iteration of the methodology, a distance bonus inadvertently caused standalone secondary cities to outrank genuine suburbs of major metros. The current design separates classification from selection: the 15–80 km filter determines whether a market is eligible for the suburban-regional pool; anchor composition determines whether it qualifies.
 
-**Rationale.** The composite score identifies markets that combine supply-side anchor strength with civic infrastructure. The tier weighting (4 / 2 / 1) reflects the compositional hierarchy: a single T1 cluster contributes more than two T2 clusters because the simultaneous presence of three independent anchor categories — hypermarket, hardware, and warehouse club — is a stronger commercial-density signal than the presence of any two. The civic multiplier rewards the presence of medical or academic anchors, which indicate a functioning sub-metropolitan service centre rather than a pure retail strip.
-
-No metro-distance multiplier appears in the formula. Under a previous iteration of the methodology, a distance bonus inadvertently caused standalone secondary cities to outrank genuine suburbs of major metros. The current design separates classification from scoring: the 15–80 km filter puts suburban markets in the ranked pool; the formula then ranks them by anchor depth and civic quality alone.
-
-### Current top-ranked markets
-
-**Current top results.** North America: rank 1 Plano, TX (suburb of Dallas, 28 km, score 25.5); rank 2 Mesa, AZ (suburb of Phoenix, 31 km, score 22.5); rank 3 Frisco, TX (suburb of Dallas, 44 km, score 21.0). Europe: rank 1 Chemnitz (suburb of Dresden, 64 km, score 18.0); rank 5 Krefeld (suburb of Düsseldorf, 19 km, score 12.0).
-
-The full ranked lists are published separately: see [[atlas-top-400-north-america|Top 400 Regional Markets — North America]] and [[atlas-top-400-europe|Top 400 Regional Markets — Europe]].
+The full lists are published separately: see [[atlas-top-400-north-america|Top 400 Regional Markets — North America]] and [[atlas-top-400-europe|Top 400 Regional Markets — Europe]].
 
 ## Civic Infrastructure Layer
 
@@ -132,7 +120,7 @@ The civic infrastructure layer adds medical and higher-education anchor presence
 
 **Coverage.** 27,833 medical records and 28,846 higher-education records across the eighteen countries.
 
-**Encoding.** Civic presence is encoded as a binary flag per cluster: if any cluster member is classified as medical or higher-education, the cluster carries `civic = True`. The Regional Market inherits the civic flag from any constituent cluster. The civic flag is the input to the 1.5× civic multiplier in the composite score.
+**Encoding.** Civic presence is encoded as a binary flag per cluster: if any cluster member is classified as medical or higher-education, the cluster carries `civic = True`. The Regional Market inherits the civic flag from any constituent cluster. The civic flag is a descriptive dataset field, not a public ranking input.
 
 The civic layer is conceptually distinct from the retail layer. A hospital adjacent to a hypermarket-and-hardware cluster does not turn T2 into T1 — the tier classification is anchor-composition only. The civic flag operates orthogonally as a market-quality signal.
 
@@ -194,9 +182,9 @@ The catchment model assigns each cluster a primary and secondary trade area defi
 
 Catchment population and spend are calculated by intersecting these rings with H3 resolution-7 hexagons (≈1.22 km² per cell) populated from Kontur Population 2023 and modelled spend from WorldPop combined with per-country household-budget multipliers.
 
-### Ranking dimensions and mobility catchments
+### Catchment dimensions and mobility catchments
 
-**Ranking dimensions.** Each cluster receives four independent ranks across the dataset: population rank, grocery rank, hardware rank, and wholesale rank — each based on combined primary and secondary catchment totals.
+**Catchment dimensions.** Each cluster carries four independent catchment measures: population, grocery spend, hardware spend, and wholesale spend — each based on combined primary and secondary catchment totals. These are descriptive dataset fields, not a published ranking.
 
 **Mobility-derived catchments.** A mobility-defined catchment layer sits alongside the radius-based model. For United States clusters, the US LODES origin-destination employment dataset provides a worker-commute catchment per H3 cell. For Spain, the Ministerio de Transportes (MITMA) mobility dataset provides a parallel surface.
 
@@ -210,7 +198,7 @@ Work planned or intended for the next iterations of the system.
 
 **Per-market article surfaces.** Dedicated wiki articles for each of the 400 Regional Markets in the Top-400 list are planned. The articles are intended to combine the data fields described here with locally-resolved narrative drawn from public sources.
 
-**FX normalisation for cross-country spend.** A foreign-exchange normalisation pass on the modelled spend layer is planned, enabling cross-currency catchment ranking and direct comparison of grocery, hardware, and wholesale spend between countries.
+**FX normalisation for cross-country spend.** A foreign-exchange normalisation pass on the modelled spend layer is planned, enabling direct comparison of grocery, hardware, and wholesale spend between countries.
 
 ---
 

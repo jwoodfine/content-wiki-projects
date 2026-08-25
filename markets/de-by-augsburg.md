@@ -12,16 +12,15 @@ quality: stub
 status: retired
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Bavarian city functioning as a metro-core reference point for surrounding suburban markets — not itself in the Top-400 ranked pool."
+short_description: "Bavarian city functioning as a metro-core reference point for surrounding suburban markets — not itself part of the Top-400 screening band."
 paired_with: markets/de-by-augsburg.es.md
-last_edited: 2026-07-11
+last_edited: 2026-08-25
 editor: editorial
 ---
 
 Augsburg does not carry its own entry in the European Top-400 Regional Markets list. In the
 current dataset, Augsburg functions as the metro-core reference point. Four other suburban
-markets — Nördlingen, Landsberg am Lech, Donauwörth, and Heidenheim an der Brenz — are ranked
-as suburbs *of* Augsburg, rather than Augsburg being ranked as a suburban market itself.
+markets — Nördlingen, Landsberg am Lech, Donauwörth, and Heidenheim an der Brenz — are counted as suburbs *of* Augsburg, rather than Augsburg being counted as a suburban market itself.
 
 ## Overview
 
@@ -38,12 +37,12 @@ artists and craftsmen and established the city as a creative centre.
 
 ## Regional Market Standing
 
-Augsburg does not appear as a ranked entry in the [[atlas-top-400-europe|Top 400 Regional
+Augsburg does not appear as an entry in the [[atlas-top-400-europe|Top 400 Regional
 Markets — Europe]] list. This is not a data defect: in the current build, Augsburg is the
 metro-core reference point for four other suburban entries (Nördlingen, Landsberg am Lech,
 Donauwörth, Heidenheim an der Brenz). This is consistent with
-[[about-regional-markets-system|the co-location scoring system's]] own taxonomy, which excludes
-metro cores from the suburban-regional ranked pool.
+[[about-regional-markets-system|the co-location screening system's]] own taxonomy, which excludes
+metro cores from the suburban-regional screening band.
 
 ## See Also
 

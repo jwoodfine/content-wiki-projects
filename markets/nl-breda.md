@@ -12,14 +12,14 @@ quality: stub
 status: retired
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Rank 286 European Regional Market — suburb of Rotterdam; composite score 5.0."
+short_description: "European Regional Market — suburb of Rotterdam; 1 Regional-tier and 1 Local-tier co-location cluster."
 paired_with: markets/nl-breda.es.md
-last_edited: 2026-08-24
+last_edited: 2026-08-25
 editor: editorial
 ---
 
-Breda, a North Brabant city positioned equidistant from Rotterdam and Antwerp, ranks 286th
-among the 400 European Regional Markets with a composite score of 5.0. A service and
+Breda, a North Brabant city positioned equidistant from Rotterdam and Antwerp, is a European
+Regional Market with one Regional-tier and one Local-tier co-location cluster. A service and
 logistics economy anchored by multiple multinational regional headquarters distinguishes it
 from a purely residential suburb.
 
@@ -42,18 +42,13 @@ percent).
 
 | Field | Value |
 |---|---|
-| Rank | 286 of 400 (Europe) |
-| Composite score | 5.0 |
-| Tier 1 clusters | 1 |
-| Tier 2 clusters | 0 |
-| Tier 3 clusters | 1 |
 | Suburb of | Rotterdam |
 
-Cluster-level detail — the specific retail and civic anchors composing each of Breda's
-co-location clusters — is pending the underlying GIS dataset and is not included in this
-stub. See [[atlas-top-400-europe|Top 400 Regional Markets — Europe]] for the full ranked
-list and [[co-location-methodology|Co-location Methodology]] for how the composite score is
-derived.
+Breda has one Regional-tier and one Local-tier co-location cluster. Cluster-level detail —
+the specific retail and civic anchors composing each cluster — is pending the underlying GIS
+dataset and is not included in this stub. See
+[[atlas-top-400-europe|Top 400 Regional Markets — Europe]] for the full Top 400 set and
+[[co-location-methodology|Co-location Methodology]] for how markets qualify.
 
 ## See Also
 

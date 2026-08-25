@@ -12,15 +12,15 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Colorado metro-core reference point for a surrounding suburban market — not itself in the Top-400 ranked pool."
+short_description: "Colorado metro-core reference point for a surrounding suburban market — not itself part of the Top-400 screening band."
 paired_with: markets/us-co-colorado-springs.es.md
-last_edited: 2026-08-24
+last_edited: 2026-08-25
 editor: editorial
 ---
 
 Colorado Springs does not carry its own entry in the North American Top-400 Regional Markets
 list. In the current dataset, Colorado Springs functions as the metro-core reference point
-that Pueblo, CO (rank 58) is ranked as a suburb *of*, rather than as a suburban market itself.
+that Pueblo, CO is counted as a suburb *of*, rather than as a suburban market itself.
 
 ## Overview
 
@@ -38,12 +38,12 @@ infrastructure.
 
 ## Regional Market Standing
 
-Colorado Springs does not appear as a ranked entry in the
+Colorado Springs does not appear as an entry in the
 [[atlas-top-400-north-america|Top 400 Regional Markets — North America]] list. This is not a
 data defect: in the current build, Colorado Springs is the metro-core reference point for
-Pueblo, CO (rank 58, score 9.0), consistent with
-[[about-regional-markets-system|the co-location scoring system's]] own taxonomy excluding
-metro cores from the suburban-regional ranked pool.
+Pueblo, CO, consistent with
+[[about-regional-markets-system|the co-location screening system's]] own taxonomy excluding
+metro cores from the suburban-regional screening band.
 
 ## See Also
 

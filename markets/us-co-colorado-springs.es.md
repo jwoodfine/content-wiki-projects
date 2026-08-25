@@ -12,16 +12,16 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Punto de referencia metropolitano de Colorado para un mercado suburbano circundante — no está en el conjunto clasificado Top-400."
+short_description: "Punto de referencia metropolitano de Colorado para un mercado suburbano circundante — no está en el conjunto de selección Top-400."
 paired_with: markets/us-co-colorado-springs.md
-last_edited: 2026-08-24
+last_edited: 2026-08-25
 editor: editorial
 ---
 
 Colorado Springs no tiene entrada propia en la lista Top-400 de Mercados Regionales de
 América del Norte. En el conjunto de datos actual, Colorado Springs funciona como el punto de
-referencia metropolitano frente al cual se clasifica Pueblo, CO (posición 58) como suburbio,
-en lugar de ser ella misma un mercado suburbano.
+referencia metropolitano frente al cual se cuenta Pueblo, CO como suburbio, en lugar de ser
+ella misma un mercado suburbano.
 
 ## Descripción general
 
@@ -41,12 +41,12 @@ turística.
 
 ## Posición en el Mercado Regional
 
-Colorado Springs no aparece como entrada clasificada en la lista
+Colorado Springs no aparece como entrada en la lista
 [[atlas-top-400-north-america|Top 400 Mercados Regionales — América del Norte]]. Esto no es
 un defecto de datos: en la versión actual, Colorado Springs es el punto de referencia
-metropolitano de Pueblo, CO (posición 58, puntuación 9,0), conforme a la propia taxonomía de
-[[about-regional-markets-system|el sistema de puntuación de co-ubicación]], que excluye los
-núcleos metropolitanos del conjunto clasificado suburbano-regional.
+metropolitano de Pueblo, CO, conforme a la propia taxonomía de
+[[about-regional-markets-system|el sistema de selección de co-ubicación]], que excluye los
+núcleos metropolitanos del conjunto de selección suburbano-regional.
 
 ## Véase también
 

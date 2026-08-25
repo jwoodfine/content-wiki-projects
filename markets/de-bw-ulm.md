@@ -12,16 +12,15 @@ quality: stub
 status: retired
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Baden-Württemberg city functioning as a metro-core reference point for surrounding suburban markets — not itself in the Top-400 ranked pool."
+short_description: "Baden-Württemberg city functioning as a metro-core reference point for surrounding suburban markets — not itself part of the Top-400 screening band."
 paired_with: markets/de-bw-ulm.es.md
-last_edited: 2026-07-11
+last_edited: 2026-08-25
 editor: editorial
 ---
 
 Ulm does not carry its own entry in the European Top-400 Regional Markets list. In the
 current dataset, Ulm functions as the metro-core reference point. Eight other suburban
-markets — including Albstadt, Neu-Ulm, Friedrichshafen, and Memmingen — are ranked as suburbs
-*of* Ulm, rather than Ulm being ranked as a suburban market itself.
+markets — including Albstadt, Neu-Ulm, Friedrichshafen, and Memmingen — are counted as suburbs *of* Ulm, rather than Ulm being counted as a suburban market itself.
 
 ## Overview
 
@@ -41,12 +40,12 @@ facilities, alongside companies headquartered in the city: Liqui Moly, Ratiophar
 
 ## Regional Market Standing
 
-Ulm does not appear as a ranked entry in the [[atlas-top-400-europe|Top 400 Regional Markets
+Ulm does not appear as an entry in the [[atlas-top-400-europe|Top 400 Regional Markets
 — Europe]] list. This is not a data defect: in the current build, Ulm is the metro-core
 reference point for eight other suburban entries (Albstadt, Neu-Ulm, Friedrichshafen,
 Memmingen, Konstanz, and others). This is consistent with
-[[about-regional-markets-system|the co-location scoring system's]] own taxonomy, which excludes
-metro cores (<15 km from themselves, by definition) from the suburban-regional ranked pool.
+[[about-regional-markets-system|the co-location screening system's]] own taxonomy, which excludes
+metro cores (<15 km from themselves, by definition) from the suburban-regional screening band.
 
 ## See Also
 

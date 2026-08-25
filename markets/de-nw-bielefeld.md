@@ -12,16 +12,16 @@ quality: stub
 status: retired
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "North Rhine-Westphalia city functioning as a metro-core reference point for surrounding suburban markets — not itself in the Top-400 ranked pool."
+short_description: "North Rhine-Westphalia city functioning as a metro-core reference point for surrounding suburban markets — not itself part of the Top-400 screening band."
 paired_with: markets/de-nw-bielefeld.es.md
-last_edited: 2026-07-10
+last_edited: 2026-08-25
 editor: editorial
 ---
 
 Bielefeld does not carry its own entry in the European Top-400 Regional Markets list. In the
 current dataset, Bielefeld functions as the metro-core reference point that six other
 suburban markets — Paderborn, Lippstadt, Belm, Bad Oeynhausen, Osnabrück, and Gütersloh —
-are ranked as suburbs *of*, rather than as a suburban market itself.
+are counted as suburbs *of*, rather than as a suburban market itself.
 
 ## Overview
 
@@ -40,12 +40,12 @@ residents.
 
 ## Regional Market Standing
 
-Bielefeld does not appear as a ranked entry in the [[atlas-top-400-europe|Top 400 Regional
+Bielefeld does not appear as an entry in the [[atlas-top-400-europe|Top 400 Regional
 Markets — Europe]] list. This is not a data defect: in the current build, Bielefeld is the
 metro-core reference point for six other suburban entries (Paderborn, Lippstadt, Belm, Bad
 Oeynhausen, Osnabrück, Gütersloh), consistent with
-[[about-regional-markets-system|the co-location scoring system's]] own taxonomy excluding
-metro cores from the suburban-regional ranked pool.
+[[about-regional-markets-system|the co-location screening system's]] own taxonomy excluding
+metro cores from the suburban-regional screening band.
 
 ## See Also
 

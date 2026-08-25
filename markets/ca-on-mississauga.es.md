@@ -14,13 +14,13 @@ quality: complete
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Mercado Regional número 4 en América del Norte — suburbio de Toronto, 24,9 km; puntuación compuesta 18,0."
+short_description: "Mercado Regional de América del Norte — suburbio de Toronto, 24,9 km; 2 clústeres de Nivel Regional, 1 de Nivel Distrito y 2 de Nivel Local."
 paired_with: markets/ca-on-mississauga.md
-last_edited: 2026-08-24
+last_edited: 2026-08-25
 editor: editorial
 ---
 
-Mississauga, en la orilla noroccidental del lago Ontario a 25 km al oeste del centro de Toronto, es el centro comercial del área metropolitana de Toronto occidental y el séptimo municipio más poblado de Canadá. Más de sesenta empresas del Fortune 500 mantienen oficinas regionales o sedes canadienses en la ciudad — entre ellas TD Bank, Royal Bank of Canada y Oracle — y el Aeropuerto Internacional Toronto Pearson, el más transitado de Canadá, se ubica dentro del límite norte de la ciudad. Dos campus hospitalarios de Trillium Health Partners y la Universidad de Toronto en Mississauga anclan su infraestructura cívica junto a cinco clústeres de co-localización, dos de ellos de Nivel 1. Mississauga ocupa el cuarto lugar entre los 400 Mercados Regionales de América del Norte, con una puntuación compuesta de 18,0.
+Mississauga, en la orilla noroccidental del lago Ontario a 25 km al oeste del centro de Toronto, es el centro comercial del área metropolitana de Toronto occidental y el séptimo municipio más poblado de Canadá. Más de sesenta empresas del Fortune 500 mantienen oficinas regionales o sedes canadienses en la ciudad — entre ellas TD Bank, Royal Bank of Canada y Oracle — y el Aeropuerto Internacional Toronto Pearson, el más transitado de Canadá, se ubica dentro del límite norte de la ciudad. Dos campus hospitalarios de Trillium Health Partners y la Universidad de Toronto en Mississauga anclan su infraestructura cívica junto a cinco clústeres de co-localización, dos de ellos de Nivel Regional.
 
 ## Descripción general
 
@@ -50,7 +50,7 @@ El conjunto de anclas cívicas de Mississauga es inusualmente sólido para un me
 
 El ancla académica es la University of Toronto Mississauga, un campus de investigación completo de la University of Toronto con una matrícula de aproximadamente quince mil estudiantes. La UTM aparece en dos de los cinco clústeres, lo que refleja la forma en que el campus y el tejido comercial circundante han crecido juntos a lo largo del corredor de Mississauga Road.
 
-La presencia de anclas tanto médicas como académicas activa el multiplicador cívico de 1,5× en la puntuación compuesta. El multiplicador no se otorga por la presencia cívica en general — recompensa específicamente los mercados en los que las instituciones cívicas se co-localizan con clústeres minoristas a nivel de geometría de clúster, lo que indica un entorno construido en el que la actividad institucional y comercial se refuerzan mutuamente.
+La presencia de anclas tanto médicas como académicas otorga a Mississauga presencia de anclas cívicas a nivel de geometría de clúster. Las instituciones cívicas se co-localizan con los clústeres minoristas en lugar de situarse aparte, lo que indica un entorno construido en el que la actividad institucional y comercial se refuerzan mutuamente.
 
 ## Datos AEC
 
@@ -65,19 +65,11 @@ La presencia de anclas tanto médicas como académicas activa el multiplicador c
 
 El clima Dfa del sur de Ontario se caracteriza por veranos calurosos y húmedos, inviernos fríos con nevadas persistentes y precipitaciones mixtas líquidas y sólidas en las estaciones intermedias, y un perfil de demanda energética de cuatro estaciones en el que tanto las cargas de calefacción en invierno como las de refrigeración en verano son sustanciales. Las oscilaciones térmicas anuales superan los cuarenta grados Celsius entre los extremos estacionales, y el diseño de la envolvente del edificio, el HVAC y las aguas pluviales reflejan ese rango.
 
-## Puntuación Compuesta
+Mississauga es un mercado suburbano-regional, a 24,9 km del centroide metropolitano de Toronto, con dos clústeres de Nivel Regional, uno de Nivel Distrito y dos de Nivel Local. La clasificación suburbano-regional — aplicada a mercados situados entre 15 y 80 km de un centroide metropolitano importante — es el filtro que determina qué mercados están cubiertos por el conjunto de datos de Mercados Regionales.
 
-**Tabla 3.** Componentes de la puntuación compuesta.
+## La conclusión
 
-| Componente | Valor |
-|---|---|
-| Puntuación de nivel | (2 × 4) + (1 × 2) + (2 × 1) = 12 |
-| Multiplicador cívico | 1,5 |
-| Factor de confianza | 1,0 |
-| **Puntuación compuesta** | **12 × 1,5 × 1,0 = 18,0** |
-| Tipo de mercado regional | Suburbano-regional (24,9 km del centroide metropolitano de Toronto) |
-
-La puntuación compuesta de 18,0 sitúa a Mississauga en el cuarto lugar entre los 400 Mercados Regionales de América del Norte clasificados bajo la metodología corregida. La puntuación refleja la combinación densa de Nivel 1, la capa de soporte de Nivel 2 y Nivel 3, y el multiplicador de infraestructura cívica. La clasificación suburbano-regional — aplicada a mercados situados entre 15 y 80 km de un centroide metropolitano importante — es un filtro que determina qué mercados entran en la lista de Mercados Regionales; no es en sí misma un dato numérico de la puntuación.
+Los cinco clústeres de co-localización de Mississauga reflejan una geografía minorista suburbana madura, con los principales operadores de gran formato norteamericanos establecidos en múltiples sitios dentro de los límites municipales. Dos hospitales de Trillium Health Partners y un campus completo de investigación de la Universidad de Toronto le dan al mercado un conjunto de anclas cívicas excepcionalmente sólido. Para un mercado situado a 24,9 km del centro de Toronto, esta combinación señala tanto densidad de bienes del hogar como refuerzo institucional de la actividad comercial — rasgos definitorios de un mercado suburbano-regional.
 
 ## Véase también
 
@@ -85,10 +77,6 @@ La puntuación compuesta de 18,0 sitúa a Mississauga en el cuarto lugar entre l
 - [[atlas-top-400-north-america|Top 400 Mercados Regionales — América del Norte]]
 - [[co-location-methodology|Metodología de Co-ubicación]]
 - [[co-location-ranking-system|Sistema de Clasificación de Co-ubicación]]
-
-## La conclusión
-
-El cuarto puesto de Mississauga refleja una geografía minorista suburbana madura en la que los principales operadores de gran formato norteamericanos han establecido múltiples establecimientos dentro de los límites municipales, combinados con un conjunto de anclas cívicas excepcionalmente sólido: dos hospitales de Trillium Health Partners y un campus completo de investigación de la Universidad de Toronto. La concurrencia de esas instituciones médicas y académicas con clústeres minoristas activa el multiplicador cívico de 1,5× que eleva la puntuación compuesta hasta 18,0. Para un mercado situado a 24,9 km del centro de Toronto, esta combinación señala tanto densidad de bienes del hogar como refuerzo institucional de la actividad comercial — los rasgos definitorios de un mercado suburbano-regional de alto valor.
 
 ## Referencias
 

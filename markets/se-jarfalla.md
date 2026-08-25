@@ -12,16 +12,15 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Rank 60 European Regional Market — suburb of Stockholm; composite score 6.0."
+short_description: "European Regional Market — suburb of Stockholm; 1 Regional-tier co-location cluster."
 paired_with: markets/se-jarfalla.es.md
-last_edited: 2026-08-24
+last_edited: 2026-08-25
 editor: editorial
 ---
 
-Järfälla, a commuter municipality on Lake Mälaren north of Stockholm, ranks 60th among the
-400 European Regional Markets with a composite score of 6.0. Steady population growth since
-the 1970s and a metro extension due for completion in 2027 point to continued suburban
-intensification.
+Järfälla, a commuter municipality on Lake Mälaren north of Stockholm, is a European Regional
+Market with one Regional-tier co-location cluster. Steady population growth since the 1970s
+and a metro extension due for completion in 2027 point to continued suburban intensification.
 
 ## Overview
 
@@ -41,17 +40,13 @@ three existing commuter rail stations and integrated bus network.
 
 | Field | Value |
 |---|---|
-| Rank | 60 of 400 (Europe) |
-| Composite score | 6.0 |
-| Tier 1 clusters | 1 |
-| Tier 2 clusters | 0 |
-| Tier 3 clusters | 0 |
 | Suburb of | Stockholm |
 
-Cluster-level detail — the specific retail and civic anchors composing Järfälla's single
-Tier 1 cluster — is pending the underlying GIS dataset and is not included in this stub. See
-[[atlas-top-400-europe|Top 400 Regional Markets — Europe]] for the full ranked list and
-[[co-location-methodology|Co-location Methodology]] for how the composite score is derived.
+Järfälla has one Regional-tier co-location cluster. Cluster-level detail — the specific
+retail and civic anchors composing it — is pending the underlying GIS dataset and is not
+included in this stub. See [[atlas-top-400-europe|Top 400 Regional Markets — Europe]] for
+the full Top 400 set and [[co-location-methodology|Co-location Methodology]] for how markets
+qualify.
 
 ## See Also
 

@@ -12,7 +12,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
 language: es
-last_edited: 2026-08-24
+last_edited: 2026-08-25
 editor: pointsav-engineering
 short_description: "Tres arquetipos de co-localización — Centros Comerciales (PRO), Franja Urbana (VWH) y Área de Acceso (PKS) — que identifican patrones de agrupación comercial diferenciados en 17 países de Norteamérica y Europa."
 paired_with: site-selection/location-intelligence-archetypes.md
@@ -263,9 +263,9 @@ mercado BentoBox.
 
 - [[co-location-methodology|Metodología de co-ubicación]] — la puntuación de composición de anclas que impulsa la asignación de niveles PRO
 - [[co-location-ranking-system|Sistema de clasificación de co-ubicación]] — el índice de densidad comercial de cinco rangos que clasifica los clústeres PRO
-- [[about-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]] — el ranking de 400 mercados construido sobre datos de clústeres PRO
-- [[atlas-top-400-north-america|Top 400 Mercados Regionales — Norteamérica]] — lista clasificada de mercados PRO suburbano-regionales en NA
-- [[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]] — lista clasificada de mercados PRO suburbano-regionales en EU
+- [[about-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]] — el conjunto de 400 mercados construido sobre datos de clústeres PRO
+- [[atlas-top-400-north-america|Top 400 Mercados Regionales — Norteamérica]] — conjunto calificado de mercados PRO suburbano-regionales en NA
+- [[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]] — conjunto calificado de mercados PRO suburbano-regionales en EU
 - [[od-catchment-methodology|Metodología de Área de Influencia O-D]] — cómo se miden las zonas de influencia alrededor de cada centroide de clúster
 
 ## Fuentes de datos

@@ -12,15 +12,15 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Mercado del norte de Colorado, a 60 millas de Denver — fuera del conjunto clasificado Top-400 actual."
+short_description: "Mercado del norte de Colorado, a 60 millas de Denver — fuera del conjunto de selección Top-400 actual."
 paired_with: markets/us-co-fort-collins.md
-last_edited: 2026-07-10
+last_edited: 2026-08-25
 editor: editorial
 ---
 
 Fort Collins no aparece actualmente en la lista Top-400 de Mercados Regionales de América del
 Norte — a unas 60 millas (97 km) de Denver se sitúa fuera del límite exterior de 80 km de la
-banda suburbano-regional que utiliza la clasificación.
+banda suburbano-regional que aplica la selección.
 
 ## Descripción general
 
@@ -43,7 +43,7 @@ perfil de población relativamente joven influido por la matrícula de la CSU.
 Fort Collins no aparece actualmente en la lista [[atlas-top-400-north-america|Top 400
 Mercados Regionales — América del Norte]]. Esto no es un defecto de datos; a unas 60 millas
 (97 km) de Denver, queda fuera del límite exterior de 80 km de la banda suburbano-regional de
-[[about-regional-markets-system|el sistema de puntuación de co-ubicación]], clasificándola
+[[about-regional-markets-system|el sistema de selección de co-ubicación]], clasificándola
 como independiente-secundaria.
 
 ## Véase también

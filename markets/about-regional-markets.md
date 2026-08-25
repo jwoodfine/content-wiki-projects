@@ -13,7 +13,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 keynote: false
-last_edited: 2026-07-10
+last_edited: 2026-08-25
 editor: editorial
 short_description: "SUPERSEDED (2026-07-10) — see about-regional-markets-system for the current framework. Prior definition described a narrower, standalone-city investment matrix (50k-300k population, explicitly not metro suburbs), pre-dating the 18-country suburban co-location system now in use."
 paired_with: markets/about-regional-markets.es.md
@@ -47,7 +47,7 @@ The presence of national retail investment in a regional market is itself an inc
 
 ## Top 400 regional markets
 
-The [[site-selection-terminology|site-selection framework]] identifies a global set of approximately 400 regional markets — across North America, Europe, and other OECD economies — meeting the population, income, and retail infrastructure thresholds for co-location assessment. These markets are scored and ranked using the [[co-location-ranking-system|co-location ranking system]], with priority given to markets where [[power-centres|power centre]] investment and professional tenant demand are both confirmed.
+The [[site-selection-terminology|site-selection framework]] identifies a global set of approximately 400 regional markets — across North America, Europe, and other OECD economies — meeting the population, income, and retail infrastructure thresholds for co-location assessment. These markets are screened using the [[co-location-ranking-system|co-location ranking system]], with priority given to markets where [[power-centres|power centre]] investment and professional tenant demand are both confirmed.
 
 The initial rollout of direct-hold deployments concentrates on markets where the convergence of national retail capital, available development parcels within the 1.0-kilometre proximity threshold, and professional tenant demand is most clearly established.
 

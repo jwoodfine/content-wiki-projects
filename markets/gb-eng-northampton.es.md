@@ -12,16 +12,15 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Mercado Regional número 372 en Europa — suburbio de Coventry; puntuación compuesta 3,0."
+short_description: "Mercado Regional en Europa — suburbio de Coventry; 2 clústeres de nivel Local."
 paired_with: markets/gb-eng-northampton.md
-last_edited: 2026-07-10
+last_edited: 2026-08-25
 editor: editorial
 ---
 
 Northampton, antigua ciudad manufacturera de calzado que hoy funciona como ciudad dormitorio
-de Londres y centro logístico de las East Midlands, ocupa el puesto 372 entre los 400
-Mercados Regionales de Europa con una puntuación compuesta de 3,0, cerca del límite inferior
-de la lista clasificada.
+de Londres y centro logístico de las East Midlands, es un Mercado Regional de Europa con dos
+clústeres de nivel Local.
 
 ## Descripción general
 
@@ -43,19 +42,14 @@ crecientes de origen africano y asiático.
 
 | Campo | Valor |
 |---|---|
-| Posición | 372 de 400 (Europa) |
-| Puntuación compuesta | 3,0 |
-| Clústeres de Nivel 1 | 0 |
-| Clústeres de Nivel 2 | 0 |
-| Clústeres de Nivel 3 | 2 |
 | Suburbio de | Coventry |
 
-El detalle a nivel de clúster — las anclas minoristas y cívicas específicas que componen cada
-uno de los dos clústeres de Nivel 3 de Northampton — está pendiente del conjunto de datos SIG
-subyacente y no se incluye en este esbozo. Véase
-[[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]] para la lista clasificada
-completa y [[co-location-methodology|Metodología de Co-ubicación]] para conocer cómo se
-calcula la puntuación compuesta.
+Northampton tiene dos clústeres de nivel Local. El detalle a nivel de clúster — las anclas
+minoristas y cívicas específicas que componen cada clúster — está pendiente del conjunto de
+datos SIG subyacente y no se incluye en este esbozo. Véase
+[[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]] para el conjunto Top 400
+completo y [[co-location-methodology|Metodología de Co-ubicación]] para conocer los criterios
+de calificación de mercados.
 
 ## Véase también
 

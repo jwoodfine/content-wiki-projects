@@ -12,16 +12,16 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Rank 278 North American Regional Market — suburb of Salt Lake City; composite score 6.0."
+short_description: "North American Regional Market — suburb of Salt Lake City; 1 Regional-tier co-location cluster."
 paired_with: markets/us-ut-provo-orem.es.md
-last_edited: 2026-07-10
+last_edited: 2026-08-25
 editor: editorial
 ---
 
-Provo, the larger of the twin Utah Valley cities of Provo and Orem, ranks 278th among the
-400 North American Regional Markets with a composite score of 6.0. Brigham Young University
-anchors an unusually young, fast-growing technology economy sometimes described as the
-"Silicon Slopes" cluster.
+Provo, the larger of the twin Utah Valley cities of Provo and Orem, is a North American
+Regional Market with one Regional-tier co-location cluster. Brigham Young University anchors
+an unusually young, fast-growing technology economy sometimes described as the "Silicon
+Slopes" cluster.
 
 ## Overview
 
@@ -42,21 +42,16 @@ distinct city rather than a single combined entity.
 
 | Field | Value |
 |---|---|
-| Rank | 278 of 400 (North America) |
-| Composite score | 6.0 |
-| Tier 1 clusters | 1 |
-| Tier 2 clusters | 0 |
-| Tier 3 clusters | 0 |
 | Suburb of | Salt Lake City |
 
-Note: the TOP-400 table entry is for "Provo, UT" specifically — Orem does not carry a
-separate ranked entry in the current build. This article is titled "Provo–Orem" reflecting
-the two cities' combined regional-market character, but the rank and score above describe
-Provo alone. Cluster-level detail — the specific retail and civic anchors composing Provo's
-single Tier 1 cluster — is pending the underlying GIS dataset and is not included in this
-stub. See [[atlas-top-400-north-america|Top 400 Regional Markets — North America]] for the
-full ranked list and [[co-location-methodology|Co-location Methodology]] for how the
-composite score is derived.
+Note: the Top 400 table entry is for "Provo, UT" specifically — Orem does not carry a
+separate entry in the current build. This article is titled "Provo–Orem" reflecting the two
+cities' combined regional-market character, but the cluster count above describes Provo
+alone. Provo has one Regional-tier co-location cluster. Cluster-level detail — the specific
+retail and civic anchors composing it — is pending the underlying GIS dataset and is not
+included in this stub. See [[atlas-top-400-north-america|Top 400 Regional Markets — North
+America]] for the full Top 400 set and [[co-location-methodology|Co-location Methodology]]
+for how markets qualify.
 
 ## See Also
 

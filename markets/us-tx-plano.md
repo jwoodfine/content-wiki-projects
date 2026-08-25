@@ -14,13 +14,13 @@ quality: complete
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Rank 1 North American Regional Market — suburb of Dallas, 28.1 km; composite score 25.5."
+short_description: "North American Regional Market — suburb of Dallas, 28.1 km; 3 Regional-tier, 2 District-tier, and 1 Local-tier co-location cluster."
 paired_with: markets/us-tx-plano.es.md
-last_edited: 2026-08-24
+last_edited: 2026-08-25
 editor: editorial
 ---
 
-Plano, a Dallas suburb of 285,000 people 28 kilometres north of the metro core, is the most defensively validated retail market in North America under the co-location methodology. Six retail-and-civic clusters — three of them combining hypermarket, hardware, and price-club anchors beside hospital campuses — independently corroborate a trade area that no other suburban market in the dataset matches. Corporate relocations by Toyota, JPMorgan Chase, and Capital One drove the population from 17,872 in 1970 to 285,494 in 2020; the composite co-location score of 25.5, rank 1 of 400 North American Regional Markets, reflects that depth.
+Plano, a Dallas suburb of 285,000 people 28 kilometres north of the metro core, hosts six retail-and-civic co-location clusters under the co-location methodology. Three combine hypermarket, hardware, and price-club anchors beside hospital campuses; two pair hypermarket with hardware; one pairs hypermarket with sporting goods. Corporate relocations by Toyota, JPMorgan Chase, and Capital One drove the population from 17,872 in 1970 to 285,494 in 2020.
 
 ## Overview
 
@@ -51,7 +51,7 @@ The medical anchors comprise Texas Health Presbyterian Hospital Plano, Baylor Sc
 
 The academic anchors comprise the University of Texas at Dallas, the Texas A&M AgriLife Research and Extension Center at Dallas, and Dallas Baptist University (DBU North). The University of Texas at Dallas appears in two clusters (Tier 1 cluster B and Tier 2 cluster E), and Dallas Baptist University appears in two clusters (Tier 1 cluster A and Tier 3 cluster F).
 
-Because both medical and academic anchors are present in the market, the civic multiplier applied to the composite score is 1.5, the maximum value in the scoring model.
+Because both medical and academic anchors are present, Plano carries civic-anchor presence alongside its six co-location clusters.
 
 ## AEC Data
 
@@ -64,16 +64,9 @@ Because both medical and academic anchors are present in the market, the civic m
 
 ASHRAE Climate Zone 3A is a warm-humid designation common to north Texas, the lower Mississippi Valley, and parts of the southeastern United States. For commercial building energy planning, 3A implies cooling-dominant load profiles with significant latent (moisture) loads through much of the year, modest winter heating requirements, and prescriptive envelope and HVAC requirements under ASHRAE 90.1 that prioritise efficient cooling and dehumidification. Site-development planning in Plano consequently weighs cooling capacity, shading, and humidity management more heavily than heating-system sizing.
 
-## Composite Score
+## The bottom line
 
-| Component | Value |
-|---|---|
-| Tier score = (3 × 4) + (2 × 2) + (1 × 1) | 17 |
-| Civic multiplier (medical and academic both present) | 1.5 |
-| Confidence factor | 1.0 |
-| **Composite score** | **25.5** |
-
-Plano ranks first among the 400 North American Regional Markets because three Tier 1 clusters is the highest count observed in the suburban-regional category in the corrected dataset, and the civic-anchor density qualifies the market for the maximum civic multiplier. The composite score does not include a metro-distance multiplier: the suburban-regional classification (15–80 kilometres from a major metro centroid) is applied as a filter rather than as a score component, so all 400 markets in the index sit within the same proximity band and compete on tier composition, civic anchors, and confidence alone.
+Plano combines three Regional-tier clusters with two District-tier and one Local-tier cluster, paired with civic-anchor coverage spanning both medical and academic institutions. For a site analyst, the city offers broad, overlapping trade-area coverage anchored by both medical and academic institutions across Collin and Denton Counties.
 
 ## See Also
 
@@ -82,10 +75,6 @@ Plano ranks first among the 400 North American Regional Markets because three Ti
 - [[co-location-methodology|Co-location Methodology]]
 - [[co-location-ranking-system|Co-location Ranking System]]
 - [[od-catchment-methodology|O-D Catchment Methodology]]
-
-## The bottom line
-
-Plano's first-place ranking among North American Regional Markets rests on a rare combination: three Tier 1 clusters — the highest count in the suburban-regional category — paired with a civic-anchor density dense enough to earn the maximum civic multiplier. Because the index applies the suburban-regional proximity band as a filter rather than a score component, Plano competes purely on tier composition, civic anchors, and confidence, and its composite score of 25.5 reflects strength on all three. For a site analyst, the city offers broad, overlapping trade-area coverage anchored by both medical and academic institutions across Collin and Denton Counties.
 
 ## References
 

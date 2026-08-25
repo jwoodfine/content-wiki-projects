@@ -12,16 +12,16 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Aragon's regional capital, roughly 300 km from Madrid, Barcelona, and Valencia alike — outside the current Top-400 ranked pool."
+short_description: "Aragon's regional capital, roughly 300 km from Madrid, Barcelona, and Valencia alike — outside the current Top-400 screening band."
 paired_with: markets/es-ar-zaragoza-secondary.es.md
-last_edited: 2026-07-11
+last_edited: 2026-08-25
 editor: editorial
 ---
 
 Zaragoza, Spain's fourth most populous city, does not currently appear in the European
 Top-400 Regional Markets list. Its roughly equidistant position between Madrid, Barcelona,
 Valencia, and Bilbao (all around 300 km away) places it well outside the 15–80 km
-suburban-regional band the ranking uses for any single metro core.
+suburban-regional band the screening applies for any single metro core.
 
 ## Overview
 
@@ -40,8 +40,7 @@ more than half of Aragon's total population.
 
 Zaragoza does not currently appear in the [[atlas-top-400-europe|Top 400 Regional Markets —
 Europe]] list. This is not a data defect; the city's roughly 300 km distance from every major
-Spanish metro places it outside [[about-regional-markets-system|the co-location scoring
-system's]] 15–80 km suburban-regional band. It functions as its own regional capital rather
+Spanish metro places it outside [[about-regional-markets-system|the co-location screening system's]] 15–80 km suburban-regional band. It functions as its own regional capital rather
 than a suburb of a larger metro.
 
 ## See Also

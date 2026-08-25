@@ -12,16 +12,15 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Rank 6 European Regional Market — suburb of Katowice, 48 km; composite score 12.0."
+short_description: "European Regional Market — suburb of Katowice, 48 km; 2 Regional-tier co-location clusters with a confirmed civic anchor."
 paired_with: markets/pl-bielsko-biala.es.md
-last_edited: 2026-08-24
+last_edited: 2026-08-25
 editor: editorial
 ---
 
 Bielsko-Biała, a Silesian Voivodeship city known as "Little Vienna" for its Revivalist and
-Art Nouveau architecture, ranks 6th among the 400 European Regional Markets with a composite
-score of 12.0. Its two Tier 1 co-location clusters place it among the highest-scoring
-markets in the entire European index.
+Art Nouveau architecture, is a European Regional Market with two Regional-tier co-location
+clusters and a confirmed civic anchor.
 
 ## Overview
 
@@ -42,19 +41,13 @@ within city limits.
 
 | Field | Value |
 |---|---|
-| Rank | 6 of 400 (Europe) |
-| Composite score | 12.0 |
-| Tier 1 clusters | 2 |
-| Tier 2 clusters | 0 |
-| Tier 3 clusters | 0 |
-| Civic anchor confirmed | Yes |
 | Suburb of | Katowice (48 km) |
 
-Cluster-level detail — the specific retail and civic anchors composing each of
-Bielsko-Biała's two Tier 1 clusters — is pending the underlying GIS dataset and is not
-included in this stub. See [[atlas-top-400-europe|Top 400 Regional Markets — Europe]] for
-the full ranked list and [[co-location-methodology|Co-location Methodology]] for how the
-composite score is derived.
+Bielsko-Biała has two Regional-tier co-location clusters and a confirmed civic anchor.
+Cluster-level detail — the specific retail and civic anchors composing each cluster — is
+pending the underlying GIS dataset and is not included in this stub. See
+[[atlas-top-400-europe|Top 400 Regional Markets — Europe]] for the full Top 400 set and
+[[co-location-methodology|Co-location Methodology]] for how markets qualify.
 
 ## See Also
 

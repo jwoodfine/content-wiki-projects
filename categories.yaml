@@ -45,9 +45,9 @@ categories:
   - id: markets
     name: "The Markets"
     scope: >-
-      The places, ranked: the screening universe, the ranked set of
-      development markets, country and tier indices, and a profile page
-      for every market.
+      Where we look: the covered Regional Market universe across North
+      America and Europe, the co-location tier system behind it, country
+      and tier indices, and a profile page for markets that have one.
     audience: "Development-market firms; investors"
     order: 4
 

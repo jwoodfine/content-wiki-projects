@@ -12,17 +12,15 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Mercado Regional número 6 en Europa — suburbio de Katowice, 48 km; puntuación compuesta 12,0."
+short_description: "Mercado Regional en Europa — suburbio de Katowice, 48 km; 2 clústeres de nivel Regional con ancla cívica confirmada."
 paired_with: markets/pl-bielsko-biala.md
-last_edited: 2026-08-24
+last_edited: 2026-08-25
 editor: editorial
 ---
 
 Bielsko-Biała, ciudad del Voivodato de Silesia conocida como la "Pequeña Viena" por su
-arquitectura Revivalista y Art Nouveau, ocupa el sexto puesto entre los 400 Mercados
-Regionales de Europa con una puntuación compuesta de 12,0. Sus dos clústeres de
-co-localización de Nivel 1 la sitúan entre los mercados de mayor puntuación de todo el índice
-europeo.
+arquitectura Revivalista y Art Nouveau, es un Mercado Regional de Europa con dos clústeres de
+nivel Regional y un ancla cívica confirmada.
 
 ## Descripción general
 
@@ -44,20 +42,14 @@ picos montañosos dentro de los límites de la ciudad.
 
 | Campo | Valor |
 |---|---|
-| Posición | 6 de 400 (Europa) |
-| Puntuación compuesta | 12,0 |
-| Clústeres de Nivel 1 | 2 |
-| Clústeres de Nivel 2 | 0 |
-| Clústeres de Nivel 3 | 0 |
-| Ancla cívica confirmada | Sí |
 | Suburbio de | Katowice (48 km) |
 
-El detalle a nivel de clúster — las anclas minoristas y cívicas específicas que componen cada
-uno de los dos clústeres de Nivel 1 de Bielsko-Biała — está pendiente del conjunto de datos
-SIG subyacente y no se incluye en este esbozo. Véase
-[[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]] para la lista clasificada
-completa y [[co-location-methodology|Metodología de Co-ubicación]] para conocer cómo se
-calcula la puntuación compuesta.
+Bielsko-Biała tiene dos clústeres de nivel Regional y un ancla cívica confirmada. El detalle a
+nivel de clúster — las anclas minoristas y cívicas específicas que componen cada clúster —
+está pendiente del conjunto de datos SIG subyacente y no se incluye en este esbozo. Véase
+[[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]] para el conjunto Top 400
+completo y [[co-location-methodology|Metodología de Co-ubicación]] para conocer los criterios
+de calificación de mercados.
 
 ## Véase también
 

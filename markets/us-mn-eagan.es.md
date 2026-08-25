@@ -12,17 +12,16 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Mercado Regional número 372 en América del Norte — suburbio de Minneapolis; puntuación compuesta 4,0."
+short_description: "Mercado Regional en América del Norte — suburbio de Minneapolis; 1 clúster de nivel Regional."
 paired_with: markets/us-mn-eagan.md
-last_edited: 2026-08-24
+last_edited: 2026-08-25
 editor: editorial
 ---
 
-Eagan, suburbio del condado de Dakota en la orilla sur del río Minnesota, ocupa el puesto 372
-entre los 400 Mercados Regionales de América del Norte con una puntuación compuesta de 4,0,
-cerca del límite inferior de la lista clasificada. Una base corporativa de oficinas,
-distribución y logística — incluida la sede y el centro de entrenamiento de los Minnesota
-Vikings — la distingue de un suburbio puramente residencial.
+Eagan, suburbio del condado de Dakota en la orilla sur del río Minnesota, es un Mercado
+Regional de América del Norte con un clúster de nivel Regional. Una base corporativa de
+oficinas, distribución y logística — incluida la sede y el centro de entrenamiento de los
+Minnesota Vikings — la distingue de un suburbio puramente residencial.
 
 ## Descripción general
 
@@ -45,19 +44,14 @@ espectadores.
 
 | Campo | Valor |
 |---|---|
-| Posición | 372 de 400 (América del Norte) |
-| Puntuación compuesta | 4,0 |
-| Clústeres de Nivel 1 | 1 |
-| Clústeres de Nivel 2 | 0 |
-| Clústeres de Nivel 3 | 0 |
 | Suburbio de | Minneapolis |
 
-El detalle a nivel de clúster — las anclas minoristas y cívicas específicas que componen el
-único clúster de Nivel 1 de Eagan — está pendiente del conjunto de datos SIG subyacente y no
-se incluye en este esbozo. Véase
-[[atlas-top-400-north-america|Top 400 Mercados Regionales — América del Norte]] para la lista
-clasificada completa y [[co-location-methodology|Metodología de Co-ubicación]] para conocer
-cómo se calcula la puntuación compuesta.
+Eagan tiene un clúster de nivel Regional. El detalle a nivel de clúster — las anclas
+minoristas y cívicas específicas que lo componen — está pendiente del conjunto de datos SIG
+subyacente y no se incluye en este esbozo. Véase
+[[atlas-top-400-north-america|Top 400 Mercados Regionales — América del Norte]] para el
+conjunto Top 400 completo y [[co-location-methodology|Metodología de Co-ubicación]] para
+conocer los criterios de calificación de mercados.
 
 ## Véase también
 

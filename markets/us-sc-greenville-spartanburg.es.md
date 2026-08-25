@@ -12,17 +12,16 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Punto de referencia metropolitano de la región Upstate de Carolina del Sur para los mercados suburbanos circundantes — no está en el conjunto clasificado Top-400."
+short_description: "Punto de referencia metropolitano de la región Upstate de Carolina del Sur para los mercados suburbanos circundantes — no está en el conjunto de selección Top-400."
 paired_with: markets/us-sc-greenville-spartanburg.md
-last_edited: 2026-07-10
+last_edited: 2026-08-25
 editor: editorial
 ---
 
 Greenville no tiene entrada propia en la lista Top-400 de Mercados Regionales de América del
 Norte. En el conjunto de datos actual, "Greenville SC" funciona como el punto de referencia
-metropolitano frente al cual se clasifican otros dos mercados — Spartanburg, SC (posición 45)
-y Asheville, NC (posición 104) — como suburbios, en lugar de ser ella misma un mercado
-suburbano.
+metropolitano frente al cual se cuentan otros dos mercados — Spartanburg, SC y Asheville, NC —
+como suburbios, en lugar de ser ella misma un mercado suburbano.
 
 ## Descripción general
 
@@ -48,13 +47,13 @@ antes de diversificarse hacia la salud, la educación y los servicios corporativ
 
 ## Posición en el Mercado Regional
 
-Greenville no aparece como entrada clasificada en la lista
+Greenville no aparece como entrada en la lista
 [[atlas-top-400-north-america|Top 400 Mercados Regionales — América del Norte]]. Esto no es
 un defecto de datos: en la versión actual, "Greenville SC" es el punto de referencia
-metropolitano de otras dos entradas suburbanas (Spartanburg, posición 45, puntuación 9,0;
-Asheville, posición 104, puntuación 7,5), conforme a la propia taxonomía de
-[[about-regional-markets-system|el sistema de puntuación de co-ubicación]], que excluye los
-núcleos metropolitanos del conjunto clasificado suburbano-regional.
+metropolitano de otras dos entradas suburbanas (Spartanburg y Asheville), conforme a la
+propia taxonomía de
+[[about-regional-markets-system|el sistema de selección de co-ubicación]], que excluye los
+núcleos metropolitanos del conjunto de selección suburbano-regional.
 
 ## Véase también
 

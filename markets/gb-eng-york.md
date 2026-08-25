@@ -12,16 +12,15 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Rank 266 European Regional Market — suburb of Leeds; composite score 6.0."
+short_description: "European Regional Market — suburb of Leeds; 1 District-tier and 2 Local-tier co-location clusters."
 paired_with: markets/gb-eng-york.es.md
-last_edited: 2026-07-10
+last_edited: 2026-08-25
 editor: editorial
 ---
 
-York, a historic Yorkshire city with a tourism-and-services economy, ranks 266th among the
-400 European Regional Markets with a composite score of 6.0. A dual-university, heritage-
-tourism, and public-sector employment base supports one Tier 2 and two Tier 3 co-location
-clusters.
+York, a historic Yorkshire city with a tourism-and-services economy, is a European Regional
+Market with one District-tier and two Local-tier co-location clusters. A dual-university,
+heritage-tourism, and public-sector employment base supports them.
 
 ## Overview
 
@@ -49,18 +48,13 @@ services. Notable commercial development includes the York Designer Outlet and S
 
 | Field | Value |
 |---|---|
-| Rank | 266 of 400 (Europe) |
-| Composite score | 6.0 |
-| Tier 1 clusters | 0 |
-| Tier 2 clusters | 1 |
-| Tier 3 clusters | 2 |
 | Suburb of | Leeds |
 
-Cluster-level detail — the specific retail and civic anchors composing each of York's
-co-location clusters — is pending the underlying GIS dataset and is not included in this
-stub. See [[atlas-top-400-europe|Top 400 Regional Markets — Europe]] for the full ranked
-list and [[co-location-methodology|Co-location Methodology]] for how the composite score is
-derived.
+York has one District-tier and two Local-tier co-location clusters. Cluster-level detail —
+the specific retail and civic anchors composing each cluster — is pending the underlying GIS
+dataset and is not included in this stub. See
+[[atlas-top-400-europe|Top 400 Regional Markets — Europe]] for the full Top 400 set and
+[[co-location-methodology|Co-location Methodology]] for how markets qualify.
 
 ## See Also
 

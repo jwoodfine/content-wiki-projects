@@ -12,16 +12,17 @@ quality: stub
 status: retired
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Rank 33 European Regional Market — suburb of Grenoble; composite score 7.5."
+short_description: "European Regional Market — suburb of Grenoble; 1 Regional-tier and 1 Local-tier co-location cluster."
 paired_with: markets/fr-chambery.es.md
-last_edited: 2026-08-24
+last_edited: 2026-08-25
 editor: editorial
 ---
 
-Chambéry, the prefecture of the Savoie department and a major Alpine railway hub, ranks 33rd
-among the 400 European Regional Markets with a composite score of 7.5. The city's character
-— administrative, educational, and transport-oriented rather than a conventional retail
-destination — is atypical among the index's Tier 1 markets.
+Chambéry, the prefecture of the Savoie department and a major Alpine railway hub, is a
+suburb of Grenoble with one Regional-tier and one Local-tier co-location cluster. The city's
+character — administrative, educational, and transport-oriented rather than a conventional
+retail destination — is atypical among the covered markets that carry a Regional-tier
+cluster.
 
 ## Overview
 
@@ -38,20 +39,13 @@ city's historical landmarks and tourism character over modern commercial develop
 
 ## Regional Market Standing
 
-| Field | Value |
-|---|---|
-| Rank | 33 of 400 (Europe) |
-| Composite score | 7.5 |
-| Tier 1 clusters | 1 |
-| Tier 2 clusters | 0 |
-| Tier 3 clusters | 1 |
-| Suburb of | Grenoble |
+Chambéry is a suburb of Grenoble, with one Regional-tier co-location cluster and one
+Local-tier co-location cluster.
 
 Cluster-level detail — the specific retail and civic anchors composing each of Chambéry's
 co-location clusters — is pending the underlying GIS dataset and is not included in this
-stub. See [[atlas-top-400-europe|Top 400 Regional Markets — Europe]] for the full ranked
-list and [[co-location-methodology|Co-location Methodology]] for how the composite score is
-derived.
+stub. See [[atlas-top-400-europe|Top 400 Regional Markets — Europe]] for the full Top 400
+set and [[co-location-methodology|Co-location Methodology]] for how markets qualify.
 
 ## See Also
 

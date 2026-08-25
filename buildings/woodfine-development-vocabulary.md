@@ -11,7 +11,7 @@ status: active
 audience: public
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-24
+last_edited: 2026-08-25
 editor: pointsav-engineering
 short_description: "A curated glossary of proprietary Woodfine direct-hold vocabulary — Development Classes, Prototype, Fixed Floor Plate, Rollout Program, and related terms — distinct from generic AEC industry terminology."
 paired_with: buildings/woodfine-development-vocabulary.es.md
@@ -50,7 +50,7 @@ Where a term already has a dedicated wiki article, this glossary gives a one-lin
 
 **Prototype.** The standardized building design — built around a Fixed Floor Plate — repeated without material change across every deployment within a Development Class. The Prototype is what makes the Rollout Program possible: because the design is fixed before a site is chosen, procurement, construction sequencing, and underwriting can be repeated at portfolio scale rather than re-engineered per building. See [[fixed-floor-plates|Fixed floor plates]] and [[rollout-index|The Rollout Program]].
 
-**Regional Markets.** The ranked population centres — 50,000 to 300,000 residents, with high disposable income relative to retail supply — that Woodfine's co-location methodology screens and ranks for development. Full definition: [[about-regional-markets-system|Regional Markets intelligence system]].
+**Regional Markets.** The population centres — 50,000 to 300,000 residents, with high disposable income relative to retail supply — that Woodfine's co-location methodology screens for development. Full definition: [[about-regional-markets-system|Regional Markets intelligence system]].
 
 **Rollout Program.** The country-by-country program of repeating a standardized Prototype design across multiple sites for efficiency and scalability. Full definition: [[rollout-index|The Rollout Program]].
 
@@ -60,6 +60,6 @@ A Sub-Prototype originates when a design collaborator is engaged for a specific 
 
 **Test Sites.** The initial deployments used to validate a new Prototype or a new Development Market before the Rollout Program commits to that market at scale.
 
-**Top 400 Regional Markets.** The ranked shortlist of the highest-scoring Regional Markets in a given territory, produced by Woodfine's co-location scoring methodology. See [[about-regional-markets-system|Regional Markets intelligence system]] for the ranking methodology and the country- and continent-specific atlas pages for the ranked lists themselves.
+**Top 400 Regional Markets.** The qualifying set of Regional Markets in a given territory, produced by Woodfine's co-location qualification methodology. No rank or score is published. See [[about-regional-markets-system|Regional Markets intelligence system]] for the qualification methodology and the country- and continent-specific atlas pages for the sets themselves.
 
 **Unlevered Square Feet.** The portion of a building's physical area built using only initial equity capital, before any debt-financing draw is applied. The distinction matters for underwriting: unlevered area carries no debt-service obligation and is tracked separately from area built against a financing facility.

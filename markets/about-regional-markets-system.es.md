@@ -5,16 +5,16 @@ title: "Sistema de Inteligencia de Mercados Regionales"
 language: es
 language_protocol: TRANSLATE-ES
 category: markets
-index_group: screening-universe-and-rankings
+index_group: screening-universe
 type: reference
 content_type: topic
 quality: complete
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Artículo de referencia sobre el sistema de análisis de co-localización que identifica y clasifica mercados minoristas suburbanos en América del Norte y Europa."
+short_description: "Artículo de referencia sobre el sistema de análisis de co-localización que identifica mercados minoristas suburbanos en América del Norte y Europa."
 paired_with: markets/about-regional-markets-system.md
-last_edited: 2026-08-03
+last_edited: 2026-08-25
 editor: editorial
 ---
 
@@ -73,10 +73,10 @@ La regla de nivel es composicional, no basada en conteo. Un sitio con cuatro hip
 
 Un Mercado Regional es un municipio o unidad administrativa equivalente con nombre propio que contiene uno o más clústeres de co-localización y se encuentra a distancia de desplazamiento diario de un centro metropolitano importante. Se distinguen tres tipos de asentamiento:
 
-| Tipo | Distancia del metro principal | Clasificación |
+| Tipo | Distancia del metro principal | Estado en el Top 400 |
 |---|---|---|
 | **Núcleo metropolitano** | < 15 km | Excluido del Top 400 (cubierto por la investigación institucional de mercados metropolitanos) |
-| **Suburbano-regional** | 15–80 km | Clasificado en el Top 400 (la brecha de investigación) |
+| **Suburbano-regional** | 15–80 km | Incluido en el Top 400 (la brecha de investigación) |
 | **Secundario independiente** | > 80 km | Excluido del Top 400 (categoría de análisis separada) |
 
 ### Banda suburbana-regional del Top 400
@@ -85,29 +85,23 @@ El tipo suburbano-regional es el grupo del Top 400. Los mercados a menos de 15 k
 
 **Recuento total: 4.436 Mercados Regionales** (los tres tipos combinados). De estos, **2.327 están en América del Norte** y **2.109 en Europa**.
 
-## Clasificación Compuesta Top 400
+## Método de calificación para el Top 400
 
-La lista del Top 400 Mercados Regionales es una clasificación compuesta de asentamientos suburbano-regionales. La lista se produce por separado para América del Norte y Europa, generando dos superficies de 400 mercados cada una.
+La lista del Top 400 Mercados Regionales es un conjunto curado de asentamientos suburbano-regionales, no una clasificación numérica. La lista se produce por separado para América del Norte y Europa, generando dos listas de 400 mercados cada una, ordenadas alfabéticamente y no por puntuación. Ningún campo de posición o puntuación se publica para ningún mercado.
 
-### Fórmula de puntuación
+### Criterios de calificación
 
-**Fórmula de puntuación compuesta.**
+Un mercado califica para el Top 400 al superar una de tres condiciones de composición aplicadas a sus clústeres de co-localización:
 
-```
-puntuación = puntuación_nivel × multiplicador_cívico × factor_confianza
+1. **Condición principal.** Un ancla de hipermercado más al menos dos de: ferretería, club de precio, estilo de vida, electrónica o artículos deportivos.
+2. **Condición restringida.** Un ancla de hipermercado más un ancla de ferretería únicamente, presentes en al menos dos clústeres distintos.
+3. **Condición para mercados aislados.** La misma condición restringida (hipermercado más ferretería, en al menos dos clústeres distintos), aplicada a mercados geográficamente aislados de otros mercados calificados.
 
-donde:
-  puntuación_nivel = (T1 × 4) + (T2 × 2) + (T3 × 1)
-  multiplicador_cívico = 1,5  si hay ancla médica o de educación superior, si no 1,0
-  factor_confianza = 1,0  para cobertura de cadena de alta confianza
-                    0,7  para cobertura de cadena de baja confianza
-```
+Existe una puntuación compuesta de uso interno para apoyar la selección, pero no se publica y no constituye una clasificación de cara al público. No influye en cómo se describe un mercado en esta wiki.
 
-### Mercados mejor clasificados actualmente
+No se aplica ningún multiplicador de distancia al metro principal. Bajo una iteración anterior de la metodología, una bonificación por distancia hacía que ciudades secundarias independientes superaran a suburbios genuinos de metros principales. El diseño actual separa la clasificación de la selección: el filtro de 15–80 km determina si un mercado es elegible para el grupo suburbano-regional; la composición de anclas determina si califica.
 
-**Resultados actuales más destacados.** América del Norte: posición 1 Plano, TX (suburbio de Dallas, 28 km, puntuación 25,5); posición 2 Mesa, AZ (suburbio de Phoenix, 31 km, puntuación 22,5); posición 3 Frisco, TX (suburbio de Dallas, 44 km, puntuación 21,0). Europa: posición 1 Chemnitz (suburbio de Dresden, 64 km, puntuación 18,0); posición 5 Krefeld (suburbio de Düsseldorf, 19 km, puntuación 12,0).
-
-Las listas clasificadas completas se publican por separado: véase [[atlas-top-400-north-america|Top 400 Mercados Regionales — América del Norte]] y [[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]].
+Las listas completas se publican por separado: véase [[atlas-top-400-north-america|Top 400 Mercados Regionales — América del Norte]] y [[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]].
 
 ## Capa de Infraestructura Cívica
 
@@ -187,7 +181,7 @@ Trabajo planificado o previsto para las próximas iteraciones del sistema.
 
 **Artículos por mercado.** Artículos wiki dedicados a cada uno de los 400 Mercados Regionales de la lista Top-400 están previstos. Los artículos tienen como objetivo combinar los campos de datos aquí descritos con narrativa de resolución local basada en fuentes públicas.
 
-**Normalización de divisas para el gasto transfronterizo.** Un paso de normalización de divisas sobre la capa de gasto modelado está previsto, lo que permitirá la clasificación de captación en múltiples monedas y la comparación directa del gasto en alimentación, ferretería y venta mayorista entre países.
+**Normalización de divisas para el gasto transfronterizo.** Un paso de normalización de divisas sobre la capa de gasto modelado está previsto, lo que permitirá la comparación directa del gasto en alimentación, ferretería y venta mayorista entre países.
 
 ## Véase también
 

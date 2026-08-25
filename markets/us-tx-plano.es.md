@@ -14,13 +14,13 @@ quality: complete
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Mercado Regional número 1 en América del Norte — suburbio de Dallas, 28,1 km; puntuación compuesta 25,5."
+short_description: "Mercado Regional de América del Norte — suburbio de Dallas, 28,1 km; 3 clústeres de Nivel Regional, 2 de Nivel Distrito y 1 de Nivel Local."
 paired_with: markets/us-tx-plano.md
-last_edited: 2026-08-24
+last_edited: 2026-08-25
 editor: editorial
 ---
 
-Plano, suburbio de Dallas con 285.000 habitantes a 28 kilómetros al norte del núcleo metropolitano, es el mercado minorista con mayor validación defensiva de América del Norte según la metodología de co-localización. Seis clústeres de comercio minorista y equipamientos cívicos — tres de ellos combinando hipermercado, ferretería y club de precio junto a campus hospitalarios — corroboran de forma independiente una zona de atracción que ningún otro mercado suburbano del conjunto de datos iguala. Los traslados corporativos de Toyota, JPMorgan Chase y Capital One impulsaron la población de 17.872 habitantes en 1970 a 285.494 en 2020; la puntuación compuesta de 25,5, número 1 entre los 400 Mercados Regionales de América del Norte, refleja esa profundidad.
+Plano, suburbio de Dallas con 285.000 habitantes a 28 kilómetros al norte del núcleo metropolitano, alberga seis clústeres de co-localización de comercio minorista y equipamientos cívicos según la metodología de co-localización. Tres combinan hipermercado, ferretería y club de precio junto a campus hospitalarios; dos combinan hipermercado con ferretería; uno combina hipermercado con artículos deportivos. Los traslados corporativos de Toyota, JPMorgan Chase y Capital One impulsaron la población de 17.872 habitantes en 1970 a 285.494 en 2020.
 
 ## Descripción general
 
@@ -53,7 +53,7 @@ Las anclas médicas comprenden Texas Health Presbyterian Hospital Plano, Baylor 
 
 Las anclas académicas comprenden la University of Texas at Dallas, el Texas A&M AgriLife Research and Extension Center at Dallas y Dallas Baptist University (DBU North). La University of Texas at Dallas aparece en dos clústeres (Nivel 1 B y Nivel 2 E), y Dallas Baptist University aparece en dos clústeres (Nivel 1 A y Nivel 3 F).
 
-Dado que hay presentes anclas tanto médicas como académicas, el multiplicador cívico aplicado a la puntuación compuesta es 1,5, el valor máximo del modelo de puntuación.
+Dado que hay presentes anclas tanto médicas como académicas, Plano cuenta con presencia de anclas cívicas junto a sus seis clústeres de co-localización.
 
 ## Datos AEC
 
@@ -66,16 +66,9 @@ Dado que hay presentes anclas tanto médicas como académicas, el multiplicador 
 
 La Zona Climática ASHRAE 3A es una designación cálido-húmeda común en el norte de Texas. Para la planificación energética de edificios comerciales, 3A implica perfiles de carga dominados por la refrigeración con cargas latentes (humedad) significativas durante gran parte del año, requerimientos de calefacción invernal moderados y prescripciones de envolvente y HVAC según ASHRAE 90.1 que priorizan la refrigeración eficiente y la deshumidificación.
 
-## Puntuación Compuesta
+## La conclusión
 
-| Componente | Valor |
-|---|---|
-| Puntuación de nivel = (3 × 4) + (2 × 2) + (1 × 1) | 17 |
-| Multiplicador cívico (médico y académico presentes) | 1,5 |
-| Factor de confianza | 1,0 |
-| **Puntuación compuesta** | **25,5** |
-
-Plano ocupa el primer lugar entre los 400 Mercados Regionales de América del Norte porque tres clústeres de Nivel 1 es el recuento más alto observado en la categoría suburbano-regional en el conjunto de datos corregido, y la densidad de anclas cívicas otorga al mercado el multiplicador cívico máximo.
+Plano combina tres clústeres de Nivel Regional con dos de Nivel Distrito y uno de Nivel Local, junto con cobertura de anclas cívicas que abarca tanto instituciones médicas como académicas. Para un analista de sitios, la ciudad ofrece cobertura amplia y superpuesta de áreas comerciales anclada en instituciones médicas y académicas en los condados de Collin y Denton.
 
 ## Véase también
 
@@ -83,10 +76,6 @@ Plano ocupa el primer lugar entre los 400 Mercados Regionales de América del No
 - [[atlas-top-400-north-america|Top 400 Mercados Regionales — América del Norte]]
 - [[co-location-methodology|Metodología de Co-ubicación]]
 - [[co-location-ranking-system|Sistema de Clasificación de Co-ubicación]]
-
-## La conclusión
-
-El primer puesto de Plano entre los Mercados Regionales de América del Norte descansa en una combinación poco frecuente: tres clústeres de Nivel 1 — el recuento más alto en la categoría suburbano-regional — combinados con una densidad de anclas cívicas suficiente para obtener el multiplicador cívico máximo. Dado que el índice aplica la banda de proximidad suburbano-regional como filtro y no como componente de puntuación, Plano compite puramente por composición de niveles, anclas cívicas y confianza, y su puntuación compuesta de 25,5 refleja fortaleza en los tres factores. Para un analista de sitios, la ciudad ofrece cobertura amplia y superpuesta de áreas comerciales anclada en instituciones médicas y académicas en los condados de Collin y Denton.
 
 ## Referencias
 

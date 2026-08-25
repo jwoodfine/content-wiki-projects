@@ -11,7 +11,7 @@ status: active
 audience: public
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-24
+last_edited: 2026-08-25
 editor: pointsav-engineering
 short_description: "Un glosario curado del vocabulario propio de tenencia directa de Woodfine — Clases de Desarrollo, Prototipo, Placa de Piso Fija, Programa de Expansión y términos relacionados — distinto de la terminología genérica de la industria AEC."
 paired_with: buildings/woodfine-development-vocabulary.md
@@ -50,7 +50,7 @@ Cuando un término ya cuenta con un artículo dedicado en la wiki, este glosario
 
 **Prototipo.** El diseño de edificio estandarizado — construido en torno a una Placa de Piso Fija — que se repite sin cambios materiales en cada desarrollo dentro de una Clase de Desarrollo. El Prototipo es lo que hace posible el Programa de Expansión: dado que el diseño está fijado antes de elegir un sitio, la adquisición, la secuenciación de la construcción y el análisis de suscripción pueden repetirse a escala de portafolio en lugar de rediseñarse para cada edificio. Véase [[fixed-floor-plates|Placas de piso fijas]] y [[rollout-index|El Programa de Expansión]].
 
-**Mercados Regionales.** Los centros de población clasificados — de 50.000 a 300.000 habitantes, con un ingreso disponible alto en relación con la oferta minorista — que la metodología de co-localización de Woodfine evalúa y clasifica para el desarrollo. Definición completa: [[about-regional-markets-system|Sistema de inteligencia de Mercados Regionales]].
+**Mercados Regionales.** Los centros de población — de 50.000 a 300.000 habitantes, con un ingreso disponible alto en relación con la oferta minorista — que la metodología de co-localización de Woodfine evalúa para el desarrollo. Definición completa: [[about-regional-markets-system|Sistema de inteligencia de Mercados Regionales]].
 
 **Programa de Expansión.** El programa país por país de repetir un diseño de Prototipo estandarizado en múltiples sitios por razones de eficiencia y escalabilidad. Definición completa: [[rollout-index|El Programa de Expansión]].
 
@@ -60,6 +60,6 @@ Un Sub-Prototipo se origina cuando se contrata un colaborador de diseño para un
 
 **Sitios de Prueba.** Los primeros desarrollos utilizados para validar un nuevo Prototipo o un nuevo Mercado de Desarrollo antes de que el Programa de Expansión se comprometa con ese mercado a escala.
 
-**Top 400 Mercados Regionales.** La lista corta clasificada de los Mercados Regionales de mayor puntuación en un territorio dado, producida por la metodología de puntuación de co-localización de Woodfine. Véase [[about-regional-markets-system|Sistema de inteligencia de Mercados Regionales]] para la metodología de clasificación, y las páginas de atlas específicas de cada país y continente para las listas clasificadas en sí.
+**Top 400 Mercados Regionales.** El conjunto calificado de Mercados Regionales en un territorio dado, producido por la metodología de calificación de co-localización de Woodfine. No se publica posición ni puntuación. Véase [[about-regional-markets-system|Sistema de inteligencia de Mercados Regionales]] para la metodología de calificación, y las páginas de atlas específicas de cada país y continente para los conjuntos en sí.
 
 **Pies Cuadrados No Apalancados.** La porción del área física de un edificio construida utilizando únicamente capital de aportación inicial, antes de aplicar cualquier disposición de financiamiento de deuda. La distinción es relevante para la suscripción: el área no apalancada no conlleva obligación de servicio de deuda y se rastrea por separado del área construida con cargo a una facilidad de financiamiento.

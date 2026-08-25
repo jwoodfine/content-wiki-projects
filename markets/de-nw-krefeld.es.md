@@ -14,13 +14,13 @@ quality: complete
 status: retired
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Mercado Regional número 5 en Europa — suburbio de Düsseldorf, 19,4 km; puntuación compuesta 12,0."
+short_description: "Mercado Regional europeo — suburbio de Düsseldorf, 19,4 km; 2 clústeres de co-localización de Nivel Regional."
 paired_with: markets/de-nw-krefeld.md
-last_edited: 2026-08-24
+last_edited: 2026-08-25
 editor: editorial
 ---
 
-Krefeld es una ciudad independiente (*kreisfreie Stadt*) en Renania del Norte-Westfalia, a 19,4 km al noroeste de Düsseldorf dentro del área metropolitana policéntrica del Rin-Ruhr, con más de diez millones de habitantes. Fundada sobre una tradición sedera y textil que se remonta al siglo XVIII, la ciudad mantiene una base industrial diversificada — acero Nirosta, Canon, Hitachi, Evonik — junto a una infraestructura cívica sustancial: dos campus hospitalarios Helios, el Krankenhaus Maria-Hilf y la Hochschule Niederrhein con unos 11.000 estudiantes matriculados. Dos clústeres de co-localización de Nivel 1, cada uno combinando anclas de hipermercado, ferretería y electrónica de consumo, sitúan a Krefeld en el quinto lugar entre los 400 Mercados Regionales europeos, con una puntuación compuesta de 12,0.
+Krefeld es una ciudad independiente (*kreisfreie Stadt*) en Renania del Norte-Westfalia, a 19,4 km al noroeste de Düsseldorf dentro del área metropolitana policéntrica del Rin-Ruhr, con más de diez millones de habitantes. Fundada sobre una tradición sedera y textil que se remonta al siglo XVIII, la ciudad mantiene una base industrial diversificada — acero Nirosta, Canon, Hitachi, Evonik — junto a una infraestructura cívica sustancial: dos campus hospitalarios Helios, el Krankenhaus Maria-Hilf y la Hochschule Niederrhein con unos 11.000 estudiantes matriculados. Dos clústeres de co-localización de Nivel Regional, cada uno combinando anclas de hipermercado, ferretería y electrónica de consumo, anclan la geografía comercial de Krefeld.
 
 ## Descripción general
 
@@ -32,7 +32,7 @@ Geográficamente, Krefeld funciona como municipio componente de la región metro
 
 ## Perfil de Co-localización
 
-Krefeld contiene dos co-localizaciones de Nivel 1. Ambas combinan los tres formatos de gran distribución minorista alemanes — hipermercado, ferretería y electrónica de consumo — produciendo la puntuación de composición más alta disponible en el conjunto de datos europeo.
+Krefeld contiene dos co-localizaciones de Nivel 1. Ambas combinan los tres formatos de gran distribución minorista alemanes — hipermercado, ferretería y electrónica de consumo.
 
 **Tabla 1.** Co-localizaciones en Krefeld.
 
@@ -49,7 +49,7 @@ El perfil de anclas cívicas de Krefeld es denso para una ciudad de su tamaño. 
 
 La educación superior está anclada en la Hochschule Niederrhein, una Universidad de Ciencias Aplicadas con aproximadamente 11.000 estudiantes matriculados en sus instalaciones de Krefeld. La institución mantiene dos campus físicamente separados en la ciudad — Krefeld-West y Krefeld-Süd — y un campus adicional en Mönchengladbach.
 
-La huella combinada del hospital y la universidad produce el multiplicador cívico de 1,5 aplicado a la puntuación compuesta de Krefeld.
+La huella combinada del hospital y la universidad otorga a Krefeld presencia de anclas cívicas junto a sus dos clústeres de co-localización de Nivel Regional.
 
 ## Datos AEC
 
@@ -64,19 +64,11 @@ La huella combinada del hospital y la universidad produce el multiplicador cívi
 
 Cfb es el régimen climático dominante en toda la región del Rin-Ruhr: veranos suaves, inviernos frescos pero raramente severos y precipitaciones distribuidas a lo largo del año. Para el diseño de edificios, esto implica una demanda de calefacción moderada y una demanda mínima de refrigeración mecánica en comparación con las zonas europeas continentales más al este.
 
-## Puntuación Compuesta
+Krefeld es un mercado suburbano-regional, a 19,4 km del centroide metropolitano de Düsseldorf.
 
-**Tabla 3.** Derivación de la puntuación compuesta para Krefeld.
+## La conclusión
 
-| Componente | Valor | Notas |
-|---|---|---|
-| Puntuación de nivel | 8 | (2 × 4) + (0 × 2) + (0 × 1) |
-| Multiplicador cívico | 1,5 | Presencia de anclas médicas y académicas |
-| Factor de confianza | 1,0 | Alta confianza |
-| **Puntuación compuesta** | **12,0** | puntuación_nivel × multiplicador_cívico × factor_confianza |
-| Tipo de mercado regional | Suburbano-regional | 19,4 km del centroide metropolitano de Düsseldorf |
-
-Una puntuación compuesta de 12,0 es representativa del nivel suburbano-regional superior europeo. El conjunto de datos europeo exhibe puntuaciones máximas más bajas que el norteamericano porque los municipios europeos son unidades geográficas más pequeñas, por lo que incluso centros económicamente significativos tienden a abarcar menos composiciones de Nivel 1 que sus equivalentes suburbanos norteamericanos.
+Krefeld es un mercado suburbano-regional a 19,4 km de Düsseldorf, construido sobre dos co-ubicaciones de Nivel Regional que combinan cada una hipermercado, ferretería y electrónica de consumo. Su base de anclas cívicas — tres hospitales y una Escuela de Ciencias Aplicadas — es inusualmente densa para una ciudad de aproximadamente 230.000 habitantes. Para la planificación de sitios y edificios, el clima oceánico atlántico (Cfb) implica una demanda moderada de calefacción y una refrigeración mecánica mínima en comparación con las zonas continentales más al este.
 
 ## Véase también
 
@@ -84,10 +76,6 @@ Una puntuación compuesta de 12,0 es representativa del nivel suburbano-regional
 - [[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]]
 - [[co-location-methodology|Metodología de Co-ubicación]]
 - [[co-location-ranking-system|Sistema de Clasificación de Co-ubicación]]
-
-## La conclusión
-
-Krefeld es un mercado suburbano-regional a 19,4 km de Düsseldorf, con el puesto 5 entre los 400 Mercados Regionales europeos y una puntuación compuesta de 12,0. Su fortaleza procede de dos co-ubicaciones de Nivel 1 que combinan cada una hipermercado, ferretería y electrónica de consumo, junto con una base de anclas cívicas — tres hospitales y una Escuela de Ciencias Aplicadas — inusualmente densa para una ciudad de aproximadamente 230.000 habitantes, que obtiene el multiplicador cívico de 1,5×. Para la planificación de sitios y edificios, el clima oceánico atlántico (Cfb) implica una demanda moderada de calefacción y una refrigeración mecánica mínima en comparación con las zonas continentales más al este.
 
 ## Referencias
 

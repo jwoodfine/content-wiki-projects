@@ -12,13 +12,13 @@ audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 keynote: false
-last_edited: 2026-07-16
+last_edited: 2026-08-25
 editor: woodfine-editorial
-short_description: "Ranked index of Canadian regional commercial real estate markets meeting co-location screening thresholds."
+short_description: "Index of Canadian regional commercial real estate markets meeting co-location screening thresholds."
 paired_with: markets/atlas-canada.es.md
 ---
 
-The **Canada regional market index** ranks Canadian cities and metropolitan areas that meet
+The **Canada regional market index** lists Canadian cities and metropolitan areas that meet
 the population, disposable income, and retail infrastructure thresholds established by the
 [[about-regional-markets-system|co-location regional market framework]]. Canada offers a substantial and
 geographically distributed set of qualifying regional markets: the country's population
@@ -72,44 +72,45 @@ spelled **Sydney**, not "Sidney" — "Sidney" names a different, unrelated real 
 markets table below — actually appear among Canada's 23 verified entries in the
 [[atlas-top-400-north-america|Top 400 Regional Markets — North America]] list. This doesn't
 mean these places aren't real Canadian markets with their own individual profile articles;
-it means they are not currently ranked in the TOP400 co-location screen specifically. The
+it means they are not currently included in the TOP400 co-location screen specifically. The
 Provincial coverage prose above is left as a qualitative regional description rather than
 rewritten, but should not be read as implying these five named markets are TOP400 entries.
 
-## Ranked markets
+## Markets
 
 This table is a filtered, Canada-specific view of the continental
 [[atlas-top-400-north-america|Top 400 Regional Markets — North America]] table — not a
-separate dataset — so every rank, score, and tier count matches the continental table
-exactly and updates automatically if that table is corrected.
+separate dataset — so every entry and tier count matches the continental table
+exactly and updates automatically if that table is corrected. No rank or score is
+published for any market.
 
-| Rank | Market | Suburb of | km | T1 | T2 | T3 | Civic | Score |
-|---|---|---|---|---|---|---|---|---|
-| 4 | [[ca-on-mississauga|Mississauga, ON]] | Toronto | 25 | 2 | 1 | 2 | Yes | 18.0 |
-| 9 | Brampton | Toronto | 30 | 1 | 3 | 0 | Yes | 15.0 |
-| 11 | Surrey | Vancouver | 26 | 1 | 2 | 1 | Yes | 13.5 |
-| 12 | Vaughan, Ontario | Toronto | 22 | 1 | 2 | 1 | Yes | 13.5 |
-| 18 | Waterloo, ON | Kitchener | 23 | 1 | 2 | 0 | Yes | 12.0 |
-| 36 | Markham | Toronto | — | 1 | 0 | 2 | — | 9.0 |
-| 63 | Laval | Montreal | — | 1 | 1 | 0 | — | 9.0 |
-| 64 | Abbotsford, BC | Vancouver | — | 1 | 1 | 0 | — | 9.0 |
-| 99 | Newmarket, ON | Toronto | — | 1 | 0 | 1 | — | 7.5 |
-| 299 | Coquitlam, BC | Vancouver | — | 1 | 0 | 0 | — | 6.0 |
-| 300 | Pointe-Claire | Montreal | — | 1 | 0 | 0 | — | 6.0 |
-| 301 | Bellefeuille, Quebec | Montreal | — | 1 | 0 | 0 | — | 6.0 |
-| 302 | Ajax, ON | Toronto | — | 1 | 0 | 0 | — | 6.0 |
-| 303 | Port Coquitlam, BC | Vancouver | — | 1 | 0 | 0 | — | 6.0 |
-| 327 | Chatham-Kent, ON | Detroit | — | 0 | 2 | 0 | — | 6.0 |
-| 328 | Guelph, Ontario | Kitchener | — | 0 | 2 | 0 | — | 6.0 |
-| 365 | Richmond Hill, Ontario | Toronto | — | 0 | 1 | 1 | — | 4.5 |
-| 366 | Oshawa, ON | Toronto | — | 0 | 1 | 1 | — | 4.5 |
-| 367 | Langley District Municipality | Vancouver | — | 1 | 0 | 0 | — | 4.2 |
-| 397 | Boisbriand, QC | Montreal | — | 1 | 0 | 0 | — | 4.0 |
-| 398 | Nanaimo, BC | Vancouver | — | 1 | 0 | 0 | — | 4.0 |
-| 399 | Vaudreuil-Dorion, QC | Montreal | — | 1 | 0 | 0 | — | 4.0 |
-| 400 | Okotoks | Calgary | — | 1 | 0 | 0 | — | 4.0 |
+| Market | Suburb of | km | T1 | T2 | T3 | Civic |
+|---|---|---|---|---|---|---|
+| [[ca-on-mississauga|Mississauga, ON]] | Toronto | 25 | 2 | 1 | 2 | Yes |
+| Brampton | Toronto | 30 | 1 | 3 | 0 | Yes |
+| Surrey | Vancouver | 26 | 1 | 2 | 1 | Yes |
+| Vaughan, Ontario | Toronto | 22 | 1 | 2 | 1 | Yes |
+| Waterloo, ON | Kitchener | 23 | 1 | 2 | 0 | Yes |
+| Markham | Toronto | — | 1 | 0 | 2 | — |
+| Laval | Montreal | — | 1 | 1 | 0 | — |
+| Abbotsford, BC | Vancouver | — | 1 | 1 | 0 | — |
+| Newmarket, ON | Toronto | — | 1 | 0 | 1 | — |
+| Coquitlam, BC | Vancouver | — | 1 | 0 | 0 | — |
+| Pointe-Claire | Montreal | — | 1 | 0 | 0 | — |
+| Bellefeuille, Quebec | Montreal | — | 1 | 0 | 0 | — |
+| Ajax, ON | Toronto | — | 1 | 0 | 0 | — |
+| Port Coquitlam, BC | Vancouver | — | 1 | 0 | 0 | — |
+| Chatham-Kent, ON | Detroit | — | 0 | 2 | 0 | — |
+| Guelph, Ontario | Kitchener | — | 0 | 2 | 0 | — |
+| Richmond Hill, Ontario | Toronto | — | 0 | 1 | 1 | — |
+| Oshawa, ON | Toronto | — | 0 | 1 | 1 | — |
+| Langley District Municipality | Vancouver | — | 1 | 0 | 0 | — |
+| Boisbriand, QC | Montreal | — | 1 | 0 | 0 | — |
+| Nanaimo, BC | Vancouver | — | 1 | 0 | 0 | — |
+| Vaudreuil-Dorion, QC | Montreal | — | 1 | 0 | 0 | — |
+| Okotoks | Calgary | — | 1 | 0 | 0 | — |
 
 ## See also
 
-- [[atlas-top-400-north-america]] — the full North American ranked list this page filters
+- [[atlas-top-400-north-america]] — the full North American market set this page filters
 - [[about-regional-markets-system]] — the co-location methodology and market selection criteria

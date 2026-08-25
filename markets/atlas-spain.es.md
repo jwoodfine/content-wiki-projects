@@ -12,13 +12,13 @@ audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
 keynote: false
-last_edited: 2026-07-16
+last_edited: 2026-08-25
 editor: woodfine-editorial
-short_description: "Índice clasificado de mercados inmobiliarios comerciales regionales españoles que cumplen los umbrales de selección para co-ubicación."
+short_description: "Índice de mercados inmobiliarios comerciales regionales españoles que cumplen los umbrales de selección para co-ubicación."
 paired_with: markets/atlas-spain.md
 ---
 
-El **índice de mercados regionales de España** clasifica las ciudades y capitales de provincia
+El **índice de mercados regionales de España** enumera las ciudades y capitales de provincia
 españolas fuera de las áreas metropolitanas primarias de Madrid y Barcelona que cumplen los
 umbrales de población, ingresos e infraestructura comercial establecidos por el [[about-regional-markets-system|marco
 de mercados regionales de co-ubicación]]. La organización territorial de España en diecisiete
@@ -66,46 +66,46 @@ Zaragoza — todos mencionados anteriormente como mercados primarios calificados
 tabla de Mercados de muestra ahora eliminada — aparece realmente entre las 22 entradas
 verificadas de España en la lista [[atlas-top-400-europe|Top 400 Mercados Regionales —
 Europa]]. Esto no significa que estos lugares no sean mercados españoles reales; significa
-que actualmente no están clasificados en el filtro TOP400 de co-ubicación específicamente.
+que actualmente no están incluidos en el filtro TOP400 de co-ubicación específicamente.
 El texto de Cobertura por comunidad autónoma anterior se mantiene como descripción regional
 cualitativa en lugar de reescribirse, pero no debe interpretarse como que estos mercados
 mencionados son entradas del TOP400.
 
-## Mercados clasificados
+## Mercados
 
 Esta tabla es una vista filtrada y específica de España de la tabla continental
 [[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]] — no un conjunto de datos
-independiente —, de modo que cada posición, puntuación y conteo de nivel coincide
+independiente —, de modo que cada entrada y conteo de nivel coincide
 exactamente con la tabla continental y se actualiza automáticamente si esa tabla se
-corrige.
+corrige. No se publica posición ni puntuación para ningún mercado.
 
-| Posición | Mercado | Suburbio de | km | N1 | N2 | N3 | Cívica | Puntuación |
-|---|---|---|---|---|---|---|---|---|
-| 13 | Murcia | Alicante | 72 | 1 | 0 | 2 | Sí | 9,0 |
-| 53 | Gijón | Oviedo | — | 1 | 0 | 1 | — | 7,5 |
-| 217 | San Sebastián de los Reyes | Madrid | — | 1 | 0 | 0 | — | 6,0 |
-| 218 | Castelló de la Plana | Valencia | — | 1 | 0 | 0 | — | 6,0 |
-| 219 | Las Rozas de Madrid | Madrid | — | 1 | 0 | 0 | — | 6,0 |
-| 220 | Gavà | Barcelona | — | 1 | 0 | 0 | — | 6,0 |
-| 221 | Badia del Vallès | Barcelona | — | 1 | 0 | 0 | — | 6,0 |
-| 222 | Elche | Alicante | — | 1 | 0 | 0 | — | 6,0 |
-| 223 | Rivas-Vaciamadrid | Madrid | — | 1 | 0 | 0 | — | 6,0 |
-| 224 | Parets del Vallès | Barcelona | — | 1 | 0 | 0 | — | 6,0 |
-| 225 | Alcalá de Henares | Madrid | — | 1 | 0 | 0 | — | 6,0 |
-| 226 | Getafe | Madrid | — | 1 | 0 | 0 | — | 6,0 |
-| 227 | Ferrol | A Coruña | — | 1 | 0 | 0 | — | 6,0 |
-| 228 | Talavera de la Reina | Toledo | — | 1 | 0 | 0 | — | 6,0 |
-| 229 | Orihuela | Alicante | — | 1 | 0 | 0 | — | 6,0 |
-| 230 | Jaén | Granada | — | 1 | 0 | 0 | — | 6,0 |
-| 231 | Finestrat | Alicante | — | 1 | 0 | 0 | — | 6,0 |
-| 232 | Xàtiva | Valencia | — | 1 | 0 | 0 | — | 6,0 |
-| 347 | Fuengirola | Málaga | — | 1 | 0 | 0 | — | 4,0 |
-| 348 | Nigrán | Braga | — | 1 | 0 | 0 | — | 4,0 |
-| 380 | Jerez de la Frontera | Cádiz | — | 0 | 0 | 2 | — | 3,0 |
-| 381 | Torrejón de Ardoz | Madrid | — | 0 | 0 | 2 | — | 3,0 |
+| Mercado | Suburbio de | km | N1 | N2 | N3 | Cívica |
+|---|---|---|---|---|---|---|
+| Murcia | Alicante | 72 | 1 | 0 | 2 | Sí |
+| Gijón | Oviedo | — | 1 | 0 | 1 | — |
+| San Sebastián de los Reyes | Madrid | — | 1 | 0 | 0 | — |
+| Castelló de la Plana | Valencia | — | 1 | 0 | 0 | — |
+| Las Rozas de Madrid | Madrid | — | 1 | 0 | 0 | — |
+| Gavà | Barcelona | — | 1 | 0 | 0 | — |
+| Badia del Vallès | Barcelona | — | 1 | 0 | 0 | — |
+| Elche | Alicante | — | 1 | 0 | 0 | — |
+| Rivas-Vaciamadrid | Madrid | — | 1 | 0 | 0 | — |
+| Parets del Vallès | Barcelona | — | 1 | 0 | 0 | — |
+| Alcalá de Henares | Madrid | — | 1 | 0 | 0 | — |
+| Getafe | Madrid | — | 1 | 0 | 0 | — |
+| Ferrol | A Coruña | — | 1 | 0 | 0 | — |
+| Talavera de la Reina | Toledo | — | 1 | 0 | 0 | — |
+| Orihuela | Alicante | — | 1 | 0 | 0 | — |
+| Jaén | Granada | — | 1 | 0 | 0 | — |
+| Finestrat | Alicante | — | 1 | 0 | 0 | — |
+| Xàtiva | Valencia | — | 1 | 0 | 0 | — |
+| Fuengirola | Málaga | — | 1 | 0 | 0 | — |
+| Nigrán | Braga | — | 1 | 0 | 0 | — |
+| Jerez de la Frontera | Cádiz | — | 0 | 0 | 2 | — |
+| Torrejón de Ardoz | Madrid | — | 0 | 0 | 2 | — |
 
 ## Véase también
 
-- [[atlas-top-400-europe]] — la lista europea clasificada completa que esta página filtra
+- [[atlas-top-400-europe]] — el conjunto europeo completo que esta página filtra
 - [[about-regional-markets-system]] — la metodología de co-ubicación y los criterios de selección de
   mercados

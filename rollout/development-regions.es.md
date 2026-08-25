@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-07-03
+last_edited: 2026-08-25
 editor: pointsav-engineering
 short_description: "Zonas geográficas y jurisdiccionales que segmentan datos de mercado, contexto regulatorio y alcance de selección de sitios para la evaluación de coubicación y cumplimiento."
 paired_with: development-regions.md
@@ -34,7 +34,7 @@ Cada región de desarrollo se define mediante tres componentes:
 
 **Límite geográfico.** La geografía física dentro de la cual se consideran las instalaciones y los sitios de co-ubicación. Los límites geográficos no siempre se alinean con los jurisdiccionales: un alcance regulatorio canadiense puede abarcar sitios en múltiples provincias, cada una con características de mercado distintas.
 
-**Alcance de datos de mercado.** Las fuentes de datos e índices de mercado que alimentan el canal de inteligencia para la región. Los datos del mercado inmobiliario, los indicadores económicos y las señales demográficas están delimitados por región porque su contenido informativo está jurisdiccionalmente acotado. El [[about-regional-markets-system|sistema de clasificación de Mercados Regionales]] — incluidas las listas [[atlas-top-400-north-america|Top 400 Mercados Regionales]] — es el índice principal de este tipo: el alcance de datos de mercado de una región de desarrollo determina qué mercados clasificados entran en juego para la selección de sitios dentro de ella.
+**Alcance de datos de mercado.** Las fuentes de datos e índices de mercado que alimentan el canal de inteligencia para la región. Los datos del mercado inmobiliario, los indicadores económicos y las señales demográficas están delimitados por región porque su contenido informativo está jurisdiccionalmente acotado. El [[about-regional-markets-system|sistema de inteligencia de Mercados Regionales]] — incluidas las listas [[atlas-top-400-north-america|Top 400 Mercados Regionales]] — es el índice principal de este tipo: el alcance de datos de mercado de una región de desarrollo determina qué Mercados Regionales entran en juego para la selección de sitios dentro de ella.
 
 ## Relación con la metodología de co-ubicación
 
@@ -43,6 +43,6 @@ Las definiciones de regiones de desarrollo son el marco dentro del cual opera la
 ## Véase también
 
 - el programa de expansión país por país dentro del cual se toman las decisiones de despliegue regional
-- [[about-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]] — la metodología de clasificación detrás del alcance de datos de mercado
+- [[about-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]] — la metodología de calificación detrás del alcance de datos de mercado
 - [[atlas-top-400-north-america|Top 400 Mercados Regionales — América del Norte]]
 - [[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]]

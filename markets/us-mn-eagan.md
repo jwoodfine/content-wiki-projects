@@ -12,17 +12,16 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Rank 372 North American Regional Market — suburb of Minneapolis; composite score 4.0."
+short_description: "North American Regional Market — suburb of Minneapolis; 1 Regional-tier co-location cluster."
 paired_with: markets/us-mn-eagan.es.md
-last_edited: 2026-08-24
+last_edited: 2026-08-25
 editor: editorial
 ---
 
-Eagan, a Dakota County suburb on the south bank of the Minnesota River, ranks 372nd among
-the 400 North American Regional Markets with a composite score of 4.0, near the floor of the
-ranked list. A corporate office, distribution, and logistics base — including the Minnesota
-Vikings' headquarters and training facility — distinguishes it from a purely residential
-suburb.
+Eagan, a Dakota County suburb on the south bank of the Minnesota River, is a North American
+Regional Market with one Regional-tier co-location cluster. A corporate office, distribution,
+and logistics base — including the Minnesota Vikings' headquarters and training facility —
+distinguishes it from a purely residential suburb.
 
 ## Overview
 
@@ -43,18 +42,13 @@ fields and a 6,500-seat outdoor stadium.
 
 | Field | Value |
 |---|---|
-| Rank | 372 of 400 (North America) |
-| Composite score | 4.0 |
-| Tier 1 clusters | 1 |
-| Tier 2 clusters | 0 |
-| Tier 3 clusters | 0 |
 | Suburb of | Minneapolis |
 
-Cluster-level detail — the specific retail and civic anchors composing Eagan's single Tier 1
-cluster — is pending the underlying GIS dataset and is not included in this stub. See
-[[atlas-top-400-north-america|Top 400 Regional Markets — North America]] for the full ranked
-list and [[co-location-methodology|Co-location Methodology]] for how the composite score is
-derived.
+Eagan has one Regional-tier co-location cluster. Cluster-level detail — the specific retail
+and civic anchors composing it — is pending the underlying GIS dataset and is not included in
+this stub. See [[atlas-top-400-north-america|Top 400 Regional Markets — North America]] for
+the full Top 400 set and [[co-location-methodology|Co-location Methodology]] for how markets
+qualify.
 
 ## See Also
 

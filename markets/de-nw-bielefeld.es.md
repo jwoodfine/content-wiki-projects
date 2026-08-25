@@ -12,15 +12,15 @@ quality: stub
 status: retired
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Ciudad de Renania del Norte-Westfalia que funciona como punto de referencia metropolitano para los mercados suburbanos circundantes — no está en el conjunto clasificado Top-400."
+short_description: "Ciudad de Renania del Norte-Westfalia que funciona como punto de referencia metropolitano para los mercados suburbanos circundantes — no está en el conjunto de selección Top-400."
 paired_with: markets/de-nw-bielefeld.md
-last_edited: 2026-07-10
+last_edited: 2026-08-25
 editor: editorial
 ---
 
 Bielefeld no tiene entrada propia en la lista Top-400 de Mercados Regionales de Europa. En el
 conjunto de datos actual, Bielefeld funciona como el punto de referencia metropolitano frente
-al cual se clasifican otros seis mercados suburbanos — Paderborn, Lippstadt, Belm, Bad
+al cual se cuentan otros seis mercados suburbanos — Paderborn, Lippstadt, Belm, Bad
 Oeynhausen, Osnabrück y Gütersloh — en lugar de ser ella misma un mercado suburbano.
 
 ## Descripción general
@@ -41,13 +41,11 @@ cuadrados y de 167.000 a 320.000 habitantes.
 
 ## Posición en el Mercado Regional
 
-Bielefeld no aparece como entrada clasificada en la lista
+Bielefeld no aparece como entrada en la lista
 [[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]]. Esto no es un defecto de
 datos: en la versión actual, Bielefeld es el punto de referencia metropolitano de otras seis
 entradas suburbanas (Paderborn, Lippstadt, Belm, Bad Oeynhausen, Osnabrück, Gütersloh),
-conforme a la propia taxonomía de [[about-regional-markets-system|el sistema de puntuación de
-co-ubicación]], que excluye los núcleos metropolitanos del conjunto clasificado
-suburbano-regional.
+conforme a la propia taxonomía de [[about-regional-markets-system|el sistema de selección de co-ubicación]], que excluye los núcleos metropolitanos del conjunto de selección suburbano-regional.
 
 ## Véase también
 

@@ -6,26 +6,26 @@ language: es
 language_protocol: TRANSLATE-ES
 category: markets
 type: reference
-index_group: screening-universe-and-rankings
+index_group: screening-universe
 content_type: topic
 quality: complete
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Lista clasificada de 399 Mercados Regionales distintos verificados en Europa a lo largo de 400 puestos clasificados (el puesto 285 está vacante en espera de una entrada número 400 genuina), bajo la metodología suburbano-regional corregida. Posición 1: Chemnitz (suburbio de Dresden, 64 km, puntuación 18,0)."
+short_description: "Conjunto de 399 Mercados Regionales distintos verificados en Europa a lo largo de 400 posiciones en la lista (una posición vacante en espera de una entrada número 400 genuina), bajo la metodología suburbano-regional corregida. No se publica posición ni puntuación; Chemnitz es una entrada (suburbio de Dresden, 64 km)."
 paired_with: markets/atlas-top-400-europe.md
-last_edited: 2026-08-24
+last_edited: 2026-08-25
 editor: editorial
 es_status: complete
 ---
 
-Esta es una lista clasificada de los cuatrocientos Mercados Regionales de mayor puntuación en Europa, donde un *Mercado Regional* es un suburbio con nombre propio o municipio satélite que se encuentra a distancia de desplazamiento diario de un centro metropolitano europeo importante y contiene uno o más clústeres de co-localización minorista. Los mercados se clasifican por una puntuación compuesta que combina la composición de niveles de sus clústeres de co-localización y la presencia de infraestructura de anclas cívicas (médicas y académicas).
+Este es el conjunto de los cuatrocientos Mercados Regionales de Europa, donde un *Mercado Regional* es un suburbio con nombre propio o municipio satélite que se encuentra a distancia de desplazamiento diario de un centro metropolitano europeo importante y contiene uno o más clústeres de co-localización minorista. Los mercados califican para este conjunto por una condición de composición de anclas, no por una posición o puntuación publicada.
 
 La lista identifica mercados comerciales en el anillo suburbano de las principales ciudades europeas — la brecha de investigación entre el análisis de mercados metropolitanos institucionales (cubiertos ampliamente por firmas establecidas de investigación económica y asesoría inmobiliaria comercial) y las zonas genuinamente rurales. Se produce por separado de las listas de núcleos metropolitanos y ciudades secundarias independientes.
 
 ## Desgloses por país
 
-Siete países cuentan con suficientes entradas para justificar su propia página de clasificación dedicada: [[atlas-germany|Alemania]] (124 mercados), [[atlas-france|Francia]] (102), [[atlas-united-kingdom|Reino Unido]] (81), [[atlas-spain|España]] (22), [[atlas-italy|Italia]] (21), [[atlas-poland|Polonia]] (16) y [[atlas-netherlands|Países Bajos]] (14). Austria, Dinamarca, Suecia y Portugal (7, 5, 4 y 3 mercados respectivamente) permanecen en la tabla de Desglose por País más abajo y en la tabla clasificada completa — ese número no justifica una página dedicada.
+Siete países cuentan con suficientes entradas para justificar su propia página de mercado dedicada: [[atlas-germany|Alemania]] (124 mercados), [[atlas-france|Francia]] (102), [[atlas-united-kingdom|Reino Unido]] (81), [[atlas-spain|España]] (22), [[atlas-italy|Italia]] (21), [[atlas-poland|Polonia]] (16) y [[atlas-netherlands|Países Bajos]] (14). Austria, Dinamarca, Suecia y Portugal (7, 5, 4 y 3 mercados respectivamente) permanecen en la tabla de Desglose por País más abajo y en la tabla completa de mercados — ese número no justifica una página dedicada.
 
 ## Definición y Alcance
 
@@ -33,15 +33,11 @@ Un Mercado Regional europeo cumple los requisitos de esta lista cuando satisface
 
 La restricción de coherencia geográfica requiere que todos los clústeres de co-localización dentro de un único asentamiento con nombre propio se encuentren dentro de un cuadro delimitador de 200 kilómetros. Los asentamientos que no cumplen esta restricción son agregaciones de colisión de nombres y quedan excluidos.
 
-## Metodología de Clasificación
+## Método de Calificación
 
-La puntuación compuesta es el producto de tres factores. La *puntuación de nivel* cuenta cuatro puntos por clúster de Nivel 1, dos puntos por clúster de Nivel 2 y un punto por clúster de Nivel 3. El *multiplicador cívico* es 1,5 cuando al menos un clúster incluye una ancla médica o académica y 1,0 en caso contrario. El *factor de confianza* es 1,0 para mercados de alta confianza y 0,7 para mercados provisionales.
+No se publica posición ni puntuación para ningún mercado de este conjunto. Un mercado califica cuando sus clústeres de co-ubicación superan una de tres condiciones de composición de anclas: un ancla de hipermercado más al menos dos de {ferretería, club de precio, estilo de vida, electrónica, artículos deportivos}; un par hipermercado-ferretería presente en al menos dos clústeres distintos; o esa misma condición hipermercado-ferretería aplicada a un mercado geográficamente aislado. Existe una puntuación compuesta de uso interno para apoyar la selección, pero nunca se muestra al lector.
 
-La fórmula completa es: *Puntuación = puntuación_nivel × multiplicador_cívico × factor_confianza*.
-
-Los tres niveles describen combinaciones progresivamente más ricas de categorías de anclas minoristas europeas. Los clústeres de *Nivel 1* (T1) contienen un ancla de hipermercado (Kaufland, Globus, Carrefour, Auchan o equivalente) junto con un ancla de ferretería (Hornbach, Bauhaus, Leroy Merlin o equivalente) y al menos una categoría de ancla adicional. Los clústeres de *Nivel 2* (T2) contienen un hipermercado y una ferretería. Los clústeres de *Nivel 3* (T3) contienen una única ancla reconocida.
-
-La puntuación compuesta más alta en el conjunto de datos europeo actual es 18,0 (Chemnitz, suburbio de Dresden).
+Los tres niveles de clúster indicados en la tabla siguiente describen combinaciones progresivamente más ricas de categorías de anclas minoristas europeas. Los clústeres de *Nivel 1* (T1) contienen un ancla de hipermercado (Kaufland, Globus, Carrefour, Auchan o equivalente) junto con un ancla de ferretería (Hornbach, Bauhaus, Leroy Merlin o equivalente) y al menos una categoría de ancla adicional. Los clústeres de *Nivel 2* (T2) contienen un hipermercado y una ferretería. Los clústeres de *Nivel 3* (T3) contienen una única ancla reconocida.
 
 ## Perfil Minorista Europeo
 
@@ -49,475 +45,475 @@ Las composiciones de clústeres de Nivel 1 europeos difieren significativamente 
 
 ## Geografía Suburbana
 
-La lista abarca 399 mercados distintos verificados en 11 países europeos, ocupando 399 de los 400 puestos clasificados (el puesto 285 está vacante — véase la nota de corrección de datos en la sección de Desglose por País). Alemania lidera con 124 mercados, lo que refleja el carácter policéntrico del sistema urbano alemán. Francia contribuye con 102 mercados, el Reino Unido con 81, España con 22, Italia con 21, Polonia con 16 y los Países Bajos con 14.
+La lista abarca 399 mercados distintos verificados en 11 países europeos, ocupando 399 de las 400 posiciones de la lista (la posición 285 está vacante — véase la nota de corrección de datos en la sección de Desglose por País). Alemania lidera con 124 mercados, lo que refleja el carácter policéntrico del sistema urbano alemán. Francia contribuye con 102 mercados, el Reino Unido con 81, España con 22, Italia con 21, Polonia con 16 y los Países Bajos con 14.
 
 Las áreas metropolitanas que generan más suburbios cualificados son Londres (14), París (14), Stuttgart (12) y Le Havre (9).
 
-## Top 25
+## Muestra de 25
 
-Los veinticinco Mercados Regionales europeos mejor clasificados se enumeran a continuación, con el centro metropolitano del que cada mercado es suburbio.
+A continuación se presenta una muestra de veinticinco Mercados Regionales europeos, con el centro metropolitano del que cada mercado es suburbio. Es una muestra, no un nivel superior clasificado — el conjunto completo de 400 continúa en el Apéndice.
 
-| Pos. | Mercado | País | Suburbio de | km | T1 | T2 | T3 | Cívico | Punt. |
-|------|---------|------|-------------|----|----|----|----|--------|-------|
-| 1 | Chemnitz, Stadt | DE | Dresden | 64 | 3 | 0 | 0 | Sí | 18,0 |
-| 2 | Ingolstadt | DE | Regensburg | 56 | 2 | 0 | 1 | Sí | 13,5 |
-| 3 | Dessau-Roßlau, Stadt | DE | Halle | 44 | 2 | 0 | 0 | Sí | 12,0 |
-| 4 | [[de-rp-kaiserslautern|Kaiserslautern, Stadt]] | DE | Mannheim | 54 | 2 | 0 | 0 | Sí | 12,0 |
-| 5 | [[de-nw-krefeld|Krefeld, Stadt]] | DE | Düsseldorf | 19 | 2 | 0 | 0 | Sí | 12,0 |
-| 6 | [[pl-bielsko-biala|Bielsko-Biała]] | PL | Katowice | 48 | 2 | 0 | 0 | Sí | 12,0 |
-| 7 | Zwickau, Stadt | DE | Leipzig | 69 | 1 | 1 | 1 | Sí | 10,5 |
-| 8 | Radom | PL | Kielce | 69 | 1 | 1 | 1 | Sí | 10,5 |
-| 9 | Fife | GB | Edinburgh | 19 | 0 | 3 | 1 | Sí | 10,5 |
-| 10 | Milton Keynes | GB | Luton | 27 | 1 | 0 | 2 | Sí | 9,0 |
-| 11 | Duisburg, Stadt | DE | Essen | 17 | 1 | 0 | 2 | Sí | 9,0 |
-| 12 | Bremerhaven, Stadt | DE | Bremen | 54 | 1 | 0 | 2 | Sí | 9,0 |
-| 13 | Murcia | ES | Alicante | 72 | 1 | 0 | 2 | Sí | 9,0 |
-| 14 | Hertsmere | GB | Londres | 22 | 1 | 1 | 0 | Sí | 9,0 |
-| 15 | Auch | FR | Toulouse | 69 | 1 | 1 | 0 | Sí | 9,0 |
-| 16 | Beauvais | FR | Amiens | 54 | 1 | 1 | 0 | Sí | 9,0 |
-| 17 | Jena, Stadt | DE | Halle | 68 | 1 | 1 | 0 | Sí | 9,0 |
-| 18 | Heilbronn, Universitätsstadt | DE | Stuttgart | 40 | 1 | 1 | 0 | Sí | 9,0 |
-| 19 | Brandenburg an der Havel, Stadt | DE | Berlín | 57 | 1 | 1 | 0 | Sí | 9,0 |
-| 20 | Heidelberg, Stadt | DE | Mannheim | 19 | 1 | 1 | 0 | Sí | 9,0 |
-| 21 | Worms, Stadt | DE | Mannheim | 19 | 1 | 1 | 0 | Sí | 9,0 |
-| 22 | Stade, Hansestadt | DE | Hamburgo | 37 | 1 | 1 | 0 | Sí | 9,0 |
-| 23 | Villingen-Schwenningen, Stadt | DE | Friburgo | 48 | 1 | 1 | 0 | Sí | 9,0 |
-| 24 | Asti | IT | Turín | 45 | 1 | 1 | 0 | Sí | 9,0 |
-| 25 | Toruń | PL | Bydgoszcz | 45 | 1 | 1 | 0 | Sí | 9,0 |
+| Mercado | País | Suburbio de | km | T1 | T2 | T3 | Cívico |
+|---------|------|-------------|----|----|----|----|--------|
+| Chemnitz, Stadt | DE | Dresden | 64 | 3 | 0 | 0 | Sí |
+| Ingolstadt | DE | Regensburg | 56 | 2 | 0 | 1 | Sí |
+| Dessau-Roßlau, Stadt | DE | Halle | 44 | 2 | 0 | 0 | Sí |
+| [[de-rp-kaiserslautern|Kaiserslautern, Stadt]] | DE | Mannheim | 54 | 2 | 0 | 0 | Sí |
+| [[de-nw-krefeld|Krefeld, Stadt]] | DE | Düsseldorf | 19 | 2 | 0 | 0 | Sí |
+| [[pl-bielsko-biala|Bielsko-Biała]] | PL | Katowice | 48 | 2 | 0 | 0 | Sí |
+| Zwickau, Stadt | DE | Leipzig | 69 | 1 | 1 | 1 | Sí |
+| Radom | PL | Kielce | 69 | 1 | 1 | 1 | Sí |
+| Fife | GB | Edinburgh | 19 | 0 | 3 | 1 | Sí |
+| Milton Keynes | GB | Luton | 27 | 1 | 0 | 2 | Sí |
+| Duisburg, Stadt | DE | Essen | 17 | 1 | 0 | 2 | Sí |
+| Bremerhaven, Stadt | DE | Bremen | 54 | 1 | 0 | 2 | Sí |
+| Murcia | ES | Alicante | 72 | 1 | 0 | 2 | Sí |
+| Hertsmere | GB | Londres | 22 | 1 | 1 | 0 | Sí |
+| Auch | FR | Toulouse | 69 | 1 | 1 | 0 | Sí |
+| Beauvais | FR | Amiens | 54 | 1 | 1 | 0 | Sí |
+| Jena, Stadt | DE | Halle | 68 | 1 | 1 | 0 | Sí |
+| Heilbronn, Universitätsstadt | DE | Stuttgart | 40 | 1 | 1 | 0 | Sí |
+| Brandenburg an der Havel, Stadt | DE | Berlín | 57 | 1 | 1 | 0 | Sí |
+| Heidelberg, Stadt | DE | Mannheim | 19 | 1 | 1 | 0 | Sí |
+| Worms, Stadt | DE | Mannheim | 19 | 1 | 1 | 0 | Sí |
+| Stade, Hansestadt | DE | Hamburgo | 37 | 1 | 1 | 0 | Sí |
+| Villingen-Schwenningen, Stadt | DE | Friburgo | 48 | 1 | 1 | 0 | Sí |
+| Asti | IT | Turín | 45 | 1 | 1 | 0 | Sí |
+| Toruń | PL | Bydgoszcz | 45 | 1 | 1 | 0 | Sí |
 
-## Apéndice: Tabla Clasificada Completa (26–400)
+## Apéndice: Mercados Adicionales (26–400)
 
-### Puestos 26–29 — puntuación 9.0
+### Mercados 26–29
 
-| Pos. | Mercado | País | Suburbio de | T1 | T2 | T3 | Punt. |
-|------|--------|---------|-----------|----|----|----|-------|
-| 26 | Częstochowa | PL | Katowice | 1 | 1 | 0 | 9.0 |
-| 27 | Wiltshire | GB | Bath | 0 | 2 | 2 | 9.0 |
-| 28 | Cheshire East | GB | Manchester | 0 | 3 | 0 | 9.0 |
-| 29 | Randers | DK | Aarhus | 0 | 3 | 0 | 9.0 |
+| Mercado | País | Suburbio de | T1 | T2 | T3 |
+|---------|------|-------------|----|----|----|
+| Częstochowa | PL | Katowice | 1 | 1 | 0 |
+| Wiltshire | GB | Bath | 0 | 2 | 2 |
+| Cheshire East | GB | Manchester | 0 | 3 | 0 |
+| Randers | DK | Aarhus | 0 | 3 | 0 |
 
-### Puestos 30–55 — puntuación 7.5
+### Mercados 30–55
 
-| Pos. | Mercado | País | Suburbio de | T1 | T2 | T3 | Punt. |
-|------|--------|---------|-----------|----|----|----|-------|
-| 30 | Hillingdon | GB | London | 1 | 0 | 1 | 7.5 |
-| 31 | Derby | GB | Nottingham | 1 | 0 | 1 | 7.5 |
-| 32 | [[gb-eng-chester|Cheshire West and Chester]] | GB | Wigan | 1 | 0 | 1 | 7.5 |
-| 33 | [[fr-chambery|Chambéry]] | FR | Grenoble | 1 | 0 | 1 | 7.5 |
-| 34 | Albi | FR | Toulouse | 1 | 0 | 1 | 7.5 |
-| 35 | Cambrai | FR | Valenciennes | 1 | 0 | 1 | 7.5 |
-| 36 | Osny | FR | Paris | 1 | 0 | 1 | 7.5 |
-| 37 | Montauban | FR | Toulouse | 1 | 0 | 1 | 7.5 |
-| 38 | Quimper | FR | Brest | 1 | 0 | 1 | 7.5 |
-| 39 | Mulhouse | FR | Colmar | 1 | 0 | 1 | 7.5 |
-| 40 | Rosenheim | DE | Munich | 1 | 0 | 1 | 7.5 |
-| 41 | Bamberg | DE | Nürnberg | 1 | 0 | 1 | 7.5 |
-| 42 | Neubrandenburg, Stadt | DE | Cottbus | 1 | 0 | 1 | 7.5 |
-| 43 | Potsdam, Stadt | DE | Berlin | 1 | 0 | 1 | 7.5 |
-| 44 | Wuppertal, Stadt | DE | Essen | 1 | 0 | 1 | 7.5 |
-| 45 | Landshut | DE | Regensburg | 1 | 0 | 1 | 7.5 |
-| 46 | Paderborn, Stadt | DE | Bielefeld | 1 | 0 | 1 | 7.5 |
-| 47 | Hanau, Brüder-Grimm-Stadt | DE | Frankfurt | 1 | 0 | 1 | 7.5 |
-| 48 | Limburg a.d. Lahn, Kreisstadt | DE | Wiesbaden | 1 | 0 | 1 | 7.5 |
-| 49 | Erlangen | DE | Nürnberg | 1 | 0 | 1 | 7.5 |
-| 50 | Siegen, Universitätsstadt | DE | Cologne | 1 | 0 | 1 | 7.5 |
-| 51 | Reutlingen, Stadt | DE | Stuttgart | 1 | 0 | 1 | 7.5 |
-| 52 | Crailsheim, Stadt | DE | Stuttgart | 1 | 0 | 1 | 7.5 |
-| 53 | Gijón | ES | Oviedo | 1 | 0 | 1 | 7.5 |
-| 54 | Durham | GB | Newcastle | 0 | 2 | 1 | 7.5 |
-| 55 | East Riding of Yorkshire | GB | Leeds | 0 | 2 | 1 | 7.5 |
+| Mercado | País | Suburbio de | T1 | T2 | T3 |
+|---------|------|-------------|----|----|----|
+| Hillingdon | GB | London | 1 | 0 | 1 |
+| Derby | GB | Nottingham | 1 | 0 | 1 |
+| [[gb-eng-chester|Cheshire West and Chester]] | GB | Wigan | 1 | 0 | 1 |
+| [[fr-chambery|Chambéry]] | FR | Grenoble | 1 | 0 | 1 |
+| Albi | FR | Toulouse | 1 | 0 | 1 |
+| Cambrai | FR | Valenciennes | 1 | 0 | 1 |
+| Osny | FR | Paris | 1 | 0 | 1 |
+| Montauban | FR | Toulouse | 1 | 0 | 1 |
+| Quimper | FR | Brest | 1 | 0 | 1 |
+| Mulhouse | FR | Colmar | 1 | 0 | 1 |
+| Rosenheim | DE | Munich | 1 | 0 | 1 |
+| Bamberg | DE | Nürnberg | 1 | 0 | 1 |
+| Neubrandenburg, Stadt | DE | Cottbus | 1 | 0 | 1 |
+| Potsdam, Stadt | DE | Berlin | 1 | 0 | 1 |
+| Wuppertal, Stadt | DE | Essen | 1 | 0 | 1 |
+| Landshut | DE | Regensburg | 1 | 0 | 1 |
+| Paderborn, Stadt | DE | Bielefeld | 1 | 0 | 1 |
+| Hanau, Brüder-Grimm-Stadt | DE | Frankfurt | 1 | 0 | 1 |
+| Limburg a.d. Lahn, Kreisstadt | DE | Wiesbaden | 1 | 0 | 1 |
+| Erlangen | DE | Nürnberg | 1 | 0 | 1 |
+| Siegen, Universitätsstadt | DE | Cologne | 1 | 0 | 1 |
+| Reutlingen, Stadt | DE | Stuttgart | 1 | 0 | 1 |
+| Crailsheim, Stadt | DE | Stuttgart | 1 | 0 | 1 |
+| Gijón | ES | Oviedo | 1 | 0 | 1 |
+| Durham | GB | Newcastle | 0 | 2 | 1 |
+| East Riding of Yorkshire | GB | Leeds | 0 | 2 | 1 |
 
-### Puestos 56–285 — puntuación 6.0
+### Mercados 56–285
 
-#### Puestos 56–115
+#### Mercados 56–115
 
-| Pos. | Mercado | País | Suburbio de | T1 | T2 | T3 | Punt. |
-|------|--------|---------|-----------|----|----|----|-------|
-| 56 | 's-Gravenhage | NL | Rotterdam | 1 | 1 | 0 | 6.0 |
-| 57 | Thurrock | GB | London | 1 | 0 | 0 | 6.0 |
-| 58 | Gloucester | GB | Bristol | 1 | 0 | 0 | 6.0 |
-| 59 | Rushmoor | GB | Reading | 1 | 0 | 0 | 6.0 |
-| 60 | [[se-jarfalla|Järfälla]] | SE | Stockholm | 1 | 0 | 0 | 6.0 |
-| 61 | Grande-Synthe | FR | Lille | 1 | 0 | 0 | 6.0 |
-| 62 | Roissy-en-France | FR | Paris | 1 | 0 | 0 | 6.0 |
-| 63 | Dole | FR | Dijon | 1 | 0 | 0 | 6.0 |
-| 64 | Montigny-lès-Cormeilles | FR | Paris | 1 | 0 | 0 | 6.0 |
-| 65 | Sartrouville | FR | Paris | 1 | 0 | 0 | 6.0 |
-| 66 | Sainte-Geneviève-des-Bois | FR | Paris | 1 | 0 | 0 | 6.0 |
-| 67 | Bayeux | FR | Le Havre | 1 | 0 | 0 | 6.0 |
-| 68 | Saint-Berthevin | FR | Rennes | 1 | 0 | 0 | 6.0 |
-| 69 | Arras | FR | Lille | 1 | 0 | 0 | 6.0 |
-| 70 | Andelnans | FR | Colmar | 1 | 0 | 0 | 6.0 |
-| 71 | Guérande | FR | Nantes | 1 | 0 | 0 | 6.0 |
-| 72 | Béziers | FR | Montpellier | 1 | 0 | 0 | 6.0 |
-| 73 | Ifs | FR | Le Havre | 1 | 0 | 0 | 6.0 |
-| 74 | Rouen | FR | Le Havre | 1 | 0 | 0 | 6.0 |
-| 75 | Angers | FR | Le Mans | 1 | 0 | 0 | 6.0 |
-| 76 | Venette | FR | Amiens | 1 | 0 | 0 | 6.0 |
-| 77 | Mably | FR | Lyon | 1 | 0 | 0 | 6.0 |
-| 78 | Trignac | FR | Nantes | 1 | 0 | 0 | 6.0 |
-| 79 | Estancarbon | FR | Toulouse | 1 | 0 | 0 | 6.0 |
-| 80 | Saint-Marcel | FR | Versailles | 1 | 0 | 0 | 6.0 |
-| 81 | Vendin-le-Vieil | FR | Lille | 1 | 0 | 0 | 6.0 |
-| 82 | Bourgoin-Jallieu | FR | Lyon | 1 | 0 | 0 | 6.0 |
-| 83 | Yvetot | FR | Le Havre | 1 | 0 | 0 | 6.0 |
-| 84 | Douai | FR | Lille | 1 | 0 | 0 | 6.0 |
-| 85 | Louvroil | FR | Valenciennes | 1 | 0 | 0 | 6.0 |
-| 86 | Castelnaudary | FR | Toulouse | 1 | 0 | 0 | 6.0 |
-| 87 | Vitrolles | FR | Marseille | 1 | 0 | 0 | 6.0 |
-| 88 | Lécousse | FR | Rennes | 1 | 0 | 0 | 6.0 |
-| 89 | Chalon-sur-Saône | FR | Dijon | 1 | 0 | 0 | 6.0 |
-| 90 | Redon | FR | Rennes | 1 | 0 | 0 | 6.0 |
-| 91 | Villabé | FR | Paris | 1 | 0 | 0 | 6.0 |
-| 92 | Ploërmel | FR | Rennes | 1 | 0 | 0 | 6.0 |
-| 93 | Wittenheim | FR | Colmar | 1 | 0 | 0 | 6.0 |
-| 94 | Châteaubriant | FR | Rennes | 1 | 0 | 0 | 6.0 |
-| 95 | Vitré | FR | Rennes | 1 | 0 | 0 | 6.0 |
-| 96 | Antibes | FR | Nice | 1 | 0 | 0 | 6.0 |
-| 97 | Dreux | FR | Versailles | 1 | 0 | 0 | 6.0 |
-| 98 | Chartres | FR | Versailles | 1 | 0 | 0 | 6.0 |
-| 99 | Chennevières-sur-Marne | FR | Paris | 1 | 0 | 0 | 6.0 |
-| 100 | Avignon | FR | Nîmes | 1 | 0 | 0 | 6.0 |
-| 101 | Villefranche-sur-Saône | FR | Lyon | 1 | 0 | 0 | 6.0 |
-| 102 | Chalezeule | FR | Dijon | 1 | 0 | 0 | 6.0 |
-| 103 | Bruay-la-Buissière | FR | Lille | 1 | 0 | 0 | 6.0 |
-| 104 | Le Puy-en-Velay | FR | Saint-Étienne | 1 | 0 | 0 | 6.0 |
-| 105 | Givors | FR | Lyon | 1 | 0 | 0 | 6.0 |
-| 106 | Lognes | FR | Paris | 1 | 0 | 0 | 6.0 |
-| 107 | Berck | FR | Amiens | 1 | 0 | 0 | 6.0 |
-| 108 | Saint-Pierre-des-Corps | FR | Le Mans | 1 | 0 | 0 | 6.0 |
-| 109 | Villebon-sur-Yvette | FR | Paris | 1 | 0 | 0 | 6.0 |
-| 110 | Barentin | FR | Le Havre | 1 | 0 | 0 | 6.0 |
-| 111 | Châlons-en-Champagne | FR | Reims | 1 | 0 | 0 | 6.0 |
-| 112 | Puget-sur-Argens | FR | Nice | 1 | 0 | 0 | 6.0 |
-| 113 | Mondeville | FR | Le Havre | 1 | 0 | 0 | 6.0 |
-| 114 | Alès | FR | Nîmes | 1 | 0 | 0 | 6.0 |
-| 115 | Soissons | FR | Reims | 1 | 0 | 0 | 6.0 |
+| Mercado | País | Suburbio de | T1 | T2 | T3 |
+|---------|------|-------------|----|----|----|
+| 's-Gravenhage | NL | Rotterdam | 1 | 1 | 0 |
+| Thurrock | GB | London | 1 | 0 | 0 |
+| Gloucester | GB | Bristol | 1 | 0 | 0 |
+| Rushmoor | GB | Reading | 1 | 0 | 0 |
+| [[se-jarfalla|Järfälla]] | SE | Stockholm | 1 | 0 | 0 |
+| Grande-Synthe | FR | Lille | 1 | 0 | 0 |
+| Roissy-en-France | FR | Paris | 1 | 0 | 0 |
+| Dole | FR | Dijon | 1 | 0 | 0 |
+| Montigny-lès-Cormeilles | FR | Paris | 1 | 0 | 0 |
+| Sartrouville | FR | Paris | 1 | 0 | 0 |
+| Sainte-Geneviève-des-Bois | FR | Paris | 1 | 0 | 0 |
+| Bayeux | FR | Le Havre | 1 | 0 | 0 |
+| Saint-Berthevin | FR | Rennes | 1 | 0 | 0 |
+| Arras | FR | Lille | 1 | 0 | 0 |
+| Andelnans | FR | Colmar | 1 | 0 | 0 |
+| Guérande | FR | Nantes | 1 | 0 | 0 |
+| Béziers | FR | Montpellier | 1 | 0 | 0 |
+| Ifs | FR | Le Havre | 1 | 0 | 0 |
+| Rouen | FR | Le Havre | 1 | 0 | 0 |
+| Angers | FR | Le Mans | 1 | 0 | 0 |
+| Venette | FR | Amiens | 1 | 0 | 0 |
+| Mably | FR | Lyon | 1 | 0 | 0 |
+| Trignac | FR | Nantes | 1 | 0 | 0 |
+| Estancarbon | FR | Toulouse | 1 | 0 | 0 |
+| Saint-Marcel | FR | Versailles | 1 | 0 | 0 |
+| Vendin-le-Vieil | FR | Lille | 1 | 0 | 0 |
+| Bourgoin-Jallieu | FR | Lyon | 1 | 0 | 0 |
+| Yvetot | FR | Le Havre | 1 | 0 | 0 |
+| Douai | FR | Lille | 1 | 0 | 0 |
+| Louvroil | FR | Valenciennes | 1 | 0 | 0 |
+| Castelnaudary | FR | Toulouse | 1 | 0 | 0 |
+| Vitrolles | FR | Marseille | 1 | 0 | 0 |
+| Lécousse | FR | Rennes | 1 | 0 | 0 |
+| Chalon-sur-Saône | FR | Dijon | 1 | 0 | 0 |
+| Redon | FR | Rennes | 1 | 0 | 0 |
+| Villabé | FR | Paris | 1 | 0 | 0 |
+| Ploërmel | FR | Rennes | 1 | 0 | 0 |
+| Wittenheim | FR | Colmar | 1 | 0 | 0 |
+| Châteaubriant | FR | Rennes | 1 | 0 | 0 |
+| Vitré | FR | Rennes | 1 | 0 | 0 |
+| Antibes | FR | Nice | 1 | 0 | 0 |
+| Dreux | FR | Versailles | 1 | 0 | 0 |
+| Chartres | FR | Versailles | 1 | 0 | 0 |
+| Chennevières-sur-Marne | FR | Paris | 1 | 0 | 0 |
+| Avignon | FR | Nîmes | 1 | 0 | 0 |
+| Villefranche-sur-Saône | FR | Lyon | 1 | 0 | 0 |
+| Chalezeule | FR | Dijon | 1 | 0 | 0 |
+| Bruay-la-Buissière | FR | Lille | 1 | 0 | 0 |
+| Le Puy-en-Velay | FR | Saint-Étienne | 1 | 0 | 0 |
+| Givors | FR | Lyon | 1 | 0 | 0 |
+| Lognes | FR | Paris | 1 | 0 | 0 |
+| Berck | FR | Amiens | 1 | 0 | 0 |
+| Saint-Pierre-des-Corps | FR | Le Mans | 1 | 0 | 0 |
+| Villebon-sur-Yvette | FR | Paris | 1 | 0 | 0 |
+| Barentin | FR | Le Havre | 1 | 0 | 0 |
+| Châlons-en-Champagne | FR | Reims | 1 | 0 | 0 |
+| Puget-sur-Argens | FR | Nice | 1 | 0 | 0 |
+| Mondeville | FR | Le Havre | 1 | 0 | 0 |
+| Alès | FR | Nîmes | 1 | 0 | 0 |
+| Soissons | FR | Reims | 1 | 0 | 0 |
 
-#### Puestos 116–175
+#### Mercados 116–175
 
-| Pos. | Mercado | País | Suburbio de | T1 | T2 | T3 | Punt. |
-|------|--------|---------|-----------|----|----|----|-------|
-| 116 | Saint-Martin-des-Champs | FR | Brest | 1 | 0 | 0 | 6.0 |
-| 117 | Tourville-la-Rivière | FR | Le Havre | 1 | 0 | 0 | 6.0 |
-| 118 | Fayet | FR | Valenciennes | 1 | 0 | 0 | 6.0 |
-| 119 | Arques | FR | Lille | 1 | 0 | 0 | 6.0 |
-| 120 | Haguenau | FR | Strasbourg | 1 | 0 | 0 | 6.0 |
-| 121 | Saint-Maximin | FR | Paris | 1 | 0 | 0 | 6.0 |
-| 122 | Rots | FR | Le Havre | 1 | 0 | 0 | 6.0 |
-| 123 | Tours | FR | Le Mans | 1 | 0 | 0 | 6.0 |
-| 124 | Cesson | FR | Paris | 1 | 0 | 0 | 6.0 |
-| 125 | Chauconin-Neufmontiers | FR | Paris | 1 | 0 | 0 | 6.0 |
-| 126 | Buchelay | FR | Versailles | 1 | 0 | 0 | 6.0 |
-| 127 | Biganos | FR | Bordeaux | 1 | 0 | 0 | 6.0 |
-| 128 | Béthune | FR | Lille | 1 | 0 | 0 | 6.0 |
-| 129 | Noyelles-Godault | FR | Lille | 1 | 0 | 0 | 6.0 |
-| 130 | Schweighouse-sur-Moder | FR | Strasbourg | 1 | 0 | 0 | 6.0 |
-| 131 | Arles | FR | Nîmes | 1 | 0 | 0 | 6.0 |
-| 132 | Sin-le-Noble | FR | Valenciennes | 1 | 0 | 0 | 6.0 |
-| 133 | Saint-André-de-Cubzac | FR | Bordeaux | 1 | 0 | 0 | 6.0 |
-| 134 | Aubagne | FR | Marseille | 1 | 0 | 0 | 6.0 |
-| 135 | Abbeville | FR | Amiens | 1 | 0 | 0 | 6.0 |
-| 136 | Davézieux | FR | Saint-Étienne | 1 | 0 | 0 | 6.0 |
-| 137 | Crépy-en-Valois | FR | Paris | 1 | 0 | 0 | 6.0 |
-| 138 | Pont-Audemer | FR | Le Havre | 1 | 0 | 0 | 6.0 |
-| 139 | Albert | FR | Amiens | 1 | 0 | 0 | 6.0 |
-| 140 | Besançon | FR | Dijon | 1 | 0 | 0 | 6.0 |
-| 141 | Chasse-sur-Rhône | FR | Lyon | 1 | 0 | 0 | 6.0 |
-| 142 | Saint-Dié-des-Vosges | FR | Strasbourg | 1 | 0 | 0 | 6.0 |
-| 143 | Arçonnay | FR | Le Mans | 1 | 0 | 0 | 6.0 |
-| 144 | Wetzlar, Stadt | DE | Frankfurt | 1 | 0 | 0 | 6.0 |
-| 145 | Albstadt, Stadt | DE | Ulm | 1 | 0 | 0 | 6.0 |
-| 146 | Nördlingen, GKSt | DE | Augsburg | 1 | 0 | 0 | 6.0 |
-| 147 | Pforzheim, Stadt | DE | Karlsruhe | 1 | 0 | 0 | 6.0 |
-| 148 | Hameln, Stadt | DE | Hannover | 1 | 0 | 0 | 6.0 |
-| 149 | Neckarsulm, Stadt | DE | Stuttgart | 1 | 0 | 0 | 6.0 |
-| 150 | Kamen, Stadt | DE | Dortmund | 1 | 0 | 0 | 6.0 |
-| 151 | Baden-Baden, Stadt | DE | Karlsruhe | 1 | 0 | 0 | 6.0 |
-| 152 | Neuwied, Stadt | DE | Cologne | 1 | 0 | 0 | 6.0 |
-| 153 | Konstanz, Universitätsstadt | DE | Ulm | 1 | 0 | 0 | 6.0 |
-| 154 | Passau | DE | Linz | 1 | 0 | 0 | 6.0 |
-| 155 | Riesa, Stadt | DE | Dresden | 1 | 0 | 0 | 6.0 |
-| 156 | Nagold, Stadt | DE | Stuttgart | 1 | 0 | 0 | 6.0 |
-| 157 | Landsberg am Lech, GKSt | DE | Augsburg | 1 | 0 | 0 | 6.0 |
-| 158 | Hildesheim, Stadt | DE | Hannover | 1 | 0 | 0 | 6.0 |
-| 159 | Halberstadt, Stadt | DE | Magdeburg | 1 | 0 | 0 | 6.0 |
-| 160 | Speyer, Stadt | DE | Mannheim | 1 | 0 | 0 | 6.0 |
-| 161 | Fredersdorf-Vogelsdorf | DE | Berlin | 1 | 0 | 0 | 6.0 |
-| 162 | Erding, GKSt | DE | Munich | 1 | 0 | 0 | 6.0 |
-| 163 | Gießen, Universitätsstadt | DE | Frankfurt | 1 | 0 | 0 | 6.0 |
-| 164 | Remscheid, Stadt | DE | Düsseldorf | 1 | 0 | 0 | 6.0 |
-| 165 | Sindelfingen, Stadt | DE | Stuttgart | 1 | 0 | 0 | 6.0 |
-| 166 | Königs Wusterhausen, Stadt | DE | Berlin | 1 | 0 | 0 | 6.0 |
-| 167 | Freising, GKSt | DE | Munich | 1 | 0 | 0 | 6.0 |
-| 168 | Sankt Augustin, Stadt | DE | Cologne | 1 | 0 | 0 | 6.0 |
-| 169 | Goslar, Stadt | DE | Braunschweig | 1 | 0 | 0 | 6.0 |
-| 170 | Nürtingen, Stadt | DE | Stuttgart | 1 | 0 | 0 | 6.0 |
-| 171 | Bornheim, Stadt | DE | Cologne | 1 | 0 | 0 | 6.0 |
-| 172 | Essingen | DE | Stuttgart | 1 | 0 | 0 | 6.0 |
-| 173 | Leer (Ostfriesland), Stadt | DE | Groningen | 1 | 0 | 0 | 6.0 |
-| 174 | Schwedt/Oder, Stadt | DE | Cottbus | 1 | 0 | 0 | 6.0 |
-| 175 | Offenburg, Stadt | DE | Strasbourg | 1 | 0 | 0 | 6.0 |
+| Mercado | País | Suburbio de | T1 | T2 | T3 |
+|---------|------|-------------|----|----|----|
+| Saint-Martin-des-Champs | FR | Brest | 1 | 0 | 0 |
+| Tourville-la-Rivière | FR | Le Havre | 1 | 0 | 0 |
+| Fayet | FR | Valenciennes | 1 | 0 | 0 |
+| Arques | FR | Lille | 1 | 0 | 0 |
+| Haguenau | FR | Strasbourg | 1 | 0 | 0 |
+| Saint-Maximin | FR | Paris | 1 | 0 | 0 |
+| Rots | FR | Le Havre | 1 | 0 | 0 |
+| Tours | FR | Le Mans | 1 | 0 | 0 |
+| Cesson | FR | Paris | 1 | 0 | 0 |
+| Chauconin-Neufmontiers | FR | Paris | 1 | 0 | 0 |
+| Buchelay | FR | Versailles | 1 | 0 | 0 |
+| Biganos | FR | Bordeaux | 1 | 0 | 0 |
+| Béthune | FR | Lille | 1 | 0 | 0 |
+| Noyelles-Godault | FR | Lille | 1 | 0 | 0 |
+| Schweighouse-sur-Moder | FR | Strasbourg | 1 | 0 | 0 |
+| Arles | FR | Nîmes | 1 | 0 | 0 |
+| Sin-le-Noble | FR | Valenciennes | 1 | 0 | 0 |
+| Saint-André-de-Cubzac | FR | Bordeaux | 1 | 0 | 0 |
+| Aubagne | FR | Marseille | 1 | 0 | 0 |
+| Abbeville | FR | Amiens | 1 | 0 | 0 |
+| Davézieux | FR | Saint-Étienne | 1 | 0 | 0 |
+| Crépy-en-Valois | FR | Paris | 1 | 0 | 0 |
+| Pont-Audemer | FR | Le Havre | 1 | 0 | 0 |
+| Albert | FR | Amiens | 1 | 0 | 0 |
+| Besançon | FR | Dijon | 1 | 0 | 0 |
+| Chasse-sur-Rhône | FR | Lyon | 1 | 0 | 0 |
+| Saint-Dié-des-Vosges | FR | Strasbourg | 1 | 0 | 0 |
+| Arçonnay | FR | Le Mans | 1 | 0 | 0 |
+| Wetzlar, Stadt | DE | Frankfurt | 1 | 0 | 0 |
+| Albstadt, Stadt | DE | Ulm | 1 | 0 | 0 |
+| Nördlingen, GKSt | DE | Augsburg | 1 | 0 | 0 |
+| Pforzheim, Stadt | DE | Karlsruhe | 1 | 0 | 0 |
+| Hameln, Stadt | DE | Hannover | 1 | 0 | 0 |
+| Neckarsulm, Stadt | DE | Stuttgart | 1 | 0 | 0 |
+| Kamen, Stadt | DE | Dortmund | 1 | 0 | 0 |
+| Baden-Baden, Stadt | DE | Karlsruhe | 1 | 0 | 0 |
+| Neuwied, Stadt | DE | Cologne | 1 | 0 | 0 |
+| Konstanz, Universitätsstadt | DE | Ulm | 1 | 0 | 0 |
+| Passau | DE | Linz | 1 | 0 | 0 |
+| Riesa, Stadt | DE | Dresden | 1 | 0 | 0 |
+| Nagold, Stadt | DE | Stuttgart | 1 | 0 | 0 |
+| Landsberg am Lech, GKSt | DE | Augsburg | 1 | 0 | 0 |
+| Hildesheim, Stadt | DE | Hannover | 1 | 0 | 0 |
+| Halberstadt, Stadt | DE | Magdeburg | 1 | 0 | 0 |
+| Speyer, Stadt | DE | Mannheim | 1 | 0 | 0 |
+| Fredersdorf-Vogelsdorf | DE | Berlin | 1 | 0 | 0 |
+| Erding, GKSt | DE | Munich | 1 | 0 | 0 |
+| Gießen, Universitätsstadt | DE | Frankfurt | 1 | 0 | 0 |
+| Remscheid, Stadt | DE | Düsseldorf | 1 | 0 | 0 |
+| Sindelfingen, Stadt | DE | Stuttgart | 1 | 0 | 0 |
+| Königs Wusterhausen, Stadt | DE | Berlin | 1 | 0 | 0 |
+| Freising, GKSt | DE | Munich | 1 | 0 | 0 |
+| Sankt Augustin, Stadt | DE | Cologne | 1 | 0 | 0 |
+| Goslar, Stadt | DE | Braunschweig | 1 | 0 | 0 |
+| Nürtingen, Stadt | DE | Stuttgart | 1 | 0 | 0 |
+| Bornheim, Stadt | DE | Cologne | 1 | 0 | 0 |
+| Essingen | DE | Stuttgart | 1 | 0 | 0 |
+| Leer (Ostfriesland), Stadt | DE | Groningen | 1 | 0 | 0 |
+| Schwedt/Oder, Stadt | DE | Cottbus | 1 | 0 | 0 |
+| Offenburg, Stadt | DE | Strasbourg | 1 | 0 | 0 |
 
-#### Puestos 176–235
+#### Mercados 176–235
 
-| Pos. | Mercado | País | Suburbio de | T1 | T2 | T3 | Punt. |
-|------|--------|---------|-----------|----|----|----|-------|
-| 176 | Bad Nauheim, Stadt | DE | Frankfurt | 1 | 0 | 0 | 6.0 |
-| 177 | Traunstein, GKSt | DE | Salzburg | 1 | 0 | 0 | 6.0 |
-| 178 | Alzey, Stadt | DE | Wiesbaden | 1 | 0 | 0 | 6.0 |
-| 179 | Donauwörth, GKSt | DE | Augsburg | 1 | 0 | 0 | 6.0 |
-| 180 | Kulmbach, GKSt | DE | Nürnberg | 1 | 0 | 0 | 6.0 |
-| 181 | Schwentinental, Stadt | DE | Lübeck | 1 | 0 | 0 | 6.0 |
-| 182 | Koblenz, Stadt | DE | Wiesbaden | 1 | 0 | 0 | 6.0 |
-| 183 | Friedrichshafen, Stadt | DE | Ulm | 1 | 0 | 0 | 6.0 |
-| 184 | Pirmasens, Stadt | DE | Karlsruhe | 1 | 0 | 0 | 6.0 |
-| 185 | Neumarkt i.d.OPf., GKSt | DE | Nürnberg | 1 | 0 | 0 | 6.0 |
-| 186 | Düren, Stadt | DE | Aachen | 1 | 0 | 0 | 6.0 |
-| 187 | Lüneburg, Hansestadt | DE | Hamburg | 1 | 0 | 0 | 6.0 |
-| 188 | Mönchengladbach, Stadt | DE | Düsseldorf | 1 | 0 | 0 | 6.0 |
-| 189 | Straubing | DE | Regensburg | 1 | 0 | 0 | 6.0 |
-| 190 | Lippstadt, Stadt | DE | Bielefeld | 1 | 0 | 0 | 6.0 |
-| 191 | Lahr/Schwarzwald, Stadt | DE | Strasbourg | 1 | 0 | 0 | 6.0 |
-| 192 | Kleve, Stadt | DE | Nijmegen | 1 | 0 | 0 | 6.0 |
-| 193 | Amberg | DE | Regensburg | 1 | 0 | 0 | 6.0 |
-| 194 | Neu-Ulm, GKSt | DE | Ulm | 1 | 0 | 0 | 6.0 |
-| 195 | Schorndorf, Stadt | DE | Stuttgart | 1 | 0 | 0 | 6.0 |
-| 196 | Schwäbisch Gmünd, Stadt | DE | Stuttgart | 1 | 0 | 0 | 6.0 |
-| 197 | Weilheim i.OB, St | DE | Munich | 1 | 0 | 0 | 6.0 |
-| 198 | Weimar, Stadt | DE | Halle | 1 | 0 | 0 | 6.0 |
-| 199 | Hamm, Stadt | DE | Dortmund | 1 | 0 | 0 | 6.0 |
-| 200 | Bad Kreuznach, Stadt | DE | Wiesbaden | 1 | 0 | 0 | 6.0 |
-| 201 | Gifhorn, Stadt | DE | Braunschweig | 1 | 0 | 0 | 6.0 |
-| 202 | Weiden i.d.OPf. | DE | Regensburg | 1 | 0 | 0 | 6.0 |
-| 203 | Bocholt, Stadt | DE | Essen | 1 | 0 | 0 | 6.0 |
-| 204 | Nienburg (Weser), Stadt | DE | Hannover | 1 | 0 | 0 | 6.0 |
-| 205 | Schwäbisch Hall, Stadt | DE | Stuttgart | 1 | 0 | 0 | 6.0 |
-| 206 | Papenburg, Stadt | DE | Groningen | 1 | 0 | 0 | 6.0 |
-| 207 | Memmingen | DE | Ulm | 1 | 0 | 0 | 6.0 |
-| 208 | Sinsheim, Stadt | DE | Mannheim | 1 | 0 | 0 | 6.0 |
-| 209 | Weiterstadt, Stadt | DE | Darmstadt | 1 | 0 | 0 | 6.0 |
-| 210 | Buxtehude, Hansestadt | DE | Hamburg | 1 | 0 | 0 | 6.0 |
-| 211 | Belm | DE | Bielefeld | 1 | 0 | 0 | 6.0 |
-| 212 | Weinheim, Stadt | DE | Mannheim | 1 | 0 | 0 | 6.0 |
-| 213 | Forchheim, GKSt | DE | Nürnberg | 1 | 0 | 0 | 6.0 |
-| 214 | Kiel, Landeshauptstadt | DE | Lübeck | 1 | 0 | 0 | 6.0 |
-| 215 | Neustadt an der Weinstraße, Stadt | DE | Mannheim | 1 | 0 | 0 | 6.0 |
-| 216 | Bad Oeynhausen, Stadt | DE | Bielefeld | 1 | 0 | 0 | 6.0 |
-| 217 | San Sebastián de los Reyes | ES | Madrid | 1 | 0 | 0 | 6.0 |
-| 218 | Castelló de la Plana | ES | Valencia | 1 | 0 | 0 | 6.0 |
-| 219 | Las Rozas de Madrid | ES | Madrid | 1 | 0 | 0 | 6.0 |
-| 220 | Gavà | ES | Barcelona | 1 | 0 | 0 | 6.0 |
-| 221 | Badia del Vallès | ES | Barcelona | 1 | 0 | 0 | 6.0 |
-| 222 | Elche | ES | Alicante | 1 | 0 | 0 | 6.0 |
-| 223 | Rivas-Vaciamadrid | ES | Madrid | 1 | 0 | 0 | 6.0 |
-| 224 | Parets del Vallès | ES | Barcelona | 1 | 0 | 0 | 6.0 |
-| 225 | Alcalá de Henares | ES | Madrid | 1 | 0 | 0 | 6.0 |
-| 226 | Getafe | ES | Madrid | 1 | 0 | 0 | 6.0 |
-| 227 | Ferrol | ES | A Coruña | 1 | 0 | 0 | 6.0 |
-| 228 | Talavera de la Reina | ES | Toledo | 1 | 0 | 0 | 6.0 |
-| 229 | Orihuela | ES | Alicante | 1 | 0 | 0 | 6.0 |
-| 230 | Jaén | ES | Granada | 1 | 0 | 0 | 6.0 |
-| 231 | Finestrat | ES | Alicante | 1 | 0 | 0 | 6.0 |
-| 232 | Xàtiva | ES | Valencia | 1 | 0 | 0 | 6.0 |
-| 233 | La Spezia | IT | Genoa | 1 | 0 | 0 | 6.0 |
-| 234 | Castelletto sopra Ticino | IT | Milan | 1 | 0 | 0 | 6.0 |
-| 235 | Lecco | IT | Milan | 1 | 0 | 0 | 6.0 |
+| Mercado | País | Suburbio de | T1 | T2 | T3 |
+|---------|------|-------------|----|----|----|
+| Bad Nauheim, Stadt | DE | Frankfurt | 1 | 0 | 0 |
+| Traunstein, GKSt | DE | Salzburg | 1 | 0 | 0 |
+| Alzey, Stadt | DE | Wiesbaden | 1 | 0 | 0 |
+| Donauwörth, GKSt | DE | Augsburg | 1 | 0 | 0 |
+| Kulmbach, GKSt | DE | Nürnberg | 1 | 0 | 0 |
+| Schwentinental, Stadt | DE | Lübeck | 1 | 0 | 0 |
+| Koblenz, Stadt | DE | Wiesbaden | 1 | 0 | 0 |
+| Friedrichshafen, Stadt | DE | Ulm | 1 | 0 | 0 |
+| Pirmasens, Stadt | DE | Karlsruhe | 1 | 0 | 0 |
+| Neumarkt i.d.OPf., GKSt | DE | Nürnberg | 1 | 0 | 0 |
+| Düren, Stadt | DE | Aachen | 1 | 0 | 0 |
+| Lüneburg, Hansestadt | DE | Hamburg | 1 | 0 | 0 |
+| Mönchengladbach, Stadt | DE | Düsseldorf | 1 | 0 | 0 |
+| Straubing | DE | Regensburg | 1 | 0 | 0 |
+| Lippstadt, Stadt | DE | Bielefeld | 1 | 0 | 0 |
+| Lahr/Schwarzwald, Stadt | DE | Strasbourg | 1 | 0 | 0 |
+| Kleve, Stadt | DE | Nijmegen | 1 | 0 | 0 |
+| Amberg | DE | Regensburg | 1 | 0 | 0 |
+| Neu-Ulm, GKSt | DE | Ulm | 1 | 0 | 0 |
+| Schorndorf, Stadt | DE | Stuttgart | 1 | 0 | 0 |
+| Schwäbisch Gmünd, Stadt | DE | Stuttgart | 1 | 0 | 0 |
+| Weilheim i.OB, St | DE | Munich | 1 | 0 | 0 |
+| Weimar, Stadt | DE | Halle | 1 | 0 | 0 |
+| Hamm, Stadt | DE | Dortmund | 1 | 0 | 0 |
+| Bad Kreuznach, Stadt | DE | Wiesbaden | 1 | 0 | 0 |
+| Gifhorn, Stadt | DE | Braunschweig | 1 | 0 | 0 |
+| Weiden i.d.OPf. | DE | Regensburg | 1 | 0 | 0 |
+| Bocholt, Stadt | DE | Essen | 1 | 0 | 0 |
+| Nienburg (Weser), Stadt | DE | Hannover | 1 | 0 | 0 |
+| Schwäbisch Hall, Stadt | DE | Stuttgart | 1 | 0 | 0 |
+| Papenburg, Stadt | DE | Groningen | 1 | 0 | 0 |
+| Memmingen | DE | Ulm | 1 | 0 | 0 |
+| Sinsheim, Stadt | DE | Mannheim | 1 | 0 | 0 |
+| Weiterstadt, Stadt | DE | Darmstadt | 1 | 0 | 0 |
+| Buxtehude, Hansestadt | DE | Hamburg | 1 | 0 | 0 |
+| Belm | DE | Bielefeld | 1 | 0 | 0 |
+| Weinheim, Stadt | DE | Mannheim | 1 | 0 | 0 |
+| Forchheim, GKSt | DE | Nürnberg | 1 | 0 | 0 |
+| Kiel, Landeshauptstadt | DE | Lübeck | 1 | 0 | 0 |
+| Neustadt an der Weinstraße, Stadt | DE | Mannheim | 1 | 0 | 0 |
+| Bad Oeynhausen, Stadt | DE | Bielefeld | 1 | 0 | 0 |
+| San Sebastián de los Reyes | ES | Madrid | 1 | 0 | 0 |
+| Castelló de la Plana | ES | Valencia | 1 | 0 | 0 |
+| Las Rozas de Madrid | ES | Madrid | 1 | 0 | 0 |
+| Gavà | ES | Barcelona | 1 | 0 | 0 |
+| Badia del Vallès | ES | Barcelona | 1 | 0 | 0 |
+| Elche | ES | Alicante | 1 | 0 | 0 |
+| Rivas-Vaciamadrid | ES | Madrid | 1 | 0 | 0 |
+| Parets del Vallès | ES | Barcelona | 1 | 0 | 0 |
+| Alcalá de Henares | ES | Madrid | 1 | 0 | 0 |
+| Getafe | ES | Madrid | 1 | 0 | 0 |
+| Ferrol | ES | A Coruña | 1 | 0 | 0 |
+| Talavera de la Reina | ES | Toledo | 1 | 0 | 0 |
+| Orihuela | ES | Alicante | 1 | 0 | 0 |
+| Jaén | ES | Granada | 1 | 0 | 0 |
+| Finestrat | ES | Alicante | 1 | 0 | 0 |
+| Xàtiva | ES | Valencia | 1 | 0 | 0 |
+| La Spezia | IT | Genoa | 1 | 0 | 0 |
+| Castelletto sopra Ticino | IT | Milan | 1 | 0 | 0 |
+| Lecco | IT | Milan | 1 | 0 | 0 |
 
-#### Puestos 236–285
+#### Mercados 236–285
 
-| Pos. | Mercado | País | Suburbio de | T1 | T2 | T3 | Punt. |
-|------|--------|---------|-----------|----|----|----|-------|
-| 236 | Brescia | IT | Verona | 1 | 0 | 0 | 6.0 |
-| 237 | Cremona | IT | Milan | 1 | 0 | 0 | 6.0 |
-| 238 | Curno | IT | Milan | 1 | 0 | 0 | 6.0 |
-| 239 | Mantova | IT | Verona | 1 | 0 | 0 | 6.0 |
-| 240 | Ravenna | IT | Bologna | 1 | 0 | 0 | 6.0 |
-| 241 | Padova | IT | Venice | 1 | 0 | 0 | 6.0 |
-| 242 | Milazzo | IT | Messina | 1 | 0 | 0 | 6.0 |
-| 243 | Viterbo | IT | Rome | 1 | 0 | 0 | 6.0 |
-| 244 | Molfetta | IT | Bari | 1 | 0 | 0 | 6.0 |
-| 245 | Terni | IT | Rome | 1 | 0 | 0 | 6.0 |
-| 246 | Modena | IT | Bologna | 1 | 0 | 0 | 6.0 |
-| 247 | Trento | IT | Verona | 1 | 0 | 0 | 6.0 |
-| 248 | Benevento | IT | Naples | 1 | 0 | 0 | 6.0 |
-| 249 | Tarnów | PL | Kraków | 1 | 0 | 0 | 6.0 |
-| 250 | Piotrków Trybunalski | PL | Łódź | 1 | 0 | 0 | 6.0 |
-| 251 | Żory | PL | Gliwice | 1 | 0 | 0 | 6.0 |
-| 252 | Piaseczno | PL | Warsaw | 1 | 0 | 0 | 6.0 |
-| 253 | Tychy | PL | Katowice | 1 | 0 | 0 | 6.0 |
-| 254 | Lubin | PL | Wrocław | 1 | 0 | 0 | 6.0 |
-| 255 | Ostrołęka | PL | Łomża | 1 | 0 | 0 | 6.0 |
-| 256 | Nowy Targ | PL | Kraków | 1 | 0 | 0 | 6.0 |
-| 257 | Zell am See | AT | Salzburg | 1 | 0 | 0 | 6.0 |
-| 258 | Steyr | AT | Linz | 1 | 0 | 0 | 6.0 |
-| 259 | Bregenz | AT | Ulm | 1 | 0 | 0 | 6.0 |
-| 260 | Maastricht | NL | Liège | 1 | 0 | 0 | 6.0 |
-| 261 | Roermond | NL | Eindhoven | 1 | 0 | 0 | 6.0 |
-| 262 | Santa Maria, São Pedro e Matacães | PT | Lisbon | 1 | 0 | 0 | 6.0 |
-| 263 | União das freguesias de Sintra | PT | Lisbon | 1 | 0 | 0 | 6.0 |
-| 264 | União das freguesias de Palhais e Coina | PT | Lisbon | 1 | 0 | 0 | 6.0 |
-| 265 | Stevenage | GB | Luton | 0 | 1 | 2 | 6.0 |
-| 266 | [[gb-eng-york|York]] | GB | Leeds | 0 | 1 | 2 | 6.0 |
-| 267 | Redbridge | GB | London | 0 | 2 | 0 | 6.0 |
-| 268 | Wakefield | GB | Leeds | 0 | 2 | 0 | 6.0 |
-| 269 | Ipswich | GB | Cambridge | 0 | 2 | 0 | 6.0 |
-| 270 | East Hertfordshire | GB | Luton | 0 | 2 | 0 | 6.0 |
-| 271 | North Lincolnshire | GB | Sheffield | 0 | 2 | 0 | 6.0 |
-| 272 | Herefordshire | GB | Birmingham | 0 | 2 | 0 | 6.0 |
-| 273 | Carmarthenshire | GB | Swansea | 0 | 2 | 0 | 6.0 |
-| 274 | Peterborough | GB | Cambridge | 0 | 2 | 0 | 6.0 |
-| 275 | High Peak | GB | Manchester | 0 | 2 | 0 | 6.0 |
-| 276 | Huntingdonshire | GB | Cambridge | 0 | 2 | 0 | 6.0 |
-| 277 | Darlington | GB | Newcastle | 0 | 2 | 0 | 6.0 |
-| 278 | East Staffordshire | GB | Birmingham | 0 | 2 | 0 | 6.0 |
-| 279 | Mid Sussex | GB | Brighton | 0 | 2 | 0 | 6.0 |
-| 280 | Mendip | GB | Bath | 0 | 2 | 0 | 6.0 |
-| 281 | Kolding | DK | Odense | 0 | 2 | 0 | 6.0 |
-| 282 | Vejle | DK | Odense | 0 | 2 | 0 | 6.0 |
-| 283 | Rudersdal | DK | Copenhagen | 0 | 2 | 0 | 6.0 |
-| 284 | Viersen, Stadt | DE | Düsseldorf | 0 | 2 | 0 | 6.0 |
+| Mercado | País | Suburbio de | T1 | T2 | T3 |
+|---------|------|-------------|----|----|----|
+| Brescia | IT | Verona | 1 | 0 | 0 |
+| Cremona | IT | Milan | 1 | 0 | 0 |
+| Curno | IT | Milan | 1 | 0 | 0 |
+| Mantova | IT | Verona | 1 | 0 | 0 |
+| Ravenna | IT | Bologna | 1 | 0 | 0 |
+| Padova | IT | Venice | 1 | 0 | 0 |
+| Milazzo | IT | Messina | 1 | 0 | 0 |
+| Viterbo | IT | Rome | 1 | 0 | 0 |
+| Molfetta | IT | Bari | 1 | 0 | 0 |
+| Terni | IT | Rome | 1 | 0 | 0 |
+| Modena | IT | Bologna | 1 | 0 | 0 |
+| Trento | IT | Verona | 1 | 0 | 0 |
+| Benevento | IT | Naples | 1 | 0 | 0 |
+| Tarnów | PL | Kraków | 1 | 0 | 0 |
+| Piotrków Trybunalski | PL | Łódź | 1 | 0 | 0 |
+| Żory | PL | Gliwice | 1 | 0 | 0 |
+| Piaseczno | PL | Warsaw | 1 | 0 | 0 |
+| Tychy | PL | Katowice | 1 | 0 | 0 |
+| Lubin | PL | Wrocław | 1 | 0 | 0 |
+| Ostrołęka | PL | Łomża | 1 | 0 | 0 |
+| Nowy Targ | PL | Kraków | 1 | 0 | 0 |
+| Zell am See | AT | Salzburg | 1 | 0 | 0 |
+| Steyr | AT | Linz | 1 | 0 | 0 |
+| Bregenz | AT | Ulm | 1 | 0 | 0 |
+| Maastricht | NL | Liège | 1 | 0 | 0 |
+| Roermond | NL | Eindhoven | 1 | 0 | 0 |
+| Santa Maria, São Pedro e Matacães | PT | Lisbon | 1 | 0 | 0 |
+| União das freguesias de Sintra | PT | Lisbon | 1 | 0 | 0 |
+| União das freguesias de Palhais e Coina | PT | Lisbon | 1 | 0 | 0 |
+| Stevenage | GB | Luton | 0 | 1 | 2 |
+| [[gb-eng-york|York]] | GB | Leeds | 0 | 1 | 2 |
+| Redbridge | GB | London | 0 | 2 | 0 |
+| Wakefield | GB | Leeds | 0 | 2 | 0 |
+| Ipswich | GB | Cambridge | 0 | 2 | 0 |
+| East Hertfordshire | GB | Luton | 0 | 2 | 0 |
+| North Lincolnshire | GB | Sheffield | 0 | 2 | 0 |
+| Herefordshire | GB | Birmingham | 0 | 2 | 0 |
+| Carmarthenshire | GB | Swansea | 0 | 2 | 0 |
+| Peterborough | GB | Cambridge | 0 | 2 | 0 |
+| High Peak | GB | Manchester | 0 | 2 | 0 |
+| Huntingdonshire | GB | Cambridge | 0 | 2 | 0 |
+| Darlington | GB | Newcastle | 0 | 2 | 0 |
+| East Staffordshire | GB | Birmingham | 0 | 2 | 0 |
+| Mid Sussex | GB | Brighton | 0 | 2 | 0 |
+| Mendip | GB | Bath | 0 | 2 | 0 |
+| Kolding | DK | Odense | 0 | 2 | 0 |
+| Vejle | DK | Odense | 0 | 2 | 0 |
+| Rudersdal | DK | Copenhagen | 0 | 2 | 0 |
+| Viersen, Stadt | DE | Düsseldorf | 0 | 2 | 0 |
 | 285 | *(vacante — véase la nota abajo)* | — | — | — | — | — | — |
 
-### Puestos 286–331 — puntuaciones de 5.0 a 4.5
+### Mercados 286–331
 
-| Pos. | Mercado | País | Suburbio de | T1 | T2 | T3 | Punt. |
-|------|--------|---------|-----------|----|----|----|-------|
-| 286 | [[nl-breda|Breda]] | NL | Rotterdam | 1 | 0 | 1 | 5.0 |
-| 287 | Liverpool | GB | Wigan | 0 | 0 | 3 | 4.5 |
-| 288 | Osnabrück, Stadt | DE | Bielefeld | 0 | 0 | 3 | 4.5 |
-| 289 | Havering | GB | London | 0 | 1 | 1 | 4.5 |
-| 290 | Enfield | GB | London | 0 | 1 | 1 | 4.5 |
-| 291 | Sefton | GB | Wigan | 0 | 1 | 1 | 4.5 |
-| 292 | Havant | GB | Southampton | 0 | 1 | 1 | 4.5 |
-| 293 | Stroud | GB | Bristol | 0 | 1 | 1 | 4.5 |
-| 294 | [[gb-eng-warrington|Warrington]] | GB | Wigan | 0 | 1 | 1 | 4.5 |
-| 295 | Newport | GB | Cardiff | 0 | 1 | 1 | 4.5 |
-| 296 | Saint Edmundsbury | GB | Cambridge | 0 | 1 | 1 | 4.5 |
-| 297 | Colchester | GB | Cambridge | 0 | 1 | 1 | 4.5 |
-| 298 | Warwick | GB | Birmingham | 0 | 1 | 1 | 4.5 |
-| 299 | Lincoln | GB | Nottingham | 0 | 1 | 1 | 4.5 |
-| 300 | Cheltenham | GB | Bristol | 0 | 1 | 1 | 4.5 |
-| 301 | Stoke-on-Trent | GB | Manchester | 0 | 1 | 1 | 4.5 |
-| 302 | Stafford | GB | Birmingham | 0 | 1 | 1 | 4.5 |
-| 303 | Chelmsford | GB | London | 0 | 1 | 1 | 4.5 |
-| 304 | Mole Valley | GB | London | 0 | 1 | 1 | 4.5 |
-| 305 | Swindon | GB | Oxford | 0 | 1 | 1 | 4.5 |
-| 306 | Barnsley | GB | Sheffield | 0 | 1 | 1 | 4.5 |
-| 307 | Taunton Deane | GB | Cardiff | 0 | 1 | 1 | 4.5 |
-| 308 | Perthshire and Kinross | GB | Dundee | 0 | 1 | 1 | 4.5 |
-| 309 | South Somerset | GB | Bath | 0 | 1 | 1 | 4.5 |
-| 310 | Doncaster | GB | Sheffield | 0 | 1 | 1 | 4.5 |
-| 311 | Basingstoke and Deane | GB | Reading | 0 | 1 | 1 | 4.5 |
-| 312 | Saint-Nazaire | FR | Nantes | 0 | 1 | 1 | 4.5 |
-| 313 | Valence | FR | Saint-Étienne | 0 | 1 | 1 | 4.5 |
-| 314 | Cholet | FR | Nantes | 0 | 1 | 1 | 4.5 |
-| 315 | Saint-Malo | FR | Rennes | 0 | 1 | 1 | 4.5 |
-| 316 | Martigues | FR | Marseille | 0 | 1 | 1 | 4.5 |
-| 317 | Mandelieu-la-Napoule | FR | Nice | 0 | 1 | 1 | 4.5 |
-| 318 | Celle, Stadt | DE | Hannover | 0 | 1 | 1 | 4.5 |
-| 319 | Nordhorn, Stadt | DE | Münster | 0 | 1 | 1 | 4.5 |
-| 320 | Gütersloh, Stadt | DE | Bielefeld | 0 | 1 | 1 | 4.5 |
-| 321 | Heidenheim an der Brenz, Stadt | DE | Augsburg | 0 | 1 | 1 | 4.5 |
-| 322 | Aschaffenburg | DE | Darmstadt | 0 | 1 | 1 | 4.5 |
-| 323 | Moers, Stadt | DE | Essen | 0 | 1 | 1 | 4.5 |
-| 324 | Singen (Hohentwiel), Stadt | DE | Ulm | 0 | 1 | 1 | 4.5 |
-| 325 | Wilhelmshaven, Stadt | DE | Bremen | 0 | 1 | 1 | 4.5 |
-| 326 | Lucca | IT | Florence | 0 | 1 | 1 | 4.5 |
-| 327 | Como | IT | Milan | 0 | 1 | 1 | 4.5 |
-| 328 | Gdynia | PL | Gdańsk | 0 | 1 | 1 | 4.5 |
-| 329 | Nowy Sącz | PL | Kraków | 0 | 1 | 1 | 4.5 |
-| 330 | Wels | AT | Linz | 0 | 1 | 1 | 4.5 |
-| 331 | Zwolle | NL | Nijmegen | 0 | 1 | 1 | 4.5 |
+| Mercado | País | Suburbio de | T1 | T2 | T3 |
+|---------|------|-------------|----|----|----|
+| [[nl-breda|Breda]] | NL | Rotterdam | 1 | 0 | 1 |
+| Liverpool | GB | Wigan | 0 | 0 | 3 |
+| Osnabrück, Stadt | DE | Bielefeld | 0 | 0 | 3 |
+| Havering | GB | London | 0 | 1 | 1 |
+| Enfield | GB | London | 0 | 1 | 1 |
+| Sefton | GB | Wigan | 0 | 1 | 1 |
+| Havant | GB | Southampton | 0 | 1 | 1 |
+| Stroud | GB | Bristol | 0 | 1 | 1 |
+| [[gb-eng-warrington|Warrington]] | GB | Wigan | 0 | 1 | 1 |
+| Newport | GB | Cardiff | 0 | 1 | 1 |
+| Saint Edmundsbury | GB | Cambridge | 0 | 1 | 1 |
+| Colchester | GB | Cambridge | 0 | 1 | 1 |
+| Warwick | GB | Birmingham | 0 | 1 | 1 |
+| Lincoln | GB | Nottingham | 0 | 1 | 1 |
+| Cheltenham | GB | Bristol | 0 | 1 | 1 |
+| Stoke-on-Trent | GB | Manchester | 0 | 1 | 1 |
+| Stafford | GB | Birmingham | 0 | 1 | 1 |
+| Chelmsford | GB | London | 0 | 1 | 1 |
+| Mole Valley | GB | London | 0 | 1 | 1 |
+| Swindon | GB | Oxford | 0 | 1 | 1 |
+| Barnsley | GB | Sheffield | 0 | 1 | 1 |
+| Taunton Deane | GB | Cardiff | 0 | 1 | 1 |
+| Perthshire and Kinross | GB | Dundee | 0 | 1 | 1 |
+| South Somerset | GB | Bath | 0 | 1 | 1 |
+| Doncaster | GB | Sheffield | 0 | 1 | 1 |
+| Basingstoke and Deane | GB | Reading | 0 | 1 | 1 |
+| Saint-Nazaire | FR | Nantes | 0 | 1 | 1 |
+| Valence | FR | Saint-Étienne | 0 | 1 | 1 |
+| Cholet | FR | Nantes | 0 | 1 | 1 |
+| Saint-Malo | FR | Rennes | 0 | 1 | 1 |
+| Martigues | FR | Marseille | 0 | 1 | 1 |
+| Mandelieu-la-Napoule | FR | Nice | 0 | 1 | 1 |
+| Celle, Stadt | DE | Hannover | 0 | 1 | 1 |
+| Nordhorn, Stadt | DE | Münster | 0 | 1 | 1 |
+| Gütersloh, Stadt | DE | Bielefeld | 0 | 1 | 1 |
+| Heidenheim an der Brenz, Stadt | DE | Augsburg | 0 | 1 | 1 |
+| Aschaffenburg | DE | Darmstadt | 0 | 1 | 1 |
+| Moers, Stadt | DE | Essen | 0 | 1 | 1 |
+| Singen (Hohentwiel), Stadt | DE | Ulm | 0 | 1 | 1 |
+| Wilhelmshaven, Stadt | DE | Bremen | 0 | 1 | 1 |
+| Lucca | IT | Florence | 0 | 1 | 1 |
+| Como | IT | Milan | 0 | 1 | 1 |
+| Gdynia | PL | Gdańsk | 0 | 1 | 1 |
+| Nowy Sącz | PL | Kraków | 0 | 1 | 1 |
+| Wels | AT | Linz | 0 | 1 | 1 |
+| Zwolle | NL | Nijmegen | 0 | 1 | 1 |
 
-### Puestos 332–364 — puntuación 4.0
+### Mercados 332–364
 
-| Pos. | Mercado | País | Suburbio de | T1 | T2 | T3 | Punt. |
-|------|--------|---------|-----------|----|----|----|-------|
-| 332 | Täby | SE | Stockholm | 1 | 0 | 0 | 4.0 |
-| 333 | Helsingborg | SE | Copenhagen | 1 | 0 | 0 | 4.0 |
-| 334 | Uddevalla | SE | Gothenburg | 1 | 0 | 0 | 4.0 |
-| 335 | Høje-Taastrup | DK | Copenhagen | 1 | 0 | 0 | 4.0 |
-| 336 | Le Pontet | FR | Nîmes | 1 | 0 | 0 | 4.0 |
-| 337 | Claye-Souilly | FR | Paris | 1 | 0 | 0 | 4.0 |
-| 338 | Crêches-sur-Saône | FR | Lyon | 1 | 0 | 0 | 4.0 |
-| 339 | Stadthagen, Stadt | DE | Hannover | 1 | 0 | 0 | 4.0 |
-| 340 | Meerane, Stadt | DE | Leipzig | 1 | 0 | 0 | 4.0 |
-| 341 | Pfungstadt, Stadt | DE | Wiesbaden | 1 | 0 | 0 | 4.0 |
-| 342 | Kerpen, Kolpingstadt | DE | Cologne | 1 | 0 | 0 | 4.0 |
-| 343 | Hückelhoven, Stadt | DE | Aachen | 1 | 0 | 0 | 4.0 |
-| 344 | Henstedt-Ulzburg | DE | Hamburg | 1 | 0 | 0 | 4.0 |
-| 345 | Wolfsburg, Stadt | DE | Braunschweig | 1 | 0 | 0 | 4.0 |
-| 346 | Traunreut, St | DE | Salzburg | 1 | 0 | 0 | 4.0 |
-| 347 | Fuengirola | ES | Málaga | 1 | 0 | 0 | 4.0 |
-| 348 | Nigrán | ES | Braga | 1 | 0 | 0 | 4.0 |
-| 349 | Villesse | IT | Trieste | 1 | 0 | 0 | 4.0 |
-| 350 | Casamassima | IT | Bari | 1 | 0 | 0 | 4.0 |
-| 351 | Poczesna | PL | Katowice | 1 | 0 | 0 | 4.0 |
-| 352 | Rumia | PL | Gdańsk | 1 | 0 | 0 | 4.0 |
-| 353 | Wiener Neustadt | AT | Vienna | 1 | 0 | 0 | 4.0 |
-| 354 | St. Pölten | AT | Vienna | 1 | 0 | 0 | 4.0 |
-| 355 | Horn | AT | Vienna | 1 | 0 | 0 | 4.0 |
-| 356 | Tilburg | NL | Eindhoven | 1 | 0 | 0 | 4.0 |
-| 357 | Leeuwarden | NL | Groningen | 1 | 0 | 0 | 4.0 |
-| 358 | Zoetermeer | NL | Rotterdam | 1 | 0 | 0 | 4.0 |
-| 359 | Ede | NL | Nijmegen | 1 | 0 | 0 | 4.0 |
-| 360 | Haarlemmermeer | NL | Amsterdam | 1 | 0 | 0 | 4.0 |
-| 361 | Alkmaar | NL | The Hague | 1 | 0 | 0 | 4.0 |
-| 362 | Heerhugowaard | NL | The Hague | 1 | 0 | 0 | 4.0 |
-| 363 | Dordrecht | NL | Rotterdam | 1 | 0 | 0 | 4.0 |
-| 364 | Fürstenwalde/Spree, Stadt | DE | Berlin | 0 | 2 | 0 | 4.0 |
+| Mercado | País | Suburbio de | T1 | T2 | T3 |
+|---------|------|-------------|----|----|----|
+| Täby | SE | Stockholm | 1 | 0 | 0 |
+| Helsingborg | SE | Copenhagen | 1 | 0 | 0 |
+| Uddevalla | SE | Gothenburg | 1 | 0 | 0 |
+| Høje-Taastrup | DK | Copenhagen | 1 | 0 | 0 |
+| Le Pontet | FR | Nîmes | 1 | 0 | 0 |
+| Claye-Souilly | FR | Paris | 1 | 0 | 0 |
+| Crêches-sur-Saône | FR | Lyon | 1 | 0 | 0 |
+| Stadthagen, Stadt | DE | Hannover | 1 | 0 | 0 |
+| Meerane, Stadt | DE | Leipzig | 1 | 0 | 0 |
+| Pfungstadt, Stadt | DE | Wiesbaden | 1 | 0 | 0 |
+| Kerpen, Kolpingstadt | DE | Cologne | 1 | 0 | 0 |
+| Hückelhoven, Stadt | DE | Aachen | 1 | 0 | 0 |
+| Henstedt-Ulzburg | DE | Hamburg | 1 | 0 | 0 |
+| Wolfsburg, Stadt | DE | Braunschweig | 1 | 0 | 0 |
+| Traunreut, St | DE | Salzburg | 1 | 0 | 0 |
+| Fuengirola | ES | Málaga | 1 | 0 | 0 |
+| Nigrán | ES | Braga | 1 | 0 | 0 |
+| Villesse | IT | Trieste | 1 | 0 | 0 |
+| Casamassima | IT | Bari | 1 | 0 | 0 |
+| Poczesna | PL | Katowice | 1 | 0 | 0 |
+| Rumia | PL | Gdańsk | 1 | 0 | 0 |
+| Wiener Neustadt | AT | Vienna | 1 | 0 | 0 |
+| St. Pölten | AT | Vienna | 1 | 0 | 0 |
+| Horn | AT | Vienna | 1 | 0 | 0 |
+| Tilburg | NL | Eindhoven | 1 | 0 | 0 |
+| Leeuwarden | NL | Groningen | 1 | 0 | 0 |
+| Zoetermeer | NL | Rotterdam | 1 | 0 | 0 |
+| Ede | NL | Nijmegen | 1 | 0 | 0 |
+| Haarlemmermeer | NL | Amsterdam | 1 | 0 | 0 |
+| Alkmaar | NL | The Hague | 1 | 0 | 0 |
+| Heerhugowaard | NL | The Hague | 1 | 0 | 0 |
+| Dordrecht | NL | Rotterdam | 1 | 0 | 0 |
+| Fürstenwalde/Spree, Stadt | DE | Berlin | 0 | 2 | 0 |
 
-### Puestos 365–400 — puntuación 3.0
+### Mercados 365–400
 
-| Pos. | Mercado | País | Suburbio de | T1 | T2 | T3 | Punt. |
-|------|--------|---------|-----------|----|----|----|-------|
-| 365 | Spelthorne | GB | London | 0 | 0 | 2 | 3.0 |
-| 366 | Bexley | GB | London | 0 | 0 | 2 | 3.0 |
-| 367 | Wirral | GB | Wigan | 0 | 0 | 2 | 3.0 |
-| 368 | [[gb-eng-cherwell|Cherwell]] | GB | Oxford | 0 | 0 | 2 | 3.0 |
-| 369 | Kingston upon Hull | GB | Leeds | 0 | 0 | 2 | 3.0 |
-| 370 | Medway | GB | London | 0 | 0 | 2 | 3.0 |
-| 371 | Arun | GB | Brighton | 0 | 0 | 2 | 3.0 |
-| 372 | [[gb-eng-northampton|Northampton]] | GB | Coventry | 0 | 0 | 2 | 3.0 |
-| 373 | Eastbourne | GB | Brighton | 0 | 0 | 2 | 3.0 |
-| 374 | Bedford | GB | Luton | 0 | 0 | 2 | 3.0 |
-| 375 | La Roche-sur-Yon | FR | Nantes | 0 | 0 | 2 | 3.0 |
-| 376 | Iserlohn, Stadt | DE | Dortmund | 0 | 0 | 2 | 3.0 |
-| 377 | Backnang, Stadt | DE | Stuttgart | 0 | 1 | 1 | 3.0 |
-| 378 | Ravensburg, Stadt | DE | Ulm | 0 | 0 | 2 | 3.0 |
-| 379 | Hagen, Stadt | DE | Dortmund | 0 | 0 | 2 | 3.0 |
-| 380 | Jerez de la Frontera | ES | Cádiz | 0 | 0 | 2 | 3.0 |
-| 381 | Torrejón de Ardoz | ES | Madrid | 0 | 0 | 2 | 3.0 |
-| 382 | Arnhem | NL | Nijmegen | 0 | 1 | 1 | 3.0 |
-| 383 | Dartford | GB | London | 0 | 1 | 0 | 3.0 |
-| 384 | Pembrokeshire | GB | Swansea | 0 | 1 | 0 | 3.0 |
-| 385 | Wycombe | GB | Reading | 0 | 1 | 0 | 3.0 |
-| 386 | West Oxfordshire | GB | Oxford | 0 | 1 | 0 | 3.0 |
-| 387 | West Berkshire | GB | Reading | 0 | 1 | 0 | 3.0 |
-| 388 | Walsall | GB | Birmingham | 0 | 1 | 0 | 3.0 |
-| 389 | Mansfield | GB | Nottingham | 0 | 1 | 0 | 3.0 |
-| 390 | Ashfield | GB | Nottingham | 0 | 1 | 0 | 3.0 |
-| 391 | Tunbridge Wells | GB | Brighton | 0 | 1 | 0 | 3.0 |
-| 392 | Forest Heath | GB | Cambridge | 0 | 1 | 0 | 3.0 |
-| 393 | Epping Forest | GB | London | 0 | 1 | 0 | 3.0 |
-| 394 | Braintree | GB | Cambridge | 0 | 1 | 0 | 3.0 |
-| 395 | Stratford-on-Avon | GB | Birmingham | 0 | 1 | 0 | 3.0 |
-| 396 | West Lindsey | GB | Sheffield | 0 | 1 | 0 | 3.0 |
-| 397 | Cotswold | GB | Bath | 0 | 1 | 0 | 3.0 |
-| 398 | Sevenoaks | GB | London | 0 | 1 | 0 | 3.0 |
-| 399 | East Ayrshire | GB | Glasgow | 0 | 1 | 0 | 3.0 |
-| 400 | Cannock Chase | GB | Birmingham | 0 | 1 | 0 | 3.0 |
+| Mercado | País | Suburbio de | T1 | T2 | T3 |
+|---------|------|-------------|----|----|----|
+| Spelthorne | GB | London | 0 | 0 | 2 |
+| Bexley | GB | London | 0 | 0 | 2 |
+| Wirral | GB | Wigan | 0 | 0 | 2 |
+| [[gb-eng-cherwell|Cherwell]] | GB | Oxford | 0 | 0 | 2 |
+| Kingston upon Hull | GB | Leeds | 0 | 0 | 2 |
+| Medway | GB | London | 0 | 0 | 2 |
+| Arun | GB | Brighton | 0 | 0 | 2 |
+| [[gb-eng-northampton|Northampton]] | GB | Coventry | 0 | 0 | 2 |
+| Eastbourne | GB | Brighton | 0 | 0 | 2 |
+| Bedford | GB | Luton | 0 | 0 | 2 |
+| La Roche-sur-Yon | FR | Nantes | 0 | 0 | 2 |
+| Iserlohn, Stadt | DE | Dortmund | 0 | 0 | 2 |
+| Backnang, Stadt | DE | Stuttgart | 0 | 1 | 1 |
+| Ravensburg, Stadt | DE | Ulm | 0 | 0 | 2 |
+| Hagen, Stadt | DE | Dortmund | 0 | 0 | 2 |
+| Jerez de la Frontera | ES | Cádiz | 0 | 0 | 2 |
+| Torrejón de Ardoz | ES | Madrid | 0 | 0 | 2 |
+| Arnhem | NL | Nijmegen | 0 | 1 | 1 |
+| Dartford | GB | London | 0 | 1 | 0 |
+| Pembrokeshire | GB | Swansea | 0 | 1 | 0 |
+| Wycombe | GB | Reading | 0 | 1 | 0 |
+| West Oxfordshire | GB | Oxford | 0 | 1 | 0 |
+| West Berkshire | GB | Reading | 0 | 1 | 0 |
+| Walsall | GB | Birmingham | 0 | 1 | 0 |
+| Mansfield | GB | Nottingham | 0 | 1 | 0 |
+| Ashfield | GB | Nottingham | 0 | 1 | 0 |
+| Tunbridge Wells | GB | Brighton | 0 | 1 | 0 |
+| Forest Heath | GB | Cambridge | 0 | 1 | 0 |
+| Epping Forest | GB | London | 0 | 1 | 0 |
+| Braintree | GB | Cambridge | 0 | 1 | 0 |
+| Stratford-on-Avon | GB | Birmingham | 0 | 1 | 0 |
+| West Lindsey | GB | Sheffield | 0 | 1 | 0 |
+| Cotswold | GB | Bath | 0 | 1 | 0 |
+| Sevenoaks | GB | London | 0 | 1 | 0 |
+| East Ayrshire | GB | Glasgow | 0 | 1 | 0 |
+| Cannock Chase | GB | Birmingham | 0 | 1 | 0 |
 
-**Nota de corrección de datos (2026-07-16):** el puesto 285 indicaba anteriormente "Auch,
-ES" — un duplicado de la entrada genuina del puesto 15 (Auch, Francia, suburbio de
-Toulouse), registrada por segunda vez con un código de país corrupto. Auch es un mercado
-francés real y no tiene una contraparte española; el duplicado se eliminó en lugar de
-dejarse o sustituirse por un mercado inventado. El puesto 285 queda intencionalmente
-vacante en espera de un mercado número 400 genuino proveniente de la exportación en vivo
-de puntuación de mercados regionales de project-gis — inventar un nombre o puntuación de
-reemplazo aquí tergiversaría datos reales. El recuento por país a continuación refleja 399
-mercados distintos verificados en los 399 puestos ocupados restantes.
+**Nota de corrección de datos (2026-07-16):** la posición 285 de la lista indicaba
+anteriormente "Auch, ES" — un duplicado de la entrada genuina de la posición 15 (Auch,
+Francia, suburbio de Toulouse), registrada por segunda vez con un código de país corrupto.
+Auch es un mercado francés real y no tiene una contraparte española; el duplicado se
+eliminó en lugar de dejarse o sustituirse por un mercado inventado. La posición 285 queda
+intencionalmente vacante en espera de un mercado número 400 genuino proveniente de la
+exportación en vivo de calificación de mercados regionales de project-gis — inventar un
+nombre de reemplazo aquí tergiversaría datos reales. El recuento por país a continuación
+refleja 399 mercados distintos verificados en las 399 posiciones ocupadas restantes.
 
 ## Desglose por País
 
@@ -535,9 +531,9 @@ mercados distintos verificados en los 399 puestos ocupados restantes.
 | Suecia (SE) | 4 | Anillo suburbano de Estocolmo |
 | Portugal (PT) | 3 | Anillo suburbano de Lisboa |
 
-## Nota sobre la Distribución de Puntuaciones
+## Nota sobre la Densidad de Clústeres
 
-La puntuación máxima más baja en el conjunto de datos europeo (18,0 frente a 25,5 en América del Norte) refleja diferencias estructurales en la geografía minorista europea más que mercados más débiles. Los municipios europeos LAU-2 son unidades geográficas significativamente más pequeñas que los lugares incorporados de EE. UU., por lo que un suburbio europeo típicamente contiene menos clústeres de co-localización — y, por tanto, menores puntuaciones de nivel — incluso cuando su densidad minorista subyacente es comparable por kilómetro cuadrado.
+Los Mercados Regionales europeos suelen tener menos clústeres de co-localización por mercado que sus equivalentes norteamericanos. Esto refleja diferencias estructurales en la geografía minorista europea más que mercados más débiles. Los municipios europeos LAU-2 son unidades geográficas significativamente más pequeñas que los lugares incorporados de EE. UU., por lo que un suburbio europeo típicamente contiene menos clústeres de co-localización, incluso cuando su densidad minorista subyacente es comparable por kilómetro cuadrado.
 
 ## Fuentes de Datos y Metodología
 

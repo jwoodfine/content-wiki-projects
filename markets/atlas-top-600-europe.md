@@ -3,7 +3,7 @@ schema: foundry-doc-v1
 title: "TOP600 Europe — Regional Market index"
 slug: atlas-top-600-europe
 category: markets
-index_group: screening-universe-and-rankings
+index_group: screening-universe
 type: topic
 content_type: topic
 quality: stub
@@ -12,7 +12,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 keynote: false
-last_edited: 2026-07-11
+last_edited: 2026-08-25
 editor: woodfine-editorial
 short_description: "Index of up to 600 regional commercial real estate markets across Europe screened for co-location viability."
 paired_with: markets/atlas-top-600-europe.es.md
@@ -25,7 +25,7 @@ present a distinct set of structural characteristics relative to North American 
 denser historic urban cores, stronger public-transport dependence, more regulated retail
 planning environments, and a broader range of income levels across member states of the
 European Union. The index applies consistent screening criteria while accommodating these
-regional differences in the ranking methodology.
+regional differences in the qualification methodology.
 
 ## Scope and classification
 
@@ -47,7 +47,7 @@ threshold where an equivalent percentile market in an EU accession state may not
 **Retail infrastructure.** European retail formats differ from North American equivalents.
 The presence of pan-European retail anchors — warehouse clubs, hypermarkets, home-improvement
 chains — serves as the infrastructure signal. Planning-restricted markets where national
-retail penetration is constrained by zoning regulation are scored separately.
+retail penetration is constrained by zoning regulation are screened separately.
 
 ## Geographic coverage
 

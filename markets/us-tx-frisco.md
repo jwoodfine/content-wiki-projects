@@ -12,17 +12,17 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Rank 3 North American Regional Market — suburb of Dallas, 44 km; composite score 21.0."
+short_description: "North American Regional Market — suburb of Dallas, 44 km; 3 Regional-tier and 1 District-tier co-location clusters with a confirmed civic anchor."
 paired_with: markets/us-tx-frisco.es.md
-last_edited: 2026-08-24
+last_edited: 2026-08-25
 editor: editorial
 ---
 
-Frisco, a Dallas suburb 44 kilometres north of the metro core, ranks third among the 400
-North American Regional Markets with a composite score of 21.0, built from three Tier 1
-co-location clusters and a confirmed civic anchor. The city's population more than doubled
-in the decade after 2010, driven by corporate relocations and large-format retail
-development. That growth placed it among the fastest-growing cities in the United States.
+Frisco, a Dallas suburb 44 kilometres north of the metro core, is a North American Regional
+Market built from three Regional-tier and one District-tier co-location cluster, with a
+confirmed civic anchor. The city's population grew sharply in the decade after 2010, driven
+by corporate relocations and large-format retail development, placing it among the
+fastest-growing cities in the United States.
 
 **Correction (2026-08-02):** Frisco's population grew from 116,989 (2010 census) to
 200,509 (2020 census, cited correctly later in this article) — a 71% increase, not
@@ -50,19 +50,14 @@ library, and retail.
 
 | Field | Value |
 |---|---|
-| Rank | 3 of 400 (North America) |
-| Composite score | 21.0 |
-| Tier 1 clusters | 3 |
-| Tier 2 clusters | 1 |
-| Tier 3 clusters | 0 |
-| Civic anchor confirmed | Yes |
 | Suburb of | Dallas (44 km) |
 
-Cluster-level detail — the specific retail and civic anchors composing each of Frisco's four
-co-location clusters — is pending the underlying GIS dataset and is not included in this
+Frisco has three Regional-tier and one District-tier co-location cluster, with a confirmed
+civic anchor. Cluster-level detail — the specific retail and civic anchors composing each of
+Frisco's four clusters — is pending the underlying GIS dataset and is not included in this
 stub. See [[atlas-top-400-north-america|Top 400 Regional Markets — North America]] for the
-full ranked list and [[co-location-methodology|Co-location Methodology]] for how the
-composite score is derived.
+full Top 400 set and [[co-location-methodology|Co-location Methodology]] for how markets
+qualify.
 
 ## See Also
 

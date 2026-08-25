@@ -12,16 +12,15 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Rank 368 European Regional Market — suburb of Oxford; composite score 3.0."
+short_description: "European Regional Market — suburb of Oxford; 2 Local-tier co-location clusters."
 paired_with: markets/gb-eng-cherwell.es.md
-last_edited: 2026-08-24
+last_edited: 2026-08-25
 editor: editorial
 ---
 
-Cherwell, a north Oxfordshire district anchored by Banbury and Bicester, ranks 368th among
-the 400 European Regional Markets with a composite score of 3.0, near the floor of the
-ranked list. Strong M40 motorway and rail connectivity toward London, Birmingham, and Oxford
-support its two Tier 3 co-location clusters.
+Cherwell, a north Oxfordshire district anchored by Banbury and Bicester, is a suburb of
+Oxford with two Local-tier co-location clusters. Strong M40 motorway and rail connectivity
+toward London, Birmingham, and Oxford support the district's retail geography.
 
 ## Overview
 
@@ -39,19 +38,12 @@ centre in Banbury as part of ongoing urban regeneration.
 
 ## Regional Market Standing
 
-| Field | Value |
-|---|---|
-| Rank | 368 of 400 (Europe) |
-| Composite score | 3.0 |
-| Tier 1 clusters | 0 |
-| Tier 2 clusters | 0 |
-| Tier 3 clusters | 2 |
-| Suburb of | Oxford |
+Cherwell is a suburb of Oxford, with two Local-tier co-location clusters.
 
 Cluster-level detail — the specific retail and civic anchors composing each of Cherwell's two
-Tier 3 clusters — is pending the underlying GIS dataset and is not included in this stub. See
-[[atlas-top-400-europe|Top 400 Regional Markets — Europe]] for the full ranked list and
-[[co-location-methodology|Co-location Methodology]] for how the composite score is derived.
+Local-tier clusters — is pending the underlying GIS dataset and is not included in this stub.
+See [[atlas-top-400-europe|Top 400 Regional Markets — Europe]] for the full Top 400 set and
+[[co-location-methodology|Co-location Methodology]] for how markets qualify.
 
 ## See Also
 
