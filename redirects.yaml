@@ -39,11 +39,20 @@ redirects:
     to: /markets/about-regional-markets
 
   # Batch C1 Part 2 — comms/ -> news/ (directory rename, slug unchanged).
+  # 2026-08-25: news/ category retracted entirely (operator directive — no "news"
+  # category on any wiki). Both target articles were already archived; retargeted
+  # to the GIS category page rather than left pointing at a retired category.
   - from: /comms/text-gis-nordic-coverage-2026-05
-    to: /news/text-gis-nordic-coverage-2026-05
+    to: /category/gis
 
   - from: /comms/text-gis-north-america-dataset-2026
-    to: /news/text-gis-north-america-dataset-2026
+    to: /category/gis
+
+  - from: /news/text-gis-nordic-coverage-2026-05
+    to: /category/gis
+
+  - from: /news/text-gis-north-america-dataset-2026
+    to: /category/gis
 
   # Batch C1 Part 4 — gis/ moves. Two articles move to site-selection/ (slug
   # unchanged); one moves to rollout/ with a renamed slug (about-* framework band).

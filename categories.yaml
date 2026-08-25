@@ -105,10 +105,3 @@ categories:
     audience: "All readers"
     order: 10
 
-  - id: news
-    name: "News"
-    scope: >-
-      Release notes: new datasets, new coverage, and knowledge-base
-      milestones.
-    audience: "All readers"
-    order: 11

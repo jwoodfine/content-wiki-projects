@@ -76,13 +76,9 @@ preserva el poder de fijación de precios.
 detrás de la demanda: los desplazamientos al trabajo, la periferia urbana,
 la demografía y el aparcamiento.
 
-## Investigación, glosario y noticias
+## Glosario
 
-**Investigación** reúne los artículos de investigación insignia —
-argumentos completos, de formato largo y con citas completas, publicados
-como un pequeño conjunto seleccionado. **Glosario** define la
-terminología. **Noticias** recoge las notas de publicación sobre nuevos
-conjuntos de datos y cobertura.
+**Glosario** define la terminología.
 
 Cada artículo se publica en inglés y en español. La mitad de la historia
 que trata de la empresa y el dinero — quién es la empresa, en qué se

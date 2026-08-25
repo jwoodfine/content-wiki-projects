@@ -70,17 +70,9 @@ commuters, the urban fringe, demographics, and parking.
 **Maps and Data** documents the spatial data behind the analysis:
 sources, coverage, and methods.
 
-## Glossary and news
+## Glossary
 
-**Correction (2026-08-02, verified against canonical repo state):** this section
-previously also described a "Research" category. That category was retired
-(commit `b67eb58`, "chore(taxonomy): retire empty research/ category
-(Command-ratified)," 2026-07-15) — `categories.yaml` carries no `research` entry and
-no `research/` directory exists in this repo. This article was never updated after
-the retirement. **Flagged, not resolved.**
-
-**Glossary** defines the terminology. **News** carries release notes on
-new datasets and coverage.
+**Glossary** defines the terminology.
 
 Every article is published in English and Spanish. The company-and-money
 half of the story — who the company is, what you invest in, how the
