@@ -24,7 +24,7 @@ cites:
   - osc-sn-51-721
 ---
 
-La plataforma de inteligencia de co-ubicación de MCorp clasifica nodos comerciales en 8 mercados minoristas por convergencia de anclas — la co-ubicación independiente de hipermercados, clubs de almacén y tiendas de mejoras del hogar en la misma zona comercial. Cada nodo está validado no por previsiones de analistas, sino por los compromisos de capital independientes de los minoristas que se instalaron allí. La convergencia se mide según la [[co-location-methodology|metodología de co-ubicación]] y se clasifica mediante el [[co-location-ranking-system|sistema de clasificación determinista]]; los insumos de población y gasto se documentan en [[trade-area-data-sources|fuentes de datos de áreas comerciales]] y la política geográfica en la [[about-regional-markets-system|matriz de mercados regionales]].
+La plataforma de inteligencia de co-ubicación de MCorp clasifica nodos comerciales en mercados minoristas transfronterizos de Norteamérica y Europa por convergencia de anclas — la co-ubicación independiente de hipermercados, clubs de almacén y tiendas de mejoras del hogar en la misma zona comercial. Cada nodo está validado no por previsiones de analistas, sino por los compromisos de capital independientes de los minoristas que se instalaron allí. La convergencia se mide según la [[co-location-methodology|metodología de co-ubicación]] y se clasifica mediante el [[co-location-ranking-system|sistema de clasificación determinista]]; los insumos de población y gasto se documentan en [[trade-area-data-sources|fuentes de datos de áreas comerciales]] y la política geográfica en la [[about-regional-markets-system|matriz de mercados regionales]].
 
 La plataforma opera en [gis.woodfinegroup.com](https://gis.woodfinegroup.com).
 
@@ -36,22 +36,30 @@ El sistema de inteligencia de co-ubicación identifica y clasifica esos nodos me
 
 ## Cobertura geográfica y escala
 
-La plataforma evalúa actualmente 8 mercados minoristas en 13 países, proporcionando una visión transfronteriza de la densidad minorista y la defensibilidad comercial.
-
-**Corrección (2026-08-02):** la tabla de región/país a continuación enumera 12
-códigos de país distintos (US, CA, MX, ES, IT, GR, PL, SE, NO, DK, FI, IS), no 13.
-**Señalado, no resuelto.**
+A partir de la ejecución de procesamiento completa más reciente (2026-08-06), la plataforma evalúa clústeres de co-ubicación en 24 países de Norteamérica y Europa, proporcionando una visión transfronteriza de la densidad minorista y la defensibilidad comercial. La cobertura por país se amplía a medida que se incorporan nuevos datos de cadenas; la plataforma SIG en vivo siempre refleja la cobertura actual, y la tabla siguiente es una instantánea fechada verificada contra esa misma ejecución.
 
 | Región | Países | Operadores ancla |
 |--------|--------|-----------------|
-| Estados Unidos | US | Walmart, IKEA |
+| Estados Unidos | US | Walmart, Target, IKEA, The Home Depot, Costco |
 | Canadá | CA | Walmart, IKEA, Real Canadian Superstore |
-| México | MX | Walmart, IKEA |
-| España | ES | IKEA, Carrefour, Alcampo, Leclerc |
-| Italia | IT | IKEA, Carrefour, Ipercoop, Iper La Grande, Bennet |
-| Grecia | GR | IKEA |
-| Polonia | PL | IKEA, Carrefour, Leclerc, Auchan |
-| Países Nórdicos | SE · NO · DK · FI · IS | IKEA, Bilka, Prisma, K-Citymarket, Obs Coop |
+| México | MX | Walmart, IKEA, The Home Depot |
+| España | ES | IKEA, Carrefour, Alcampo, E.Leclerc |
+| Italia | IT | IKEA, Carrefour, Ipercoop, Bennet |
+| Francia | FR | Carrefour, Auchan, IKEA, Leroy Merlin, Costco |
+| Alemania | DE | Kaufland, IKEA, OBI, Hornbach |
+| Reino Unido | GB | Tesco, Sainsbury's, IKEA, B&Q |
+| Países Bajos | NL | Albert Heijn XL, IKEA, Praxis |
+| Austria | AT | Interspar, IKEA, Hornbach |
+| Portugal | PT | Continente, Auchan, IKEA, Leroy Merlin |
+| Grecia | GR | IKEA, Sklavenitis, Praktiker |
+| Polonia | PL | IKEA, Carrefour, E.Leclerc, Auchan |
+| Chequia | CZ | Kaufland, IKEA, OBI |
+| Hungría | HU | Tesco, Auchan, IKEA, OBI |
+| Eslovaquia | SK | Kaufland, IKEA, OBI |
+| Rumania | RO | Carrefour, IKEA, Dedeman |
+| Bulgaria | BG | Kaufland, IKEA, Praktiker |
+| Croacia | HR | Kaufland, Interspar, Super Konzum, Bauhaus |
+| Países Nórdicos | SE · NO · DK · FI · IS | IKEA, Bilka, Prisma, K-Citymarket, OBS Coop |
 
 ## Fundamentos de datos
 
@@ -76,7 +84,7 @@ La plataforma del Sistema de Información Geográfica (SIG) representa el índic
 La plataforma se actualiza cuando se incorporan nuevos datos de cadenas o cuando se recalibra la asignación de niveles. Todos los recuentos del conjunto de datos y los identificadores de versión se muestran en la cabecera de la plataforma para garantizar la transparencia operativa.
 
 ## Procedencia
-- **Verificación:** La cobertura por país ha sido verificada contra la configuración de la plataforma SIG al 2 de mayo de 2026.
+- **Verificación:** La cobertura por país ha sido verificada contra el conjunto de datos de clústeres en vivo de la plataforma SIG y su ejecución de procesamiento completa más reciente, al 2026-08-06.
 - **Declaración prospectiva:** Los objetivos de expansión de datos terciarios europeos son resultados previstos, etiquetados conforme a [ni-51-102].
 
 ## Ver también

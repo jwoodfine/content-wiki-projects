@@ -23,7 +23,7 @@ cites:
   - osc-sn-51-721
 ---
 
-MCorp's co-location intelligence platform classifies commercial nodes across 8 retail markets by anchor convergence — the independent co-location of hypermarkets, warehouse clubs, and home improvement superstores at the same trade area. Each node is validated not by analyst forecasts, but by the independent capital commitments of the retailers who located there. Convergence is measured per the [[co-location-methodology|co-location methodology]] and classified by the [[co-location-ranking-system|deterministic ranking system]]; the population and spend inputs are documented in [[trade-area-data-sources|trade-area data sources]] and the geographic policy in the [[about-regional-markets-system|regional market matrix]].
+MCorp's co-location intelligence platform classifies commercial nodes across a cross-border network of North American and European retail markets by anchor convergence — the independent co-location of hypermarkets, warehouse clubs, and home improvement superstores at the same trade area. Each node is validated not by analyst forecasts, but by the independent capital commitments of the retailers who located there. Convergence is measured per the [[co-location-methodology|co-location methodology]] and classified by the [[co-location-ranking-system|deterministic ranking system]]; the population and spend inputs are documented in [[trade-area-data-sources|trade-area data sources]] and the geographic policy in the [[about-regional-markets-system|regional market matrix]].
 
 The platform is operated at [gis.woodfinegroup.com](https://gis.woodfinegroup.com).
 
@@ -35,22 +35,30 @@ The co-location intelligence system identifies and classifies those nodes using 
 
 ## Geographic coverage and scale
 
-The platform currently evaluates 8 retail markets across 13 countries, providing a cross-border view of retail density and commercial defensibility.
-
-**Correction (2026-08-02):** the region/country table below lists 12 distinct
-country codes (US, CA, MX, ES, IT, GR, PL, SE, NO, DK, FI, IS), not 13. **Flagged,
-not resolved.**
+As of the most recent full processing run (2026-08-06), the platform evaluates co-location clusters across 24 countries spanning North America and Europe, providing a cross-border view of retail density and commercial defensibility. Country coverage expands as new chain data is ingested; the live GIS platform always reflects current coverage, and the table below is a dated snapshot verified against that same run.
 
 | Region | Countries | Anchor operators |
 |--------|-----------|-----------------|
-| United States | US | Walmart, IKEA |
+| United States | US | Walmart, Target, IKEA, The Home Depot, Costco |
 | Canada | CA | Walmart, IKEA, Real Canadian Superstore |
-| Mexico | MX | Walmart, IKEA |
-| Spain | ES | IKEA, Carrefour, Alcampo, Leclerc |
-| Italy | IT | IKEA, Carrefour, Ipercoop, Iper La Grande, Bennet |
-| Greece | GR | IKEA |
-| Poland | PL | IKEA, Carrefour, Leclerc, Auchan |
-| Nordics | SE · NO · DK · FI · IS | IKEA, Bilka, Prisma, K-Citymarket, Obs Coop |
+| Mexico | MX | Walmart, IKEA, The Home Depot |
+| Spain | ES | IKEA, Carrefour, Alcampo, E.Leclerc |
+| Italy | IT | IKEA, Carrefour, Ipercoop, Bennet |
+| France | FR | Carrefour, Auchan, IKEA, Leroy Merlin, Costco |
+| Germany | DE | Kaufland, IKEA, OBI, Hornbach |
+| United Kingdom | GB | Tesco, Sainsbury's, IKEA, B&Q |
+| Netherlands | NL | Albert Heijn XL, IKEA, Praxis |
+| Austria | AT | Interspar, IKEA, Hornbach |
+| Portugal | PT | Continente, Auchan, IKEA, Leroy Merlin |
+| Greece | GR | IKEA, Sklavenitis, Praktiker |
+| Poland | PL | IKEA, Carrefour, E.Leclerc, Auchan |
+| Czechia | CZ | Kaufland, IKEA, OBI |
+| Hungary | HU | Tesco, Auchan, IKEA, OBI |
+| Slovakia | SK | Kaufland, IKEA, OBI |
+| Romania | RO | Carrefour, IKEA, Dedeman |
+| Bulgaria | BG | Kaufland, IKEA, Praktiker |
+| Croatia | HR | Kaufland, Interspar, Super Konzum, Bauhaus |
+| Nordics | SE · NO · DK · FI · IS | IKEA, Bilka, Prisma, K-Citymarket, OBS Coop |
 
 ## Data foundations
 
@@ -75,7 +83,7 @@ The Geographic Information System (GIS) platform renders the tiered site index a
 The platform is updated when new chain data is ingested or when tier assignment is recalibrated. All dataset counts and version identifiers are displayed in the platform header to ensure operational transparency.
 
 ## Provenance
-- **Verification:** Country coverage verified against the GIS platform configuration as of 2 May 2026.
+- **Verification:** Country coverage verified against the GIS platform's live cluster dataset and its most recent full processing run, as of 2026-08-06.
 - **Forward-looking disclosure:** European tertiary data expansion targets are intended outcomes, labeled per [ni-51-102].
 
 ## See also
