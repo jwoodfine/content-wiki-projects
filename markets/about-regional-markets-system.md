@@ -24,29 +24,19 @@ The Regional Markets Intelligence System is a continental-scale geographic analy
 
 The research addresses a gap in institutional commercial real estate analysis. Major research organisations, including Oxford Economics, CBRE, and Colliers International, produce extensive coverage of primary metro markets: London, Paris, New York, Chicago, Dallas, Toronto, and their immediate urban cores. The suburban ring — the belt of named municipalities 15 to 80 kilometres from a major metro centre — is systematically underanalysed by institutional research. This is where large-format retail, hospital systems, and university campuses co-locate in patterns that function as leading indicators of demographic and economic activity at the sub-metropolitan scale. The Regional Markets dataset is the analytical surface for that suburban ring.
 
-The current dataset spans 6,493 co-location clusters across eighteen countries in North America and Europe, classified into three compositional tiers (T1, T2, T3) and aggregated into 4,436 named Regional Markets.
-
-**Correction (2026-08-02, verified against canonical `origin/main:app-orchestration-
-gis/SCORING-METHODOLOGY.md` §12):** these figures don't match the real production
-census — real is 10,213 clusters, 7 countries (US/MX/ES/DE/CA/FR/GB), and tier counts
-T1=157/T2=1,462/T3=2,081/T4=6,513 (a four-tier system, not three). This article also
-defines T1/T2/T3 as "Regional/District/Local," reusing the exact vocabulary of the
-canonical V3 predicate-gate system ([[co-location-tier-nomenclature]]) but with a
-different, purely compositional rule (no percentile gates, no civic-classification
-gate, no Fringe tier) — a further instance of this wiki's unreconciled parallel
-tier-system pattern, not previously named in the site-selection/ sweep. **Flagged,
-not resolved.**
+The current dataset spans 7,567 co-location clusters across 24 countries in North America and Europe, classified into three compositional tiers (T1, T2, T3) and aggregated into 4,436 named Regional Markets. The Top 400 is the flagship published output of this system: a curated, editorially-selected subset of roughly 400 markets for each continent. Selection method below.
 
 ## Dataset Scope
 
-The current build covers 6,493 co-location clusters across eighteen countries on two continents.
+The current build covers 7,567 co-location clusters across 24 countries on two continents.
 
 | Region | Countries |
 |---|---|
 | North America | United States, Canada, Mexico |
 | Europe — west and south | Spain, Italy, Greece, France, Germany, Portugal, Netherlands, Austria |
 | Europe — Nordic | Sweden, Norway, Denmark, Finland, Iceland |
-| Europe — central / east | Poland, United Kingdom |
+| Europe — central | Poland, United Kingdom, Czechia, Hungary, Slovakia |
+| Europe — southeast | Bulgaria, Croatia, Romania |
 
 Cluster counts by tier: **T1 = 1,746** (Regional anchors), **T2 = 2,726** (District anchors), **T3 = 2,021** (Local anchors). The build pipeline draws on four primary data sources.
 
@@ -54,9 +44,9 @@ Cluster counts by tier: **T1 = 1,746** (Regional anchors), **T2 = 2,726** (Distr
 
 **OpenStreetMap (ODbL licence).** Retail chain locations filtered by Wikidata QID via the Overpass API. The current ingest covers more than sixty chains spanning hypermarkets, hardware superstores, warehouse clubs, electronics retailers, sporting-goods stores, and pharmacies.
 
-**Overture Maps Foundation (CDLA Permissive 2.0).** Civic anchor locations extracted from the Places dataset using the `taxonomy.primary` field. Current coverage includes 27,833 medical and 28,846 higher-education records across the eighteen countries.
+**Overture Maps Foundation (CDLA Permissive 2.0).** Civic anchor locations extracted from the Places dataset using the `taxonomy.primary` field. Current coverage includes 27,833 medical and 28,846 higher-education records across the 24 countries.
 
-**Kontur Population 2023 (CC BY 4.0).** A global H3 resolution-8 population hex grid covering all eighteen countries; aggregated to H3 resolution-7 (≈1.22 km² per cell) for catchment calculations.
+**Kontur Population 2023 (CC BY 4.0).** A global H3 resolution-8 population hex grid covering all 24 countries; aggregated to H3 resolution-7 (≈1.22 km² per cell) for catchment calculations.
 
 **WorldPop 100-metre raster (2026 release, CC BY 4.0).** Used in combination with per-country spend multipliers from BLS (United States), Statistics Canada, and Eurostat household budget surveys to model grocery, hardware, and wholesale spend potential at the catchment level.
 
@@ -118,7 +108,7 @@ The full lists are published separately: see [[atlas-top-400-north-america|Top 4
 
 The civic infrastructure layer adds medical and higher-education anchor presence to the cluster member data. The source is the Overture Maps Foundation Places dataset, queried for the `healthcare` and `higher_education` primary categories.
 
-**Coverage.** 27,833 medical records and 28,846 higher-education records across the eighteen countries.
+**Coverage.** 27,833 medical records and 28,846 higher-education records across the 24 countries.
 
 **Encoding.** Civic presence is encoded as a binary flag per cluster: if any cluster member is classified as medical or higher-education, the cluster carries `civic = True`. The Regional Market inherits the civic flag from any constituent cluster. The civic flag is a descriptive dataset field, not a public ranking input.
 

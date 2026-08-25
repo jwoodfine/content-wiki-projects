@@ -24,18 +24,19 @@ El Sistema de Inteligencia de Mercados Regionales es un marco de análisis geogr
 
 La investigación aborda una brecha en el análisis institucional de bienes raíces comerciales. Las principales organizaciones de investigación, incluidas Oxford Economics, CBRE y Colliers International, producen cobertura extensa de los mercados metropolitanos primarios: Londres, París, Nueva York, Chicago, Dallas, Toronto y sus núcleos urbanos inmediatos. El anillo suburbano — el cinturón de municipios con nombre propio situados de 15 a 80 kilómetros de un centro metropolitano importante — está sistemáticamente subanali­zado por la investigación institucional. Es precisamente aquí donde los grandes formatos minoristas, los sistemas hospitalarios y los campus universitarios se co-localizan en patrones que funcionan como indicadores anticipados de actividad demográfica y económica a escala sub-metropolitana. El conjunto de datos de Mercados Regionales es la superficie analítica para ese anillo suburbano.
 
-El conjunto de datos actual abarca 6.493 clústeres de co-localización en dieciocho países de América del Norte y Europa, clasificados en tres niveles de composición (T1, T2, T3) y agregados en 4.436 Mercados Regionales con nombre propio.
+El conjunto de datos actual abarca 7.567 clústeres de co-localización en 24 países de América del Norte y Europa, clasificados en tres niveles de composición (T1, T2, T3) y agregados en 4.436 Mercados Regionales con nombre propio. El Top 400 es el producto publicado insignia de este sistema: un subconjunto curado y seleccionado editorialmente de aproximadamente 400 mercados por continente. Método de selección más abajo.
 
 ## Alcance del Conjunto de Datos
 
-La construcción actual cubre 6.493 clústeres de co-localización en dieciocho países de dos continentes.
+La construcción actual cubre 7.567 clústeres de co-localización en 24 países de dos continentes.
 
 | Región | Países |
 |---|---|
 | América del Norte | Estados Unidos, Canadá, México |
 | Europa — oeste y sur | España, Italia, Grecia, Francia, Alemania, Portugal, Países Bajos, Austria |
 | Europa — Nórdica | Suecia, Noruega, Dinamarca, Finlandia, Islandia |
-| Europa — central / este | Polonia, Reino Unido |
+| Europa — central | Polonia, Reino Unido, Chequia, Hungría, Eslovaquia |
+| Europa — sureste | Bulgaria, Croacia, Rumanía |
 
 Recuentos de clústeres por nivel: **T1 = 1.746** (Anclas regionales), **T2 = 2.726** (Anclas de distrito), **T3 = 2.021** (Anclas locales). El proceso de construcción utiliza cuatro fuentes de datos primarias.
 
@@ -43,9 +44,9 @@ Recuentos de clústeres por nivel: **T1 = 1.746** (Anclas regionales), **T2 = 2.
 
 **OpenStreetMap (licencia ODbL).** Ubicaciones de cadenas minoristas filtradas por QID de Wikidata mediante la API de Overpass. La ingestión actual cubre más de sesenta cadenas que abarcan hipermercados, grandes almacenes de ferretería, clubes de precio, tiendas de electrónica, artículos deportivos y farmacias.
 
-**Overture Maps Foundation (CDLA Permissive 2.0).** Ubicaciones de anclas cívicas extraídas del conjunto de datos de Lugares usando el campo `taxonomy.primary`. La cobertura actual incluye 27.833 registros médicos y 28.846 de educación superior en los dieciocho países.
+**Overture Maps Foundation (CDLA Permissive 2.0).** Ubicaciones de anclas cívicas extraídas del conjunto de datos de Lugares usando el campo `taxonomy.primary`. La cobertura actual incluye 27.833 registros médicos y 28.846 de educación superior en los 24 países.
 
-**Kontur Population 2023 (CC BY 4.0).** Una cuadrícula global de población H3 de resolución 8 que cubre los dieciocho países; agregada a resolución H3-7 (≈1,22 km² por celda) para los cálculos de captación.
+**Kontur Population 2023 (CC BY 4.0).** Una cuadrícula global de población H3 de resolución 8 que cubre los 24 países; agregada a resolución H3-7 (≈1,22 km² por celda) para los cálculos de captación.
 
 **WorldPop a 100 metros (edición 2026, CC BY 4.0).** Se utiliza en combinación con multiplicadores de gasto por país de BLS (Estados Unidos), Statistics Canada y encuestas de presupuesto familiar de Eurostat para modelar el potencial de gasto en alimentación, ferretería y mayoristas a nivel de captación.
 
@@ -107,7 +108,7 @@ Las listas completas se publican por separado: véase [[atlas-top-400-north-amer
 
 La capa de infraestructura cívica añade la presencia de anclas médicas y de educación superior a los datos de los miembros del clúster. La fuente es el conjunto de datos de Lugares de la Overture Maps Foundation, consultado para las categorías primarias de `salud` y `educación superior`.
 
-**Cobertura.** 27.833 registros médicos y 28.846 de educación superior en los dieciocho países.
+**Cobertura.** 27.833 registros médicos y 28.846 de educación superior en los 24 países.
 
 **Codificación.** La presencia cívica se codifica como un indicador binario por clúster. El Mercado Regional hereda el indicador cívico de cualquier clúster constituyente.
 
