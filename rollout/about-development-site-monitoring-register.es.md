@@ -32,7 +32,7 @@ La prueba real de re-entrada del registro — que un sitio se mantenga por encim
 del umbral descalificante — se expresa ahora directamente contra el sistema de
 niveles actual: cualquier nivel distinto de Marginal califica.
 
-La disponibilidad de terreno adyacente es una condición separada. Un sitio puede tener la configuración de co-ubicación correcta y el perfil demográfico correcto, pero carecer de una parcela adyacente al Objetivo Primario disponible para adquisición en el momento de la evaluación. Esto es particularmente común en los [[about-regional-markets-system|Mercados Regionales]] donde la huella del [[power-centres|Centro Comercial]] ha sido completamente desarrollada y las parcelas circundantes están ocupadas por edificios existentes cuyos propietarios no son vendedores actuales.
+La disponibilidad de terreno adyacente es una condición separada. Un sitio puede tener la configuración de co-ubicación correcta y el perfil demográfico correcto, pero carecer de una parcela adyacente al Objetivo Primario disponible para adquisición en el momento de la evaluación. Esto es particularmente común en los [[about-regional-markets-system|Mercados Regionales]] donde la huella del [[power-centres|Power Centre]] ha sido completamente desarrollada y las parcelas circundantes están ocupadas por edificios existentes cuyos propietarios no son vendedores actuales.
 
 El Registro de Monitoreo preserva la inversión realizada en la puntuación y elaboración de perfiles de estos sitios en lugar de descartarlos del conjunto de datos. Las características de clúster calificantes del sitio no se espera que cambien — el Objetivo Primario es típicamente un minorista de gran formato con un contrato de arrendamiento a largo plazo y capital sustancial invertido en el sitio. La probabilidad de que el terreno adyacente eventualmente esté disponible es una función de la rotación inmobiliaria comercial normal en el área circundante.
 
@@ -46,7 +46,7 @@ El nivel del clúster para cada sitio del Registro de Monitoreo también se reev
 
 Un sitio del Registro de Monitoreo vuelve a ingresar al pipeline activo de Sitios de Desarrollo cuando se satisfacen dos condiciones:
 
-1. **Disponibilidad de terreno confirmada.** El profesional inmobiliario comprometido en el mercado identifica una parcela adyacente al Objetivo Primario — definida como contigua o inmediatamente accesible al sitio del Centro Comercial — disponible para adquisición o arrendamiento de terreno en términos consistentes con los parámetros de suscripción de la Direct-Hold Solution aplicable.
+1. **Disponibilidad de terreno confirmada.** El profesional inmobiliario comprometido en el mercado identifica una parcela adyacente al Objetivo Primario — definida como contigua o inmediatamente accesible al sitio del Power Centre — disponible para adquisición o arrendamiento de terreno en términos consistentes con los parámetros de suscripción de la Direct-Hold Solution aplicable.
 
 2. **Nivel del clúster mantenido o mejorado.** El nivel del clúster del sitio en el momento de la evaluación de re-entrada debe ser Local, Distrital o Regional — no Marginal. Un sitio que ha caído a Marginal — por ejemplo, porque un ancla ha cerrado y la composición del clúster ya no supera las compuertas de ningún nivel — no vuelve a ingresar al pipeline activo hasta que se restauren las condiciones de co-ubicación calificantes.
 

@@ -32,12 +32,12 @@ Los Edificios nombra lo que realmente construye Woodfine: cuatro clases de desar
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: the-six-development-classes -->
 - [[about-development-classes]] — Las seis clases de desarrollo para los desarrollos de tenencia directa de Woodfine: Centros Profesionales, Oficinas Suburbanas, Retail Select, Industrial Tecnológico, Estructuras de Estacionamiento y Almacenes Verticales.
 - [[about-development-class-economics]] — Las características económicas de las clases de desarrollo de Woodfine: Centros Profesionales, Oficina Suburbana, Industrial Tecnológico y Retail Selectivo, con Estructuras de Estacionamiento y Almacenes Verticales por venir.
-- [[class-professional-centres]] — Professional Centres son edificios de oficina de tres a cinco pisos para arrendatarios de servicios profesionales, construidos según un Prototipo fijo a menos de 1.0 km de un ancla de centro comercial.
+- [[class-professional-centres]] — Professional Centres son edificios de oficina de tres a cinco pisos para arrendatarios de servicios profesionales, construidos según un Prototipo fijo a menos de 1.0 km de un ancla de Power Centre.
 - [[class-suburban-office]] — Las Oficinas Suburbanas extienden el producto de oficinas de Centros Profesionales a un radio de 2,0 kilómetros donde el emplazamiento a 1,0 kilómetro no es viable, atendiendo a la misma base de inquilinos en un formato de respaldo.
-- [[class-retail-select]] — Retail Select es la clase comercial-minorista de un solo piso que complementa los edificios de oficina de varios pisos de Woodfine dentro del radio de 1,0 kilómetro del centro de potencia.
+- [[class-retail-select]] — Retail Select es la clase comercial-minorista de un solo piso que complementa los edificios de oficina de varios pisos de Woodfine dentro del radio de 1,0 kilómetro del Power Centre.
 - [[class-tech-industrial]] — Tech Industrial es un edificio de formato único industrial-comercial — 25% local comercial, 75% área de taller con acceso de furgoneta a nivel de suelo — para inquilinos de logística de última milla y taller.
-- [[class-parking-structures]] — Las Estructuras de Estacionamiento están planificadas para centros de tránsito regionales y zonas de captación aeroportuaria, como activo de tenencia directa independiente fuera del modelo de proximidad al centro de potencia.
-- [[class-vertical-warehouses]] — Los Almacenes Verticales están planificados como una clase industrial y logística de apilamiento vertical construida a propósito para ubicaciones de la periferia interurbana, emplazada fuera del modelo de proximidad al centro de potencia.
+- [[class-parking-structures]] — Las Estructuras de Estacionamiento están planificadas para centros de tránsito regionales y zonas de captación aeroportuaria, como activo de tenencia directa independiente fuera del modelo de proximidad al Power Centre.
+- [[class-vertical-warehouses]] — Los Almacenes Verticales están planificados como una clase industrial y logística de apilamiento vertical construida a propósito para ubicaciones de la periferia interurbana, emplazada fuera del modelo de proximidad al Power Centre.
 <!-- END AUTO-GENERATED -->
 
 ## Curaduría de Inquilinos y Adquisiciones

@@ -7,7 +7,7 @@ index_group: the-six-development-classes
 type: topic
 content_type: topic
 quality: complete
-short_description: "Professional Centres son edificios de oficina de tres a cinco pisos para arrendatarios de servicios profesionales, construidos según un Prototipo fijo a menos de 1.0 km de un ancla de centro comercial."
+short_description: "Professional Centres son edificios de oficina de tres a cinco pisos para arrendatarios de servicios profesionales, construidos según un Prototipo fijo a menos de 1.0 km de un ancla de Power Centre."
 status: stable
 audience: customer-woodfine
 bcsc_class: current-fact
@@ -40,11 +40,11 @@ Esta disciplina es intencional. La estandarización del Prototipo de edificio y 
 
 ## Relación con las anclas de Minoristas Nacionales
 
-Professional Centres está diseñado para funcionar en proximidad física a anclas de Minoristas Nacionales que operan en [[power-centre-co-location-thesis|Centros Comerciales]] existentes. Los Arrendatarios Nacionales — operadores de servicios profesionales que se expanden desde Mercados Metropolitanos — buscan arrendamientos en Mercados Regionales accesibles para sus clientes y personal. El espacio de oficina de calidad institucional co-ubicado con anclas de Minoristas Nacionales establecidas proporciona la combinación de entorno profesional e infraestructura comercial que estos arrendatarios requieren.
+Professional Centres está diseñado para funcionar en proximidad física a anclas de Minoristas Nacionales que operan en [[power-centre-co-location-thesis|Power Centres]] existentes. Los Arrendatarios Nacionales — operadores de servicios profesionales que se expanden desde Mercados Metropolitanos — buscan arrendamientos en Mercados Regionales accesibles para sus clientes y personal. El espacio de oficina de calidad institucional co-ubicado con anclas de Minoristas Nacionales establecidas proporciona la combinación de entorno profesional e infraestructura comercial que estos arrendatarios requieren.
 
 ## Asignación de capital
 
-La inversión en Professional Centres, junto con las demás clases de desarrollo, se estructura a través de los cuatro vehículos de Direct-Hold Solutions. El capital recaudado a través de cada vehículo se despliega para adquirir, desarrollar y gestionar Woodfine Buildings en sitios de Inversión Calificada en la jurisdicción aplicable. El criterio de Inversión Calificada — co-ubicación con un ancla de Centro Comercial, conformidad de Diseño Campus, cumplimiento del Prototipo — aplica de manera consistente en las cuatro jurisdicciones, sujeto a los requisitos regulatorios locales de uso de suelo y construcción.
+La inversión en Professional Centres, junto con las demás clases de desarrollo, se estructura a través de los cuatro vehículos de Direct-Hold Solutions. El capital recaudado a través de cada vehículo se despliega para adquirir, desarrollar y gestionar Woodfine Buildings en sitios de Inversión Calificada en la jurisdicción aplicable. El criterio de Inversión Calificada — co-ubicación con un ancla de Power Centre, conformidad de Diseño Campus, cumplimiento del Prototipo — aplica de manera consistente en las cuatro jurisdicciones, sujeto a los requisitos regulatorios locales de uso de suelo y construcción.
 
 ## Véase también
 
@@ -52,4 +52,4 @@ La inversión en Professional Centres, junto con las demás clases de desarrollo
 - [[about-development-class-economics|Economía de las Clases de Desarrollo]] — tamaño de placa de piso, plazo de arrendamiento y características de NOI para Professional Centres
 - [[class-suburban-office|Suburban Office]] — la clase de oficina de radio más amplio que comparte la configuración del Núcleo Desplazado Retrocedido
 - [[class-retail-select|Retail Select]] — la clase de comercio de un solo piso que complementa estos despliegues de campus
-- [[power-centre-co-location-thesis|Tesis de co-ubicación en centros comerciales]] — cómo se disponen físicamente varios Prototipos de edificio en una parcela compartida bajo el Diseño Campus
+- [[power-centre-co-location-thesis|Tesis de co-ubicación en Power Centres]] — cómo se disponen físicamente varios Prototipos de edificio en una parcela compartida bajo el Diseño Campus

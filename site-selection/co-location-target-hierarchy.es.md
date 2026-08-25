@@ -51,7 +51,7 @@ Las dos categorías de Objetivos Terciarios son las instituciones educativas de 
 
 ### Universidades y colegios como fuentes de demanda
 
-**Universidades y colegios** son empleadores de personal administrativo, investigación, clínico y de instalaciones que requieren servicios profesionales — legal, contable, asesoría financiera, médico y dental — en la zona cercana a su lugar de trabajo diario. Una institución de educación superior dentro de 5,0 km de un nodo de [[power-centres|Centro Comercial]] es una fuente confirmada de demanda de arrendamiento profesional que no depende del rendimiento comercial del ancla minorista.
+**Universidades y colegios** son empleadores de personal administrativo, investigación, clínico y de instalaciones que requieren servicios profesionales — legal, contable, asesoría financiera, médico y dental — en la zona cercana a su lugar de trabajo diario. Una institución de educación superior dentro de 5,0 km de un nodo de [[power-centres|Power Centre]] es una fuente confirmada de demanda de arrendamiento profesional que no depende del rendimiento comercial del ancla minorista.
 
 ### Grandes centros médicos como anclas institucionales
 

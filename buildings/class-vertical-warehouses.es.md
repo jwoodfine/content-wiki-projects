@@ -13,12 +13,12 @@ bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
 last_edited: 2026-07-03
 editor: pointsav-engineering
-short_description: "Los Almacenes Verticales están planificados como una clase industrial y logística de apilamiento vertical construida a propósito para ubicaciones de la periferia interurbana, emplazada fuera del modelo de proximidad al centro de potencia."
+short_description: "Los Almacenes Verticales están planificados como una clase industrial y logística de apilamiento vertical construida a propósito para ubicaciones de la periferia interurbana, emplazada fuera del modelo de proximidad al Power Centre."
 paired_with: buildings/class-vertical-warehouses.md
 cites: []
 ---
 
-Los Almacenes Verticales están planificados para apilar verticalmente superficie industrial y logística en sitios fuera del modelo de proximidad al centro de potencia que rige las cuatro clases orientadas a oficina y retail. Al igual que las [[class-parking-structures|Estructuras de Estacionamiento]], son una de las seis [[about-development-classes|clases de desarrollo]] planificadas para la cartera de tenencia directa de MCorp y se describen aquí en términos planificados y previstos.
+Los Almacenes Verticales están planificados para apilar verticalmente superficie industrial y logística en sitios fuera del modelo de proximidad al Power Centre que rige las cuatro clases orientadas a oficina y retail. Al igual que las [[class-parking-structures|Estructuras de Estacionamiento]], son una de las seis [[about-development-classes|clases de desarrollo]] planificadas para la cartera de tenencia directa de MCorp y se describen aquí en términos planificados y previstos.
 
 ## Qué se prevé que sean los Almacenes Verticales
 
@@ -26,7 +26,7 @@ Los Almacenes Verticales están previstos como una solución de construcción es
 
 ## Lógica de emplazamiento: la periferia interurbana
 
-Los Almacenes Verticales están planificados para ubicaciones más allá del criterio de proximidad al centro de potencia que rige [[class-professional-centres|Centros Profesionales]], [[class-suburban-office|Oficinas Suburbanas]] y [[class-retail-select|Retail Select]]. Su selección de sitios se rige, en cambio, por la topología de la red logística interurbana — la posición dentro de las rutas y nodos que conectan los flujos de distribución regional — en lugar de la adyacencia a un ancla minorista.
+Los Almacenes Verticales están planificados para ubicaciones más allá del criterio de proximidad al Power Centre que rige [[class-professional-centres|Centros Profesionales]], [[class-suburban-office|Oficinas Suburbanas]] y [[class-retail-select|Retail Select]]. Su selección de sitios se rige, en cambio, por la topología de la red logística interurbana — la posición dentro de las rutas y nodos que conectan los flujos de distribución regional — en lugar de la adyacencia a un ancla minorista.
 
 ## Por qué existe la clase
 
@@ -39,5 +39,5 @@ Los Almacenes Verticales están en desarrollo dentro de la cartera de tenencia d
 ## Véase también
 
 - [[about-development-classes|Clases de Desarrollo]] — el marco de seis clases en el que se inserta este artículo
-- [[class-parking-structures|Estructuras de Estacionamiento]] — la otra clase emplazada fuera del modelo de proximidad al centro de potencia
+- [[class-parking-structures|Estructuras de Estacionamiento]] — la otra clase emplazada fuera del modelo de proximidad al Power Centre
 - [[about-development-class-economics|Economía de las Clases de Desarrollo]] — características económicas de las clases desplegadas que esta clase tiene previsto complementar

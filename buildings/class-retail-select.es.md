@@ -13,7 +13,7 @@ bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
 last_edited: 2026-07-03
 editor: pointsav-engineering
-short_description: "Retail Select es la clase comercial-minorista de un solo piso que complementa los edificios de oficina de varios pisos de Woodfine dentro del radio de 1,0 kilómetro del centro de potencia."
+short_description: "Retail Select es la clase comercial-minorista de un solo piso que complementa los edificios de oficina de varios pisos de Woodfine dentro del radio de 1,0 kilómetro del Power Centre."
 paired_with: buildings/class-retail-select.md
 cites: []
 ---
@@ -26,7 +26,7 @@ Los edificios Retail Select son estructuras comerciales-minoristas de un solo pi
 
 ## Lógica de emplazamiento: el radio de 1,0 kilómetro
 
-Retail Select comparte la banda de proximidad más estrecha de la cartera de tenencia directa con Centros Profesionales: el posicionamiento dentro de 1,0 kilómetro de un ancla de [[power-centres|centro de potencia]]. Este radio compartido es deliberado. Los inquilinos de Retail Select dependen del tráfico peatonal y vehicular que generan el ancla del centro de potencia y la población de edificios profesionales circundante, y esa dependencia es más fuerte en la banda de proximidad más cercana que define la cartera.
+Retail Select comparte la banda de proximidad más estrecha de la cartera de tenencia directa con Centros Profesionales: el posicionamiento dentro de 1,0 kilómetro de un ancla de [[power-centres|Power Centre]]. Este radio compartido es deliberado. Los inquilinos de Retail Select dependen del tráfico peatonal y vehicular que generan el ancla del Power Centre y la población de edificios profesionales circundante, y esa dependencia es más fuerte en la banda de proximidad más cercana que define la cartera.
 
 ## Por qué existe la clase: un rol de complemento de campus
 

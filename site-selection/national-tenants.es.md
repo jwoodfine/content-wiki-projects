@@ -17,7 +17,7 @@ short_description: "Los ocupantes profesionales ancla — académicos, médicos 
 paired_with: site-selection/national-tenants.md
 ---
 
-Los inquilinos nacionales son los ocupantes ancla dentro de un centro profesional Woodfine. El término se refiere específicamente a los inquilinos en las categorías académica, médica y cívica cuya identidad institucional — la universidad, la red hospitalaria, la agencia gubernamental — tiene reconocimiento regional y cuya presencia establece el carácter profesional del edificio. En el modelo de [[mix-of-use|combinación de usos]], los inquilinos nacionales cumplen la misma función para un edificio profesional que un club de almacén o una ferretería de gran superficie en el nivel del [[power-centres|centro de potencia]]: generan credibilidad y tráfico de destino que atrae a las categorías de ocupantes restantes.
+Los inquilinos nacionales son los ocupantes ancla dentro de un centro profesional Woodfine. El término se refiere específicamente a los inquilinos en las categorías académica, médica y cívica cuya identidad institucional — la universidad, la red hospitalaria, la agencia gubernamental — tiene reconocimiento regional y cuya presencia establece el carácter profesional del edificio. En el modelo de [[mix-of-use|combinación de usos]], los inquilinos nacionales cumplen la misma función para un edificio profesional que un club de almacén o una ferretería de gran superficie en el nivel del [[power-centres|Power Centre]]: generan credibilidad y tráfico de destino que atrae a las categorías de ocupantes restantes.
 
 ## Por qué inquilinos nacionales y no simplemente inquilinos estables
 

@@ -25,7 +25,7 @@ La estrategia invierte el enfoque convencional de selección de sitios para ofic
 
 ## El requisito de proximidad
 
-Un centro profesional califica para la estrategia de co-localización cuando se ubica dentro de 1,0 kilómetro de un [[power-centres|centro de potencia]] — un polo comercial anclado por múltiples minoristas nacionales de gran formato. Este umbral refleja el radio de captación peatonal y vehicular ligero: el edificio profesional debe ser accesible dentro del área de atracción del minorista sin requerir un viaje de destino independiente.
+Un centro profesional califica para la estrategia de co-localización cuando se ubica dentro de 1,0 kilómetro de un [[power-centres|Power Centre]] — un polo comercial anclado por múltiples minoristas nacionales de gran formato. Este umbral refleja el radio de captación peatonal y vehicular ligero: el edificio profesional debe ser accesible dentro del área de atracción del minorista sin requerir un viaje de destino independiente.
 
 Los desarrollos Retail Select operan dentro del mismo radio de 1,0 kilómetro. Los desarrollos Tech Industrial se extienden hasta 4,0 kilómetros para acomodar operaciones logísticas de última milla, donde la adyacencia al polo comercial responde a la proximidad de la cadena de suministro más que al flujo peatonal.
 

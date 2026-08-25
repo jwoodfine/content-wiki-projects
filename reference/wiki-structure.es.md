@@ -20,7 +20,7 @@ paired_with: wiki-structure.md
 ---
 
 La historia de la empresa empieza con una frase: construye espacio
-arrendable cerca de los [[power-centres|centros de poder]] (Power Centres) — grandes
+arrendable cerca de los [[power-centres|Power Centres]] — grandes
 emplazamientos comerciales anclados por un inquilino tipo gran superficie
 — para que los negocios que arriendan sus edificios capten el tránsito de
 personas, la visibilidad y el acceso del ancla. Esta base de conocimiento

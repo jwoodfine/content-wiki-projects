@@ -26,7 +26,7 @@ Cuando un término ya cuenta con un artículo dedicado en la wiki, este glosario
 
 **Diseño Campus.** Una configuración unificada de todo el sitio que rige la ubicación de la huella de los edificios, los campos de estacionamiento, las conexiones de servicios públicos y la circulación peatonal para cada estructura en un único Sitio de Desarrollo. Definición completa: [[site-selection-terminology|Terminología de selección de sitios]].
 
-**Co-localización.** La estrategia de ubicar un edificio Woodfine adyacente a un ancla de [[power-centres|Centro de Potencia]] para transferir la estabilidad de demanda del ancla minorista a la demanda de oficinas e inquilinos profesionales. Definición completa: [[co-location-strategy|Estrategia de co-localización]].
+**Co-localización.** La estrategia de ubicar un edificio Woodfine adyacente a un ancla de [[power-centres|Power Centre]] para transferir la estabilidad de demanda del ancla minorista a la demanda de oficinas e inquilinos profesionales. Definición completa: [[co-location-strategy|Estrategia de co-localización]].
 
 **Cost-Plus.** La filosofía de entrega y fijación de precios de proyectos de Woodfine: los costos del proyecto se calculan directamente y se añade un margen de utilidad predeterminado, en lugar de fijar precios según comparables de mercado. El enfoque se utiliza para mantener la estructura de costos transparente y controlada a lo largo de los despliegues repetidos del Programa de Expansión, y se conoce internamente como el Método de Entrega Woodfine.
 
@@ -34,7 +34,7 @@ Cuando un término ya cuenta con un artículo dedicado en la wiki, este glosario
 
 **Sitio de Desarrollo.** Una parcela de terreno específica identificada — y, cuando se adquiere, retenida — para un desarrollo de Woodfine. Un Sitio de Desarrollo se convierte en una Inversión Calificada solo cuando satisface plenamente los criterios de co-localización, Diseño Campus y permisos de Woodfine (véase [[site-selection-terminology|Terminología de selección de sitios]]), y se evalúa dentro de la Región de Desarrollo delimitada que rige su jurisdicción y alcance de datos de mercado (véase [[development-regions|Regiones de desarrollo]]).
 
-**Solución de Tenencia Directa.** El nivel superior de la taxonomía de desarrollo de Woodfine, un escalón por encima de las Clases de Desarrollo. El portafolio de tenencia directa se organiza en tres familias de solución: Woodfine Centros Profesionales (que agrupa las cuatro Clases de Desarrollo ubicadas por proximidad al Centro de Potencia — Centros Profesionales, Oficinas Suburbanas, Retail Select e Industrial Tecnológico), Woodfine Almacenes Verticales y Woodfine Estructuras de Estacionamiento (estas dos últimas cada una independiente, ubicadas fuera del modelo de proximidad al Centro de Potencia). Véase [[about-development-classes|Clases de desarrollo]] para conocer cómo las seis clases se relacionan con los criterios de ubicación.
+**Solución de Tenencia Directa.** El nivel superior de la taxonomía de desarrollo de Woodfine, un escalón por encima de las Clases de Desarrollo. El portafolio de tenencia directa se organiza en tres familias de solución: Woodfine Centros Profesionales (que agrupa las cuatro Clases de Desarrollo ubicadas por proximidad al Power Centre — Centros Profesionales, Oficinas Suburbanas, Retail Select e Industrial Tecnológico), Woodfine Almacenes Verticales y Woodfine Estructuras de Estacionamiento (estas dos últimas cada una independiente, ubicadas fuera del modelo de proximidad al Power Centre). Véase [[about-development-classes|Clases de desarrollo]] para conocer cómo las seis clases se relacionan con los criterios de ubicación.
 
 **Placa de Piso Fija.** La huella estructural estandarizada e inmutable utilizada en cada desarrollo dentro de una clase de prototipo. Definición completa: [[fixed-floor-plates|Placas de piso fijas]].
 
@@ -42,11 +42,11 @@ Cuando un término ya cuenta con un artículo dedicado en la wiki, este glosario
 
 **Precios Nacionales.** Los descuentos por compra al por mayor obtenidos a través del Programa de Compras, aplicados de manera uniforme en todos los edificios del portafolio en lugar de negociarse edificio por edificio. Definición completa: [[centralized-buying-program|Programa centralizado de compras]].
 
-**Minoristas Nacionales.** Las cadenas minoristas de gran formato — los anclas del Centro de Potencia — cuya presencia a escala institucional impulsa la selección de sitios de co-localización de Woodfine. Se distingue de los Inquilinos Nacionales, más abajo: los Minoristas Nacionales anclan el Centro de Potencia adyacente; los Inquilinos Nacionales anclan el propio edificio Woodfine.
+**Minoristas Nacionales.** Las cadenas minoristas de gran formato — los anclas del Power Centre — cuya presencia a escala institucional impulsa la selección de sitios de co-localización de Woodfine. Se distingue de los Inquilinos Nacionales, más abajo: los Minoristas Nacionales anclan el Power Centre adyacente; los Inquilinos Nacionales anclan el propio edificio Woodfine.
 
 **Inquilinos Nacionales.** Los ocupantes académicos, médicos y cívicos cuya identidad institucional ancla la credibilidad de un edificio y estabiliza su composición de Combinación de Usos. Definición completa: [[national-tenants|Inquilinos nacionales]].
 
-**Centro de Potencia.** Un nodo minorista anclado por múltiples minoristas nacionales de gran formato, que sirve como el ancla principal de selección de sitios para los desarrollos de Woodfine. Definición completa: [[power-centres|Centros de potencia]].
+**Power Centre.** Un nodo minorista anclado por múltiples minoristas nacionales de gran formato, que sirve como el ancla principal de selección de sitios para los desarrollos de Woodfine. Definición completa: [[power-centres|Power Centres]].
 
 **Prototipo.** El diseño de edificio estandarizado — construido en torno a una Placa de Piso Fija — que se repite sin cambios materiales en cada desarrollo dentro de una Clase de Desarrollo. El Prototipo es lo que hace posible el Programa de Expansión: dado que el diseño está fijado antes de elegir un sitio, la adquisición, la secuenciación de la construcción y el análisis de suscripción pueden repetirse a escala de portafolio en lugar de rediseñarse para cada edificio. Véase [[fixed-floor-plates|Placas de piso fijas]] y [[rollout-index|El Programa de Expansión]].
 

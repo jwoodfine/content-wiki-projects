@@ -18,19 +18,19 @@ short_description: "Las seis clases de desarrollo para los desarrollos de tenenc
 paired_with: buildings/about-development-classes.md
 ---
 
-Los desarrollos de tenencia directa de Woodfine se dividen en seis clases: Centros Profesionales, Oficinas Suburbanas, Retail Select, Industrial Tecnológico, Estructuras de Estacionamiento y Almacenes Verticales. Cada clase atiende una categoría de demanda de ocupante distinta. Cuatro de las seis clases corresponden a una relación de proximidad específica con el ancla del [[power-centres|centro de potencia]]; las Estructuras de Estacionamiento y los Almacenes Verticales siguen, en cambio, una lógica de emplazamiento fuera del modelo de proximidad al centro de potencia. La clase determina la forma física — incluyendo el sistema estructural, la geometría de la placa de piso y los servicios del edificio — mientras que la [[co-location-strategy|estrategia de co-localización]] determina el sitio. Cuatro clases — Centros Profesionales, Oficinas Suburbanas, Retail Select e Industrial Tecnológico — cuentan hoy con especificaciones finalizadas y vigentes; las Estructuras de Estacionamiento y los Almacenes Verticales siguen planificados a medida que el programa se expande.
+Los desarrollos de tenencia directa de Woodfine se dividen en seis clases: Centros Profesionales, Oficinas Suburbanas, Retail Select, Industrial Tecnológico, Estructuras de Estacionamiento y Almacenes Verticales. Cada clase atiende una categoría de demanda de ocupante distinta. Cuatro de las seis clases corresponden a una relación de proximidad específica con el ancla del [[power-centres|Power Centre]]; las Estructuras de Estacionamiento y los Almacenes Verticales siguen, en cambio, una lógica de emplazamiento fuera del modelo de proximidad al Power Centre. La clase determina la forma física — incluyendo el sistema estructural, la geometría de la placa de piso y los servicios del edificio — mientras que la [[co-location-strategy|estrategia de co-localización]] determina el sitio. Cuatro clases — Centros Profesionales, Oficinas Suburbanas, Retail Select e Industrial Tecnológico — cuentan hoy con especificaciones finalizadas y vigentes; las Estructuras de Estacionamiento y los Almacenes Verticales siguen planificados a medida que el programa se expande.
 
 ## [[class-professional-centres|Centros Profesionales]]
 
-Los Centros Profesionales son edificios de oficinas de varios pisos que atienden las cinco categorías de inquilinos objetivo: académico, empresarial, cívico, laboratorio y médico. Son la clase principal y más ampliamente desplegada, posicionada dentro de 1,0 kilómetro de un [[power-centres|centro de potencia]]. Cada categoría de ocupante recibe un acondicionamiento configurado específicamente dentro de la [[fixed-floor-plates|placa de piso fija]], con la geometría del mobiliario y los equipos derivada del caso de uso específico.
+Los Centros Profesionales son edificios de oficinas de varios pisos que atienden las cinco categorías de inquilinos objetivo: académico, empresarial, cívico, laboratorio y médico. Son la clase principal y más ampliamente desplegada, posicionada dentro de 1,0 kilómetro de un [[power-centres|Power Centre]]. Cada categoría de ocupante recibe un acondicionamiento configurado específicamente dentro de la [[fixed-floor-plates|placa de piso fija]], con la geometría del mobiliario y los equipos derivada del caso de uso específico.
 
 ## [[class-suburban-office|Oficinas Suburbanas]]
 
-Las Oficinas Suburbanas ubican el producto de oficinas de varios pisos dentro de 2,0 kilómetros del ancla del centro de potencia, donde la geometría del sitio o la disponibilidad de suelo impide el posicionamiento a 1,0 kilómetro. Atienden la misma base de inquilinos que los Centros Profesionales, extendiendo el alcance de la clase a sitios que no pueden soportar el radio de proximidad más estrecho.
+Las Oficinas Suburbanas ubican el producto de oficinas de varios pisos dentro de 2,0 kilómetros del ancla del Power Centre, donde la geometría del sitio o la disponibilidad de suelo impide el posicionamiento a 1,0 kilómetro. Atienden la misma base de inquilinos que los Centros Profesionales, extendiendo el alcance de la clase a sitios que no pueden soportar el radio de proximidad más estrecho.
 
 ## [[class-retail-select|Retail Select]]
 
-El Retail Select posiciona usos comerciales-minoristas de un solo piso (sucursales bancarias, servicios con acceso vehicular) dentro del radio de 1,0 kilómetro del centro de potencia. Estos sirven como complementos a nivel de calle a las clases de oficina de varios pisos en un despliegue de campus.
+El Retail Select posiciona usos comerciales-minoristas de un solo piso (sucursales bancarias, servicios con acceso vehicular) dentro del radio de 1,0 kilómetro del Power Centre. Estos sirven como complementos a nivel de calle a las clases de oficina de varios pisos en un despliegue de campus.
 
 ## [[class-tech-industrial|Industrial Tecnológico]]
 
@@ -51,7 +51,7 @@ Las Estructuras de Estacionamiento están planificadas como parte de la expansi�
 
 Los Almacenes Verticales están previstos como una solución de construcción específica para ubicaciones en la periferia interurbana que requieren el apilamiento vertical de funciones industriales y logísticas. A diferencia de las plataformas de almacenes de baja altura, el modelo de Almacén Vertical está diseñado para abordar la escasez de suelo urbano mientras atiende la demanda logística de última milla y regional concentrada cerca de los centros de población.
 
-Los Almacenes Verticales están planificados para ubicaciones más allá del criterio de proximidad al centro de potencia; su selección de sitios se rige por la topología de la red logística interurbana en lugar de la adyacencia minorista. Esta clase está en desarrollo y tiene como objetivo expandir la cartera de tenencia directa más allá del modelo de Centros Profesionales centrado en oficinas.
+Los Almacenes Verticales están planificados para ubicaciones más allá del criterio de proximidad al Power Centre; su selección de sitios se rige por la topología de la red logística interurbana en lugar de la adyacencia minorista. Esta clase está en desarrollo y tiene como objetivo expandir la cartera de tenencia directa más allá del modelo de Centros Profesionales centrado en oficinas.
 
 ## El programa de implementación como marco transclase
 

@@ -23,13 +23,13 @@ Los términos de la metodología de selección de sitios y desarrollo de MCorp t
 
 ## Inversión Calificada
 
-Una **Inversión Calificada** es un sitio de desarrollo que satisface todos los criterios de selección de sitios de Woodfine. Los criterios son: co-ubicación en o inmediatamente adyacente a un ancla de [[power-centres|Centro Comercial]] en operación; terreno suficiente para acomodar las combinaciones de Prototipo requeridas en una configuración de Diseño Campus; y estado de permiso y zonificación aceptable para el desarrollo previsto dentro de un plazo factible.
+Una **Inversión Calificada** es un sitio de desarrollo que satisface todos los criterios de selección de sitios de Woodfine. Los criterios son: co-ubicación en o inmediatamente adyacente a un ancla de [[power-centres|Power Centre]] en operación; terreno suficiente para acomodar las combinaciones de Prototipo requeridas en una configuración de Diseño Campus; y estado de permiso y zonificación aceptable para el desarrollo previsto dentro de un plazo factible.
 
-El criterio de co-ubicación es la condición determinante: un sitio sin un ancla de Centro Comercial no califica para análisis posterior bajo la metodología de Woodfine, independientemente de su perfil demográfico o disponibilidad de terreno. Los sitios con requisitos de rezonificación que se extienden más allá de aproximadamente siete años no se contabilizan contra los totales de desarrollo requeridos, aunque pueden permanecer en el registro de identificación de sitios para referencia futura.
+El criterio de co-ubicación es la condición determinante: un sitio sin un ancla de Power Centre no califica para análisis posterior bajo la metodología de Woodfine, independientemente de su perfil demográfico o disponibilidad de terreno. Los sitios con requisitos de rezonificación que se extienden más allá de aproximadamente siete años no se contabilizan contra los totales de desarrollo requeridos, aunque pueden permanecer en el registro de identificación de sitios para referencia futura.
 
-## Centro Comercial
+## Power Centre
 
-Un **Centro Comercial** es un nodo minorista de gran formato anclado por uno o más Minoristas Nacionales que operan a escala institucional. En el contexto norteamericano, un Centro Comercial se caracteriza típicamente por edificios de gran planta y un solo piso con estacionamiento en superficie, anclado por al menos un minorista de buena reputación que opera una tienda de más de 5.574 metros cuadrados (60.000 pies cuadrados). En contextos europeos y latinoamericanos, el formato equivalente varía por jurisdicción. En todas las jurisdicciones, el criterio relevante es si un ancla de Minorista Nacional está operando a escala institucional en o adyacente al Sitio de Desarrollo.
+Un **Power Centre** es un nodo minorista de gran formato anclado por uno o más Minoristas Nacionales que operan a escala institucional. En el contexto norteamericano, un Power Centre se caracteriza típicamente por edificios de gran planta y un solo piso con estacionamiento en superficie, anclado por al menos un minorista de buena reputación que opera una tienda de más de 5.574 metros cuadrados (60.000 pies cuadrados). En contextos europeos y latinoamericanos, el formato equivalente varía por jurisdicción. En todas las jurisdicciones, el criterio relevante es si un ancla de Minorista Nacional está operando a escala institucional en o adyacente al Sitio de Desarrollo.
 
 ## Diseño Campus
 
