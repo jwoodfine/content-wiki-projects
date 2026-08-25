@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-05-25
+last_edited: 2026-08-25
 editor: pointsav-engineering
 short_description: "Las estimaciones de población de WorldPop 2026 y los proxies de gasto per cápita anuales de encuestas nacionales de hogares sustentan las estadísticas de área de influencia para cada cluster de co-ubicación."
 paired_with: gis/trade-area-data-sources.md
@@ -31,7 +31,7 @@ Las estimaciones de población se obtienen de la **rejilla de población de 100 
 
 ### Países cubiertos
 
-Estados Unidos, Canadá, México, Gran Bretaña, Alemania, Francia, Países Bajos, Austria, Portugal, Grecia, Dinamarca, Islandia y Polonia — 13 países según la versión actual del proceso.
+Estados Unidos, Canadá, México, Gran Bretaña, Alemania, Francia, Países Bajos, Austria, Portugal, Grecia, Dinamarca, Islandia y Polonia — 13 países según la versión actual del proceso. Este es el conjunto con multiplicadores de gasto per cápita publicados. Es un subconjunto de la huella de co-ubicación más amplia de la plataforma, que abarca 24 países según la ejecución de procesamiento completa más reciente (2026-08-06). Véase [[co-location-intelligence-overview]] para la cobertura completa por país.
 
 ## Datos de gasto
 

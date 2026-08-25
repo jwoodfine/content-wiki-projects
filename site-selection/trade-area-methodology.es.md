@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-07-31
+last_edited: 2026-08-25
 editor: pointsav-engineering
 short_description: "Etiquetado honesto de la geografía de demanda — por qué las bandas de distancia rectilínea nunca se llaman áreas de captación, y el paso previsto a isócronas."
 paired_with: site-selection/trade-area-methodology.md
@@ -74,7 +74,7 @@ El modal de Metodología incluye la advertencia: *"Las distancias y áreas se ca
 
 ## Marco espacial
 
-La población y el gasto se agregan en la cuadrícula hexagonal global H3 a resolución 7 (aproximadamente 5,16 km² por celda, aproximadamente 2,11 km de centro a centro). La cuadrícula es mundial y consistente, lo que permite la comparación entre clústeres de los 13 países. Esta revisión no cambia la cuadrícula de agregación; cambia cómo se define el polígono de área de atracción sobre esa cuadrícula — por origen observado o tiempo de conducción donde los datos lo permiten, y por una banda de distancia claramente etiquetada y calculada geodésicamente donde aún no.
+La población y el gasto se agregan en la cuadrícula hexagonal global H3 a resolución 7 (aproximadamente 5,16 km² por celda, aproximadamente 2,11 km de centro a centro). La cuadrícula es mundial y consistente, lo que permite la comparación entre clústeres de los 13 países con multiplicadores de gasto per cápita publicados (véase [[spend-population-provenance]] para la cobertura completa). Esta revisión no cambia la cuadrícula de agregación; cambia cómo se define el polígono de área de atracción sobre esa cuadrícula — por origen observado o tiempo de conducción donde los datos lo permiten, y por una banda de distancia claramente etiquetada y calculada geodésicamente donde aún no.
 
 Una sola celda H3 puede caer dentro de las áreas de atracción de varios clústeres. Esto es intencional: las áreas de atracción se superponen porque el panorama minorista es competitivo, y un hogar cercano a dos clústeres en competencia contribuye a ambos. Esto se cumple ya sea que el límite sea una banda de distancia, una isócrona o un polígono de O-D, y es la base de la comparación entre clústeres.
 

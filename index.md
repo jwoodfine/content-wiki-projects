@@ -3,7 +3,7 @@ schema: foundry-doc-v1
 content_type: page
 title: "Woodfine Capital Projects — Co-location Intelligence Platform"
 slug: index
-short_description: "MCorp's retail co-location intelligence platform — spatial methodologies, ranking algorithms, and regional deployment indices across 8 retail markets spanning 13 countries, with 6,493 scored clusters from 229,054 locations analyzed as of May 2026."
+short_description: "MCorp's retail co-location intelligence platform — spatial methodologies, ranking algorithms, and regional deployment indices spanning North America and Europe, with 7,567 co-location clusters scored across 24 countries as of the most recent full processing run (2026-08-06)."
 category: root
 status: active
 bcsc_class: current-fact
@@ -24,8 +24,9 @@ North America and Europe. The strategy identifies sites by the convergence of in
 retail capital — the same objective demand signal used by warehouse clubs, home-improvement
 superstores, and general merchandise chains in their own site-selection processes.
 
-The co-location intelligence platform has scored 6,493 clusters from 229,054 retail locations
-across 8 markets spanning 13 countries. This encyclopedia is the methodology reference for
+As of the most recent full processing run (2026-08-06), the co-location intelligence platform
+has scored 7,567 clusters across 24 countries spanning North America and Europe. This
+encyclopedia is the methodology reference for
 the [[co-location-ranking-system|ranking algorithm]], [[asset-architecture-standard|asset
 architecture]] standards, and the [[co-location-tier-system|co-location tier system]] applied
 across North America and Europe.

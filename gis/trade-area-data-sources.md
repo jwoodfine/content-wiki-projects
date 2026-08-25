@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-05-25
+last_edited: 2026-08-25
 editor: pointsav-engineering
 short_description: "Population estimates from WorldPop 2026 and annual per-capita spend proxies from national household surveys underpin the trade area statistics for each co-location cluster."
 paired_with: gis/trade-area-data-sources.es.md
@@ -35,7 +35,7 @@ Population estimates are sourced from the **WorldPop 2026 100-metre population g
 
 ### Countries covered
 
-United States, Canada, Mexico, Great Britain, Germany, France, Netherlands, Austria, Portugal, Greece, Denmark, Iceland, and Poland — 13 countries as of the current pipeline version.
+United States, Canada, Mexico, Great Britain, Germany, France, Netherlands, Austria, Portugal, Greece, Denmark, Iceland, and Poland — 13 countries as of the current pipeline version. This is the set with published per-capita spend multipliers. It is a subset of the platform's broader co-location footprint, which spans 24 countries as of the most recent full processing run (2026-08-06). See [[co-location-intelligence-overview]] for full country coverage.
 
 ## Spend Data
 

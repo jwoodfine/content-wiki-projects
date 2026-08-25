@@ -15,9 +15,12 @@
 # carry quantitative or scarcity signal that frames a deal-relevant pattern.
 #
 # Updated: 2026-05-09 by project-editorial Task — initial publication
+# Revised: 2026-08-25 by project-editorial Task — corrected stale cluster/location/
+#   country counts against live project-gis pipeline data (see reference-invariants.yaml
+#   revision of the same date for the verification trail)
 
 facts:
-  - text: "The platform evaluates 7,594 co-location clusters from 229,054 retail locations — the complete North American and European retail footprint across 13 countries."
+  - text: "The platform evaluates 7,567 co-location clusters across 24 countries — the current North American and European retail footprint, as of the most recent full processing run (2026-08-06)."
     link_slug: topic-co-location-intelligence-overview
 
   - text: "Tier 5 sites in North America represent only 3.7% of total anchor locations, well below the 10% calibration threshold that would trigger secondary-radius tightening."

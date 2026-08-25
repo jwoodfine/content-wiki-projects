@@ -25,7 +25,9 @@ El mapa de inteligencia de ubicación de Woodfine organiza los clústeres de co-
 
 La canalización resuelve cada clúster de co-ubicación a un polígono municipal incorporado o CSD mediante una asignación de punto en polígono contra archivos de límites TIGER 2023 para EE. UU., GISCO LAU 2021 más GADM GBR para la UE y el Reino Unido. Un asentamiento se convierte en objeto de Mercado Regional en el momento en que **una** co-ubicación cae dentro de su polígono.
 
-Bajo esta regla permisiva, en la compilación del 2026-05-22, la canalización produce aproximadamente **3.011 asentamientos** (América del Norte y UE/RU) con presencia de co-ubicación, de los cuales **2.986** se publican en `regional-markets.json` del gateway y **2.942** llevan la bandera de geocodificación de alta confianza.
+Bajo esta regla permisiva, en la compilación del 2026-05-22, la canalización produjo aproximadamente **3.011 asentamientos** (América del Norte y UE/RU) con presencia de co-ubicación, de los cuales **2.986** se publicaron en `regional-markets.json` del gateway y **2.942** llevaban la bandera de geocodificación de alta confianza.
+
+La cobertura ha crecido sustancialmente desde esa compilación. Según la ejecución de procesamiento completa más reciente (2026-08-06), `regional-markets.json` en vivo lleva **12.689** objetos del Mercado Regional en **24 países**. De ellos, **12.578** — cerca del 99% — llevan la bandera de alta confianza. La regla permisiva en sí no ha cambiado; el crecimiento refleja la expansión del conjunto de datos, no un cambio de umbral.
 
 Eso es una estadística de cobertura. Registra cuán ampliamente se observan las cadenas de ancla rastreadas. No identifica dónde se concentra realmente la demanda minorista.
 
@@ -48,7 +50,7 @@ La separación de objetos que sigue se mantiene — un catálogo de cobertura pe
 ### Asentamiento con presencia de co-ubicación
 
 - **Definición.** Cualquier polígono municipal incorporado o CSD que contenga al menos una co-ubicación.
-- **Conteo.** Los aproximadamente 3.011 completos (NA más UE/RU). Declarado como estadística de cobertura.
+- **Conteo.** 12.689 según la ejecución de procesamiento completa más reciente (2026-08-06; NA más UE/RU). Declarado como estadística de cobertura con el glosario honesto: *"12.689 asentamientos en 24 países contienen al menos una co-ubicación observada, según la ejecución de procesamiento completa más reciente."*
 - **Función.** Mapa de cobertura, reclamación de huella, y el conjunto base del cual se extrae el objeto más estricto. No el conteo titular del mercado.
 
 ### Mercado Regional
@@ -75,7 +77,8 @@ El Mercado Metro es un contenedor contextual más grueso: un área metropolitana
 |---|---|---|---|
 | Asentamientos con presencia de co-ubicación | ≥1 co-ubicación en polígono | ~3.011 (NA + UE/RU, compilación 2026-05-22) | Cobertura y huella |
 | Mercados Regionales (umbral basado en niveles, recomendación corregida) | ≥1 clúster T1 | Por re-derivar en la adopción | Co-ubicación concentrada, admitiendo correctamente los mercados de un solo clúster fuerte |
-| Objetos RM publicados (gateway, compilación posterior) | Regla permisiva (≥1 co-ubicación), sin cambios | 4.436 (compilación 2026-05-30, 18 países — véase [[about-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]]) | Cobertura; crecida por expansión de datos, no por un cambio de umbral |
+| Objetos RM publicados (gateway, compilación 2026-05-30) | Regla permisiva (≥1 co-ubicación), sin cambios | 4.436 (compilación 2026-05-30, 18 países — véase [[about-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]]) | Cobertura; crecida por expansión de datos, no por un cambio de umbral |
+| Objetos RM publicados (gateway, ejecución de procesamiento más reciente) | Regla permisiva (≥1 co-ubicación), sin cambios | 12.689 (compilación 2026-08-06, 24 países) | Cobertura; crecida por expansión de datos, no por un cambio de umbral |
 | Top-400 co-ubicaciones (por región) | Condiciones de composición (puntuación interna, no publicada) | 400 NA + 400 UE | Sitios candidatos calificados, no una lista clasificada; adoptada según la recomendación anterior |
 | Co-ubicaciones NA (DBSCAN) | eps/minPts/IoU — sensible | 226–476 en el barrido de parámetros | Conteo de clústeres (descriptivo) |
 

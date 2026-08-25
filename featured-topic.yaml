@@ -11,7 +11,7 @@
 # Q1 — Flagship methodology (3 weeks):
 #   1. co-location-ranking-system          — deterministic site-tier index; scarcity of the highest-tier sites in the current dataset
 #   2. co-location-methodology             — Named-Anchor Model; rejects analyst forecasts
-#   3. co-location-intelligence-overview   — 7,594 clusters from 229,054 locations across 13 countries
+#   3. co-location-intelligence-overview   — 7,567 clusters across 24 countries (NA + Europe)
 #
 # Q2 — Governance & risk control (4 weeks):
 #   4. asset-architecture-standard         — concrete-and-steel; eliminates design variance
@@ -33,7 +33,7 @@
 #  16. co-location-index-poland            — central Europe high-growth; post-EU-accession
 #
 # Recurring thematic (rotates back at quarter boundaries):
-#  17. regional-market-matrix              — why 8 markets qualify; objective current-state criteria
+#  17. regional-market-matrix              — why each Regional Market qualifies; objective current-state criteria
 #
 # Operator advances the pin weekly by editing the slug line below.
 

@@ -9,5 +9,5 @@ items:
     link_slug: topic-tier-index-north-america
   - text: "European Tier 5 count: 0. The absence reflects data maturity gaps in tertiary healthcare and higher-education infrastructure, not market weakness."
     link_slug: topic-tier-index-europe
-  - text: "7,594 co-location clusters validated from 229,054 retail locations across 8 markets and 13 countries."
+  - text: "7,567 co-location clusters validated across 24 countries spanning North America and Europe, as of the most recent full processing run (2026-08-06)."
     link_slug: topic-co-location-intelligence-overview

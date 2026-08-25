@@ -3,7 +3,7 @@ schema: foundry-doc-v1
 content_type: page
 title: "Woodfine Capital Projects — Plataforma de Inteligencia de Co-ubicación"
 slug: index
-short_description: "Plataforma de inteligencia de coubicación minorista de MCorp — metodologías espaciales, algoritmos de clasificación, e índices de despliegue regional en 8 mercados minoristas abarcando 13 países, con 7.594 clusters puntuados a partir de 229.054 ubicaciones analizadas."
+short_description: "Plataforma de inteligencia de coubicación minorista de MCorp — metodologías espaciales, algoritmos de clasificación, e índices de despliegue regional en América del Norte y Europa, con 7.567 clusters de co-ubicación puntuados en 24 países según la ejecución de procesamiento completa más reciente (2026-08-06)."
 lang: es
 paired_with: index.md
 category: root
@@ -27,9 +27,10 @@ de capital minorista independiente — la misma señal de demanda objetiva que u
 de almacén, las ferreterías de gran superficie y los minoristas de mercancía general en sus
 propios procesos de selección de sitios.
 
-La plataforma de inteligencia de co-localización ha evaluado 6.493 clusters a partir de 229.054
-ubicaciones minoristas en 8 mercados que abarcan 13 países. Esta enciclopedia es la referencia
-metodológica para el [[co-location-ranking-system|algoritmo de clasificación]], los estándares
+Según la ejecución de procesamiento completa más reciente (2026-08-06), la plataforma de
+inteligencia de co-localización ha evaluado 7.567 clusters en 24 países de América del Norte
+y Europa. Esta enciclopedia es la referencia metodológica para el
+[[co-location-ranking-system|algoritmo de clasificación]], los estándares
 de [[asset-architecture-standard|arquitectura de activos]] y el [[co-location-tier-system|sistema
 de niveles de co-ubicación]] aplicado en América del Norte y Europa.
 La plataforma está disponible en gis.woodfinegroup.com.

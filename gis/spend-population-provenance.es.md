@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-07-31
+last_edited: 2026-08-25
 editor: pointsav-engineering
 short_description: "Cadena de procedencia de las estimaciones de población y gasto — rásteres WorldPop, agregación H3 y multiplicadores per cápita, con sus debilidades declaradas."
 paired_with: gis/spend-population-provenance.md
@@ -63,7 +63,7 @@ MAUP no es un defecto por corregir; es una propiedad inherente de cualquier agre
 
 ## Confianza y cómo se muestra
 
-La canalización ya calcula una **bandera de confianza** por mercado en `regional-markets.json`. Esta bandera es una función de la calidad de la [[regional-name-resolution-architecture|resolución del nombre regional]], no de la calidad de ingestión de datos POI o censales. Se degrada específicamente donde el proceso de resolución de nombres recurre a un nombre de límite administrativo en lugar de resolver un nombre de lugar coloquial a nivel de asentamiento. En la compilación del 2026-05-22, 2.942 de 2.986 objetos del Mercado Regional llevaban la bandera de alta confianza. A pesar de esto, la bandera aún no se representa en ningún lugar — el mapa dibuja cada clúster con opacidad completa y un marcador idéntico.
+La canalización ya calcula una **bandera de confianza** por mercado en `regional-markets.json`. Esta bandera es una función de la calidad de la [[regional-name-resolution-architecture|resolución del nombre regional]], no de la calidad de ingestión de datos POI o censales. Se degrada específicamente donde el proceso de resolución de nombres recurre a un nombre de límite administrativo en lugar de resolver un nombre de lugar coloquial a nivel de asentamiento. En la compilación del 2026-05-22, 2.942 de 2.986 objetos del Mercado Regional llevaban la bandera de alta confianza. La cobertura ha crecido sustancialmente desde entonces. Según la ejecución de procesamiento completa más reciente (2026-08-06), `regional-markets.json` en vivo lleva 12.689 objetos del Mercado Regional en 24 países. De ellos, 12.578 — cerca del 99% — llevan la bandera de alta confianza. La lógica de resolución no ha cambiado; el crecimiento refleja la expansión del conjunto de datos, no un cambio de regla. A pesar de esto, la bandera aún no se representa en ningún lugar — el mapa dibuja cada clúster con opacidad completa y un marcador idéntico.
 
 La intención cartográfica es hacer de la confianza un canal visual en el punto del nivel:
 
@@ -102,7 +102,10 @@ por separado de la línea de procedencia.
 
 Estados Unidos, Canadá, México, Gran Bretaña, Alemania, Francia, Países Bajos, Austria,
 Portugal, Grecia, Dinamarca, Islandia y Polonia — 13 países en la versión actual de la
-canalización.
+canalización. Este es el conjunto con multiplicadores de gasto per cápita publicados. Es un
+subconjunto de la huella de co-ubicación más amplia de la plataforma, que abarca 24 países
+según la ejecución de procesamiento completa más reciente (2026-08-06). Véase [[co-location-intelligence-overview]]
+para la cobertura completa por país.
 
 ### Multiplicadores de gasto per cápita anual
 

@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-03
+last_edited: 2026-08-25
 editor: pointsav-engineering
 short_description: "Provenance chain behind catchment population and spend estimates — WorldPop rasters, H3 aggregation, and per-capita multipliers, with their stated weaknesses."
 paired_with: gis/spend-population-provenance.es.md
@@ -69,7 +69,7 @@ MAUP is not a defect to be fixed; it is an inherent property of any areal aggreg
 
 The pipeline already computes a per-market **confidence flag** in `regional-markets.json`. This flag is a function of [[regional-name-resolution-architecture|regional name-resolution]] quality, not POI or census data-ingestion quality. It is downgraded specifically where the name-resolution pipeline falls back to an administrative boundary name rather than resolving a colloquial, settlement-level place name.
 
-At the 2026-05-22 build, 2,942 of 2,986 Regional Market objects carried the high-confidence flag. Despite this, the flag is not yet rendered anywhere — the map draws every cluster at full opacity with an identical marker, so a lower-confidence estimate is visually indistinguishable from a higher-confidence one.
+At the 2026-05-22 build, 2,942 of 2,986 Regional Market objects carried the high-confidence flag. Coverage has grown substantially since. As of the most recent full processing run (2026-08-06), the live `regional-markets.json` carries 12,689 Regional Market objects across 24 countries. Of those, 12,578 — about 99% — carry the high-confidence flag. The resolution logic is unchanged; the growth reflects dataset expansion, not a rule change. Despite this, the flag is not yet rendered anywhere — the map draws every cluster at full opacity with an identical marker, so a lower-confidence estimate is visually indistinguishable from a higher-confidence one.
 
 ### How confidence is intended to be encoded
 
@@ -108,7 +108,7 @@ OpenStreetMap attribution is a licence obligation under ODbL and remains present
 
 ### Countries covered
 
-United States, Canada, Mexico, Great Britain, Germany, France, Netherlands, Austria, Portugal, Greece, Denmark, Iceland, and Poland — 13 countries at the current pipeline version.
+United States, Canada, Mexico, Great Britain, Germany, France, Netherlands, Austria, Portugal, Greece, Denmark, Iceland, and Poland — 13 countries at the current pipeline version. This is the set with published per-capita spend multipliers. It is a subset of the platform's broader co-location footprint, which spans 24 countries as of the most recent full processing run (2026-08-06). See [[co-location-intelligence-overview]] for full country coverage.
 
 ### Per-capita annual spend multipliers
 

@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-03
+last_edited: 2026-08-25
 editor: pointsav-engineering
 short_description: "Honest labelling of demand geography — why straight-line distance bands are never called catchments, and the planned move to isochrones and observed origins."
 paired_with: site-selection/trade-area-methodology.es.md
@@ -70,7 +70,7 @@ The map renders in Web Mercator (EPSG:3857). Web Mercator preserves shape locall
 
 The methodology therefore computes distances and areas geodesically:
 
-- Distance tests use the haversine (great-circle) distance between geographic coordinates, consistent across all 13 countries and both the North American and European frames.
+- Distance tests use the haversine (great-circle) distance between geographic coordinates. The method is consistent across the platform's full co-location footprint (24 countries as of the most recent full processing run, 2026-08-06) and both the North American and European frames.
 - Polygon construction uses metric geodesic buffers — turf's metric buffer builds geometry in true ground distance and projects to Web Mercator only for display, so the rendered polygon is the correct ground shape even though it appears as a latitude-stretched oval on screen.
 - Area figures — catchment area, density per square kilometre — are computed on the geodesic polygon, not from screen pixels.
 
@@ -78,7 +78,7 @@ The Method modal carries the caveat: *"Distances and areas are computed on the e
 
 ## Spatial framework
 
-Population and spend are aggregated on the H3 global hexagonal grid at resolution 7 (approximately 5.16 km² per cell, approximately 2.11 km centre-to-centre). The grid is worldwide and consistent, which supports cross-cluster comparison across all 13 countries. This revision does not change the aggregation grid; it changes how the trade-area polygon over that grid is defined — by observed origin or drive-time where data allows, and by a clearly-labelled, geodesically-computed distance band where it does not yet.
+Population and spend are aggregated on the H3 global hexagonal grid at resolution 7 (approximately 5.16 km² per cell, approximately 2.11 km centre-to-centre). The grid is worldwide and consistent, which supports cross-cluster comparison across the 13 countries with published per-capita spend multipliers (see [[spend-population-provenance]] for full coverage detail). This revision does not change the aggregation grid; it changes how the trade-area polygon over that grid is defined — by observed origin or drive-time where data allows, and by a clearly-labelled, geodesically-computed distance band where it does not yet.
 
 A single H3 cell may fall inside the trade areas of several clusters. This is intentional: trade areas overlap because the retail landscape is competitive, and a household near two competing clusters contributes to both. This holds whether the boundary is a distance band, an isochrone, or an O-D polygon, and it underpins the cross-cluster comparison.
 

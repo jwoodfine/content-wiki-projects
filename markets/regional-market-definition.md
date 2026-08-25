@@ -25,7 +25,9 @@ The Woodfine location intelligence map organises co-location clusters into two s
 
 The pipeline resolves each co-location cluster to an incorporated municipal or CSD polygon via a point-in-polygon assignment against TIGER 2023 places for the US, GISCO LAU 2021 plus GADM GBR for the EU and UK, with rural co-locations resolving to their containing municipality. A settlement becomes a Regional Market object the moment **one** co-location falls inside its polygon.
 
-Under this permissive rule, the count of Regional Market objects approximates the count of distinct settlements that contain any co-location at all. At the 2026-05-22 build, the pipeline produces approximately **3,011 settlements** (North America and EU/UK) with co-location presence. Of those, **2,986** are published in the gateway's `regional-markets.json` and **2,942** carry the high-confidence geocoding flag.
+Under this permissive rule, the count of Regional Market objects approximates the count of distinct settlements that contain any co-location at all. At the 2026-05-22 build, the pipeline produced approximately **3,011 settlements** (North America and EU/UK) with co-location presence. Of those, **2,986** were published in the gateway's `regional-markets.json` and **2,942** carried the high-confidence geocoding flag.
+
+Coverage has grown substantially since that build. As of the most recent full processing run (2026-08-06), the live `regional-markets.json` carries **12,689** Regional Market objects across **24 countries**. Of those, **12,578** — about 99% — carry the high-confidence flag. The permissive rule itself is unchanged; the growth reflects dataset expansion, not a floor change.
 
 That is a coverage statistic. It records how widely the tracked anchor chains are observed. It does not identify where retail demand actually concentrates. A floor of one co-location admits every town with a single qualifying co-location on exactly the same terms as a metropolitan area with dozens.
 
@@ -48,7 +50,7 @@ The object split below still holds. A permissive coverage catalog is a legitimat
 ### Settlement with co-location presence
 
 - **Definition.** Any incorporated municipal or CSD polygon that contains at least one co-location.
-- **Count.** The full approximately 3,011 (NA plus EU/UK). Stated as a coverage statistic with the honest gloss: *"3,011 settlements across 13 countries contain at least one observed retail co-location."*
+- **Count.** 12,689 as of the most recent full processing run (2026-08-06; NA plus EU/UK). Stated as a coverage statistic with the honest gloss: *"12,689 settlements across 24 countries contain at least one observed co-location, as of the most recent full processing run."*
 - **Role.** Coverage map, footprint claim, and the base set from which the tighter object is drawn. Not the headline market count.
 
 ### Regional Market
@@ -85,7 +87,8 @@ Every count below is reported with the rule that produced it. Figures are as of 
 |---|---|---|---|
 | Settlements with co-location presence | ≥1 co-location in polygon | ~3,011 (NA + EU/UK, 2026-05-22 build) | Coverage and footprint |
 | Regional Markets (tier-based floor, corrected recommendation) | ≥1 T1 cluster | To be re-derived on adoption | Concentrated co-location, correctly admitting single-strong-cluster markets |
-| Published RM objects (gateway, later build) | Permissive rule (≥1 co-location), unchanged | 4,436 (2026-05-30 build, 18 countries — see [[about-regional-markets-system|Regional Markets Intelligence System]]) | Coverage; grown by dataset expansion, not by a floor change |
+| Published RM objects (gateway, 2026-05-30 build) | Permissive rule (≥1 co-location), unchanged | 4,436 (2026-05-30 build, 18 countries — see [[about-regional-markets-system|Regional Markets Intelligence System]]) | Coverage; grown by dataset expansion, not by a floor change |
+| Published RM objects (gateway, most recent full processing run) | Permissive rule (≥1 co-location), unchanged | 12,689 (2026-08-06 build, 24 countries) | Coverage; grown by dataset expansion, not by a floor change |
 | Top-400 co-locations (per region) | Composition gates (internal score, not published) | 400 NA + 400 EU | Qualifying candidate sites, not a ranked list; adopted per the recommendation above |
 | NA co-locations (DBSCAN) | eps/minPts/IoU — sensitive | 226–476 across parameter sweep | Cluster count (descriptive) |
 
