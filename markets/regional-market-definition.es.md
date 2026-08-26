@@ -25,9 +25,9 @@ El mapa de inteligencia de ubicación de Woodfine organiza los clústeres de co-
 
 La canalización resuelve cada clúster de co-ubicación a un polígono municipal incorporado o CSD mediante una asignación de punto en polígono contra archivos de límites TIGER 2023 para EE. UU., GISCO LAU 2021 más GADM GBR para la UE y el Reino Unido. Un asentamiento se convierte en objeto de Mercado Regional en el momento en que **una** co-ubicación cae dentro de su polígono.
 
-Bajo esta regla permisiva, en la compilación del 2026-05-22, la canalización produjo aproximadamente **3.011 asentamientos** (América del Norte y UE/RU) con presencia de co-ubicación, de los cuales **2.986** se publicaron en `regional-markets.json` del gateway y **2.942** llevaban la bandera de geocodificación de alta confianza.
+Bajo esta regla permisiva, en la compilación del 2026-05-22, la canalización produjo aproximadamente **3.011 asentamientos** (América del Norte y UE/RU) con presencia de co-ubicación, de los cuales **2.986** se publicaron en el conjunto de datos en vivo y **2.942** llevaban la bandera de geocodificación de alta confianza.
 
-La cobertura ha crecido sustancialmente desde esa compilación. Según la ejecución de procesamiento completa más reciente (2026-08-06), `regional-markets.json` en vivo lleva **12.689** objetos del Mercado Regional en **24 países**. De ellos, **12.578** — cerca del 99% — llevan la bandera de alta confianza. La regla permisiva en sí no ha cambiado; el crecimiento refleja la expansión del conjunto de datos, no un cambio de umbral.
+La cobertura ha crecido sustancialmente desde esa compilación. Según la ejecución de procesamiento completa más reciente (2026-08-06), el conjunto de datos en vivo lleva **12.689** objetos del Mercado Regional en **24 países**. De ellos, **12.578** — cerca del 99% — llevan la bandera de alta confianza. La regla permisiva en sí no ha cambiado; el crecimiento refleja la expansión del conjunto de datos, no un cambio de umbral.
 
 Eso es una estadística de cobertura. Registra cuán ampliamente se observan las cadenas de ancla rastreadas. No identifica dónde se concentra realmente la demanda minorista.
 
@@ -39,7 +39,7 @@ Dos modos de falla se derivan de confundir cobertura con mercado:
 
 **El conteo parece un artefacto del umbral, no de la geografía.** Un revisor puede mover el conteo hacia arriba o hacia abajo simplemente argumentando el umbral, lo cual es la señal clásica de que el umbral — no los datos — está haciendo el trabajo.
 
-`mkt_conf` es precisión de geocodificación — específicamente la calidad de la asignación de límites — no calidad del mercado, y no debe presentarse como una clasificación o señal de calidad.
+El campo de confianza de geocodificación es precisión de geocodificación — específicamente la calidad de la asignación de límites — no calidad del mercado, y no debe presentarse como una clasificación o señal de calidad.
 
 ## Umbrales de composición: composición de anclas, no conteo
 
@@ -88,5 +88,3 @@ El Mercado Metro es un contenedor contextual más grueso: un área metropolitana
 - [[co-location-tiering-scoring]] — cómo se calculan los niveles y el puntaje de fortaleza planeado para cada co-ubicación dentro de un Mercado Regional
 - [[trade-area-methodology]] — cómo se define el área de atracción para cada co-ubicación
 - [[spend-population-provenance]] — la cadena de estimación para las cifras de población y gasto
-
-`app-orchestration-gis`, la aplicación de orquestación GIS de la plataforma, es la capa que resuelve las co-ubicaciones en Mercados Regionales.

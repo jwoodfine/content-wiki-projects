@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: pointsav-engineering
 short_description: "Las estimaciones de población de WorldPop 2026 y los proxies de gasto per cápita anuales de encuestas nacionales de hogares sustentan las estadísticas de área de influencia para cada cluster de co-ubicación."
 paired_with: gis/trade-area-data-sources.md
@@ -27,7 +27,7 @@ Las estimaciones de población se obtienen de la **rejilla de población de 100 
 
 1. **Filtro espacial:** Solo se conservan las celdas de la rejilla situadas a menos de 150 km de al menos un centroide de cluster de co-ubicación, reduciendo el volumen de datos en aproximadamente un 80%.
 2. **Agregación H3:** Las celdas conservadas se asignan a su hexágono H3 de resolución 7 correspondiente y se suman los valores de población.
-3. **Salida:** `census-h3-res7.jsonl` — un registro por celda H3 con campos `{h3, lat, lon, pop, iso}`.
+3. **Salida:** La población se agrega en un registro por celda H3, con las coordenadas, la población y el país de cada celda.
 
 ### Países cubiertos
 

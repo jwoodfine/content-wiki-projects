@@ -134,33 +134,6 @@ The AEC (architecture, engineering, construction) data layers add climate, regul
 | Seismic peak ground acceleration | USGS (United States) and EFEHR (Europe) | Re-run scheduled for 1 June 2026 |
 | Flood hazard | FEMA (United States) and EU JRC | Build scheduled for 31 May 2026 |
 
-## POI Data Schema
-
-The platform operates two record classes within its location data layer: service-business records (retail chains) and service-places records (civic anchors).
-
-**Service-business records.** Each record represents a single retail chain location and is identified by a `chain_id` linking to a chain configuration file and by a `brand_wikidata` field holding the Wikidata QID for the brand. The Wikidata QID is the canonical cross-source chain identifier because it is brand-level rather than name-level; two storefronts with different local-language spellings but the same QID belong to the same chain.
-
-**Service-places records.** Civic anchors — hospitals, universities, airports — ingested from Overture Maps using `taxonomy.primary` as the category filter.
-
-### Core fields and spatial deduplication
-
-**Shared core fields.**
-
-| Field | Type | Notes |
-|---|---|---|
-| `location_name` | string | Display name with category fallback |
-| `brand_wikidata` | string or null | Wikidata QID; null for civic places with no brand identity |
-| `street_address` | string or null | Freeform address |
-| `city` | string or null | Locality |
-| `region` | string or null | Province, state, or NUTS-3 region |
-| `iso_country_code` | string | ISO 3166-1 alpha-2 country code |
-| `latitude`, `longitude` | float | WGS 84, 7 decimal places |
-| `naics_code` | string | NAICS classification |
-| `source` | string | `osm` or `overture` |
-| `confidence` | float | OSM fixed 0.85; Overture from dataset |
-
-**Spatial deduplication.** Records within a 100-metre radius per chain are deduplicated, retaining the record with the most complete address fields. A second pass at 25 metres across different `chain_id` values sharing the same `brand_wikidata` QID identifies sub-format or co-branded stores.
-
 ## Catchment Model
 
 The catchment model assigns each cluster a primary and secondary trade area defined by crow-flies radius from the cluster centroid.

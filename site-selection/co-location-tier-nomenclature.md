@@ -11,16 +11,16 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: pointsav-engineering
-short_description: "The four tier labels — Regional, District, Local, Fringe — visible on the co-location map follow the International Council of Shopping Centres retail property hierarchy, providing a nomenclature that carries meaning independently of the platform itself. Sprint 17 (May 2026) introduced both the ICSC labels and the V3 pure-predicate tier engine."
+short_description: "The four tier labels — Regional, District, Local, Fringe — visible on the co-location map follow the International Council of Shopping Centres retail property hierarchy, providing a nomenclature that carries meaning independently of the platform itself. The ICSC labels and the current predicate-gate scoring system were introduced together in May 2026."
 paired_with: site-selection/co-location-tier-nomenclature.es.md
 cites:
   - ni-51-102
   - osc-sn-51-721
 ---
 
-The [[co-location-methodology|co-location index]] assigns each cluster to one of four tiers based on the categorical composition of its [[co-location-anchors|anchor]] and secondary stores and on the cluster's position within its national population catchment. The tier labels visible on the map and in the inspector panel — **Regional**, **District**, **Local**, **Fringe** — follow the International Council of Shopping Centres (ICSC) retail property hierarchy, which is used by property developers, planners, and retail analysts across the [[co-location-tier-system|North American and European markets]] the platform covers. The qualifying gates are defined in the [[catchment-ranking-methodology-v3|V3 catchment ranking methodology]] and the underlying scoring logic in the [[co-location-ranking-system|co-location ranking system]].
+The [[co-location-methodology|co-location index]] assigns each cluster to one of four tiers based on the categorical composition of its [[co-location-anchors|anchor]] and secondary stores and on the cluster's position within its national population catchment. The tier labels visible on the map — **Regional**, **District**, **Local**, **Fringe** — follow the International Council of Shopping Centres (ICSC) retail property hierarchy, which is used by property developers, planners, and retail analysts across the [[co-location-tier-system|North American and European markets]] the platform covers. The qualifying gates are defined in the [[catchment-ranking-methodology-v3|V3 catchment ranking methodology]] and the underlying scoring logic in the [[co-location-ranking-system|co-location ranking system]].
 
 ## What Each Tier Means
 
@@ -33,15 +33,15 @@ The [[co-location-methodology|co-location index]] assigns each cluster to one of
 
 ## Composition Chips
 
-Each cluster carries a composition descriptor displayed below the tier badge in the inspector. The descriptor names the anchor classes present, separated by "+": for example, "Hypermarket + Hardware + Warehouse" or "Lifestyle + Hypermarket". The four anchor classes are Hypermarket (general-merchandise stores: Walmart, Target, Mercadona, Tesco, Sainsbury's), Lifestyle (large-format home and furnishings: IKEA), Hardware (home improvement: Home Depot, Lowe's, Leroy Merlin), and Warehouse (membership warehouse clubs: Costco, Sam's Club, Makro). The full chain-to-family mapping is documented in the [[retail-brand-family-taxonomy|retail brand family taxonomy]].
+Each cluster carries a composition descriptor displayed below the tier badge. The descriptor names the anchor classes present, separated by "+": for example, "Hypermarket + Hardware + Warehouse" or "Lifestyle + Hypermarket". The four anchor classes are Hypermarket (general-merchandise stores: Walmart, Target, Mercadona, Tesco, Sainsbury's), Lifestyle (large-format home and furnishings: IKEA), Hardware (home improvement: Home Depot, Lowe's, Leroy Merlin), and Warehouse (membership warehouse clubs: Costco, Sam's Club, Makro). The full chain-to-family mapping is documented in the [[retail-brand-family-taxonomy|retail brand family taxonomy]].
 
 ## Naming History
 
 The tier labels have been renamed twice since the platform launched.
 
-**Sprint 9 (May 2026):** The original numeric labels (T3 Full Complement, T2 Retail Anchor, T0 Commercial Node, and variants) were replaced with plain-English nouns: Prime, Strong (Retail), Strong (Bulk), Strong (Hub), Core (Hyper), Core (Hardware), Core (Wholesale), Emerging. This resolved two readability failures: "+" ambiguity in compound descriptors, and the cognitive cost of mapping a tier number to a quality rank.
+**First rename (May 2026):** The original numeric labels (T3 Full Complement, T2 Retail Anchor, T0 Commercial Node, and variants) were replaced with plain-English nouns: Prime, Strong (Retail), Strong (Bulk), Strong (Hub), Core (Hyper), Core (Hardware), Core (Wholesale), Emerging. This resolved two readability failures: "+" ambiguity in compound descriptors, and the cognitive cost of mapping a tier number to a quality rank.
 
-**Sprint 17 (May 2026):** The Sprint 9 labels were replaced with the ICSC hierarchy: Regional, District, Local, Fringe. The motivation was alignment with an internationally recognised nomenclature that carries meaning without requiring platform-specific context. A planner who opens the inspector without reading documentation knows what "Regional" means; "Prime" required learning.
+**Second rename (May 2026):** The plain-English labels were replaced with the ICSC hierarchy: Regional, District, Local, Fringe. The motivation was alignment with an internationally recognised nomenclature that carries meaning without requiring platform-specific context. A planner who opens the map without reading documentation knows what "Regional" means; "Prime" required learning.
 
 **Correction (2026-08-02), partially resolved (2026-08-24):** two defects were
 flagged. (1) The real ICSC shopping-center hierarchy is Neighborhood/Community/
@@ -49,8 +49,8 @@ Regional/Super Regional — it has no "District," "Local," or "Fringe" tier; onl
 "Regional" is a genuine ICSC term. This point stands and is not resolved here; the
 platform's own naming choice, not this article's description of it, is the source
 of the imprecision. (2) This article's claim that the T1/T2/T3 numeric scheme was
-retired platform-wide is now confirmed accurate against the authoritative source
-(`SCORING-METHODOLOGY.md`, project-gis, V3, 2026-05-16): the Regional/District/
+retired platform-wide is now confirmed accurate against the system currently live
+at gis.woodfinegroup.com: the Regional/District/
 Local/Fringe tiers below are the current, live system. Two of the three sibling
 articles that previously contradicted this — [[gis-cluster-scoring-glossary|
 gis-cluster-scoring-glossary]] and [[co-location-ranking-system]] — have been
@@ -62,13 +62,13 @@ The Spanish-language equivalents are: Regional, Distrital, Local, Marginal.
 
 ## What Changed and What Did Not
 
-The Sprint 17 rename coincided with the introduction of the V3 pure-predicate tier engine. Before Sprint 17, tiers were assigned by a composite score (V2: base score + count bonus + diversity bonus + civic depth + overlap penalty). From Sprint 17 forward, tiers are assigned by binary gates: composition + national catchment rank + civic classification + spatial overlap limit. The gate definitions are described in the Catchment Ranking Methodology document.
+The second rename coincided with a change in how tiers are assigned. Previously, tiers were assigned by a composite score combining a base score with count, diversity, civic-depth, and overlap-penalty bonuses. Under the current system, tiers are assigned by binary gates: composition + national catchment rank + civic classification + spatial overlap limit. The gate definitions are described in the [[catchment-ranking-methodology-v3|catchment ranking methodology]] document.
 
-The tier names changed from Sprint 9 labels to ICSC labels. The tier assignment method changed from score-threshold to predicate-gate. Both changes shipped together in Sprint 17.
+The tier names changed from the plain-English labels to the ICSC labels. The tier assignment method changed from score-threshold to predicate-gate. Both changes shipped together.
 
-## Reading the Inspector Panel
+## Reading Tier Colours on the Map
 
-When a user selects a cluster on the map, the inspector panel displays the tier name as a large coloured badge. Below the badge, a muted composition chip names the anchor classes present.
+When a user selects a cluster on the map, the tier name displays as a large coloured badge. Below the badge, a muted composition chip names the anchor classes present.
 
 The badge colour encodes the hierarchy: dark navy for Regional, indigo for District, slate for Local, light grey for Fringe.
 

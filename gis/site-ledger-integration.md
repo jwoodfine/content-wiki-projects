@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-11
+last_edited: 2026-08-26
 editor: pointsav-engineering
 short_description: "Operational link binding each physical construction site to an isolated digital archive container, maintaining immutable audit records from groundbreak through commissioning."
 paired_with: gis/site-ledger-integration.es.md
@@ -34,9 +34,7 @@ Once committed, entries are immutable. A daily log for a given date cannot be ov
 
 ## Verifiable construction audits
 
-The accumulation of daily logs across the construction period constitutes a verifiable audit trail. An investor, a regulatory body, or a future buyer can reconstruct the development history from the ledger without relying on the developer's self-reported account. The records exist independently of the developer's ongoing custody.
-
-This transparency is a fiduciary output of the Fiduciary Data Mandate — the obligation to maintain mathematical ownership of investor-relevant data extends to construction records for assets held in the Direct-Hold portfolio.
+The accumulation of daily logs across the construction period constitutes a verifiable audit trail. An investor, a regulatory body, or a future buyer can reconstruct the development history from the ledger without relying on the developer's self-reported account. The records exist independently of the developer's ongoing custody, for assets held in the Direct-Hold portfolio.
 
 ## See also
 

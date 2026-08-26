@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: pointsav-engineering
 short_description: "Population estimates from WorldPop 2026 and annual per-capita spend proxies from national household surveys underpin the trade area statistics for each co-location cluster."
 paired_with: gis/trade-area-data-sources.es.md
@@ -31,7 +31,7 @@ Population estimates are sourced from the **WorldPop 2026 100-metre population g
 
 2. **H3 aggregation:** Retained cells are assigned to their containing H3 resolution-7 hexagon and population values are summed. H3 resolution-7 cells have an average area of 5.16 km².
 
-3. **Output:** `census-h3-res7.jsonl` — one record per H3 cell with fields `{h3, lat, lon, pop, iso}`.
+3. **Output:** Population is aggregated to one record per H3 cell, giving each cell's coordinates, population, and country.
 
 ### Countries covered
 
@@ -67,7 +67,7 @@ Multipliers are expressed in local currency. Cross-country spend comparisons req
 
 ### Processing pipeline
 
-Spend values are computed at the H3 resolution-7 level by multiplying each cell's aggregated population by the per-capita multipliers for its country. Output: `cleansed-spend-h3-res7.jsonl` — one record per H3 cell with fields `{h3, pop, spend_grocery, spend_hardware, spend_wholesale, currency}`.
+Spend values are computed at the H3 resolution-7 level by multiplying each cell's aggregated population by the per-capita multipliers for its country, producing one record per H3 cell with population and estimated spend by category (grocery, hardware, wholesale) in local currency.
 
 ## Catchment Aggregation
 

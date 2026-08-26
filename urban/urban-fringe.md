@@ -12,7 +12,7 @@ audience: vendor-public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
 language: en
-last_edited: 2026-08-24
+last_edited: 2026-08-26
 editor: pointsav-engineering
 paired_with: urban/urban-fringe.es.md
 short_description: "Urban Fringe (VWH) clusters identify large-format retail and distribution-industrial activity on the urban periphery — big-box hardware, home improvement, and logistics — one of three Location Intelligence co-location archetypes."
@@ -81,7 +81,7 @@ The T1/T2/T3 tier labels used here are shared with the other Location Intelligen
 
 ## Production dataset
 
-The VWH pipeline is production-grade. Hardware stores (10,338 locations across 45 chains) were profiled as proxy anchors; tier rules use group-collapse logic validated at 73.4% hardware co-location on T1+T2 clusters (against a 55% acceptance threshold).
+Urban Fringe classification is production-grade. Hardware stores (10,338 locations across 45 chains) were profiled as proxy anchors; tier rules use group-collapse logic validated at 73.4% hardware co-location on T1+T2 clusters (against a 55% acceptance threshold).
 
 **6,368 clusters** identified across the eighteen-country study geography. The largest
 contributors, by share of the total:
@@ -103,7 +103,7 @@ current source data.
 
 Tier distribution: T1 (Full Trade Hub) = 852 (13.4%), T2 (Established) = 1,327 (20.8%), T3 (Emerging / Thin) = 4,189 (65.8%). The T3-heavy distribution is expected: full trade hubs combining MRO, tool rental, builders merchant, and auto parts are legitimately rare.
 
-A `retail_contamination` flag marks clusters where a grocery hypermarket lies within 1 km of the centroid (3,048 clusters; 47.9%). These are dual-use commercial parks — valid Urban Fringe co-locations that also include grocery retail, common in Europe where industrial parks and retail parks share access roads.
+Clusters where a grocery hypermarket lies within 1 km of the centroid are flagged separately (3,048 clusters; 47.9%). These are dual-use commercial parks — valid Urban Fringe co-locations that also include grocery retail, common in Europe where industrial parks and retail parks share access roads.
 
 ## Related research
 

@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: pointsav-engineering
 short_description: "Las cuatro etiquetas de nivel — Regional, Distrital, Local, Marginal — visibles en el mapa de co-localización siguen la jerarquía de propiedades comerciales del Consejo Internacional de Centros Comerciales (ICSC), una nomenclatura internacionalmente reconocida que lleva significado propio sin necesidad de contexto específico de la plataforma."
 paired_with: site-selection/co-location-tier-nomenclature.md
@@ -20,7 +20,7 @@ cites:
   - osc-sn-51-721
 ---
 
-El [[co-location-methodology|índice de co-localización]] asigna cada clúster a uno de cuatro niveles en función de la composición categórica de sus [[co-location-anchors|anclas]] y tiendas secundarias, y de la posición del clúster dentro de la captación nacional de población. Las etiquetas visibles en el mapa y en el panel inspector — **Regional**, **Distrital**, **Local**, **Marginal** — siguen la jerarquía de propiedades del Consejo Internacional de Centros Comerciales (ICSC), utilizada por promotores inmobiliarios, planificadores y analistas de retail en los mercados de [[co-location-tier-system|América del Norte y Europa]] que cubre la plataforma. Las compuertas de calificación se definen en la [[catchment-ranking-methodology-v3|metodología V3 de clasificación de captación]] y la lógica de puntuación subyacente en el [[co-location-ranking-system|sistema de clasificación de co-ubicación]].
+El [[co-location-methodology|índice de co-localización]] asigna cada clúster a uno de cuatro niveles en función de la composición categórica de sus [[co-location-anchors|anclas]] y tiendas secundarias, y de la posición del clúster dentro de la captación nacional de población. Las etiquetas visibles en el mapa — **Regional**, **Distrital**, **Local**, **Marginal** — siguen la jerarquía de propiedades del Consejo Internacional de Centros Comerciales (ICSC), utilizada por promotores inmobiliarios, planificadores y analistas de retail en los mercados de [[co-location-tier-system|América del Norte y Europa]] que cubre la plataforma. Las compuertas de calificación se definen en la [[catchment-ranking-methodology-v3|metodología V3 de clasificación de captación]] y la lógica de puntuación subyacente en el [[co-location-ranking-system|sistema de clasificación de co-ubicación]].
 
 ## Qué significa cada nivel
 
@@ -33,19 +33,19 @@ El [[co-location-methodology|índice de co-localización]] asigna cada clúster 
 
 ## Descriptores de composición
 
-Cada clúster lleva un descriptor de composición que se muestra debajo de la insignia de nivel en el inspector. El descriptor nombra las clases de ancla presentes, separadas por "+": por ejemplo, "Hipermercado + Ferretería + Almacén" o "Estilo de Vida + Hipermercado". Las cuatro clases de ancla son: Hipermercado (tiendas de mercancías generales: Walmart, Target, Mercadona, Tesco, Sainsbury's), Estilo de Vida (hogar y decoración a gran escala: IKEA), Ferretería (mejoras para el hogar: Home Depot, Lowe's, Leroy Merlin) y Almacén (clubes de almacén por membresía: Costco, Sam's Club, Makro). El mapeo completo de cadenas a familias se documenta en la [[retail-brand-family-taxonomy|taxonomía de familias de marcas minoristas]].
+Cada clúster lleva un descriptor de composición que se muestra debajo de la insignia de nivel. El descriptor nombra las clases de ancla presentes, separadas por "+": por ejemplo, "Hipermercado + Ferretería + Almacén" o "Estilo de Vida + Hipermercado". Las cuatro clases de ancla son: Hipermercado (tiendas de mercancías generales: Walmart, Target, Mercadona, Tesco, Sainsbury's), Estilo de Vida (hogar y decoración a gran escala: IKEA), Ferretería (mejoras para el hogar: Home Depot, Lowe's, Leroy Merlin) y Almacén (clubes de almacén por membresía: Costco, Sam's Club, Makro). El mapeo completo de cadenas a familias se documenta en la [[retail-brand-family-taxonomy|taxonomía de familias de marcas minoristas]].
 
 ## Historia de la nomenclatura
 
 Las etiquetas de nivel han sido renombradas dos veces desde el lanzamiento de la plataforma.
 
-**Sprint 9 (mayo de 2026):** Las etiquetas numéricas originales (T3 Complemento Total, T2 Ancla Minorista, T0 Nodo Comercial, entre otras) fueron reemplazadas por sustantivos en lenguaje sencillo: Prime, Strong (Retail), Strong (Bulk), Strong (Hub), Core (Hyper), Core (Hardware), Core (Wholesale), Emerging. Esto resolvió dos problemas de legibilidad: la ambigüedad del "+" en los descriptores compuestos y el esfuerzo cognitivo de mapear un número de nivel a un rango de calidad.
+**Primer renombramiento (mayo de 2026):** Las etiquetas numéricas originales (T3 Complemento Total, T2 Ancla Minorista, T0 Nodo Comercial, entre otras) fueron reemplazadas por sustantivos en lenguaje sencillo: Prime, Strong (Retail), Strong (Bulk), Strong (Hub), Core (Hyper), Core (Hardware), Core (Wholesale), Emerging. Esto resolvió dos problemas de legibilidad: la ambigüedad del "+" en los descriptores compuestos y el esfuerzo cognitivo de mapear un número de nivel a un rango de calidad.
 
-**Sprint 17 (mayo de 2026):** Las etiquetas del Sprint 9 fueron reemplazadas por la jerarquía ICSC: Regional, Distrital, Local, Marginal. La motivación fue la alineación con una nomenclatura internacionalmente reconocida que lleva significado sin requerir contexto específico de la plataforma.
+**Segundo renombramiento (mayo de 2026):** Las etiquetas del primer renombramiento fueron reemplazadas por la jerarquía ICSC: Regional, Distrital, Local, Marginal. La motivación fue la alineación con una nomenclatura internacionalmente reconocida que lleva significado sin requerir contexto específico de la plataforma.
 
-## Lectura del panel inspector
+## Lectura de los colores de nivel en el mapa
 
-Cuando un usuario selecciona un clúster en el mapa, el panel inspector muestra el nombre del nivel como una insignia de gran tamaño. Debajo de la insignia, un descriptor de composición en tono apagado nombra las clases de ancla presentes.
+Cuando un usuario selecciona un clúster en el mapa, el nombre del nivel se muestra como una insignia de gran tamaño. Debajo de la insignia, un descriptor de composición en tono apagado nombra las clases de ancla presentes.
 
 El color de la insignia codifica la jerarquía: azul marino oscuro para Regional, índigo para Distrital, pizarra para Local, gris claro para Marginal.
 

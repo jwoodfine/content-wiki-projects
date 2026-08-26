@@ -11,9 +11,9 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-05-25
+last_edited: 2026-08-26
 editor: pointsav-engineering
-short_description: "La metodología V3 asigna cada clúster de co-localización a uno de cuatro niveles mediante compuertas de predicado binarias — composición, rango de captación nacional, clasificación cívica e independencia espacial — sustituyendo el sistema previo de puntuación compuesta introducido en Sprint 17 (mayo de 2026)."
+short_description: "La metodología V3 asigna cada clúster de co-localización a uno de cuatro niveles mediante compuertas de predicado binarias — composición, rango de captación nacional, clasificación cívica e independencia espacial — sustituyendo el sistema previo de puntuación compuesta (mayo de 2026)."
 paired_with: site-selection/catchment-ranking-methodology-v3.md
 cites:
   - osm-odbl
@@ -22,7 +22,7 @@ cites:
   - osc-sn-51-721
 ---
 
-El sistema de niveles de [[co-location-methodology|co-localización]] asigna cada clúster a uno de cuatro niveles — Regional, Distrital, Local o Marginal (etiquetados según la [[co-location-tier-nomenclature|nomenclatura de niveles]]) — mediante compuertas de predicado binarias en lugar de una puntuación compuesta. Un clúster debe superar todas las compuertas del conjunto correspondiente a un nivel para calificar para ese nivel; los resultados parciales no se acumulan. Esta metodología describe la implementación V3 introducida en el Sprint 17 (mayo de 2026). Complementa el [[co-location-ranking-system|sistema de clasificación determinista]] y toma sus insumos de área comercial de la [[od-catchment-methodology|metodología de captación O-D]] y de las [[trade-area-data-sources|fuentes de datos de áreas comerciales]].
+El sistema de niveles de [[co-location-methodology|co-localización]] asigna cada clúster a uno de cuatro niveles — Regional, Distrital, Local o Marginal (etiquetados según la [[co-location-tier-nomenclature|nomenclatura de niveles]]) — mediante compuertas de predicado binarias en lugar de una puntuación compuesta. Un clúster debe superar todas las compuertas del conjunto correspondiente a un nivel para calificar para ese nivel; los resultados parciales no se acumulan. Esta metodología describe la implementación actual, introducida en mayo de 2026. Complementa el [[co-location-ranking-system|sistema de clasificación determinista]] y toma sus insumos de área comercial de la [[od-catchment-methodology|metodología de captación O-D]] y de las [[trade-area-data-sources|fuentes de datos de áreas comerciales]].
 
 ## Por qué las compuertas de predicado reemplazan las puntuaciones compuestas
 

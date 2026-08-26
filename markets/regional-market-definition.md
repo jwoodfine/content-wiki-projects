@@ -25,9 +25,9 @@ The Woodfine location intelligence map organises co-location clusters into two s
 
 The pipeline resolves each co-location cluster to an incorporated municipal or CSD polygon via a point-in-polygon assignment against TIGER 2023 places for the US, GISCO LAU 2021 plus GADM GBR for the EU and UK, with rural co-locations resolving to their containing municipality. A settlement becomes a Regional Market object the moment **one** co-location falls inside its polygon.
 
-Under this permissive rule, the count of Regional Market objects approximates the count of distinct settlements that contain any co-location at all. At the 2026-05-22 build, the pipeline produced approximately **3,011 settlements** (North America and EU/UK) with co-location presence. Of those, **2,986** were published in the gateway's `regional-markets.json` and **2,942** carried the high-confidence geocoding flag.
+Under this permissive rule, the count of Regional Market objects approximates the count of distinct settlements that contain any co-location at all. At the 2026-05-22 build, the pipeline produced approximately **3,011 settlements** (North America and EU/UK) with co-location presence. Of those, **2,986** were published in the live dataset and **2,942** carried the high-confidence geocoding flag.
 
-Coverage has grown substantially since that build. As of the most recent full processing run (2026-08-06), the live `regional-markets.json` carries **12,689** Regional Market objects across **24 countries**. Of those, **12,578** — about 99% — carry the high-confidence flag. The permissive rule itself is unchanged; the growth reflects dataset expansion, not a floor change.
+Coverage has grown substantially since that build. As of the most recent full processing run (2026-08-06), the live dataset carries **12,689** Regional Market objects across **24 countries**. Of those, **12,578** — about 99% — carry the high-confidence flag. The permissive rule itself is unchanged; the growth reflects dataset expansion, not a floor change.
 
 That is a coverage statistic. It records how widely the tracked anchor chains are observed. It does not identify where retail demand actually concentrates. A floor of one co-location admits every town with a single qualifying co-location on exactly the same terms as a metropolitan area with dozens.
 
@@ -39,7 +39,7 @@ Two failure modes follow from conflating coverage with market:
 
 **The count reads as an artefact of the floor, not the geography.** A reviewer can move the count up or down simply by arguing the floor, which is the classic sign that the threshold — not the data — is doing the work. This is the same failure class as the DBSCAN parameter sensitivity documented in [[co-location-tiering-scoring|the co-location tiering and scoring methodology]], where parameter sweeps move the North American cluster count across a wide range without any change to the underlying retailer data.
 
-`mkt_conf` does not resolve this. It is geocoding precision — specifically the quality of the boundary assignment — not market quality. It must not be presented as a ranking or a quality signal.
+The geocoding-confidence field does not resolve this. It is geocoding precision — specifically the quality of the boundary assignment — not market quality. It must not be presented as a ranking or a quality signal.
 
 ## Composition floors: anchor composition, not count
 
@@ -61,11 +61,11 @@ An alternative, and analytically stronger, floor is a **demand threshold**. Unde
 
 Whichever floor is chosen, **the resulting Regional Market count must be re-derived and published alongside the floor and the rule that produced it**. The count is not meaningful without both printed next to it.
 
-If no floor is adopted, the minimum acceptable change is renaming. That means dropping "Regional Market" for the permissive object and calling it "settlements with co-location presence" on the map face, in the Method modal, and in this TOPIC. The term "market" carries an implied claim of concentrated demand that the one-co-location rule does not support on its own. Per the correction above, though, a single co-location *can* support that claim if its tier is high enough.
+If no floor is adopted, the minimum acceptable change is renaming. That means dropping "Regional Market" for the permissive object and calling it "settlements with co-location presence" on the map face, in the platform's documentation, and in this TOPIC. The term "market" carries an implied claim of concentrated demand that the one-co-location rule does not support on its own. Per the correction above, though, a single co-location *can* support that claim if its tier is high enough.
 
 ## The Top-400 co-locations — a qualifying set, not a ranking
 
-The Top-400 is a list of co-locations, not Regional Markets, produced per region. North America is one region; Europe (UK, Nordics, Continental) is another; the list is cut at 400 per region. Each row carries a Regional Market column for context. It is the spine of the BentoBox detail view, presented in a fixed order that is not an asserted rank.
+The Top-400 is a list of co-locations, not Regional Markets, produced per region. North America is one region; Europe (UK, Nordics, Continental) is another; the list is cut at 400 per region. Each row carries a Regional Market column for context. It is the spine of the platform's detail view, presented in a fixed order that is not an asserted rank.
 
 **No rank or score is published against any co-location in the Top-400.** Entry is decided by anchor composition, not by a numeric score: a co-location qualifies when it clears one of three composition gates — a hypermarket anchor with at least two of {hardware, price club, lifestyle, electronics, sport}; a hypermarket-plus-hardware anchor pair across at least two distinct clusters; or that same hypermarket-plus-hardware condition applied to a geographically isolated co-location. A composite score exists internally to support selection but is never surfaced to a reader. See [[about-regional-markets-system|Regional Markets Intelligence System]] for the full qualification method.
 
@@ -92,10 +92,10 @@ Every count below is reported with the rule that produced it. Figures are as of 
 | Top-400 co-locations (per region) | Composition gates (internal score, not published) | 400 NA + 400 EU | Qualifying candidate sites, not a ranked list; adopted per the recommendation above |
 | NA co-locations (DBSCAN) | eps/minPts/IoU — sensitive | 226–476 across parameter sweep | Cluster count (descriptive) |
 
-Two honesty notes belong in the Method modal alongside this table:
+Two honesty notes belong in the platform's documentation alongside this table:
 
 - The Regional Market count under a tier-based floor will differ from the raw settlement count in both directions — it drops many weak, low-tier settlements but keeps every single-cluster T1 settlement a naive count floor would have excluded. Neither direction is a regression; a tier-based count is simply a different, more defensible measurement than either the raw coverage count or a count-based floor.
-- `mkt_conf` is geocoding precision, not market quality, and is not a ranking variable.
+- The geocoding-confidence field is geocoding precision, not market quality, and is not a ranking variable.
 
 ## See also
 
@@ -103,5 +103,3 @@ Two honesty notes belong in the Method modal alongside this table:
 - [[co-location-tiering-scoring]] — how tiers and the planned strength score are computed for each co-location inside a Regional Market
 - [[trade-area-methodology]] — how the trade area for each co-location is defined
 - [[spend-population-provenance]] — the estimation chain for population and spend figures attributed to each co-location
-
-`app-orchestration-gis`, the platform's GIS orchestration application, is the layer that resolves co-locations to Regional Markets.

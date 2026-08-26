@@ -12,7 +12,7 @@ audience: vendor-public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
 language: en
-last_edited: 2026-06-20
+last_edited: 2026-08-26
 editor: pointsav-engineering
 paired_with: urban/commuter.es.md
 short_description: "Commuter (PKS) clusters identify transit-adjacent commercial sites with significant parking — commuter rail, transit hubs, park-and-ride, and highway-exit commercial — one of three Location Intelligence co-location archetypes."
@@ -92,7 +92,7 @@ The T1/T2/T3 tier labels used here are shared with the other Location Intelligen
 
 ## Production dataset
 
-The PKS pipeline is production-grade. Park-and-ride records (23,117 locations) serve as the primary geographic anchor — actual car-to-transit transition points, distributed independently of rail-network geometry. Transit modes are enrichment signals; car rental and hotel presence define commercial maturity.
+Commuter classification is production-grade. Park-and-ride records (23,117 locations) serve as the primary geographic anchor — actual car-to-transit transition points, distributed independently of rail-network geometry. Transit modes are enrichment signals; car rental and hotel presence define commercial maturity.
 
 **6,953 clusters** across 17 display countries:
 

@@ -11,9 +11,9 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-11
+last_edited: 2026-08-26
 editor: pointsav-engineering
-short_description: "The V3 tier-assignment methodology assigns each co-location cluster to one of four tiers using binary predicate gates — composition, national catchment rank, civic classification, and spatial overlap — replacing the prior composite-score system introduced in Sprint 17 (May 2026)."
+short_description: "The V3 tier-assignment methodology assigns each co-location cluster to one of four tiers using binary predicate gates — composition, national catchment rank, civic classification, and spatial overlap — replacing the prior composite-score system (May 2026)."
 paired_with: site-selection/catchment-ranking-methodology-v3.es.md
 cites:
   - osm-odbl
@@ -22,7 +22,7 @@ cites:
   - osc-sn-51-721
 ---
 
-The [[co-location-methodology|co-location]] tier system assigns each cluster to one of four tiers — Regional, District, Local, or Fringe (labelled per the [[co-location-tier-nomenclature|tier nomenclature]]) — using binary predicate gates rather than a composite score. A cluster must pass every gate in a tier's gate set to qualify for that tier; partial scores do not accumulate. This methodology describes the V3 implementation introduced in Sprint 17 (May 2026). It complements the [[co-location-ranking-system|deterministic ranking system]] and draws its trade-area inputs from the [[od-catchment-methodology|O-D catchment methodology]] and the [[trade-area-data-sources|trade-area data sources]].
+The [[co-location-methodology|co-location]] tier system assigns each cluster to one of four tiers — Regional, District, Local, or Fringe (labelled per the [[co-location-tier-nomenclature|tier nomenclature]]) — using binary predicate gates rather than a composite score. A cluster must pass every gate in a tier's gate set to qualify for that tier; partial scores do not accumulate. This methodology describes the current implementation, introduced in May 2026. It complements the [[co-location-ranking-system|deterministic ranking system]] and draws its trade-area inputs from the [[od-catchment-methodology|O-D catchment methodology]] and the [[trade-area-data-sources|trade-area data sources]].
 
 ## Why Predicate Gates Replace Composite Scores
 

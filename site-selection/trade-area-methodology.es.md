@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: pointsav-engineering
 short_description: "Etiquetado honesto de la geografía de demanda — por qué las bandas de distancia rectilínea nunca se llaman áreas de captación, y el paso previsto a isócronas."
 paired_with: site-selection/trade-area-methodology.md
@@ -24,7 +24,7 @@ La metodología de área de atracción establece cómo el mapa de inteligencia d
 
 El mapa en vivo muestra una banda de distancia alrededor del centroide de cada clúster. **Hasta que la canalización de áreas de atracción observadas esté integrada, esa banda es un radio de línea recta, no una cuenca hidrográfica medida.** La regla de etiquetado es inequívoca: cualquier geometría derivada de una fórmula de línea recta se lee como "banda de distancia (línea recta)" en la cara del mapa y en el panel de detalles — nunca "cuenca hidrográfica" y nunca "área de atracción."
 
-El modal de Metodología incluye una declaración clara: *"Las bandas de distancia son radios de línea recta alrededor del centroide del clúster; aproximan, pero no miden, de dónde provienen los clientes."*
+El mapa declara con claridad: *"Las bandas de distancia son radios de línea recta alrededor del centroide del clúster; aproximan, pero no miden, de dónde provienen los clientes."*
 
 Las distancias se calculan geodésicamente en lugar de en pantalla. Una banda etiquetada como 35 km representa 35 km de distancia real sobre el terreno independientemente de la latitud, porque se utilizan distancias haversine y búferes geodésicos métricos en todo el sistema.
 
@@ -36,7 +36,7 @@ Dos métodos — isócronas de tiempo de conducción y polígonos de origen-dest
 
 Una isócrona reemplaza el radio de línea recta con el área accesible dentro de un tiempo de conducción declarado (por ejemplo, 10, 20 o 30 minutos) a lo largo de la red vial. Las isócronas respetan barreras que los círculos ignoran — ríos, acceso a autopistas, puertos de montaña, rutas costeras de un solo sentido — por lo que dos clústeres con radios de línea recta idénticos pueden tener áreas de alcance sustancialmente diferentes. Las isócronas de tiempo de conducción son el estándar de la geografía minorista que esperan los revisores de selección de sitios.
 
-La implementación prevista utiliza un motor de enrutamiento auto-alojado sobre los extractos de OSM ya incorporados en el archivo. La dependencia de una API de isócronas de terceros con tarificación por uso no es el camino previsto para un producto construido sobre infraestructura de datos soberana y autocontenida. El motor de enrutamiento específico es una cuestión abierta en el registro de trabajo de ingeniería.
+La implementación prevista utiliza un motor de enrutamiento auto-alojado sobre los extractos de OSM ya incorporados en el archivo. La dependencia de una API de isócronas de terceros con tarificación por uso no es el camino previsto para un producto construido sobre infraestructura de datos soberana y autocontenida.
 
 ### Polígonos de origen-destino observados
 
@@ -44,13 +44,13 @@ En lugar de modelar de dónde podrían venir los clientes, un polígono de O-D d
 
 - **Estados Unidos — US LEHD LODES.** Flujos de origen-destino de trabajadores agregados a celdas H3, 49 estados, aproximadamente 684,000 celdas H3. Admite un área de atracción de origen laboral para clústeres estadounidenses.
 - **España — MITMA.** Las matrices de movilidad del Ministerio de Transporte de España están incorporadas para 58 clústeres ES, proporcionando una distribución de origen observada en lugar de un anillo modelado.
-- **`layer6-mobility-work.pmtiles`.** La superficie de origen laboral combinada de US LODES y MITMA está construida y servida como capa de mosaicos de mapa. Los datos necesarios para representar polígonos de origen observados para clústeres de EE. UU. y España están presentes; la integración que convierte un clic en un clúster en un polígono de origen observado, en lugar de un anillo, está planeada pero aún no conectada.
+- **Superficie de movilidad combinada.** Los datos combinados de origen laboral de US LODES y MITMA ya están construidos y se sirven como capa del mapa. Los datos necesarios para representar polígonos de origen observados para clústeres de EE. UU. y España están presentes; convertir un clic en un clúster en un polígono de origen observado, en lugar de un anillo, está planeado pero aún no disponible.
 
 La cobertura es desigual (EE. UU. y España hoy; Reino Unido, Francia y Alemania investigados como fuentes viables siguientes), por lo que el despliegue planeado es por país. Los clústeres sin cobertura de O-D mantienen la banda de distancia claramente etiquetada como medida provisional explícita.
 
 ### Por qué ambos métodos son complementarios
 
-Las isócronas de tiempo de conducción responden a la pregunta "quién puede llegar a este sitio." Los polígonos de O-D observados responden "quién realmente compra o trabaja aquí." El mapa previsto expone la mejor representación disponible por clúster, con el modal de Metodología indicando qué modelo produjo el polígono en pantalla y sobre qué período de datos. Un polígono medido y un círculo dibujado nunca se combinan bajo una sola etiqueta.
+Las isócronas de tiempo de conducción responden a la pregunta "quién puede llegar a este sitio." Los polígonos de O-D observados responden "quién realmente compra o trabaja aquí." El mapa previsto expone la mejor representación disponible por clúster, indicando en pantalla qué modelo produjo el polígono y sobre qué período de datos. Un polígono medido y un círculo dibujado nunca se combinan bajo una sola etiqueta.
 
 ## La fórmula de radio anterior
 
@@ -58,7 +58,7 @@ La banda de distancia utilizada en la versión inicial del producto se calculaba
 
 Esto es un artefacto geométrico, no una cantidad de demanda. Describe qué tan dispersas están las tiendas, no qué tan lejos viajan realmente los clientes. De ahí se derivan directamente dos modos de fallo: un clúster urbano denso obtiene un anillo pequeño porque sus tiendas están cerca entre sí, aunque su área de atracción real pueda ser grande; un clúster exurbano disperso obtiene un anillo grande porque sus tiendas están alejadas entre sí, no porque atraiga clientes de lejos.
 
-Ni el factor de inflación ni el piso tienen una derivación publicada. Son constantes de ajuste que hacen que la imagen se vea razonable. Hasta que se adopten los límites de O-D observado o de tiempo de conducción, cualquier banda de distancia provisional divulga que se apoya en esta fórmula no publicada, basada solo en geometría, en el modal de Metodología, en lugar de aplicarla en silencio.
+Ni el factor de inflación ni el piso tienen una derivación publicada. Son constantes de ajuste que hacen que la imagen se vea razonable. Hasta que se adopten los límites de O-D observado o de tiempo de conducción, cualquier banda de distancia provisional divulga que se apoya en esta fórmula no publicada, basada solo en geometría, en lugar de aplicarla en silencio.
 
 El estado final previsto elimina por completo esta fórmula basada en la extensión geográfica de la canalización en vivo, reemplazándola por un límite cuyo parámetro es una cantidad que un experto en la materia puede evaluar por sus propios méritos — un tiempo de conducción declarado, un percentil declarado de demanda modelada, o un umbral de población declarado.
 
@@ -67,10 +67,10 @@ El estado final previsto elimina por completo esta fórmula basada en la extensi
 El mapa se representa en Web Mercator (EPSG:3857). Web Mercator preserva la forma localmente pero distorsiona el área y la distancia en pantalla con la latitud. La metodología calcula distancias y áreas geodésicamente:
 
 - Las pruebas de distancia utilizan la distancia haversine (gran círculo) entre coordenadas geográficas.
-- La construcción de polígonos utiliza búferes geodésicos métricos — el búfer métrico de turf construye geometría en distancia real sobre el terreno y la proyecta a Web Mercator solo para su visualización.
+- La construcción de polígonos utiliza búferes geodésicos métricos, que construyen la geometría en distancia real sobre el terreno y la proyectan a Web Mercator solo para su visualización.
 - Las cifras de área — área de captación, densidad por kilómetro cuadrado — se calculan sobre el polígono geodésico, no a partir de píxeles de pantalla.
 
-El modal de Metodología incluye la advertencia: *"Las distancias y áreas se calculan sobre el elipsoide; el mapa se dibuja en Web Mercator, que se estira con la latitud — una banda a 60°N cubre menos terreno que la misma banda dibujada a 25°N."*
+El mapa declara la advertencia: *"Las distancias y áreas se calculan sobre el elipsoide; el mapa se dibuja en Web Mercator, que se estira con la latitud — una banda a 60°N cubre menos terreno que la misma banda dibujada a 25°N."*
 
 ## Marco espacial
 
@@ -82,7 +82,7 @@ Una sola celda H3 puede caer dentro de las áreas de atracción de varios clúst
 
 La migración prevista desde los anillos de línea recta es por fases:
 
-1. **Edición de honestidad.** Reetiquetado de cada anillo de línea recta como "banda de distancia (línea recta)"; exposición, en el modal de Metodología, de que la fórmula del radio se apoya en un factor de ajuste y un piso no documentados, junto con la advertencia de Web Mercator.
+1. **Edición de honestidad.** Reetiquetado de cada anillo de línea recta como "banda de distancia (línea recta)"; exposición en el mapa de que la fórmula del radio se apoya en un factor de ajuste y un piso no documentados, junto con la advertencia de Web Mercator.
 2. **O-D observado donde existen datos.** Conexión de los datos de movilidad LODES y MITMA ya incorporados para que los clústeres de EE. UU. y España muestren un polígono de origen laboral observado.
 3. **Isócronas de tiempo de conducción.** Configuración de un motor de enrutamiento auto-alojado y oferta de una banda de tiempo de conducción fijo como la vista de área alcanzable predeterminada.
 4. **Calibración de decaimiento de distancia.** Ajuste de curvas de decaimiento a los flujos de O-D para establecer límites de percentil de demanda publicados.
@@ -98,4 +98,4 @@ La pertenencia al área de atracción es la base para la agregación de poblaci�
 - [[co-location-tiering-scoring]] — cómo se asignan los niveles de composición a los clústeres y el puntaje de fortaleza planeado
 - [[spend-population-provenance]] — la cadena de estimación para población y gasto dentro del área de atracción
 - el resumen a nivel de asentamiento construido sobre clústeres de co-ubicación
-- la capa de orquestación que ejecuta la canalización de análisis espacial
+- el proceso que ejecuta el análisis espacial

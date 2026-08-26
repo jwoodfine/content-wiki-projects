@@ -12,7 +12,7 @@ audience: vendor-public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
 language: en
-last_edited: 2026-07-11
+last_edited: 2026-08-26
 editor: pointsav-engineering
 paired_with: site-selection/retail-centres.es.md
 short_description: "Retail Centres (PRO) are neighbourhood commercial centres anchored by grocery, pharmacy, bank, and casual dining — one of three Location Intelligence co-location archetypes, and the base map product for the site-selection dataset."
@@ -49,7 +49,7 @@ The T1/T2/T3 tier labels used here are shared with the other Location Intelligen
 
 ## Production dataset
 
-The PRO pipeline is the foundation layer of the site-selection dataset, covering 17 display countries across North America and Europe.
+Retail Centres (PRO) form the foundation of the site-selection dataset, covering 17 display countries across North America and Europe.
 
 | Tier | Clusters | Countries |
 |------|----------|-----------|

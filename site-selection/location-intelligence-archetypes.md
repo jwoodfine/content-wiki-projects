@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: pointsav-engineering
 short_description: "Three co-location archetypes — Retail Centres (PRO), Urban Fringe (VWH), and Commuter (PKS) — identifying distinct commercial clustering patterns across 17 countries in North America and Europe."
 paired_with: site-selection/location-intelligence-archetypes.es.md
@@ -125,7 +125,7 @@ heritage conservation zone; location inside a PRO cluster.
 
 ### Production status
 
-The VWH pipeline is production-grade. Hardware stores were profiled as
+Urban Fringe classification is production-grade. Hardware stores were profiled as
 proxy anchors, and the trade-supply clustering was validated against
 held-out hardware-anchor data, with an internally set acceptance threshold
 for cluster quality that the production build clears.
@@ -190,7 +190,7 @@ below a minimum viable threshold; no direct metro service.
 
 ### Production status
 
-The PKS pipeline is production-grade. Park-and-ride records serve as the
+Commuter classification is production-grade. Park-and-ride records serve as the
 primary geographic anchor — actual car-to-transit transition points
 distributed independently of rail network geometry. Transit modes are
 enrichment signals; car rental and hotel presence define commercial
@@ -224,18 +224,11 @@ as LAX, JFK, LHR, and CDG.
 
 ## Map integration
 
-VWH and PKS appear as overlay layers under the **★ Regional Markets** section
-in the layer control panel.
-
-**VWH toggle** — displays orange dots at Urban Fringe candidate locations.
-When active, cluster bubbles fade to reduce visual interference.
-
-**PKS toggle** — displays teal dots at integrated candidates (near a PRO
-T1/T2 cluster) and grey dots at standalone candidates. The same bubble
-fade applies.
-
-Both layers persist across view transitions — the fade state is maintained
-when switching between the Retail View and the BentoBox market detail panel.
+VWH and PKS are available as overlay layers alongside the core Retail
+Centres (PRO) view, so a reviewer can see Urban Fringe and Commuter
+candidates together with the base retail-cluster map. PKS candidates are
+further distinguished as integrated — near a PRO Tier 1 or Tier 2 cluster —
+or standalone, consistent with the Commuter definition above.
 
 ## Data Sources
 

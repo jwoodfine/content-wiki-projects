@@ -12,7 +12,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: editorial
 es_status: complete
 short_description: "Análisis geográfico sistemático que identifica y clasifica sitios minoristas donde las categorías de gran formato convergen dentro de radios de captación definidos."
@@ -65,9 +65,9 @@ A partir de la ejecución de procesamiento completa más reciente (2026-08-06), 
 
 La plataforma integra tres fuentes de datos primarias para garantizar un análisis espacial de alta fidelidad:
 
-1.  **Negocios de servicios (Operadores minoristas):** Procedentes de los colaboradores de OpenStreetMap, filtrados por identificadores canónicos de marcas en Wikidata para garantizar una correspondencia coherente de familias de marcas entre fronteras. A 2 de mayo de 2026, el conjunto de datos contiene más de 31.219 ubicaciones minoristas individuales de más de 60 cadenas.
-2.  **Lugares de servicios (Infraestructura cívica):** Registros de hospitales y centros médicos procedentes del conjunto de datos Places de la Overture Maps Foundation (publicación del 15 de abril de 2026). Esta capa terciaria proporciona el contexto cívico requerido para las compuertas de los niveles Regional y Distrital.
-3.  **Transporte de servicios (Apoyo logístico):** Registros de instalaciones de aviación de la Overture Maps Foundation, conservados para futuras dimensiones de puntuación terciaria.
+1.  **Datos de ubicación de negocios (Operadores minoristas):** Procedentes de los colaboradores de OpenStreetMap, filtrados por identificadores canónicos de marcas en Wikidata para garantizar una correspondencia coherente de familias de marcas entre fronteras. A 2 de mayo de 2026, el conjunto de datos contiene más de 31.219 ubicaciones minoristas individuales de más de 60 cadenas.
+2.  **Datos de lugares (Infraestructura cívica):** Registros de hospitales y centros médicos procedentes del conjunto de datos Places de la Overture Maps Foundation (publicación del 15 de abril de 2026). Esta capa terciaria proporciona el contexto cívico requerido para las compuertas de los niveles Regional y Distrital.
+3.  **Datos de transporte (Apoyo logístico):** Registros de instalaciones de aviación de la Overture Maps Foundation, conservados para futuras dimensiones de puntuación terciaria.
 
 *Los supuestos materiales para los recuentos del conjunto de datos actual incluyen la disponibilidad continua de los datos de OpenStreetMap y de la Overture Maps Foundation bajo sus respectivas licencias (ODbL y CDLA Permissive 2.0). [osm-odbl] [overture-maps-cdla-2-0]*
 

@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-07-31
+last_edited: 2026-08-26
 editor: pointsav-engineering
 short_description: "Puntuación por niveles de clústeres de co-localización — qué miden los niveles T1–T3 de composición, los parámetros DBSCAN que forman clústeres y qué no afirman."
 paired_with: site-selection/co-location-tiering-scoring.md
@@ -36,7 +36,7 @@ El etiquetado en el mapa dice "profundidad de co-ubicación (conteo de anclas)" 
 
 ## Cómo se forman los clústeres: parámetros DBSCAN
 
-Los clústeres se producen mediante agrupación espacial de ubicaciones de minoristas ancla usando **DBSCAN** (agrupación espacial basada en densidad), seguido de un pase de deduplicación. DBSCAN se rige por tres parámetros publicados en el modal de Metodología:
+Los clústeres se producen mediante agrupación espacial de ubicaciones de minoristas ancla usando **DBSCAN** (agrupación espacial basada en densidad), seguido de un pase de deduplicación. DBSCAN se rige por tres parámetros, publicados junto con cada resultado:
 
 - **eps** — el radio de vecindad que define si dos puntos ancla son accesibles por densidad.
 - **minPts** — el número mínimo de puntos necesarios para iniciar un clúster.
@@ -50,7 +50,7 @@ DBSCAN es un procedimiento **descriptivo**. El número de clústeres que devuelv
 
 ## El puntaje de fortaleza planeado
 
-El nivel de composición responde "¿qué combinación de minoristas hay aquí?" Un **puntaje de fortaleza** por clúster separado — planeado, aún no construido — está destinado a responder "¿cuánto mercado comanda esta ubicación?" Las dos dimensiones se informan una al lado de la otra una vez que el cuadro de mando esté conectado; nunca se colapsan en un solo color o un solo número.
+El nivel de composición responde "¿qué combinación de minoristas hay aquí?" Un **puntaje de fortaleza** por clúster separado está destinado a responder "¿cuánto mercado comanda esta ubicación?" Las dos dimensiones se informan una al lado de la otra una vez que estén disponibles; nunca se colapsan en un solo color o un solo número.
 
 ### Principios de diseño
 
@@ -86,7 +86,7 @@ Para cada clúster seleccionado, el panel de detalle planeado presenta, como mí
 | Qué mide un nivel | Ambiguo | Explícitamente composición (conteo y combinación de categorías de ancla), ordinal |
 | Apoyo a la decisión | Solo insignia de nivel y anillos | Cuadro de mando planeado: población, gasto, cadenas co-ubicadas, puntaje de fortaleza explicable con factores nombrados |
 | Puntaje de fortaleza | Conflado con el nivel | Planeado como dimensión separada, del lado de la demanda, descomponible |
-| Parámetros DBSCAN | No publicados | eps, minPts, IoU y el límite de alcance publicados en el modal de Metodología y aquí |
+| Parámetros DBSCAN | No publicados | eps, minPts, IoU y el límite de alcance publicados junto con cada resultado y aquí |
 | Conteo de clústeres | Declarado como cifra precisa | Salida del modelo bajo una parametrización; sensibilidad a la elección de parámetros divulgada |
 
 ## Véase también
@@ -94,5 +94,5 @@ Para cada clúster seleccionado, el panel de detalle planeado presenta, como mí
 - [[trade-area-methodology]] — derivación de la cuenca y la migración desde bandas de distancia hacia áreas de atracción observadas
 - [[spend-population-provenance]] — la cadena de estimación para el factor de gasto en el puntaje de fortaleza
 - el resumen a nivel de asentamiento y el criterio de selección Top-400
-- la capa de orquestación que produce los clústeres por niveles
+- el proceso que produce los clústeres por niveles
 - la agrupación minorista ascendente que alimenta el índice de co-ubicación

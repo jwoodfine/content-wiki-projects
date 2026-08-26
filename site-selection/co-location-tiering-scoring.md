@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-03
+last_edited: 2026-08-26
 editor: pointsav-engineering
 short_description: "Tier scoring for co-location clusters — what the T1–T3 composition tiers measure, the DBSCAN parameters that form clusters, and what the tiers do not claim."
 paired_with: site-selection/co-location-tiering-scoring.es.md
@@ -38,7 +38,7 @@ The tiers measure composition. They do not measure trade-area strength, sales po
 
 ## How clusters are formed: DBSCAN parameters
 
-The clusters that receive tiers are produced by spatial clustering of anchor retailer locations using **DBSCAN** (density-based spatial clustering), followed by a de-duplication pass. DBSCAN is governed by three parameters that are published in the Method modal and stated here:
+The clusters that receive tiers are produced by spatial clustering of anchor retailer locations using **DBSCAN** (density-based spatial clustering), followed by a de-duplication pass. DBSCAN is governed by three parameters, published alongside each result and stated here:
 
 - **eps** — the neighbourhood radius that defines whether two anchor points are density-reachable; sets the spatial scale at which separate stores read as one cluster.
 - **minPts** — the minimum number of points required to seed a cluster; sets the floor on what counts as a co-location rather than an isolated store.
@@ -46,7 +46,7 @@ The clusters that receive tiers are produced by spatial clustering of anchor ret
 
 A hard cap on cluster span (maximum pairwise diameter) applies uniformly; a wider setting is not used because it merges distinct agglomerations. Clusters whose span falls well under that cap carry an internal quality flag noting the tighter spatial compactness.
 
-The values for eps, minPts, and the IoU threshold are read from the current clustering pipeline at each build and stated in the Method modal alongside the build version from which they are taken.
+The values for eps, minPts, and the IoU threshold are published alongside each cluster result.
 
 ### Sensitivity: the cluster count is a model output, not a measurement
 
@@ -56,7 +56,7 @@ Parameter sweeps conducted during development demonstrate this directly: across 
 
 ## The planned strength score
 
-The composition tier answers "what retailer mix is here." A separate per-cluster **strength score** — planned, not yet built — is intended to answer "how much market does this location command." The two dimensions are reported side by side once the scorecard is wired; they are never collapsed into a single colour or a single number.
+The composition tier answers "what retailer mix is here." A separate per-cluster **strength score** is intended to answer "how much market does this location command." The two dimensions are reported side by side once available; they are never collapsed into a single colour or a single number.
 
 ### Design principles
 
@@ -92,7 +92,7 @@ For each clicked cluster the planned detail panel presents, at minimum:
 | What a tier measures | Ambiguous | Explicitly composition (anchor-category count and mix), ordinal |
 | Decision support | Tier badge and rings only | Planned scorecard: population, spend, co-located chains, explainable strength score with named drivers |
 | Strength score | Conflated into the tier | Planned as separate, demand-side, decomposable dimension |
-| DBSCAN parameters | Not published | eps, minPts, IoU, and span cap published in Method modal and here |
+| DBSCAN parameters | Not published | eps, minPts, IoU, and span cap published alongside each result and here |
 | Cluster count | Stated as a precise figure | Model output under one parameterisation; sensitivity to parameter choice disclosed |
 
 ## See also
@@ -100,5 +100,5 @@ For each clicked cluster the planned detail panel presents, at minimum:
 - [[trade-area-methodology]] — catchment derivation, geodesic computation, and the migration from distance bands toward observed trade areas
 - [[spend-population-provenance]] — the estimation chain for the spend driver in the strength score
 - the settlement-level rollup and the Top-400 selection criterion
-- the orchestration layer that produces the tiered clusters
+- the process that produces the tiered clusters
 - upstream retail clustering feeding the co-location index

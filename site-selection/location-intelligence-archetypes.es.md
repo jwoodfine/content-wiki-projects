@@ -12,7 +12,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
 language: es
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: pointsav-engineering
 short_description: "Tres arquetipos de co-localización — Centros Comerciales (PRO), Franja Urbana (VWH) y Área de Acceso (PKS) — que identifican patrones de agrupación comercial diferenciados en 17 países de Norteamérica y Europa."
 paired_with: site-selection/location-intelligence-archetypes.md
@@ -136,7 +136,7 @@ clúster PRO.
 
 ### Estado de producción
 
-El canal VWH es de calidad productiva. Se perfilaron establecimientos de
+La clasificación de Franja Urbana es de calidad productiva. Se perfilaron establecimientos de
 ferretería como anclas proxy, y la agrupación de suministro industrial se
 validó frente a datos de anclas de ferretería reservados para validación,
 con un umbral de aceptación interno para la calidad del clúster que la
@@ -208,7 +208,7 @@ población por debajo de un umbral mínimo viable; sin servicio directo al
 
 ### Estado de producción
 
-El canal PKS es de calidad productiva. Los registros de aparcamiento
+La clasificación de Área de Acceso es de calidad productiva. Los registros de aparcamiento
 disuasorio son el ancla geográfica principal — puntos de transición
 coche→tránsito distribuidos de forma independiente de la geometría de la
 red ferroviaria. Los modos de transporte son señales de enriquecimiento; la
@@ -244,20 +244,12 @@ filtro excluye correctamente hubs como LAX, JFK, LHR y CDG.
 
 ## Integración en el mapa
 
-VWH y PKS aparecen como capas superpuestas bajo la sección **★ Mercados
-Regionales** en el panel de control de capas.
-
-**Selector VWH** — muestra puntos naranja en las ubicaciones candidatas de
-Franja Urbana. Cuando está activo, las burbujas de clúster se atenúan para
-reducir la interferencia visual.
-
-**Selector PKS** — muestra puntos turquesa en los candidatos integrados
-(cerca de un clúster T1/T2 de PRO) y puntos grises en los candidatos
-independientes. Se aplica la misma atenuación de las burbujas.
-
-Ambas capas persisten en las transiciones de vista: el estado de atenuación
-se mantiene al cambiar entre la Vista Minorista y el panel de detalle de
-mercado BentoBox.
+VWH y PKS están disponibles como capas superpuestas junto con la vista
+principal de Centros Comerciales (PRO), de modo que un revisor puede ver los
+candidatos de Franja Urbana y Área de Acceso junto con el mapa base de
+clústeres minoristas. Los candidatos PKS se distinguen además como
+integrados — cerca de un clúster PRO de Nivel 1 o Nivel 2 — o independientes,
+conforme a la definición de Área de Acceso anterior.
 
 ## Véase también
 

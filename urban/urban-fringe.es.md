@@ -12,7 +12,7 @@ audience: vendor-public
 bcsc_class: public-disclosure-safe
 language_protocol: TRANSLATE-ES
 language: es
-last_edited: 2026-08-24
+last_edited: 2026-08-26
 editor: pointsav-engineering
 paired_with: urban/urban-fringe.md
 short_description: "Los clústeres de Periferia Urbana (VWH) identifican el comercio minorista de gran formato y la actividad de distribución e industrial en la periferia urbana — grandes superficies, mejora del hogar y logística — uno de los tres arquetipos de co-localización de Inteligencia de Localización."
@@ -103,7 +103,7 @@ fuente disponibles actualmente.
 
 Distribución por niveles: T1 (Centro de Comercio Completo) = 852 (13,4%), T2 (Consolidado) = 1.327 (20,8%), T3 (Emergente / Básico) = 4.189 (65,8%). La distribución con predominio T3 es esperada: los centros de comercio completo que combinan MRO, alquiler de herramientas, almacenista de la construcción y repuestos de automóviles son genuinamente escasos.
 
-Un indicador de `contaminación minorista` marca los clústeres donde un hipermercado de alimentación se encuentra a menos de 1 km del centroide (3.048 clústeres; 47,9%). Estos son parques comerciales de uso mixto — co-localizaciones válidas de Periferia Urbana que también incluyen comercio de alimentación, comunes en Europa donde los polígonos industriales y los parques comerciales comparten vías de acceso.
+Los clústeres donde un hipermercado de alimentación se encuentra a menos de 1 km del centroide se señalan por separado (3.048 clústeres; 47,9%). Estos son parques comerciales de uso mixto — co-localizaciones válidas de Periferia Urbana que también incluyen comercio de alimentación, comunes en Europa donde los polígonos industriales y los parques comerciales comparten vías de acceso.
 
 ## Investigación relacionada
 

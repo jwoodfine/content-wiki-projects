@@ -132,33 +132,6 @@ Las capas de datos AEC (arquitectura, ingeniería y construcción) añaden conte
 | Aceleración pico del suelo sísmica | USGS (EE. UU.) y EFEHR (Europa) | Reprocesado previsto para el 1 de junio de 2026 |
 | Riesgo de inundación | FEMA (EE. UU.) y JRC de la UE | Construcción prevista para el 31 de mayo de 2026 |
 
-## Esquema de datos POI
-
-La plataforma opera con dos clases de registros dentro de su capa de datos de localización: registros de negocios de servicios (cadenas minoristas) y registros de lugares de servicios (anclas cívicas).
-
-**Registros de negocios de servicios.** Cada registro representa una única ubicación de cadena minorista e identificada por un `chain_id` que enlaza con un archivo de configuración de cadena y por un campo `brand_wikidata` que contiene el QID de Wikidata de la marca. El QID de Wikidata es el identificador canónico de cadena entre fuentes porque opera a nivel de marca y no de nombre; dos establecimientos con diferentes denominaciones en distintos idiomas pero con el mismo QID pertenecen a la misma cadena.
-
-**Registros de lugares de servicios.** Anclas cívicas — hospitales, universidades, aeropuertos — incorporadas desde Overture Maps usando `taxonomy.primary` como filtro de categoría.
-
-### Campos comunes y deduplicación espacial
-
-**Campos comunes compartidos.**
-
-| Campo | Tipo | Notas |
-|---|---|---|
-| `location_name` | cadena | Nombre de presentación con fallback de categoría |
-| `brand_wikidata` | cadena o nulo | QID de Wikidata; nulo para lugares cívicos sin identidad de marca |
-| `street_address` | cadena o nulo | Dirección en formato libre |
-| `city` | cadena o nulo | Localidad |
-| `region` | cadena o nulo | Provincia, estado o región NUTS-3 |
-| `iso_country_code` | cadena | Código de país ISO 3166-1 alfa-2 |
-| `latitude`, `longitude` | flotante | WGS 84, 7 decimales |
-| `naics_code` | cadena | Clasificación NAICS |
-| `source` | cadena | `osm` u `overture` |
-| `confidence` | flotante | OSM fijo en 0,85; Overture según el conjunto de datos |
-
-**Deduplicación espacial.** Los registros dentro de un radio de 100 metros por cadena se dedupliccan, conservando el registro con los campos de dirección más completos. Un segundo paso a 25 metros entre diferentes valores de `chain_id` que comparten el mismo QID `brand_wikidata` identifica tiendas de subformatos o co-marcados.
-
 ## Modelo de Captación
 
 El modelo de captación asigna a cada clúster un área de influencia primaria y secundaria definida por el radio en línea recta desde el centroide del clúster.

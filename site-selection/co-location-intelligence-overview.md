@@ -12,7 +12,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: pointsav-engineering
 short_description: "Systematic geographic analysis identifying and classifying retail sites where large-format categories converge within defined catchment radii."
 paired_with: site-selection/co-location-intelligence-overview.es.md
@@ -64,9 +64,9 @@ As of the most recent full processing run (2026-08-06), the platform evaluates c
 
 The platform integrates three primary data sources to ensure high-fidelity spatial analysis:
 
-1.  **Service-business (Retail Operators):** Sourced from OpenStreetMap contributors, filtered by canonical brand Wikidata identifiers to ensure consistent brand-family matching across borders. As of 2 May 2026, the dataset contains 31,219+ individual retail locations across 60+ chains.
-2.  **Service-places (Civic Infrastructure):** Hospital and medical center records sourced from the Overture Maps Foundation Places dataset (2026-04-15 release). This tertiary layer provides the civic context required for the Regional and District tier gates.
-3.  **Service-transport (Logistics Support):** Aviation facility records from Overture Maps Foundation, retained for future tertiary scoring dimensions.
+1.  **Business location data (Retail Operators):** Sourced from OpenStreetMap contributors, filtered by canonical brand Wikidata identifiers to ensure consistent brand-family matching across borders. As of 2 May 2026, the dataset contains 31,219+ individual retail locations across 60+ chains.
+2.  **Place data (Civic Infrastructure):** Hospital and medical center records sourced from the Overture Maps Foundation Places dataset (2026-04-15 release). This tertiary layer provides the civic context required for the Regional and District tier gates.
+3.  **Transportation data (Logistics Support):** Aviation facility records from Overture Maps Foundation, retained for future tertiary scoring dimensions.
 
 *Material assumptions for current dataset counts include the continued availability of OpenStreetMap and Overture Maps Foundation data under their respective licenses (ODbL and CDLA Permissive 2.0). [osm-odbl] [overture-maps-cdla-2-0]*
 
