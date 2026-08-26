@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-05-06
+last_edited: 2026-08-26
 editor: pointsav-engineering
 short_description: "Requisitos de verificación previos a la compra que garantizan que cada parcela adquirida tenga zonificación confirmada para el desarrollo previsto, eliminando la especulación inmobiliaria."
 
@@ -21,7 +21,7 @@ cites:
   - osc-sn-51-721
 ---
 
-MCorp verifica la aprobación de zonificación y establece un cronograma de desarrollo activo antes de completar cualquier adquisición de terreno — la acumulación especulativa de terrenos está prohibida por el modelo de adquisición, no solo por política. Cada parcela tiene una vía verificada hacia el desarrollo bajo las regulaciones municipales aplicables antes de que se ejecute el contrato de compra. La regla se aplica junto con el requisito de adyacencia de [[co-location-anchors|anclas]] y la [[asset-architecture-standard|Norma de Arquitectura del Activo]]; el cronograma de desarrollo se registra mediante la [[site-ledger-integration|integración del registro del sitio]].
+Ninguna parcela se adquiere sin aprobación de zonificación verificada y un cronograma de desarrollo activo — la acumulación especulativa de terrenos está prohibida por el modelo de adquisición, no solo por política. Woodfine confirma ambos, y cada parcela tiene una vía verificada hacia el desarrollo bajo las regulaciones municipales aplicables, antes de que se ejecute el contrato de compra. La regla se aplica junto con el requisito de adyacencia de [[co-location-anchors|anclas]] y la [[asset-architecture-standard|Norma de Arquitectura del Activo]]; el cronograma de desarrollo se registra mediante la [[site-ledger-integration|integración del registro del sitio]].
 
 ## Verificación de zonificación previa a la adquisición
 

@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-11
+last_edited: 2026-08-26
 editor: pointsav-engineering
 short_description: "Pre-purchase verification requirements ensuring every parcel acquired has confirmed zoning for the intended development, eliminating speculative land banking."
 paired_with: site-selection/zoning-acquisition-rules.es.md
@@ -20,7 +20,7 @@ cites:
   - osc-sn-51-721
 ---
 
-MCorp verifies zoning approval and establishes an active development timeline before completing any land acquisition — speculative land banking is prohibited by the acquisition model, not just by policy. Every parcel has a verified path to development under applicable municipal regulations before the purchase contract is executed. The rule is applied alongside the [[co-location-anchors|anchor]] adjacency requirement and the [[asset-architecture-standard|Asset Architecture Standard]]; the development timeline is recorded by [[site-ledger-integration|site ledger integration]].
+No parcel is acquired without verified zoning approval and an active development timeline — speculative land banking is prohibited by the acquisition model, not just by policy. Woodfine confirms both, and every parcel has a verified path to development under applicable municipal regulations, before the purchase contract is executed. The rule is applied alongside the [[co-location-anchors|anchor]] adjacency requirement and the [[asset-architecture-standard|Asset Architecture Standard]]; the development timeline is recorded by [[site-ledger-integration|site ledger integration]].
 
 ## Pre-acquisition zoning verification
 
