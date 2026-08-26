@@ -33,6 +33,5 @@ La Biblioteca de Objetos BIM, la metodología de Key Plans y el detalle técnico
 
 ## Consulte también
 
-- [[flat-file-bim-leapfrog]] — por qué el archivo de construcción de Woodfine utiliza formatos de archivo abiertos y portátiles en lugar de una base de datos propietaria
 - [[asset-anchored-bim-vault]] — la estructura de archivo que este enfoque está diseñado para producir
 - [[geometry-of-sustainability]] — cómo el mismo enfoque centrado en estándares respalda la metodología de sostenibilidad de Woodfine

@@ -35,4 +35,3 @@ The design-token architecture, component library, and IFC-standard implementatio
 
 - [[bim-market-context]] — the regulatory context this design approach responds to
 - [[asset-anchored-bim-vault]] — the archive structure this approach is designed to produce
-- [[flat-file-bim-leapfrog]] — why the archive uses open, portable file formats

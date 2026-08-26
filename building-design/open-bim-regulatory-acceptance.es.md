@@ -31,6 +31,5 @@ El estado de certificación, la arquitectura de soberanía de datos y el detalle
 
 ## Consulte también
 
-- [[flat-file-bim-leapfrog]] — el enfoque de archivo plano que respalda esta elección de estándares
 - [[asset-anchored-bim-vault]] — la estructura de archivo que este enfoque está diseñado para producir
 - [[bim-market-context]] — el contexto regulatorio y de mercado más amplio del BIM abierto

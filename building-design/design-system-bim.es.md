@@ -27,7 +27,7 @@ El Sistema de Diseño de la Construcción se organiza en dos capas. La primera e
 
 ## Un archivo propio, no un servicio alojado
 
-El Sistema de Diseño de la Construcción no está previsto como un servicio alojado — es un conjunto de archivos en un repositorio git que una organización clona y extiende con sus propios datos jurisdiccionales y específicos del sitio. Es el mismo modelo de soberanía que sustenta de forma más amplia el [[flat-file-bim-leapfrog|archivo BIM de archivo plano de Woodfine]]. No es necesario que nada regrese a un proveedor central para que una organización siga usando su propia copia.
+El Sistema de Diseño de la Construcción no está previsto como un servicio alojado — es un conjunto de archivos en un repositorio git que una organización clona y extiende con sus propios datos jurisdiccionales y específicos del sitio. Es el mismo modelo de soberanía que sustenta de forma más amplia el archivo BIM de archivo plano de Woodfine. No es necesario que nada regrese a un proveedor central para que una organización siga usando su propia copia.
 
 ## Dónde vive la especificación
 
@@ -38,4 +38,3 @@ El catálogo completo de categorías de objetos, la biblioteca de componentes de
 - [[bim-objects-what-they-are]]
 - [[bim-objects-three-layers]]
 - [[bim-objects-substrate]]
-- [[flat-file-bim-leapfrog]]

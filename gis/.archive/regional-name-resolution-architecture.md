@@ -7,7 +7,10 @@ index_group: data-overview-and-sources
 type: topic
 content_type: topic
 quality: complete
-status: active
+status: archived
+archived: 2026-08-26
+archived_reason: "PointSav software/platform architecture content misplaced on a real-estate wiki. Per the operator's own framing: the projects wiki 'is not for software or PointSav, it is for real estate.' This article documents the offline reverse-geocoding engine's boundary layers, routing logic, and post-processing rules -- platform data-engineering documentation, not Woodfine real-estate content. Migrated to media-knowledge-documentation services/regional-name-resolution-architecture (2026-08-26)."
+superseded_by: none
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC

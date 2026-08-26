@@ -67,7 +67,7 @@ MAUP is not a defect to be fixed; it is an inherent property of any areal aggreg
 
 ### What confidence already exists
 
-The pipeline already computes a per-market **confidence flag** in `regional-markets.json`. This flag is a function of [[regional-name-resolution-architecture|regional name-resolution]] quality, not POI or census data-ingestion quality. It is downgraded specifically where the name-resolution pipeline falls back to an administrative boundary name rather than resolving a colloquial, settlement-level place name.
+The pipeline already computes a per-market **confidence flag** in `regional-markets.json`. This flag is a function of regional name-resolution quality, not POI or census data-ingestion quality. It is downgraded specifically where the name-resolution pipeline falls back to an administrative boundary name rather than resolving a colloquial, settlement-level place name.
 
 At the 2026-05-22 build, 2,942 of 2,986 Regional Market objects carried the high-confidence flag. Coverage has grown substantially since. As of the most recent full processing run (2026-08-06), the live `regional-markets.json` carries 12,689 Regional Market objects across 24 countries. Of those, 12,578 — about 99% — carry the high-confidence flag. The resolution logic is unchanged; the growth reflects dataset expansion, not a rule change. Despite this, the flag is not yet rendered anywhere — the map draws every cluster at full opacity with an identical marker, so a lower-confidence estimate is visually indistinguishable from a higher-confidence one.
 

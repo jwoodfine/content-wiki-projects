@@ -119,8 +119,12 @@ redirects:
   - from: /topic-building-design-system-bim
     to: /wiki/design-system-bim
 
+  # 2026-08-26: target archived — platform/software architecture content
+  # migrated to media-knowledge-documentation (architecture/flat-file-bim-leapfrog);
+  # per the operator's "no wiki-to-wiki reader pointer" rule, redirect to the
+  # projects-wiki category landing page rather than across wikis.
   - from: /topic-flat-file-bim-leapfrog
-    to: /wiki/flat-file-bim-leapfrog
+    to: /category/building-design
 
   - from: /topic-asset-anchored-bim-vault
     to: /wiki/asset-anchored-bim-vault
@@ -137,11 +141,17 @@ redirects:
   - from: /topic-asset-architecture-standard
     to: /wiki/asset-architecture-standard
 
+  # 2026-08-26: target archived — platform/software architecture content
+  # migrated to media-knowledge-documentation (substrate/gis-as-bim-substrate);
+  # redirect to the projects-wiki category landing page, not across wikis.
   - from: /topic-gis-as-bim-substrate
-    to: /wiki/gis-as-bim-substrate
+    to: /category/building-design
 
+  # 2026-08-26: target archived — platform/software architecture content
+  # migrated to media-knowledge-documentation (patterns/city-code-as-composable-geometry);
+  # redirect to the projects-wiki category landing page, not across wikis.
   - from: /topic-city-code-as-composable-geometry
-    to: /wiki/city-code-as-composable-geometry
+    to: /category/building-design
 
   # C2 — site-selection/ (methodology, 15 articles)
   - from: /topic-co-location-anchors
@@ -181,8 +191,11 @@ redirects:
   - from: /topic-location-intelligence-archetypes
     to: /wiki/location-intelligence-archetypes
 
+  # 2026-08-26: target retracted — redundant third copy of content already
+  # de-duplicated on media-knowledge-documentation (substrate/location-intelligence-substrate);
+  # not migrated, only archived. Redirect to the category landing page.
   - from: /topic-location-intelligence-strategy
-    to: /wiki/location-intelligence-strategy
+    to: /category/site-selection
 
   - from: /topic-zoning-acquisition-rules
     to: /wiki/zoning-acquisition-rules
@@ -198,8 +211,11 @@ redirects:
   - from: /topic-data-overview
     to: /wiki/gis-data-overview
 
+  # 2026-08-26: target archived — platform/software architecture content
+  # migrated to media-knowledge-documentation (services/poi-data-schema);
+  # redirect to the projects-wiki category landing page, not across wikis.
   - from: /topic-poi-data-schema
-    to: /wiki/poi-data-schema
+    to: /category/gis
 
   - from: /topic-trade-area-data-sources
     to: /wiki/trade-area-data-sources
@@ -214,8 +230,11 @@ redirects:
   - from: /topic-site-ledger-integration
     to: /wiki/site-ledger-integration
 
+  # 2026-08-26: target archived — platform/software architecture content
+  # migrated to media-knowledge-documentation (services/regional-name-resolution-architecture);
+  # redirect to the projects-wiki category landing page, not across wikis.
   - from: /topic-regional-name-resolution-architecture
-    to: /wiki/regional-name-resolution-architecture
+    to: /category/gis
 
   # C2 — urban/ (2 TOPIC summaries; pair with future JOURNAL papers of the same
   # names, seeded separately — not part of this batch)

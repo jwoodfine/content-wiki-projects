@@ -7,7 +7,10 @@ category: gis
 index_group: data-overview-and-sources
 type: topic
 content_type: topic
-status: active
+status: archived
+archived: 2026-08-26
+archived_reason: "Contenido de arquitectura de software/plataforma de PointSav ubicado por error en un wiki inmobiliario. Palabras del operador: el wiki de proyectos 'no es para software ni para PointSav, es para bienes raíces.' Este artículo documenta el esquema de registro y la especificación a nivel de campo de la tubería de ingesta de POI -- documentación de ingeniería de datos de la plataforma, no contenido inmobiliario de Woodfine. Migrado a media-knowledge-documentation services/poi-data-schema (2026-08-26)."
+superseded_by: none
 last_edited: 2026-06-20
 editor: pointsav-engineering
 short_description: "El esquema de datos POI define estructuras de registro para datos de ubicación ingeridos de OpenStreetMap y Overture Maps Foundation, normalizados en un formato JSONL unificado antes del análisis de cluster. Los QIDs de Wikidata sirven como identificador de cadena principal y los modelos de sublocalización padre-hijo manejan servicios complementarios de marca compartida."

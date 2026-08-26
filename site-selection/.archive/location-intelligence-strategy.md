@@ -7,7 +7,10 @@ category: site-selection
 index_group: the-method
 type: topic
 content_type: topic
-status: active
+status: archived
+archived: 2026-08-26
+archived_reason: "Retracted, not migrated -- redundant third copy of content already de-duplicated on media-knowledge-documentation. Per two independent audits (Fable and Opus, 2026-08-26): media-knowledge-documentation/substrate/location-intelligence-substrate.md already carries this article's flat-file/tile-stack/co-location architecture thesis (near-identical short_description; aliased pointsav-gis-engine), and applications/location-intelligence-platform.md + patterns/location-intelligence-ux.md cover the remaining application/UX ground -- this projects-wiki copy escaped an earlier cross-wiki de-duplication pass only because it lived in the wrong repo. The one genuinely site-selection-relevant passage (the Spain Bricomart/Obramat brand-family research) was salvaged into site-selection/retail-brand-family-taxonomy.md before archival. The named-competitor market survey (Carto, Esri, Mapbox, Placer) and the internal week-by-week implementation plan are retracted, not republished anywhere, per the workspace's structural-positioning-only rule."
+superseded_by: none
 last_edited: 2026-06-20
 editor: pointsav-engineering
 short_description: "The strategic and architectural frame for the platform's Location Intelligence substrate: a flat-file open-GIS approach that lets customers own their location data end-to-end, running offline, without ongoing per-seat or per-request vendor costs."

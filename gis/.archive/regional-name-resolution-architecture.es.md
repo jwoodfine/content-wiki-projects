@@ -7,7 +7,10 @@ index_group: data-overview-and-sources
 type: topic
 content_type: topic
 quality: complete
-status: active
+status: archived
+archived: 2026-08-26
+archived_reason: "Contenido de arquitectura de software/plataforma de PointSav ubicado por error en un wiki inmobiliario. Palabras del operador: el wiki de proyectos 'no es para software ni para PointSav, es para bienes raíces.' Este artículo documenta las capas de límites, la lógica de enrutamiento y las reglas de posprocesado del motor de geocodificación inversa sin conexión -- documentación de ingeniería de datos de la plataforma, no contenido inmobiliario de Woodfine. Migrado a media-knowledge-documentation services/regional-name-resolution-architecture (2026-08-26)."
+superseded_by: none
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES

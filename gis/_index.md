@@ -27,12 +27,10 @@ Maps and Data covers the spatial data behind the analysis: where it comes from, 
 
 ## Data Overview and Sources
 
-[[gis-data-overview|Data Overview]] is the entry point — an orientation to the location intelligence clusters, co-location tiers, and the tile pipeline that turns raw spatial data into a scored map. [[poi-data-schema|POI Data Schema]] and [[regional-name-resolution-architecture|Regional Name Resolution]] cover how individual points of interest and cluster labels are built from OpenStreetMap and Overture Maps Foundation sources. [[trade-area-data-sources|Trade Area Data Sources]] and [[spend-population-provenance|Spend and Population Provenance]] document where the population and spend estimates behind every trade area figure originate.
+[[gis-data-overview|Data Overview]] is the entry point — an orientation to the location intelligence clusters, co-location tiers, and the tile pipeline that turns raw spatial data into a scored map. [[trade-area-data-sources|Trade Area Data Sources]] and [[spend-population-provenance|Spend and Population Provenance]] document where the population and spend estimates behind every trade area figure originate.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: data-overview-and-sources -->
 - [[gis-data-overview]] — An orientation to the platform's data layers: location intelligence clusters, co-location tiers, and the GIS tile pipeline.
-- [[poi-data-schema]] — The POI data schema defines record structures for location data ingested from OpenStreetMap and Overture Maps Foundation, normalized into a unified JSONL format before cluster analysis. Wikidata QIDs serve as the primary chain identifier, and parent-child sub-location models handle co-branded ancillary services.
-- [[regional-name-resolution-architecture]] — Each co-location cluster is labelled with a human-readable regional name — a North American Metropolitan Area, a European NUTS-3 region, a Mexican municipio, a Canadian Census Subdivision. That name is the output of a layered offline reverse-geocoding pipeline that draws from a stack of open boundary datasets without requiring external API calls.
 - [[trade-area-data-sources]] — Population estimates from WorldPop 2026 and annual per-capita spend proxies from national household surveys underpin the trade area statistics for each co-location cluster.
 - [[spend-population-provenance]] — Provenance chain behind catchment population and spend estimates — WorldPop rasters, H3 aggregation, and per-capita multipliers, with their stated weaknesses.
 <!-- END AUTO-GENERATED -->

@@ -32,4 +32,3 @@ The full category catalog, IFC and Property Set mappings, and delivery format be
 - [[bim-objects-what-they-are]] — the pre-constraining thesis and how BIM Objects differ from IFC property sets
 - [[bim-objects-three-layers]] — the Specification, Regulation, and Climate Zone layers each object carries
 - [[design-system-bim]] — the broader Building Design System for the built environment
-- [[flat-file-bim-leapfrog]] — the flat-file architecture that underpins the BIM Object vault

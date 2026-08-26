@@ -27,8 +27,8 @@ Canada/US/Mexico, omitting Spain) and, more consequentially, contradicts the sib
 article [[power-centre-co-location-thesis]] (same `last_edited` date, 2026-07-11):
 "The Power Centre co-location requirement applies consistently across all **four**
 qualified jurisdictions: Canada, the United States, Spain, and Mexico." The
-four-jurisdiction, Spain-inclusive version is also the one consistent with
-[[location-intelligence-strategy]]'s detailed coverage plan and the JOURNAL working
+four-jurisdiction, Spain-inclusive version is also the one consistent with the
+platform's detailed coverage plan and the JOURNAL working
 paper's inclusion of Spain (MITMA data, 58 clusters). This article is the outlier.
 **Flagged, not resolved.**
 

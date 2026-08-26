@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: pointsav-engineering
 short_description: "Every retail location on the co-location map carries a brand family classification that determines how the location is displayed and, for some families, whether it contributes to cluster scoring. The taxonomy was designed around the anchor types used in the co-location methodology while remaining extensible to the full range of ingested operators."
 paired_with: site-selection/retail-brand-family-taxonomy.es.md
@@ -19,6 +19,7 @@ cites:
   - osm-odbl
   - ni-51-102
   - osc-sn-51-721
+  - bricomart-spain
 ---
 
 Every retail location on the [[co-location-methodology|co-location]] map carries a brand family classification — a categorical label that determines how the location is displayed and, for some families, whether it contributes to cluster scoring. The taxonomy was designed around the specific [[co-location-anchors|anchor]] types used by the [[co-location-ranking-system|deterministic ranking system]] while remaining extensible to the full range of operators ingested as supporting data.
@@ -43,6 +44,8 @@ inconsistency, not yet reconciled into a single canonical scoring description.
 ### Hardware
 
 Home improvement and building materials retailers. Includes Home Depot, Lowe's, Leroy Merlin, Canadian Tire, Hagebaumarkt, Praktiker, and regional equivalents. Hardware co-presence within the defined secondary radius of the primary anchor is the first scoring criterion in the co-location index. Displayed with an orange badge.
+
+Spain carries two distinct Hardware-family formats rather than one. Bricomart (rebranded Obramat in 2024), owned by the Adeo group, operates a warehouse format oriented toward professional-trade and self-builder customers — roughly 22 locations — the closer structural analog to Home Depot's trade-warehouse positioning [bricomart-spain]. Leroy Merlin, also Adeo group, is the dominant consumer-DIY brand in Spain at 120+ locations — closer in format to Lowe's. Both are classified Hardware for scoring purposes; the distinction matters for reading Spanish market composition, not for the tier calculation itself.
 
 ### Warehouse
 

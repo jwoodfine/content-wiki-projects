@@ -42,7 +42,6 @@ Esta disciplina mantiene el costo de desarrollo predecible entre mercados. Un ac
 - [[co-location-anchors]] — requisito de adyacencia al ancla que se aplica junto con el estándar de arquitectura
 - [[zoning-acquisition-rules]] — verificación de zonificación que aplica antes de que proceda cualquier desarrollo
 - [[site-ledger-integration]] — cómo se registra el cumplimiento del estándar durante la construcción
-- [Arquitectura de Tres Anillos](https://documentation.pointsav.com/architecture/three-ring-architecture) — el estándar de arquitectura del proveedor referenciado en este artículo
 
 ---
 

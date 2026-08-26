@@ -33,6 +33,5 @@ The BIM Object Library, Key Plan methodology, and technical implementation detai
 
 ## See also
 
-- [[flat-file-bim-leapfrog]] — why Woodfine's building archive uses open, portable file formats rather than a proprietary database
 - [[asset-anchored-bim-vault]] — the archive structure this approach is designed to produce
 - [[geometry-of-sustainability]] — how the same standards-first approach supports Woodfine's sustainability methodology

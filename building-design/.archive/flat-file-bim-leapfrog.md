@@ -7,7 +7,10 @@ category: building-design
 index_group: design-philosophy-and-system
 type: topic
 content_type: topic
-status: active
+status: archived
+archived: 2026-08-26
+archived_reason: "PointSav software/platform architecture content misplaced on a real-estate wiki. Per the operator's own framing: the projects wiki 'is not for software or PointSav, it is for real estate' -- there is something wrong with content that needs a link to documentation.pointsav.com; it needs to be rewritten to fit corporate or projects, or moved. This article documents the flat-file BIM architecture's five structural constraints (storage format, standards, Rust/Tauri, offline-first, licensing) -- platform engineering, not Woodfine real-estate content. Migrated to media-knowledge-documentation architecture/flat-file-bim-leapfrog (2026-08-26)."
+superseded_by: none
 last_edited: 2026-08-24
 short_description: "The Building Design System is constructed on five architectural constraints — flat-file storage, open standards, Rust and Tauri, offline-first operation, and Apache 2.0 licensing — enabling vendor-obsolescence-survivable building information models. Asset-anchored ownership, offline capability, IoT integration, and convergence of BIM with lease and financial ledgers follow from the architecture itself."
 cites: [ifc-4-3, iso-19650]
@@ -85,8 +88,3 @@ Honest accounting:
 
 These are deliberate trade-offs for the offline-first, vendor-obsolescence-survivable posture; not oversights to be patched in the next release.
 
-## See also
-
-- [WORM ledger design](https://documentation.pointsav.com/wiki/worm-ledger-design) (documentation wiki)
-- [seL4 microkernel substrate](https://documentation.pointsav.com/wiki/sel4-microkernel-substrate) (documentation wiki)
-- [AI routing and the linguistic air-lock](https://documentation.pointsav.com/wiki/sovereign-ai-routing) (documentation wiki)

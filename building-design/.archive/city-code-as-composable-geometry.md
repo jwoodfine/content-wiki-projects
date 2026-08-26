@@ -7,7 +7,10 @@ category: building-design
 index_group: bim-objects-and-the-digital-record
 type: topic
 content_type: topic
-status: active
+status: archived
+archived: 2026-08-26
+archived_reason: "PointSav software/platform architecture content misplaced on a real-estate wiki. Per the operator's own framing: the projects wiki 'is not for software or PointSav, it is for real estate' -- there is something wrong with content that needs a link to documentation.pointsav.com; it needs to be rewritten to fit corporate or projects, or moved. This article documents the City Code as Composable Geometry pattern -- a BIM Object platform architecture concept, not Woodfine real-estate content. Migrated to media-knowledge-documentation patterns/city-code-as-composable-geometry (2026-08-26)."
+superseded_by: none
 last_edited: 2026-08-24
 editor: pointsav-engineering
 short_description: "An architectural model that encodes regulatory requirements directly into element specifications as geometric and numeric constraints rather than applying them post-design, making non-compliant configurations structurally impossible by construction."
@@ -90,6 +93,4 @@ The City Code as Composable Geometry model is implemented progressively.
 
 - [[bim-objects-what-they-are]]
 - [[bim-objects-three-layers]]
-- [[flat-file-bim-leapfrog]]
 - [[open-bim-regulatory-acceptance|open-bim-regulatory-acceptance]]
-- [Leapfrog 2030 architecture](https://documentation.pointsav.com/wiki/leapfrog-2030-architecture) (documentation wiki)

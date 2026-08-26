@@ -31,4 +31,3 @@ The full interface convention catalog and facility-management workflow specifica
 
 - [[bim-design-philosophy]]
 - [[bim-objects-substrate]]
-- [[flat-file-bim-leapfrog]]

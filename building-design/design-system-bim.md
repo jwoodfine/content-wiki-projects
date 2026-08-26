@@ -27,7 +27,7 @@ The Building Design System is organized into two layers: a library of [[bim-obje
 
 ## An owned archive, not a hosted service
 
-The Building Design System is not planned as a hosted service — it is a set of files in a git repository that an organization clones and extends with its own jurisdiction-specific and site-specific data. This is the same sovereignty model that underlies [[flat-file-bim-leapfrog|Woodfine's flat-file BIM archive]] more broadly. Nothing is required to flow back to a central vendor for an organization to keep using its own copy.
+The Building Design System is not planned as a hosted service — it is a set of files in a git repository that an organization clones and extends with its own jurisdiction-specific and site-specific data. This is the same sovereignty model that underlies Woodfine's flat-file BIM archive more broadly. Nothing is required to flow back to a central vendor for an organization to keep using its own copy.
 
 ## Where the specification lives
 
@@ -38,4 +38,3 @@ The full object category catalog, interface component library, and current imple
 - [[bim-objects-what-they-are]]
 - [[bim-objects-three-layers]]
 - [[bim-objects-substrate]]
-- [[flat-file-bim-leapfrog]]

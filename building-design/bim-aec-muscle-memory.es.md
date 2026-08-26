@@ -31,4 +31,3 @@ El catálogo completo de convenciones de interfaz y la especificación del flujo
 
 - [[bim-design-philosophy]]
 - [[bim-objects-substrate]]
-- [[flat-file-bim-leapfrog]]

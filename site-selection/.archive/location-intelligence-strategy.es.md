@@ -7,7 +7,10 @@ category: site-selection
 index_group: the-method
 type: topic
 content_type: topic
-status: active
+status: archived
+archived: 2026-08-26
+archived_reason: "Retractado, no migrado -- tercera copia redundante de contenido ya de-duplicado en media-knowledge-documentation. Según dos auditorías independientes (Fable y Opus, 2026-08-26): media-knowledge-documentation/substrate/location-intelligence-substrate.md ya recoge la tesis arquitectónica de este artículo (archivos planos/pila de teselas/co-ubicación; short_description casi idéntica; alias pointsav-gis-engine), y applications/location-intelligence-platform.md + patterns/location-intelligence-ux.md cubren el resto del terreno de aplicación/UX -- esta copia del wiki de proyectos escapó a una de-duplicación cruzada anterior solo por estar en el repositorio equivocado. El único pasaje genuinamente relevante para site-selection (la investigación de familia de marca Bricomart/Obramat en España) se rescató en site-selection/retail-brand-family-taxonomy.md antes del archivado. El estudio de mercado con competidores nombrados (Carto, Esri, Mapbox, Placer) y el plan de implementación semana a semana son de uso interno; se retractan, no se republican en ningún lugar, conforme a la regla del espacio de trabajo de posicionamiento estructural únicamente."
+superseded_by: none
 last_edited: 2026-06-20
 editor: pointsav-engineering
 short_description: "El marco estratégico y arquitectónico para el sustrato Location Intelligence de la plataforma: un enfoque de SIG abierto de archivos planos que permite a los clientes poseer sus datos de ubicación de extremo a extremo, ejecutándose sin conexión, sin costos recurrentes de proveedor por asiento o por solicitud."

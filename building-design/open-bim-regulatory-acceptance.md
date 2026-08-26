@@ -31,6 +31,5 @@ The certification status, data-sovereignty architecture, and licensing detail be
 
 ## See also
 
-- [[flat-file-bim-leapfrog]] — the flat-file archive approach this standards choice supports
 - [[asset-anchored-bim-vault]] — the archive structure this approach is designed to produce
 - [[bim-market-context]] — the broader regulatory and market context for open BIM

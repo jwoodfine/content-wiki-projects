@@ -45,7 +45,6 @@ The standard is applied in conjunction with the [[co-location-anchors|co-locatio
 - [[co-location-anchors]] — anchor adjacency requirement applied alongside the architecture standard
 - [[zoning-acquisition-rules]] — zoning verification that applies before any development proceeds
 - [[site-ledger-integration]] — how construction compliance with the standard is recorded
-- [Three-Ring Architecture](https://documentation.pointsav.com/architecture/three-ring-architecture) — the vendor architecture standard referenced in this article
 
 ---
 

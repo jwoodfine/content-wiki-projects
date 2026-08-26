@@ -7,7 +7,10 @@ category: building-design
 index_group: bim-objects-and-the-digital-record
 type: topic
 content_type: topic
-status: active
+status: archived
+archived: 2026-08-26
+archived_reason: "Contenido de arquitectura de software/plataforma de PointSav ubicado por error en un wiki inmobiliario. Palabras del operador: el wiki de proyectos 'no es para software ni para PointSav, es para bienes raíces' -- si el contenido necesita un enlace a documentation.pointsav.com, hay algo mal en el contenido; debe reescribirse para encajar en corporate o projects, o trasladarse. Este artículo documenta el patrón Código Urbano como Geometría Composable -- un concepto de arquitectura de la plataforma de Objetos BIM, no contenido inmobiliario de Woodfine. Migrado a media-knowledge-documentation patterns/city-code-as-composable-geometry (2026-08-26)."
+superseded_by: none
 last_edited: 2026-08-24
 editor: pointsav-engineering
 short_description: "Un modelo arquitectónico que codifica requisitos regulatorios directamente en especificaciones de elementos como restricciones geométricas y numéricas en lugar de aplicarlas después del diseño, haciendo que las configuraciones no conformes sean estructuralmente imposibles por construcción."
@@ -145,6 +148,4 @@ El modelo del Código Urbano como Geometría Composable es especialmente relevan
 
 - [[bim-objects-what-they-are]]
 - [[bim-objects-three-layers]]
-- [[flat-file-bim-leapfrog]]
 - [[open-bim-regulatory-acceptance|open-bim-regulatory-acceptance]]
-- [Arquitectura Leapfrog 2030](https://documentation.pointsav.com/wiki/leapfrog-2030-architecture) (wiki de documentación)

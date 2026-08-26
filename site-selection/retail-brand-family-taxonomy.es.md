@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: pointsav-engineering
 short_description: "Cada ubicación minorista en el mapa de co-localización lleva una clasificación de familia de marca que determina cómo se muestra la ubicación y, para algunas familias, si contribuye a la puntuación del clúster. La taxonomía fue diseñada en torno a los tipos de ancla utilizados en la metodología de co-localización, y es extensible a la gama completa de operadores ingestados."
 paired_with: site-selection/retail-brand-family-taxonomy.md
@@ -19,6 +19,7 @@ cites:
   - osm-odbl
   - ni-51-102
   - osc-sn-51-721
+  - bricomart-spain
 ---
 
 Cada ubicación minorista en el mapa de [[co-location-methodology|co-localización]] lleva una clasificación de familia de marca — una etiqueta categórica que determina cómo se muestra la ubicación y, para algunas familias, si contribuye a la puntuación del clúster. La taxonomía fue diseñada en torno a los tipos de [[co-location-anchors|ancla]] específicos utilizados por el [[co-location-ranking-system|sistema de clasificación determinista]], siendo extensible a la gama completa de operadores ingestados como datos de soporte.
@@ -32,6 +33,8 @@ Minoristas de gran formato de mercancía general y víveres que operan instalaci
 ### Ferretería
 
 Minoristas de mejoras para el hogar y materiales de construcción. Incluye Home Depot, Lowe's, Leroy Merlin, Canadian Tire, Hagebaumarkt, Praktiker y equivalentes regionales. La presencia de Ferretería dentro del radio secundario definido del ancla principal es el primer criterio de puntuación en el índice de co-localización. Se muestra con una insignia naranja.
+
+España presenta dos formatos distintos dentro de la familia Ferretería, no uno solo. Bricomart (renombrado Obramat en 2024), propiedad del grupo Adeo, opera un formato de almacén orientado a clientes profesionales y autoconstructores — unas 22 ubicaciones — el análogo estructural más cercano al posicionamiento de almacén profesional de Home Depot [bricomart-spain]. Leroy Merlin, también del grupo Adeo, es la marca dominante de bricolaje para el consumidor en España con más de 120 ubicaciones — más cercana en formato a Lowe's. Ambas se clasifican como Ferretería a efectos de puntuación; la distinción importa para leer la composición del mercado español, no para el cálculo del nivel en sí.
 
 ### Almacén
 

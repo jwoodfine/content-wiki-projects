@@ -32,4 +32,3 @@ El catálogo completo de categorías, los mapeos a IFC y Conjuntos de Propiedade
 - [[bim-objects-what-they-are]] — la tesis de pre-restricción y cómo los Objetos BIM difieren de los conjuntos de propiedades IFC
 - [[bim-objects-three-layers]] — las capas de Especificación, Regulación y Zona Climática que lleva cada objeto
 - [[design-system-bim]] — el Sistema de Diseño de la Construcción para el entorno construido
-- [[flat-file-bim-leapfrog]] — la arquitectura de archivo plano que sustenta la bóveda de Objetos BIM

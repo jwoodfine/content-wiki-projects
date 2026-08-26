@@ -7,7 +7,10 @@ category: building-design
 index_group: design-philosophy-and-system
 type: topic
 content_type: topic
-status: active
+status: archived
+archived: 2026-08-26
+archived_reason: "Contenido de arquitectura de software/plataforma de PointSav ubicado por error en un wiki inmobiliario. Palabras del operador: el wiki de proyectos 'no es para software ni para PointSav, es para bienes raíces' -- si el contenido necesita un enlace a documentation.pointsav.com, hay algo mal en el contenido; debe reescribirse para encajar en corporate o projects, o trasladarse. Este artículo documenta las cinco restricciones estructurales de la arquitectura BIM en archivos planos (formato de almacenamiento, estándares, Rust/Tauri, funcionamiento sin conexión, licenciamiento) -- ingeniería de plataforma, no contenido inmobiliario de Woodfine. Migrado a media-knowledge-documentation architecture/flat-file-bim-leapfrog (2026-08-26)."
+superseded_by: none
 last_edited: 2026-08-24
 short_description: "El Building Design System se construye sobre cinco restricciones arquitectónicas — almacenamiento de archivos planos, estándares abiertos, Rust y Tauri, funcionamiento sin conexión y licencia Apache 2.0 — permitiendo modelos de información de construcción supervivientes a la obsolescencia de proveedores. La propiedad anclada en activos, la capacidad sin conexión, la integración IoT y la convergencia de BIM con libros mayores de arrendamiento y financieros se derivan de la arquitectura en sí."
 paired_with: building-design/flat-file-bim-leapfrog.md
@@ -68,8 +71,3 @@ La arquitectura offline-first es la única que satisface por diseño los requisi
 
 El BIM de archivo plano presenta limitaciones reconocidas: la edición colaborativa simultánea en tiempo real es más lenta que los SaaS síncronos para talleres de diseño intensivos; la federación a escala urbana (más de un millón de edificios) requiere una arquitectura de transmisión distinta; las herramientas de autoría BIM generativa disponibles actualmente en el mercado son propietarias. Estas son concesiones deliberadas para priorizar una postura offline-first e independiente del proveedor, no carencias pendientes de corrección.
 
-## Véase también
-
-- [Diseño del libro de registros WORM](https://documentation.pointsav.com/wiki/worm-ledger-design) (wiki de documentación)
-- [Sustrato del micronúcleo seL4](https://documentation.pointsav.com/wiki/sel4-microkernel-substrate) (wiki de documentación)
-- [Enrutamiento de IA y la esclusa lingüística](https://documentation.pointsav.com/wiki/sovereign-ai-routing) (wiki de documentación)

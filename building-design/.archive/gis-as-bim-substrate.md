@@ -7,7 +7,10 @@ category: building-design
 index_group: bim-objects-and-the-digital-record
 type: topic
 content_type: topic
-status: active
+status: archived
+archived: 2026-08-26
+archived_reason: "PointSav software/platform architecture content misplaced on a real-estate wiki. Per the operator's own framing: the projects wiki 'is not for software or PointSav, it is for real estate.' This article documents what the GIS co-location dataset offers a BIM composition pipeline -- platform data-engineering documentation, not Woodfine real-estate content. Migrated to media-knowledge-documentation substrate/gis-as-bim-substrate (2026-08-26)."
+superseded_by: none
 last_edited: 2026-06-20
 editor: pointsav-engineering
 short_description: "What the PointSav GIS co-location dataset offers a BIM composition pipeline: cluster manifold fields, civic context layers, and stability guarantees."
@@ -91,8 +94,6 @@ A BIM composition that joins on `cluster_id` sees growth but no deletion of exis
 ## See Also
 
 - [[co-location-methodology|co-location-methodology]]
-- [[regional-name-resolution-architecture]]
-- [[city-code-as-composable-geometry]]
 
 ## References
 

@@ -7,7 +7,10 @@ category: building-design
 index_group: bim-objects-and-the-digital-record
 type: topic
 content_type: topic
-status: active
+status: archived
+archived: 2026-08-26
+archived_reason: "Contenido de arquitectura de software/plataforma de PointSav ubicado por error en un wiki inmobiliario. Palabras del operador: el wiki de proyectos 'no es para software ni para PointSav, es para bienes raíces.' Este artículo documenta lo que el conjunto de datos de co-ubicación GIS ofrece a una tubería de composición BIM -- documentación de ingeniería de datos de la plataforma, no contenido inmobiliario de Woodfine. Migrado a media-knowledge-documentation substrate/gis-as-bim-substrate (2026-08-26)."
+superseded_by: none
 last_edited: 2026-06-20
 editor: pointsav-engineering
 short_description: "Lo que el dataset de co-ubicación GIS de PointSav ofrece a un canal de composición BIM: campos del manifold de clusters, capas de contexto cívico y garantías de estabilidad."
@@ -82,5 +85,3 @@ La distancia al hospital más cercano y a la universidad más cercana se calcula
 ## Véase también
 
 - [[co-location-methodology|co-location-methodology]]
-- [[regional-name-resolution-architecture]]
-- [[city-code-as-composable-geometry]]

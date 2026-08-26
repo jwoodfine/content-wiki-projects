@@ -7,7 +7,10 @@ category: gis
 index_group: data-overview-and-sources
 type: topic
 content_type: topic
-status: active
+status: archived
+archived: 2026-08-26
+archived_reason: "PointSav software/platform architecture content misplaced on a real-estate wiki. Per the operator's own framing: the projects wiki 'is not for software or PointSav, it is for real estate.' This article documents the POI ingest pipeline's record schema and field-level specification -- platform data-engineering documentation, not Woodfine real-estate content. Migrated to media-knowledge-documentation services/poi-data-schema (2026-08-26)."
+superseded_by: none
 last_edited: 2026-08-25
 editor: pointsav-engineering
 short_description: "The POI data schema defines record structures for location data ingested from OpenStreetMap and Overture Maps Foundation, normalized into a unified JSONL format before cluster analysis. Wikidata QIDs serve as the primary chain identifier, and parent-child sub-location models handle co-branded ancillary services."
@@ -89,8 +92,3 @@ A planned enhancement will spatial-join POI records against the Overture Address
 
 Service-business records are re-ingested per chain on demand — typically when a new chain is added to the configuration or when quarterly coverage audits flag anomalies. Service-places records are re-ingested against new Overture quarterly releases; the Overture S3 path in the ingest script must be updated to reference each new release.
 
-## See also
-
-- location-intelligence-platform — platform overview and V2 scoring tiers
-- location-intelligence-substrate — flat-file GIS architecture and storage layer
-- the ingestion pipeline — the GIS service application that operates the ingest pipeline described in this article
