@@ -19,7 +19,7 @@ paired_with: regional-market-demographic-threshold.md
 cites: []
 ---
 
-Una geografía califica como **[[about-regional-markets-system|Mercado Regional]]** en el marco de desarrollo de MCorp por el rendimiento comercial de los Minoristas Nacionales que ya han elegido operar en ella — no únicamente por la población. Las condiciones que la califican la distinguen tanto de los grandes mercados metropolitanos que atraen capital institucional en volumen como de las pequeñas comunidades que son atendidas exclusivamente por comercio y servicios locales.
+Una geografía califica como **[[about-regional-markets-system|Mercado Regional]]** en el marco de desarrollo de Woodfine por el rendimiento comercial de los Minoristas Nacionales que ya han elegido operar en ella — no únicamente por la población. Las condiciones que la califican la distinguen tanto de los grandes mercados metropolitanos que atraen capital institucional en volumen como de las pequeñas comunidades que son atendidas exclusivamente por comercio y servicios locales.
 
 ## El indicador primario: productividad minorista
 

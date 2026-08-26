@@ -19,7 +19,7 @@ paired_with: optimum-mosaic-demographic-profiling.md
 cites: []
 ---
 
-El **Mosaico Óptimo** condensa las zonas de influencia que rodean los sitios de co-ubicación de [[co-location-target-hierarchy|Objetivo Primario]] mejor clasificados de MCorp en una única firma demográfica. El cruce de los perfiles demográficos de las mejores 25 a 100 ubicaciones de Walmart Supercentre, ordenadas por ventas por pie cuadrado en orden descendente, identifica los ingresos del hogar, la estructura de edad, la composición familiar y los patrones de comercio secundario comunes a los sitios de Objetivo Primario más productivos comercialmente en el conjunto de datos.
+El **Mosaico Óptimo** condensa las zonas de influencia que rodean los sitios de co-ubicación de [[co-location-target-hierarchy|Objetivo Primario]] mejor clasificados de Woodfine en una única firma demográfica. El cruce de los perfiles demográficos de las mejores 25 a 100 ubicaciones de Walmart Supercentre, ordenadas por ventas por pie cuadrado en orden descendente, identifica los ingresos del hogar, la estructura de edad, la composición familiar y los patrones de comercio secundario comunes a los sitios de Objetivo Primario más productivos comercialmente en el conjunto de datos.
 
 ## Aplicaciones de referencia y gobernanza
 

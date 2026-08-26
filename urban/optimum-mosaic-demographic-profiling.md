@@ -19,7 +19,7 @@ paired_with: optimum-mosaic-demographic-profiling.es.md
 cites: []
 ---
 
-The **Optimum Mosaic** distills the trade areas around MCorp's highest-ranked [[co-location-target-hierarchy|Primary Target]] co-location sites into a single demographic signature. Cross-referencing the demographic profiles of the top 25 to 100 Walmart Supercentre locations, sorted by sales per square foot in descending order, identifies the household income, age structure, family composition, and secondary trade patterns common to the most commercially productive Primary Target sites in the dataset.
+The **Optimum Mosaic** distills the trade areas around Woodfine's highest-ranked [[co-location-target-hierarchy|Primary Target]] co-location sites into a single demographic signature. Cross-referencing the demographic profiles of the top 25 to 100 Walmart Supercentre locations, sorted by sales per square foot in descending order, identifies the household income, age structure, family composition, and secondary trade patterns common to the most commercially productive Primary Target sites in the dataset.
 
 ## Benchmarking and governance applications
 

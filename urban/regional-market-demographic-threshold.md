@@ -19,7 +19,7 @@ paired_with: regional-market-demographic-threshold.es.md
 cites: []
 ---
 
-A geography qualifies as a **[[about-regional-markets-system|Regional Market]]** in MCorp's development framework on the commercial performance of the National Retailers that have already chosen to operate there — not on population alone. The qualifying conditions distinguish it from both the major metropolitan markets that attract institutional capital in volume and the small communities that are served exclusively by local retail and services.
+A geography qualifies as a **[[about-regional-markets-system|Regional Market]]** in Woodfine's development framework on the commercial performance of the National Retailers that have already chosen to operate there — not on population alone. The qualifying conditions distinguish it from both the major metropolitan markets that attract institutional capital in volume and the small communities that are served exclusively by local retail and services.
 
 ## The primary indicator: retail productivity
 
