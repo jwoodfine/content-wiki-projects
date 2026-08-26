@@ -286,7 +286,10 @@ redirects:
   # place to atlas-*; 11 flat-root ranked-index articles move into markets/
   # as atlas-*. Place profiles are untouched this batch (later batch).
   - from: /topic-regional-market-matrix
-    to: /wiki/about-regional-market-matrix
+    to: /category/markets
+
+  - from: /wiki/about-regional-market-matrix
+    to: /category/markets
 
   - from: /topic-regional-markets-system
     to: /wiki/about-regional-markets-system
