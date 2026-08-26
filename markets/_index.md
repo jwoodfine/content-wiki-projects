@@ -53,7 +53,7 @@ Seven country-level co-location indices supply the underlying cluster data the c
 
 ## Country Breakouts
 
-Seven country-level Regional Market indices filter the continental Top 400 tables down to a single country's entries: [[atlas-canada|Canada]], [[atlas-united-states|United States]], [[atlas-united-kingdom|United Kingdom]], [[atlas-spain|Spain]], [[atlas-italy|Italy]], [[atlas-poland|Poland]], and [[atlas-greece|Greece]].
+Eight country-level Regional Market indices filter the continental Top 400 tables down to a single country's entries: [[atlas-canada|Canada]], [[atlas-united-states|United States]], [[atlas-united-kingdom|United Kingdom]], [[atlas-spain|Spain]], [[atlas-italy|Italy]], [[atlas-poland|Poland]], [[atlas-greece|Greece]], and [[atlas-croatia|Croatia]].
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: country-breakouts -->
 - [[atlas-canada]] — Index of Canadian regional commercial real estate markets meeting co-location screening thresholds.
@@ -63,6 +63,7 @@ Seven country-level Regional Market indices filter the continental Top 400 table
 - [[atlas-italy]] — Index of the 21 Italian entries in the Top 400 Regional Markets — Europe list, filtered from the continental table with metro-reference groupings.
 - [[atlas-poland]] — Index of the 16 Polish entries in the Top 400 Regional Markets — Europe list, filtered from the continental table with metro-reference groupings.
 - [[atlas-greece]] — Index of the 7 Greek entries in the Top 400 Regional Markets — Europe list; a pilot-batch country page with 7 new stub market profiles built 2026-08-25.
+- [[atlas-croatia]] — Index of the 9 Croatian entries in the Top 400 Regional Markets — Europe list; a country page with 9 new stub market profiles built 2026-08-25, following the locked wave-1.5 template.
 <!-- END AUTO-GENERATED -->
 
 ## Market Profiles
