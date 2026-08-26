@@ -16,7 +16,7 @@
 
 ## Sobre Este Repositorio
 
-Esta es la biblioteca de desarrollo físico de MCorp. Documenta los estándares de construcción, la metodología de selección de sitios, la estrategia de mercados regionales y la arquitectura de sostenibilidad que rigen todos los programas de desarrollo de Woodfine.
+Esta es la biblioteca de desarrollo físico de los programas de desarrollo de Woodfine, mantenida por MCorp. Documenta los estándares de construcción, la metodología de selección de sitios, la estrategia de mercados regionales y la arquitectura de sostenibilidad que rigen esos programas.
 
 Donde la wiki de gobernanza corporativa documenta la estructura financiera de los vehículos de inversión, este repositorio documenta los activos físicos que dichos vehículos poseen. Las dos bibliotecas están diseñadas para ser leídas juntas por un inversor que realiza diligencia debida.
 
