@@ -25,7 +25,7 @@ advisors, before investing.
 
 ## Research and data disclaimer
 
-Articles describe MCorp's geographic research methodology, co-location analysis, and
+Articles describe Woodfine's geographic research methodology, co-location analysis, and
 regional market datasets as reference material for institutional and research audiences.
 The data and rankings presented are research outputs and do not constitute valuations,
 appraisals, or recommendations regarding specific properties or markets, and are qualified

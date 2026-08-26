@@ -28,7 +28,7 @@ asesores profesionales, antes de invertir.
 
 ## Aviso de investigación y datos
 
-Los artículos describen la metodología de investigación geográfica de MCorp,
+Los artículos describen la metodología de investigación geográfica de Woodfine,
 el análisis de co-localización y los conjuntos de datos de mercados regionales como material de
 referencia para audiencias institucionales y de investigación. Los datos y clasificaciones
 presentados son resultados de investigación y no constituyen valoraciones, tasaciones ni
