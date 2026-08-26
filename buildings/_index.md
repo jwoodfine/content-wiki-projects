@@ -12,12 +12,12 @@ index_scope: buildings
 status: active
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-24
+last_edited: 2026-08-26
 editor: pointsav-engineering
 paired_with: _index.es.md
 ---
 
-The Buildings names what Woodfine actually builds: four development classes in force today, two more planned, and the tenant curation and procurement disciplines that fill and supply them.
+Buildings names what Woodfine actually builds: four development classes in force today, two more planned, and the tenant curation and procurement disciplines that fill and supply them.
 
 <!-- START-HERE-HIGHLIGHT: engine reads this block to render the single "start here" card (reuses the existing cluster-card--start-here component). Do not add more than one. -->
 
@@ -59,4 +59,4 @@ Two further articles cover how a building fills and supplies itself. [[mix-of-us
 
 ## See also
 
-- [[building-design-index|How We Build]]
+- [[building-design-index|Building Design]]

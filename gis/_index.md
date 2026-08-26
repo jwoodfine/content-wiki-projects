@@ -12,7 +12,7 @@ index_scope: gis
 status: active
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-24
+last_edited: 2026-08-26
 editor: pointsav-engineering
 paired_with: _index.es.md
 ---
@@ -57,5 +57,5 @@ Maps and Data covers the spatial data behind the analysis: where it comes from, 
 
 ## See also
 
-- [[site-selection-index|How We Choose Sites]]
+- [[site-selection-index|Site Selection]]
 - [[markets|The Markets]]

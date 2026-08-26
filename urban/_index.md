@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Why Places Grow"
+title: "Urban Growth"
 slug: urban
 category: urban
 type: topic
@@ -12,12 +12,12 @@ index_scope: urban
 status: active
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-24
+last_edited: 2026-08-26
 editor: pointsav-engineering
 paired_with: _index.es.md
 ---
 
-Why Places Grow covers the city-scale forces behind demand: the co-location archetypes a site can belong to, and the demographic and parking standards that follow from them.
+Urban Growth covers the city-scale forces behind demand: the co-location archetypes a site can belong to, and the demographic and parking standards that follow from them.
 
 <!-- START-HERE-HIGHLIGHT: engine reads this block to render the single "start here" card (reuses the existing cluster-card--start-here component). Do not add more than one. -->
 
@@ -27,7 +27,7 @@ Why Places Grow covers the city-scale forces behind demand: the co-location arch
 
 ## Co-Location Archetypes
 
-[[commuter|Commuter (PKS)]] and [[urban-fringe|Urban Fringe (VWH)]] are two of the three Location Intelligence co-location archetypes: transit-adjacent sites with significant parking, and large-format retail and distribution-industrial activity on the metropolitan periphery, respectively. The third archetype, Retail Centres (PRO), is covered in [[site-selection-index|How We Choose Sites]].
+[[commuter|Commuter (PKS)]] and [[urban-fringe|Urban Fringe (VWH)]] are two of the three Location Intelligence co-location archetypes: transit-adjacent sites with significant parking, and large-format retail and distribution-industrial activity on the metropolitan periphery, respectively. The third archetype, Retail Centres (PRO), is covered in [[site-selection-index|Site Selection]].
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: co-location-archetypes -->
 - [[commuter]] — Commuter (PKS) clusters identify transit-adjacent commercial sites with significant parking — commuter rail, transit hubs, park-and-ride, and highway-exit commercial — one of three Location Intelligence co-location archetypes.
@@ -46,5 +46,5 @@ Why Places Grow covers the city-scale forces behind demand: the co-location arch
 
 ## See also
 
-- [[site-selection-index|How We Choose Sites]]
+- [[site-selection-index|Site Selection]]
 - [[markets|The Markets]]

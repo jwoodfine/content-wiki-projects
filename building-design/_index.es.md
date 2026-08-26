@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Cómo Construimos"
+title: "Diseño de Edificios"
 slug: building-design-index
 category: building-design
 type: topic
@@ -12,12 +12,12 @@ index_scope: building-design
 status: active
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-24
+last_edited: 2026-08-26
 editor: pointsav-engineering
 paired_with: building-design/_index.md
 ---
 
-Cómo Construimos abarca el sistema de diseño detrás de cada edificio Woodfine: una geometría de arrendamiento fija, una práctica BIM de estándares abiertos, y las disciplinas de sitio y edificio que convierten esa geometría en una propiedad construible y sostenible.
+Diseño de Edificios abarca el sistema de diseño detrás de cada edificio Woodfine: una geometría de arrendamiento fija, una práctica BIM de estándares abiertos, y las disciplinas de sitio y edificio que convierten esa geometría en una propiedad construible y sostenible.
 
 <!-- START-HERE-HIGHLIGHT: engine reads this block to render the single "start here" card (reuses the existing cluster-card--start-here component). Do not add more than one. -->
 
@@ -82,5 +82,5 @@ Cómo Construimos abarca el sistema de diseño detrás de cada edificio Woodfine
 
 ## Véase también
 
-- [[buildings-index|Los Edificios]]
-- [[site-selection-index|Cómo Elegimos los Sitios]]
+- [[buildings-index|Edificios]]
+- [[site-selection-index|Selección de Sitios]]

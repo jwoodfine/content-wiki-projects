@@ -15,7 +15,7 @@ companion: >-
 
 categories:
   - id: buildings
-    name: "The Buildings"
+    name: "Buildings"
     scope: >-
       What we build: the six development classes — Professional Centres,
       Suburban Office, Retail Select, Tech Industrial, and the planned
@@ -25,7 +25,7 @@ categories:
     order: 1
 
   - id: building-design
-    name: "How We Build"
+    name: "Building Design"
     scope: >-
       The design system: buildings designed from the tenant out, fixed
       floor plates, the offset core, key plans and tiles, measurement
@@ -34,7 +34,7 @@ categories:
     order: 2
 
   - id: site-selection
-    name: "How We Choose Sites"
+    name: "Site Selection"
     scope: >-
       The method behind "near Power Centres": the retail anchors,
       catchment and cluster analysis, scoring, and the tests a site must
@@ -52,7 +52,7 @@ categories:
     order: 4
 
   - id: rollout
-    name: "The Rollout Program"
+    name: "Development Program"
     scope: >-
       Where building is planned next: the intended country-by-country
       programme across Canada, the United States, Spain, and Mexico, its
@@ -72,7 +72,7 @@ categories:
     order: 6
 
   - id: urban
-    name: "Why Places Grow"
+    name: "Urban Growth"
     scope: >-
       The city-scale forces behind demand: commuters, the urban fringe,
       demographics, and parking.
@@ -80,7 +80,7 @@ categories:
     order: 7
 
   - id: architecture
-    name: "Architecture and Design Styles"
+    name: "Architectural Styles"
     scope: >-
       The design culture the buildings stand in: architectural styles
       and movements from classical to contemporary, and how they bear on
@@ -98,7 +98,7 @@ categories:
     order: 9
 
   - id: reference
-    name: "Glossary"
+    name: "Glossary and Reference"
     scope: >-
       Terminology and standard definitions for buildings, markets, and
       geographic analysis, in plain words.

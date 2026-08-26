@@ -11,7 +11,7 @@ status: active
 audience: public
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: pointsav-engineering
 short_description: "Un glosario curado del vocabulario propio de tenencia directa de Woodfine — Clases de Desarrollo, Prototipo, Placa de Piso Fija, Programa de Expansión y términos relacionados — distinto de la terminología genérica de la industria AEC."
 paired_with: buildings/woodfine-development-vocabulary.md
@@ -48,11 +48,11 @@ Cuando un término ya cuenta con un artículo dedicado en la wiki, este glosario
 
 **Power Centre.** Un nodo minorista anclado por múltiples minoristas nacionales de gran formato, que sirve como el ancla principal de selección de sitios para los desarrollos de Woodfine. Definición completa: [[power-centres|Power Centres]].
 
-**Prototipo.** El diseño de edificio estandarizado — construido en torno a una Placa de Piso Fija — que se repite sin cambios materiales en cada desarrollo dentro de una Clase de Desarrollo. El Prototipo es lo que hace posible el Programa de Expansión: dado que el diseño está fijado antes de elegir un sitio, la adquisición, la secuenciación de la construcción y el análisis de suscripción pueden repetirse a escala de portafolio en lugar de rediseñarse para cada edificio. Véase [[fixed-floor-plates|Placas de piso fijas]] y [[rollout-index|El Programa de Expansión]].
+**Prototipo.** El diseño de edificio estandarizado — construido en torno a una Placa de Piso Fija — que se repite sin cambios materiales en cada desarrollo dentro de una Clase de Desarrollo. El Prototipo es lo que hace posible el Programa de Expansión: dado que el diseño está fijado antes de elegir un sitio, la adquisición, la secuenciación de la construcción y el análisis de suscripción pueden repetirse a escala de portafolio en lugar de rediseñarse para cada edificio. Véase [[fixed-floor-plates|Placas de piso fijas]] y [[rollout-index|Programa de Desarrollo]].
 
 **Mercados Regionales.** Los centros de población — de 50.000 a 300.000 habitantes, con un ingreso disponible alto en relación con la oferta minorista — que la metodología de co-localización de Woodfine evalúa para el desarrollo. Definición completa: [[about-regional-markets-system|Sistema de inteligencia de Mercados Regionales]].
 
-**Programa de Expansión.** El programa país por país de repetir un diseño de Prototipo estandarizado en múltiples sitios por razones de eficiencia y escalabilidad. Definición completa: [[rollout-index|El Programa de Expansión]].
+**Programa de Expansión.** El programa país por país de repetir un diseño de Prototipo estandarizado en múltiples sitios por razones de eficiencia y escalabilidad. Definición completa: [[rollout-index|Programa de Desarrollo]].
 
 **Sub-Prototipos.** Variantes definidas del Prototipo adaptadas a restricciones específicas del sitio — una parcela angosta, un lote esquinero, un límite irregular — que preservan la cuadrícula estructural central y la disciplina de la Placa de Piso Fija. Definición completa: [[fixed-floor-plates|Placas de piso fijas]].
 

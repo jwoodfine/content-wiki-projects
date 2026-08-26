@@ -12,7 +12,7 @@ index_scope: gis
 status: active
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-24
+last_edited: 2026-08-26
 editor: pointsav-engineering
 paired_with: gis/_index.md
 ---
@@ -57,5 +57,5 @@ Mapas y Datos abarca los datos espaciales detrás del análisis: de dónde provi
 
 ## Véase también
 
-- [[site-selection-index|Cómo Elegimos los Sitios]]
+- [[site-selection-index|Selección de Sitios]]
 - [[markets|Los Mercados]]

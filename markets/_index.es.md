@@ -12,7 +12,7 @@ index_scope: markets
 status: active
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: editorial
 paired_with: markets/_index.md
 ---
@@ -183,4 +183,4 @@ Dos artículos de "Mercados Regionales" preceden al sistema actual de co-ubicaci
 
 ## Véase también
 
-- [[site-selection-index|Cómo Elegimos los Sitios]]
+- [[site-selection-index|Selección de Sitios]]

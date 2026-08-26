@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Arquitectura y Estilos de Diseño"
+title: "Estilos Arquitectónicos"
 slug: architecture
 category: architecture
 type: topic
@@ -12,12 +12,12 @@ index_scope: architecture
 status: active
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-24
+last_edited: 2026-08-26
 editor: pointsav-engineering
 paired_with: architecture/_index.md
 ---
 
-Arquitectura y Estilos de Diseño abarca la cultura de diseño en la que se inscriben los edificios: los estilos y movimientos arquitectónicos a los que puede pertenecer un edificio comercial, y cómo el estilo, el período y la filosofía de diseño inciden en la idoneidad operativa y el valor a largo plazo de un edificio.
+Estilos Arquitectónicos abarca la cultura de diseño en la que se inscriben los edificios: los estilos y movimientos arquitectónicos a los que puede pertenecer un edificio comercial, y cómo el estilo, el período y la filosofía de diseño inciden en la idoneidad operativa y el valor a largo plazo de un edificio.
 
 <!-- START-HERE-HIGHLIGHT: engine reads this block to render the single "start here" card (reuses the existing cluster-card--start-here component). Do not add more than one. -->
 
@@ -74,4 +74,4 @@ Dos artículos conectan el estilo directamente con el lugar. [[new-urbanism|Nuev
 
 ## Véase también
 
-- [[building-design-index|Cómo Construimos]]
+- [[building-design-index|Diseño de Edificios]]

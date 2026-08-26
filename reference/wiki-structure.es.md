@@ -30,7 +30,7 @@ definido enlaza con el glosario.
 
 ## Los edificios
 
-**Los edificios** describe las seis [[about-development-classes|clases de desarrollo]] — Professional
+**Edificios** describe las seis [[about-development-classes|clases de desarrollo]] — Professional
 Centres (de tres a cinco plantas), Suburban Office (de seis a quince
 plantas), Retail Select (una sola planta), Tech Industrial y las previstas
 Parking Structures y Vertical Warehouses — cada una diseñada según un
@@ -38,18 +38,18 @@ prototipo fijo, con los inquilinos y la economía de cada clase.
 
 ## Cómo construimos
 
-**Cómo construimos** es el sistema de diseño: edificios concebidos desde
+**Diseño de edificios** es el sistema de diseño: edificios concebidos desde
 las necesidades del inquilino hacia afuera, [[fixed-floor-plates|plantas de dimensiones fijas]] y
 las [[boma-standard|normas de medición y certificaciones]] a las que se someten los
 edificios, incluida la práctica BIM.
 
-**[[architecture-overview|Arquitectura y estilos de diseño]]** recorre la cultura de diseño en la
+**[[architecture-overview|Estilos arquitectónicos]]** recorre la cultura de diseño en la
 que se enmarcan los edificios, desde los movimientos clásicos hasta los
 contemporáneos.
 
 ## Los lugares
 
-**Cómo elegimos los sitios** es el método: las anclas comerciales, el
+**Selección de sitios** es el método: las anclas comerciales, el
 análisis de quién vive y compra en las cercanías, la puntuación y las
 pruebas que un sitio debe superar antes de comprar el terreno.
 
@@ -57,7 +57,7 @@ pruebas que un sitio debe superar antes de comprar el terreno.
 los índices por país y por nivel, y una página de perfil para cada mercado
 — una colección en crecimiento, un artículo por lugar.
 
-**El programa de expansión** es dónde está previsto construir a
+**Programa de desarrollo** es dónde está previsto construir a
 continuación: el programa país por país que se pretende llevar a cabo en
 Canadá, los Estados Unidos, España y México, y los registros que siguen a
 los sitios candidatos a lo largo de la cartera. Es un plan, no una
@@ -72,13 +72,13 @@ regional que las Soluciones de Tenencia Directa están diseñadas para
 abordar, y la disciplina de construir por debajo de la demanda que
 preserva el poder de fijación de precios.
 
-**Por qué crecen los lugares** trata las fuerzas a escala urbana que hay
+**Crecimiento urbano** trata las fuerzas a escala urbana que hay
 detrás de la demanda: los desplazamientos al trabajo, la periferia urbana,
 la demografía y el aparcamiento.
 
-## Glosario
+## Glosario y referencia
 
-**Glosario** define la terminología.
+**Glosario y referencia** define la terminología.
 
 Cada artículo se publica en inglés y en español. La mitad de la historia
 que trata de la empresa y el dinero — quién es la empresa, en qué se

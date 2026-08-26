@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Glosario"
+title: "Glosario y Referencia"
 slug: reference
 category: reference
 type: topic
@@ -12,16 +12,16 @@ index_scope: reference
 status: active
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-24
+last_edited: 2026-08-26
 editor: pointsav-engineering
 paired_with: reference/_index.md
 ---
 
-Glosario abarca la terminología y las definiciones estándar utilizadas en toda esta wiki, en lenguaje sencillo.
+Glosario y Referencia abarca la terminología y las definiciones estándar utilizadas en toda esta wiki, en lenguaje sencillo.
 
 ## Glosarios
 
-[[site-selection-terminology|La Terminología de Selección de Sitios]] define el vocabulario para decidir dónde construir — Inversión Calificada, Power Centre, Diseño de Campus y los niveles objetivo Primario–Terciario. [[gis-cluster-scoring-glossary|El Glosario de Puntuación de Clústeres]] define la taxonomía de anclas, las definiciones de nivel (Regional, Distrital, Local, Marginal) y la convención de radio detrás del sistema de puntuación geográfica de co-ubicación descrito en [[markets|Los Mercados]] y [[site-selection-index|Cómo Elegimos los Sitios]].
+[[site-selection-terminology|La Terminología de Selección de Sitios]] define el vocabulario para decidir dónde construir — Inversión Calificada, Power Centre, Diseño de Campus y los niveles objetivo Primario–Terciario. [[gis-cluster-scoring-glossary|El Glosario de Puntuación de Clústeres]] define la taxonomía de anclas, las definiciones de nivel (Regional, Distrital, Local, Marginal) y la convención de radio detrás del sistema de puntuación geográfica de co-ubicación descrito en [[markets|Los Mercados]] y [[site-selection-index|Selección de Sitios]].
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: glossaries -->
 - [[site-selection-terminology]] — Glosario de los términos de selección de sitios y desarrollo de Woodfine, incluyendo Inversión Calificada, Power Centre, Diseño Campus y los objetivos Primario a Terciario.

@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Cómo Elegimos los Sitios"
+title: "Selección de Sitios"
 slug: site-selection-index
 category: site-selection
 type: topic
@@ -12,12 +12,12 @@ index_scope: site-selection
 status: active
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: pointsav-engineering
 paired_with: site-selection/_index.md
 ---
 
-Cómo Elegimos los Sitios abarca el método detrás de "cerca de los Power Centres" — la disciplina que decide dónde va un edificio antes de que cambie de manos el terreno.
+Selección de Sitios abarca el método detrás de "cerca de los Power Centres" — la disciplina que decide dónde va un edificio antes de que cambie de manos el terreno.
 
 <!-- START-HERE-HIGHLIGHT: engine reads this block to render the single "start here" card (reuses the existing cluster-card--start-here component). Do not add more than one. -->
 

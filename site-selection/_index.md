@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "How We Choose Sites"
+title: "Site Selection"
 slug: site-selection-index
 category: site-selection
 type: topic
@@ -12,12 +12,12 @@ index_scope: site-selection
 status: active
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: pointsav-engineering
 paired_with: _index.es.md
 ---
 
-How We Choose Sites covers the method behind "near Power Centres" — the discipline that decides where a building goes before land changes hands.
+Site Selection covers the method behind "near Power Centres" — the discipline that decides where a building goes before land changes hands.
 
 <!-- START-HERE-HIGHLIGHT: engine reads this block to render the single "start here" card (reuses the existing cluster-card--start-here component). Do not add more than one. -->
 

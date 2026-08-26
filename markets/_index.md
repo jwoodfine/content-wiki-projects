@@ -12,7 +12,7 @@ index_scope: markets
 status: active
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: editorial
 paired_with: _index.es.md
 ---
@@ -174,4 +174,4 @@ Two "Regional Markets" articles predate the current co-location system: [[about-
 
 ## See also
 
-- [[site-selection-index|How We Choose Sites]]
+- [[site-selection-index|Site Selection]]

@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Architecture and Design Styles"
+title: "Architectural Styles"
 slug: architecture
 category: architecture
 type: topic
@@ -12,12 +12,12 @@ index_scope: architecture
 status: active
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-24
+last_edited: 2026-08-26
 editor: pointsav-engineering
 paired_with: _index.es.md
 ---
 
-Architecture and Design Styles covers the design culture the buildings stand in: the architectural styles and movements a commercial building can belong to, and how style, period, and design philosophy bear on a building's operational suitability and long-term value.
+Architectural Styles covers the design culture the buildings stand in: the architectural styles and movements a commercial building can belong to, and how style, period, and design philosophy bear on a building's operational suitability and long-term value.
 
 <!-- START-HERE-HIGHLIGHT: engine reads this block to render the single "start here" card (reuses the existing cluster-card--start-here component). Do not add more than one. -->
 
@@ -74,4 +74,4 @@ Two articles connect style to place directly. [[new-urbanism|New Urbanism]] desc
 
 ## See also
 
-- [[building-design-index|How We Build]]
+- [[building-design-index|Building Design]]

@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Programa de Expansión"
+title: "Programa de Desarrollo"
 slug: rollout-index
 category: rollout
 type: topic
@@ -12,12 +12,12 @@ index_scope: rollout
 status: active
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-24
+last_edited: 2026-08-26
 editor: pointsav-engineering
 paired_with: rollout/_index.md
 ---
 
-El Programa de Expansión abarca dónde se planea construir a continuación: el programa previsto, país por país, y los registros que siguen a los sitios candidatos a través del proceso. Las ubicaciones, cifras y plazos descritos aquí son objetivos y pueden cambiar a medida que el programa avanza.
+Programa de Desarrollo abarca dónde se planea construir a continuación: el programa previsto, país por país, y los registros que siguen a los sitios candidatos a través del proceso. Las ubicaciones, cifras y plazos descritos aquí son objetivos y pueden cambiar a medida que el programa avanza.
 
 <!-- START-HERE-HIGHLIGHT: engine reads this block to render the single "start here" card (reuses the existing cluster-card--start-here component). Do not add more than one. -->
 
@@ -47,5 +47,5 @@ El Programa de Expansión abarca dónde se planea construir a continuación: el 
 
 ## Véase también
 
-- [[site-selection-index|Cómo Elegimos los Sitios]]
+- [[site-selection-index|Selección de Sitios]]
 - [[markets|Los Mercados]]

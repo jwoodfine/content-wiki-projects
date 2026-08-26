@@ -28,22 +28,22 @@ the glossary.
 
 ## The buildings
 
-**The Buildings** describes the six [[about-development-classes|development classes]] — Professional
+**Buildings** describes the six [[about-development-classes|development classes]] — Professional
 Centres (three to five storeys), Suburban Office (six to fifteen
 storeys), Retail Select (single storey), Tech Industrial, and the
 planned Parking Structures and Vertical Warehouses — each designed to a
 fixed prototype, with the tenants and economics of each class.
 
-**How We Build** is the design system: buildings designed from the
+**Building Design** is the design system: buildings designed from the
 tenant's needs outward, [[fixed-floor-plates|fixed floor plates]], and the [[boma-standard|measurement
 standards]] and certifications the buildings are held to.
 
-**[[architecture-overview|Architecture and Design Styles]]** surveys the design culture the
+**[[architecture-overview|Architectural Styles]]** surveys the design culture the
 buildings stand in, from classical to contemporary movements.
 
 ## The places
 
-**How We Choose Sites** is the method: the retail anchors, the analysis
+**Site Selection** is the method: the retail anchors, the analysis
 of who lives and shops nearby, the scoring, and the tests a site must
 pass before land is bought.
 
@@ -51,7 +51,7 @@ pass before land is bought.
 country and tier indices, and a profile page for every market — a
 growing collection, one article per place.
 
-**The Rollout Program** is where building is planned next: the intended
+**Development Program** is where building is planned next: the intended
 country-by-country programme across Canada, the United States, Spain,
 and Mexico, and the registers that track candidate sites through the
 pipeline. It is a plan, not a promise: locations, counts, and timing
@@ -64,15 +64,15 @@ deliberate market policies: the regional capital gap the Direct-Hold
 Solutions are designed to address, and the under-building discipline
 that preserves pricing power.
 
-**Why Places Grow** covers the city-scale forces behind demand:
+**Urban Growth** covers the city-scale forces behind demand:
 commuters, the urban fringe, demographics, and parking.
 
 **Maps and Data** documents the spatial data behind the analysis:
 sources, coverage, and methods.
 
-## Glossary
+## Glossary and Reference
 
-**Glossary** defines the terminology.
+**Glossary and Reference** defines the terminology.
 
 Every article is published in English and Spanish. The company-and-money
 half of the story — who the company is, what you invest in, how the

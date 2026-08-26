@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-11
+last_edited: 2026-08-26
 editor: pointsav-engineering
 short_description: "The intended country-by-country rollout for Mexico: development regions and a site register to be defined and tracked as the programme matures. Status: planned."
 paired_with: rollout/mx-programme.es.md
@@ -34,6 +34,6 @@ The Mexico programme's status is planned. This article asserts no site counts, r
 
 ## See also
 
-- [[rollout-index|The Rollout Program]] — the country-by-country framework this article sits within
+- [[rollout-index|Development Program]] — the country-by-country framework this article sits within
 - [[development-regions|Development regions]] — how geographic and jurisdictional zones are defined
 - [[about-development-site-monitoring-register|Development Site Monitoring Register]] — how candidate sites are tracked

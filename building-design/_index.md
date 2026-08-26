@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "How We Build"
+title: "Building Design"
 slug: building-design-index
 category: building-design
 type: topic
@@ -12,12 +12,12 @@ index_scope: building-design
 status: active
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-24
+last_edited: 2026-08-26
 editor: pointsav-engineering
 paired_with: _index.es.md
 ---
 
-How We Build covers the design system behind every Woodfine building: a fixed leasing geometry, an open-standards BIM practice, and the site-and-building disciplines that turn that geometry into a buildable, sustainable property.
+Building Design covers the design system behind every Woodfine building: a fixed leasing geometry, an open-standards BIM practice, and the site-and-building disciplines that turn that geometry into a buildable, sustainable property.
 
 <!-- START-HERE-HIGHLIGHT: engine reads this block to render the single "start here" card (reuses the existing cluster-card--start-here component). Do not add more than one. -->
 
@@ -82,5 +82,5 @@ How We Build covers the design system behind every Woodfine building: a fixed le
 
 ## See also
 
-- [[buildings-index|The Buildings]]
-- [[site-selection-index|How We Choose Sites]]
+- [[buildings-index|Buildings]]
+- [[site-selection-index|Site Selection]]

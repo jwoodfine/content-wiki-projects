@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-07-03
+last_edited: 2026-08-26
 editor: pointsav-engineering
 short_description: "El programa previsto de expansión país por país para México: regiones de desarrollo y un registro de sitios por definir y dar seguimiento a medida que el programa avanza. Estado: planificado."
 paired_with: rollout/mx-programme.md
@@ -34,6 +34,6 @@ El estado del programa de México es planificado. Este artículo no afirma recue
 
 ## Véase también
 
-- [[rollout-index|El Programa de Expansión]] — el marco país por país en el que se inserta este artículo
+- [[rollout-index|Programa de Desarrollo]] — el marco país por país en el que se inserta este artículo
 - [[development-regions|Regiones de desarrollo]] — cómo se definen las zonas geográficas y jurisdiccionales
 - [[about-development-site-monitoring-register|Registro de Monitoreo de Sitios de Desarrollo]] — cómo se da seguimiento a los sitios candidatos

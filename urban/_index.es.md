@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Por Qué Crecen los Lugares"
+title: "Crecimiento Urbano"
 slug: urban
 category: urban
 type: topic
@@ -12,12 +12,12 @@ index_scope: urban
 status: active
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-24
+last_edited: 2026-08-26
 editor: pointsav-engineering
 paired_with: urban/_index.md
 ---
 
-Por Qué Crecen los Lugares abarca las fuerzas a escala urbana detrás de la demanda: los arquetipos de co-ubicación a los que puede pertenecer un sitio, y los estándares demográficos y de estacionamiento que se derivan de ellos.
+Crecimiento Urbano abarca las fuerzas a escala urbana detrás de la demanda: los arquetipos de co-ubicación a los que puede pertenecer un sitio, y los estándares demográficos y de estacionamiento que se derivan de ellos.
 
 <!-- START-HERE-HIGHLIGHT: engine reads this block to render the single "start here" card (reuses the existing cluster-card--start-here component). Do not add more than one. -->
 
@@ -27,7 +27,7 @@ Por Qué Crecen los Lugares abarca las fuerzas a escala urbana detrás de la dem
 
 ## Arquetipos de Co-ubicación
 
-[[commuter|Commuter (PKS)]] y [[urban-fringe|Periferia Urbana (VWH)]] son dos de los tres arquetipos de co-ubicación de Inteligencia de Ubicación: sitios adyacentes al transporte con estacionamiento significativo, y actividad minorista de gran formato y distribución-industrial en la periferia metropolitana, respectivamente. El tercer arquetipo, Centros Comerciales de Barrio (PRO), se cubre en [[site-selection-index|Cómo Elegimos los Sitios]].
+[[commuter|Commuter (PKS)]] y [[urban-fringe|Periferia Urbana (VWH)]] son dos de los tres arquetipos de co-ubicación de Inteligencia de Ubicación: sitios adyacentes al transporte con estacionamiento significativo, y actividad minorista de gran formato y distribución-industrial en la periferia metropolitana, respectivamente. El tercer arquetipo, Centros Comerciales de Barrio (PRO), se cubre en [[site-selection-index|Selección de Sitios]].
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: co-location-archetypes -->
 - [[commuter]] — Los clústeres de Viajero Habitual (PKS) identifican sitios comerciales adyacentes al tránsito con aparcamiento significativo — cercanías, intercambiadores de tránsito, aparcamientos de disuasión y comercio de salida de autopista — uno de los tres arquetipos de co-localización de Inteligencia de Localización.
@@ -46,5 +46,5 @@ Por Qué Crecen los Lugares abarca las fuerzas a escala urbana detrás de la dem
 
 ## Véase también
 
-- [[site-selection-index|Cómo Elegimos los Sitios]]
+- [[site-selection-index|Selección de Sitios]]
 - [[markets|Los Mercados]]

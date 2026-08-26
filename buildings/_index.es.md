@@ -12,12 +12,12 @@ index_scope: buildings
 status: active
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-24
+last_edited: 2026-08-26
 editor: pointsav-engineering
 paired_with: buildings/_index.md
 ---
 
-Los Edificios nombra lo que realmente construye Woodfine: cuatro clases de desarrollo vigentes hoy, dos más planeadas, y las disciplinas de curaduría de inquilinos y adquisiciones que los llenan y abastecen.
+Edificios nombra lo que realmente construye Woodfine: cuatro clases de desarrollo vigentes hoy, dos más planeadas, y las disciplinas de curaduría de inquilinos y adquisiciones que los llenan y abastecen.
 
 <!-- START-HERE-HIGHLIGHT: engine reads this block to render the single "start here" card (reuses the existing cluster-card--start-here component). Do not add more than one. -->
 
@@ -59,4 +59,4 @@ Dos artículos más explican cómo se llena y abastece un edificio. [[mix-of-use
 
 ## Véase también
 
-- [[building-design-index|Cómo Construimos]]
+- [[building-design-index|Diseño de Edificios]]

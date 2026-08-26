@@ -11,7 +11,7 @@ status: active
 audience: public
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: pointsav-engineering
 short_description: "A curated glossary of proprietary Woodfine direct-hold vocabulary — Development Classes, Prototype, Fixed Floor Plate, Rollout Program, and related terms — distinct from generic AEC industry terminology."
 paired_with: buildings/woodfine-development-vocabulary.es.md
@@ -48,11 +48,11 @@ Where a term already has a dedicated wiki article, this glossary gives a one-lin
 
 **Power Centre.** A retail node anchored by multiple large-format national retailers, serving as the primary site-selection anchor for Woodfine deployments. Full definition: [[power-centres|Power centres]].
 
-**Prototype.** The standardized building design — built around a Fixed Floor Plate — repeated without material change across every deployment within a Development Class. The Prototype is what makes the Rollout Program possible: because the design is fixed before a site is chosen, procurement, construction sequencing, and underwriting can be repeated at portfolio scale rather than re-engineered per building. See [[fixed-floor-plates|Fixed floor plates]] and [[rollout-index|The Rollout Program]].
+**Prototype.** The standardized building design — built around a Fixed Floor Plate — repeated without material change across every deployment within a Development Class. The Prototype is what makes the Rollout Program possible: because the design is fixed before a site is chosen, procurement, construction sequencing, and underwriting can be repeated at portfolio scale rather than re-engineered per building. See [[fixed-floor-plates|Fixed floor plates]] and [[rollout-index|Development Program]].
 
 **Regional Markets.** The population centres — 50,000 to 300,000 residents, with high disposable income relative to retail supply — that Woodfine's co-location methodology screens for development. Full definition: [[about-regional-markets-system|Regional Markets intelligence system]].
 
-**Rollout Program.** The country-by-country program of repeating a standardized Prototype design across multiple sites for efficiency and scalability. Full definition: [[rollout-index|The Rollout Program]].
+**Rollout Program.** The country-by-country program of repeating a standardized Prototype design across multiple sites for efficiency and scalability. Full definition: [[rollout-index|Development Program]].
 
 **Sub-Prototypes.** Defined variants of the Prototype adapted to specific site constraints — a narrow parcel, a corner lot, an irregular boundary — while preserving the core structural grid and Fixed Floor Plate discipline. Full definition: [[fixed-floor-plates|Fixed floor plates]].
 
