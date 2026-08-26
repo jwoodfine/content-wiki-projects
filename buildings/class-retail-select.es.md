@@ -18,7 +18,7 @@ paired_with: buildings/class-retail-select.md
 cites: []
 ---
 
-Retail Select sitúa comercio minorista de un solo piso, a nivel de calle, dentro del mismo radio de proximidad de 1,0 kilómetro que [[class-professional-centres|Centros Profesionales]], sirviendo como el complemento minorista de las clases de oficina de varios pisos de Woodfine. Es una de las seis [[about-development-classes|clases de desarrollo]] de la cartera de tenencia directa de MCorp.
+Retail Select sitúa comercio minorista de un solo piso, a nivel de calle, dentro del mismo radio de proximidad de 1,0 kilómetro que [[class-professional-centres|Centros Profesionales]], sirviendo como el complemento minorista de las clases de oficina de varios pisos de Woodfine. Es una de las seis [[about-development-classes|clases de desarrollo]] de la cartera de tenencia directa que desarrolla Woodfine.
 
 ## Qué es Retail Select
 

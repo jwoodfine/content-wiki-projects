@@ -18,7 +18,7 @@ paired_with: buildings/class-parking-structures.es.md
 cites: []
 ---
 
-Parking Structures is intended to hold structured parking as a standalone direct-hold asset at regional transit hubs and airport catchment zones — a siting context entirely outside the four proximity-based classes. It is one of the six [[about-development-classes|development classes]] planned for MCorp's direct-hold portfolio and is described here in planned and intended terms.
+Parking Structures is intended to hold structured parking as a standalone direct-hold asset at regional transit hubs and airport catchment zones — a siting context entirely outside the four proximity-based classes. It is one of the six [[about-development-classes|development classes]] planned for the direct-hold portfolio Woodfine develops and is described here in planned and intended terms.
 
 ## What Parking Structures are intended to be
 

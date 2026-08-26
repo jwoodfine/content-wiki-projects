@@ -18,7 +18,7 @@ paired_with: buildings/woodfine-development-vocabulary.es.md
 cites: []
 ---
 
-This glossary covers only the proprietary terms that describe MCorp's direct-hold development model — vocabulary that would not be found in a general AEC glossary. It is deliberately narrow: Woodfine's internal reference material also documents several hundred general architecture, engineering, and construction terms — building-code definitions, sustainability-certification names, mechanical-systems vocabulary — that are standard industry usage and already well documented elsewhere. Those generic terms are out of scope here.
+This glossary covers only the proprietary terms that describe Woodfine's direct-hold development model — vocabulary that would not be found in a general AEC glossary. It is deliberately narrow: Woodfine's internal reference material also documents several hundred general architecture, engineering, and construction terms — building-code definitions, sustainability-certification names, mechanical-systems vocabulary — that are standard industry usage and already well documented elsewhere. Those generic terms are out of scope here.
 
 Where a term already has a dedicated wiki article, this glossary gives a one-line summary and a link rather than repeating the full definition.
 

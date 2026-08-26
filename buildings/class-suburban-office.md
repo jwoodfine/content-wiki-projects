@@ -18,7 +18,7 @@ paired_with: buildings/class-suburban-office.es.md
 cites: []
 ---
 
-Suburban Office extends the [[class-professional-centres|Professional Centres]] product to a 2.0-kilometre proximity radius, delivering the same institutional office format at sites where the tighter [[power-centres|power centre]] siting standard cannot be met. It is one of the six [[about-development-classes|development classes]] in MCorp's direct-hold portfolio.
+Suburban Office extends the [[class-professional-centres|Professional Centres]] product to a 2.0-kilometre proximity radius, delivering the same institutional office format at sites where the tighter [[power-centres|power centre]] siting standard cannot be met. It is one of the six [[about-development-classes|development classes]] in the direct-hold portfolio Woodfine develops.
 
 ## What Suburban Office is
 

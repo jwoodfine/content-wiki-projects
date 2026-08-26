@@ -18,7 +18,7 @@ paired_with: buildings/class-vertical-warehouses.es.md
 cites: []
 ---
 
-Vertical Warehouses is planned to stack industrial and logistics floor area vertically at sites outside the power centre proximity model that governs the four office- and retail-facing classes. Like [[class-parking-structures|Parking Structures]], it is one of the six [[about-development-classes|development classes]] planned for MCorp's direct-hold portfolio and is described here in planned and intended terms.
+Vertical Warehouses is planned to stack industrial and logistics floor area vertically at sites outside the power centre proximity model that governs the four office- and retail-facing classes. Like [[class-parking-structures|Parking Structures]], it is one of the six [[about-development-classes|development classes]] planned for the direct-hold portfolio Woodfine develops and is described here in planned and intended terms.
 
 ## What Vertical Warehouses are intended to be
 

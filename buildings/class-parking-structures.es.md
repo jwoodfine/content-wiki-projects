@@ -18,7 +18,7 @@ paired_with: buildings/class-parking-structures.md
 cites: []
 ---
 
-Las Estructuras de Estacionamiento están previstas para mantener estacionamiento estructurado como un activo de tenencia directa independiente en centros de tránsito regionales y zonas de captación aeroportuaria — un contexto de emplazamiento completamente ajeno a las cuatro clases basadas en proximidad. Son una de las seis [[about-development-classes|clases de desarrollo]] planificadas para la cartera de tenencia directa de MCorp y se describen aquí en términos planificados y previstos.
+Las Estructuras de Estacionamiento están previstas para mantener estacionamiento estructurado como un activo de tenencia directa independiente en centros de tránsito regionales y zonas de captación aeroportuaria — un contexto de emplazamiento completamente ajeno a las cuatro clases basadas en proximidad. Son una de las seis [[about-development-classes|clases de desarrollo]] planificadas para la cartera de tenencia directa que desarrolla Woodfine y se describen aquí en términos planificados y previstos.
 
 ## Qué se prevé que sean las Estructuras de Estacionamiento
 

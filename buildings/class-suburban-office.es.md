@@ -18,7 +18,7 @@ paired_with: buildings/class-suburban-office.md
 cites: []
 ---
 
-Las Oficinas Suburbanas extienden el producto de [[class-professional-centres|Centros Profesionales]] a un radio de proximidad de 2,0 kilómetros, ofreciendo el mismo formato de oficina institucional en sitios donde no se puede cumplir el estándar de emplazamiento más estrecho junto al [[power-centres|Power Centre]]. Es una de las seis [[about-development-classes|clases de desarrollo]] de la cartera de tenencia directa de MCorp.
+Las Oficinas Suburbanas extienden el producto de [[class-professional-centres|Centros Profesionales]] a un radio de proximidad de 2,0 kilómetros, ofreciendo el mismo formato de oficina institucional en sitios donde no se puede cumplir el estándar de emplazamiento más estrecho junto al [[power-centres|Power Centre]]. Es una de las seis [[about-development-classes|clases de desarrollo]] de la cartera de tenencia directa que desarrolla Woodfine.
 
 ## Qué son las Oficinas Suburbanas
 

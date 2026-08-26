@@ -20,7 +20,7 @@ paired_with: buildings/class-professional-centres.es.md
 cites: []
 ---
 
-Woodfine does not redesign buildings to fit sites; it selects sites that can accommodate a fixed Prototype in a Campus Design. **Professional Centres** — the primary and most widely deployed of the six [[about-development-classes|development classes]] in MCorp's direct-hold portfolio — are three-to-five-floor buildings engineered for high-efficiency professional tenancy. The Prototype fixes floor plates, structural systems, and tenant service standards; the configuration does not vary by market or development site.
+Woodfine does not redesign buildings to fit sites; it selects sites that can accommodate a fixed Prototype in a Campus Design. **Professional Centres** — the primary and most widely deployed of the six [[about-development-classes|development classes]] in the direct-hold portfolio Woodfine develops — are three-to-five-floor buildings engineered for high-efficiency professional tenancy. The Prototype fixes floor plates, structural systems, and tenant service standards; the configuration does not vary by market or development site.
 
 ## Tenant fit
 

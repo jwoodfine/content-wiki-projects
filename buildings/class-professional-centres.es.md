@@ -20,7 +20,7 @@ paired_with: buildings/class-professional-centres.md
 cites: []
 ---
 
-Woodfine no rediseña edificios para adaptarlos a un sitio; selecciona sitios que pueden acomodar un Prototipo fijo en un Diseño Campus. **Professional Centres** — la clase principal y más ampliamente desplegada de las seis [[about-development-classes|clases de desarrollo]] del portafolio de tenencia directa de MCorp — son edificios de tres a cinco pisos diseñados para arrendatarios profesionales de alta eficiencia. El Prototipo fija las placas de piso, los sistemas estructurales y los estándares de servicio al arrendatario; la configuración no varía según el mercado ni el sitio de desarrollo.
+Woodfine no rediseña edificios para adaptarlos a un sitio; selecciona sitios que pueden acomodar un Prototipo fijo en un Diseño Campus. **Professional Centres** — la clase principal y más ampliamente desplegada de las seis [[about-development-classes|clases de desarrollo]] del portafolio de tenencia directa que desarrolla Woodfine — son edificios de tres a cinco pisos diseñados para arrendatarios profesionales de alta eficiencia. El Prototipo fija las placas de piso, los sistemas estructurales y los estándares de servicio al arrendatario; la configuración no varía según el mercado ni el sitio de desarrollo.
 
 ## Ajuste de arrendatarios
 

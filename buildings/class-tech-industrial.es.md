@@ -18,7 +18,7 @@ paired_with: buildings/class-tech-industrial.md
 cites: []
 ---
 
-Tech Industrial combina un local comercial con espacio industrial de taller en un formato de un solo piso que ninguna otra clase de Woodfine ofrece. Es una de las seis [[about-development-classes|clases de desarrollo]] en la cartera de tenencia directa de MCorp, distinta de los formatos de oficina de [[class-professional-centres|Professional Centres]] y [[class-suburban-office|Suburban Office]] y del formato comercial de [[class-retail-select|Retail Select]].
+Tech Industrial combina un local comercial con espacio industrial de taller en un formato de un solo piso que ninguna otra clase de Woodfine ofrece. Es una de las seis [[about-development-classes|clases de desarrollo]] en la cartera de tenencia directa que desarrolla Woodfine, distinta de los formatos de oficina de [[class-professional-centres|Professional Centres]] y [[class-suburban-office|Suburban Office]] y del formato comercial de [[class-retail-select|Retail Select]].
 
 ## La configuración 25/75
 

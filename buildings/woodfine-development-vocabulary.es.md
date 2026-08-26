@@ -18,7 +18,7 @@ paired_with: buildings/woodfine-development-vocabulary.md
 cites: []
 ---
 
-Este glosario cubre únicamente los términos propios que describen el modelo de desarrollo de tenencia directa de MCorp — vocabulario que no se encontraría en un glosario general de AEC. Es deliberadamente acotado: el material de referencia interno de Woodfine también documenta varios cientos de términos generales de arquitectura, ingeniería y construcción — definiciones de códigos de construcción, nombres de certificaciones de sostenibilidad, vocabulario de sistemas mecánicos — que son uso estándar de la industria y ya están bien documentados en otros lugares. Esos términos genéricos quedan fuera del alcance de este artículo.
+Este glosario cubre únicamente los términos propios que describen el modelo de desarrollo de tenencia directa de Woodfine — vocabulario que no se encontraría en un glosario general de AEC. Es deliberadamente acotado: el material de referencia interno de Woodfine también documenta varios cientos de términos generales de arquitectura, ingeniería y construcción — definiciones de códigos de construcción, nombres de certificaciones de sostenibilidad, vocabulario de sistemas mecánicos — que son uso estándar de la industria y ya están bien documentados en otros lugares. Esos términos genéricos quedan fuera del alcance de este artículo.
 
 Cuando un término ya cuenta con un artículo dedicado en la wiki, este glosario ofrece un resumen de una línea con enlace, en lugar de repetir la definición completa.
 

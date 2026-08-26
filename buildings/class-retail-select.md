@@ -18,7 +18,7 @@ paired_with: buildings/class-retail-select.es.md
 cites: []
 ---
 
-Retail Select places single-storey, street-level retail within the same 1.0-kilometre proximity radius as [[class-professional-centres|Professional Centres]], serving as the retail complement to Woodfine's multi-storey office classes. It is one of the six [[about-development-classes|development classes]] in MCorp's direct-hold portfolio.
+Retail Select places single-storey, street-level retail within the same 1.0-kilometre proximity radius as [[class-professional-centres|Professional Centres]], serving as the retail complement to Woodfine's multi-storey office classes. It is one of the six [[about-development-classes|development classes]] in the direct-hold portfolio Woodfine develops.
 
 ## What Retail Select is
 
