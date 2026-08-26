@@ -171,8 +171,12 @@ redirects:
   - from: /topic-cluster-deduplication-threshold
     to: /wiki/cluster-deduplication-threshold
 
+  # 2026-08-26: target retracted (JOURNAL-format research paper, never belonged in a
+  # wiki per journal-registry.md policy — staged as a drafts-outbound handoff to
+  # project-gis instead). No wiki successor exists; redirect to the category landing
+  # page rather than leave this indexed URL dangling.
   - from: /topic-geometric-site-selection-national-tenancy
-    to: /wiki/geometric-site-selection-national-tenancy
+    to: /category/site-selection
 
   - from: /topic-location-intelligence-archetypes
     to: /wiki/location-intelligence-archetypes
