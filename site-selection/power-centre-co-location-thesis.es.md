@@ -20,7 +20,7 @@ paired_with: site-selection/power-centre-co-location-thesis.md
 cites: []
 ---
 
-La **Tesis de Co-Ubicación en Power Centres** es la disciplina de selección de sitios que subyace a la definición de Inversión Calificada de MCorp. Los Sitios de Desarrollo deben co-ubicarse en o inmediatamente adyacentes a Power Centres existentes — nodos minoristas anclados por Minoristas Nacionales importantes que operan sus Prototipos de tienda establecidos. La co-ubicación con un ancla de Power Centre es un criterio no negociable para la calificación del sitio; el desarrollo no se adapta a sitios que no cumplen este estándar.
+La **Tesis de Co-Ubicación en Power Centres** es la disciplina de selección de sitios que subyace a la definición de Inversión Calificada de Woodfine. Los Sitios de Desarrollo deben co-ubicarse en o inmediatamente adyacentes a Power Centres existentes — nodos minoristas anclados por Minoristas Nacionales importantes que operan sus Prototipos de tienda establecidos. La co-ubicación con un ancla de Power Centre es un criterio no negociable para la calificación del sitio; el desarrollo no se adapta a sitios que no cumplen este estándar.
 
 ## La Relación con el Ancla
 

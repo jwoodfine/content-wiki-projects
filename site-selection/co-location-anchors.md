@@ -20,7 +20,7 @@ cites:
   - osc-sn-51-721
 ---
 
-A commercial node qualifies for MCorp's site selection only when a large-format national retailer is present within the defined proximity threshold — the anchor adjacency requirement is binary, not a matter of degree. A site without a qualifying anchor does not proceed, regardless of other commercial characteristics. The adjacency requirement is one of the structural inputs to the [[co-location-methodology|co-location methodology]] and the [[co-location-ranking-system|deterministic ranking system]]; the full chain-to-family mapping is documented in the [[retail-brand-family-taxonomy|retail brand family taxonomy]].
+A commercial node qualifies for Woodfine's site selection only when a large-format national retailer is present within the defined proximity threshold — the anchor adjacency requirement is binary, not a matter of degree. A site without a qualifying anchor does not proceed, regardless of other commercial characteristics. The adjacency requirement is one of the structural inputs to the [[co-location-methodology|co-location methodology]] and the [[co-location-ranking-system|deterministic ranking system]]; the full chain-to-family mapping is documented in the [[retail-brand-family-taxonomy|retail brand family taxonomy]].
 
 ## Why anchors matter
 
