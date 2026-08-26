@@ -288,7 +288,7 @@ redirects:
   - from: /topic-regional-market-matrix
     to: /category/markets
 
-  - from: /wiki/about-regional-market-matrix
+  - from: /about-regional-market-matrix
     to: /category/markets
 
   - from: /topic-regional-markets-system
