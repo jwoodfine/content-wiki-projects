@@ -73,38 +73,38 @@ Nine country-level Regional Market indices filter the continental Top 400 tables
 
 **Verified TOP400 entries (16):** co-location cluster composition current as of the 2026-08-07 dataset. No rank or score is published for any entry; list order below is alphabetical by profile slug, not ordinal.
 
-**Note:** [[us-sc-greenville-spartanburg]] appears in the North American Top 400 table linked from this profile, but the profile page itself describes Spartanburg as a metro-core reference point rather than a ranked suburban entry. This is a pre-existing inconsistency in the underlying data, not resolved by this edit — flagged for a future data-reconciliation pass rather than corrected unilaterally here.
+**Note:** [[us-sc-greenville-spartanburg|Spartanburg, SC]] appears in the North American Top 400 table linked from this profile, but the profile page itself describes Spartanburg as a metro-core reference point rather than a ranked suburban entry. This is a pre-existing inconsistency in the underlying data, not resolved by this edit — flagged for a future data-reconciliation pass rather than corrected unilaterally here.
 
-| Profile | Market | Continent |
-|---|---|---|
-| [[us-tx-plano]] | Plano, TX | North America |
-| [[ca-on-mississauga]] | Mississauga, ON | North America |
-| [[us-tx-frisco]] | Frisco, TX | North America |
-| [[us-sc-greenville-spartanburg]] | Spartanburg, SC | North America |
-| [[us-az-tempe]] | Tempe, AZ | North America |
-| [[us-ca-torrance]] | Torrance, CA | North America |
-| [[us-ut-provo-orem]] | Provo, UT | North America |
-| [[us-la-kenner]] | Kenner, LA | North America |
-| [[us-mn-eagan]] | Eagan, MN | North America |
-| [[se-jarfalla]] | Järfälla | Europe |
-| [[gb-eng-york]] | York | Europe |
-| [[gb-eng-warrington]] | Warrington | Europe |
-| [[gb-eng-cherwell]] | Cherwell | Europe |
-| [[gb-eng-northampton]] | Northampton | Europe |
-| [[pl-bielsko-biala]] | Bielsko-Biała | Europe |
-| [[gb-eng-chester]] | Cheshire West and Chester | Europe |
+| Market | Continent |
+|---|---|
+| [[us-tx-plano|Plano, TX]] | North America |
+| [[ca-on-mississauga|Mississauga, ON]] | North America |
+| [[us-tx-frisco|Frisco, TX]] | North America |
+| [[us-sc-greenville-spartanburg|Spartanburg, SC]] | North America |
+| [[us-az-tempe|Tempe, AZ]] | North America |
+| [[us-ca-torrance|Torrance, CA]] | North America |
+| [[us-ut-provo-orem|Provo, UT]] | North America |
+| [[us-la-kenner|Kenner, LA]] | North America |
+| [[us-mn-eagan|Eagan, MN]] | North America |
+| [[se-jarfalla|Järfälla]] | Europe |
+| [[gb-eng-york|York]] | Europe |
+| [[gb-eng-warrington|Warrington]] | Europe |
+| [[gb-eng-cherwell|Cherwell]] | Europe |
+| [[gb-eng-northampton|Northampton]] | Europe |
+| [[pl-bielsko-biala|Bielsko-Biała]] | Europe |
+| [[gb-eng-chester|Cheshire West and Chester]] | Europe |
 
 **Reference-only profiles (16)** — real places that are not currently part of the TOP400 set: either
 metro-core reference points for other entries, or standalone markets outside the
 15–80 km suburban band. Each profile page says so explicitly rather than presenting a
 market outside the set as if it were included.
 
-North America: [[ca-ab-lethbridge]], [[ca-bc-kelowna]], [[ca-nb-moncton]],
-[[ca-on-barrie-innisfil]], [[ca-sk-regina]], [[us-co-colorado-springs]],
-[[us-co-fort-collins]], [[us-ks-wichita]], [[us-wa-spokane]], [[us-wi-madison]].
+North America: [[ca-ab-lethbridge|Lethbridge]], [[ca-bc-kelowna|Kelowna]], [[ca-nb-moncton|Moncton]],
+[[ca-on-barrie-innisfil|Barrie–Innisfil]], [[ca-sk-regina|Regina]], [[us-co-colorado-springs|Colorado Springs]],
+[[us-co-fort-collins|Fort Collins]], [[us-ks-wichita|Wichita]], [[us-wa-spokane|Spokane]], [[us-wi-madison|Madison]].
 
-Europe: [[es-ar-zaragoza-secondary]], [[es-cl-burgos]], [[es-cl-valladolid]],
-[[es-nc-pamplona]], [[es-pv-vitoria-gasteiz]], [[gb-sct-inverness]].
+Europe: [[es-ar-zaragoza-secondary|Zaragoza]], [[es-cl-burgos|Burgos]], [[es-cl-valladolid|Valladolid]],
+[[es-nc-pamplona|Pamplona]], [[es-pv-vitoria-gasteiz|Vitoria-Gasteiz]], [[gb-sct-inverness|Inverness]].
 
 **Retired (2026-08-17), not part of the current TOP400 or reference-only counts above (9):**
 seven German city profiles plus Chambéry (France) and Breda (Netherlands) — those three

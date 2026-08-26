@@ -75,31 +75,31 @@ Existen hoy 41 páginas de perfil de mercado individual (pares EN+ES), cada una 
 según el conjunto de datos del 2026-08-07. No se publica posición ni puntuación para ninguna
 entrada; el orden de la lista abajo es alfabético por slug de perfil, no ordinal.
 
-**Nota:** [[us-sc-greenville-spartanburg]] aparece en la tabla del Top 400 de América del
+**Nota:** [[us-sc-greenville-spartanburg|Spartanburg, SC]] aparece en la tabla del Top 400 de América del
 Norte enlazada desde este perfil, pero la propia página de perfil describe Spartanburg como
 un punto de referencia metropolitano en lugar de una entrada suburbana calificada. Se trata
 de una inconsistencia preexistente en los datos subyacentes, no resuelta por esta edición —
 señalada para una futura revisión de conciliación de datos en lugar de corregida
 unilateralmente aquí.
 
-| Perfil | Mercado | Continente |
-|---|---|---|
-| [[us-tx-plano]] | Plano, TX | América del Norte |
-| [[ca-on-mississauga]] | Mississauga, ON | América del Norte |
-| [[us-tx-frisco]] | Frisco, TX | América del Norte |
-| [[us-sc-greenville-spartanburg]] | Spartanburg, SC | América del Norte |
-| [[us-az-tempe]] | Tempe, AZ | América del Norte |
-| [[us-ca-torrance]] | Torrance, CA | América del Norte |
-| [[us-ut-provo-orem]] | Provo, UT | América del Norte |
-| [[us-la-kenner]] | Kenner, LA | América del Norte |
-| [[us-mn-eagan]] | Eagan, MN | América del Norte |
-| [[se-jarfalla]] | Järfälla | Europa |
-| [[gb-eng-york]] | York | Europa |
-| [[gb-eng-warrington]] | Warrington | Europa |
-| [[gb-eng-cherwell]] | Cherwell | Europa |
-| [[gb-eng-northampton]] | Northampton | Europa |
-| [[pl-bielsko-biala]] | Bielsko-Biała | Europa |
-| [[gb-eng-chester]] | Cheshire West and Chester | Europa |
+| Mercado | Continente |
+|---|---|
+| [[us-tx-plano|Plano, TX]] | América del Norte |
+| [[ca-on-mississauga|Mississauga, ON]] | América del Norte |
+| [[us-tx-frisco|Frisco, TX]] | América del Norte |
+| [[us-sc-greenville-spartanburg|Spartanburg, SC]] | América del Norte |
+| [[us-az-tempe|Tempe, AZ]] | América del Norte |
+| [[us-ca-torrance|Torrance, CA]] | América del Norte |
+| [[us-ut-provo-orem|Provo, UT]] | América del Norte |
+| [[us-la-kenner|Kenner, LA]] | América del Norte |
+| [[us-mn-eagan|Eagan, MN]] | América del Norte |
+| [[se-jarfalla|Järfälla]] | Europa |
+| [[gb-eng-york|York]] | Europa |
+| [[gb-eng-warrington|Warrington]] | Europa |
+| [[gb-eng-cherwell|Cherwell]] | Europa |
+| [[gb-eng-northampton|Northampton]] | Europa |
+| [[pl-bielsko-biala|Bielsko-Biała]] | Europa |
+| [[gb-eng-chester|Cheshire West and Chester]] | Europa |
 
 **Perfiles de referencia únicamente (16)** — lugares reales que actualmente no forman parte
 del conjunto TOP400: o bien puntos de referencia metropolitanos para otras entradas, o
@@ -107,12 +107,12 @@ mercados independientes fuera de la banda suburbana de 15–80 km. Cada página 
 declara explícitamente en lugar de presentar un mercado fuera del conjunto como si
 estuviera incluido.
 
-América del Norte: [[ca-ab-lethbridge]], [[ca-bc-kelowna]], [[ca-nb-moncton]],
-[[ca-on-barrie-innisfil]], [[ca-sk-regina]], [[us-co-colorado-springs]],
-[[us-co-fort-collins]], [[us-ks-wichita]], [[us-wa-spokane]], [[us-wi-madison]].
+América del Norte: [[ca-ab-lethbridge|Lethbridge]], [[ca-bc-kelowna|Kelowna]], [[ca-nb-moncton|Moncton]],
+[[ca-on-barrie-innisfil|Barrie–Innisfil]], [[ca-sk-regina|Regina]], [[us-co-colorado-springs|Colorado Springs]],
+[[us-co-fort-collins|Fort Collins]], [[us-ks-wichita|Wichita]], [[us-wa-spokane|Spokane]], [[us-wi-madison|Madison]].
 
-Europa: [[es-ar-zaragoza-secondary]], [[es-cl-burgos]], [[es-cl-valladolid]],
-[[es-nc-pamplona]], [[es-pv-vitoria-gasteiz]], [[gb-sct-inverness]].
+Europa: [[es-ar-zaragoza-secondary|Zaragoza]], [[es-cl-burgos|Burgos]], [[es-cl-valladolid|Valladolid]],
+[[es-nc-pamplona|Pamplona]], [[es-pv-vitoria-gasteiz|Vitoria-Gasteiz]], [[gb-sct-inverness|Inverness]].
 
 **Retirados (2026-08-17), fuera de las cuentas TOP400 o de referencia anteriores (9):**
 siete perfiles de ciudades alemanas más Chambéry (Francia) y Breda (Países Bajos) — esos tres
