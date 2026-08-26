@@ -20,7 +20,7 @@ paired_with: gis-cluster-scoring-glossary.md
 cites: []
 ---
 
-Estos términos aparecen en los informes del conjunto de datos de co-ubicación, las comunicaciones de cobertura GIS y los materiales de selección de sitios preparados para revisión por los Directores Independientes del Socio General. Este glosario define la terminología del [[geographic-co-location-methodology|sistema de puntuación de co-ubicación geográfica]] de MCorp: la taxonomía de anclas, la clasificación de cuatro niveles, las compuertas de calificación que asignan cada nivel y la convención de radio detrás de la compuerta de no-superposición.
+Estos términos aparecen en los informes del conjunto de datos de co-ubicación, las comunicaciones de cobertura GIS y los materiales de selección de sitios preparados para revisión por los Directores Independientes del Socio General. Este glosario define la terminología del [[geographic-co-location-methodology|sistema de puntuación de co-ubicación geográfica]] de Woodfine: la taxonomía de anclas, la clasificación de cuatro niveles, las compuertas de calificación que asignan cada nivel y la convención de radio detrás de la compuerta de no-superposición.
 
 ## Taxonomía de anclas
 

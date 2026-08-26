@@ -19,7 +19,7 @@ paired_with: site-selection-terminology.md
 cites: []
 ---
 
-Los términos de la metodología de selección de sitios y desarrollo de MCorp tienen significados técnicos específicos que pueden diferir de su uso común; este glosario establece esas definiciones explícitamente. Los términos aparecen en los análisis de [[co-location-strategy|co-ubicación]], materiales para inversores e [[transaction-summary-report-protocol|Informes de Resumen de Transacción]].
+Los términos de la metodología de selección de sitios y desarrollo de Woodfine tienen significados técnicos específicos que pueden diferir de su uso común; este glosario establece esas definiciones explícitamente. Los términos aparecen en los análisis de [[co-location-strategy|co-ubicación]], materiales para inversores e [[transaction-summary-report-protocol|Informes de Resumen de Transacción]].
 
 ## Inversión Calificada
 

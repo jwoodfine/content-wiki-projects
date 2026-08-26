@@ -20,7 +20,7 @@ paired_with: gis-cluster-scoring-glossary.es.md
 cites: []
 ---
 
-These terms appear in co-location dataset reports, GIS coverage communications, and site selection materials prepared for review by the Independent Directors of the General Partner. This glossary defines the terminology of MCorp's [[geographic-co-location-methodology|geographic co-location scoring system]]: the anchor taxonomy, the four-tier classification, the predicate gates that assign each tier, and the radius convention behind the non-overlap gate.
+These terms appear in co-location dataset reports, GIS coverage communications, and site selection materials prepared for review by the Independent Directors of the General Partner. This glossary defines the terminology of Woodfine's [[geographic-co-location-methodology|geographic co-location scoring system]]: the anchor taxonomy, the four-tier classification, the predicate gates that assign each tier, and the radius convention behind the non-overlap gate.
 
 ## Anchor taxonomy
 

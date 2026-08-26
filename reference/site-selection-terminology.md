@@ -19,7 +19,7 @@ paired_with: site-selection-terminology.es.md
 cites: []
 ---
 
-Terms in MCorp's site selection and development methodology carry specific technical meanings that can differ from their common use; this glossary states those definitions explicitly. The terms appear in [[co-location-strategy|co-location]] analyses, investor materials, and [[transaction-summary-report-protocol|Transaction Summary Reports]].
+Terms in Woodfine's site selection and development methodology carry specific technical meanings that can differ from their common use; this glossary states those definitions explicitly. The terms appear in [[co-location-strategy|co-location]] analyses, investor materials, and [[transaction-summary-report-protocol|Transaction Summary Reports]].
 
 ## Qualified Investment
 
