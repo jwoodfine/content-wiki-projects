@@ -7,7 +7,7 @@ short_description: "The buildings-and-places record for Woodfine Capital Project
 category: root
 status: active
 bcsc_class: current-fact
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: pointsav-engineering
 ---
 
@@ -32,9 +32,11 @@ architecture]] standards, and the [[co-location-tier-system|co-location tier sys
 across North America and Europe.
 The platform is live at gis.woodfinegroup.com.
 
-Articles are organized into six knowledge areas: co-location methodology, [[architecture|building
-architecture]], [[markets|market research]], [[urban|urban and demographic context]],
-geographic intelligence, and reference terminology. The co-location methodology section covers the
+Articles are organized into categories covering the buildings and their design, the
+site-selection method, and the [[markets|regional markets]] it applies to. Further categories
+cover the development program, the commercial real estate market,
+[[urban|urban and demographic context]], [[architecture|architectural styles]], geographic
+data, and reference terminology. The co-location methodology section covers the
 [[co-location-strategy|strategy]], [[power-centres|power centre anchors]], [[fixed-floor-plates|floor plate
 standards]], and the [[mix-of-use|mix-of-use]] tenant model in detail.
 

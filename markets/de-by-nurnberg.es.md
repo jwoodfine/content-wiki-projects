@@ -12,9 +12,9 @@ quality: stub
 status: retired
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Punto de referencia metropolitano bávaro para los mercados suburbanos circundantes — no está en el conjunto de selección Top-400."
+short_description: "Punto de referencia metropolitano bávaro para los mercados suburbanos circundantes — no está en el conjunto de calificación Top-400."
 paired_with: markets/de-by-nurnberg.md
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: editorial
 ---
 
@@ -44,7 +44,7 @@ Núremberg no aparece como entrada en la lista
 [[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]]. Esto no es un defecto de
 datos: en la versión actual, Núremberg es el punto de referencia metropolitano de otras cinco
 entradas suburbanas (Bamberg, Erlangen, Kulmbach, Neumarkt in der Oberpfalz, Forchheim),
-conforme a la propia taxonomía de [[about-regional-markets-system|el sistema de selección de co-ubicación]], que excluye los núcleos metropolitanos del conjunto de selección suburbano-regional.
+conforme a la propia taxonomía de [[about-regional-markets-system|el sistema de calificación de co-ubicación]], que excluye los núcleos metropolitanos del conjunto de calificación suburbano-regional.
 
 ## Véase también
 

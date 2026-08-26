@@ -12,9 +12,9 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Capital provincial de Saskatchewan — fuera del conjunto de selección Top-400 actual (sin núcleo metropolitano cercano)."
+short_description: "Capital provincial de Saskatchewan — fuera del conjunto de calificación Top-400 actual (sin núcleo metropolitano cercano)."
 paired_with: markets/ca-sk-regina.md
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: editorial
 ---
 
@@ -41,7 +41,7 @@ comunidades filipina, india y china.
 Regina no aparece actualmente en la lista
 [[atlas-top-400-north-america|Top 400 Mercados Regionales — América del Norte]]. Esto no es
 un defecto de datos; las praderas canadienses no sitúan a Regina dentro de la banda
-suburbano-regional de 15 a 80 km de [[about-regional-markets-system|el sistema de selección de co-ubicación]] respecto a ningún núcleo metropolitano importante — funciona como su propio
+suburbano-regional de 15 a 80 km de [[about-regional-markets-system|el sistema de calificación de co-ubicación]] respecto a ningún núcleo metropolitano importante — funciona como su propio
 centro comercial provincial.
 
 ## Véase también

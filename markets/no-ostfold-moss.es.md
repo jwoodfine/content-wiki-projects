@@ -15,7 +15,7 @@ bcsc_class: current-fact
 short_description: "Mercado Regional de Europa — punto de referencia metropolitano Oslo, 55,1 km; 1 clúster de co-ubicación de nivel Regional."
 paired_with: markets/no-ostfold-moss.md
 wikipedia_sourced: true
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: editorial
 ---
 
@@ -24,7 +24,7 @@ Está anclado por OBS Coop (hipermercado), tres cadenas de ferretería — OBS B
 XL-Bygg — y Elkjøp (electrónica) en un único clúster de co-ubicación de nivel Regional. Oslo se
 encuentra a 55,1 kilómetros en línea recta bajo el conjunto de puntos de referencia continental
 del marco. El mercado lleva la clasificación de Mercado Regional de Europa bajo la puerta de
-composición del marco de selección por co-ubicación.
+composición del sistema de co-ubicación.
 
 ## Descripción general
 

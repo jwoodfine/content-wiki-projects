@@ -12,14 +12,14 @@ audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
 keynote: false
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: editorial
-short_description: "Índice de los siete Mercados Regionales de Grecia que cumplen los umbrales de selección para co-ubicación bajo el conjunto de datos del 07-08-2026."
+short_description: "Índice de los siete Mercados Regionales de Grecia que cumplen las puertas de composición de co-ubicación bajo el conjunto de datos del 07-08-2026."
 paired_with: markets/atlas-greece.md
 ---
 
 El **índice de mercados regionales de Grecia** enumera los siete mercados griegos que cumplen las
-puertas de composición del marco de selección por co-ubicación bajo el conjunto de datos vigente
+puertas de composición del sistema de co-ubicación bajo el conjunto de datos vigente
 del 07-08-2026. Es la entrada de país más pequeña entre los quince países europeos que cubre la
 última actualización de datos del marco. Los siete mercados se distribuyen a lo largo de la
 Grecia continental y dos islas, desde Tracia en el noreste hasta Creta en el sur, en lugar de

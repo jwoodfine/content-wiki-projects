@@ -15,7 +15,7 @@ bcsc_class: current-fact
 short_description: "Mercado Regional de Europa — punto de referencia metropolitano Trondheim, 365,6 km; 1 clúster de co-ubicación de nivel Regional."
 paired_with: markets/no-nordland-rana.md
 wikipedia_sourced: true
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: editorial
 ---
 
@@ -25,8 +25,7 @@ Bygg y Montér — y Elkjøp (electrónica) en un único clúster de co-ubicaci�
 Trondheim se encuentra a 365,6 kilómetros en línea recta bajo el conjunto de puntos de referencia
 continental del marco. Es uno de los dos mercados noruegos del conjunto de datos vigente con una
 distancia de referencia superior a 300 kilómetros, ambos en el condado de Nordland. El mercado
-lleva la clasificación de Mercado Regional de Europa bajo la puerta de composición del marco de
-selección por co-ubicación.
+lleva la clasificación de Mercado Regional de Europa bajo la puerta de composición del sistema de co-ubicación.
 
 ## Descripción general
 

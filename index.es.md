@@ -9,7 +9,7 @@ paired_with: index.md
 category: root
 status: active
 bcsc_class: current-fact
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: pointsav-engineering
 ---
 
@@ -35,9 +35,11 @@ de [[asset-architecture-standard|arquitectura de activos]] y el [[co-location-ti
 de niveles de co-ubicación]] aplicado en América del Norte y Europa.
 La plataforma está disponible en gis.woodfinegroup.com.
 
-Los artículos están organizados en seis áreas de conocimiento: metodología de co-localización,
-[[architecture|arquitectura del edificio]], [[markets|investigación de mercado]],
-[[urban|contexto urbano y demográfico]], inteligencia geográfica y terminología de referencia.
+Los artículos están organizados en categorías que abarcan los edificios y su diseño, el método
+de selección de sitios y los [[markets|mercados regionales]] a los que se aplica. Otras
+categorías cubren el programa de desarrollo, el mercado inmobiliario comercial, el
+[[urban|contexto urbano y demográfico]], los [[architecture|estilos arquitectónicos]], los datos
+geográficos y la terminología de referencia.
 
 Las declaraciones prospectivas en esta enciclopedia reflejan las intenciones actuales y están
 sujetas a riesgos e incertidumbres; las afirmaciones se formulan con términos como planificado,

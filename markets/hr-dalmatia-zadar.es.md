@@ -15,7 +15,7 @@ bcsc_class: current-fact
 short_description: "Mercado Regional de Europa — punto de referencia metropolitano Ancona (Italia), 179,1 km; 1 clúster de nivel Regional."
 paired_with: markets/hr-dalmatia-zadar.md
 wikipedia_sourced: true
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: editorial
 ---
 
@@ -24,8 +24,7 @@ Dalmacia. Está anclada por Kaufland e Interspar (hipermercado), Bauhaus y Pevex
 Decathlon (deporte) — un clúster de co-ubicación de nivel Regional, el nivel más alto para un solo
 clúster dentro del marco. Ancona, Italia, se encuentra a 179,1 kilómetros en línea recta, cruzando
 el mar Adriático y no reflejando una relación de desplazamiento diario por tierra. El mercado
-lleva la clasificación de Mercado Regional de Europa bajo la puerta de composición del marco de
-selección por co-ubicación.
+lleva la clasificación de Mercado Regional de Europa bajo la puerta de composición del sistema de co-ubicación.
 
 ## Descripción general
 

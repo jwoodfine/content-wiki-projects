@@ -12,9 +12,9 @@ audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
 keynote: false
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: woodfine-editorial
-short_description: "Índice de mercados inmobiliarios comerciales regionales de EE.UU. que cumplen los umbrales de selección para co-ubicación en todas las grandes regiones censales."
+short_description: "Índice de mercados inmobiliarios comerciales regionales de EE.UU. que cumplen las puertas de composición de co-ubicación en todas las grandes regiones censales."
 paired_with: markets/atlas-united-states.md
 ---
 
@@ -34,8 +34,7 @@ centres.
 El mercado inmobiliario comercial regional de Estados Unidos se caracteriza por una
 pronunciada variación regional de ingresos, una profunda penetración minorista nacional y
 un formato de power centre suburbano bien desarrollado que proporciona infraestructura de
-emplazamiento coherente en la mayoría de los mercados calificados. Las señales de selección
-primarias — clubes de almacén Costco, tiendas Home Depot y Lowe's, superstores de mercancías
+emplazamiento coherente en la mayoría de los mercados calificados. Las señales de calificación primarias — clubes de almacén Costco, tiendas Home Depot y Lowe's, superstores de mercancías
 generales Walmart y Target — están presentes en prácticamente todos los mercados de EE.UU.
 con más de 80.000 habitantes que superan el umbral de ingresos por hogar.
 
@@ -75,8 +74,7 @@ nombres indicados.
 
 Las 369 entradas del TOP400 de Estados Unidos abarcan todo el rango de ingresos y tamaño
 metropolitano del país. A continuación se presenta una muestra de veinticinco mercados
-estadounidenses (EE.UU. no tiene una selección
-independiente — esta es una vista filtrada por país del mismo conjunto de 400
+estadounidenses (EE.UU. no tiene una vía de calificación independiente — esta es una vista filtrada por país del mismo conjunto de 400
 mercados). Es una muestra, no un nivel superior clasificado — el conjunto completo continúa en el Apéndice.
 
 | Mercado | Suburbio de | km | N1 | N2 | N3 | Cívica |

@@ -12,13 +12,13 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-07-31
+last_edited: 2026-08-26
 editor: pointsav-engineering
 paired_with: site-selection/asset-evaluation-protocol.md
 cites: []
 ---
 
-El proceso de adquisición de activos de Woodfine comienza con la matriz de clasificación por [[co-location-investment-thesis|co-ubicación]]. Un emplazamiento candidato debe alcanzar una clasificación de nivel mínima antes de que proceda la evaluación de capital. La puntuación por niveles es el filtro de entrada; elimina el juicio subjetivo de la fase inicial de selección y establece una base reproducible para comparar emplazamientos candidatos en distintas geografías. Los emplazamientos que superan la selección pasan posteriormente al Marco de Tenencia Directa bajo la disciplina del Ratio de Cobertura de Intereses.
+El proceso de adquisición de activos de Woodfine comienza con la matriz de clasificación por [[co-location-investment-thesis|co-ubicación]]. Un emplazamiento candidato debe alcanzar una clasificación de nivel mínima antes de que proceda la evaluación de capital. La puntuación por niveles es el filtro de entrada; elimina el juicio subjetivo de la fase inicial de calificación y establece una base reproducible para comparar emplazamientos candidatos en distintas geografías. Los emplazamientos que superan el filtro pasan posteriormente al Marco de Tenencia Directa bajo la disciplina del Ratio de Cobertura de Intereses.
 
 ## Puntos clave
 
@@ -28,7 +28,7 @@ El proceso de adquisición de activos de Woodfine comienza con la matriz de clas
 
 ## La puntuación por niveles como criterio de entrada
 
-Un emplazamiento que no alcanza el umbral mínimo de nivel no se considera para su adquisición, independientemente de sus otras características. El umbral es binario en la fase de selección: un emplazamiento bien cumple los requisitos para la evaluación de capital, bien no. Esta disciplina impide que el proceso de evaluación comience con la defensa de un emplazamiento preferido y trabaje hacia atrás para justificarlo.
+Un emplazamiento que no alcanza el umbral mínimo de nivel no se considera para su adquisición, independientemente de sus otras características. El umbral es binario en la fase de calificación: un emplazamiento bien cumple los requisitos para la evaluación de capital, bien no. Esta disciplina impide que el proceso de evaluación comience con la defensa de un emplazamiento preferido y trabaje hacia atrás para justificarlo.
 
 La puntuación por niveles es condición necesaria, pero no suficiente, para la adquisición. Un emplazamiento que supera el umbral entra en la evaluación de capital; no recibe un compromiso.
 
@@ -48,7 +48,7 @@ La puntuación combinada de las tres capas produce una clasificación de nivel d
 
 La matriz es reproducible mediante análisis GIS independiente utilizando datos públicos de ubicación de minoristas y coordenadas de instalaciones cívicas. La puntuación de un emplazamiento no depende de la evaluación interna de Woodfine sobre las condiciones del mercado; depende de la presencia o ausencia de operadores e instalaciones específicos dentro de radios definidos. Un analista que aplique la misma matriz a los mismos datos debería llegar a la misma clasificación para un emplazamiento dado.
 
-Esta reproducibilidad no es accidental; es un requisito de diseño. Si el criterio de entrada dependiera de un juicio que solo Woodfine pudiera emitir, el filtro no funcionaría como una pantalla objetiva.
+Esta reproducibilidad no es accidental; es un requisito de diseño. Si el criterio de entrada dependiera de un juicio que solo Woodfine pudiera emitir, el filtro no funcionaría como un estándar objetivo.
 
 ## Evaluación de capital
 
@@ -64,7 +64,7 @@ La evaluación de capital produce una recomendación de inversión; la puntuaci�
 
 ## La conclusión
 
-El Protocolo de Evaluación de Activos disciplina el embudo de adquisición al imponer una pantalla de entrada objetiva y reproducible antes de que comience cualquier análisis de capital. La puntuación por niveles elimina el origen de operaciones impulsado por la defensa de un emplazamiento preferido: si un emplazamiento no califica de forma independiente según la matriz de co-ubicación, la evaluación no continúa. Una vez que un emplazamiento supera el umbral, se aplica el análisis de capital convencional — el estado de la propiedad, la estructura del arrendamiento, la titularidad y la capacidad de servicio de la deuda se evalúan por sus propios méritos. Ni la fase de selección ni la fase de evaluación de capital pueden sustituir a la otra; ambas son necesarias antes de que Woodfine se comprometa con una adquisición.
+El Protocolo de Evaluación de Activos disciplina el embudo de adquisición al imponer un filtro de entrada objetivo y reproducible antes de que comience cualquier análisis de capital. La puntuación por niveles elimina el origen de operaciones impulsado por la defensa de un emplazamiento preferido: si un emplazamiento no califica de forma independiente según la matriz de co-ubicación, la evaluación no continúa. Una vez que un emplazamiento supera el umbral, se aplica el análisis de capital convencional — el estado de la propiedad, la estructura del arrendamiento, la titularidad y la capacidad de servicio de la deuda se evalúan por sus propios méritos. Ni la fase de calificación ni la fase de evaluación de capital pueden sustituir a la otra; ambas son necesarias antes de que Woodfine se comprometa con una adquisición.
 
 ## Véase también
 

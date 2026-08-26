@@ -12,14 +12,14 @@ audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
 keynote: false
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: editorial
-short_description: "Índice de los nueve Mercados Regionales de Noruega que cumplen los umbrales de selección por co-ubicación bajo el conjunto de datos del 07-08-2026."
+short_description: "Índice de los nueve Mercados Regionales de Noruega que cumplen las puertas de composición de co-ubicación bajo el conjunto de datos del 07-08-2026."
 paired_with: markets/atlas-norway.md
 ---
 
 El **índice de Mercado Regional de Noruega** enumera los nueve mercados noruegos que cumplen las
-puertas de composición del marco de selección por co-ubicación bajo el conjunto de datos vigente
+puertas de composición del sistema de co-ubicación bajo el conjunto de datos vigente
 del 07-08-2026. Los nueve mercados van desde Ullensaker, justo al norte de Oslo, hasta Bodø, muy
 al norte del Círculo Polar Ártico — una dispersión geográfica mayor que la de cualquier otro país
 europeo en el conjunto de datos vigente.

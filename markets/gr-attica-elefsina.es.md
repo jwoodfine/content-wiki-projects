@@ -15,7 +15,7 @@ bcsc_class: current-fact
 short_description: "Mercado Regional de Europa — punto de referencia metropolitano Atenas, 17,9 km; 1 clúster de nivel Regional."
 paired_with: markets/gr-attica-elefsina.md
 wikipedia_sourced: true
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: editorial
 ---
 
@@ -23,7 +23,7 @@ Elefsina es una ciudad industrial en la llanura de Thriasio, al oeste de Atenas.
 Sklavenitis (hipermercado), Praktiker (ferretería) y Kotsovolos (electrónica) — un clúster de
 co-ubicación de nivel Regional, el nivel más alto para un único clúster dentro del marco. Atenas se
 encuentra a 17,9 kilómetros en línea recta. El mercado tiene clasificación de Mercado Regional de
-Europa bajo la puerta de composición del marco de selección por co-ubicación.
+Europa bajo la puerta de composición del sistema de co-ubicación.
 
 ## Descripción general
 

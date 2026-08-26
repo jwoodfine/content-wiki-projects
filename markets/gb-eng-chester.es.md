@@ -14,7 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Ciudad histórica de Cheshire, a 30-40 millas de Liverpool — no es actualmente una entrada Top-400 pese a situarse dentro de la banda de distancia suburbano-regional."
 paired_with: markets/gb-eng-chester.md
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: editorial
 ---
 
@@ -22,7 +22,7 @@ Chester, una ciudad histórica de Cheshire cerca de la frontera galesa, no apare
 en la lista Top-400 de Mercados Regionales de Europa — cabe destacar que, a diferencia de
 otros mercados de este grupo de esbozos, su distancia respecto a Liverpool (unas 30 a 40
 millas, o 48-64 km) se encuentra dentro de la banda suburbano-regional de 15 a 80 km que
-aplica la selección en otros casos, lo que sugiere una laguna de cobertura en el conjunto
+aplica la calificación en otros casos, lo que sugiere una laguna de cobertura en el conjunto
 de datos más que una exclusión por distancia.
 
 ## Descripción general
@@ -45,7 +45,7 @@ millones de libras) representa una inversión cultural reciente.
 Chester no aparece actualmente en la lista
 [[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]], aunque su distancia respecto a
 Liverpool se sitúa dentro de la propia banda suburbano-regional de 15 a 80 km de
-[[about-regional-markets-system|el sistema de selección de co-ubicación]] — a diferencia de
+[[about-regional-markets-system|el sistema de calificación de co-ubicación]] — a diferencia de
 los mercados independiente-secundarios y de núcleo metropolitano del resto de este grupo de
 esbozos. Esto refleja con mayor probabilidad una laguna en la versión actual del conjunto de
 datos derivado de OSM que una exclusión deliberada; la unidad administrativa "Cheshire West

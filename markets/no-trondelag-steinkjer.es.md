@@ -15,7 +15,7 @@ bcsc_class: current-fact
 short_description: "Mercado Regional de Europa — punto de referencia metropolitano Trondheim, 84,1 km; 1 clúster de co-ubicación de nivel Regional."
 paired_with: markets/no-trondelag-steinkjer.md
 wikipedia_sourced: true
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: editorial
 ---
 
@@ -24,7 +24,7 @@ anclado por OBS Coop (hipermercado), dos cadenas de ferretería — OBS Bygg y B
 (electrónica) y Würth (suministro industrial y de mantenimiento) en un único clúster de
 co-ubicación de nivel Regional. Trondheim se encuentra a 84,1 kilómetros en línea recta bajo el
 conjunto de puntos de referencia continental del marco. El mercado lleva la clasificación de
-Mercado Regional de Europa bajo la puerta de composición del marco de selección por co-ubicación.
+Mercado Regional de Europa bajo la puerta de composición del sistema de co-ubicación.
 
 ## Descripción general
 

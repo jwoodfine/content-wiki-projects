@@ -12,9 +12,9 @@ audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
 keynote: false
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: woodfine-editorial
-short_description: "Índice de mercados inmobiliarios comerciales regionales españoles que cumplen los umbrales de selección para co-ubicación."
+short_description: "Índice de mercados inmobiliarios comerciales regionales españoles que cumplen las puertas de composición de co-ubicación."
 paired_with: markets/atlas-spain.md
 ---
 

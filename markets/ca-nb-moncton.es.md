@@ -12,16 +12,16 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Centro comercial de la Canadá marítima — fuera del conjunto de selección Top-400 actual (sin núcleo metropolitano dominante cercano)."
+short_description: "Centro comercial de la Canadá marítima — fuera del conjunto de calificación Top-400 actual (sin núcleo metropolitano dominante cercano)."
 paired_with: markets/ca-nb-moncton.md
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: editorial
 ---
 
 Moncton, el centro comercial de las provincias marítimas, no aparece actualmente en la lista
 Top-400 de Mercados Regionales de América del Norte — la región carece de un único núcleo
-metropolitano dominante frente al cual aplicaría la banda de distancia suburbano-regional de
-la selección.
+metropolitano dominante frente al cual aplicaría la banda de distancia suburbano-regional del
+sistema de calificación.
 
 ## Descripción general
 
@@ -44,7 +44,7 @@ Moncton no aparece actualmente en la lista
 [[atlas-top-400-north-america|Top 400 Mercados Regionales — América del Norte]]. Esto no es
 un defecto de datos; la Canadá marítima no cuenta con un único núcleo metropolitano dominante
 frente al cual la banda de distancia suburbano-regional de 15 a 80 km de
-[[about-regional-markets-system|el sistema de selección de co-ubicación]] contaría a
+[[about-regional-markets-system|el sistema de calificación de co-ubicación]] contaría a
 Moncton — funciona como su propio centro comercial regional en lugar de como suburbio de una
 metrópolis mayor.
 

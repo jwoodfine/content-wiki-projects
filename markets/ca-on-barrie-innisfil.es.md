@@ -12,15 +12,15 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Mercado del centro de Ontario, a 90 km de Toronto — justo fuera de la banda de 80 km del conjunto de selección Top-400 actual."
+short_description: "Mercado del centro de Ontario, a 90 km de Toronto — justo fuera de la banda de 80 km del conjunto de calificación Top-400 actual."
 paired_with: markets/ca-on-barrie-innisfil.md
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: editorial
 ---
 
 Barrie, junto con la vecina Innisfil, no aparece actualmente en la lista Top-400 de Mercados
 Regionales de América del Norte — a unos 90 kilómetros de Toronto se sitúa justo más allá del
-límite exterior de 80 km de la banda suburbano-regional que aplica la selección.
+límite exterior de 80 km de la banda suburbano-regional que aplica la calificación.
 
 ## Descripción general
 
@@ -43,7 +43,7 @@ Barrie–Innisfil no aparece actualmente en la lista
 [[atlas-top-400-north-america|Top 400 Mercados Regionales — América del Norte]]. Esto no es
 un defecto de datos; a unos 90 km de Toronto, el mercado queda justo fuera del límite
 exterior de 80 km de la banda suburbano-regional de
-[[about-regional-markets-system|el sistema de selección de co-ubicación]], situándolo en la
+[[about-regional-markets-system|el sistema de calificación de co-ubicación]], situándolo en la
 categoría independiente-secundaria.
 
 ## Véase también
