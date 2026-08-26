@@ -12,9 +12,9 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Colorado metro-core reference point for a surrounding suburban market — not itself part of the Top-400 screening band."
+short_description: "Colorado metro-core reference point for a surrounding suburban market — not itself part of the Top-400 qualifying band."
 paired_with: markets/us-co-colorado-springs.es.md
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: editorial
 ---
 
@@ -42,8 +42,8 @@ Colorado Springs does not appear as an entry in the
 [[atlas-top-400-north-america|Top 400 Regional Markets — North America]] list. This is not a
 data defect: in the current build, Colorado Springs is the metro-core reference point for
 Pueblo, CO, consistent with
-[[about-regional-markets-system|the co-location screening system's]] own taxonomy excluding
-metro cores from the suburban-regional screening band.
+[[about-regional-markets-system|the co-location qualification system's]] own taxonomy excluding
+metro cores from the suburban-regional qualification band.
 
 ## See Also
 

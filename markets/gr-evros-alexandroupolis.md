@@ -15,7 +15,7 @@ bcsc_class: current-fact
 short_description: "European Regional Market — Plovdiv (Bulgaria) metropolitan reference point, 171.9 km; 1 District-tier and 1 Local-tier co-location cluster."
 paired_with: markets/gr-evros-alexandroupolis.es.md
 wikipedia_sourced: true
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: editorial
 ---
 
@@ -24,7 +24,7 @@ combines a District-tier cluster — Sklavenitis paired with Praktiker — and a
 Sklavenitis paired with Kotsovolos. Plovdiv, Bulgaria, sits 171.9 kilometres away by straight-line
 distance, a cross-border reference reflecting the city's position in Thrace rather than a
 commuting relationship. The market carries European Regional Market classification under the
-co-location screening framework's composition gate.
+co-location system's composition gate.
 
 ## Overview
 

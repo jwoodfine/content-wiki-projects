@@ -6,7 +6,7 @@ category: markets
 type: topic
 content_type: topic
 quality: complete
-short_description: "Where we look: the covered Regional Market universe across North America and Europe, the co-location tier system behind it, and a profile page for markets that have one."
+short_description: "Where we look: the Regional Markets covered across North America and Europe, the co-location tier system behind them, and a profile page for markets that have one."
 index_type: thematic
 index_scope: markets
 status: active
@@ -17,7 +17,7 @@ editor: editorial
 paired_with: _index.es.md
 ---
 
-The Markets covers where we look. This category holds the screening universe behind site selection — the Top 400 set, the tier and co-location indices behind them, and a profile page for every market that has one today.
+The Markets covers where we look. This category holds the covered market set behind site selection — the Top 400 set, the tier and co-location indices behind them, and a profile page for every market that has one today.
 
 <!-- START-HERE-HIGHLIGHT: engine reads this block to render the single "start here" card (reuses the existing cluster-card--start-here component). Do not add more than one. -->
 
@@ -25,11 +25,11 @@ The Markets covers where we look. This category holds the screening universe beh
 
 <!-- END-START-HERE-HIGHLIGHT -->
 
-## Screening Universe
+## Market Coverage
 
 [[about-regional-markets-system|Regional Markets Intelligence System]] is the reference article for the co-location analysis system, and [[regional-market-definition|Regional Market Definition]] sets out what qualifies a settlement as a Regional Market on the map. The [[co-location-tier-system|Co-location Tier System]] explains the four-tier classification and how it applies across North American and European markets. [[atlas-top-400-north-america|The Top 400 — North America]] and [[atlas-top-400-europe|the Top 400 — Europe]] are the two qualifying sets: four hundred suburban commuter-belt markets per continent that meet the co-location anchor-composition gates. No rank or score is published for any market in either set.
 
-<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: screening-universe -->
+<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: market-coverage -->
 - [[about-regional-markets-system]] — Reference article for the co-location analysis system that identifies suburban retail markets in North America and Europe.
 - [[regional-market-definition]] — Spatial containers on the location intelligence map — how settlements with co-location presence differ from Regional Markets, and why coverage is not market strength.
 - [[co-location-tier-system]] — The four-tier classification — Regional, District, Local, Fringe — assigned to every co-location cluster on the platform, the predicate gates that determine it, and how the system applies across North American and European markets.
@@ -56,10 +56,10 @@ Seven country-level co-location indices supply the underlying cluster data the c
 Nine country-level Regional Market indices filter the continental Top 400 tables down to a single country's entries: [[atlas-canada|Canada]], [[atlas-united-states|United States]], [[atlas-united-kingdom|United Kingdom]], [[atlas-spain|Spain]], [[atlas-italy|Italy]], [[atlas-poland|Poland]], [[atlas-greece|Greece]], [[atlas-croatia|Croatia]], and [[atlas-norway|Norway]].
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: country-breakouts -->
-- [[atlas-canada]] — Index of Canadian regional commercial real estate markets meeting co-location screening thresholds.
-- [[atlas-united-states]] — Index of US regional commercial real estate markets meeting co-location screening thresholds across all major census regions.
-- [[atlas-united-kingdom]] — Index of UK regional commercial real estate markets meeting co-location screening thresholds outside London and the South East.
-- [[atlas-spain]] — Index of Spanish regional commercial real estate markets meeting co-location screening thresholds.
+- [[atlas-canada]] — Index of Canadian regional commercial real estate markets meeting the co-location composition gates.
+- [[atlas-united-states]] — Index of US regional commercial real estate markets meeting the co-location composition gates across all major census regions.
+- [[atlas-united-kingdom]] — Index of UK regional commercial real estate markets meeting the co-location composition gates outside London and the South East.
+- [[atlas-spain]] — Index of Spanish regional commercial real estate markets meeting the co-location composition gates.
 - [[atlas-italy]] — Index of the 21 Italian entries in the Top 400 Regional Markets — Europe list, filtered from the continental table with metro-reference groupings.
 - [[atlas-poland]] — Index of the 16 Polish entries in the Top 400 Regional Markets — Europe list, filtered from the continental table with metro-reference groupings.
 - [[atlas-greece]] — Index of the 7 Greek entries in the Top 400 Regional Markets — Europe list; a pilot-batch country page with 7 new stub market profiles built 2026-08-25.

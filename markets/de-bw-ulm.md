@@ -12,9 +12,9 @@ quality: stub
 status: retired
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Baden-Württemberg city functioning as a metro-core reference point for surrounding suburban markets — not itself part of the Top-400 screening band."
+short_description: "Baden-Württemberg city functioning as a metro-core reference point for surrounding suburban markets — not itself part of the Top-400 qualifying band."
 paired_with: markets/de-bw-ulm.es.md
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: editorial
 ---
 
@@ -44,8 +44,8 @@ Ulm does not appear as an entry in the [[atlas-top-400-europe|Top 400 Regional M
 — Europe]] list. This is not a data defect: in the current build, Ulm is the metro-core
 reference point for eight other suburban entries (Albstadt, Neu-Ulm, Friedrichshafen,
 Memmingen, Konstanz, and others). This is consistent with
-[[about-regional-markets-system|the co-location screening system's]] own taxonomy, which excludes
-metro cores (<15 km from themselves, by definition) from the suburban-regional screening band.
+[[about-regional-markets-system|the co-location qualification system's]] own taxonomy, which excludes
+metro cores (<15 km from themselves, by definition) from the suburban-regional qualification band.
 
 ## See Also
 

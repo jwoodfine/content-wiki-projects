@@ -14,14 +14,14 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Cheshire heritage city, 30-40 miles from Liverpool — not currently included as a Top-400 entry despite sitting within the suburban-regional distance band."
 paired_with: markets/gb-eng-chester.es.md
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: editorial
 ---
 
 Chester, a historic Cheshire city near the Welsh border, does not currently appear in the
 European Top-400 Regional Markets list. Notably, unlike the other markets in this stub
 group, its distance from Liverpool (roughly 30 to 40 miles, or 48–64 km) falls within the
-15–80 km suburban-regional band the screening otherwise applies — suggesting a build-coverage
+15–80 km suburban-regional band the qualification otherwise applies — suggesting a build-coverage
 gap rather than a distance exclusion.
 
 ## Overview
@@ -47,7 +47,7 @@ Cheshire Oaks Designer Outlet and Broughton Retail Park nearby. The Storyhouse a
 
 Chester does not currently appear in the [[atlas-top-400-europe|Top 400 Regional Markets —
 Europe]] list, though its distance from Liverpool sits within
-[[about-regional-markets-system|the co-location screening system's]] own 15–80 km
+[[about-regional-markets-system|the co-location qualification system's]] own 15–80 km
 suburban-regional band — unlike the standalone-secondary and metro-core markets elsewhere in
 this stub group. This more plausibly reflects a gap in the current OSM-derived build than a
 deliberate exclusion. The administrative unit "Cheshire West and Chester" does appear in the

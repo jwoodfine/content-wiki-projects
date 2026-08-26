@@ -12,9 +12,9 @@ audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 keynote: false
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: woodfine-editorial
-short_description: "Index of Canadian regional commercial real estate markets meeting co-location screening thresholds."
+short_description: "Index of Canadian regional commercial real estate markets meeting the co-location composition gates."
 paired_with: markets/atlas-canada.es.md
 ---
 
@@ -36,7 +36,7 @@ secondary markets exhibit income profiles that broadly meet co-location threshol
 the Montreal metro. Atlantic Canadian markets are generally smaller but include several cities
 meeting population and income screens.
 
-The national retail landscape provides a consistent screening signal. The presence of Costco,
+The national retail landscape provides a consistent qualification signal. The presence of Costco,
 Home Depot, Canadian Tire, and Loblaw-affiliated warehouse formats confirms income and demand
 conditions across the regional market set. These anchors have invested independently in
 [[site-selection-terminology|site-selection]] analysis and their presence constitutes third-party corroboration of market

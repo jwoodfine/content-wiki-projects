@@ -15,7 +15,7 @@ bcsc_class: current-fact
 short_description: "European Regional Market — Athens metropolitan reference point, 17.9 km; 1 Regional-tier co-location cluster."
 paired_with: markets/gr-attica-elefsina.es.md
 wikipedia_sourced: true
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: editorial
 ---
 
@@ -23,7 +23,7 @@ Elefsina is an industrial city on the Thriasio Plain west of Athens. It is ancho
 Sklavenitis (hypermarket), Praktiker (hardware), and Kotsovolos (electronics) — one Regional-tier
 co-location cluster, the framework's highest single-cluster tier. Athens sits 17.9 kilometres
 away by straight-line distance. The market carries European Regional Market classification under
-the co-location screening framework's composition gate.
+the co-location system's composition gate.
 
 ## Overview
 

@@ -4,7 +4,7 @@ title: "Definición de mercado regional"
 slug: regional-market-definition
 short_description: "Contenedores espaciales del mapa de inteligencia de ubicaciones — en qué difieren los asentamientos con co-localización de los Regional Markets; cobertura no es demanda."
 category: markets
-index_group: screening-universe
+index_group: market-coverage
 type: concept
 content_type: topic
 quality: complete
@@ -13,7 +13,7 @@ audience: customer-woodfine
 bcsc_class: public-disclosure-safe
 language: es
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: pointsav-engineering
 paired_with: markets/regional-market-definition.md
 cites: []

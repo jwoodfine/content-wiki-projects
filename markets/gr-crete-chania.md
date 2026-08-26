@@ -15,15 +15,14 @@ bcsc_class: current-fact
 short_description: "European Regional Market — Heraklion metropolitan reference point, 103.3 km; 1 Local-tier co-location cluster."
 paired_with: markets/gr-crete-chania.es.md
 wikipedia_sourced: true
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: editorial
 ---
 
 Chania is the second-largest city on Crete and capital of the Chania regional unit. It is
 anchored by Sklavenitis (hypermarket), IKEA (lifestyle), and Kotsovolos (electronics) — one
 Local-tier co-location cluster. Heraklion sits 103.3 kilometres away by straight-line distance.
-The market carries European Regional Market classification under the co-location screening
-framework's composition gate.
+The market carries European Regional Market classification under the co-location system's composition gate.
 
 ## Overview
 

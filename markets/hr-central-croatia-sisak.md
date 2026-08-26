@@ -15,7 +15,7 @@ bcsc_class: current-fact
 short_description: "European Regional Market — Graz (Austria) metropolitan reference point, 189.2 km; 1 Regional-tier co-location cluster."
 paired_with: markets/hr-central-croatia-sisak.es.md
 wikipedia_sourced: true
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: editorial
 ---
 
@@ -23,8 +23,7 @@ Sisak is the administrative centre of Sisak-Moslavina County in central Croatia,
 of the Kupa, Sava, and Odra rivers. It is anchored by Kaufland and Interspar (hypermarket), Pevex
 (hardware), and Hervis (sport) — one Regional-tier co-location cluster, the framework's highest
 single-cluster tier. Graz, Austria, sits 189.2 kilometres away by straight-line distance. The
-market carries European Regional Market classification under the co-location screening
-framework's composition gate.
+market carries European Regional Market classification under the co-location system's composition gate.
 
 ## Overview
 

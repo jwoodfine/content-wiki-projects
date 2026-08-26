@@ -15,7 +15,7 @@ bcsc_class: current-fact
 short_description: "European Regional Market — Thessaloniki metropolitan reference point, 141.3 km; 1 Regional-tier co-location cluster."
 paired_with: markets/gr-magnesia-volos.es.md
 wikipedia_sourced: true
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: editorial
 ---
 
@@ -23,7 +23,7 @@ Volos is a port city on Greece's central-eastern coast. It is anchored by Sklave
 (hypermarket), Praktiker (hardware), and Kotsovolos (electronics) — one Regional-tier co-location
 cluster, the framework's highest single-cluster tier. Thessaloniki sits 141.3 kilometres away by
 straight-line distance. The market carries European Regional Market classification under the
-co-location screening framework's composition gate.
+co-location system's composition gate.
 
 ## Overview
 

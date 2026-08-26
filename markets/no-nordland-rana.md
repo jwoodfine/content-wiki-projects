@@ -15,7 +15,7 @@ bcsc_class: current-fact
 short_description: "European Regional Market — Trondheim metropolitan reference point, 365.6 km; 1 Regional-tier co-location cluster."
 paired_with: markets/no-nordland-rana.es.md
 wikipedia_sourced: true
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: editorial
 ---
 
@@ -25,7 +25,7 @@ Elkjøp (electronics) across a single Regional-tier co-location cluster. Trondhe
 kilometres away by straight-line distance under the framework's continental reference-point set —
 one of two Norwegian markets in the current dataset with a reference distance beyond 300
 kilometres, both in Nordland county. The market carries European Regional Market classification
-under the co-location screening framework's composition gate.
+under the co-location system's composition gate.
 
 ## Overview
 

@@ -12,15 +12,15 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Southern Alberta market, 215 km from Calgary — outside the current Top-400 screening band."
+short_description: "Southern Alberta market, 215 km from Calgary — outside the current Top-400 qualifying band."
 paired_with: markets/ca-ab-lethbridge.es.md
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: editorial
 ---
 
 Lethbridge, southern Alberta's commercial and industrial centre, does not currently appear in
 the North American Top-400 Regional Markets list. At 215 kilometres from Calgary it sits well
-outside the 15–80 km suburban-regional band the screening applies, making it a standalone-secondary
+outside the 15–80 km suburban-regional band the qualification applies, making it a standalone-secondary
 market rather than a suburb of a major metro core.
 
 ## Overview
@@ -40,9 +40,9 @@ city.
 
 Lethbridge does not currently appear in the [[atlas-top-400-north-america|Top 400 Regional
 Markets — North America]] list. Its distance from Calgary places it outside the 15–80 km
-suburban-regional band the screening applies. This is not a data defect; it reflects the market's
+suburban-regional band the qualification applies. This is not a data defect; it reflects the market's
 classification as standalone-secondary rather than suburban-regional under
-[[about-regional-markets-system|the co-location screening system's]] own taxonomy.
+[[about-regional-markets-system|the co-location qualification system's]] own taxonomy.
 
 ## See Also
 

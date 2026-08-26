@@ -12,15 +12,15 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Kansas's largest city, well beyond commuting distance of any major metro — outside the current Top-400 screening band."
+short_description: "Kansas's largest city, well beyond commuting distance of any major metro — outside the current Top-400 qualifying band."
 paired_with: markets/us-ks-wichita.es.md
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: editorial
 ---
 
 Wichita, historically the "Air Capital of the World," does not currently appear in the North
 American Top-400 Regional Markets list. Its nearest major metros are far beyond the 80 km
-outer edge of the suburban-regional band the screening applies.
+outer edge of the suburban-regional band the qualification applies.
 
 ## Overview
 
@@ -39,7 +39,7 @@ warehouse district.
 
 Wichita does not currently appear in the [[atlas-top-400-north-america|Top 400 Regional
 Markets — North America]] list. This is not a data defect; its distance from Oklahoma City
-and Kansas City places it well outside [[about-regional-markets-system|the co-location screening system's]] 15–80 km suburban-regional band, classifying it as standalone-secondary.
+and Kansas City places it well outside [[about-regional-markets-system|the co-location qualification system's]] 15–80 km suburban-regional band, classifying it as standalone-secondary.
 This is consistent with the 2026-07-04 operator decision that a Wichita Development Region
 profile outside the Top-400 list is an expected, acceptable pattern.
 

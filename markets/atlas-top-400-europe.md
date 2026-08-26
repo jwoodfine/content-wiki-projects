@@ -6,7 +6,7 @@ language: en
 language_protocol: PROSE-TOPIC
 category: markets
 type: reference
-index_group: screening-universe
+index_group: market-coverage
 content_type: topic
 quality: complete
 status: active
@@ -14,7 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Set of 399 verified distinct European Regional Markets across 400 list positions (one position vacant pending a genuine 400th entry) under the corrected suburban-regional methodology. No rank or score is published; Chemnitz is one entry (suburb of Dresden, 64 km)."
 paired_with: markets/atlas-top-400-europe.es.md
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: editorial
 ---
 

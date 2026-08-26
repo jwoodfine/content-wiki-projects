@@ -4,7 +4,7 @@ title: "Regional market definition"
 slug: regional-market-definition
 short_description: "Spatial containers on the location intelligence map — how settlements with co-location presence differ from Regional Markets, and why coverage is not market strength."
 category: markets
-index_group: screening-universe
+index_group: market-coverage
 type: concept
 content_type: topic
 quality: complete
@@ -13,7 +13,7 @@ audience: customer-woodfine
 bcsc_class: public-disclosure-safe
 language: en
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: pointsav-engineering
 paired_with: markets/regional-market-definition.es.md
 cites: []

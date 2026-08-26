@@ -12,15 +12,15 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Castile and León's largest city, 235 km from Madrid — outside the current Top-400 screening band."
+short_description: "Castile and León's largest city, 235 km from Madrid — outside the current Top-400 qualifying band."
 paired_with: markets/es-cl-valladolid.es.md
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: editorial
 ---
 
 Valladolid does not currently appear in the European Top-400 Regional Markets list — at
 roughly 235 kilometres from Madrid it sits well outside the 15–80 km suburban-regional band
-the screening applies.
+the qualification applies.
 
 ## Overview
 
@@ -41,7 +41,7 @@ the municipality itself.
 
 Valladolid does not currently appear in the [[atlas-top-400-europe|Top 400 Regional Markets
 — Europe]] list. This is not a data defect; its roughly 235 km distance from Madrid places it
-outside [[about-regional-markets-system|the co-location screening system's]] 15–80 km
+outside [[about-regional-markets-system|the co-location qualification system's]] 15–80 km
 suburban-regional band, classifying it as standalone-secondary.
 
 ## See Also

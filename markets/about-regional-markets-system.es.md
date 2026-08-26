@@ -5,7 +5,7 @@ title: "Sistema de Inteligencia de Mercados Regionales"
 language: es
 language_protocol: TRANSLATE-ES
 category: markets
-index_group: screening-universe
+index_group: market-coverage
 type: reference
 content_type: topic
 quality: complete
@@ -14,7 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Artículo de referencia sobre el sistema de análisis de co-localización que identifica mercados minoristas suburbanos en América del Norte y Europa."
 paired_with: markets/about-regional-markets-system.md
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: editorial
 ---
 

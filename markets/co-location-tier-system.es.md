@@ -3,7 +3,7 @@ schema: foundry-doc-v1
 title: "Sistema de niveles de co-ubicación"
 slug: co-location-tier-system
 category: markets
-index_group: screening-universe
+index_group: market-coverage
 type: topic
 content_type: topic
 quality: complete
@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: editorial
 short_description: "La clasificación de cuatro niveles — Regional, Distrital, Local, Marginal — asignada a cada clúster de co-ubicación en la plataforma, las compuertas predicativas que la determinan, y cómo se aplica el sistema en los mercados de América del Norte y Europa."
 paired_with: markets/co-location-tier-system.md

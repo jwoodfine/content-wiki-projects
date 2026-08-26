@@ -15,7 +15,7 @@ bcsc_class: current-fact
 short_description: "European Regional Market — Oslo metropolitan reference point, 116.8 km; 1 Regional-tier co-location cluster."
 paired_with: markets/no-innlandet-elverum.es.md
 wikipedia_sourced: true
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: editorial
 ---
 
@@ -23,8 +23,7 @@ Elverum is a market in Norway's Østerdalen district, in Innlandet county. It is
 hardware chains, OBS Bygg and Montér, alongside OBS Coop (hypermarket) and Elkjøp (electronics)
 across a single Regional-tier co-location cluster. Oslo sits 116.8 kilometres away by
 straight-line distance under the framework's continental reference-point set. The market carries
-European Regional Market classification under the co-location screening framework's composition
-gate.
+European Regional Market classification under the co-location system's composition gate.
 
 ## Overview
 

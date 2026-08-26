@@ -15,7 +15,7 @@ bcsc_class: current-fact
 short_description: "European Regional Market — Timișoara (Romania) metropolitan reference point, 255.8 km; 1 Regional-tier and 1 District-tier co-location cluster."
 paired_with: markets/hr-posavina-slavonski-brod.es.md
 wikipedia_sourced: true
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: editorial
 ---
 
@@ -23,8 +23,7 @@ Slavonski Brod is a river port city in eastern Croatia's Brod-Posavina County. I
 Regional-tier cluster — Kaufland paired with Pevex and Hervis — and a District-tier cluster —
 Interspar paired with Pevex. Timișoara, Romania, sits 255.8 kilometres away by straight-line
 distance, the longest metropolitan reference among Croatia's nine current entries. The market
-carries European Regional Market classification under the co-location screening framework's
-composition gate.
+carries European Regional Market classification under the co-location system's composition gate.
 
 ## Overview
 

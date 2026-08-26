@@ -6,7 +6,7 @@ category: markets
 type: topic
 content_type: topic
 quality: complete
-short_description: "Dónde miramos: el universo cubierto de Mercados Regionales en América del Norte y Europa, el sistema de niveles de co-localización detrás de él, y una página de perfil para los mercados que la tienen."
+short_description: "Dónde miramos: los Mercados Regionales cubiertos en América del Norte y Europa, el sistema de niveles de co-localización detrás de ellos, y una página de perfil para los mercados que la tienen."
 index_type: thematic
 index_scope: markets
 status: active
@@ -17,7 +17,7 @@ editor: editorial
 paired_with: markets/_index.md
 ---
 
-Los Mercados abarca dónde miramos. Esta categoría reúne el universo de selección detrás de la elección de sitios — el conjunto Top 400, los índices de nivel y co-localización que lo sustentan, y una página de perfil para cada mercado que la tiene hoy.
+Los Mercados abarca dónde miramos. Esta categoría reúne el conjunto de mercados cubiertos detrás de la elección de sitios — el conjunto Top 400, los índices de nivel y co-localización que lo sustentan, y una página de perfil para cada mercado que la tiene hoy.
 
 <!-- START-HERE-HIGHLIGHT: engine reads this block to render the single "start here" card (reuses the existing cluster-card--start-here component). Do not add more than one. -->
 
@@ -25,11 +25,11 @@ Los Mercados abarca dónde miramos. Esta categoría reúne el universo de selecc
 
 <!-- END-START-HERE-HIGHLIGHT -->
 
-## Universo de Selección
+## Cobertura de Mercados
 
 [[about-regional-markets-system|El Sistema de Inteligencia de Mercados Regionales]] es el artículo de referencia del sistema de análisis de co-localización, y [[regional-market-definition|la Definición de Mercado Regional]] establece qué califica a un asentamiento como Mercado Regional en el mapa. El [[co-location-tier-system|Sistema de Niveles de Co-ubicación]] explica la clasificación de cuatro niveles y cómo se aplica en los mercados de América del Norte y Europa. [[atlas-top-400-north-america|El Top 400 — Norteamérica]] y [[atlas-top-400-europe|el Top 400 — Europa]] son los dos conjuntos calificados: cuatrocientos mercados suburbanos de cinturón de desplazamiento diario por continente que cumplen las condiciones de composición de anclas de co-localización. No se publica posición ni puntuación para ningún mercado en ninguno de los dos conjuntos.
 
-<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: screening-universe -->
+<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: market-coverage -->
 - [[about-regional-markets-system]] — Artículo de referencia sobre el sistema de análisis de co-localización que identifica mercados minoristas suburbanos en América del Norte y Europa.
 - [[regional-market-definition]] — Contenedores espaciales del mapa de inteligencia de ubicaciones — en qué difieren los asentamientos con co-localización de los Regional Markets; cobertura no es demanda.
 - [[co-location-tier-system]] — La clasificación de cuatro niveles — Regional, Distrital, Local, Marginal — asignada a cada clúster de co-ubicación en la plataforma, las compuertas predicativas que la determinan, y cómo se aplica el sistema en los mercados de América del Norte y Europa.

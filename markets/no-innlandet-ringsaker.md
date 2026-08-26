@@ -15,7 +15,7 @@ bcsc_class: current-fact
 short_description: "European Regional Market — Oslo metropolitan reference point, 106.8 km; 1 District-tier and 1 Local-tier co-location cluster."
 paired_with: markets/no-innlandet-ringsaker.es.md
 wikipedia_sourced: true
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: editorial
 ---
 
@@ -23,7 +23,7 @@ Ringsaker is a market on the eastern shore of Lake Mjøsa, in Innlandet county. 
 District-tier cluster — OBS Coop paired with OBS Bygg — and a Local-tier cluster pairing OBS Bygg
 with Elkjøp. Oslo sits 106.8 kilometres away by straight-line distance under the framework's
 continental reference-point set. The market carries European Regional Market classification under
-the co-location screening framework's composition gate.
+the co-location system's composition gate.
 
 ## Overview
 

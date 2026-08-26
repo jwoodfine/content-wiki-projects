@@ -15,7 +15,7 @@ bcsc_class: current-fact
 short_description: "European Regional Market — Ancona (Italy) metropolitan reference point, 179.1 km; 1 Regional-tier co-location cluster."
 paired_with: markets/hr-dalmatia-zadar.es.md
 wikipedia_sourced: true
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: editorial
 ---
 
@@ -24,7 +24,7 @@ is anchored by Kaufland and Interspar (hypermarket), Bauhaus and Pevex (hardware
 (sport) — one Regional-tier co-location cluster, the framework's highest single-cluster tier.
 Ancona, Italy, sits 179.1 kilometres away by straight-line distance, crossing the Adriatic Sea
 rather than reflecting a land commuting relationship. The market carries European Regional Market
-classification under the co-location screening framework's composition gate.
+classification under the co-location system's composition gate.
 
 ## Overview
 

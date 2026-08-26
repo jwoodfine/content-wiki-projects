@@ -15,7 +15,7 @@ bcsc_class: current-fact
 short_description: "European Regional Market — Oslo metropolitan reference point, 34.6 km; 1 Regional-tier co-location cluster."
 paired_with: markets/no-akershus-ullensaker.es.md
 wikipedia_sourced: true
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: editorial
 ---
 
@@ -24,7 +24,7 @@ Coop (hypermarket), two hardware chains — OBS Bygg and Montér — XXL (sport)
 and MRO supply) across a single Regional-tier co-location cluster. Oslo sits 34.6 kilometres away
 by straight-line distance under the framework's continental reference-point set, the closest of
 Norway's nine current reference distances. The market carries European Regional Market
-classification under the co-location screening framework's composition gate.
+classification under the co-location system's composition gate.
 
 ## Overview
 

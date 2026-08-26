@@ -3,7 +3,7 @@ schema: foundry-doc-v1
 title: "Co-location tier system"
 slug: co-location-tier-system
 category: markets
-index_group: screening-universe
+index_group: market-coverage
 type: topic
 content_type: topic
 quality: complete
@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: editorial
 short_description: "The four-tier classification — Regional, District, Local, Fringe — assigned to every co-location cluster on the platform, the predicate gates that determine it, and how the system applies across North American and European markets."
 paired_with: markets/co-location-tier-system.es.md

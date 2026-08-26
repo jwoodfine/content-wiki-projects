@@ -15,7 +15,7 @@ bcsc_class: current-fact
 short_description: "European Regional Market — Ancona (Italy) metropolitan reference point, 256.0 km; 1 Regional-tier and 1 Local-tier co-location cluster."
 paired_with: markets/hr-dalmatia-split.es.md
 wikipedia_sourced: true
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: editorial
 ---
 
@@ -23,8 +23,7 @@ Split is the second-largest city in Croatia, on the Adriatic coast in Dalmatia. 
 Regional-tier cluster — Interspar and Kaufland paired with Bauhaus, Decathlon, and Hervis — and a
 Local-tier cluster — Kaufland paired with Pevex. Ancona, Italy, sits 256.0 kilometres away by
 straight-line distance, crossing the Adriatic Sea rather than reflecting a land commuting
-relationship. The market carries European Regional Market classification under the co-location
-screening framework's composition gate.
+relationship. The market carries European Regional Market classification under the co-location system's composition gate.
 
 ## Overview
 

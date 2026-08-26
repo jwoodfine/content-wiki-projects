@@ -15,7 +15,7 @@ bcsc_class: current-fact
 short_description: "European Regional Market — Athens metropolitan reference point, 12.3 km; 1 Regional-tier co-location cluster."
 paired_with: markets/gr-attica-gerakas.es.md
 wikipedia_sourced: true
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: editorial
 ---
 
@@ -23,8 +23,7 @@ Gerakas is an eastern Athens suburb in the East Attica regional unit. It is anch
 Sklavenitis (hypermarket), Praktiker (hardware), and MediaMarkt (electronics) — one Regional-tier
 co-location cluster, the framework's highest single-cluster tier. Athens sits 12.3 kilometres
 away by straight-line distance — the shortest metropolitan reference among Greece's seven current
-entries. The market carries European Regional Market classification under the co-location
-screening framework's composition gate.
+entries. The market carries European Regional Market classification under the co-location system's composition gate.
 
 ## Overview
 

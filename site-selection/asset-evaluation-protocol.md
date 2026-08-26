@@ -12,13 +12,13 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-11
+last_edited: 2026-08-26
 editor: pointsav-engineering
 paired_with: site-selection/asset-evaluation-protocol.es.md
 cites: []
 ---
 
-Woodfine's asset acquisition process begins with the [[co-location-investment-thesis|co-location]] ranking matrix. A candidate site must achieve a minimum tier classification before capital evaluation proceeds. The tier score is the entry filter — it removes subjective judgment from the initial screening stage and establishes a reproducible basis for comparing candidate sites across geographies. Sites that pass the screen subsequently enter the Direct-Hold framework under the interest coverage discipline.
+Woodfine's asset acquisition process begins with the [[co-location-investment-thesis|co-location]] ranking matrix. A candidate site must achieve a minimum tier classification before capital evaluation proceeds. The tier score is the entry filter — it removes subjective judgment from the initial qualification stage and establishes a reproducible basis for comparing candidate sites across geographies. Sites that clear the filter subsequently enter the Direct-Hold framework under the interest coverage discipline.
 
 ## Key takeaways
 
@@ -28,7 +28,7 @@ Woodfine's asset acquisition process begins with the [[co-location-investment-th
 
 ## Tier score as entry criterion
 
-A site that does not reach the minimum tier threshold is not considered for acquisition, regardless of other characteristics. The threshold is binary at the screening stage: a site either qualifies for capital evaluation or it does not. This discipline prevents the evaluation process from beginning with advocacy for a preferred site and working backward to justify it.
+A site that does not reach the minimum tier threshold is not considered for acquisition, regardless of other characteristics. The threshold is binary at the qualification stage: a site either qualifies for capital evaluation or it does not. This discipline prevents the evaluation process from beginning with advocacy for a preferred site and working backward to justify it.
 
 The tier score is a necessary but not sufficient condition for acquisition. A site that passes the threshold enters capital evaluation; it does not receive a commitment.
 
@@ -48,7 +48,7 @@ The combined score across all three layers produces a tier classification from 1
 
 The matrix is reproducible by independent GIS analysis using publicly available retailer location data and civic facility coordinates. A site's tier score does not depend on Woodfine's internal assessment of market conditions; it depends on the presence or absence of specific operators and facilities within defined radii. An analyst applying the same matrix to the same data should reach the same classification for a given site.
 
-This reproducibility is not incidental — it is a design requirement. If the entry criterion depended on a judgment call that only Woodfine could make, the filter would not function as an objective screen.
+This reproducibility is not incidental — it is a design requirement. If the entry criterion depended on a judgment call that only Woodfine could make, the filter would not function as an objective standard.
 
 ## Capital evaluation
 
@@ -64,7 +64,7 @@ Capital evaluation produces an investment recommendation; the tier score produce
 
 ## The bottom line
 
-The Asset Evaluation Protocol disciplines the acquisition funnel by enforcing an objective, reproducible entry screen before any capital analysis begins. The tier score eliminates advocacy-driven deal origination: if a site does not independently qualify under the co-location matrix, evaluation does not proceed. Once a site clears the threshold, conventional capital analysis applies — property condition, lease structure, title, and debt service capacity are assessed on their own terms. Neither the screening stage nor the capital evaluation stage can substitute for the other; both are required before Woodfine commits to an acquisition.
+The Asset Evaluation Protocol disciplines the acquisition funnel by enforcing an objective, reproducible entry filter before any capital analysis begins. The tier score eliminates advocacy-driven deal origination: if a site does not independently qualify under the co-location matrix, evaluation does not proceed. Once a site clears the threshold, conventional capital analysis applies — property condition, lease structure, title, and debt service capacity are assessed on their own terms. Neither the qualification stage nor the capital evaluation stage can substitute for the other; both are required before Woodfine commits to an acquisition.
 
 ## See also
 

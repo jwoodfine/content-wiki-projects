@@ -12,7 +12,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-07-11
+last_edited: 2026-08-26
 editor: pointsav-engineering
 paired_with: site-selection/co-location-investment-thesis.es.md
 cites: []
@@ -59,7 +59,7 @@ The co-location investment thesis rests on a single, verifiable observation: ins
 - [[asset-evaluation-protocol|Asset Evaluation Protocol]] — how the tier score functions as an entry criterion in Woodfine's acquisition process
 - Corporate Structure — the entities responsible for executing acquisitions
 - Direct-Hold Framework — the ownership structure applied to acquired assets
-- Perpetual Equity Model — the holding framework applied to assets that pass the co-location screening
+- Perpetual Equity Model — the holding framework applied to assets that clear co-location qualification
 - [Co-Location Methodology](https://projects.woodfinegroup.com/topic-co-location-methodology) — detailed analytical methodology behind the investment thesis
 
 ---

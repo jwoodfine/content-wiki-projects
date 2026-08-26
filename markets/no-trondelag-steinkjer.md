@@ -15,7 +15,7 @@ bcsc_class: current-fact
 short_description: "European Regional Market — Trondheim metropolitan reference point, 84.1 km; 1 Regional-tier co-location cluster."
 paired_with: markets/no-trondelag-steinkjer.es.md
 wikipedia_sourced: true
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: editorial
 ---
 
@@ -23,8 +23,7 @@ Steinkjer is a market on the inner Trondheimsfjord, in Trøndelag county. It is 
 Coop (hypermarket), two hardware chains — OBS Bygg and Bygger'n — Elkjøp (electronics), and Würth
 (industrial and MRO supply) across a single Regional-tier co-location cluster. Trondheim sits 84.1
 kilometres away by straight-line distance under the framework's continental reference-point set.
-The market carries European Regional Market classification under the co-location screening
-framework's composition gate.
+The market carries European Regional Market classification under the co-location system's composition gate.
 
 ## Overview
 

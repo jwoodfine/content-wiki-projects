@@ -5,7 +5,7 @@ title: "Regional Markets intelligence system"
 language: en
 language_protocol: PROSE-TOPIC
 category: markets
-index_group: screening-universe
+index_group: market-coverage
 type: reference
 content_type: topic
 quality: complete
@@ -14,7 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Reference article for the co-location analysis system that identifies suburban retail markets in North America and Europe."
 paired_with: markets/about-regional-markets-system.es.md
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: editorial
 ---
 

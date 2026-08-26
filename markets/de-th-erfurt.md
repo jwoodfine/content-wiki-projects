@@ -12,9 +12,9 @@ quality: stub
 status: retired
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Thuringia's state capital — outside the current Top-400 screening band (no nearby major metro core)."
+short_description: "Thuringia's state capital — outside the current Top-400 qualifying band (no nearby major metro core)."
 paired_with: markets/de-th-erfurt.es.md
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: editorial
 ---
 
@@ -42,7 +42,7 @@ Europe]] list, and — unlike Ulm, Augsburg, Nuremberg, or Bielefeld — it does
 metro-core reference point for any other entry either. This most plausibly reflects a
 gap in the current OSM-derived build for the Thuringia region rather than a deliberate
 exclusion. It is tracked here as a market whose classification under
-[[about-regional-markets-system|the co-location screening system's]] taxonomy is not yet
+[[about-regional-markets-system|the co-location qualification system's]] taxonomy is not yet
 resolved.
 
 ## See Also

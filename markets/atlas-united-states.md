@@ -12,9 +12,9 @@ audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 keynote: false
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: woodfine-editorial
-short_description: "Index of US regional commercial real estate markets meeting co-location screening thresholds across all major census regions."
+short_description: "Index of US regional commercial real estate markets meeting the co-location composition gates across all major census regions."
 paired_with: markets/atlas-united-states.es.md
 ---
 
@@ -36,7 +36,7 @@ Unlike Canada and European comparables, the US market operates without federal l
 planning constraints. The result is uniform power centre development across income-qualified
 markets in all fifty states.
 
-The primary screening signals — Costco warehouse clubs, Home Depot and Lowe's home-improvement
+The primary qualification signals — Costco warehouse clubs, Home Depot and Lowe's home-improvement
 stores, Walmart and Target general merchandise superstores — are present in virtually every US
 market above 80,000 population that clears the household income threshold. Their presence
 provides a consistent and reliable income signal.
@@ -76,8 +76,7 @@ these five named markets are themselves TOP400 entries under the names given.
 ## Sample of 25
 
 The United States' 369 TOP400 entries span the country's full income and metropolitan
-range. A sample of twenty-five US markets is listed below (the US does not have a separate
-screening track — this is a US-filtered view of the same 400-market set). This is a sample,
+range. A sample of twenty-five US markets is listed below (the US does not have a separate qualification track — this is a US-filtered view of the same 400-market set). This is a sample,
 not a ranked top tier — the full set continues in the Appendix.
 
 | Market | Suburb of | km | T1 | T2 | T3 | Civic |

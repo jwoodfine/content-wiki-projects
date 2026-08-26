@@ -15,7 +15,7 @@ bcsc_class: current-fact
 short_description: "European Regional Market — Oslo metropolitan reference point, 39.7 km; 1 Regional-tier and 2 Local-tier co-location clusters."
 paired_with: markets/no-buskerud-drammen.es.md
 wikipedia_sourced: true
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: editorial
 ---
 
@@ -23,8 +23,7 @@ Drammen is a port city in Buskerud county, 39.7 kilometres southwest of Oslo. It
 Regional-tier cluster — OBS Coop paired with three hardware chains and Elkjøp — and two
 Local-tier clusters built around Montér, XL-Bygg, Elkjøp, and Würth. Oslo sits 39.7 kilometres
 away by straight-line distance under the framework's continental reference-point set. The market
-carries European Regional Market classification under the co-location screening framework's
-composition gate.
+carries European Regional Market classification under the co-location system's composition gate.
 
 ## Overview
 

@@ -6,7 +6,7 @@ language: es
 language_protocol: TRANSLATE-ES
 category: markets
 type: reference
-index_group: screening-universe
+index_group: market-coverage
 content_type: topic
 quality: complete
 status: active
@@ -14,7 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Conjunto de los 400 Mercados Regionales suburbanos calificados en América del Norte. No se publica posición ni puntuación; Plano, TX es una entrada (suburbio de Dallas)."
 paired_with: markets/atlas-top-400-north-america.md
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: editorial
 ---
 

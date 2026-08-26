@@ -15,7 +15,7 @@ bcsc_class: current-fact
 short_description: "European Regional Market — Trondheim metropolitan reference point, 466.6 km; 1 Regional-tier co-location cluster."
 paired_with: markets/no-nordland-bodo.es.md
 wikipedia_sourced: true
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: editorial
 ---
 
@@ -25,7 +25,7 @@ across a single Regional-tier co-location cluster. Trondheim sits 466.6 kilometr
 straight-line distance under the framework's continental reference-point set — the largest
 reference distance among Norway's nine current entries, a consequence of Bodø's position north of
 the Arctic Circle rather than any gap in the underlying data. The market carries European Regional
-Market classification under the co-location screening framework's composition gate.
+Market classification under the co-location system's composition gate.
 
 ## Overview
 

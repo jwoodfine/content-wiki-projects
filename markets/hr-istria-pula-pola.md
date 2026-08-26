@@ -15,7 +15,7 @@ bcsc_class: current-fact
 short_description: "European Regional Market — Trieste (Italy) metropolitan reference point, 86.3 km; 1 Regional-tier co-location cluster."
 paired_with: markets/hr-istria-pula-pola.es.md
 wikipedia_sourced: true
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: editorial
 ---
 
@@ -24,8 +24,7 @@ country. The market's underlying data records it under its official bilingual na
 It is anchored by Kaufland and Interspar (hypermarket), Bauhaus and Pevex (hardware), and
 Decathlon and Hervis (sport) — one Regional-tier co-location cluster, the framework's highest
 single-cluster tier. Trieste, Italy, sits 86.3 kilometres away by straight-line distance. The
-market carries European Regional Market classification under the co-location screening
-framework's composition gate.
+market carries European Regional Market classification under the co-location system's composition gate.
 
 ## Overview
 

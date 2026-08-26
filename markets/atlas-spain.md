@@ -12,9 +12,9 @@ audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 keynote: false
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: woodfine-editorial
-short_description: "Index of Spanish regional commercial real estate markets meeting co-location screening thresholds."
+short_description: "Index of Spanish regional commercial real estate markets meeting the co-location composition gates."
 paired_with: markets/atlas-spain.es.md
 ---
 
@@ -60,7 +60,7 @@ distributed market set.
 satellite municipalities as qualifying markets outside the primary Valencia urban core.
 
 **Andalusia** — Málaga (primary-market scale), Almería, Jaén, Huelva as secondary markets;
-income qualification requires careful screening.
+income qualification requires careful verification.
 
 **Correction (2026-07-16):** none of Burgos, Pamplona, Valladolid, Vitoria-Gasteiz, or
 Zaragoza — all previously listed above as primary qualifying markets or in the removed

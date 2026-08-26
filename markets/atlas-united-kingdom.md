@@ -12,9 +12,9 @@ audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 keynote: false
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: woodfine-editorial
-short_description: "Index of UK regional commercial real estate markets meeting co-location screening thresholds outside London and the South East."
+short_description: "Index of UK regional commercial real estate markets meeting the co-location composition gates outside London and the South East."
 paired_with: markets/atlas-united-kingdom.es.md
 ---
 

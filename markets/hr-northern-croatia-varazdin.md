@@ -15,7 +15,7 @@ bcsc_class: current-fact
 short_description: "European Regional Market — Graz (Austria) metropolitan reference point, 111.2 km; 1 Regional-tier co-location cluster."
 paired_with: markets/hr-northern-croatia-varazdin.es.md
 wikipedia_sourced: true
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: editorial
 ---
 
@@ -23,7 +23,7 @@ Varaždin is a city in northern Croatia known for its Baroque architecture and c
 It is anchored by Kaufland (hypermarket), Bauhaus and Pevex (hardware), and Decathlon (sport) —
 one Regional-tier co-location cluster, the framework's highest single-cluster tier. Graz, Austria,
 sits 111.2 kilometres away by straight-line distance. The market carries European Regional Market
-classification under the co-location screening framework's composition gate.
+classification under the co-location system's composition gate.
 
 ## Overview
 

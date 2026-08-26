@@ -6,7 +6,7 @@ language: en
 language_protocol: PROSE-TOPIC
 category: markets
 type: reference
-index_group: screening-universe
+index_group: market-coverage
 content_type: topic
 quality: complete
 status: active
@@ -14,7 +14,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "Set of the 400 qualifying North American suburban Regional Markets. No rank or score is published; Plano, TX is one entry (suburb of Dallas)."
 paired_with: markets/atlas-top-400-north-america.es.md
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: editorial
 ---
 
