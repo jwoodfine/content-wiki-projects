@@ -6,7 +6,10 @@ category: building-design
 index_group: design-philosophy-and-system
 type: topic
 content_type: topic
-status: active
+status: archived
+archived: 2026-08-26
+archived_reason: "PointSav software/platform architecture content misplaced on a real-estate wiki. Per the operator's own framing: the projects wiki 'is not for software or PointSav, it is for real estate' -- there is something wrong with content that needs a link to documentation.pointsav.com; it needs to be rewritten to fit corporate or projects, or moved. This article described planned UI/UX interface-pattern decisions (adopting AEC authoring-tool muscle memory, extending into facility-management workflows) -- platform interface design, not Woodfine real-estate content. Consolidated into media-knowledge-documentation patterns/aec-interface-conventions (2026-08-26); property-manager-bim-gap (unchanged, stays on this wiki) already carries the real-estate-facing version of the facility-management framing."
+superseded_by: none
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC

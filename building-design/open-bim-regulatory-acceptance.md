@@ -31,5 +31,4 @@ The certification status, data-sovereignty architecture, and licensing detail be
 
 ## See also
 
-- [[asset-anchored-bim-vault]] — the archive structure this approach is designed to produce
 - [[bim-market-context]] — the broader regulatory and market context for open BIM

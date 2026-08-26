@@ -7,7 +7,10 @@ category: building-design
 index_group: design-philosophy-and-system
 type: topic
 content_type: topic
-status: active
+status: archived
+archived: 2026-08-26
+archived_reason: "PointSav software/platform architecture content misplaced on a real-estate wiki. Per the operator's own framing: the projects wiki 'is not for software or PointSav, it is for real estate' -- there is something wrong with content that needs a link to documentation.pointsav.com; it needs to be rewritten to fit corporate or projects, or moved. This article described the planned Building Design System coordination-layer platform -- platform architecture, not Woodfine real-estate content. Migrated to media-knowledge-documentation architecture/building-design-system (2026-08-26)."
+superseded_by: none
 last_edited: 2026-08-24
 editor: pointsav-engineering
 short_description: "A planned design-system platform for the built environment — the missing coordination layer that would let independent BIM authoring surfaces work from a shared specification vocabulary, the way a software design system keeps independent product teams consistent."

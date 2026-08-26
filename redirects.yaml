@@ -93,14 +93,27 @@ redirects:
   - from: /topic-bim-medical-key-plans
     to: /wiki/bim-medical-key-plans
 
+  # 2026-08-26: target archived — platform/software architecture content
+  # consolidated into media-knowledge-documentation (substrate/bim-object-specification,
+  # merging bim-objects-substrate + bim-objects-three-layers + bim-objects-what-they-are
+  # into one article); redirect to the projects-wiki category landing page, not across wikis.
   - from: /topic-bim-objects-substrate
-    to: /wiki/bim-objects-substrate
+    to: /category/building-design
+
+  - from: /bim-objects-substrate
+    to: /category/building-design
 
   - from: /topic-bim-objects-three-layers
-    to: /wiki/bim-objects-three-layers
+    to: /category/building-design
+
+  - from: /bim-objects-three-layers
+    to: /category/building-design
 
   - from: /topic-bim-objects-what-they-are
-    to: /wiki/bim-objects-what-they-are
+    to: /category/building-design
+
+  - from: /bim-objects-what-they-are
+    to: /category/building-design
 
   - from: /topic-bim-private-office-key-plans
     to: /wiki/bim-private-office-key-plans
@@ -114,10 +127,14 @@ redirects:
   - from: /topic-bim-zone-depths-per-use-type
     to: /wiki/bim-zone-depths-per-use-type
 
-  # slug reworked: "building-design-system-bim" would stutter against the
-  # building-design/ directory it now lives in.
+  # 2026-08-26: target archived — platform/software architecture content
+  # migrated to media-knowledge-documentation (architecture/building-design-system);
+  # redirect to the projects-wiki category landing page, not across wikis.
   - from: /topic-building-design-system-bim
-    to: /wiki/design-system-bim
+    to: /category/building-design
+
+  - from: /design-system-bim
+    to: /category/building-design
 
   # 2026-08-26: target archived — platform/software architecture content
   # migrated to media-knowledge-documentation (architecture/flat-file-bim-leapfrog);
@@ -126,8 +143,18 @@ redirects:
   - from: /topic-flat-file-bim-leapfrog
     to: /category/building-design
 
+  # 2026-08-26: target archived — platform/software architecture content
+  # migrated to media-knowledge-documentation (architecture/asset-anchored-bim-vault,
+  # which also absorbs 3d-asset-tokens' token-structure description); redirect to the
+  # projects-wiki category landing page, not across wikis.
   - from: /topic-asset-anchored-bim-vault
-    to: /wiki/asset-anchored-bim-vault
+    to: /category/building-design
+
+  - from: /asset-anchored-bim-vault
+    to: /category/building-design
+
+  - from: /3d-asset-tokens
+    to: /category/building-design
 
   - from: /topic-open-bim-regulatory-acceptance
     to: /wiki/open-bim-regulatory-acceptance
@@ -135,8 +162,18 @@ redirects:
   - from: /topic-property-manager-bim-gap
     to: /wiki/property-manager-bim-gap
 
+  # 2026-08-26: target archived — platform/software architecture content
+  # consolidated into media-knowledge-documentation (patterns/aec-interface-conventions,
+  # merging in bim-aec-muscle-memory); redirect to the projects-wiki category landing
+  # page, not across wikis.
   - from: /topic-aec-interface-conventions
-    to: /wiki/aec-interface-conventions
+    to: /category/building-design
+
+  - from: /aec-interface-conventions
+    to: /category/building-design
+
+  - from: /bim-aec-muscle-memory
+    to: /category/building-design
 
   - from: /topic-asset-architecture-standard
     to: /wiki/asset-architecture-standard

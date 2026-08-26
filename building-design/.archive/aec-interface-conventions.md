@@ -7,7 +7,10 @@ category: building-design
 index_group: design-philosophy-and-system
 type: topic
 content_type: topic
-status: active
+status: archived
+archived: 2026-08-26
+archived_reason: "PointSav software/platform architecture content misplaced on a real-estate wiki. Per the operator's own framing: the projects wiki 'is not for software or PointSav, it is for real estate' -- there is something wrong with content that needs a link to documentation.pointsav.com; it needs to be rewritten to fit corporate or projects, or moved. This article described the shared BIM authoring interface vocabulary (hierarchy tree, properties panel, viewport, saved views) and the planned interface layer built on it -- platform interface architecture, not Woodfine real-estate content. Consolidated (with bim-aec-muscle-memory) into media-knowledge-documentation patterns/aec-interface-conventions (2026-08-26)."
+superseded_by: none
 last_edited: 2026-08-24
 editor: pointsav-engineering
 short_description: "BIM authoring tools across the industry share a common interface vocabulary — a spatial hierarchy, an element properties panel, a 3D viewport, and saved views — because they build on the same underlying IFC data model, giving PointSav's planned interface layer a shared foundation to build on rather than inventing a new one."

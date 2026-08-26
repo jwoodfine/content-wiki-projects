@@ -6,7 +6,10 @@ category: building-design
 index_group: design-philosophy-and-system
 type: topic
 content_type: topic
-status: active
+status: archived
+archived: 2026-08-26
+archived_reason: "Contenido de arquitectura de software/plataforma de PointSav ubicado por error en un wiki inmobiliario. Palabras del operador: el wiki de proyectos 'no es para software ni para PointSav, es para bienes raíces' -- si el contenido necesita un enlace a documentation.pointsav.com, hay algo mal en el contenido; debe reescribirse para encajar en corporate o projects, o trasladarse. Este artículo describía decisiones de patrón de interfaz de usuario planificadas (adoptar la memoria muscular de herramientas de autoría AEC, extenderse a flujos de gestión de instalaciones) -- diseño de interfaz de plataforma, no contenido inmobiliario de Woodfine. Consolidado en media-knowledge-documentation patterns/aec-interface-conventions (2026-08-26); property-manager-bim-gap (sin cambios, permanece en este wiki) ya recoge la versión orientada a bienes raíces del planteamiento de gestión de instalaciones."
+superseded_by: none
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES

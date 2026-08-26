@@ -7,7 +7,10 @@ category: building-design
 index_group: design-philosophy-and-system
 type: topic
 content_type: topic
-status: active
+status: archived
+archived: 2026-08-26
+archived_reason: "Contenido de arquitectura de software/plataforma de PointSav ubicado por error en un wiki inmobiliario. Palabras del operador: el wiki de proyectos 'no es para software ni para PointSav, es para bienes raíces' -- si el contenido necesita un enlace a documentation.pointsav.com, hay algo mal en el contenido; debe reescribirse para encajar en corporate o projects, o trasladarse. Este artículo describía el vocabulario de interfaz compartido de autoría BIM (árbol de jerarquía, panel de propiedades, vista 3D, vistas guardadas) y la capa de interfaz planificada construida sobre él -- arquitectura de interfaz de plataforma, no contenido inmobiliario de Woodfine. Consolidado (junto con bim-aec-muscle-memory) en media-knowledge-documentation patterns/aec-interface-conventions (2026-08-26)."
+superseded_by: none
 last_edited: 2026-08-24
 editor: pointsav-engineering
 short_description: "Las herramientas de autoría BIM del sector comparten un vocabulario de interfaz común — jerarquía espacial, panel de propiedades, visor 3D y vistas guardadas — porque se construyen sobre el mismo modelo de datos IFC subyacente, lo que le da a la capa de interfaz prevista de PointSav una base compartida sobre la cual construir en lugar de inventar una nueva."

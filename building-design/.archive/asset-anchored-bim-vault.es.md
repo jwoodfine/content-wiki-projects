@@ -7,7 +7,10 @@ category: building-design
 index_group: bim-objects-and-the-digital-record
 type: topic
 content_type: topic
-status: active
+status: archived
+archived: 2026-08-26
+archived_reason: "Contenido de arquitectura de software/plataforma de PointSav ubicado por error en un wiki inmobiliario. Palabras del operador: el wiki de proyectos 'no es para software ni para PointSav, es para bienes raíces' -- si el contenido necesita un enlace a documentation.pointsav.com, hay algo mal en el contenido; debe reescribirse para encajar en corporate o projects, o trasladarse. Este artículo describía la disposición de archivos de la bóveda, el formato canónico IFC-SPF, el almacén de objetos direccionado por hash, y el mapeo al CDE de ISO 19650 -- arquitectura de datos de plataforma, no contenido inmobiliario de Woodfine. Migrado a media-knowledge-documentation architecture/asset-anchored-bim-vault (2026-08-26), que también absorbe la descripción de estructura de tokens de 3d-asset-tokens en la sección Almacén de objetos direccionado por hash."
+superseded_by: none
 last_edited: 2026-07-31
 editor: pointsav-engineering
 short_description: "El registro digital autoritario de un edificio estructurado como archivos de texto plano y binarios estandarizados en un directorio versionado con git, calificando como un Entorno de Datos Común conforme a ISO 19650 que viaja con la escritura de propiedad."

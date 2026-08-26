@@ -6,7 +6,10 @@ category: building-design
 index_group: bim-objects-and-the-digital-record
 type: topic
 content_type: topic
-status: stub
+status: archived
+archived: 2026-08-26
+archived_reason: "Contenido de arquitectura de software/plataforma de PointSav ubicado por error en un wiki inmobiliario. Palabras del operador: el wiki de proyectos 'no es para software ni para PointSav, es para bienes raíces' -- si el contenido necesita un enlace a documentation.pointsav.com, hay algo mal en el contenido; debe reescribirse para encajar en corporate o projects, o trasladarse. Este artículo describía la arquitectura de tokens direccionados por hash del archivo (carga binaria + esqueleto de metadatos + posición de grafo) -- arquitectura de datos de plataforma, no contenido inmobiliario de Woodfine. Consolidado en la sección Almacén de objetos direccionado por hash de media-knowledge-documentation architecture/asset-anchored-bim-vault (2026-08-26), que ya describía el mismo almacén de objetos desde el lado de la implementación."
+superseded_by: none
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES

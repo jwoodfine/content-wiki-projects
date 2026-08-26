@@ -7,7 +7,10 @@ category: building-design
 index_group: design-philosophy-and-system
 type: topic
 content_type: topic
-status: active
+status: archived
+archived: 2026-08-26
+archived_reason: "Contenido de arquitectura de software/plataforma de PointSav ubicado por error en un wiki inmobiliario. Palabras del operador: el wiki de proyectos 'no es para software ni para PointSav, es para bienes raíces' -- si el contenido necesita un enlace a documentation.pointsav.com, hay algo mal en el contenido; debe reescribirse para encajar en corporate o projects, o trasladarse. Este artículo describía la plataforma de capa de coordinación planificada Sistema de Diseño de la Construcción -- arquitectura de plataforma, no contenido inmobiliario de Woodfine. Migrado a media-knowledge-documentation architecture/building-design-system (2026-08-26)."
+superseded_by: none
 last_edited: 2026-08-24
 editor: pointsav-engineering
 short_description: "Una plataforma de sistema de diseño prevista para el entorno construido — la capa de coordinación que hoy falta y que permitiría a superficies de autoría BIM independientes trabajar desde un vocabulario de especificación compartido, del mismo modo en que un sistema de diseño de software mantiene consistentes a equipos de producto independientes."

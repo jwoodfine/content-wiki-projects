@@ -7,7 +7,10 @@ category: building-design
 index_group: bim-objects-and-the-digital-record
 type: topic
 content_type: topic
-status: active
+status: archived
+archived: 2026-08-26
+archived_reason: "PointSav software/platform architecture content misplaced on a real-estate wiki. Per the operator's own framing: the projects wiki 'is not for software or PointSav, it is for real estate' -- there is something wrong with content that needs a link to documentation.pointsav.com; it needs to be rewritten to fit corporate or projects, or moved. This article described the vault file layout, IFC-SPF canonical format, hash-addressed object store, and ISO 19650 CDE mapping -- platform data-architecture, not Woodfine real-estate content. Migrated to media-knowledge-documentation architecture/asset-anchored-bim-vault (2026-08-26), which also absorbs 3d-asset-tokens' token-structure description into the Hash-Addressed Object Store section."
+superseded_by: none
 last_edited: 2026-06-20
 editor: pointsav-engineering
 short_description: "A building's authoritative digital record structured as plain-text and standardized-binary files in a git-versioned directory, qualifying as an ISO 19650-conforming Common Data Environment that travels with the property deed."

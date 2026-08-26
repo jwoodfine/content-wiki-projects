@@ -7,7 +7,10 @@ category: building-design
 index_group: bim-objects-and-the-digital-record
 type: topic
 content_type: topic
-status: active
+status: archived
+archived: 2026-08-26
+archived_reason: "PointSav software/platform architecture content misplaced on a real-estate wiki. Per the operator's own framing: the projects wiki 'is not for software or PointSav, it is for real estate' -- there is something wrong with content that needs a link to documentation.pointsav.com; it needs to be rewritten to fit corporate or projects, or moved. This article described the BIM Object primitive category taxonomy -- a platform data-schema definition, not Woodfine real-estate content. Consolidated (with bim-objects-three-layers and bim-objects-what-they-are) into media-knowledge-documentation substrate/bim-object-specification (2026-08-26) -- three tightly-coupled facets of one concept, previously split into three thin stubs."
+superseded_by: none
 last_edited: 2026-08-24
 editor: pointsav-engineering
 short_description: "BIM Objects are organized into a small, fixed set of primitive categories — spatial elements, physical elements, materials, systems, performance thresholds, and more — each anchored to open industry standards (IFC, Uniclass, bSDD) rather than a proprietary schema, so a specification stays portable and verifiable across tools and vendors."

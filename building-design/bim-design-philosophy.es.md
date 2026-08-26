@@ -34,4 +34,3 @@ La arquitectura de tokens de diseño, la biblioteca de componentes y la implemen
 ## Consulte también
 
 - [[bim-market-context]] — el contexto regulatorio al que responde este enfoque de diseño
-- [[asset-anchored-bim-vault]] — la estructura de archivo que este enfoque está diseñado para producir

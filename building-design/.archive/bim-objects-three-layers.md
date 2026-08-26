@@ -7,7 +7,10 @@ category: building-design
 index_group: bim-objects-and-the-digital-record
 type: topic
 content_type: topic
-status: active
+status: archived
+archived: 2026-08-26
+archived_reason: "PointSav software/platform architecture content misplaced on a real-estate wiki. Per the operator's own framing: the projects wiki 'is not for software or PointSav, it is for real estate' -- there is something wrong with content that needs a link to documentation.pointsav.com; it needs to be rewritten to fit corporate or projects, or moved. This article described the three-layer (Specification/Regulation/Climate Zone) BIM Object composition rule -- a platform data-schema definition, not Woodfine real-estate content. Consolidated (with bim-objects-substrate and bim-objects-what-they-are) into media-knowledge-documentation substrate/bim-object-specification (2026-08-26) -- three tightly-coupled facets of one concept, previously split into three thin stubs."
+superseded_by: none
 last_edited: 2026-08-24
 editor: pointsav-engineering
 short_description: "A BIM Object carries three layers of information at once — what it is, what its jurisdiction requires of it, and what its climate requires of it — with the stricter of the two requirement layers governing whenever both apply to the same property."

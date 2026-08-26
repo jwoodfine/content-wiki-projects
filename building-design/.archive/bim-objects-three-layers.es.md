@@ -7,7 +7,10 @@ category: building-design
 index_group: bim-objects-and-the-digital-record
 type: topic
 content_type: topic
-status: active
+status: archived
+archived: 2026-08-26
+archived_reason: "Contenido de arquitectura de software/plataforma de PointSav ubicado por error en un wiki inmobiliario. Palabras del operador: el wiki de proyectos 'no es para software ni para PointSav, es para bienes raíces' -- si el contenido necesita un enlace a documentation.pointsav.com, hay algo mal en el contenido; debe reescribirse para encajar en corporate o projects, o trasladarse. Este artículo describía la regla de composición de tres capas (Especificación/Regulación/Zona Climática) del Objeto BIM -- una definición de esquema de datos de plataforma, no contenido inmobiliario de Woodfine. Consolidado (junto con bim-objects-substrate y bim-objects-what-they-are) en media-knowledge-documentation substrate/bim-object-specification (2026-08-26) -- tres facetas estrechamente ligadas de un mismo concepto, antes divididas en tres artículos breves."
+superseded_by: none
 last_edited: 2026-08-24
 editor: pointsav-engineering
 short_description: "Un Objeto BIM lleva tres capas de información a la vez — qué es, qué exige su jurisdicción y qué exige su clima — y prevalece la más estricta de las dos capas de requisitos cuando ambas se aplican a la misma propiedad."

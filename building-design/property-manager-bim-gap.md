@@ -15,7 +15,7 @@ cites: [ifc-4-3, iso-19650]
 paired_with: building-design/property-manager-bim-gap.es.md
 ---
 
-Building Information Models are authored by architects and structural engineers, delivered to contractors for construction, and then handed to property managers at practical completion. In practice, most of that model's value is never realized — a facilities manager who lacks a BIM viewer, the training to use one, or the budget for an authoring-tool licence cannot make use of the file they've been handed. See [[asset-anchored-bim-vault|the asset-anchored BIM vault]] and [[design-system-bim|the Building Design System]] for how Woodfine's approach addresses this.
+Building Information Models are authored by architects and structural engineers, delivered to contractors for construction, and then handed to property managers at practical completion. In practice, most of that model's value is never realized — a facilities manager who lacks a BIM viewer, the training to use one, or the budget for an authoring-tool licence cannot make use of the file they've been handed. See [[bim-design-philosophy|Woodfine's design philosophy]] for how Woodfine's approach addresses this.
 
 ## A documented industry gap
 
@@ -33,6 +33,4 @@ The interface components, data-access mechanism, and implementation detail behin
 
 ## See also
 
-- [[asset-anchored-bim-vault]] — the archive structure the facilities manager reads from
-- [[design-system-bim]] — the broader Building Design System this fits within
 - [[bim-design-philosophy]] — why Woodfine's records are designed to stay independently usable over a building's life

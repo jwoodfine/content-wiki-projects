@@ -34,4 +34,3 @@ The design-token architecture, component library, and IFC-standard implementatio
 ## See also
 
 - [[bim-market-context]] — the regulatory context this design approach responds to
-- [[asset-anchored-bim-vault]] — the archive structure this approach is designed to produce

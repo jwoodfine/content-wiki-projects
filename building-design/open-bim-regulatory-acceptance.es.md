@@ -31,5 +31,4 @@ El estado de certificación, la arquitectura de soberanía de datos y el detalle
 
 ## Consulte también
 
-- [[asset-anchored-bim-vault]] — la estructura de archivo que este enfoque está diseñado para producir
 - [[bim-market-context]] — el contexto regulatorio y de mercado más amplio del BIM abierto

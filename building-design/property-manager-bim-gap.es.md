@@ -15,7 +15,7 @@ cites: [ifc-4-3, iso-19650]
 paired_with: building-design/property-manager-bim-gap.md
 ---
 
-Los Modelos de Información para la Construcción son elaborados por arquitectos e ingenieros estructurales, entregados a los contratistas para la construcción, y luego transferidos a los administradores de propiedades en la finalización práctica. En la práctica, la mayor parte de ese valor nunca se aprovecha — un gerente de instalaciones que carece de un visor BIM, de la capacitación para usarlo, o del presupuesto para una licencia de herramienta de autoría no puede aprovechar el archivo que recibió. Véase [[asset-anchored-bim-vault|la bóveda BIM anclada al activo]] y [[design-system-bim|el Sistema de Diseño de la Construcción]] para conocer cómo el enfoque de Woodfine aborda esto.
+Los Modelos de Información para la Construcción son elaborados por arquitectos e ingenieros estructurales, entregados a los contratistas para la construcción, y luego transferidos a los administradores de propiedades en la finalización práctica. En la práctica, la mayor parte de ese valor nunca se aprovecha — un gerente de instalaciones que carece de un visor BIM, de la capacitación para usarlo, o del presupuesto para una licencia de herramienta de autoría no puede aprovechar el archivo que recibió. Véase [[bim-design-philosophy|la filosofía de diseño de Woodfine]] para conocer cómo el enfoque de Woodfine aborda esto.
 
 ## Una brecha documentada de la industria
 
@@ -33,6 +33,4 @@ Los componentes de interfaz, el mecanismo de acceso a datos y el detalle de impl
 
 ## Consulte también
 
-- [[asset-anchored-bim-vault]] — la estructura de archivo de la que lee el gerente de instalaciones
-- [[design-system-bim]] — el Sistema de Diseño de la Construcción más amplio en el que se inscribe
 - [[bim-design-philosophy]] — por qué los registros de Woodfine están diseñados para permanecer utilizables de forma independiente durante toda la vida de un edificio
