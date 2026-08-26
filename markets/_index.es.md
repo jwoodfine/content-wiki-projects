@@ -53,7 +53,7 @@ Siete índices de co-ubicación por país aportan los datos de clúster subyacen
 
 ## Desgloses por País
 
-Ocho índices de Mercado Regional por país filtran las tablas continentales del Top 400 hasta las entradas de un solo país: [[atlas-canada|Canadá]], [[atlas-united-states|Estados Unidos]], [[atlas-united-kingdom|Reino Unido]], [[atlas-spain|España]], [[atlas-italy|Italia]], [[atlas-poland|Polonia]], [[atlas-greece|Grecia]] y [[atlas-croatia|Croacia]].
+Nueve índices de Mercado Regional por país filtran las tablas continentales del Top 400 hasta las entradas de un solo país: [[atlas-canada|Canadá]], [[atlas-united-states|Estados Unidos]], [[atlas-united-kingdom|Reino Unido]], [[atlas-spain|España]], [[atlas-italy|Italia]], [[atlas-poland|Polonia]], [[atlas-greece|Grecia]], [[atlas-croatia|Croacia]] y [[atlas-norway|Noruega]].
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: country-breakouts -->
 - [[atlas-canada]] — Índice de mercados inmobiliarios comerciales regionales canadienses que cumplen los umbrales de selección para co-ubicación.
@@ -64,6 +64,7 @@ Ocho índices de Mercado Regional por país filtran las tablas continentales del
 - [[atlas-poland]] — Índice de las 16 entradas polacas en la lista Top 400 Mercados Regionales — Europa, filtrado de la tabla continental con agrupaciones por referencia metropolitana.
 - [[atlas-greece]] — Índice de las 7 entradas griegas en la lista Top 400 Mercados Regionales — Europa; página de país de lote piloto con 7 nuevos perfiles de mercado en borrador, construida el 25-08-2026.
 - [[atlas-croatia]] — Índice de las 9 entradas croatas en la lista Top 400 Mercados Regionales — Europa; página de país con 9 nuevos perfiles de mercado en borrador, construida el 25-08-2026, siguiendo la plantilla fijada wave-1.5.
+- [[atlas-norway]] — Índice de las 9 entradas noruegas en la lista Top 400 Mercados Regionales — Europa; página de país con 9 nuevos perfiles de mercado en borrador, construida el 25-08-2026, siguiendo la plantilla fijada wave-1.5.
 <!-- END AUTO-GENERATED -->
 
 ## Perfiles de Mercado
