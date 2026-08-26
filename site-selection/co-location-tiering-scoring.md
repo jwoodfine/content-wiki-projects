@@ -18,7 +18,7 @@ paired_with: site-selection/co-location-tiering-scoring.es.md
 cites: []
 ---
 
-This article describes a compositional tiering methodology — grounded in the DBSCAN-based clustering research documented in [[geometric-site-selection-national-tenancy]] — that assigns each co-location cluster one of three tiers, T1, T2, or T3, on the basis of retailer-category composition. Rendered as coloured dots, the tiers are graduated from T1 (deepest co-location) to T3 (shallowest qualifying co-location). Understanding precisely what these tiers measure — and what they do not — is necessary for reading a compositional cluster result correctly.
+This article describes a compositional tiering methodology — grounded in DBSCAN-based clustering research — that assigns each co-location cluster one of three tiers, T1, T2, or T3, on the basis of retailer-category composition. Rendered as coloured dots, the tiers are graduated from T1 (deepest co-location) to T3 (shallowest qualifying co-location). Understanding precisely what these tiers measure — and what they do not — is necessary for reading a compositional cluster result correctly.
 
 The tier labels currently rendered on the Woodfine location intelligence map are the four-tier system — Regional, District, Local, Fringe — described in [[co-location-tier-nomenclature]]. The compositional T1/T2/T3 model documented in this article is a distinct, related classification approach; the two should not be read as interchangeable.
 

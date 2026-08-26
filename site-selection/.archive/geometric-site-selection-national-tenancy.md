@@ -7,7 +7,10 @@ category: site-selection
 index_group: scoring-and-clustering
 type: research
 content_type: research
-status: active
+status: archived
+archived: 2026-08-26
+archived_reason: "JOURNAL-format research paper -- per this archive's own journal-registry.md policy, JOURNAL papers never live in a knowledge-base wiki; they route to a product site's own /research page. This paper's subject (co-location geospatial methodology) maps to gis.woodfinegroup.com, owned by project-gis. Staged as a drafts-outbound handoff to project-gis; original wiki publication retracted."
+superseded_by: none
 last_edited: 2026-06-20
 editor: project-editorial
 short_description: "A continental-scale cluster analysis framework identifying retail anchor co-location clusters and their tier classification across thirteen countries."

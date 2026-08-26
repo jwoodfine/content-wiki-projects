@@ -18,7 +18,7 @@ paired_with: site-selection/co-location-tiering-scoring.md
 cites: []
 ---
 
-Este artículo describe una metodología de niveles composicionales — fundamentada en la investigación de agrupación basada en DBSCAN documentada en [[geometric-site-selection-national-tenancy]] — que asigna a cada clúster de co-ubicación uno de tres niveles — T1, T2 o T3 — sobre la base de la composición de categorías de minoristas. Representados como puntos de colores, los niveles se gradúan de T1 (co-ubicación más profunda) a T3 (co-ubicación calificada más superficial). Comprender con precisión qué miden estos niveles — y qué no — es necesario para leer correctamente un resultado de clúster composicional.
+Este artículo describe una metodología de niveles composicionales — fundamentada en la investigación de agrupación basada en DBSCAN — que asigna a cada clúster de co-ubicación uno de tres niveles — T1, T2 o T3 — sobre la base de la composición de categorías de minoristas. Representados como puntos de colores, los niveles se gradúan de T1 (co-ubicación más profunda) a T3 (co-ubicación calificada más superficial). Comprender con precisión qué miden estos niveles — y qué no — es necesario para leer correctamente un resultado de clúster composicional.
 
 Las etiquetas de nivel que se muestran actualmente en el mapa de inteligencia de ubicación de Woodfine son el sistema de cuatro niveles — Regional, Distrital, Local, Marginal — descrito en [[co-location-tier-nomenclature]]. El modelo composicional T1/T2/T3 documentado en este artículo es un enfoque de clasificación distinto y relacionado; los dos no deben leerse como intercambiables.
 
