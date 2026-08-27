@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-26
+last_edited: 2026-08-27
 editor: pointsav-engineering
 short_description: "Vínculo operacional que conecta cada sitio de construcción físico con un contenedor de archivo digital aislado, manteniendo registros de auditoría inmutables desde el inicio hasta la puesta en servicio."
 
@@ -21,7 +21,7 @@ cites:
   - osc-sn-51-721
 ---
 
-Cada sitio de desarrollo activo de Woodfine genera un registro de auditoría digital inmutable mantenido por la plataforma PointSav — el registro legal de hitos de construcción, resultados de inspecciones y variaciones de cronograma que los inversores y reguladores pueden verificar de forma independiente. Cada sitio se asigna a su propio archivo aislado; los eventos en el sitio físico generan registros que no pueden sobrescribirse después de ser ingresados. El libro contable registra el cumplimiento de la [[asset-architecture-standard|Norma de Arquitectura del Activo]] desde el momento de la adquisición (regulada por las [[zoning-acquisition-rules|reglas de adquisición por zonificación]]) hasta la puesta en servicio.
+Cada sitio de desarrollo activo de Woodfine genera un registro de auditoría digital inmutable mantenido por la plataforma PointSav — el registro legal de hitos de construcción, resultados de inspecciones y variaciones de cronograma que los inversores y reguladores pueden verificar de forma independiente. Cada sitio se asigna a su propio archivo aislado; los eventos en el sitio físico generan registros que no pueden sobrescribirse después de ser ingresados. El libro contable registra el cumplimiento de la [[asset-architecture-standard|Norma de Arquitectura del Activo]] desde el momento de la adquisición (regulada por la [[zoning-acquisition-rules|norma de adquisición por zonificación]]) hasta la puesta en servicio.
 
 ## El modelo de contenedor digital
 

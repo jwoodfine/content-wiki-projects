@@ -11,7 +11,7 @@ short_description: "Woodfine's land-sourcing thesis: the excess parking Power Ce
 status: stable
 audience: customer-woodfine
 bcsc_class: current-fact
-last_edited: 2026-08-24
+last_edited: 2026-08-27
 editor: pointsav-engineering
 language_protocol: PROSE-TOPIC
 source_refs:
@@ -38,4 +38,4 @@ Land drawn from inside an operating Power Centre carries two advantages a genera
 
 - [[power-centre-co-location-thesis|Power Centre Co-Location Thesis]] — the co-location criterion that reserved parking land inside a Power Centre satisfies by construction
 - [[power-centres|Power Centres]] — how a Power Centre and its retail anchors are defined
-- [[zoning-acquisition-rules|Zoning Acquisition Rules]] — the pre-purchase verification a parcel must still clear before acquisition
+- [[zoning-acquisition-rules|Zoning Acquisition Standard]] — the pre-purchase verification a parcel must still clear before acquisition

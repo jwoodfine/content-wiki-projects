@@ -12,7 +12,7 @@ index_scope: site-selection
 status: active
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-26
+last_edited: 2026-08-27
 editor: pointsav-engineering
 paired_with: _index.es.md
 ---
@@ -72,7 +72,7 @@ Site Selection covers the method behind "near Power Centres" — the discipline 
 
 ## Before Land Is Bought
 
-[[zoning-acquisition-rules|Zoning Acquisition Rules]] requires a verified entitlement position on every parcel — either a permitted use or an evidenced, achievable rezoning path — before purchase. [[asset-evaluation-protocol|The Asset Evaluation Protocol]] sets tier score as the entry criterion and independent GIS analysis as the verification method a candidate site must clear.
+[[zoning-acquisition-rules|Zoning Acquisition Standard]] requires a verified entitlement position on every parcel — either a permitted use or an evidenced, achievable rezoning path — before purchase. [[asset-evaluation-protocol|The Asset Evaluation Protocol]] sets tier score as the entry criterion and independent GIS analysis as the verification method a candidate site must clear.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: before-land-is-bought -->
 - [[zoning-acquisition-rules]] — Pre-purchase entitlement verification: every parcel is acquired against either a permitted use or an evidenced, achievable rezoning path, with an active development timeline and no speculative land banking.

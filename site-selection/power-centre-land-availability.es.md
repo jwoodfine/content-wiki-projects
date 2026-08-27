@@ -11,7 +11,7 @@ short_description: "Tesis de abastecimiento de terreno de Woodfine: el exceso de
 status: stable
 audience: customer-woodfine
 bcsc_class: current-fact
-last_edited: 2026-08-24
+last_edited: 2026-08-27
 editor: pointsav-engineering
 language_protocol: TRANSLATE-ES
 source_refs:
@@ -38,4 +38,4 @@ El terreno obtenido dentro de un Power Centre en operación ofrece dos ventajas 
 
 - [[power-centre-co-location-thesis|Tesis de Co-Ubicación en Power Centres]] — el criterio de co-ubicación que el terreno de estacionamiento reservado dentro de un Power Centre cumple por construcción
 - [[power-centres|Power Centres]] — cómo se definen un Power Centre y sus anclas minoristas
-- [[zoning-acquisition-rules|Reglas de Adquisición por Zonificación]] — la verificación previa a la compra que toda parcela debe superar antes de su adquisición
+- [[zoning-acquisition-rules|Norma de Adquisición por Zonificación]] — la verificación previa a la compra que toda parcela debe superar antes de su adquisición

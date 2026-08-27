@@ -12,7 +12,7 @@ index_scope: site-selection
 status: active
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-26
+last_edited: 2026-08-27
 editor: pointsav-engineering
 paired_with: site-selection/_index.md
 ---
@@ -72,7 +72,7 @@ Selección de Sitios abarca el método detrás de "cerca de los Power Centres" �
 
 ## Antes de Comprar el Terreno
 
-[[zoning-acquisition-rules|Las Reglas de Adquisición de Zonificación]] exigen una posición de titulación verificada en cada parcela — un uso permitido o una vía de rezonificación evidenciada y viable — antes de la compra. [[asset-evaluation-protocol|El Protocolo de Evaluación de Activos]] fija la puntuación por niveles como criterio de entrada y el análisis GIS independiente como el método de verificación que debe superar un sitio candidato.
+[[zoning-acquisition-rules|La Norma de Adquisición de Zonificación]] exige una posición de titulación verificada en cada parcela — un uso permitido o una vía de rezonificación evidenciada y viable — antes de la compra. [[asset-evaluation-protocol|El Protocolo de Evaluación de Activos]] fija la puntuación por niveles como criterio de entrada y el análisis GIS independiente como el método de verificación que debe superar un sitio candidato.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: before-land-is-bought -->
 - [[zoning-acquisition-rules]] — Verificación de titulación previa a la compra: cada parcela se adquiere sobre un uso permitido o una vía de rezonificación evidenciada y viable, con un cronograma de desarrollo activo y sin acumulación especulativa de terrenos.

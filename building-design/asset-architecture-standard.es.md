@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-24
+last_edited: 2026-08-27
 editor: pointsav-engineering
 short_description: "Requisitos estructurales uniformes para los desarrollos Woodfine: construcción de concreto y acero, dimensionamiento previo a la adquisición y configuración estandarizada en toda la cartera."
 
@@ -21,7 +21,7 @@ cites:
   - osc-sn-51-721
 ---
 
-Cada desarrollo de Woodfine debe satisfacer una especificación estructural antes de que proceda la adquisición del terreno — construcción de hormigón y acero, placas de piso pre-dimensionadas, sin excepciones por sitio. El estándar elimina la negociación de diseño posterior a la adquisición y la variación presupuestaria que resulta de ella. Se aplica junto con las [[zoning-acquisition-rules|reglas de adquisición por zonificación]] y el requisito de adyacencia de [[co-location-anchors|anclas]], y su cumplimiento se registra en el tiempo mediante la [[site-ledger-integration|integración del registro del sitio]].
+Cada desarrollo de Woodfine debe satisfacer una especificación estructural antes de que proceda la adquisición del terreno — construcción de hormigón y acero, placas de piso pre-dimensionadas, sin excepciones por sitio. El estándar elimina la negociación de diseño posterior a la adquisición y la variación presupuestaria que resulta de ella. Se aplica junto con las [[zoning-acquisition-rules|norma de adquisición por zonificación]] y el requisito de adyacencia de [[co-location-anchors|anclas]], y su cumplimiento se registra en el tiempo mediante la [[site-ledger-integration|integración del registro del sitio]].
 
 ## Configuración estructural
 

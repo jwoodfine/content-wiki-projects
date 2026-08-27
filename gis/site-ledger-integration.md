@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-26
+last_edited: 2026-08-27
 editor: pointsav-engineering
 short_description: "Operational link binding each physical construction site to an isolated digital archive container, maintaining immutable audit records from groundbreak through commissioning."
 paired_with: gis/site-ledger-integration.es.md
@@ -20,7 +20,7 @@ cites:
   - osc-sn-51-721
 ---
 
-Every active Woodfine development site generates an immutable digital audit trail maintained by the PointSav platform — the legal record of construction milestones, inspection outcomes, and schedule variances that investors and regulators can independently verify. Each site maps to its own isolated archive; events on the physical site generate records that cannot be overwritten after entry. The ledger records compliance with the [[asset-architecture-standard|Asset Architecture Standard]] from the moment of acquisition (gated by the [[zoning-acquisition-rules|zoning acquisition rules]]) through commissioning.
+Every active Woodfine development site generates an immutable digital audit trail maintained by the PointSav platform — the legal record of construction milestones, inspection outcomes, and schedule variances that investors and regulators can independently verify. Each site maps to its own isolated archive; events on the physical site generate records that cannot be overwritten after entry. The ledger records compliance with the [[asset-architecture-standard|Asset Architecture Standard]] from the moment of acquisition (gated by the [[zoning-acquisition-rules|zoning acquisition standard]]) through commissioning.
 
 ## The digital container model
 

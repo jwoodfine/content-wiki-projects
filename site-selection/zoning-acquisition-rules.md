@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Zoning acquisition rules"
+title: "Zoning acquisition standard"
 slug: zoning-acquisition-rules
 category: site-selection
 index_group: before-land-is-bought
@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-26
+last_edited: 2026-08-27
 editor: pointsav-engineering
 short_description: "Pre-purchase entitlement verification: every parcel is acquired against either a permitted use or an evidenced, achievable rezoning path, with an active development timeline and no speculative land banking."
 paired_with: site-selection/zoning-acquisition-rules.es.md
@@ -20,7 +20,7 @@ cites:
   - osc-sn-51-721
 ---
 
-Every parcel is acquired against a verified entitlement position and an active development timeline. Where the intended development is already a permitted use, that position is the existing zoning. Where it is not, acquisition proceeds only if diligence has established a credible, achievable path to rezoning. Speculative land banking is prohibited by the acquisition model, not just by policy. The rule is applied alongside the [[co-location-anchors|anchor]] adjacency requirement and the [[asset-architecture-standard|Asset Architecture Standard]]; the development timeline is recorded by [[site-ledger-integration|site ledger integration]].
+Every parcel is acquired against a verified entitlement position and an active development timeline. Where the intended development is already a permitted use, that position is the existing zoning. Where it is not, acquisition proceeds only if diligence has established a credible, achievable path to rezoning. Speculative land banking is prohibited by the acquisition model, not just by policy. The standard is applied alongside the [[co-location-anchors|anchor]] adjacency requirement and the [[asset-architecture-standard|Asset Architecture Standard]]; the development timeline is recorded by [[site-ledger-integration|site ledger integration]].
 
 ## Pre-acquisition entitlement verification
 

@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-24
+last_edited: 2026-08-27
 editor: pointsav-engineering
 short_description: "Uniform structural requirements for Woodfine developments: concrete and steel construction, pre-acquisition dimensioning, and standardized configuration applied across the portfolio."
 paired_with: building-design/asset-architecture-standard.es.md
@@ -20,7 +20,7 @@ cites:
   - osc-sn-51-721
 ---
 
-Every Woodfine development must satisfy a structural specification before land acquisition proceeds — concrete and steel construction, pre-dimensioned floor plates, no site-specific exceptions. The standard eliminates post-acquisition design negotiation and the budget variance that follows from it. It is applied alongside the [[zoning-acquisition-rules|zoning acquisition rules]] and the [[co-location-anchors|anchor adjacency requirement]], and compliance is recorded over time via [[site-ledger-integration|site ledger integration]].
+Every Woodfine development must satisfy a structural specification before land acquisition proceeds — concrete and steel construction, pre-dimensioned floor plates, no site-specific exceptions. The standard eliminates post-acquisition design negotiation and the budget variance that follows from it. It is applied alongside the [[zoning-acquisition-rules|zoning acquisition standard]] and the [[co-location-anchors|anchor adjacency requirement]], and compliance is recorded over time via [[site-ledger-integration|site ledger integration]].
 
 ## Structural configuration
 

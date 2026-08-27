@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Reglas de Adquisición de Zonificación"
+title: "Norma de Adquisición de Zonificación"
 slug: zoning-acquisition-rules
 category: site-selection
 index_group: before-land-is-bought
@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-26
+last_edited: 2026-08-27
 editor: pointsav-engineering
 short_description: "Verificación de titulación previa a la compra: cada parcela se adquiere sobre un uso permitido o una vía de rezonificación evidenciada y viable, con un cronograma de desarrollo activo y sin acumulación especulativa de terrenos."
 
@@ -21,7 +21,7 @@ cites:
   - osc-sn-51-721
 ---
 
-Cada parcela se adquiere sobre una posición de titulación verificada y un cronograma de desarrollo activo. Cuando el desarrollo previsto ya es un uso permitido, esa posición es la zonificación existente. Cuando no lo es, la adquisición procede solo si la diligencia debida ha establecido una vía creíble y viable hacia la rezonificación. La acumulación especulativa de terrenos está prohibida por el modelo de adquisición, no solo por política. La regla se aplica junto con el requisito de adyacencia de [[co-location-anchors|anclas]] y la [[asset-architecture-standard|Norma de Arquitectura del Activo]]; el cronograma de desarrollo se registra mediante la [[site-ledger-integration|integración del registro del sitio]].
+Cada parcela se adquiere sobre una posición de titulación verificada y un cronograma de desarrollo activo. Cuando el desarrollo previsto ya es un uso permitido, esa posición es la zonificación existente. Cuando no lo es, la adquisición procede solo si la diligencia debida ha establecido una vía creíble y viable hacia la rezonificación. La acumulación especulativa de terrenos está prohibida por el modelo de adquisición, no solo por política. La norma se aplica junto con el requisito de adyacencia de [[co-location-anchors|anclas]] y la [[asset-architecture-standard|Norma de Arquitectura del Activo]]; el cronograma de desarrollo se registra mediante la [[site-ledger-integration|integración del registro del sitio]].
 
 ## Verificación de titulación previa a la adquisición
 
