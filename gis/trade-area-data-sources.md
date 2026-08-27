@@ -19,7 +19,7 @@ cites:
   - osm-odbl
 ---
 
-Population estimates and retail spend estimates are the two input layers that drive trade area statistics for each [[co-location-methodology|co-location]] cluster. Both are derived from publicly available data sources and applied at the H3 resolution-7 hexagonal grid level, per the [[od-catchment-methodology|O-D catchment methodology]]. Together they supply the population and spend axes used by the [[co-location-ranking-system|deterministic ranking system]] and the [[catchment-ranking-methodology-v3|V3 catchment ranking methodology]].
+Population estimates and retail spend estimates are the two input layers that drive trade area statistics for each [[co-location-methodology|co-location]] cluster. Both are derived from publicly available data sources and applied at the H3 resolution-7 hexagonal grid level, per the [[od-catchment-methodology|distance-band methodology]]. Together they supply the population and spend axes used by the [[co-location-ranking-system|deterministic ranking system]] and the [[catchment-ranking-methodology-v3|V3 catchment ranking methodology]].
 
 ## Population Data
 

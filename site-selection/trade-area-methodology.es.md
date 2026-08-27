@@ -26,7 +26,7 @@ El mapa en vivo muestra una banda de distancia alrededor del centroide de cada c
 
 El mapa declara con claridad: *"Las bandas de distancia son radios de línea recta alrededor del centroide del clúster; aproximan, pero no miden, de dónde provienen los clientes."*
 
-Las distancias se calculan geodésicamente en lugar de en pantalla. Una banda etiquetada como 35 km representa 35 km de distancia real sobre el terreno independientemente de la latitud, porque se utilizan distancias haversine y búferes geodésicos métricos en todo el sistema.
+Una banda etiquetada como 35 km representa 35 km de distancia real sobre el terreno a cualquier latitud. Las distancias se miden sobre la superficie curva de la tierra, no sobre la imagen aplanada del mapa, de modo que una cifra declarada significa lo mismo en cada mercado. El propio mapa, como todo mapa web, se estira con la latitud en pantalla — las cifras subyacentes no se mueven. El tratamiento de distancia y proyección que respalda esta garantía está previsto para publicarse en gis.woodfinegroup.com.
 
 ## El modelo previsto: orígenes observados y tiempo de conducción
 
@@ -36,15 +36,11 @@ Dos métodos — isócronas de tiempo de conducción y polígonos de origen-dest
 
 Una isócrona reemplaza el radio de línea recta con el área accesible dentro de un tiempo de conducción declarado (por ejemplo, 10, 20 o 30 minutos) a lo largo de la red vial. Las isócronas respetan barreras que los círculos ignoran — ríos, acceso a autopistas, puertos de montaña, rutas costeras de un solo sentido — por lo que dos clústeres con radios de línea recta idénticos pueden tener áreas de alcance sustancialmente diferentes. Las isócronas de tiempo de conducción son el estándar de la geografía minorista que esperan los revisores de selección de sitios.
 
-La implementación prevista utiliza un motor de enrutamiento auto-alojado sobre los extractos de OSM ya incorporados en el archivo. La dependencia de una API de isócronas de terceros con tarificación por uso no es el camino previsto para un producto construido sobre infraestructura de datos soberana y autocontenida.
+La implementación prevista utiliza enrutamiento auto-alojado sobre datos de mapas abiertos que la plataforma ya posee, en lugar de un servicio de isócronas de terceros con tarificación por uso — coherente con un producto construido sobre infraestructura de datos soberana y autocontenida.
 
 ### Polígonos de origen-destino observados
 
-En lugar de modelar de dónde podrían venir los clientes, un polígono de O-D dibuja de dónde vienen realmente, utilizando datos de movilidad ya almacenados en disco:
-
-- **Estados Unidos — US LEHD LODES.** Flujos de origen-destino de trabajadores agregados a celdas H3, 49 estados, aproximadamente 684,000 celdas H3. Admite un área de atracción de origen laboral para clústeres estadounidenses.
-- **España — MITMA.** Las matrices de movilidad del Ministerio de Transporte de España están incorporadas para 58 clústeres ES, proporcionando una distribución de origen observada en lugar de un anillo modelado.
-- **Superficie de movilidad combinada.** Los datos combinados de origen laboral de US LODES y MITMA ya están construidos y se sirven como capa del mapa. Los datos necesarios para representar polígonos de origen observados para clústeres de EE. UU. y España están presentes; convertir un clic en un clúster en un polígono de origen observado, en lugar de un anillo, está planeado pero aún no disponible.
+En lugar de modelar de dónde podrían venir los clientes, un polígono de O-D dibuja de dónde vienen realmente, utilizando datos de movilidad observados. La cobertura actual abarca dos países: los flujos de origen-destino de trabajadores publicados para Estados Unidos, y las matrices de movilidad publicadas por el Ministerio de Transporte de España — cada uno proporciona una distribución de origen observada en lugar de un anillo modelado. Los datos necesarios para representar polígonos de origen observados para clústeres de EE. UU. y España ya están disponibles; convertir un clic en un clúster en un polígono de origen observado, en lugar de un anillo, está planeado pero aún no disponible. Las fuentes de datos y el detalle de su cobertura están previstos para publicarse en gis.woodfinegroup.com.
 
 La cobertura es desigual (EE. UU. y España hoy; Reino Unido, Francia y Alemania investigados como fuentes viables siguientes), por lo que el despliegue planeado es por país. Los clústeres sin cobertura de O-D mantienen la banda de distancia claramente etiquetada como medida provisional explícita.
 
@@ -62,32 +58,19 @@ Ni el factor de inflación ni el piso tienen una derivación publicada. Son cons
 
 El estado final previsto elimina por completo esta fórmula basada en la extensión geográfica de la canalización en vivo, reemplazándola por un límite cuyo parámetro es una cantidad que un experto en la materia puede evaluar por sus propios méritos — un tiempo de conducción declarado, un percentil declarado de demanda modelada, o un umbral de población declarado.
 
-## Cálculo geodésico y la advertencia de Web Mercator
+## Las distancias se miden sobre el terreno, no en la pantalla
 
-El mapa se representa en Web Mercator (EPSG:3857). Web Mercator preserva la forma localmente pero distorsiona el área y la distancia en pantalla con la latitud. La metodología calcula distancias y áreas geodésicamente:
-
-- Las pruebas de distancia utilizan la distancia haversine (gran círculo) entre coordenadas geográficas.
-- La construcción de polígonos utiliza búferes geodésicos métricos, que construyen la geometría en distancia real sobre el terreno y la proyectan a Web Mercator solo para su visualización.
-- Las cifras de área — área de captación, densidad por kilómetro cuadrado — se calculan sobre el polígono geodésico, no a partir de píxeles de pantalla.
-
-El mapa declara la advertencia: *"Las distancias y áreas se calculan sobre el elipsoide; el mapa se dibuja en Web Mercator, que se estira con la latitud — una banda a 60°N cubre menos terreno que la misma banda dibujada a 25°N."*
+Cada cifra de distancia y área en la plataforma es una medición real sobre el terreno, calculada de forma consistente en toda la huella de 24 países del sistema de co-ubicación y en los marcos norteamericano y europeo. La proyección del mapa se estira con la latitud, como ocurre en todo mapa web — un anillo dibujado con el mismo tamaño en pantalla cubre menos terreno cerca de los polos que cerca del ecuador — de modo que ninguna cifra se deriva jamás de la imagen misma. El mapa declara esto en su propia cara: la forma representada puede estirarse; las cifras subyacentes no. El detalle de proyección y cálculo que respalda esto está previsto para publicarse en gis.woodfinegroup.com.
 
 ## Marco espacial
 
-La población y el gasto se agregan en la cuadrícula hexagonal global H3 a resolución 7 (aproximadamente 5,16 km² por celda, aproximadamente 2,11 km de centro a centro). La cuadrícula es mundial y consistente, lo que permite la comparación entre clústeres de los 13 países con multiplicadores de gasto per cápita publicados (véase [[spend-population-provenance]] para la cobertura completa). Esta revisión no cambia la cuadrícula de agregación; cambia cómo se define el polígono de área de atracción sobre esa cuadrícula — por origen observado o tiempo de conducción donde los datos lo permiten, y por una banda de distancia claramente etiquetada y calculada geodésicamente donde aún no.
+La población y el gasto se agregan en una única cuadrícula hexagonal continua y consistente en todo el mundo. Debido a que cada mercado se mide sobre la misma cuadrícula, las cifras de población y gasto de un clúster son directamente comparables entre los 13 países con multiplicadores de gasto per cápita publicados (véase [[spend-population-provenance]] para la cobertura completa). Esta revisión no cambia la cuadrícula de agregación; cambia cómo se define el polígono de área de atracción sobre esa cuadrícula — por origen observado o tiempo de conducción donde los datos lo permiten, y por una banda de distancia claramente etiquetada donde aún no. La especificación de la cuadrícula está prevista para publicarse en gis.woodfinegroup.com.
 
-Una sola celda H3 puede caer dentro de las áreas de atracción de varios clústeres. Esto es intencional: las áreas de atracción se superponen porque el panorama minorista es competitivo, y un hogar cercano a dos clústeres en competencia contribuye a ambos. Esto se cumple ya sea que el límite sea una banda de distancia, una isócrona o un polígono de O-D, y es la base de la comparación entre clústeres.
+Una sola celda de la cuadrícula puede caer dentro de las áreas de atracción de varios clústeres. Esto es intencional: las áreas de atracción se superponen porque el panorama minorista es competitivo, y un hogar cercano a dos clústeres en competencia contribuye a ambos. Esto se cumple ya sea que el límite sea una banda de distancia, una isócrona o un polígono de O-D, y es la base de la comparación entre clústeres.
 
-## Plan de migración (planeado)
+## Qué cambia a continuación
 
-La migración prevista desde los anillos de línea recta es por fases:
-
-1. **Edición de honestidad.** Reetiquetado de cada anillo de línea recta como "banda de distancia (línea recta)"; exposición en el mapa de que la fórmula del radio se apoya en un factor de ajuste y un piso no documentados, junto con la advertencia de Web Mercator.
-2. **O-D observado donde existen datos.** Conexión de los datos de movilidad LODES y MITMA ya incorporados para que los clústeres de EE. UU. y España muestren un polígono de origen laboral observado.
-3. **Isócronas de tiempo de conducción.** Configuración de un motor de enrutamiento auto-alojado y oferta de una banda de tiempo de conducción fijo como la vista de área alcanzable predeterminada.
-4. **Calibración de decaimiento de distancia.** Ajuste de curvas de decaimiento a los flujos de O-D para establecer límites de percentil de demanda publicados.
-
-Cada fase reduce la brecha entre lo que el polígono afirma y lo que respaldan los datos.
+El paso desde los anillos de línea recta está previsto como una migración por fases, país por país: primero el etiquetado honesto de cada banda provisional; luego los polígonos de origen observado donde los datos de movilidad ya lo permiten, con los clústeres sin cobertura manteniendo la banda etiquetada; después las isócronas de tiempo de conducción como vista predeterminada de área alcanzable, retirando la fórmula provisional basada en la extensión geográfica; y finalmente límites calibrados de decaimiento de distancia que extienden polígonos defendibles a más países a medida que se confirman fuentes viables. Cada paso reduce la brecha entre lo que el polígono afirma y lo que respaldan los datos. La secuencia de ingeniería y su estado actual están previstos para publicarse en gis.woodfinegroup.com.
 
 ## Aplicación
 

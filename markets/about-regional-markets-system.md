@@ -172,7 +172,7 @@ Work planned or intended for the next iterations of the system.
 - [[regional-market-definition|Regional market definition]]
 - [[co-location-methodology|Co-location Methodology]]
 - [[co-location-intelligence-overview|Co-location Intelligence Overview]]
-- [[od-catchment-methodology|O-D Catchment Methodology]]
+- [[od-catchment-methodology|Distance-Band Methodology]]
 - [[atlas-top-400-north-america|Top 400 Regional Markets — North America]]
 - [[atlas-top-400-europe|Top 400 Regional Markets — Europe]]
 - [[development-regions|Development Regions]]

@@ -28,7 +28,7 @@ The map states plainly: *"Distance bands are straight-line radii around the clus
 
 This is a deliberate honesty edit. A clearly-labelled approximation is defensible in front of a reviewer; a circle mislabelled as a measured catchment is not.
 
-Distances are computed geodesically rather than on screen. A band labelled 35 km represents 35 km of actual ground distance regardless of latitude, because haversine distances and metric geodesic buffers are used throughout. The rendered ring is a Web Mercator oval on screen; the underlying number is projection-independent.
+A band labelled 35 km represents 35 km of actual ground distance at any latitude. Distances are measured on the curved surface of the earth, not on the flattened map image, so a stated figure means the same thing in every market. The map itself, like every web map, stretches with latitude on screen — the underlying figures do not move. The distance and projection treatment behind that guarantee is planned for publication at gis.woodfinegroup.com.
 
 ## The intended model: observed origins and drive-time
 
@@ -38,17 +38,13 @@ A trade area is the set of places customers actually travel from. Two methods �
 
 An isochrone replaces the straight-line radius with the area reachable within a stated drive time (for example 10, 20, or 30 minutes) along the road network. Isochrones respect barriers that circles ignore — rivers, motorway access, mountain passes, one-way coastal routes — so two clusters with identical straight-line radii can have substantially different reachable areas. Drive-time isochrones are the retail-geography standard that site-selection reviewers expect.
 
-The intended implementation uses a self-hosted routing engine over the OSM extracts already ingested in the archive. A dependency on a metered third-party isochrone API is not the intended path for a product built on sovereign, self-contained data infrastructure.
+The planned implementation uses self-hosted routing over open map data the platform already holds, rather than a metered third-party isochrone service — consistent with a product built on sovereign, self-contained data infrastructure.
 
 ### Observed origin-destination polygons
 
-Rather than modelling where customers could come from, an O-D polygon draws where they do come from, using mobility data already on disk:
+Rather than modelling where customers could come from, an O-D polygon draws where they do come from, using observed mobility data. Coverage currently spans two countries: worker origin-destination flows published for the United States, and the mobility matrices published by the Spanish Ministry of Transport — each providing an observed origin distribution rather than a modelled ring. The data needed to render observed-origin polygons for US and Spain clusters is in place; turning a cluster click into an observed-origin polygon, rather than a ring, is planned but not yet available. The source datasets and their coverage detail are planned for publication at gis.woodfinegroup.com.
 
-- **United States — US LEHD LODES.** Worker origin-destination flows aggregated to H3 cells, 49 states, approximately 684,000 H3 cells. Supports a workplace-origin trade area for US clusters.
-- **Spain — MITMA.** The Spanish Ministry of Transport mobility matrices are ingested for 58 ES clusters, providing an observed origin distribution rather than a modelled ring.
-- **Combined mobility surface.** The combined US LODES and MITMA work-origin data is built and served as a map layer today. The data needed to render observed origin polygons for US and Spain clusters is present; turning a cluster click into an observed-origin polygon, rather than a ring, is planned but not yet available.
-
-The intended O-D trade area for a cluster is the set of origin cells contributing the top share — for example 70–80% — of observed trips or workers to that cluster's destination cells. Coverage is uneven (US and Spain today; UK, France, and Germany researched as viable next sources), so the planned rollout is country-by-country. Clusters without O-D coverage keep the clearly-labelled distance band as an explicit interim.
+The intended O-D trade area for a cluster is the set of origin areas contributing the top share — for example 70–80% — of observed trips or workers to that cluster. Coverage is uneven (US and Spain today; the UK, France, and Germany researched as viable next sources), so the planned rollout is country-by-country. Clusters without O-D coverage keep the clearly-labelled distance band as an explicit interim.
 
 ### Why both methods are complementary
 
@@ -64,34 +60,19 @@ Neither the inflation factor nor the floor has a published derivation. They are 
 
 The intended end state removes this span-based formula from the live pipeline entirely, replacing it with a boundary whose parameter is a quantity a domain expert can evaluate on its merits — a stated drive-time, a stated percentile of modelled demand, or a stated population threshold.
 
-## Geodesic computation and the Web Mercator caveat
+## Distances are measured on the ground, not on the screen
 
-The map renders in Web Mercator (EPSG:3857). Web Mercator preserves shape locally but distorts area and on-screen distance with latitude: scale inflates as 1 / cos(latitude). A circle of constant pixel radius is not a circle of constant ground distance.
-
-The methodology therefore computes distances and areas geodesically:
-
-- Distance tests use the haversine (great-circle) distance between geographic coordinates. The method is consistent across the platform's full co-location footprint (24 countries as of the most recent full processing run, 2026-08-06) and both the North American and European frames.
-- Polygon construction uses metric geodesic buffers, built in true ground distance and projected to Web Mercator only for display, so the rendered polygon is the correct ground shape even though it appears as a latitude-stretched oval on screen.
-- Area figures — catchment area, density per square kilometre — are computed on the geodesic polygon, not from screen pixels.
-
-The map states the caveat: *"Distances and areas are computed on the ellipsoid; the map is drawn in Web Mercator, which stretches with latitude — a band at 60°N covers less ground than the same band drawn at 25°N."*
+Every distance and area figure on the platform is a true ground measurement, computed consistently across the platform's full 24-country co-location footprint and both the North American and European frames. The map projection stretches with latitude, as every web map does — a ring drawn at the same on-screen size covers less ground near the poles than near the equator — so no figure is ever derived from the picture itself. The map discloses this on its face: the rendered shape may stretch; the underlying numbers do not. The projection and computation detail behind this is planned for publication at gis.woodfinegroup.com.
 
 ## Spatial framework
 
-Population and spend are aggregated on the H3 global hexagonal grid at resolution 7 (approximately 5.16 km² per cell, approximately 2.11 km centre-to-centre). The grid is worldwide and consistent, which supports cross-cluster comparison across the 13 countries with published per-capita spend multipliers (see [[spend-population-provenance]] for full coverage detail). This revision does not change the aggregation grid; it changes how the trade-area polygon over that grid is defined — by observed origin or drive-time where data allows, and by a clearly-labelled, geodesically-computed distance band where it does not yet.
+Population and spend are aggregated on a single hexagonal grid that is continuous and consistent worldwide. Because every market is measured on the same grid, a cluster's population and spend figures compare directly across the 13 countries with published per-capita spend multipliers (see [[spend-population-provenance]] for full coverage detail). This revision does not change the aggregation grid; it changes how the trade-area polygon over that grid is defined — by observed origin or drive-time where data allows, and by a clearly-labelled distance band where it does not yet. The grid specification is planned for publication at gis.woodfinegroup.com.
 
-A single H3 cell may fall inside the trade areas of several clusters. This is intentional: trade areas overlap because the retail landscape is competitive, and a household near two competing clusters contributes to both. This holds whether the boundary is a distance band, an isochrone, or an O-D polygon, and it underpins the cross-cluster comparison.
+A single grid cell may fall inside the trade areas of several clusters. This is intentional: trade areas overlap because the retail landscape is competitive, and a household near two competing clusters contributes to both. This holds whether the boundary is a distance band, an isochrone, or an O-D polygon, and it underpins the cross-cluster comparison.
 
-## Migration plan (planned)
+## What changes next
 
-The intended migration from crow-flies rings is phased:
-
-1. **Honesty edit.** Relabel every straight-line ring "distance band (straight-line)"; surface the radius formula's reliance on an undocumented tuning factor and floor, and the Web Mercator caveat, on the map.
-2. **Observed O-D where data exists.** Wire the ingested LODES and MITMA mobility data into the cluster-click so US and Spain clusters show an observed work-origin polygon; clusters without coverage retain the labelled distance band.
-3. **Drive-time isochrones.** Stand up a self-hosted routing engine and offer a fixed-drive-time band as the default reachable-area view, retiring the span-based interim formula from the live pipeline.
-4. **Distance-decay calibration.** Fit decay curves to the O-D flows to set published percentile-of-demand boundaries, extending defensible polygons to countries with viable O-D sources.
-
-Each phase narrows the gap between what the polygon claims and what the data supports.
+The move away from straight-line rings is planned as a phased, country-by-country migration: honest labelling of every interim band first; observed-origin polygons next, wherever mobility data already supports them, with uncovered clusters retaining the labelled band; drive-time isochrones then becoming the default reachable-area view, retiring the span-based interim formula; and calibrated distance-decay boundaries extending defensible polygons to further countries as viable sources are confirmed. Each step narrows the gap between what the polygon claims and what the data supports. The engineering sequence and its current status are planned for publication at gis.woodfinegroup.com.
 
 ## Application
 

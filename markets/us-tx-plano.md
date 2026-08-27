@@ -74,7 +74,7 @@ Plano combines three Regional-tier clusters with two District-tier and one Local
 - [[atlas-top-400-north-america|Top 400 Regional Markets — North America]]
 - [[co-location-methodology|Co-location Methodology]]
 - [[co-location-ranking-system|Co-location Ranking System]]
-- [[od-catchment-methodology|O-D Catchment Methodology]]
+- [[od-catchment-methodology|Distance-Band Methodology]]
 
 ## References
 

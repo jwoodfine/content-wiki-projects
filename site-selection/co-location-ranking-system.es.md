@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-25
+last_edited: 2026-08-26
 editor: editorial
 es_status: complete
 short_description: "La mecánica determinista detrás de la clasificación de clústeres en la plataforma de co-ubicación — ejes de percentil relativos al país, la prueba de superposición entre clústeres vecinos y el orden de desempate aplicado dentro de un nivel."
@@ -20,25 +20,21 @@ paired_with: site-selection/co-location-ranking-system.md
 
 La [[co-location-methodology|metodología de co-ubicación]] de Woodfine asigna el nivel de cada clúster mediante compuertas predicativas binarias, no mediante una puntuación compuesta — ningún clúster obtiene un nivel acumulando puntos hacia un umbral. Este artículo cubre la mecánica detrás de esas compuertas: cómo se mide la posición de captación de un clúster frente a sus pares nacionales, cómo se comparan los clústeres competidores por superposición, y cómo se ordenan los clústeres una vez clasificados. Las definiciones de las compuertas — qué combinación de pruebas requiere cada nivel — se detallan en la [[catchment-ranking-methodology-v3|metodología V3 de clasificación de captación]]; las etiquetas de nivel se describen en la [[co-location-tier-nomenclature|nomenclatura de niveles]].
 
-## Ejes de percentil relativos al país
+## Clasificación relativa al país
 
-El nivel de un clúster depende de su posición frente a todos los demás clústeres de su propio país, no frente a un umbral global fijo. Cada clúster se clasifica frente a sus pares nacionales en ocho medidas: población de captación primaria y secundaria, y gasto primario y secundario en las categorías de alimentación, ferretería y venta al por mayor. El percentil de un clúster en cada eje es su rango dividido por el total de clústeres del país — un clúster en el 10% superior por población primaria lleva un percentil de 0,10 en ese eje.
+El nivel de un clúster depende de su posición frente a todos los demás clústeres de su propio país, no frente a un umbral global fijo. Cada clúster se clasifica frente a sus pares nacionales en ocho medidas: población de captación primaria y secundaria, y gasto primario y secundario en las categorías de alimentación, ferretería y venta al por mayor. Clasificar dentro de cada país, en lugar de contra un único umbral global, preserva la estructura de un mercado más pequeño: un clúster de importancia nacional en un país pequeño se evalúa frente a su propio campo nacional, sin quedar eclipsado por la escala de uno más grande. El cálculo del percentil en sí está previsto para publicarse en gis.woodfinegroup.com.
 
-Dos zonas de captación alimentan los ejes de población y gasto: una zona primaria dentro de 35 km del clúster y una zona secundaria entre 35 km y 150 km, según la [[od-catchment-methodology|metodología de captación O-D]]. Las estimaciones de gasto se basan en encuestas nacionales de gasto de los hogares aplicadas a la misma cuadrícula de población. Clasificar dentro de cada país, en lugar de contra un único umbral global, preserva la estructura de un mercado más pequeño frente a uno más grande.
+Dos zonas de demanda alimentan los ejes de población y gasto: una zona primaria dentro de 35 km del clúster y una zona secundaria entre 35 km y 150 km, según la [[od-catchment-methodology|metodología de bandas de distancia]]. Las estimaciones de gasto se basan en encuestas nacionales de gasto de los hogares aplicadas a la misma cuadrícula de población.
 
 Estos umbrales son intencionalmente amplios. El sistema está diseñado para separar los clústeres de importancia nacional de los nodos locales, no para clasificar con precisión los clústeres entre sí dentro de un mismo nivel.
 
 ## La prueba de superposición
 
-Un clúster solo se acredita para su nivel cuando no está dominado por un vecino más fuerte cercano. La superposición entre dos clústeres se mide como la intersección sobre unión (IoU) de dos discos de radio igual, cada uno de 3,0 km, centrados en las anclas de los clústeres — el área compartida entre los discos, en relación con su área combinada. A medida que dos centroides de clúster se alejan, el IoU tiende a cero y los clústeres se consideran espacialmente independientes. Un clúster cuyo disco se superpone sustancialmente con el de un clúster más fuerte se mantiene por debajo del nivel que su composición y captación alcanzarían por sí solas. Regional lleva el límite de superposición más estricto de todos los niveles, según las [[catchment-ranking-methodology-v3|definiciones de compuertas]].
+Un clúster solo se acredita para su nivel cuando no está dominado por un vecino más fuerte cercano. La superposición entre clústeres vecinos se mide mediante una prueba geométrica publicada sobre un radio fijo alrededor de cada clúster: cuanto más cerca están dos clústeres, mayor es la superposición medida, y los clústeres suficientemente separados se consideran espacialmente independientes. Un clúster que se superpone sustancialmente con uno más fuerte se mantiene por debajo del nivel que su composición y captación alcanzarían por sí solas. Regional lleva el límite de superposición más estricto de todos los niveles, según las [[catchment-ranking-methodology-v3|definiciones de compuertas]]. La medida de superposición y su radio están previstos para publicarse en gis.woodfinegroup.com.
 
 ## Orden dentro de un nivel
 
-Los clústeres que comparten nivel y país se ordenan por tres criterios, aplicados en secuencia: recuento de tiendas dentro de 3,0 km, luego población de captación primaria, ambos de mayor a menor. El identificador del clúster resuelve cualquier empate restante, garantizando un orden determinista.
-
-## Procedencia
-
-- **Verificación:** La mecánica de clasificación se confirmó contra la metodología de puntuación V3 de la plataforma SIG.
+Los clústeres que comparten nivel y país se ordenan por una secuencia fija de criterios, que termina en un desempate que no puede producir un empate. El orden es, por tanto, plenamente determinista: los mismos datos devuelven siempre el mismo orden, de modo que una clasificación citada en una revisión puede reproducirse en la siguiente. Los criterios de orden y la secuencia de desempate están previstos para publicarse en gis.woodfinegroup.com.
 
 ## Fuentes de datos
 

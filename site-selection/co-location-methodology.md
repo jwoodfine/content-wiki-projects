@@ -28,7 +28,7 @@ The Woodfine co-location methodology measures it. It classifies development site
 
 A node qualifies when a hypermarket, a warehouse club, and a home-improvement superstore have each independently committed capital within a defined catchment radius of one another. Each operator runs its own site-selection process; convergence is independent corroboration, not a single forecast. The qualification logic, [[co-location-cluster-formation|cluster formation]], and the [[co-location-anchors|anchor]] adjacency requirement are the three structural inputs to the index.
 
-For a capital allocator the index is a defensive filter: it prioritises the sites where several parties have independently validated the trade area. This article covers the anchor taxonomy and the tier system's predicate gates; sibling articles describe the [[od-catchment-methodology|O-D catchment methodology]], the [[trade-area-data-sources|trade-area data sources]], and the [[catchment-ranking-methodology-v3|catchment ranking methodology]].
+For a capital allocator the index is a defensive filter: it prioritises the sites where several parties have independently validated the trade area. This article covers the anchor taxonomy and the tier system's predicate gates; sibling articles describe the [[od-catchment-methodology|distance-band methodology]], the [[trade-area-data-sources|trade-area data sources]], and the [[catchment-ranking-methodology-v3|catchment ranking methodology]].
 
 ## Anchor taxonomy
 

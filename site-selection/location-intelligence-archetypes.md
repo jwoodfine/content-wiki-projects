@@ -241,4 +241,4 @@ Map and location data © [OpenStreetMap contributors](https://www.openstreetmap.
 - [[about-regional-markets-system|Regional Markets Intelligence System]] — the 400-market set built on PRO cluster data
 - [[atlas-top-400-north-america|Top 400 Regional Markets — North America]] — qualifying set of suburban-regional PRO markets in NA
 - [[atlas-top-400-europe|Top 400 Regional Markets — Europe]] — qualifying set of suburban-regional PRO markets in EU
-- [[od-catchment-methodology|O-D Catchment Methodology]] — how catchment zones are measured around each cluster centroid
+- [[od-catchment-methodology|Distance-Band Methodology]] — how demand zones are measured around each cluster centroid

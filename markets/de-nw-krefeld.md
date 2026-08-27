@@ -78,7 +78,7 @@ Krefeld is a suburban-regional market 19.4 km from Düsseldorf, built on two Reg
 - [[atlas-top-400-europe|Top 400 Regional Markets — Europe]]
 - [[co-location-methodology|Co-location Methodology]]
 - [[co-location-ranking-system|Co-location Ranking System]]
-- [[od-catchment-methodology|O-D Catchment Methodology]]
+- [[od-catchment-methodology|Distance-Band Methodology]]
 
 ## References
 

@@ -22,7 +22,7 @@ cites:
   - osc-sn-51-721
 ---
 
-El sistema de niveles de [[co-location-methodology|co-localización]] asigna cada clúster a uno de cuatro niveles — Regional, Distrital, Local o Marginal (etiquetados según la [[co-location-tier-nomenclature|nomenclatura de niveles]]) — mediante compuertas de predicado binarias en lugar de una puntuación compuesta. Un clúster debe superar todas las compuertas del conjunto correspondiente a un nivel para calificar para ese nivel; los resultados parciales no se acumulan. Esta metodología describe la implementación actual, introducida en mayo de 2026. Complementa el [[co-location-ranking-system|sistema de clasificación determinista]] y toma sus insumos de área comercial de la [[od-catchment-methodology|metodología de captación O-D]] y de las [[trade-area-data-sources|fuentes de datos de áreas comerciales]].
+El sistema de niveles de [[co-location-methodology|co-localización]] asigna cada clúster a uno de cuatro niveles — Regional, Distrital, Local o Marginal (etiquetados según la [[co-location-tier-nomenclature|nomenclatura de niveles]]) — mediante compuertas de predicado binarias en lugar de una puntuación compuesta. Un clúster debe superar todas las compuertas del conjunto correspondiente a un nivel para calificar para ese nivel; los resultados parciales no se acumulan. Esta metodología describe la implementación actual, introducida en mayo de 2026. Complementa el [[co-location-ranking-system|sistema de clasificación determinista]] y toma sus insumos de área comercial de la [[od-catchment-methodology|metodología de bandas de distancia]] y de las [[trade-area-data-sources|fuentes de datos de áreas comerciales]].
 
 ## Por qué las compuertas de predicado reemplazan las puntuaciones compuestas
 
@@ -32,7 +32,7 @@ Las compuertas binarias hacen que los criterios de calificación sean explícito
 
 ## Rangos de captación de población
 
-La captación de población se calcula mediante una cuadrícula geográfica de resolución fija sobre distancia en línea recta, según la [[od-catchment-methodology|metodología de captación O-D]]. Se definen dos zonas para cada clúster:
+La captación de población se calcula mediante una cuadrícula geográfica de resolución fija sobre distancia en línea recta, según la [[od-catchment-methodology|metodología de bandas de distancia]]. Se definen dos zonas para cada clúster:
 
 - **Zona primaria**: todas las celdas de la cuadrícula dentro de 35 km del ancla del clúster
 - **Zona secundaria**: todas las celdas de la cuadrícula entre 35 km y 150 km del ancla del clúster

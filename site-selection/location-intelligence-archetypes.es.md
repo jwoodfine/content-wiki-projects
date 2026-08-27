@@ -258,7 +258,7 @@ conforme a la definición de Área de Acceso anterior.
 - [[about-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]] — el conjunto de 400 mercados construido sobre datos de clústeres PRO
 - [[atlas-top-400-north-america|Top 400 Mercados Regionales — Norteamérica]] — conjunto calificado de mercados PRO suburbano-regionales en NA
 - [[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]] — conjunto calificado de mercados PRO suburbano-regionales en EU
-- [[od-catchment-methodology|Metodología de Área de Influencia O-D]] — cómo se miden las zonas de influencia alrededor de cada centroide de clúster
+- [[od-catchment-methodology|Metodología de Bandas de Distancia]] — cómo se miden las zonas de demanda alrededor de cada centroide de clúster
 
 ## Fuentes de datos
 

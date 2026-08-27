@@ -13,12 +13,12 @@ bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 last_edited: 2026-08-26
 editor: pointsav-engineering
-short_description: "Tier scoring for co-location clusters — what the T1–T3 composition tiers measure, the DBSCAN parameters that form clusters, and what the tiers do not claim."
+short_description: "Tier scoring for co-location clusters — what the T1–T3 composition tiers measure, what they explicitly do not claim, and why a headline cluster count is a model output rather than a measurement."
 paired_with: site-selection/co-location-tiering-scoring.es.md
 cites: []
 ---
 
-This article describes a compositional tiering methodology — grounded in DBSCAN-based clustering research — that assigns each co-location cluster one of three tiers, T1, T2, or T3, on the basis of retailer-category composition. Rendered as coloured dots, the tiers are graduated from T1 (deepest co-location) to T3 (shallowest qualifying co-location). Understanding precisely what these tiers measure — and what they do not — is necessary for reading a compositional cluster result correctly.
+This article describes a compositional tiering methodology that assigns each co-location cluster one of three tiers, T1, T2, or T3, on the basis of retailer-category composition. Rendered as coloured dots, the tiers are graduated from T1 (deepest co-location) to T3 (shallowest qualifying co-location). Understanding precisely what these tiers measure — and what they do not — is necessary for reading a compositional cluster result correctly.
 
 The tier labels currently rendered on the Woodfine location intelligence map are the four-tier system — Regional, District, Local, Fringe — described in [[co-location-tier-nomenclature]]. The compositional T1/T2/T3 model documented in this article is a distinct, related classification approach; the two should not be read as interchangeable.
 
@@ -36,23 +36,15 @@ The tiers measure composition. They do not measure trade-area strength, sales po
 - **T2** — intermediate co-location depth
 - **T3** — shallowest qualifying co-location
 
-## How clusters are formed: DBSCAN parameters
+## How clusters are formed
 
-The clusters that receive tiers are produced by spatial clustering of anchor retailer locations using **DBSCAN** (density-based spatial clustering), followed by a de-duplication pass. DBSCAN is governed by three parameters, published alongside each result and stated here:
-
-- **eps** — the neighbourhood radius that defines whether two anchor points are density-reachable; sets the spatial scale at which separate stores read as one cluster.
-- **minPts** — the minimum number of points required to seed a cluster; sets the floor on what counts as a co-location rather than an isolated store.
-- **IoU threshold** — the intersection-over-union cut-off used to de-duplicate overlapping candidate clusters, so the same physical agglomeration is not counted twice.
-
-A hard cap on cluster span (maximum pairwise diameter) applies uniformly; a wider setting is not used because it merges distinct agglomerations. Clusters whose span falls well under that cap carry an internal quality flag noting the tighter spatial compactness.
-
-The values for eps, minPts, and the IoU threshold are published alongside each cluster result.
+Clusters are produced by density-based spatial clustering of anchor retailer locations, followed by a de-duplication pass so the same physical agglomeration is never counted twice. Three published settings govern the result: the spatial scale at which separate stores read as one cluster, the minimum store presence that qualifies as a co-location rather than an isolated store, and the overlap cut-off used in de-duplication. A hard cap on cluster span applies uniformly, because a wider setting merges agglomerations that operate as distinct retail destinations. Every setting is published alongside each cluster result. The full clustering specification and current parameter values are planned for publication at gis.woodfinegroup.com.
 
 ### Sensitivity: the cluster count is a model output, not a measurement
 
-DBSCAN is a **descriptive** procedure. It partitions the observed retailer points under a chosen density model; it does not estimate a true, parameter-independent number of clusters that exists in the world. The number of clusters the algorithm returns is a function of eps, minPts, and the IoU threshold, and it moves materially when those are varied within reasonable bounds.
+Clustering is a descriptive procedure. It partitions the retailer locations observed under a chosen density model; it does not recover a true, setting-independent number of clusters that exists in the world. The number returned moves materially when the settings move within a defensible range.
 
-Parameter sweeps conducted during development demonstrate this directly: across the reasonable range tested, the North American cluster count varies by more than a factor of two depending on settings, without any change to the underlying retailer data. A headline cluster count is therefore a model output under one chosen parameterisation, not a precise count of an objective phenomenon. Any public presentation of cluster counts must be accompanied by the parameters under which the count was produced.
+Parameter sweeps conducted during development demonstrate this directly: across the reasonable range tested, the North American cluster count varies by more than a factor of two, with no change whatsoever to the underlying retailer data. A headline cluster count is therefore a figure produced under one chosen parameterisation. Any presentation of a cluster count states the parameters that produced it — an unqualified count invites a reader to treat a modelling choice as an observed fact.
 
 ## The planned strength score
 
@@ -66,9 +58,9 @@ The intended strength score is explainable, not opaque. It is a transparent comb
 
 Three demand-side quantities the data layers already support:
 
-1. **Population reached** — catchment population and households, from the WorldPop 2026 dasymetric raster aggregated to H3 resolution 7. This is the size of the addressable market.
-2. **Spend captured** — estimated annual retail spend in the catchment, derived from population and per-capita spend proxies (BLS, StatCan, Eurostat). This carries the estimation caveats documented in the [[spend-population-provenance]] article and must be displayed with that framing.
-3. **Accessibility** — how reachable the catchment is, expressed through observed origin-destination demand where available (LODES for the US, MITMA for Spain) and a distance-band fallback elsewhere. This inherits the `demand_basis` flag (observed versus interim) so that observed-mobility and ambient-fallback clusters are not ranked in the same pool without disclosure.
+1. **Population reached** — catchment population and households, from the WorldPop 2026 population estimates. This is the size of the addressable market.
+2. **Spend captured** — estimated annual retail spend in the catchment, derived from population and per-capita spend proxies published by national statistical agencies. This carries the estimation caveats documented in the [[spend-population-provenance]] article and must be displayed with that framing.
+3. **Accessibility** — how reachable the catchment is, expressed through observed origin-destination demand where a country's mobility data supports it, and a distance-band approximation elsewhere. Which of the two a cluster rests on is disclosed on the cluster itself, so an observed-mobility site and an approximated site are never ranked in one pool without the reader knowing.
 
 ### Weights: an open question
 
@@ -79,21 +71,10 @@ How these three drivers combine into a single number is an open question that th
 For each clicked cluster the planned detail panel presents, at minimum:
 
 - Composition tier and its plain-language definition.
-- Catchment population and households, with vintage and the dasymetric basis noted.
+- Catchment population and households, with vintage noted.
 - Estimated annual spend, explicitly framed as a modelled estimate.
 - The list of co-located chains driving the composition.
-- The strength score (when built) with its top drivers and each driver's contribution, and the `demand_basis` flag.
-
-## What changes from the earlier presentation
-
-| Dimension | Earlier | Current |
-|---|---|---|
-| Tier label | "QUALITY TIERS" | "Co-location depth (anchor count)" — composition only |
-| What a tier measures | Ambiguous | Explicitly composition (anchor-category count and mix), ordinal |
-| Decision support | Tier badge and rings only | Planned scorecard: population, spend, co-located chains, explainable strength score with named drivers |
-| Strength score | Conflated into the tier | Planned as separate, demand-side, decomposable dimension |
-| DBSCAN parameters | Not published | eps, minPts, IoU, and span cap published alongside each result and here |
-| Cluster count | Stated as a precise figure | Model output under one parameterisation; sensitivity to parameter choice disclosed |
+- The strength score (when built) with its top drivers, each driver's contribution, and whether its accessibility figure is observed or approximated.
 
 ## See also
 

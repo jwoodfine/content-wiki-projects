@@ -13,12 +13,12 @@ bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
 last_edited: 2026-08-26
 editor: pointsav-engineering
-short_description: "Puntuación por niveles de clústeres de co-localización — qué miden los niveles T1–T3 de composición, los parámetros DBSCAN que forman clústeres y qué no afirman."
+short_description: "Puntuación por niveles de clústeres de co-localización — qué miden los niveles T1–T3 de composición, qué no afirman explícitamente, y por qué un conteo total de clústeres es una salida del modelo y no una medición."
 paired_with: site-selection/co-location-tiering-scoring.md
 cites: []
 ---
 
-Este artículo describe una metodología de niveles composicionales — fundamentada en la investigación de agrupación basada en DBSCAN — que asigna a cada clúster de co-ubicación uno de tres niveles — T1, T2 o T3 — sobre la base de la composición de categorías de minoristas. Representados como puntos de colores, los niveles se gradúan de T1 (co-ubicación más profunda) a T3 (co-ubicación calificada más superficial). Comprender con precisión qué miden estos niveles — y qué no — es necesario para leer correctamente un resultado de clúster composicional.
+Este artículo describe una metodología de niveles composicionales que asigna a cada clúster de co-ubicación uno de tres niveles — T1, T2 o T3 — sobre la base de la composición de categorías de minoristas. Representados como puntos de colores, los niveles se gradúan de T1 (co-ubicación más profunda) a T3 (co-ubicación calificada más superficial). Comprender con precisión qué miden estos niveles — y qué no — es necesario para leer correctamente un resultado de clúster composicional.
 
 Las etiquetas de nivel que se muestran actualmente en el mapa de inteligencia de ubicación de Woodfine son el sistema de cuatro niveles — Regional, Distrital, Local, Marginal — descrito en [[co-location-tier-nomenclature]]. El modelo composicional T1/T2/T3 documentado en este artículo es un enfoque de clasificación distinto y relacionado; los dos no deben leerse como intercambiables.
 
@@ -34,19 +34,15 @@ El etiquetado en el mapa dice "profundidad de co-ubicación (conteo de anclas)" 
 - **T2** — profundidad de co-ubicación intermedia
 - **T3** — co-ubicación calificada más superficial
 
-## Cómo se forman los clústeres: parámetros DBSCAN
+## Cómo se forman los clústeres
 
-Los clústeres se producen mediante agrupación espacial de ubicaciones de minoristas ancla usando **DBSCAN** (agrupación espacial basada en densidad), seguido de un pase de deduplicación. DBSCAN se rige por tres parámetros, publicados junto con cada resultado:
+Los clústeres se producen mediante agrupación espacial basada en densidad de ubicaciones de minoristas ancla, seguida de un pase de deduplicación para que la misma aglomeración física nunca se cuente dos veces. Tres ajustes publicados rigen el resultado: la escala espacial a la que tiendas separadas se leen como un solo clúster, la presencia mínima de tiendas que califica como co-ubicación en lugar de una tienda aislada, y el umbral de superposición utilizado en la deduplicación. Un límite duro en el alcance del clúster se aplica uniformemente, porque un ajuste más amplio fusiona aglomeraciones que operan como destinos minoristas distintos. Cada ajuste se publica junto con cada resultado de clúster. La especificación completa de agrupación y los valores de parámetro vigentes están previstos para publicarse en gis.woodfinegroup.com.
 
-- **eps** — el radio de vecindad que define si dos puntos ancla son accesibles por densidad.
-- **minPts** — el número mínimo de puntos necesarios para iniciar un clúster.
-- **Umbral de IoU** — el corte de intersección sobre unión utilizado para deduplicar clústeres candidatos superpuestos.
+### Sensibilidad: el conteo de clústeres es una salida del modelo, no una medición
 
-Un límite duro en el alcance del clúster (diámetro máximo por pares) se aplica uniformemente; un ajuste más amplio no se utiliza porque fusiona aglomeraciones distintas. Los clústeres cuyo alcance queda muy por debajo de ese límite llevan una bandera de calidad interna que indica una mayor compacidad espacial.
+La agrupación es un procedimiento descriptivo. Divide las ubicaciones minoristas observadas bajo un modelo de densidad elegido; no recupera un número verdadero e independiente del ajuste que exista en el mundo. El número devuelto se mueve materialmente cuando los ajustes se mueven dentro de un rango defendible.
 
-### Sensibilidad: el conteo de clústeres es una salida del modelo
-
-DBSCAN es un procedimiento **descriptivo**. El número de clústeres que devuelve el algoritmo es una función de eps, minPts y el umbral de IoU, y se mueve materialmente cuando estos varían dentro de rangos razonables. Los barridos de parámetros realizados durante el desarrollo demuestran esto directamente: en el rango razonable probado, el conteo de clústeres norteamericanos varía en más del doble dependiendo de la configuración, sin ningún cambio en los datos minoristas subyacentes. Un conteo titular de clústeres es, por tanto, una salida del modelo bajo una parametrización elegida, no un conteo preciso de un fenómeno objetivo.
+Los barridos de parámetros realizados durante el desarrollo demuestran esto directamente: en el rango razonable probado, el conteo de clústeres norteamericanos varía en más del doble, sin ningún cambio en los datos minoristas subyacentes. Un conteo titular de clústeres es, por tanto, una cifra producida bajo una parametrización elegida. Toda presentación de un conteo de clústeres indica los parámetros que lo produjeron — un conteo sin cualificar invita al lector a tratar una elección de modelado como un hecho observado.
 
 ## El puntaje de fortaleza planeado
 
@@ -60,9 +56,9 @@ El puntaje de fortaleza previsto es explicable, no opaco. Es una combinación tr
 
 Tres cantidades del lado de la demanda que las capas de datos ya admiten:
 
-1. **Población alcanzada** — población de la cuenca e hogares, del ráster dasymétreo WorldPop 2026 agregado a la resolución 7 de H3.
-2. **Gasto capturado** — gasto minorista anual estimado en la cuenca, derivado de la población y proxies de gasto per cápita (BLS, StatCan, Eurostat). Lleva las advertencias de estimación documentadas en [[spend-population-provenance]].
-3. **Accesibilidad** — qué tan accesible es la cuenca, expresada a través de la demanda de origen-destino observada donde está disponible y una reserva de banda de distancia en otro lugar.
+1. **Población alcanzada** — población de la cuenca e hogares, de las estimaciones de población WorldPop 2026. Este es el tamaño del mercado direccionable.
+2. **Gasto capturado** — gasto minorista anual estimado en la cuenca, derivado de la población y proxies de gasto per cápita publicados por agencias estadísticas nacionales. Lleva las advertencias de estimación documentadas en [[spend-population-provenance]].
+3. **Accesibilidad** — qué tan accesible es la cuenca, expresada mediante demanda de origen-destino observada donde los datos de movilidad de un país lo permiten, y una aproximación por banda de distancia en los demás casos. Cuál de las dos sustenta cada clúster se divulga en el propio clúster, de modo que un sitio con movilidad observada y uno aproximado nunca se clasifican en el mismo grupo sin que el lector lo sepa.
 
 ### Ponderaciones: una cuestión abierta
 
@@ -73,21 +69,10 @@ Cómo se combinan estos tres factores en un solo número es una cuestión abiert
 Para cada clúster seleccionado, el panel de detalle planeado presenta, como mínimo:
 
 - El nivel de composición y su definición en lenguaje sencillo.
-- La población e informe de hogares de la cuenca, con la vigencia y la base dasymétrica indicadas.
+- La población e informe de hogares de la cuenca, con la vigencia indicada.
 - El gasto anual estimado, explícitamente enmarcado como una estimación modelada.
 - La lista de cadenas co-ubicadas que impulsan la composición.
-- El puntaje de fortaleza (cuando esté construido) con sus principales factores y la contribución de cada uno, y la bandera `demand_basis`.
-
-## Qué cambia respecto a la presentación anterior
-
-| Dimensión | Anterior | Actual |
-|---|---|---|
-| Etiqueta de nivel | "NIVELES DE CALIDAD" | "Profundidad de co-ubicación (conteo de anclas)" — solo composición |
-| Qué mide un nivel | Ambiguo | Explícitamente composición (conteo y combinación de categorías de ancla), ordinal |
-| Apoyo a la decisión | Solo insignia de nivel y anillos | Cuadro de mando planeado: población, gasto, cadenas co-ubicadas, puntaje de fortaleza explicable con factores nombrados |
-| Puntaje de fortaleza | Conflado con el nivel | Planeado como dimensión separada, del lado de la demanda, descomponible |
-| Parámetros DBSCAN | No publicados | eps, minPts, IoU y el límite de alcance publicados junto con cada resultado y aquí |
-| Conteo de clústeres | Declarado como cifra precisa | Salida del modelo bajo una parametrización; sensibilidad a la elección de parámetros divulgada |
+- El puntaje de fortaleza (cuando esté construido) con sus principales factores, la contribución de cada uno, y si su cifra de accesibilidad es observada o aproximada.
 
 ## Véase también
 

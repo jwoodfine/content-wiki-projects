@@ -22,7 +22,7 @@ cites:
   - osc-sn-51-721
 ---
 
-The [[co-location-methodology|co-location]] tier system assigns each cluster to one of four tiers — Regional, District, Local, or Fringe (labelled per the [[co-location-tier-nomenclature|tier nomenclature]]) — using binary predicate gates rather than a composite score. A cluster must pass every gate in a tier's gate set to qualify for that tier; partial scores do not accumulate. This methodology describes the current implementation, introduced in May 2026. It complements the [[co-location-ranking-system|deterministic ranking system]] and draws its trade-area inputs from the [[od-catchment-methodology|O-D catchment methodology]] and the [[trade-area-data-sources|trade-area data sources]].
+The [[co-location-methodology|co-location]] tier system assigns each cluster to one of four tiers — Regional, District, Local, or Fringe (labelled per the [[co-location-tier-nomenclature|tier nomenclature]]) — using binary predicate gates rather than a composite score. A cluster must pass every gate in a tier's gate set to qualify for that tier; partial scores do not accumulate. This methodology describes the current implementation, introduced in May 2026. It complements the [[co-location-ranking-system|deterministic ranking system]] and draws its trade-area inputs from the [[od-catchment-methodology|distance-band methodology]] and the [[trade-area-data-sources|trade-area data sources]].
 
 ## Why Predicate Gates Replace Composite Scores
 
@@ -32,7 +32,7 @@ Binary gates make the qualification criteria explicit and independently verifiab
 
 ## Population Catchment Ranks
 
-Catchment population is computed using a fixed-resolution geographic grid over crow-flies distance, per the [[od-catchment-methodology|O-D catchment methodology]]. Two zones are defined for each cluster:
+Catchment population is computed using a fixed-resolution geographic grid over crow-flies distance, per the [[od-catchment-methodology|distance-band methodology]]. Two zones are defined for each cluster:
 
 - **Primary zone**: all grid cells within 35 km of the cluster anchor
 - **Secondary zone**: all grid cells between 35 km and 150 km of the cluster anchor
