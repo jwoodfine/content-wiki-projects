@@ -72,10 +72,10 @@ Site Selection covers the method behind "near Power Centres" — the discipline 
 
 ## Before Land Is Bought
 
-[[zoning-acquisition-rules|Zoning Acquisition Rules]] requires confirmed zoning on every parcel before purchase. [[asset-evaluation-protocol|The Asset Evaluation Protocol]] sets tier score as the entry criterion and independent GIS analysis as the verification method a candidate site must clear.
+[[zoning-acquisition-rules|Zoning Acquisition Rules]] requires a verified entitlement position on every parcel — either a permitted use or an evidenced, achievable rezoning path — before purchase. [[asset-evaluation-protocol|The Asset Evaluation Protocol]] sets tier score as the entry criterion and independent GIS analysis as the verification method a candidate site must clear.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: before-land-is-bought -->
-- [[zoning-acquisition-rules]] — Pre-purchase verification requirements ensuring every parcel acquired has confirmed zoning for the intended development, eliminating speculative land banking.
+- [[zoning-acquisition-rules]] — Pre-purchase entitlement verification: every parcel is acquired against either a permitted use or an evidenced, achievable rezoning path, with an active development timeline and no speculative land banking.
 - [[asset-evaluation-protocol]] — How the co-location ranking matrix drives Woodfine's commercial asset acquisition targeting: tier score as the entry criterion, independent GIS analysis as the verification method.
 <!-- END AUTO-GENERATED -->
 

@@ -72,10 +72,10 @@ Selección de Sitios abarca el método detrás de "cerca de los Power Centres" �
 
 ## Antes de Comprar el Terreno
 
-[[zoning-acquisition-rules|Las Reglas de Adquisición de Zonificación]] exigen zonificación confirmada en cada parcela antes de la compra. [[asset-evaluation-protocol|El Protocolo de Evaluación de Activos]] fija la puntuación por niveles como criterio de entrada y el análisis GIS independiente como el método de verificación que debe superar un sitio candidato.
+[[zoning-acquisition-rules|Las Reglas de Adquisición de Zonificación]] exigen una posición de titulación verificada en cada parcela — un uso permitido o una vía de rezonificación evidenciada y viable — antes de la compra. [[asset-evaluation-protocol|El Protocolo de Evaluación de Activos]] fija la puntuación por niveles como criterio de entrada y el análisis GIS independiente como el método de verificación que debe superar un sitio candidato.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: before-land-is-bought -->
-- [[zoning-acquisition-rules]] — Requisitos de verificación previos a la compra que garantizan que cada parcela adquirida tenga zonificación confirmada para el desarrollo previsto, eliminando la especulación inmobiliaria.
+- [[zoning-acquisition-rules]] — Verificación de titulación previa a la compra: cada parcela se adquiere sobre un uso permitido o una vía de rezonificación evidenciada y viable, con un cronograma de desarrollo activo y sin acumulación especulativa de terrenos.
 - [[asset-evaluation-protocol]] — Cómo la matriz de clasificación por co-ubicación orienta la selección de activos comerciales de Woodfine: la puntuación por niveles como criterio de entrada, el análisis GIS independiente como método de verificación.
 <!-- END AUTO-GENERATED -->
 
