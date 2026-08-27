@@ -13,7 +13,7 @@ bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 keynote: true
 keynote_section: "Co-Location Methodology"
-last_edited: 2026-07-11
+last_edited: 2026-08-26
 editor: pointsav-engineering
 short_description: "The strategy of positioning professional centres adjacent to national retail anchors to transpose retail resilience onto office demand."
 paired_with: site-selection/co-location-strategy.es.md
@@ -37,19 +37,13 @@ This independence criterion is formalized in the [[co-location-methodology|co-lo
 
 ## National retailers as anchor infrastructure
 
-Co-location treats [[national-tenants|national retailers]] as permanent civic infrastructure rather than optional amenities. A warehouse club or home-improvement superstore generates destination trips from the regional population. A professional centre occupying the same catchment area captures daily foot traffic that it could not produce independently.
+Co-location treats [[co-location-anchors|national retailers]] as permanent civic infrastructure rather than optional amenities. A warehouse club or home-improvement superstore generates destination trips from the regional population. A professional centre occupying the same catchment area captures daily foot traffic that it could not produce independently.
 
 The anchor retailers are not tenants of the professional building. They are external capital commitments that validate the demand environment in which the professional building operates. The co-location strategy depends on their continued operation rather than on any contractual relationship.
 
 ## Regional market focus
 
 Co-location targets [[about-regional-markets-system|regional markets]] — suburban settlements 15 to 80 kilometres from a major metropolitan core — rather than central business districts in major metro areas. Regional markets exhibit the retail investment patterns and underserved professional real estate demand that co-location requires. Central business districts in major metros face different competitive dynamics: legacy office oversupply, declining anchor retail, and transit-dependent occupiers rather than the drive-based catchment that powers co-location deployments.
-
-*Editorial note (2026-07-10): this section previously described regional markets as
-"standalone cities... rather than suburban nodes" — the opposite of the suburban-regional
-definition that [[about-regional-markets-system|the current co-location scoring system]]
-actually uses. Corrected to match the system now in production; see
-[[about-regional-markets|the superseded prior definition]] for historical reference.*
 
 ## Relationship to the direct-hold solution
 

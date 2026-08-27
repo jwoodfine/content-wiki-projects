@@ -10,7 +10,7 @@ quality: complete
 short_description: "Sistema de niveles por compuertas de calificación que puntúa clústeres de co-ubicación minorista por composición de anclas, rango de captación y presencia cívica para clasificar sitios de desarrollo."
 status: stable
 bcsc_class: current-fact
-last_edited: 2026-08-24
+last_edited: 2026-08-26
 editor: pointsav-engineering
 language_protocol: TRANSLATE-ES
 source_refs:
@@ -19,7 +19,7 @@ paired_with: geographic-co-location-methodology.md
 cites: []
 ---
 
-La **Metodología de Co-Ubicación Geográfica** es la disciplina de análisis espacial que MCorp aplica para identificar y clasificar Sitios de Desarrollo potenciales en las tres jurisdicciones principales de Woodfine. La metodología puntúa los nodos minoristas según la proximidad y la combinación de minoristas ancla que operan en la geografía, produciendo un conjunto de datos clasificados de sitios en los que la inversión de desarrollo está validada por los compromisos comerciales demostrables de minoristas institucionales, en lugar de proyecciones demográficas especulativas.
+La **Metodología de Co-Ubicación Geográfica** es la disciplina de análisis espacial que MCorp aplica para identificar y clasificar Sitios de Desarrollo potenciales en las cuatro jurisdicciones calificadas de Woodfine: Canadá, Estados Unidos, España y México. La metodología puntúa los nodos minoristas según la proximidad y la combinación de minoristas ancla que operan en la geografía, produciendo un conjunto de datos clasificados de sitios en los que la inversión de desarrollo está validada por los compromisos comerciales demostrables de minoristas institucionales, en lugar de proyecciones demográficas especulativas.
 
 La metodología asigna cada clúster a uno de cuatro niveles mediante compuertas de calificación, no mediante una puntuación acumulada. Un clúster obtiene un nivel solo cuando supera todas las compuertas requeridas para ese nivel — composición de anclas, rango de captación y presencia cívica en conjunto, no un solo factor por sí solo. Esta estructura de compuertas reemplazó una escala anterior basada en puntos el 16 de mayo de 2026; la escala retirada, y sus etiquetas numéricas, ya no describen ningún clúster actual.
 
@@ -53,8 +53,8 @@ La salida se clasifica luego para equilibrar el nivel del clúster, la proximida
 
 ## Cantidad de Sitios Requerida por Jurisdicción
 
-Los requisitos de shortlist de sitios están calibrados a las captaciones de capital planificadas y calendarios de construcción de cada Direct-Hold Solution. Cada jurisdicción — Canadá, Estados Unidos y México — tiene su propia cantidad de desarrollo requerida, a lo largo de los financiamientos de capital y deuda planificados durante el período de construcción plurianual.
+Los requisitos de shortlist de sitios están calibrados a las captaciones de capital planificadas y calendarios de construcción de cada Direct-Hold Solution. Cada jurisdicción — Canadá, Estados Unidos, España y México — tiene su propia cantidad de desarrollo requerida, a lo largo de los financiamientos de capital y deuda planificados durante el período de construcción plurianual.
 
 ### Proporción de shortlist y disponibilidad de suelo
 
-Dado que no siempre habrá terrenos de desarrollo disponibles adyacentes a los mejores Objetivos Primarios, y algunos sitios disponibles conllevarán calendarios de recalificación o permisos que se extienden por varios años, la shortlist de sitios debe superar el número requerido de desarrollo en un margen sustancial. Se preseleccionan suficientes candidatos por sitio requerido para absorber el desgaste por disponibilidad de suelo y trámites de permisos. Se mantienen tres conjuntos de datos separados, uno por jurisdicción.
+Dado que no siempre habrá terrenos de desarrollo disponibles adyacentes a los mejores Objetivos Primarios, y algunos sitios disponibles conllevarán calendarios de recalificación o permisos que se extienden por varios años, la shortlist de sitios debe superar el número requerido de desarrollo en un margen sustancial. Se preseleccionan suficientes candidatos por sitio requerido para absorber el desgaste por disponibilidad de suelo y trámites de permisos. Se mantienen cuatro conjuntos de datos separados, uno por jurisdicción.

@@ -10,7 +10,7 @@ quality: complete
 short_description: "Predicate-gate tier system scoring retail co-location clusters by anchor composition, catchment rank, and civic presence to rank development sites by anchor strength."
 status: stable
 bcsc_class: current-fact
-last_edited: 2026-08-24
+last_edited: 2026-08-26
 editor: pointsav-engineering
 language_protocol: PROSE-TOPIC
 source_refs:
@@ -19,18 +19,7 @@ paired_with: geographic-co-location-methodology.es.md
 cites: []
 ---
 
-The **Geographic Co-Location Methodology** is the spatial analysis discipline MCorp applies to identify and rank potential Development Sites across Woodfine's three primary jurisdictions. The methodology scores retail nodes by the proximity and combination of anchor retailers operating in the geography, producing a ranked dataset of sites in which development investment is validated by the demonstrable commercial commitments of institutional retailers rather than by speculative demographic projections.
-
-**Correction (2026-08-02):** "three primary jurisdictions" contradicts this
-article's own "Required Site Count by Jurisdiction" table below (which lists only
-Canada/US/Mexico, omitting Spain) and, more consequentially, contradicts the sibling
-article [[power-centre-co-location-thesis]] (same `last_edited` date, 2026-07-11):
-"The Power Centre co-location requirement applies consistently across all **four**
-qualified jurisdictions: Canada, the United States, Spain, and Mexico." The
-four-jurisdiction, Spain-inclusive version is also the one consistent with the
-platform's detailed coverage plan and the JOURNAL working
-paper's inclusion of Spain (MITMA data, 58 clusters). This article is the outlier.
-**Flagged, not resolved.**
+The **Geographic Co-Location Methodology** is the spatial analysis discipline MCorp applies to identify and rank potential Development Sites across Woodfine's four qualified jurisdictions: Canada, the United States, Spain, and Mexico. The methodology scores retail nodes by the proximity and combination of anchor retailers operating in the geography, producing a ranked dataset of sites in which development investment is validated by the demonstrable commercial commitments of institutional retailers rather than by speculative demographic projections.
 
 The methodology assigns each cluster to one of four tiers by predicate gate, not by an accumulated score. A cluster earns a tier only when every gate required for that tier passes — anchor composition, catchment rank, and civic presence together, not any one factor alone. This gate structure replaced an earlier points-based scale on 2026-05-16; the retired scale, and its numeric labels, no longer describe any current cluster.
 
@@ -64,10 +53,10 @@ The output is then ranked to balance cluster tier, anchor proximity, and the abs
 
 ## Required Site Count by Jurisdiction
 
-The site shortlist requirements are calibrated to the planned capital raises and construction timelines of each Direct-Hold Solution, with a jurisdiction-specific required development count set for Canada, the United States, and Mexico across the equity and debt financings planned over the multi-year build-out.
+The site shortlist requirements are calibrated to the planned capital raises and construction timelines of each Direct-Hold Solution, with a jurisdiction-specific required development count set for Canada, the United States, Spain, and Mexico across the equity and debt financings planned over the multi-year build-out.
 
 ### Shortlist ratio and land availability
 
 Because not every high-ranked Primary Target will have available land adjacent to its site, and some available sites will carry rezoning or permitting timelines extending three to seven years, the site shortlist must exceed the required development count by a substantial margin. Enough shortlisted candidates are carried per required site to absorb land-availability and entitlement attrition.
 
-Three separate datasets are maintained, one per jurisdiction, reflecting the distinct retail landscapes of Canada, the United States, and Mexico.
+Four separate datasets are maintained, one per jurisdiction, reflecting the distinct retail landscapes of Canada, the United States, Spain, and Mexico.

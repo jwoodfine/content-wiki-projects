@@ -13,7 +13,7 @@ bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
 keynote: true
 keynote_section: "Co-Location Methodology"
-last_edited: 2026-06-26
+last_edited: 2026-08-26
 editor: pointsav-engineering
 short_description: "La estrategia de posicionar centros profesionales junto a anclas minoristas nacionales para trasladar la resiliencia minorista a la demanda de oficinas."
 paired_with: site-selection/co-location-strategy.md
@@ -37,20 +37,13 @@ Este criterio de independencia se formaliza en la [[co-location-methodology|meto
 
 ## Los minoristas nacionales como infraestructura ancla
 
-La co-localización trata a los [[national-tenants|minoristas nacionales]] como infraestructura cívica permanente más que como comodidades opcionales. Un club de almacén o una ferretería de gran superficie genera viajes de destino desde la población regional. Un centro profesional ubicado en el mismo radio de captación captura el flujo diario de personas que no podría generar de manera independiente.
+La co-localización trata a los [[co-location-anchors|minoristas nacionales]] como infraestructura cívica permanente más que como comodidades opcionales. Un club de almacén o una ferretería de gran superficie genera viajes de destino desde la población regional. Un centro profesional ubicado en el mismo radio de captación captura el flujo diario de personas que no podría generar de manera independiente.
 
 Los minoristas ancla no son inquilinos del edificio profesional. Son compromisos de capital externos que validan el entorno de demanda en que opera el edificio profesional. La estrategia de co-localización depende de la continuidad de su operación, no de ninguna relación contractual.
 
 ## Enfoque en mercados regionales
 
 La co-localización se dirige a [[about-regional-markets-system|mercados regionales]] — asentamientos suburbanos situados de 15 a 80 kilómetros de un núcleo metropolitano importante — en lugar de los distritos centrales de negocios de las grandes metrópolis. Los mercados regionales exhiben los patrones de inversión minorista y la demanda de bienes raíces profesionales desatendida que la co-localización requiere. Los distritos centrales de negocios en grandes metrópolis enfrentan dinámicas competitivas diferentes: exceso de oferta de oficinas heredadas, declive del minorista ancla y ocupantes dependientes del transporte público, en lugar del radio de captación vehicular que impulsa los desarrollos de co-localización.
-
-*Nota editorial (2026-07-10): esta sección describía anteriormente los mercados regionales
-como "ciudades independientes... en lugar de nodos suburbanos" — lo opuesto a la definición
-suburbano-regional que realmente utiliza
-[[about-regional-markets-system|el sistema actual de puntuación de co-ubicación]]. Corregido
-para coincidir con el sistema actualmente en producción; véase
-[[about-regional-markets|la definición anterior sustituida]] como referencia histórica.*
 
 ## Relación con la solución de tenencia directa
 

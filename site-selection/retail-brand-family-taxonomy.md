@@ -28,18 +28,9 @@ Every retail location on the [[co-location-methodology|co-location]] map carries
 
 ### Hypermarket
 
-Large-format general merchandise and grocery retailers operating facilities of 80,000 square feet or more. Includes Walmart Supercenter, Target, Carrefour Hypermarket, IKEA, and equivalents across North American and European markets covered by the [[co-location-tier-system|co-location tier system]]. Hypermarket stores are the primary anchor type in the co-location methodology — cluster formation requires one Hypermarket anchor. Displayed with a navy badge.
+Large-format general merchandise and grocery retailers operating facilities of 80,000 square feet or more. Includes Walmart Supercenter, Target, Carrefour Hypermarket, and equivalents across North American and European markets covered by the [[co-location-tier-system|co-location tier system]]. Hypermarket stores are the primary anchor type in the co-location methodology — cluster formation requires one Hypermarket anchor. Displayed with a navy badge.
 
-IKEA belongs to a separate lifestyle-anchor class in the live scoring pipeline, kept
-structurally apart from Hypermarket so it can independently satisfy a qualifying-anchor
-gate that treats warehouse-format and lifestyle-format anchors as distinct paths to the
-same tier — folding IKEA into Hypermarket here collapses that distinction for a reader
-trying to understand it. This article also mixes vocabulary from other systems —
-"first/second scoring criterion" is sequential-scoring language, distinct from the
-current predicate-gate structure, and "tertiary scoring" borrows a separate tier
-system's terminology — reinforcing that it blends several of this wiki's parallel tier
-systems rather than describing one consistently. This is an unresolved cross-system
-inconsistency, not yet reconciled into a single canonical scoring description.
+IKEA is classified separately, as a lifestyle-format anchor rather than a Hypermarket. The distinction lets warehouse-format and lifestyle-format anchors each independently qualify a cluster for the same tier.
 
 ### Hardware
 

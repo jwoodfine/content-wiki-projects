@@ -13,14 +13,14 @@ bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
 last_edited: 2026-08-26
 editor: pointsav-engineering
-short_description: "Las cuatro etiquetas de nivel — Regional, Distrital, Local, Marginal — visibles en el mapa de co-localización siguen la jerarquía de propiedades comerciales del Consejo Internacional de Centros Comerciales (ICSC), una nomenclatura internacionalmente reconocida que lleva significado propio sin necesidad de contexto específico de la plataforma."
+short_description: "Las cuatro etiquetas de nivel — Regional, Distrital, Local, Marginal — visibles en el mapa de co-localización toman su nombre de la jerarquía de propiedades comerciales del Consejo Internacional de Centros Comerciales (ICSC), aunque solo \"Regional\" es un término ICSC genuino; Distrital, Local y Marginal son nombres propios de la plataforma. Introducidas junto con el sistema actual de puntuación por compuertas predicativas en mayo de 2026."
 paired_with: site-selection/co-location-tier-nomenclature.md
 cites:
   - ni-51-102
   - osc-sn-51-721
 ---
 
-El [[co-location-methodology|índice de co-localización]] asigna cada clúster a uno de cuatro niveles en función de la composición categórica de sus [[co-location-anchors|anclas]] y tiendas secundarias, y de la posición del clúster dentro de la captación nacional de población. Las etiquetas visibles en el mapa — **Regional**, **Distrital**, **Local**, **Marginal** — siguen la jerarquía de propiedades del Consejo Internacional de Centros Comerciales (ICSC), utilizada por promotores inmobiliarios, planificadores y analistas de retail en los mercados de [[co-location-tier-system|América del Norte y Europa]] que cubre la plataforma. Las compuertas de calificación se definen en la [[catchment-ranking-methodology-v3|metodología V3 de clasificación de captación]] y la lógica de puntuación subyacente en el [[co-location-ranking-system|sistema de clasificación de co-ubicación]].
+El [[co-location-methodology|índice de co-localización]] asigna cada clúster a uno de cuatro niveles en función de la composición categórica de sus [[co-location-anchors|anclas]] y tiendas secundarias, y de la posición del clúster dentro de la captación nacional de población. Las etiquetas visibles en el mapa — **Regional**, **Distrital**, **Local**, **Marginal** — toman su nombre de la jerarquía de propiedades del Consejo Internacional de Centros Comerciales (ICSC), utilizada por promotores inmobiliarios, planificadores y analistas de retail en los mercados de [[co-location-tier-system|América del Norte y Europa]] que cubre la plataforma. Las compuertas de calificación se definen en la [[catchment-ranking-methodology-v3|metodología V3 de clasificación de captación]] y la lógica de puntuación subyacente en el [[co-location-ranking-system|sistema de clasificación de co-ubicación]].
 
 ## Qué significa cada nivel
 
@@ -42,6 +42,8 @@ Las etiquetas de nivel han sido renombradas dos veces desde el lanzamiento de la
 **Primer renombramiento (mayo de 2026):** Las etiquetas numéricas originales (T3 Complemento Total, T2 Ancla Minorista, T0 Nodo Comercial, entre otras) fueron reemplazadas por sustantivos en lenguaje sencillo: Prime, Strong (Retail), Strong (Bulk), Strong (Hub), Core (Hyper), Core (Hardware), Core (Wholesale), Emerging. Esto resolvió dos problemas de legibilidad: la ambigüedad del "+" en los descriptores compuestos y el esfuerzo cognitivo de mapear un número de nivel a un rango de calidad.
 
 **Segundo renombramiento (mayo de 2026):** Las etiquetas del primer renombramiento fueron reemplazadas por la jerarquía ICSC: Regional, Distrital, Local, Marginal. La motivación fue la alineación con una nomenclatura internacionalmente reconocida que lleva significado sin requerir contexto específico de la plataforma.
+
+Los nombres de la plataforma toman como referencia la jerarquía ICSC de centros comerciales, pero no son idénticos a ella. La jerarquía ICSC real es Neighborhood/Community/Regional/Super Regional; solo "Regional" es un término ICSC genuino. "Distrital", "Local" y "Marginal" son nombres propios de la plataforma, no términos ICSC.
 
 ## Lectura de los colores de nivel en el mapa
 
