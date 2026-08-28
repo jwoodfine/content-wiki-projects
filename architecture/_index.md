@@ -25,11 +25,11 @@ Architectural Styles covers the design culture the buildings stand in: the archi
 
 <!-- END-START-HERE-HIGHLIGHT -->
 
-## The Discipline
+## Architecture and the Built Environment
 
 [[architecture-overview|Architecture]] opens the category with the discipline's own long history, from Vitruvius's triad of durability, utility, and beauty to contemporary practice. [[built-environment|The Built Environment]] covers the human-made surroundings — buildings, infrastructure, parks — whose design determines the density, walkability, and land-use mix of a viable co-location node.
 
-<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: the-discipline -->
+<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: architecture-and-the-built-environment -->
 - [[architecture-overview]] — Art and technique of designing and constructing buildings, from Vitruvius's triad of durability, utility, and beauty to contemporary practice.
 - [[built-environment]] — Human-made surroundings for human activity — buildings, infrastructure, parks — whose design determines the density, walkability, and land-use mix of viable co-location nodes.
 <!-- END AUTO-GENERATED -->

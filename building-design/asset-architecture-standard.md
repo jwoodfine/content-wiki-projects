@@ -3,7 +3,7 @@ schema: foundry-doc-v1
 title: "Asset architecture standard"
 slug: asset-architecture-standard
 category: building-design
-index_group: the-leasing-geometry
+index_group: floor-plates-and-measurement-standards
 type: reference
 content_type: topic
 quality: complete

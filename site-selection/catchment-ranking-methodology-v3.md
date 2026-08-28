@@ -3,7 +3,7 @@ schema: foundry-doc-v1
 title: "Pure-predicate catchment ranking methodology (V3)"
 slug: catchment-ranking-methodology-v3
 category: site-selection
-index_group: scoring-and-clustering
+index_group: site-scoring-and-trade-areas
 type: topic
 content_type: topic
 quality: complete
@@ -91,12 +91,12 @@ The catchment and spend bars tighten moving from Local up through Regional, and 
 
 Thresholds are intentionally coarse — designed to distinguish nationally significant clusters from local nodes, not to finely rank within a tier. Refinement is planned for a future update as additional catchment data becomes available.
 
-## References
-
-*Hospital, university, and retailer location data used to derive cluster catchments is sourced from OpenStreetMap contributors and licensed under the Open Database Licence (ODbL). OpenStreetMap data © OpenStreetMap contributors.*
-
 ## See Also
 
 - [[co-location-tier-nomenclature]]
 - [[co-location-methodology]]
 - [[co-location-ranking-system]]
+
+## References
+
+*Hospital, university, and retailer location data used to derive cluster catchments is sourced from OpenStreetMap contributors and licensed under the Open Database Licence (ODbL). OpenStreetMap data © OpenStreetMap contributors.*

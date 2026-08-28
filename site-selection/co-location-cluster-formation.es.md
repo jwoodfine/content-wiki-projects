@@ -3,7 +3,7 @@ schema: foundry-doc-v1
 title: "Formación de Agrupaciones de Co-ubicación"
 slug: co-location-cluster-formation
 category: site-selection
-index_group: scoring-and-clustering
+index_group: site-scoring-and-trade-areas
 type: topic
 content_type: topic
 quality: stub
@@ -16,8 +16,6 @@ last_edited: 2026-06-17
 editor: pointsav-engineering
 paired_with: site-selection/co-location-cluster-formation.md
 ---
-
-# Formación de Agrupaciones de Co-ubicación
 
 La formación de agrupaciones es el paso del flujo del [[co-location-methodology|índice de co-ubicación]] que convierte las tiendas ancla calificadas en agrupaciones candidatas. Cada tienda [[co-location-anchors|ancla]] calificada — cada hipermercado, superstore de mejoras para el hogar y club de almacén que ha comprometido capital de forma independiente dentro de 1,0 a 3,0 km de las demás — genera una agrupación candidata centrada en las coordenadas de esa tienda.
 

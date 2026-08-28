@@ -6,7 +6,7 @@ category: buildings
 type: topic
 content_type: topic
 quality: complete
-short_description: "What we build: the six development classes — Professional Centres, Suburban Office, Retail Select, Tech Industrial, and the planned Parking Structures and Vertical Warehouses — plus tenant curation and procurement."
+short_description: "What we build: the six development classes — Professional Centres, Suburban Office, Retail Select, Tech Industrial, and the planned Parking Structures and Vertical Warehouses — plus tenant mix and procurement."
 index_type: thematic
 index_scope: buildings
 status: active
@@ -17,7 +17,7 @@ editor: pointsav-engineering
 paired_with: _index.es.md
 ---
 
-Buildings names what Woodfine actually builds: four development classes in force today, two more planned, and the tenant curation and procurement disciplines that fill and supply them.
+Buildings names what Woodfine actually builds: four development classes in force today, two more planned, and the tenant mix and procurement disciplines that fill and supply them.
 
 <!-- START-HERE-HIGHLIGHT: engine reads this block to render the single "start here" card (reuses the existing cluster-card--start-here component). Do not add more than one. -->
 
@@ -40,11 +40,11 @@ Buildings names what Woodfine actually builds: four development classes in force
 - [[class-vertical-warehouses]] — Vertical Warehouses are planned as a purpose-built vertical-stacking industrial and logistics class for inter-city fringe locations, sited outside the power centre proximity model.
 <!-- END AUTO-GENERATED -->
 
-## Tenant Curation and Procurement
+## Tenant Mix and Procurement
 
 Two further articles cover how a building fills and supplies itself. [[mix-of-use|Mix-of-Use]] is the tenant curation model that assembles a stable, five-category tenant ecosystem inside every Woodfine building. [[centralized-buying-program|The Centralized Buying Program]] aggregates materials purchasing across simultaneous projects to secure national pricing, with rebates flowing back to the Direct-Hold Solutions.
 
-<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: tenant-curation-and-procurement -->
+<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: tenant-mix-and-procurement -->
 - [[mix-of-use]] — A strategic tenant curation model that assembles a professional ecosystem from five stability-anchored tenant categories within each Woodfine building.
 - [[centralized-buying-program]] — Procurement structure aggregating materials purchasing across simultaneous building projects to secure National Pricing, with rebates flowing to the Direct-Hold Solutions.
 <!-- END AUTO-GENERATED -->

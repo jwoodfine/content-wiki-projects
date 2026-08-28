@@ -3,7 +3,7 @@ schema: foundry-doc-v1
 title: "Metodología de bandas de distancia — zonas de demanda primaria y secundaria"
 slug: od-catchment-methodology
 category: site-selection
-index_group: scoring-and-clustering
+index_group: site-scoring-and-trade-areas
 type: topic
 content_type: topic
 quality: complete

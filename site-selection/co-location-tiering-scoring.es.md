@@ -3,7 +3,7 @@ schema: foundry-doc-v1
 title: "Niveles y puntuación de co-ubicación"
 slug: co-location-tiering-scoring
 category: site-selection
-index_group: scoring-and-clustering
+index_group: site-scoring-and-trade-areas
 type: topic
 content_type: topic
 quality: complete

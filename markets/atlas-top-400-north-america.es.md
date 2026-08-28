@@ -6,7 +6,7 @@ language: es
 language_protocol: TRANSLATE-ES
 category: markets
 type: reference
-index_group: market-coverage
+index_group: the-top-400-markets
 content_type: topic
 quality: complete
 status: active

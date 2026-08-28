@@ -3,7 +3,7 @@ schema: foundry-doc-v1
 title: "Periferia Urbana (VWH)"
 slug: urban-fringe
 category: urban
-index_group: co-location-archetypes
+index_group: commuter-belts-and-the-urban-fringe
 type: concept
 content_type: topic
 quality: complete

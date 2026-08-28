@@ -3,7 +3,7 @@ schema: foundry-doc-v1
 title: "Co-location tier system"
 slug: co-location-tier-system
 category: markets
-index_group: market-coverage
+index_group: coverage-methodology
 type: topic
 content_type: topic
 quality: complete

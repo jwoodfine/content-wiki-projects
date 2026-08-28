@@ -36,11 +36,11 @@ Development Program covers where building is planned next: the intended, country
 - [[mx-programme]] — The intended country-by-country rollout for Mexico: development regions and a site register to be defined and tracked as the programme matures. Status: planned.
 <!-- END AUTO-GENERATED -->
 
-## Regions and Tracking
+## Development Regions and Site Register
 
 [[development-regions|Development Regions]] defines the geographic and jurisdictional zones that segment market data, regulatory context, and site-selection scope. [[about-development-site-monitoring-register|The Development Site Monitoring Register]] is the passive tracking register that holds qualified sites removed from the active pipeline — for adjacent land unavailability, for example — kept scored with documented re-entry criteria.
 
-<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: regions-and-tracking -->
+<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: development-regions-and-site-register -->
 - [[development-regions]] — Geographic and jurisdictional zones segmenting market data, regulatory context, and site-selection scope for co-location evaluation and compliance.
 - [[about-development-site-monitoring-register]] — Passive tracking register holding qualified co-location sites removed from the active pipeline for adjacent land unavailability, kept scored with documented re-entry criteria.
 <!-- END AUTO-GENERATED -->

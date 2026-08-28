@@ -6,7 +6,7 @@ category: site-selection
 type: topic
 content_type: topic
 quality: complete
-short_description: "The method behind near Power Centres: the retail anchors, catchment and cluster analysis, scoring, and the tests a site must pass before land is bought."
+short_description: "The strategy behind near Power Centres: the retail anchors, catchment and cluster analysis, scoring, and the tests a site must pass before land is bought."
 index_type: thematic
 index_scope: site-selection
 status: active
@@ -17,7 +17,7 @@ editor: pointsav-engineering
 paired_with: _index.es.md
 ---
 
-Site Selection covers the method behind "near Power Centres" — the discipline that decides where a building goes before land changes hands.
+Site Selection covers the strategy and investment thesis behind "near Power Centres" — the discipline that decides where a building goes before land changes hands.
 
 <!-- START-HERE-HIGHLIGHT: engine reads this block to render the single "start here" card (reuses the existing cluster-card--start-here component). Do not add more than one. -->
 
@@ -25,11 +25,11 @@ Site Selection covers the method behind "near Power Centres" — the discipline 
 
 <!-- END-START-HERE-HIGHLIGHT -->
 
-## The Method
+## Strategy and Investment Thesis
 
 [[co-location-intelligence-overview|Retail Co-Location Intelligence]] is the entry point: systematic geographic analysis that ranks sites by where large-format national retailers converge. [[co-location-methodology|Co-Location Methodology]], [[co-location-strategy|Co-Location Strategy]], and [[co-location-investment-thesis|the Co-Location Investment Thesis]] set out the deterministic framework, the site-positioning logic, and the underlying investment case in turn. [[power-centre-co-location-thesis|The Power Centre Co-Location Thesis]] and [[institutional-retail-halo|the Institutional Retail Halo]] describe how proximity to an operating Power Centre transfers necessity-retail demand stability onto adjacent office space. [[power-centre-land-availability|Power Centre Land Availability]] covers where Woodfine's Development Sites come from, and [[co-location-convergence-thesis|the Co-Location Convergence Thesis]] connects that land-sourcing method to extended-hours professional occupancy and the live/work/play shift in shopping-centre design. [[location-intelligence-archetypes|Location Intelligence Archetypes]] covers the three co-location archetypes a site can belong to.
 
-<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: the-method -->
+<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: strategy-and-investment-thesis -->
 - [[co-location-intelligence-overview]] — Systematic geographic analysis identifying and ranking retail sites where large-format categories converge within defined catchment radii.
 - [[co-location-methodology]] — A deterministic spatial-analysis framework that ranks commercial real-estate nodes by the objective convergence of independent, capital-intensive retail operators — independent corroboration in place of market sentiment.
 - [[co-location-strategy]] — The strategy of positioning professional centres adjacent to national retail anchors to transpose retail resilience onto office demand.
@@ -55,11 +55,11 @@ Site Selection covers the method behind "near Power Centres" — the discipline 
 - [[retail-centres]] — Retail Centres (PRO) are neighbourhood commercial centres anchored by grocery, pharmacy, bank, and casual dining — one of three Location Intelligence co-location archetypes, and the base map product for the site-selection dataset.
 <!-- END AUTO-GENERATED -->
 
-## Scoring and Clustering
+## Site Scoring and Trade Areas
 
 [[co-location-cluster-formation|Cluster Formation]] and [[cluster-deduplication-threshold|the Deduplication Threshold]] describe how a qualifying anchor becomes a candidate cluster and how overlapping candidates are resolved. [[co-location-ranking-system|The Ranking System]], [[co-location-tiering-scoring|Tiering and Scoring]], and [[catchment-ranking-methodology-v3|the V3 Catchment Ranking Methodology]] set out the deterministic scoring algorithm and its current binary-predicate tier engine. [[geographic-co-location-methodology|Geographic Co-Location Methodology]] covers the continental-scale cluster framework behind the method. [[od-catchment-methodology|Distance-Band Methodology]] and [[trade-area-methodology|Trade-Area Methodology]] define the primary and secondary trade areas — and the honest limits of straight-line distance-band measurement — that scoring runs against.
 
-<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: scoring-and-clustering -->
+<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: site-scoring-and-trade-areas -->
 - [[co-location-cluster-formation]] — The pipeline step that converts each qualifying anchor store into a candidate co-location cluster; overlapping candidates from a single trade area are resolved by deduplication before ranking inputs are aggregated.
 - [[cluster-deduplication-threshold]] — The co-location index pipeline deduplicates overlapping clusters that represent the same commercial zone using a fixed, tightly-set proximity threshold, retaining the cluster with the higher secondary operator count. An earlier, substantially wider threshold was found to suppress legitimately distinct commercial nodes in dense suburban corridors.
 - [[co-location-ranking-system]] — The deterministic mechanics behind cluster ranking — country-relative percentile axes, the overlap test between neighbouring clusters, and the tiebreak order applied within a tier.

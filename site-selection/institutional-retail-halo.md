@@ -3,7 +3,7 @@ schema: foundry-doc-v1
 title: "Institutional retail halo"
 slug: institutional-retail-halo
 category: site-selection
-index_group: the-method
+index_group: strategy-and-investment-thesis
 type: topic
 content_type: topic
 quality: complete

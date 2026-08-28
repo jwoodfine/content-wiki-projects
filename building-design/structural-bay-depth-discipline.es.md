@@ -3,7 +3,7 @@ schema: foundry-doc-v1
 title: "Disciplina de profundidad del vano estructural"
 slug: structural-bay-depth-discipline
 category: building-design
-index_group: site-and-building-disciplines
+index_group: site-and-building-standards
 type: topic
 content_type: topic
 quality: pre-build

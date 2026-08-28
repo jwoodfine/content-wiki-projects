@@ -5,7 +5,7 @@ title: "Regional Markets intelligence system"
 language: en
 language_protocol: PROSE-TOPIC
 category: markets
-index_group: market-coverage
+index_group: coverage-methodology
 type: reference
 content_type: topic
 quality: complete
@@ -17,8 +17,6 @@ paired_with: markets/about-regional-markets-system.es.md
 last_edited: 2026-08-26
 editor: editorial
 ---
-
-# Regional Markets Intelligence System
 
 The Regional Markets Intelligence System is a continental-scale geographic analysis framework that identifies suburban retail markets — named suburbs and satellite municipalities lying within commuting distance of major metropolitan centres — defined by the convergence of large-format retail anchors, civic infrastructure, and demographic catchment.
 

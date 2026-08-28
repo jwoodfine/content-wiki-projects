@@ -17,7 +17,7 @@ editor: pointsav-engineering
 paired_with: building-design/_index.md
 ---
 
-Diseño de Edificios abarca el sistema de diseño detrás de cada edificio Woodfine: una geometría de arrendamiento fija, una práctica BIM de estándares abiertos, y las disciplinas de sitio y edificio que convierten esa geometría en una propiedad construible y sostenible.
+Diseño de Edificios abarca el sistema de diseño detrás de cada edificio Woodfine: placas de piso fijas y estándares de medición, una práctica BIM de estándares abiertos, y los estándares de sitio y edificio que convierten esos elementos en una propiedad construible y sostenible.
 
 <!-- START-HERE-HIGHLIGHT: engine reads this block to render the single "start here" card (reuses the existing cluster-card--start-here component). Do not add more than one. -->
 
@@ -36,22 +36,22 @@ Diseño de Edificios abarca el sistema de diseño detrás de cada edificio Woodf
 - [[property-manager-bim-gap]] — Una parte sustancial de los gerentes de instalaciones no utiliza activamente los modelos BIM entregados en la entrega del proyecto, debido al costo del software, los requisitos de capacitación y la opacidad del formato de archivo — una brecha que los registros de construcción de Woodfine están diseñados para cerrar.
 <!-- END AUTO-GENERATED -->
 
-## La Geometría de Arrendamiento
+## Placas de Piso y Estándares de Medición
 
 [[fixed-floor-plates|Las Placas de Piso Fijas]] y [[key-plans-and-tiles|los Planos Maestros y Módulos]] establecen la base estructural estandarizada y el sistema de planificación espacial autosimilar del que deriva cada edificio Woodfine. [[boma-standard|El Estándar BOMA]] es la base de medición compartida para toda área de arrendamiento y comparación de edificios. [[asset-architecture-standard|El Estándar de Arquitectura de Activos]] fija los requisitos estructurales uniformes — construcción de concreto y acero, dimensionamiento previo a la adquisición — aplicados en toda la cartera.
 
-<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: the-leasing-geometry -->
+<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: floor-plates-and-measurement-standards -->
 - [[fixed-floor-plates]] — La base estructural estandarizada e inmutable utilizada en todos los edificios Woodfine, derivada de la geometría optimizada de los equipos para permitir una construcción repetible y un rendimiento espacial predecible.
 - [[key-plans-and-tiles]] — Un sistema de planificación espacial geométrico y autosimilar derivado de la geometría de equipos y circulación de los inquilinos, utilizado para determinar las dimensiones de las placas de piso fijas.
 - [[boma-standard]] — El estándar de medición de área de piso de la Building Owners and Managers Association, base de medición común para las áreas de arrendamiento y comparaciones de edificios de Woodfine.
 - [[asset-architecture-standard]] — Requisitos estructurales uniformes para los desarrollos Woodfine: construcción de concreto y acero, dimensionamiento previo a la adquisición y configuración estandarizada en toda la cartera.
 <!-- END AUTO-GENERATED -->
 
-## Disciplinas de Sitio y Edificio
+## Estándares de Sitio y Edificio
 
 [[design-sequence-priority|La Prioridad de Secuencia de Diseño]] fija el orden de colaboración detrás de cada paquete de diseño: primero el Plan de Arrendamiento, luego Servicios del Edificio, y por último Estructural. [[four-to-one-parking-ratio|La Relación de Estacionamiento 4:1]] y [[water-management-system|el Sistema de Gestión del Agua]] se aplican a nivel de sitio. [[common-building-code|El Código de Construcción Común]], la [[tile-level-climate-zoning|zonificación climática a nivel de módulo]] y la [[structural-bay-depth-discipline|disciplina de profundidad del vano estructural]] se aplican a nivel de edificio y espacio arrendable. [[geometry-of-sustainability|Geometría de la Sostenibilidad]] y [[dual-mandate-building-certifications|las Certificaciones de Edificio de Doble Mandato]] cubren la ingeniería de costos operativos y la estrategia de certificación BREEAM/WELL que se derivan de ella.
 
-<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: site-and-building-disciplines -->
+<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: site-and-building-standards -->
 - [[design-sequence-priority]] — El orden fijo de colaboración detrás de cada paquete de diseño de Woodfine: primero el Plan de Arrendamiento, luego Servicios del Edificio, y por último Estructural — cada disciplina diseñando sobre una capa previa ya completada en lugar de negociar en paralelo.
 - [[four-to-one-parking-ratio]] — El estándar de estacionamiento de cuatro cajones por cada 1.000 pies cuadrados de área arrendable neta que Woodfine aplica en los Mercados Regionales, donde el automóvil privado es la única forma práctica en que los clientes de un inquilino llegan al edificio.
 - [[water-management-system]] — Un mecanismo de conservación de agua para el día a día — almacenamiento en cisterna y galería de irrigación, un sistema de plomería de aguas grises, pavimento permeable y biozanjas — que hace que el paisajismo de un Sitio de Desarrollo sea autosuficiente en lugar de depender de la infraestructura pluvial municipal.

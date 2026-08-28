@@ -44,11 +44,11 @@ Maps and Data covers the spatial data behind the analysis: where it comes from, 
 - [[uk-eu-food-retail-coverage]] — The co-location index distinguishes between chains that participate in cluster scoring — anchors, hardware, warehouse — and chains that appear on the map as supporting context without affecting cluster grades. The Food family is the latter. This article documents United Kingdom and European Union food-retail coverage as of the May 2026 expansion.
 <!-- END AUTO-GENERATED -->
 
-## Site and Transaction Integration
+## Site Records and Approvals
 
 [[site-ledger-integration|Site Ledger Integration]] binds each physical construction site to an isolated digital archive container, maintaining immutable audit records from groundbreak through commissioning. [[transaction-summary-report-protocol|The Transaction Summary Report Protocol]] advances shortlisted Development Site candidates from geographic scoring to Independent Director review.
 
-<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: site-and-transaction-integration -->
+<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: site-records-and-approvals -->
 - [[site-ledger-integration]] — Operational link binding each physical construction site to an isolated digital archive container, maintaining immutable audit records from groundbreak through commissioning.
 - [[transaction-summary-report-protocol]] — Site-approval protocol advancing shortlisted Development Site candidates from geographic scoring to Independent Director review via the Transaction Summary Report.
 <!-- END AUTO-GENERATED -->

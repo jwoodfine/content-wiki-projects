@@ -3,7 +3,7 @@ schema: foundry-doc-v1
 title: "Site ledger integration"
 slug: site-ledger-integration
 category: gis
-index_group: site-and-transaction-integration
+index_group: site-records-and-approvals
 type: reference
 content_type: topic
 quality: complete

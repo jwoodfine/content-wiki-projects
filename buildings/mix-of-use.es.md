@@ -3,7 +3,7 @@ schema: foundry-doc-v1
 title: "Combinación de Usos"
 slug: mix-of-use
 category: buildings
-index_group: tenant-curation-and-procurement
+index_group: tenant-mix-and-procurement
 type: topic
 content_type: topic
 quality: pre-build

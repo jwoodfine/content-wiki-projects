@@ -3,7 +3,7 @@ schema: foundry-doc-v1
 title: "Metodología de Clasificación de Captación por Predicados Puros (V3)"
 slug: catchment-ranking-methodology-v3
 category: site-selection
-index_group: scoring-and-clustering
+index_group: site-scoring-and-trade-areas
 type: topic
 content_type: topic
 quality: complete

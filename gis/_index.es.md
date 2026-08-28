@@ -44,11 +44,11 @@ Mapas y Datos abarca los datos espaciales detrás del análisis: de dónde provi
 - [[uk-eu-food-retail-coverage]] — El índice de co-localización distingue entre cadenas que participan en la puntuación de clústeres — anclas, ferreterías, almacenes — y cadenas que aparecen en el mapa como contexto de apoyo sin afectar las calificaciones. La familia Alimentación pertenece a este segundo grupo. Este artículo documenta la cobertura de retail alimentario en el Reino Unido y la Unión Europea tras la expansión de mayo de 2026.
 <!-- END AUTO-GENERATED -->
 
-## Integración de Sitio y Transacción
+## Registros de Sitio y Aprobaciones
 
 [[site-ledger-integration|La Integración del Registro de Sitio]] vincula cada sitio de construcción físico con un contenedor de archivo digital aislado, manteniendo registros de auditoría inmutables desde el inicio de obra hasta la puesta en marcha. [[transaction-summary-report-protocol|El Protocolo de Reporte Resumen de Transacción]] avanza a los candidatos preseleccionados de Sitio de Desarrollo desde la puntuación geográfica hasta la revisión del Director Independiente.
 
-<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: site-and-transaction-integration -->
+<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: site-records-and-approvals -->
 - [[site-ledger-integration]] — Vínculo operacional que conecta cada sitio de construcción físico con un contenedor de archivo digital aislado, manteniendo registros de auditoría inmutables desde el inicio hasta la puesta en servicio.
 - [[transaction-summary-report-protocol]] — Protocolo que lleva los candidatos a Sitio de Desarrollo de la puntuación geográfica a la revisión del Director Independiente mediante el Informe de Resumen de Transacción.
 <!-- END AUTO-GENERATED -->

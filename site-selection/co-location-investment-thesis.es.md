@@ -4,7 +4,7 @@ title: "Tesis de Inversión por Co-ubicación"
 slug: co-location-investment-thesis
 short_description: "La tesis de inversión según la cual los nodos comerciales donde convergen minoristas de grado institucional dentro de radios de influencia definidos presentan características de sitio objetivamente verificables y superiores."
 category: site-selection
-index_group: the-method
+index_group: strategy-and-investment-thesis
 type: reference
 content_type: topic
 quality: complete

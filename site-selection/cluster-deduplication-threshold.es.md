@@ -3,7 +3,7 @@ schema: foundry-doc-v1
 title: "Umbral de Deduplicación de Clústeres"
 slug: cluster-deduplication-threshold
 category: site-selection
-index_group: scoring-and-clustering
+index_group: site-scoring-and-trade-areas
 type: topic
 content_type: topic
 quality: complete

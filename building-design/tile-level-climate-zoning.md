@@ -3,7 +3,7 @@ schema: foundry-doc-v1
 title: "Tile-level climate zoning"
 slug: tile-level-climate-zoning
 category: building-design
-index_group: site-and-building-disciplines
+index_group: site-and-building-standards
 type: topic
 content_type: topic
 quality: pre-build

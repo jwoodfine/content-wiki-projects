@@ -4,7 +4,7 @@ title: "Greece — Regional Market index"
 slug: atlas-greece
 category: markets
 type: topic
-index_group: country-breakouts
+index_group: top-400-markets-by-country
 content_type: topic
 quality: stub
 status: active

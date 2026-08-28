@@ -6,7 +6,7 @@ category: buildings
 type: topic
 content_type: topic
 quality: complete
-short_description: "Lo que construimos: las seis clases de desarrollo — Centros Profesionales, Oficinas Suburbanas, Retail Select, Industrial Tecnológico, y las planeadas Estructuras de Estacionamiento y Almacenes Verticales — más la curaduría de inquilinos y las adquisiciones."
+short_description: "Lo que construimos: las seis clases de desarrollo — Centros Profesionales, Oficinas Suburbanas, Retail Select, Industrial Tecnológico, y las planeadas Estructuras de Estacionamiento y Almacenes Verticales — más la combinación de inquilinos y las adquisiciones."
 index_type: thematic
 index_scope: buildings
 status: active
@@ -17,7 +17,7 @@ editor: pointsav-engineering
 paired_with: buildings/_index.md
 ---
 
-Edificios nombra lo que realmente construye Woodfine: cuatro clases de desarrollo vigentes hoy, dos más planeadas, y las disciplinas de curaduría de inquilinos y adquisiciones que los llenan y abastecen.
+Edificios nombra lo que realmente construye Woodfine: cuatro clases de desarrollo vigentes hoy, dos más planeadas, y las disciplinas de combinación de inquilinos y adquisiciones que los llenan y abastecen.
 
 <!-- START-HERE-HIGHLIGHT: engine reads this block to render the single "start here" card (reuses the existing cluster-card--start-here component). Do not add more than one. -->
 
@@ -40,11 +40,11 @@ Edificios nombra lo que realmente construye Woodfine: cuatro clases de desarroll
 - [[class-vertical-warehouses]] — Los Almacenes Verticales están planificados como una clase industrial y logística de apilamiento vertical construida a propósito para ubicaciones de la periferia interurbana, emplazada fuera del modelo de proximidad al Power Centre.
 <!-- END AUTO-GENERATED -->
 
-## Curaduría de Inquilinos y Adquisiciones
+## Combinación de Inquilinos y Adquisiciones
 
 Dos artículos más explican cómo se llena y abastece un edificio. [[mix-of-use|Mix-of-Use]] es el modelo de curaduría de inquilinos que ensambla un ecosistema estable de cinco categorías dentro de cada edificio Woodfine. [[centralized-buying-program|El Programa de Compras Centralizadas]] agrega las compras de materiales entre proyectos simultáneos para asegurar precios nacionales, con reembolsos que regresan a las Soluciones de Tenencia Directa.
 
-<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: tenant-curation-and-procurement -->
+<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: tenant-mix-and-procurement -->
 - [[mix-of-use]] — Un modelo estratégico de selección de inquilinos que reúne un ecosistema profesional de cinco categorías de ocupantes de alta estabilidad dentro de cada edificio Woodfine.
 - [[centralized-buying-program]] — Estructura de adquisición que agrega compras de materiales entre proyectos simultáneos para asegurar Precios Nacionales, con reembolsos que fluyen a las Direct-Hold Solutions.
 <!-- END AUTO-GENERATED -->

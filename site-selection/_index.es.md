@@ -6,7 +6,7 @@ category: site-selection
 type: topic
 content_type: topic
 quality: complete
-short_description: "El método detrás de "cerca de los Power Centres": las anclas minoristas, el análisis de zonas de captación y clústeres, la puntuación, y las pruebas que un sitio debe superar."
+short_description: "La estrategia detrás de "cerca de los Power Centres": las anclas minoristas, el análisis de zonas de captación y clústeres, la puntuación, y las pruebas que un sitio debe superar."
 index_type: thematic
 index_scope: site-selection
 status: active
@@ -17,7 +17,7 @@ editor: pointsav-engineering
 paired_with: site-selection/_index.md
 ---
 
-Selección de Sitios abarca el método detrás de "cerca de los Power Centres" — la disciplina que decide dónde va un edificio antes de que cambie de manos el terreno.
+Selección de Sitios abarca la estrategia y la tesis de inversión detrás de "cerca de los Power Centres" — la disciplina que decide dónde va un edificio antes de que cambie de manos el terreno.
 
 <!-- START-HERE-HIGHLIGHT: engine reads this block to render the single "start here" card (reuses the existing cluster-card--start-here component). Do not add more than one. -->
 
@@ -25,11 +25,11 @@ Selección de Sitios abarca el método detrás de "cerca de los Power Centres" �
 
 <!-- END-START-HERE-HIGHLIGHT -->
 
-## El Método
+## Estrategia y Tesis de Inversión
 
 [[co-location-intelligence-overview|Inteligencia de Co-ubicación Minorista]] es el punto de entrada: análisis geográfico sistemático que clasifica sitios por dónde convergen los minoristas nacionales de gran formato. [[co-location-methodology|Metodología de Co-ubicación]], [[co-location-strategy|Estrategia de Co-localización]] y [[co-location-investment-thesis|la Tesis de Inversión por Co-ubicación]] exponen, en turno, el marco determinista, la lógica de posicionamiento de sitios y el caso de inversión subyacente. [[power-centre-co-location-thesis|La Tesis de Co-Ubicación en Power Centres]] y [[institutional-retail-halo|el Halo Minorista Institucional]] describen cómo la proximidad a un Power Centre en operación transfiere la estabilidad de demanda del comercio de necesidad a espacio de oficina adyacente. [[power-centre-land-availability|Disponibilidad de Terreno en Power Centres]] cubre de dónde provienen los Sitios de Desarrollo de Woodfine, y [[co-location-convergence-thesis|la Tesis de Convergencia de Co-Ubicación]] conecta ese método de abastecimiento de terreno con la ocupación profesional en horario extendido y el cambio de diseño live/work/play en los centros comerciales. [[location-intelligence-archetypes|Los Arquetipos de Inteligencia de Ubicación]] cubren los tres arquetipos de co-ubicación a los que puede pertenecer un sitio.
 
-<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: the-method -->
+<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: strategy-and-investment-thesis -->
 - [[co-location-intelligence-overview]] — Análisis geográfico sistemático que identifica y clasifica sitios minoristas donde las categorías de gran formato convergen dentro de radios de captación definidos.
 - [[co-location-methodology]] — Un marco de análisis espacial determinista que clasifica los nodos de bienes raíces comerciales por la convergencia objetiva de operadores minoristas independientes con capital intensivo — corroboración independiente en lugar de estimación de mercado.
 - [[co-location-strategy]] — La estrategia de posicionar centros profesionales junto a anclas minoristas nacionales para trasladar la resiliencia minorista a la demanda de oficinas.
@@ -55,11 +55,11 @@ Selección de Sitios abarca el método detrás de "cerca de los Power Centres" �
 - [[retail-centres]] — Los Centros Comerciales de Barrio (PRO) son centros comerciales de proximidad anclados por supermercado, farmacia, banca y restauración informal — uno de los tres arquetipos de co-localización de Inteligencia de Localización y el producto cartográfico base del conjunto de datos de selección de sitios.
 <!-- END AUTO-GENERATED -->
 
-## Puntuación y Agrupación
+## Puntuación de Sitios y Áreas de Influencia
 
 [[co-location-cluster-formation|La Formación de Agrupaciones]] y [[cluster-deduplication-threshold|el Umbral de Deduplicación]] describen cómo un ancla calificada se convierte en una agrupación candidata y cómo se resuelven las candidatas superpuestas. [[co-location-ranking-system|El Sistema de Clasificación]], [[co-location-tiering-scoring|Niveles y Puntuación]] y [[catchment-ranking-methodology-v3|la Metodología de Clasificación de Captación V3]] exponen el algoritmo de puntuación determinista y su motor actual de niveles por predicados binarios. [[geographic-co-location-methodology|La Metodología de Co-Ubicación Geográfica]] cubre el marco de análisis de clústeres a escala continental detrás del método. [[od-catchment-methodology|La Metodología de Bandas de Distancia]] y [[trade-area-methodology|la Metodología de Área de Atracción]] definen las áreas de influencia primaria y secundaria — y los límites honestos de la medición por distancia en línea recta — contra las que se puntúa.
 
-<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: scoring-and-clustering -->
+<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: site-scoring-and-trade-areas -->
 - [[co-location-cluster-formation]] — Paso del flujo que convierte cada tienda ancla calificada en una agrupación candidata de co-ubicación; las candidatas superpuestas en una misma área de comercio se resuelven mediante deduplicación antes de agregar los datos para el ranking.
 - [[cluster-deduplication-threshold]] — El proceso de deduplicación del índice de co-localización elimina los clústeres superpuestos que representan la misma zona comercial utilizando un umbral de proximidad fijo y estrecho, conservando el clúster con mayor recuento de operadores secundarios. Un umbral previo, sustancialmente más amplio, suprimía nodos comerciales legítimamente distintos en corredores suburbanos de alta densidad.
 - [[co-location-ranking-system]] — La mecánica determinista detrás de la clasificación de clústeres — ejes de percentil relativos al país, la prueba de superposición entre clústeres vecinos y el orden de desempate aplicado dentro de un nivel.

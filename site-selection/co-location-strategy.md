@@ -3,7 +3,7 @@ schema: foundry-doc-v1
 title: "Co-location strategy"
 slug: co-location-strategy
 category: site-selection
-index_group: the-method
+index_group: strategy-and-investment-thesis
 type: topic
 content_type: topic
 quality: pre-build

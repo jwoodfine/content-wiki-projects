@@ -3,7 +3,7 @@ schema: foundry-doc-v1
 title: "Sistema de clasificación de co-ubicación minorista"
 slug: co-location-ranking-system
 category: site-selection
-index_group: scoring-and-clustering
+index_group: site-scoring-and-trade-areas
 type: topic
 content_type: topic
 quality: complete

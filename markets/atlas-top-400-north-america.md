@@ -6,7 +6,7 @@ language: en
 language_protocol: PROSE-TOPIC
 category: markets
 type: reference
-index_group: market-coverage
+index_group: the-top-400-markets
 content_type: topic
 quality: complete
 status: active

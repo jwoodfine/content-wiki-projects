@@ -25,11 +25,11 @@ Urban Growth covers the city-scale forces behind demand: the co-location archety
 
 <!-- END-START-HERE-HIGHLIGHT -->
 
-## Co-Location Archetypes
+## Commuter Belts and the Urban Fringe
 
 [[commuter|Commuter (PKS)]] and [[urban-fringe|Urban Fringe (VWH)]] are two of the three Location Intelligence co-location archetypes: transit-adjacent sites with significant parking, and large-format retail and distribution-industrial activity on the metropolitan periphery, respectively. The third archetype, Retail Centres (PRO), is covered in [[site-selection-index|Site Selection]].
 
-<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: co-location-archetypes -->
+<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: commuter-belts-and-the-urban-fringe -->
 - [[commuter]] — Commuter (PKS) clusters identify transit-adjacent commercial sites with significant parking — commuter rail, transit hubs, park-and-ride, and highway-exit commercial — one of three Location Intelligence co-location archetypes.
 - [[urban-fringe]] — Urban Fringe (VWH) clusters identify large-format retail and distribution-industrial activity on the urban periphery — big-box hardware, home improvement, and logistics — one of three Location Intelligence co-location archetypes.
 <!-- END AUTO-GENERATED -->

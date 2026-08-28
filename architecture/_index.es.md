@@ -25,11 +25,11 @@ Estilos Arquitectónicos abarca la cultura de diseño en la que se inscriben los
 
 <!-- END-START-HERE-HIGHLIGHT -->
 
-## La Disciplina
+## Arquitectura y el Entorno Construido
 
 [[architecture-overview|Arquitectura]] abre la categoría con la historia propia de la disciplina, desde la tríada de Vitruvio de durabilidad, utilidad y belleza hasta la práctica contemporánea. [[built-environment|El Entorno Construido]] cubre el entorno hecho por el hombre — edificios, infraestructura, parques — cuyo diseño determina la densidad, la transitabilidad peatonal y la mezcla de usos de suelo de un nodo de co-ubicación viable.
 
-<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: the-discipline -->
+<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: architecture-and-the-built-environment -->
 - [[architecture-overview]] — Arte y técnica de diseñar y construir edificios, desde la tríada de Vitruvio — durabilidad, utilidad y belleza — hasta la práctica contemporánea.
 - [[built-environment]] — Entorno construido para la actividad humana — edificios, infraestructura, parques — cuyo diseño determina la densidad, transitabilidad y mezcla de usos de los nodos de co-ubicación.
 <!-- END AUTO-GENERATED -->

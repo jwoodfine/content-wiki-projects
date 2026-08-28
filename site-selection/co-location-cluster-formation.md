@@ -3,7 +3,7 @@ schema: foundry-doc-v1
 title: "Co-location cluster formation"
 slug: co-location-cluster-formation
 category: site-selection
-index_group: scoring-and-clustering
+index_group: site-scoring-and-trade-areas
 type: topic
 content_type: topic
 quality: stub
@@ -16,8 +16,6 @@ last_edited: 2026-07-11
 editor: pointsav-engineering
 paired_with: site-selection/co-location-cluster-formation.es.md
 ---
-
-# Co-location Cluster Formation
 
 Cluster formation is the step in the [[co-location-methodology|co-location index]] pipeline that turns qualifying anchor stores into candidate clusters. Every qualifying [[co-location-anchors|anchor]] store — each hypermarket, home-improvement superstore, and warehouse club that has independently committed capital within 1.0 to 3.0 km of the others — generates one candidate cluster centred on that store's coordinates.
 

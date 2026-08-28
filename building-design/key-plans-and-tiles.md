@@ -3,7 +3,7 @@ schema: foundry-doc-v1
 title: "Key plans and tiles"
 slug: key-plans-and-tiles
 category: building-design
-index_group: the-leasing-geometry
+index_group: floor-plates-and-measurement-standards
 type: topic
 content_type: topic
 quality: pre-build

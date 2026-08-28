@@ -25,14 +25,21 @@ Los Mercados abarca dónde miramos. Esta categoría reúne el conjunto de mercad
 
 <!-- END-START-HERE-HIGHLIGHT -->
 
-## Cobertura de Mercados
+## Metodología de Cobertura
 
-[[about-regional-markets-system|El Sistema de Inteligencia de Mercados Regionales]] es el artículo de referencia del sistema de análisis de co-localización, y [[regional-market-definition|la Definición de Mercado Regional]] establece qué califica a un asentamiento como Mercado Regional en el mapa. El [[co-location-tier-system|Sistema de Niveles de Co-ubicación]] explica la clasificación de cuatro niveles y cómo se aplica en los mercados de América del Norte y Europa. [[atlas-top-400-north-america|El Top 400 — Norteamérica]] y [[atlas-top-400-europe|el Top 400 — Europa]] son los dos conjuntos calificados: cuatrocientos mercados suburbanos de cinturón de desplazamiento diario por continente que cumplen las condiciones de composición de anclas de co-localización. No se publica posición ni puntuación para ningún mercado en ninguno de los dos conjuntos.
+[[about-regional-markets-system|El Sistema de Inteligencia de Mercados Regionales]] es el artículo de referencia del sistema de análisis de co-localización, y [[regional-market-definition|la Definición de Mercado Regional]] establece qué califica a un asentamiento como Mercado Regional en el mapa. El [[co-location-tier-system|Sistema de Niveles de Co-ubicación]] explica la clasificación de cuatro niveles y cómo se aplica en los mercados de América del Norte y Europa.
 
-<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: market-coverage -->
+<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: coverage-methodology -->
 - [[about-regional-markets-system]] — Artículo de referencia sobre el sistema de análisis de co-localización que identifica mercados minoristas suburbanos en América del Norte y Europa.
 - [[regional-market-definition]] — Contenedores espaciales del mapa de inteligencia de ubicaciones — en qué difieren los asentamientos con co-localización de los Regional Markets; cobertura no es demanda.
 - [[co-location-tier-system]] — La clasificación de cuatro niveles — Regional, Distrital, Local, Marginal — asignada a cada clúster de co-ubicación en la plataforma, las compuertas predicativas que la determinan, y cómo se aplica el sistema en los mercados de América del Norte y Europa.
+<!-- END AUTO-GENERATED -->
+
+## El Top 400 de Mercados
+
+[[atlas-top-400-north-america|El Top 400 — Norteamérica]] y [[atlas-top-400-europe|el Top 400 — Europa]] son los dos conjuntos calificados: cuatrocientos mercados suburbanos de cinturón de desplazamiento diario por continente que cumplen las condiciones de composición de anclas de co-localización. No se publica posición ni puntuación para ningún mercado en ninguno de los dos conjuntos.
+
+<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: the-top-400-markets -->
 - [[atlas-top-400-north-america]] — Conjunto de 400 Mercados Regionales suburbanos calificados en América del Norte, que cumplen las condiciones de composición de anclas de co-localización. No se publica posición ni puntuación.
 - [[atlas-top-400-europe]] — Conjunto de 399 Mercados Regionales distintos verificados en Europa a lo largo de 400 posiciones en la lista (una posición vacante en espera de una entrada número 400 genuina), bajo la metodología suburbano-regional corregida. No se publica posición ni puntuación.
 <!-- END AUTO-GENERATED -->
@@ -51,11 +58,11 @@ Siete índices de co-ubicación por país aportan los datos de clúster subyacen
 - [[atlas-co-location-index-nordics]] — Índice clasificado de sitios de convergencia comercial en Suecia, Noruega, Dinamarca, Finlandia e Islandia, anclados por IKEA con operadores secundarios nórdicos.
 <!-- END AUTO-GENERATED -->
 
-## Desgloses por País
+## Top 400 de Mercados por País
 
 Nueve índices de Mercado Regional por país filtran las tablas continentales del Top 400 hasta las entradas de un solo país: [[atlas-canada|Canadá]], [[atlas-united-states|Estados Unidos]], [[atlas-united-kingdom|Reino Unido]], [[atlas-spain|España]], [[atlas-italy|Italia]], [[atlas-poland|Polonia]], [[atlas-greece|Grecia]], [[atlas-croatia|Croacia]] y [[atlas-norway|Noruega]].
 
-<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: country-breakouts -->
+<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: top-400-markets-by-country -->
 - [[atlas-canada]] — Índice de mercados inmobiliarios comerciales regionales canadienses que cumplen los umbrales de selección para co-ubicación.
 - [[atlas-united-states]] — Índice de mercados inmobiliarios comerciales regionales de EE.UU. que cumplen los umbrales de selección para co-ubicación en todas las grandes regiones censales.
 - [[atlas-united-kingdom]] — Índice de mercados inmobiliarios comerciales regionales del Reino Unido fuera de Londres y el Sudeste.

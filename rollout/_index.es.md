@@ -36,11 +36,11 @@ Programa de Desarrollo abarca dónde se planea construir a continuación: el pro
 - [[mx-programme]] — El programa previsto de expansión país por país para México: regiones de desarrollo y un registro de sitios por definir y dar seguimiento a medida que el programa avanza. Estado: planificado.
 <!-- END AUTO-GENERATED -->
 
-## Regiones y Seguimiento
+## Regiones de Desarrollo y Registro de Sitios
 
 [[development-regions|Las Regiones de Desarrollo]] definen las zonas geográficas y jurisdiccionales que segmentan los datos de mercado, el contexto regulatorio y el alcance de la selección de sitios. [[about-development-site-monitoring-register|El Registro de Monitoreo de Sitios de Desarrollo]] es el registro de seguimiento pasivo que conserva los sitios calificados retirados del proceso activo — por indisponibilidad de terreno adyacente, por ejemplo — manteniéndolos puntuados con criterios documentados de reingreso.
 
-<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: regions-and-tracking -->
+<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: development-regions-and-site-register -->
 - [[development-regions]] — Zonas geográficas y jurisdiccionales que segmentan datos de mercado, contexto regulatorio y alcance de selección de sitios para la evaluación de coubicación y cumplimiento.
 - [[about-development-site-monitoring-register]] — Registro de seguimiento pasivo que conserva sitios de co-ubicación calificados retirados del pipeline activo por falta de terreno adyacente, puntuados y con criterios de re-entrada.
 <!-- END AUTO-GENERATED -->

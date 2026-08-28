@@ -5,7 +5,7 @@ title: "Sistema de Inteligencia de Mercados Regionales"
 language: es
 language_protocol: TRANSLATE-ES
 category: markets
-index_group: market-coverage
+index_group: coverage-methodology
 type: reference
 content_type: topic
 quality: complete
@@ -17,8 +17,6 @@ paired_with: markets/about-regional-markets-system.md
 last_edited: 2026-08-26
 editor: editorial
 ---
-
-# Sistema de Inteligencia de Mercados Regionales
 
 El Sistema de Inteligencia de Mercados Regionales es un marco de análisis geográfico de escala continental que identifica mercados minoristas suburbanos — municipios y suburbios con nombre propio situados a distancia de desplazamiento diario de los principales centros metropolitanos — definidos por la convergencia de grandes anclas minoristas, infraestructura cívica y captación demográfica.
 

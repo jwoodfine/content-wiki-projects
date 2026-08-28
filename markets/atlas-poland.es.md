@@ -4,7 +4,7 @@ title: "Polonia — Índice de Mercados Regionales"
 slug: atlas-poland
 category: markets
 type: topic
-index_group: country-breakouts
+index_group: top-400-markets-by-country
 content_type: topic
 quality: complete
 status: active
