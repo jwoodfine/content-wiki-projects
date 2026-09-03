@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Markets"
+title: "Regional Markets"
 slug: markets
 category: markets
 type: topic
@@ -17,7 +17,7 @@ editor: editorial
 paired_with: _index.es.md
 ---
 
-The Markets covers where we look. This category holds the covered market set behind site selection — the Top 400 set, the tier and co-location indices behind them, and a profile page for every market that has one today.
+Regional Markets covers where we look. This category holds the covered market set behind site selection — the Top 400 set, the tier and co-location indices behind them, and a profile page for every market that has one today.
 
 <!-- START-HERE-HIGHLIGHT: engine reads this block to render the single "start here" card (reuses the existing cluster-card--start-here component). Do not add more than one. -->
 

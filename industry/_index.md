@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Woodfine's structural policies"
+title: "Market Position"
 slug: industry-index
 category: industry
 type: topic
@@ -30,4 +30,4 @@ This category does not cover general commercial real estate market economics —
 
 ## See also
 
-- [[markets|The Markets]]
+- [[markets|Regional Markets]]

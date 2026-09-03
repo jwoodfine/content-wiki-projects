@@ -47,7 +47,7 @@ buildings stand in, from classical to contemporary movements.
 of who lives and shops nearby, the scoring, and the tests a site must
 pass before land is bought.
 
-**The Markets** is the atlas: how places are screened, the
+**Regional Markets** is the atlas: how places are screened, the
 country and tier indices, and a profile page for every market — a
 growing collection, one article per place.
 
@@ -59,12 +59,12 @@ are targets and may change.
 
 ## The context
 
-**Woodfine's Structural Policies** covers two of the company's own
+**Market Position** covers two of the company's own
 deliberate market policies: the regional capital gap the Direct-Hold
 Solutions are designed to address, and the under-building discipline
 that preserves pricing power.
 
-**Urban Growth** covers the city-scale forces behind demand:
+**Demand and Demographics** covers the city-scale forces behind demand:
 commuters, the urban fringe, demographics, and parking.
 
 **Maps and Data** documents the spatial data behind the analysis:

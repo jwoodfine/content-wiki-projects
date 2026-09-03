@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Las políticas estructurales de Woodfine"
+title: "Posición de Mercado"
 slug: industry-index
 category: industry
 type: topic
@@ -30,4 +30,4 @@ Esta categoría no cubre la economía general del mercado inmobiliario comercial
 
 ## Véase también
 
-- [[markets|Los Mercados]]
+- [[markets|Mercados Regionales]]

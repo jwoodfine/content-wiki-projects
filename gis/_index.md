@@ -56,4 +56,4 @@ Maps and Data covers the spatial data behind the analysis: where it comes from, 
 ## See also
 
 - [[site-selection-index|Site Selection]]
-- [[markets|The Markets]]
+- [[markets|Regional Markets]]

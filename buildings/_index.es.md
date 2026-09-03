@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Edificios"
+title: "Clases de Desarrollo"
 slug: buildings-index
 category: buildings
 type: topic
@@ -17,7 +17,7 @@ editor: pointsav-engineering
 paired_with: buildings/_index.md
 ---
 
-Edificios nombra lo que realmente construye Woodfine: cuatro clases de desarrollo vigentes hoy, dos más planeadas, y las disciplinas de combinación de inquilinos y adquisiciones que los llenan y abastecen.
+Clases de Desarrollo nombra lo que realmente construye Woodfine: cuatro clases de desarrollo vigentes hoy, dos más planeadas, y las disciplinas de combinación de inquilinos y adquisiciones que los llenan y abastecen.
 
 <!-- START-HERE-HIGHLIGHT: engine reads this block to render the single "start here" card (reuses the existing cluster-card--start-here component). Do not add more than one. -->
 

@@ -15,7 +15,7 @@ companion: >-
 
 categories:
   - id: buildings
-    name: "Buildings"
+    name: "Development Classes"
     scope: >-
       What we build: the six development classes — Professional Centres,
       Suburban Office, Retail Select, Tech Industrial, and the planned
@@ -43,7 +43,7 @@ categories:
     order: 3
 
   - id: markets
-    name: "The Markets"
+    name: "Regional Markets"
     scope: >-
       Where we look: the covered Regional Market universe across North
       America and Europe, the co-location tier system behind it, country
@@ -63,7 +63,7 @@ categories:
     order: 5
 
   - id: industry
-    name: "The Commercial Real Estate Market"
+    name: "Market Position"
     scope: >-
       How the market works: rents and building income, values and
       capitalization rates, market cycles, interest rates, and the
@@ -72,7 +72,7 @@ categories:
     order: 6
 
   - id: urban
-    name: "Urban Growth"
+    name: "Demand and Demographics"
     scope: >-
       The city-scale forces behind demand: commuters, the urban fringe,
       demographics, and parking.

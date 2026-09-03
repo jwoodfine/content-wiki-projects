@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Urban Growth"
+title: "Demand and Demographics"
 slug: urban
 category: urban
 type: topic
@@ -17,7 +17,7 @@ editor: pointsav-engineering
 paired_with: _index.es.md
 ---
 
-Urban Growth covers the city-scale forces behind demand: the co-location archetypes a site can belong to, and the demographic and parking standards that follow from them.
+Demand and Demographics covers the city-scale forces behind demand: the co-location archetypes a site can belong to, and the demographic and parking standards that follow from them.
 
 <!-- START-HERE-HIGHLIGHT: engine reads this block to render the single "start here" card (reuses the existing cluster-card--start-here component). Do not add more than one. -->
 
@@ -47,4 +47,4 @@ Urban Growth covers the city-scale forces behind demand: the co-location archety
 ## See also
 
 - [[site-selection-index|Site Selection]]
-- [[markets|The Markets]]
+- [[markets|Regional Markets]]

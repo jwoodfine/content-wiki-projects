@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Mercados"
+title: "Mercados Regionales"
 slug: markets
 category: markets
 type: topic
@@ -17,7 +17,7 @@ editor: editorial
 paired_with: markets/_index.md
 ---
 
-Los Mercados abarca dónde miramos. Esta categoría reúne el conjunto de mercados cubiertos detrás de la elección de sitios — el conjunto Top 400, los índices de nivel y co-localización que lo sustentan, y una página de perfil para cada mercado que la tiene hoy.
+Mercados Regionales abarca dónde miramos. Esta categoría reúne el conjunto de mercados cubiertos detrás de la elección de sitios — el conjunto Top 400, los índices de nivel y co-localización que lo sustentan, y una página de perfil para cada mercado que la tiene hoy.
 
 <!-- START-HERE-HIGHLIGHT: engine reads this block to render the single "start here" card (reuses the existing cluster-card--start-here component). Do not add more than one. -->
 

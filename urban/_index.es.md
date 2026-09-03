@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Crecimiento Urbano"
+title: "Demanda y Demografía"
 slug: urban
 category: urban
 type: topic
@@ -17,7 +17,7 @@ editor: pointsav-engineering
 paired_with: urban/_index.md
 ---
 
-Crecimiento Urbano abarca las fuerzas a escala urbana detrás de la demanda: los arquetipos de co-ubicación a los que puede pertenecer un sitio, y los estándares demográficos y de estacionamiento que se derivan de ellos.
+Demanda y Demografía abarca las fuerzas a escala urbana detrás de la demanda: los arquetipos de co-ubicación a los que puede pertenecer un sitio, y los estándares demográficos y de estacionamiento que se derivan de ellos.
 
 <!-- START-HERE-HIGHLIGHT: engine reads this block to render the single "start here" card (reuses the existing cluster-card--start-here component). Do not add more than one. -->
 
@@ -47,4 +47,4 @@ Crecimiento Urbano abarca las fuerzas a escala urbana detrás de la demanda: los
 ## Véase también
 
 - [[site-selection-index|Selección de Sitios]]
-- [[markets|Los Mercados]]
+- [[markets|Mercados Regionales]]

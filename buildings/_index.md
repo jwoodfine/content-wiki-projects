@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Buildings"
+title: "Development Classes"
 slug: buildings-index
 category: buildings
 type: topic
@@ -17,7 +17,7 @@ editor: pointsav-engineering
 paired_with: _index.es.md
 ---
 
-Buildings names what Woodfine actually builds: four development classes in force today, two more planned, and the tenant mix and procurement disciplines that fill and supply them.
+Development Classes names what Woodfine actually builds: four development classes in force today, two more planned, and the tenant mix and procurement disciplines that fill and supply them.
 
 <!-- START-HERE-HIGHLIGHT: engine reads this block to render the single "start here" card (reuses the existing cluster-card--start-here component). Do not add more than one. -->
 

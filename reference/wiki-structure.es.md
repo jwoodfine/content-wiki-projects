@@ -53,7 +53,7 @@ contemporáneos.
 análisis de quién vive y compra en las cercanías, la puntuación y las
 pruebas que un sitio debe superar antes de comprar el terreno.
 
-**Los mercados** es el atlas: cómo se criban los lugares,
+**Mercados regionales** es el atlas: cómo se criban los lugares,
 los índices por país y por nivel, y una página de perfil para cada mercado
 — una colección en crecimiento, un artículo por lugar.
 
@@ -66,13 +66,13 @@ cambiar.
 
 ## El contexto
 
-**Las políticas estructurales de Woodfine** cubre dos políticas de
+**Posición de mercado** cubre dos políticas de
 mercado propias y deliberadas de la empresa: la brecha de capital
 regional que las Soluciones de Tenencia Directa están diseñadas para
 abordar, y la disciplina de construir por debajo de la demanda que
 preserva el poder de fijación de precios.
 
-**Crecimiento urbano** trata las fuerzas a escala urbana que hay
+**Demanda y demografía** trata las fuerzas a escala urbana que hay
 detrás de la demanda: los desplazamientos al trabajo, la periferia urbana,
 la demografía y el aparcamiento.
 

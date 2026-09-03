@@ -21,7 +21,7 @@ Glossary and Reference covers the terminology and standard definitions used acro
 
 ## Glossaries
 
-[[site-selection-terminology|Site Selection Terminology]] defines the vocabulary of choosing where to build — Qualified Investment, Power Centre, Campus Design, and the Primary–Tertiary target tiers. [[gis-cluster-scoring-glossary|The Cluster Scoring Glossary]] defines the anchor taxonomy, tier definitions (Regional, District, Local, Fringe), and radius convention behind the geographic co-location scoring system described in [[markets|The Markets]] and [[site-selection-index|Site Selection]].
+[[site-selection-terminology|Site Selection Terminology]] defines the vocabulary of choosing where to build — Qualified Investment, Power Centre, Campus Design, and the Primary–Tertiary target tiers. [[gis-cluster-scoring-glossary|The Cluster Scoring Glossary]] defines the anchor taxonomy, tier definitions (Regional, District, Local, Fringe), and radius convention behind the geographic co-location scoring system described in [[markets|Regional Markets]] and [[site-selection-index|Site Selection]].
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: glossaries -->
 - [[site-selection-terminology]] — Glossary of Woodfine site selection and development terms, including Qualified Investment, Power Centre, Campus Design, and the Primary–Tertiary target tiers.

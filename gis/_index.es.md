@@ -56,4 +56,4 @@ Mapas y Datos abarca los datos espaciales detrás del análisis: de dónde provi
 ## Véase también
 
 - [[site-selection-index|Selección de Sitios]]
-- [[markets|Los Mercados]]
+- [[markets|Mercados Regionales]]
