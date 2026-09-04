@@ -33,5 +33,5 @@ Glosario y Referencia abarca la terminología y las definiciones estándar utili
 [[wiki-structure|Cómo Está Organizada Esta Wiki]] es un tipo de referencia distinto — un mapa para el lector de las categorías de la wiki, en lugar de la definición de un término — que se mantiene aquí hasta que exista una ubicación de orientación dedicada.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: orientation -->
-- [[wiki-structure]] — 
+- [[wiki-structure]] — Un mapa para el lector: esta base de conocimiento reúne la mitad de la historia de la empresa que trata de los edificios y los lugares — qué se construye, cómo se diseña, cómo se eligen los sitios, los mercados y dónde está previsto construir a continuación — mientras que la mitad de la empresa y el dinero vive en la base de conocimiento corporativa complementaria. 
 <!-- END AUTO-GENERATED -->

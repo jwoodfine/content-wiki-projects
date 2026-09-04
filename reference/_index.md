@@ -33,5 +33,5 @@ Glossary and Reference covers the terminology and standard definitions used acro
 [[wiki-structure|How This Wiki Is Organized]] is a different kind of reference — a reader's map to the wiki's categories, rather than a term definition — kept here until a dedicated orientation location exists.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: orientation -->
-- [[wiki-structure]] — 
+- [[wiki-structure]] — A reader's map: this knowledge base carries the buildings-and-places half of the company's story — what is built, how it is designed, how sites are chosen, the markets, and where building is planned next — with the company-and-money half in the companion corporate knowledge base. 
 <!-- END AUTO-GENERATED -->
