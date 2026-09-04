@@ -12,7 +12,7 @@ index_scope: markets
 status: active
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-26
+last_edited: 2026-09-04
 editor: editorial
 paired_with: markets/_index.md
 ---
@@ -40,8 +40,8 @@ Mercados Regionales abarca dónde miramos. Esta categoría reúne el conjunto de
 [[atlas-top-400-north-america|El Top 400 — Norteamérica]] y [[atlas-top-400-europe|el Top 400 — Europa]] son los dos conjuntos calificados: cuatrocientos mercados suburbanos de cinturón de desplazamiento diario por continente que cumplen las condiciones de composición de anclas de co-localización. No se publica posición ni puntuación para ningún mercado en ninguno de los dos conjuntos.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: the-top-400-markets -->
-- [[atlas-top-400-north-america]] — Conjunto de 400 Mercados Regionales suburbanos calificados en América del Norte, que cumplen las condiciones de composición de anclas de co-localización. No se publica posición ni puntuación.
-- [[atlas-top-400-europe]] — Conjunto de 399 Mercados Regionales distintos verificados en Europa a lo largo de 400 posiciones en la lista (una posición vacante en espera de una entrada número 400 genuina), bajo la metodología suburbano-regional corregida. No se publica posición ni puntuación.
+- [[atlas-top-400-north-america]] — Conjunto de los 400 Mercados Regionales suburbanos calificados en América del Norte. No se publica posición ni puntuación; Plano, TX es una entrada (suburbio de Dallas).
+- [[atlas-top-400-europe]] — Conjunto de 399 Mercados Regionales distintos verificados en Europa a lo largo de 400 posiciones en la lista (una posición vacante en espera de una entrada número 400 genuina), bajo la metodología suburbano-regional corregida. No se publica posición ni puntuación; Chemnitz es una entrada (suburbio de Dresden, 64 km).
 <!-- END AUTO-GENERATED -->
 
 ## Índices de Co-ubicación por País
@@ -49,13 +49,13 @@ Mercados Regionales abarca dónde miramos. Esta categoría reúne el conjunto de
 Siete índices de co-ubicación por país aportan los datos de clúster subyacentes sobre los que se construyen las clasificaciones continentales, cada uno clasificando la convergencia de anclas nombradas nodo por nodo dentro de su propio país: [[atlas-co-location-index-us|Estados Unidos]], [[atlas-co-location-index-canada|Canadá]], [[atlas-co-location-index-mexico|México]], [[atlas-co-location-index-spain|España]], [[atlas-co-location-index-italy|Italia]], [[atlas-co-location-index-poland|Polonia]] y [[atlas-co-location-index-nordics|los Países Nórdicos]].
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: co-location-indices-by-country -->
-- [[atlas-co-location-index-us]] — Índice clasificado de los principales nodos de co-ubicación en Estados Unidos, evaluado por la metodología de ancla nombrada en ubicaciones ancla Walmart Supercentre.
-- [[atlas-co-location-index-canada]] — Índice clasificado de nodos de co-ubicación de alto valor en Canadá, evaluando sitios ancla Walmart Supercentre por proximidad a Costco, Home Depot e infraestructura cívica.
-- [[atlas-co-location-index-mexico]] — Índice clasificado de los principales nodos de convergencia comercial en México, identificando sitios donde los anclas Walmart Supercentre se agrupan con Home Depot, Costco e infraestructura cívica.
-- [[atlas-co-location-index-spain]] — Índice clasificado de nodos de co-ubicación en España, anclados por IKEA con validación secundaria de Leroy Merlin y Makro en la Península Ibérica.
-- [[atlas-co-location-index-italy]] — Índice clasificado de nodos de co-ubicación de grado institucional en Italia, centrado en ubicaciones ancla IKEA con convergencia secundaria de Leroy Merlin y Makro.
-- [[atlas-co-location-index-poland]] — Índice clasificado de nodos de convergencia comercial de alto crecimiento en Polonia, donde los anclas IKEA se agrupan con Makro, Leroy Merlin, Auchan e infraestructura cívica.
-- [[atlas-co-location-index-nordics]] — Índice clasificado de sitios de convergencia comercial en Suecia, Noruega, Dinamarca, Finlandia e Islandia, anclados por IKEA con operadores secundarios nórdicos.
+- [[atlas-co-location-index-us]] — Índice de los principales nodos de co-ubicación en Estados Unidos, evaluado por la metodología de ancla nombrada en ubicaciones ancla Walmart Supercentre.
+- [[atlas-co-location-index-canada]] — Índice de nodos de co-ubicación de alto valor en Canadá, evaluando sitios ancla Walmart Supercentre por proximidad a Costco, Home Depot e infraestructura cívica.
+- [[atlas-co-location-index-mexico]] — Índice de los principales nodos de convergencia comercial en México, identificando sitios donde las anclas Walmart Supercentre se agrupan con Home Depot, Costco e infraestructura cívica.
+- [[atlas-co-location-index-spain]] — Índice de nodos de co-ubicación en España, anclados por IKEA con validación secundaria de Leroy Merlin y Makro en la Península Ibérica.
+- [[atlas-co-location-index-italy]] — Índice de nodos de co-ubicación de grado institucional en Italia, centrado en ubicaciones ancla IKEA con convergencia secundaria de Leroy Merlin y Makro.
+- [[atlas-co-location-index-poland]] — Índice de nodos de convergencia comercial de alto crecimiento en Polonia, donde las anclas IKEA se agrupan con Makro, Leroy Merlin, Auchan e infraestructura cívica.
+- [[atlas-co-location-index-nordics]] — Índice de sitios de convergencia comercial en Suecia, Noruega, Dinamarca, Finlandia e Islandia, anclados por IKEA con operadores secundarios nórdicos.
 <!-- END AUTO-GENERATED -->
 
 ## Top 400 de Mercados por País
@@ -63,15 +63,15 @@ Siete índices de co-ubicación por país aportan los datos de clúster subyacen
 Nueve índices de Mercado Regional por país filtran las tablas continentales del Top 400 hasta las entradas de un solo país: [[atlas-canada|Canadá]], [[atlas-united-states|Estados Unidos]], [[atlas-united-kingdom|Reino Unido]], [[atlas-spain|España]], [[atlas-italy|Italia]], [[atlas-poland|Polonia]], [[atlas-greece|Grecia]], [[atlas-croatia|Croacia]] y [[atlas-norway|Noruega]].
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: top-400-markets-by-country -->
-- [[atlas-canada]] — Índice de mercados inmobiliarios comerciales regionales canadienses que cumplen los umbrales de selección para co-ubicación.
-- [[atlas-united-states]] — Índice de mercados inmobiliarios comerciales regionales de EE.UU. que cumplen los umbrales de selección para co-ubicación en todas las grandes regiones censales.
+- [[atlas-canada]] — Índice de mercados inmobiliarios comerciales regionales canadienses que cumplen las puertas de composición de co-ubicación.
+- [[atlas-united-states]] — Índice de mercados inmobiliarios comerciales regionales de EE.UU. que cumplen las puertas de composición de co-ubicación en todas las grandes regiones censales.
 - [[atlas-united-kingdom]] — Índice de mercados inmobiliarios comerciales regionales del Reino Unido fuera de Londres y el Sudeste.
-- [[atlas-spain]] — Índice de mercados inmobiliarios comerciales regionales españoles que cumplen los umbrales de selección para co-ubicación.
-- [[atlas-italy]] — Índice de las 21 entradas italianas en la lista Top 400 Mercados Regionales — Europa, filtrado de la tabla continental con agrupaciones por referencia metropolitana.
-- [[atlas-poland]] — Índice de las 16 entradas polacas en la lista Top 400 Mercados Regionales — Europa, filtrado de la tabla continental con agrupaciones por referencia metropolitana.
-- [[atlas-greece]] — Índice de las 7 entradas griegas en la lista Top 400 Mercados Regionales — Europa; página de país de lote piloto con 7 nuevos perfiles de mercado en borrador, construida el 25-08-2026.
-- [[atlas-croatia]] — Índice de las 9 entradas croatas en la lista Top 400 Mercados Regionales — Europa; página de país con 9 nuevos perfiles de mercado en borrador, construida el 25-08-2026, siguiendo la plantilla fijada wave-1.5.
-- [[atlas-norway]] — Índice de las 9 entradas noruegas en la lista Top 400 Mercados Regionales — Europa; página de país con 9 nuevos perfiles de mercado en borrador, construida el 25-08-2026, siguiendo la plantilla fijada wave-1.5.
+- [[atlas-spain]] — Índice de mercados inmobiliarios comerciales regionales españoles que cumplen las puertas de composición de co-ubicación.
+- [[atlas-italy]] — Índice de las 21 entradas italianas en el conjunto Top 400 Mercados Regionales — Europa, filtrado de la tabla continental con agrupaciones por referencia metropolitana.
+- [[atlas-poland]] — Índice de las 16 entradas polacas en el conjunto Top 400 Mercados Regionales — Europa, filtrado de la tabla continental con agrupaciones por referencia metropolitana.
+- [[atlas-greece]] — Índice de los siete Mercados Regionales de Grecia que cumplen las puertas de composición de co-ubicación bajo el conjunto de datos del 07-08-2026.
+- [[atlas-croatia]] — Índice de los nueve Mercados Regionales de Croacia que cumplen las puertas de composición de co-ubicación bajo el conjunto de datos del 07-08-2026.
+- [[atlas-norway]] — Índice de los nueve Mercados Regionales de Noruega que cumplen las puertas de composición de co-ubicación bajo el conjunto de datos del 07-08-2026.
 <!-- END AUTO-GENERATED -->
 
 ## Perfiles de Mercado
@@ -134,47 +134,47 @@ de datos activo del 2026-08-07 y los retiros del 2026-08-17 es 16 verificadas / 
 referencia / 9 retiradas (41 en total).
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: market-profiles -->
-- [[ca-ab-lethbridge]] — Mercado del sur de Alberta, a 215 km de Calgary — fuera del conjunto Top-400 actual.
-- [[ca-bc-kelowna]] — Mercado del valle de Okanagan, a 390 km de Vancouver — fuera del conjunto Top-400 actual.
-- [[ca-nb-moncton]] — Centro comercial de la Canadá marítima — fuera del conjunto Top-400 actual (sin núcleo metropolitano dominante cercano).
-- [[ca-on-barrie-innisfil]] — Mercado del centro de Ontario, a 90 km de Toronto — justo fuera de la banda de 80 km del conjunto Top-400 actual.
-- [[ca-on-mississauga]] — Mercado Regional de América del Norte — suburbio de Toronto, 24,9 km; 2 clústeres de nivel Regional, 1 de nivel Distrito y 2 de nivel Local.
-- [[ca-sk-regina]] — Capital provincial de Saskatchewan — fuera del conjunto Top-400 actual (sin núcleo metropolitano cercano).
-- [[de-bw-ulm]] — Ciudad de Baden-Württemberg que funciona como punto de referencia metropolitano para los mercados suburbanos circundantes — no está en el conjunto Top-400.
-- [[de-by-augsburg]] — Ciudad bávara que funciona como punto de referencia metropolitano para los mercados suburbanos circundantes — no está en el conjunto Top-400.
-- [[de-by-nurnberg]] — Punto de referencia metropolitano bávaro para los mercados suburbanos circundantes — no está en el conjunto Top-400.
-- [[de-nw-bielefeld]] — Ciudad de Renania del Norte-Westfalia que funciona como punto de referencia metropolitano para los mercados suburbanos circundantes — no está en el conjunto Top-400.
-- [[de-nw-krefeld]] — Mercado Regional de Europa — suburbio de Düsseldorf, 19,4 km; 2 clústeres de nivel Regional.
-- [[de-rp-kaiserslautern]] — Mercado Regional de Europa — suburbio de Mannheim, 54 km; 2 clústeres de nivel Regional.
-- [[de-th-erfurt]] — Capital estatal de Turingia — fuera del conjunto Top-400 actual (sin núcleo metropolitano cercano).
-- [[es-ar-zaragoza-secondary]] — Capital regional de Aragón, a unos 300 km tanto de Madrid como de Barcelona y Valencia — fuera del conjunto Top-400 actual.
-- [[es-cl-burgos]] — Ciudad de Castilla y León, a 244 km de Madrid — fuera del conjunto Top-400 actual.
-- [[es-cl-valladolid]] — La ciudad más grande de Castilla y León, a 235 km de Madrid — fuera del conjunto Top-400 actual.
-- [[es-nc-pamplona]] — Capital regional de Navarra, a 117 km de Bilbao — fuera del conjunto Top-400 actual.
-- [[es-pv-vitoria-gasteiz]] — Capital del País Vasco — fuera del conjunto Top-400 actual (sin núcleo metropolitano cercano en el conjunto de datos).
-- [[fr-chambery]] — Mercado Regional de Europa — suburbio de Grenoble; 1 clúster de nivel Regional y 1 de nivel Local.
-- [[gb-eng-cherwell]] — Mercado Regional de Europa — suburbio de Oxford; 2 clústeres de nivel Local.
+- [[ca-ab-lethbridge]] — Mercado del sur de Alberta, a 215 km de Calgary — fuera del conjunto de calificación Top-400 actual.
+- [[ca-bc-kelowna]] — Mercado del valle de Okanagan, a 390 km de Vancouver — fuera del conjunto de calificación Top-400 actual.
+- [[ca-nb-moncton]] — Centro comercial de la Canadá marítima — fuera del conjunto de calificación Top-400 actual (sin núcleo metropolitano dominante cercano).
+- [[ca-on-barrie-innisfil]] — Mercado del centro de Ontario, a 90 km de Toronto — justo fuera de la banda de 80 km del conjunto de calificación Top-400 actual.
+- [[ca-on-mississauga]] — Mercado Regional de América del Norte — suburbio de Toronto, 24,9 km; 2 clústeres de Nivel Regional, 1 de Nivel Distrito y 2 de Nivel Local.
+- [[ca-sk-regina]] — Capital provincial de Saskatchewan — fuera del conjunto de calificación Top-400 actual (sin núcleo metropolitano cercano).
+- [[de-bw-ulm]] — Ciudad de Baden-Württemberg que funciona como punto de referencia metropolitano para los mercados suburbanos circundantes — no está en el conjunto de calificación Top-400.
+- [[de-by-augsburg]] — Ciudad bávara que funciona como punto de referencia metropolitano para los mercados suburbanos circundantes — no está en el conjunto de calificación Top-400.
+- [[de-by-nurnberg]] — Punto de referencia metropolitano bávaro para los mercados suburbanos circundantes — no está en el conjunto de calificación Top-400.
+- [[de-nw-bielefeld]] — Ciudad de Renania del Norte-Westfalia que funciona como punto de referencia metropolitano para los mercados suburbanos circundantes — no está en el conjunto de calificación Top-400.
+- [[de-nw-krefeld]] — Mercado Regional europeo — suburbio de Düsseldorf, 19,4 km; 2 clústeres de co-localización de Nivel Regional.
+- [[de-rp-kaiserslautern]] — Mercado Regional en Europa — suburbio de Mannheim, 54 km; 2 clústeres de nivel Regional con ancla cívica confirmada.
+- [[de-th-erfurt]] — Capital estatal de Turingia — fuera del conjunto de calificación Top-400 actual (sin núcleo metropolitano cercano).
+- [[es-ar-zaragoza-secondary]] — Capital regional de Aragón, a unos 300 km tanto de Madrid como de Barcelona y Valencia — fuera del conjunto de calificación Top-400 actual.
+- [[es-cl-burgos]] — Ciudad de Castilla y León, a 244 km de Madrid — fuera del conjunto de calificación Top-400 actual.
+- [[es-cl-valladolid]] — La ciudad más grande de Castilla y León, a 235 km de Madrid — fuera del conjunto de calificación Top-400 actual.
+- [[es-nc-pamplona]] — Capital regional de Navarra, a 117 km de Bilbao — fuera del conjunto de calificación Top-400 actual.
+- [[es-pv-vitoria-gasteiz]] — Capital del País Vasco — fuera del conjunto de calificación Top-400 actual (sin núcleo metropolitano cercano en el conjunto de datos).
+- [[fr-chambery]] — Mercado Regional europeo — suburbio de Grenoble; 1 clúster de Nivel Regional y 1 de Nivel Local.
+- [[gb-eng-cherwell]] — Mercado Regional europeo — suburbio de Oxford; 2 clústeres de Nivel Local.
 - [[gb-eng-chester]] — Ciudad histórica de Cheshire, a 30-40 millas de Liverpool — no es actualmente una entrada Top-400 pese a situarse dentro de la banda de distancia suburbano-regional.
-- [[gb-eng-northampton]] — Mercado Regional de Europa — suburbio de Coventry; 2 clústeres de nivel Local.
-- [[gb-eng-warrington]] — Mercado Regional de Europa — suburbio de Wigan; 1 clúster de nivel Distrito y 1 de nivel Local.
-- [[gb-eng-york]] — Mercado Regional de Europa — suburbio de Leeds; 1 clúster de nivel Distrito y 2 de nivel Local.
-- [[gb-sct-inverness]] — Capital de las Tierras Altas escocesas, muy fuera de distancia de cercanías de Edimburgo o Glasgow — fuera del conjunto Top-400 actual.
-- [[nl-breda]] — Mercado Regional de Europa — suburbio de Róterdam; 1 clúster de nivel Regional y 1 de nivel Local.
-- [[pl-bielsko-biala]] — Mercado Regional de Europa — suburbio de Katowice, 48 km; 2 clústeres de nivel Regional.
-- [[se-jarfalla]] — Mercado Regional de Europa — suburbio de Estocolmo; 1 clúster de nivel Regional.
-- [[us-az-tempe]] — Mercado Regional de América del Norte — suburbio de Phoenix; 1 clúster de nivel Regional y 2 de nivel Local.
-- [[us-ca-torrance]] — Mercado Regional de América del Norte — suburbio de Los Ángeles; 1 clúster de nivel Regional.
-- [[us-co-colorado-springs]] — Punto de referencia metropolitano de Colorado para un mercado suburbano circundante — no está en el conjunto Top-400.
-- [[us-co-fort-collins]] — Mercado del norte de Colorado, a 60 millas de Denver — fuera del conjunto Top-400 actual.
-- [[us-ks-wichita]] — La ciudad más grande de Kansas, muy fuera de distancia de cercanías de cualquier metrópoli importante — fuera del conjunto Top-400 actual.
-- [[us-la-kenner]] — Mercado Regional de América del Norte — suburbio de Nueva Orleans; 1 clúster de nivel Distrito y 1 de nivel Local.
-- [[us-mn-eagan]] — Mercado Regional de América del Norte — suburbio de Minneapolis; 1 clúster de nivel Regional.
-- [[us-sc-greenville-spartanburg]] — Punto de referencia metropolitano de la región Upstate de Carolina del Sur para los mercados suburbanos circundantes — no está en el conjunto Top-400.
-- [[us-tx-frisco]] — Mercado Regional de América del Norte — suburbio de Dallas, 44 km; 3 clústeres de nivel Regional y 1 de nivel Distrito.
-- [[us-tx-plano]] — Mercado Regional de América del Norte — suburbio de Dallas, 28,1 km; 3 clústeres de nivel Regional, 2 de nivel Distrito y 1 de nivel Local.
-- [[us-ut-provo-orem]] — Mercado Regional de América del Norte — suburbio de Salt Lake City; 1 clúster de nivel Regional.
-- [[us-wa-spokane]] — Segunda ciudad más grande del este de Washington, a 280 millas de Seattle — fuera del conjunto Top-400 actual.
-- [[us-wi-madison]] — Capital y segunda ciudad más grande de Wisconsin, a 77 millas de Milwaukee — fuera del conjunto Top-400 actual.
+- [[gb-eng-northampton]] — Mercado Regional en Europa — suburbio de Coventry; 2 clústeres de nivel Local.
+- [[gb-eng-warrington]] — Mercado Regional en Europa — suburbio de Wigan; 1 clúster de nivel District y 1 de nivel Local.
+- [[gb-eng-york]] — Mercado Regional en Europa — suburbio de Leeds; 1 clúster de nivel District y 2 de nivel Local.
+- [[gb-sct-inverness]] — Capital de las Tierras Altas escocesas, muy fuera de distancia de cercanías de Edimburgo o Glasgow — fuera del conjunto de calificación Top-400 actual.
+- [[nl-breda]] — Mercado Regional en Europa — suburbio de Róterdam; 1 clúster de nivel Regional y 1 de nivel Local.
+- [[pl-bielsko-biala]] — Mercado Regional en Europa — suburbio de Katowice, 48 km; 2 clústeres de nivel Regional con ancla cívica confirmada.
+- [[se-jarfalla]] — Mercado Regional en Europa — suburbio de Estocolmo; 1 clúster de nivel Regional.
+- [[us-az-tempe]] — Mercado Regional en América del Norte — suburbio de Phoenix; 1 clúster de nivel Regional y 2 de nivel Local.
+- [[us-ca-torrance]] — Mercado Regional de América del Norte — suburbio de Los Ángeles; 1 clúster de co-localización de Nivel Regional.
+- [[us-co-colorado-springs]] — Punto de referencia metropolitano de Colorado para un mercado suburbano circundante — no está en el conjunto de calificación Top-400.
+- [[us-co-fort-collins]] — Mercado del norte de Colorado, a 60 millas de Denver — fuera del conjunto de calificación Top-400 actual.
+- [[us-ks-wichita]] — La ciudad más grande de Kansas, muy fuera de distancia de cercanías de cualquier metrópoli importante — fuera del conjunto de calificación Top-400 actual.
+- [[us-la-kenner]] — Mercado Regional en América del Norte — suburbio de Nueva Orleans; 1 clúster de nivel District y 1 de nivel Local.
+- [[us-mn-eagan]] — Mercado Regional en América del Norte — suburbio de Minneapolis; 1 clúster de nivel Regional.
+- [[us-sc-greenville-spartanburg]] — Punto de referencia metropolitano de la región Upstate de Carolina del Sur para los mercados suburbanos circundantes — no está en el conjunto de calificación Top-400.
+- [[us-tx-frisco]] — Mercado Regional en América del Norte — suburbio de Dallas, 44 km; 3 clústeres de nivel Regional y 1 de nivel District con ancla cívica confirmada.
+- [[us-tx-plano]] — Mercado Regional de América del Norte — suburbio de Dallas, 28,1 km; 3 clústeres de Nivel Regional, 2 de Nivel Distrito y 1 de Nivel Local.
+- [[us-ut-provo-orem]] — Mercado Regional en América del Norte — suburbio de Salt Lake City; 1 clúster de nivel Regional.
+- [[us-wa-spokane]] — Segunda ciudad más grande del este de Washington, a 280 millas de Seattle — fuera del conjunto de calificación Top-400 actual.
+- [[us-wi-madison]] — Capital y segunda ciudad más grande de Wisconsin, a 77 millas de Milwaukee — fuera del conjunto de calificación Top-400 actual.
 <!-- END AUTO-GENERATED -->
 
 ## Sustituidos y Retirados
@@ -184,9 +184,9 @@ Dos artículos de "Mercados Regionales" preceden al sistema actual de co-ubicaci
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: superseded-and-retired -->
 - [[about-regional-markets]] — SUSTITUIDO (2026-07-10) — véase about-regional-markets-system para el marco actual. La definición anterior describía una matriz de inversión de ciudades independientes más estrecha (población de 50.000-300.000, explícitamente no suburbios metropolitanos), previa al sistema actual de co-ubicación suburbana de 18 países.
 - **la Matriz de Mercado Regional** — SUSTITUIDO (2026-07-10), archivado — véase about-regional-markets-system para el marco actual. La definición anterior describía la matriz de tenencia directa de 8 mercados objetivo de MCorp, previa al sistema actual de co-ubicación suburbana de 18 países.
-- [[atlas-france]] — RETIRADO (2026-08-17) — Francia está excluida deliberadamente de la metodología vigente de Mercados Regionales (fijada el 2026-06-30). El contenido siguiente es histórico y no forma parte del conjunto Top 400 actual.
-- [[atlas-germany]] — RETIRADO (2026-08-17) — Alemania está excluida deliberadamente de la metodología vigente de Mercados Regionales (fijada el 2026-06-30). El contenido siguiente es histórico y no forma parte del conjunto Top 400 actual.
-- [[atlas-netherlands]] — RETIRADO (2026-08-17) — Países Bajos está excluido deliberadamente de la metodología vigente de Mercados Regionales (fijada el 2026-06-30). El contenido siguiente es histórico y no forma parte del conjunto Top 400 actual.
+- [[atlas-france]] — RETIRADO (2026-08-17) — Francia está excluida deliberadamente de la metodología vigente de Mercados Regionales (fijada el 2026-06-30). El contenido siguiente es histórico y no forma parte del conjunto Top 400 vigente.
+- [[atlas-germany]] — RETIRADO (2026-08-17) — Alemania está excluida deliberadamente de la metodología vigente de Mercados Regionales (fijada el 2026-06-30). El contenido siguiente es histórico y no forma parte del conjunto Top 400 vigente.
+- [[atlas-netherlands]] — RETIRADO (2026-08-17) — Países Bajos está excluido deliberadamente de la metodología vigente de Mercados Regionales (fijada el 2026-06-30). El contenido siguiente es histórico y no forma parte del conjunto Top 400 vigente.
 <!-- END AUTO-GENERATED -->
 
 ## Véase también
