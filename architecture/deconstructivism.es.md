@@ -51,6 +51,8 @@ El Walt Disney Concert Hall de Frank Gehry en Los Ángeles (2003) funciona de ma
 
 Para la evaluación de inmobiliario comercial, la pregunta es si un edificio deconstructivista en un nodo dado genera suficiente tráfico de visitantes y posicionamiento de distrito para sustentar los usos comerciales colocalizados. La respuesta depende del peso institucional — un gran museo nacional ancla la [[co-location-strategy|colocalización comercial]] de manera más efectiva que una instalación regional menor. Las características formales del edificio son secundarias respecto a su perfil institucional y su volumen de visitantes.
 
----
+## Véase también
 
-*citas: [[contemporary-architecture|arquitectura contemporánea]], [[neo-futurism|neo-futurismo]], [[postmodern-architecture|arquitectura posmoderna]]*
+- [[contemporary-architecture|arquitectura contemporánea]]
+- [[neo-futurism|neo-futurismo]]
+- [[postmodern-architecture|arquitectura posmoderna]]

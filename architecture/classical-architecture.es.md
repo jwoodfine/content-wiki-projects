@@ -60,6 +60,8 @@ Los edificios clásicos patrimoniales en los núcleos financieros consolidados a
 
 Los requisitos de capital de los edificios clásicos patrimoniales son distintos. Las fachadas de mampostería requieren rejuntado periódico, limpieza y reparación de cantería que no aplica a los edificios de fachada ligera. La sustitución de ventanas que preserven el carácter patrimonial está condicionada y es más costosa que la sustitución comercial estándar. La sustitución de sistemas mecánicos en edificios con grandes alturas de planta a planta y plantas profundas presenta desafíos logísticos ausentes en construcciones más recientes. Estos costes quedan compensados, en las jurisdicciones que los contemplan, por incentivos fiscales patrimoniales y la prima de renta que confiere la designación patrimonial.
 
----
+## Véase también
 
-*citas: [[neoclassical-architecture|arquitectura neoclásica]], [[new-classical-architecture|nueva arquitectura clásica]], [[contextual-architecture|arquitectura contextual]]*
+- [[neoclassical-architecture|arquitectura neoclásica]]
+- [[new-classical-architecture|nueva arquitectura clásica]]
+- [[contextual-architecture|arquitectura contextual]]

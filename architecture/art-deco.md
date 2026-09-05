@@ -71,6 +71,8 @@ The most effective co-location nodes adjacent to Art Deco commercial precincts a
 
 Art Deco architecture is followed in the North American commercial building chronology by the modernist buildings of the 1950s and 1960s. Those buildings replaced much of the pre-war commercial stock in primary markets, but left many secondary market Art Deco buildings intact. The survival rate of Art Deco commercial buildings is higher in secondary markets than in primary markets. This is one factor that makes secondary market downtowns visually distinctive and commercially differentiated from the standardised suburban commercial corridors that surround them.
 
----
+## See also
 
-*cites: [[contextual-architecture]], [[vernacular-architecture]], [[new-urbanism]]*
+- [[contextual-architecture]]
+- [[vernacular-architecture]]
+- [[new-urbanism]]

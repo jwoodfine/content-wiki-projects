@@ -25,7 +25,7 @@ thesis_alignment: "La arquitectura comercial posmoderna produjo los edificios de
 keynote: false
 ---
 
-La arquitectura posmoderna surgió a finales de los años cincuenta como reacción contra los fallos percibidos del [[modern-architecture|movimiento modernista]] que había dominado la práctica arquitectónica desde los años veinte. Donde el modernismo rechazaba el ornamento histórico, exigía uniformidad e insistía en que la forma siguiera a la función, la arquitectura posmoderna propuso la complejidad, la contradicción, la referencia histórica y la respuesta contextual. El movimiento floreció especialmente desde los años ochenta hasta finales de los noventa en la edificación comercial, institucional y residencial de Norteamérica y Europa.
+La arquitectura posmoderna surgió en los años sesenta y setenta como reacción contra los fallos percibidos del [[modern-architecture|movimiento modernista]] que había dominado la práctica arquitectónica desde los años veinte. Donde el modernismo rechazaba el ornamento histórico, exigía uniformidad e insistía en que la forma siguiera a la función, la arquitectura posmoderna propuso la complejidad, la contradicción, la referencia histórica y la respuesta contextual. El movimiento floreció especialmente desde los años ochenta hasta finales de los noventa en la edificación comercial, institucional y residencial de Norteamérica y Europa.
 
 ## Venturi y el alegato contra el modernismo
 
@@ -63,6 +63,8 @@ La trayectoria del arquitecto Philip Johnson trazó con precisión la transició
 
 Estos edificios de oficinas posmodernos del mercado primario no se replican directamente en los mercados secundarios — los edificios de los mercados secundarios son demasiado pequeños y sus presupuestos demasiado limitados para programas ornamentales elaborados — pero el vocabulario formal de referencia histórica, tratamiento ornamental de la cubierta y variedad contextual que los edificios de Johnson establecieron se convirtió en la plantilla para los edificios comerciales suburbanos que se construyeron en los mercados secundarios durante los años ochenta y noventa.
 
----
+## Véase también
 
-*cites: [[modern-architecture]], [[contextual-architecture]], [[vernacular-architecture]]*
+- [[modern-architecture]]
+- [[contextual-architecture]]
+- [[vernacular-architecture]]

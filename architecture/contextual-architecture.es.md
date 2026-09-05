@@ -76,6 +76,8 @@ Los requisitos contextuales se formalizan frecuentemente a través de designacio
 
 Estos marcos normativos generan tanto riesgo como protección para el inmobiliario comercial en zonas contextuales. El riesgo es que los planes de renovación deben satisfacer criterios normativos que pueden restringir la elección de materiales, las modificaciones de volumen o la señalización. La protección es que la normativa contextual limita el grado en que un propietario adyacente puede introducir un desarrollo incompatible que dañe la coherencia del nodo y el valor a largo plazo del activo.
 
----
+## Véase también
 
-*citas: [[vernacular-architecture|arquitectura vernácula]], [[co-location-strategy|estrategia de colocalización]], [[boma-standard|estándar boma]]*
+- [[vernacular-architecture|arquitectura vernácula]]
+- [[co-location-strategy|estrategia de colocalización]]
+- [[boma-standard|estándar boma]]

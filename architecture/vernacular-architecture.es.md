@@ -56,6 +56,8 @@ Los edificios comerciales vernáculos en zonas de mercado consolidadas están fr
 
 El carácter regional de la arquitectura comercial vernácula refleja las tradiciones materiales y artesanales de geografías específicas. El vernáculo de las praderas en el oeste de Canadá emplea materiales y proporciones distintos al vernáculo atlántico; el vernáculo toscano difiere del flamenco. Esta especificidad regional es consecuencia de la disponibilidad local de materiales y del clima, no de una preferencia estilística. Para los propósitos de evaluación de activos, las características relevantes son las estructurales y operativas, no las estilísticas.
 
----
+## Véase también
 
-*citas: [[co-location-strategy|estrategia de colocalización]], [[boma-standard|estándar boma]], [[about-development-classes|clases de desarrollo]]*
+- [[co-location-strategy|estrategia de colocalización]]
+- [[boma-standard|estándar boma]]
+- [[about-development-classes|clases de desarrollo]]

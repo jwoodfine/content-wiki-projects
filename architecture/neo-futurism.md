@@ -31,14 +31,7 @@ The movement was partially revitalised in 2007 following the publication of the 
 
 ## Influences and definition
 
-Neo-futurism drew from the earlier 20th-century Italian Futurist movement, whose architect Antonio Sant'Elia proposed radical visions of mechanised cities in the 1910s. The direct architectural predecessors include Archigram, the British avant-garde group (Peter Cook, Warren Chalk, Ron Herron, Dennis Crompton, Michael Webb, David Greene, Jan Kaplický). Their "Plug-in City" proposals from the 1960s imagined modular, technologically serviced urban environments. Eero Saarinen's transport terminals and Hal Foster's early work extended the themes of structural expressionism into the neo-futurist direction.
-
-**Correction (2026-08-02):** two defects. Archigram had six members — Cook, Chalk,
-Herron, Crompton, Webb, Greene; Jan Kaplický (Future Systems) was never a member.
-"Hal Foster" is an art historian/critic with no transport-terminal body of work —
-likely a garbled reference to Norman Foster, who is correctly named elsewhere in
-this same article, making this also an internal inconsistency. **Flagged, not
-resolved.**
+Neo-futurism drew from the earlier 20th-century Italian Futurist movement, whose architect Antonio Sant'Elia proposed radical visions of mechanised cities in the 1910s. The direct architectural predecessors include Archigram, the British avant-garde group (Peter Cook, Warren Chalk, Ron Herron, Dennis Crompton, Michael Webb, and David Greene). Their "Plug-in City" proposals from the 1960s imagined modular, technologically serviced urban environments. Eero Saarinen's transport terminals and Norman Foster's early work extended the themes of structural expressionism into the neo-futurist direction.
 
 ### Technology as generative element
 
@@ -64,6 +57,8 @@ Cultural institutions designed in the neo-futurist mode function similarly as an
 
 For commercial real estate evaluation in transit-oriented development and arts/cultural precinct contexts, the relevant analytical question is not whether a transit hub or cultural building is neo-futurist in style. It is whether the building generates the pedestrian volumes and destination appeal that support co-location. Neo-futurist buildings are well-represented in both typologies — making familiarity with the movement's outputs a practical tool for identifying anchor buildings in high-value urban nodes.
 
----
+## See also
 
-*cites: [[high-tech-architecture]], [[contemporary-architecture]], [[new-urbanism]]*
+- [[high-tech-architecture]]
+- [[contemporary-architecture]]
+- [[new-urbanism]]

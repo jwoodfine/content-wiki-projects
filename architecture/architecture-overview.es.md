@@ -73,6 +73,9 @@ La arquitectura contemporánea opera sin un estilo dominante. Los temas principa
 
 La arquitectura abarca una variedad de tipos edificatorios distinguidos por su programa y función social: residencial (unifamiliar, multifamiliar, de gran altura), comercial (oficinas, comercio minorista, hotelería) e industrial (manufactura, logística). Otros tipos incluyen el institucional (cívico, educativo, religioso, cultural), el paisajístico (parques, jardines, espacio público) y el de interiores (el diseño de espacios cerrados dentro de los edificios). El alcance se extiende además al diseño urbano (la orquestación de edificios, calles y espacio abierto a escala de distrito) y a la arquitectura naval (el diseño de barcos y estructuras marítimas).
 
----
+## Véase también
 
-*citas: [[built-environment|entorno construido]], [[contemporary-architecture|arquitectura contemporánea]], [[neomodern|neomoderno]], [[new-classical-architecture|nueva arquitectura clásica]]*
+- [[built-environment|entorno construido]]
+- [[contemporary-architecture|arquitectura contemporánea]]
+- [[neomodern|neomoderno]]
+- [[new-classical-architecture|nueva arquitectura clásica]]

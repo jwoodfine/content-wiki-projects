@@ -60,6 +60,8 @@ El programa de edificios Woodfine tiene como objetivo específico los mercados s
 
 La arquitectura moderna es el predecesor inmediato de la arquitectura posmoderna, que a partir de los años ochenta reintrodujo el ornamento histórico y rechazó la caja de vidrio simple como tipo edificatorio. El giro posmoderno no desplazó el edificio comercial modernista de los mercados secundarios; más bien produjo una segunda oleada de edificios comerciales suburbanos con chapado de ladrillo, cubiertas inclinadas y ornamento clásico aplicado que ahora ocupan los mismos nodos comerciales.
 
----
+## Véase también
 
-*cites: [[contextual-architecture]], [[new-urbanism]], [[vernacular-architecture]]*
+- [[contextual-architecture]]
+- [[new-urbanism]]
+- [[vernacular-architecture]]

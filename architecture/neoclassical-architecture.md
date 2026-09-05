@@ -29,11 +29,7 @@ Neoclassical architecture aimed to strip away the excesses of Late Baroque ornam
 
 ## Archaeological revival and the Grand Tour
 
-The movement was enabled by the development of archaeology as a systematic discipline and by the publication of accurate records of surviving classical buildings. The excavations at Pompeii and Herculaneum (from 1748) brought intact examples of Roman domestic and civic architecture to European awareness.
-
-**Correction (2026-08-02):** Herculaneum's excavations began in 1738, ten years
-before Pompeii's (1748) — dating both to 1748 elides a real gap between them.
-**Flagged, not resolved.** The Grand Tour — the standard educational journey of wealthy young English aristocrats through France and Italy — produced generations of patrons and architects who had seen classical ruins in person. The writings of the German art historian Johann Joachim Winckelmann, published in the 1750s and 1760s, provided an influential theoretical framework for understanding Greek art and architecture as superior in its simplicity and nobility to the Baroque decoration that had immediately preceded it.
+The movement was enabled by the development of archaeology as a systematic discipline and by the publication of accurate records of surviving classical buildings. The excavations at Herculaneum, beginning in 1738, and at Pompeii, beginning a decade later in 1748, brought intact examples of Roman domestic and civic architecture to European awareness. The Grand Tour — the standard educational journey of wealthy young English aristocrats through France and Italy — produced generations of patrons and architects who had seen classical ruins in person. The writings of the German art historian Johann Joachim Winckelmann, published in the 1750s and 1760s, provided an influential theoretical framework for understanding Greek art and architecture as superior in its simplicity and nobility to the Baroque decoration that had immediately preceded it.
 
 ## Formal vocabulary and composition
 
@@ -71,6 +67,8 @@ The economic significance of neoclassical heritage buildings in [[co-location-st
 
 The neoclassical institutional building also serves as a spatial anchor for the commercial fabric of the surrounding blocks. Court houses generate pedestrian traffic from legal professionals, court staff, and members of the public attending hearings. Historic bank buildings converted to cultural uses generate foot traffic at different hours. The professional service demand that these institutional uses generate — lawyers, accountants, notaries, insurance agents, medical and dental practices — is precisely the tenant profile that Woodfine Professional Centres are designed to serve. Proximity to a secondary market neoclassical institutional core is therefore a positive signal in co-location site evaluation, and sites within walking distance of this core benefit from the established professional-service ecosystem that surrounds it.
 
----
+## See also
 
-*cites: [[art-deco]], [[vernacular-architecture]], [[contextual-architecture]]*
+- [[art-deco]]
+- [[vernacular-architecture]]
+- [[contextual-architecture]]

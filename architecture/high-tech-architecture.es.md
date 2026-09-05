@@ -59,6 +59,8 @@ Los principios de diseño que desarrolló la arquitectura high-tech — en parti
 
 El tipo de edificio Woodfine Professional Centre refleja esta influencia en su uso del Núcleo Desplazado Retirado: el núcleo mecánico y de circulación vertical se desplaza desde el centro del edificio hacia el perímetro, proporcionando un corredor continuo con una línea de visión directa hacia los vestíbulos de los ascensores. Esto es una aplicación directa del principio high-tech de que los espacios servidos (las oficinas) y los espacios servidores (los núcleos) deben estar claramente separados, con los espacios servidores posicionados para maximizar la eficiencia y flexibilidad de los espacios servidos. El resultado, en el programa de edificios Woodfine, es una planta que puede subdividirse en cualquier configuración de arrendamientos de oficinas y servicios profesionales sin intervención estructural.
 
----
+## Véase también
 
-*cites: [[bauhaus]], [[modern-architecture]], [[contextual-architecture]]*
+- [[bauhaus]]
+- [[modern-architecture]]
+- [[contextual-architecture]]

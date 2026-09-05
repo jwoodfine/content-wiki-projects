@@ -75,6 +75,8 @@ Una iglesia del Revival Gótico en una parcela en esquina en la intersección de
 
 Las características físicas de los edificios del Revival Gótico — construcción de piedra o ladrillo, colocación en parcela en esquina, torres verticales visibles a distancia — también los convierten en hitos eficaces de orientación en los distritos comerciales de los mercados secundarios. Su visibilidad desde los corredores comerciales circundantes los convierte en puntos de referencia para navegar hacia destinos comerciales próximos, incluidos los edificios de oficinas profesionales.
 
----
+## Véase también
 
-*cites: [[neoclassical-architecture]], [[art-deco]], [[vernacular-architecture]]*
+- [[neoclassical-architecture]]
+- [[art-deco]]
+- [[vernacular-architecture]]

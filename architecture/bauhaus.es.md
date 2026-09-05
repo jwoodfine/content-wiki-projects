@@ -63,6 +63,8 @@ Los edificios modernistas comerciales de diseño firmado por arquitectos reconoc
 
 La relevancia práctica para los inversores inmobiliarios comerciales es limitada. El parque comercial Bauhaus de mediados del siglo XX está generalmente libre de restricciones en cuanto a reforma, actualización mecánica y modificación de fachada, aunque pueden aplicarse controles de señalización y alteración exterior en los distritos de conservación.
 
----
+## Véase también
 
-*citas: [[vernacular-architecture|arquitectura vernácula]], [[contextual-architecture|arquitectura contextual]], [[about-development-classes|clases de desarrollo]]*
+- [[vernacular-architecture|arquitectura vernácula]]
+- [[contextual-architecture|arquitectura contextual]]
+- [[about-development-classes|clases de desarrollo]]

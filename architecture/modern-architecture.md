@@ -64,6 +64,8 @@ The Woodfine building programme targets secondary markets specifically because t
 
 Modern architecture is the immediate predecessor of postmodern architecture, which from the 1980s reintroduced historical ornament and rejected the plain glass box as a building type. The postmodern turn did not displace the modernist commercial building from secondary markets; rather, it produced a second wave of suburban commercial buildings with brick veneer, pitched rooflines, and applied classical ornament that now occupy the same commercial nodes. Both generations of suburban commercial building are the inventory against which new Woodfine Professional Centre development competes for tenants and investment capital.
 
----
+## See also
 
-*cites: [[contextual-architecture]], [[new-urbanism]], [[vernacular-architecture]]*
+- [[contextual-architecture]]
+- [[new-urbanism]]
+- [[vernacular-architecture]]

@@ -77,6 +77,9 @@ Contemporary architecture operates without a dominant style. The major themes of
 
 Architecture encompasses a range of building types distinguished by their program and social function: residential (single-family, multi-family, high-rise), commercial (office, retail, hotel), and industrial (manufacturing, logistics). Other types include institutional (civic, educational, religious, cultural), landscape (parks, gardens, public realm), and interior (the design of enclosed spaces within buildings). The range extends further to urban design (the orchestration of buildings, streets, and open space at the district scale) and naval architecture (the design of ships and marine structures).
 
----
+## See also
 
-*cites: [[built-environment]], [[contemporary-architecture]], [[neomodern]], [[new-classical-architecture]]*
+- [[built-environment]]
+- [[contemporary-architecture]]
+- [[neomodern]]
+- [[new-classical-architecture]]

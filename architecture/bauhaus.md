@@ -63,6 +63,8 @@ Purpose-designed modernist commercial buildings by named architects — Mies van
 
 The practical significance for commercial real estate investors is limited. Mid-century Bauhaus-derived commercial stock is generally unrestricted in terms of renovation, mechanical upgrading, and façade modification, though signage and exterior alteration controls may apply in conservation districts.
 
----
+## See also
 
-*cites: [[vernacular-architecture]], [[contextual-architecture]], [[about-development-classes]]*
+- [[vernacular-architecture]]
+- [[contextual-architecture]]
+- [[about-development-classes]]

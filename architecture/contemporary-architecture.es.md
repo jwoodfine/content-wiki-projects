@@ -34,7 +34,7 @@ Los edificios contemporáneos varían significativamente en carácter formal. Al
 
 ## Alcance global
 
-Mientras que los grandes monumentos de la arquitectura moderna del siglo XX se concentraban en Estados Unidos y Europa Occidental, la arquitectura contemporánea es genuinamente global. China ha producido edificios emblemáticos a una velocidad y escala sin precedentes — el Burj Khalifa en Dubái, la Torre de Shanghái, el Centro Financiero Internacional de Guangzhou. Los estados del Golfo Árabe, Rusia y América Latina han encargado edificios contemporáneos a gran escala a estudios de arquitectura internacionalmente prominentes. El alcance global de la arquitectura contemporánea refleja tanto la globalización de la práctica arquitectónica como las ambiciones de gobiernos y promotores en economías emergentes para posicionar sus ciudades y proyectos a través de la arquitectura de referencia.
+Mientras que los grandes monumentos de la arquitectura moderna del siglo XX se concentraban en Estados Unidos y Europa Occidental, la arquitectura contemporánea es genuinamente global. China ha producido edificios emblemáticos a una velocidad y escala sin precedentes — entre ellos la Torre de Shanghái y el Centro Financiero Internacional de Guangzhou. Los estados del Golfo Árabe — incluido el Burj Khalifa en Dubái —, Rusia y América Latina han encargado edificios contemporáneos a gran escala a estudios de arquitectura internacionalmente prominentes. El alcance global de la arquitectura contemporánea refleja tanto la globalización de la práctica arquitectónica como las ambiciones de gobiernos y promotores en economías emergentes para posicionar sus ciudades y proyectos a través de la arquitectura de referencia.
 
 ### Arquitectos de referencia y estudios globales
 
@@ -42,7 +42,7 @@ Las obras más prominentes de la arquitectura contemporánea son en gran parte d
 
 ## Museos e instituciones culturales
 
-Las obras más llamativas e innovadoras de la arquitectura contemporánea aparecen desproporcionadamente en museos de arte e instituciones culturales. Los museos son las obras más representativas de los grandes arquitectos contemporáneos, y su diseño libera a los arquitectos de la restricción de las plantas arrendables repetitivas. El Pabellón Quadracci del Museo de Arte de Milwaukee (Santiago Calatrava, 2001) incluye un brise soleil móvil que se abre como alas durante el día. La ampliación del Walker Art Center de Minneapolis (Herzog & de Meuron, 2005) ganó el Premio Pritzker a sus arquitectos. El Imperial War Museum North de Daniel Libeskind en Mánchester (2002), la adición al Museo Real de Ontario de Toronto (2007) y el Edificio Hamilton del Museo de Arte de Denver (2006) se encuentran entre las obras más comentadas de la arquitectura de principios del siglo XXI.
+Las obras más llamativas e innovadoras de la arquitectura contemporánea aparecen desproporcionadamente en museos de arte e instituciones culturales. Los museos son las obras más representativas de los grandes arquitectos contemporáneos, y su diseño libera a los arquitectos de la restricción de las plantas arrendables repetitivas. El Pabellón Quadracci del Museo de Arte de Milwaukee (Santiago Calatrava, 2001) incluye un brise soleil móvil que se abre como alas durante el día. La ampliación del Walker Art Center de Minneapolis (Herzog & de Meuron, 2005) fue diseñada por arquitectos que ya habían ganado el Premio Pritzker por su trayectoria en 2001. El Imperial War Museum North de Daniel Libeskind en Mánchester (2002), la adición al Museo Real de Ontario de Toronto (2007) y el Edificio Hamilton del Museo de Arte de Denver (2006) se encuentran entre las obras más comentadas de la arquitectura de principios del siglo XXI.
 
 El Centre Pompidou-Metz (Shigeru Ban, 2010) emplea una cubierta de dieciséis kilómetros de madera laminada encolada dispuesta en una cuadrícula hexagonal y cubierta con membrana de fibra de vidrio blanca. El Museo Whitney de Arte Americano en Nueva York (Renzo Piano, 2015) adoptó un enfoque diferente, con una fachada de aspecto industrial que se integra en el barrio del Meatpacking District y crea espacios públicos porosos a nivel de calle.
 
@@ -58,6 +58,9 @@ Para el análisis de colocalización, la construcción comercial contemporánea 
 
 El desempeño ecológico de los edificios comerciales contemporáneos es cada vez más un factor en la selección de inquilinos y la valoración de activos. Los estándares de certificación ecológica — LEED, BREEAM y similares — son requisitos estándar para los grandes inquilinos institucionales en los mercados canadienses y europeos. Los edificios sin sistemas mecánicos contemporáneos y sin rendimiento de envolvente adecuado tienen dificultades para retener inquilinos institucionales cuyos compromisos de sostenibilidad requieren espacios certificados.
 
----
+## Véase también
 
-*citas: [[neomodern|neomoderno]], [[new-classical-architecture|nueva arquitectura clásica]], [[neo-futurism|neo-futurismo]], [[deconstructivism|deconstructivismo]]*
+- [[neomodern|neomoderno]]
+- [[new-classical-architecture|nueva arquitectura clásica]]
+- [[neo-futurism|neo-futurismo]]
+- [[deconstructivism|deconstructivismo]]

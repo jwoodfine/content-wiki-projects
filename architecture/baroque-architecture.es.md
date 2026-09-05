@@ -41,7 +41,7 @@ En Francia, el Barroco llegó a través de la influencia jesuita y el mecenazgo 
 
 ### Tradiciones regionales en Europa Central
 
-Los Países Bajos del Sur, los territorios de habla alemana y Europa Central desarrollaron tradiciones barrocas regionales diferenciadas. En los Países Bajos del Sur, Wenceslas Cobergher introdujo el estilo en encargos religiosos a partir de 1609. En Polonia-Lituania, las iglesias jesuitas siguiendo el modelo romano aparecieron ya en la década de 1580; la iglesia del Corpus Christi en Nieśwież (1586–1593) fue la primera basílica con cúpula y fachada barroca del periodo en la Confederación Polaco-Lituana. En los territorios alemanes, el Barroco tardío produjo los interiores espaciales más elaborados de la tradición — la obra de Balthasar Neumann en la Basílica de los Catorce Santos Auxiliares y en la Residencia de Wurzburgo (1749–1751) representa el desarrollo más avanzado de la complejidad espacial dentro del marco barroco.
+Los Países Bajos del Sur, los territorios de habla alemana y Europa Central desarrollaron tradiciones barrocas regionales diferenciadas. En los Países Bajos del Sur, Wenceslas Cobergher introdujo el estilo en encargos religiosos a partir de 1609. En Polonia-Lituania, las iglesias jesuitas siguiendo el modelo romano aparecieron ya en la década de 1580; la iglesia del Corpus Christi en Nieśwież (1586–1593) fue la primera basílica con cúpula y fachada barroca del periodo en la Confederación Polaco-Lituana. En los territorios alemanes, el Barroco tardío produjo los interiores espaciales más elaborados de la tradición — la obra de Balthasar Neumann en la Basílica de los Catorce Santos Auxiliares y en la Residencia de Wurzburgo (1720–1744) representa el desarrollo más avanzado de la complejidad espacial dentro del marco barroco.
 
 ## Características formales
 
@@ -63,6 +63,8 @@ En las principales ciudades europeas — Viena, Praga, Bruselas, Lisboa, Madrid,
 
 Los marcos de protección patrimonial en las jurisdicciones europeas son amplios y se aplican activamente. Los edificios situados en o adyacentes a los núcleos históricos barrocos están típicamente sujetos a designaciones de edificio catalogado o de protección patrimonial que restringen la modificación de fachadas, la señalización y la alteración exterior. Estas restricciones generan tanto complejidad regulatoria como protección del valor a largo plazo: la imposibilidad de alterar el paisaje urbano que hace deseable la ubicación es simultáneamente una limitación y una garantía.
 
----
+## Véase también
 
-*citas: [[classical-architecture|arquitectura clásica]], [[neoclassical-architecture|arquitectura neoclásica]], [[contextual-architecture|arquitectura contextual]]*
+- [[classical-architecture|arquitectura clásica]]
+- [[neoclassical-architecture|arquitectura neoclásica]]
+- [[contextual-architecture|arquitectura contextual]]

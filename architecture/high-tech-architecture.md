@@ -63,6 +63,8 @@ High-tech architecture developed design principles that have influenced commerci
 
 The Woodfine Professional Centre building type reflects this influence in its use of the Offset Pulled-Back Core. The mechanical and vertical circulation core is displaced from the building centre to the perimeter, providing a continuous corridor with a direct line of sight to the elevator lobbies. This is a direct application of the high-tech principle that served spaces (the offices) and servant spaces (the cores) should be clearly separated. The servant spaces are positioned to maximise the efficiency and flexibility of the served spaces. The result, in the Woodfine building programme, is a floor plate that can be subdivided into any configuration of office and professional service leases without structural intervention. It is the same reconfigurability goal that high-tech architecture pursued through the externalization of structure.
 
----
+## See also
 
-*cites: [[bauhaus]], [[modern-architecture]], [[contextual-architecture]]*
+- [[bauhaus]]
+- [[modern-architecture]]
+- [[contextual-architecture]]

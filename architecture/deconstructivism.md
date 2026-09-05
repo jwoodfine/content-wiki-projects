@@ -59,6 +59,8 @@ Frank Gehry's Walt Disney Concert Hall in Los Angeles (2003) functions similarly
 
 For commercial real estate evaluation, the question is whether a deconstructivist building in a given node generates sufficient visitor traffic and district positioning to support co-located commercial uses. The answer depends on the institution's draw — a major national museum will anchor commercial [[co-location-strategy|co-location]] more effectively than a smaller regional facility. The building's formal characteristics are secondary to its institutional profile and visitor volume.
 
----
+## See also
 
-*cites: [[contemporary-architecture]], [[neo-futurism]], [[postmodern-architecture]]*
+- [[contemporary-architecture]]
+- [[neo-futurism]]
+- [[postmodern-architecture]]

@@ -65,13 +65,7 @@ In North America, the Gothic Revival arrived in the first half of the 19th centu
 
 ### Institutional and civic adoption
 
-Gothic Revival was also applied to institutional and civic buildings: university colleges, law courts, railway stations, and municipal buildings in a number of Canadian cities adopted the Gothic vocabulary as an expression of civic ambition and historical connection. The Supreme Court of Canada in Ottawa (1941) was built in a Gothic Revival style that echoes the Parliament Buildings on the adjacent hill. Victoria University at the University of Toronto (1892) is a Gothic Revival college building.
-
-**Correction (2026-08-02):** two misattributions. The Supreme Court of Canada
-(Ernest Cormier, 1938–1946) is consistently described as Art Deco/Moderne with a
-château-style roof, not Gothic Revival — the 1941 date is also off (construction ran
-to 1946). Victoria College ("Old Vic," W.G. Storm, 1892) is Richardsonian
-Romanesque, not Gothic Revival. **Flagged, not resolved.**
+Gothic Revival was also applied to institutional and civic buildings: university colleges, law courts, railway stations, and municipal buildings in a number of Canadian cities adopted the Gothic vocabulary as an expression of civic ambition and historical connection.
 
 ## Co-location implications
 
@@ -81,6 +75,8 @@ A Gothic Revival church on a corner lot at the intersection of two main commerci
 
 The physical characteristics of Gothic Revival buildings — stone or brick construction, corner lot placement, vertical towers visible from distance — also make them effective wayfinding landmarks in secondary market commercial districts. Their visibility from the surrounding commercial corridors makes them reference points for navigating to proximate commercial destinations, including professional office buildings.
 
----
+## See also
 
-*cites: [[neoclassical-architecture]], [[art-deco]], [[vernacular-architecture]]*
+- [[neoclassical-architecture]]
+- [[art-deco]]
+- [[vernacular-architecture]]

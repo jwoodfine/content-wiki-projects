@@ -35,11 +35,7 @@ In Great Britain during the 1950s and 1960s, architects including Donald McMorra
 
 ### European counter-proposals of the 1970s
 
-In the late 1970s, young European architects began challenging the hegemony of modernist proposals in architecture and urban planning. Leon Krier and Maurice Culot founded the Archives d'Architecture Moderne in Brussels and published texts and counter-proposals to modernist urban redevelopment schemes.
-
-**Correction (2026-08-02):** the Archives d'Architecture Moderne was founded in
-1968 (by Culot and François Terlinden), about a decade earlier than stated.
-**Flagged, not resolved.** This activity gained momentum from the support of Charles, Prince of Wales, who became an influential advocate for traditional urban design. His Prince's Foundation for Building Community has sponsored traditional architecture and urbanism projects across the UK.
+Beginning in 1968, young European architects began challenging the hegemony of modernist proposals in architecture and urban planning. Leon Krier and Maurice Culot, with François Terlinden, founded the Archives d'Architecture Moderne in Brussels and published texts and counter-proposals to modernist urban redevelopment schemes. This activity gained momentum from the support of Charles, Prince of Wales, who became an influential advocate for traditional urban design. His Prince's Foundation for Building Community has sponsored traditional architecture and urbanism projects across the UK.
 
 ### Driehaus Prize and academic classicism
 
@@ -69,6 +65,9 @@ New Classical professionals tend to work under the assumption that there is no s
 
 Many New Classical architects are committed to sustainability. They argue that long-lasting, well-crafted buildings designed with efficient use of natural resources represent a more genuinely sustainable approach than buildings whose innovative formal character does not translate into longevity. Classical and traditional buildings in stone, brick, and timber have demonstrated durability over centuries. Contemporary energy performance standards can be met within traditional construction envelopes, through contemporary mechanical systems, without altering the external character of the building.
 
----
+## See also
 
-*cites: [[classical-architecture]], [[neoclassical-architecture]], [[contextual-architecture]], [[new-urbanism]]*
+- [[classical-architecture]]
+- [[neoclassical-architecture]]
+- [[contextual-architecture]]
+- [[new-urbanism]]

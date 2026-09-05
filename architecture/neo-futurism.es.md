@@ -31,7 +31,7 @@ El movimiento fue parcialmente revitalizado en 2007 tras la publicación del Man
 
 ## Influencias y definición
 
-El neo-futurismo bebió del movimiento futurista italiano del siglo XX anterior, cuyo arquitecto Antonio Sant'Elia propuso visiones radicales de ciudades mecanizadas en la década de 1910. Los predecesores arquitectónicos directos incluyen Archigram, el grupo vanguardista británico (Peter Cook, Warren Chalk, Ron Herron, Dennis Crompton, Michael Webb, David Greene, Jan Kaplický) cuyas propuestas de "Ciudad Enchufable" de los años 1960 imaginaban entornos urbanos modulares y tecnológicamente equipados. Los terminales de transporte de Eero Saarinen y la obra temprana de Norman Foster extendieron los temas del expresionismo estructural en la dirección neo-futurista.
+El neo-futurismo bebió del movimiento futurista italiano del siglo XX anterior, cuyo arquitecto Antonio Sant'Elia propuso visiones radicales de ciudades mecanizadas en la década de 1910. Los predecesores arquitectónicos directos incluyen Archigram, el grupo vanguardista británico (Peter Cook, Warren Chalk, Ron Herron, Dennis Crompton, Michael Webb y David Greene) cuyas propuestas de "Ciudad Enchufable" de los años 1960 imaginaban entornos urbanos modulares y tecnológicamente equipados. Los terminales de transporte de Eero Saarinen y la obra temprana de Norman Foster extendieron los temas del expresionismo estructural en la dirección neo-futurista.
 
 ### Tecnología como elemento generador
 
@@ -55,6 +55,8 @@ Las estaciones ferroviarias de Calatrava, en particular, han sido implementadas 
 
 Las instituciones culturales de diseño neo-futurista funcionan de manera similar como anclas en distritos museísticos y precintos culturales. La adición al Museo Real de Ontario de Libeskind en Toronto (2007) — técnicamente [[deconstructivism|deconstructivista]] pero compartiendo el vocabulario formal del neo-futurismo — funciona como edificio-destino dentro del clúster institucional de Bloor-Yorkville. Los usos comerciales que se desarrollan en torno a instituciones culturales de referencia se benefician del tráfico de visitantes de la institución y de su papel en el posicionamiento del distrito como destino.
 
----
+## Véase también
 
-*citas: [[high-tech-architecture|arquitectura high-tech]], [[contemporary-architecture|arquitectura contemporánea]], [[new-urbanism|nuevo urbanismo]]*
+- [[high-tech-architecture|arquitectura high-tech]]
+- [[contemporary-architecture|arquitectura contemporánea]]
+- [[new-urbanism|nuevo urbanismo]]

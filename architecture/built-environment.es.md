@@ -77,6 +77,7 @@ La calidad, densidad y transitabilidad peatonal del entorno construido son datos
 
 El marco del entorno construido proporciona el contexto geográfico y físico en el que opera el análisis de colocalización. Identificar si un nodo candidato ocupa un centro urbano genuinamente peatonal y servido por transporte, frente a una franja funcionalmente suburbana — independientemente de la clasificación municipal — requiere una evaluación directa de las características del entorno construido descritas anteriormente.
 
----
+## Véase también
 
-*citas: [[architecture-overview]], [[new-urbanism]]*
+- [[architecture-overview]]
+- [[new-urbanism]]

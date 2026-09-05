@@ -25,15 +25,7 @@ thesis_alignment: "Postmodern commercial architecture produced the suburban offi
 keynote: false
 ---
 
-Postmodern architecture emerged in the late 1950s.
-
-**Correction (2026-08-02):** contradicts this article's own next paragraph ("The
-intellectual foundations of postmodern architecture were established in the 1960s
-and 1970s"). Standard historiography places the movement's emergence mid-to-late
-1960s (Venturi, 1966) through the 1970s (Jencks), not the late 1950s. **Flagged, not
-resolved.**
-
-It was a reaction against the perceived failures of the [[modern-architecture|modernist movement]] that had dominated architectural practice since the 1920s. Where modernism rejected historical ornament, demanded uniformity, and insisted that form follow function, postmodern architecture proposed complexity, contradiction, historical reference, and contextual response. The movement flourished particularly from the 1980s through the late 1990s in commercial, institutional, and residential building across North America and Europe.
+Postmodern architecture emerged in the 1960s and 1970s. It was a reaction against the perceived failures of the [[modern-architecture|modernist movement]] that had dominated architectural practice since the 1920s. Where modernism rejected historical ornament, demanded uniformity, and insisted that form follow function, postmodern architecture proposed complexity, contradiction, historical reference, and contextual response. The movement flourished particularly from the 1980s through the late 1990s in commercial, institutional, and residential building across North America and Europe.
 
 ## Venturi and the case against modernism
 
@@ -73,6 +65,8 @@ The architect Philip Johnson's career traced the postmodern transition in commer
 
 These primary-market postmodern office towers do not directly replicate in secondary markets. Secondary market buildings are too small and their budgets too constrained for elaborate ornamental programmes. But the formal vocabulary of historical reference, decorative roofline treatment, and contextual variety that Johnson's buildings established became the template for the suburban commercial buildings that were built in secondary markets throughout the 1980s and 1990s.
 
----
+## See also
 
-*cites: [[modern-architecture]], [[contextual-architecture]], [[vernacular-architecture]]*
+- [[modern-architecture]]
+- [[contextual-architecture]]
+- [[vernacular-architecture]]

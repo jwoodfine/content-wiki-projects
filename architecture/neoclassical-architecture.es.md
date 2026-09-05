@@ -29,7 +29,7 @@ La arquitectura neoclásica pretendía eliminar los excesos del ornamento barroc
 
 ## Revival arqueológico y el Gran Tour
 
-El movimiento fue posible gracias al desarrollo de la arqueología como disciplina sistemática y a la publicación de registros precisos de los edificios clásicos supervivientes. Las excavaciones de Pompeya y Herculano (desde 1748) pusieron en conocimiento europeo ejemplos intactos de arquitectura doméstica y cívica romana. El Gran Tour — el viaje educativo estándar de los jóvenes aristócratas ingleses adinerados por Francia e Italia — produjo generaciones de mecenas y arquitectos que habían visto ruinas clásicas en persona. Los escritos del historiador del arte alemán Johann Joachim Winckelmann, publicados en los años cincuenta y sesenta del siglo XVIII, proporcionaron un marco teórico influyente para entender el arte y la arquitectura griegos como superiores en su simplicidad y nobleza a la decoración barroca que los había precedido inmediatamente.
+El movimiento fue posible gracias al desarrollo de la arqueología como disciplina sistemática y a la publicación de registros precisos de los edificios clásicos supervivientes. Las excavaciones de Herculano, iniciadas en 1738, y las de Pompeya, iniciadas una década después en 1748, pusieron en conocimiento europeo ejemplos intactos de arquitectura doméstica y cívica romana. El Gran Tour — el viaje educativo estándar de los jóvenes aristócratas ingleses adinerados por Francia e Italia — produjo generaciones de mecenas y arquitectos que habían visto ruinas clásicas en persona. Los escritos del historiador del arte alemán Johann Joachim Winckelmann, publicados en los años cincuenta y sesenta del siglo XVIII, proporcionaron un marco teórico influyente para entender el arte y la arquitectura griegos como superiores en su simplicidad y nobleza a la decoración barroca que los había precedido inmediatamente.
 
 ## Vocabulario formal y composición
 
@@ -67,6 +67,8 @@ La importancia económica de los edificios patrimoniales neoclásicos en la [[co
 
 El edificio institucional neoclásico también sirve como ancla espacial para el tejido comercial de las manzanas circundantes. Los tribunales generan tráfico peatonal de profesionales jurídicos, personal judicial y miembros del público que asisten a vistas. La demanda de servicios profesionales que generan estos usos institucionales — abogados, contadores, notarios, agentes de seguros, consultorios médicos y dentales — es precisamente el perfil de inquilino que los Woodfine Professional Centres están diseñados para atender. La proximidad a un núcleo institucional neoclásico de mercado secundario es, por tanto, una señal positiva en la evaluación de sitios de co-ubicación.
 
----
+## Véase también
 
-*cites: [[art-deco]], [[vernacular-architecture]], [[contextual-architecture]]*
+- [[art-deco]]
+- [[vernacular-architecture]]
+- [[contextual-architecture]]

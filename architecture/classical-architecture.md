@@ -66,6 +66,8 @@ The broad scope of classical architecture makes precise classification difficult
 
 [[new-classical-architecture|New Classical architecture]] — contemporary building design following classical principles — has produced commercial and institutional buildings in European and North American markets since the 1980s. These are addressed in a separate article on new-classical-architecture.
 
----
+## See also
 
-*cites: [[neoclassical-architecture]], [[new-classical-architecture]], [[contextual-architecture]]*
+- [[neoclassical-architecture]]
+- [[new-classical-architecture]]
+- [[contextual-architecture]]

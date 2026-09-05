@@ -76,6 +76,8 @@ Contextual requirements are frequently formalized through heritage conservation 
 
 These regulatory frameworks create both risk and protection for commercial real estate in contextual zones. The risk is that renovation plans must satisfy regulatory criteria that may restrict material choices, massing alterations, or signage. The protection is that contextual regulation limits the degree to which an adjacent landowner can introduce incompatible development that would damage the node's coherence and the asset's long-term value.
 
----
+## See also
 
-*cites: [[vernacular-architecture]], [[co-location-strategy]], [[boma-standard]]*
+- [[vernacular-architecture]]
+- [[co-location-strategy]]
+- [[boma-standard]]

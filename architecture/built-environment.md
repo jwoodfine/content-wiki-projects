@@ -79,6 +79,7 @@ Building stock vintage and condition are independent inputs to site assessment. 
 
 The built environment framework provides the geographic and physical context within which co-location analysis operates. Identifying whether a candidate node occupies a genuinely walkable, transit-served urban core versus a functionally suburban strip — regardless of municipal designation — requires direct assessment of the built environment characteristics described above. Administrative categories alone are not sufficient.
 
----
+## See also
 
-*cites: [[architecture-overview]], [[new-urbanism]]*
+- [[architecture-overview]]
+- [[new-urbanism]]

@@ -34,7 +34,7 @@ La arquitectura neomoderna sostiene que la [[contemporary-architecture|arquitect
 
 ## Antecedentes y desarrollo
 
-Los académicos rastrean el pensamiento neomoderno hasta *Vers une Architecture* de Le Corbusier, publicado en la década de 1920 y traducido como *Hacia una Nueva Arquitectura* en 1931, que proponía la sustitución del tejido arquitectónico de París por torres cristalinas. Las ideas de Le Corbusier fueron retomadas por académicos que cuestionaban la "inmediatez funcional" y la "simplicidad" de arquitectos modernistas como Frank Lloyd Wright. La articulación posterior de las características neomodernas — el racionalismo, las matemáticas y el cálculo como fundamentos estéticos — puede leerse como una formalización de la posición de Le Corbusier frente al ornamentalismo de la reacción posmoderna.
+Los académicos rastrean el pensamiento neomoderno hasta *Vers une Architecture* de Le Corbusier, publicado en la década de 1920 y traducido por Frederick Etchells como *Hacia una Nueva Arquitectura* en 1927, que proponía la sustitución del tejido arquitectónico de París por torres cristalinas. Las ideas de Le Corbusier fueron retomadas por académicos que cuestionaban la "inmediatez funcional" y la "simplicidad" de arquitectos modernistas como Frank Lloyd Wright. La articulación posterior de las características neomodernas — el racionalismo, las matemáticas y el cálculo como fundamentos estéticos — puede leerse como una formalización de la posición de Le Corbusier frente al ornamentalismo de la reacción posmoderna.
 
 ### Factores del giro neomoderno
 
@@ -60,6 +60,8 @@ Este parque constituye el mercado prime — los edificios que exigen las rentas 
 
 La implicación para la evaluación de inmobiliario comercial es que el parque de oficinas neomoderno en los nodos del CBD establece la condición de anclaje para la [[co-location-strategy|colocalización]] circundante: las torres crean la densidad de mano de obra diurna — y el poder adquisitivo que conlleva — que sustenta la cotitularidad de comercio en planta baja, restauración, cuidado personal y servicios profesionales del nodo. En la metodología de evaluación de colocalización, la presencia de un clúster de torres de oficinas neomodernas es un indicador de calidad del nodo que sustenta la tenencia de supermercado o farmacia ancla e impulsa la formación de cotitularidad.
 
----
+## Véase también
 
-*citas: [[contemporary-architecture|arquitectura contemporánea]], [[postmodern-architecture|arquitectura posmoderna]], [[bauhaus]]*
+- [[contemporary-architecture|arquitectura contemporánea]]
+- [[postmodern-architecture|arquitectura posmoderna]]
+- [[bauhaus]]

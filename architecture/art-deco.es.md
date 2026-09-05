@@ -67,6 +67,8 @@ Los nodos de co-ubicación más eficaces adyacentes a los recintos comerciales A
 
 La arquitectura Art Decó está seguida en la cronología de la edificación comercial norteamericana por los edificios modernistas de los años cincuenta y sesenta, que reemplazaron gran parte del parque comercial de la preguerra en los mercados primarios pero dejaron intactos muchos edificios Art Decó de los mercados secundarios. La tasa de supervivencia de los edificios comerciales Art Decó es mayor en los mercados secundarios que en los primarios, lo que hace que los centros de los mercados secundarios sean visualmente distintivos y comercialmente diferenciados.
 
----
+## Véase también
 
-*cites: [[contextual-architecture]], [[vernacular-architecture]], [[new-urbanism]]*
+- [[contextual-architecture]]
+- [[vernacular-architecture]]
+- [[new-urbanism]]

@@ -34,11 +34,7 @@ Neomodern architecture holds that [[contemporary-architecture|contemporary archi
 
 ## Background and development
 
-Scholars trace neomodern thinking to Le Corbusier's *Vers une Architecture*, published in the 1920s and translated as *Towards New Architecture* in 1931.
-
-**Correction (2026-08-02):** the Frederick Etchells English translation, titled
-*Towards a New Architecture* ("a New," not "New"), was published in 1927, not 1931.
-**Flagged, not resolved.** The book proposed the replacement of Paris' architectural fabric with crystalline towers. Le Corbusier's ideas were taken up by critics who challenged the "functional directness" and "simplicity" of modernist architects such as Frank Lloyd Wright. The subsequent articulation of neomodern characteristics — rationalism, mathematics, and calculation as aesthetic fundamentals — can be read as a formalisation of Le Corbusier's position. That position stood against the ornamentalism of the postmodern reaction.
+Scholars trace neomodern thinking to Le Corbusier's *Vers une Architecture*, published in the 1920s and translated by Frederick Etchells as *Towards a New Architecture* in 1927. The book proposed the replacement of Paris' architectural fabric with crystalline towers. Le Corbusier's ideas were taken up by critics who challenged the "functional directness" and "simplicity" of modernist architects such as Frank Lloyd Wright. The subsequent articulation of neomodern characteristics — rationalism, mathematics, and calculation as aesthetic fundamentals — can be read as a formalisation of Le Corbusier's position. That position stood against the ornamentalism of the postmodern reaction.
 
 ### Drivers of the neomodern turn
 
@@ -68,6 +64,8 @@ The commercial real estate evaluation implication is that neomodern office stock
 
 While neomodern architecture is most prominent in corporate office applications, residential towers in the neomodern mode have been delivered in major North American city centres. These buildings apply curtain wall technology, rationalist massing, and minimal ornament to residential programmes. The result is towers whose formal character is continuous with the commercial fabric of the surrounding district. In mixed-use nodes, neomodern residential towers contribute to 24-hour activation. The residential population maintains pedestrian volumes and commercial demand beyond office hours, supporting the full-day co-location activity that characterises the highest-value nodes.
 
----
+## See also
 
-*cites: [[contemporary-architecture]], [[postmodern-architecture]], [[bauhaus]]*
+- [[contemporary-architecture]]
+- [[postmodern-architecture]]
+- [[bauhaus]]

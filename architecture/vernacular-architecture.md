@@ -56,6 +56,8 @@ Vernacular commercial buildings in established market areas are frequently subje
 
 The regional character of vernacular commercial architecture reflects the material and craft traditions of specific geographies. Prairie vernacular in western Canada uses different materials and proportions than Atlantic vernacular; Tuscan vernacular differs from Flemish. This regional specificity is a function of local material availability and climate, not stylistic preference. For site evaluation purposes, the relevant characteristics are structural and operational rather than stylistic.
 
----
+## See also
 
-*cites: [[co-location-strategy]], [[boma-standard]], [[about-development-classes]]*
+- [[co-location-strategy]]
+- [[boma-standard]]
+- [[about-development-classes]]

@@ -70,6 +70,8 @@ Las zonas de desarrollo orientado al tránsito, en particular, producen las cond
 
 Los evaluadores de emplazamientos de colocalización deben tratar las designaciones formales del Nuevo Urbanismo como uno de varios factores, no como condición suficiente para sitios de alta calidad. El diseño del Nuevo Urbanismo no garantiza la tenencia de un ancla, y la presencia de un ancla no requiere planificación del Nuevo Urbanismo. Las condiciones subyacentes — densidad de inquilinos, accesibilidad peatonal, proximidad al transporte, mezcla de servicios — son el factor determinante, no la etiqueta.
 
----
+## Véase también
 
-*citas: [[co-location-strategy|estrategia de colocalización]], [[about-regional-markets-system|mercados regionales]], [[commuter|arquetipo commuter]]*
+- [[co-location-strategy|estrategia de colocalización]]
+- [[about-regional-markets-system|mercados regionales]]
+- [[commuter|arquetipo commuter]]

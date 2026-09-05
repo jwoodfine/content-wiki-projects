@@ -70,6 +70,8 @@ Transit-oriented development zones, in particular, produce the pedestrian captur
 
 Co-location site evaluators should treat formal New Urbanist designations as one input among several, not as a sufficient condition for high-quality sites. New Urbanist design does not guarantee anchor tenancy, and the presence of an anchor does not require New Urbanist planning. The underlying conditions — tenant density, walkability, transit adjacency, service mix — are the determinant, not the label.
 
----
+## See also
 
-*cites: [[co-location-strategy]], [[about-regional-markets-system]], [[commuter|commuter-archetype]]*
+- [[co-location-strategy]]
+- [[about-regional-markets-system]]
+- [[commuter|commuter-archetype]]

@@ -35,7 +35,7 @@ En Gran Bretaña durante las décadas de 1950 y 1960, arquitectos como Donald Mc
 
 ### Contrapropuestas europeas de los años setenta
 
-A finales de la década de 1970, jóvenes arquitectos europeos comenzaron a cuestionar la hegemonía de las propuestas modernistas en arquitectura y urbanismo. Leon Krier y Maurice Culot fundaron los Archives d'Architecture Moderne en Bruselas y publicaron textos y contrapropuestas a los planes de reurbanización modernistas. Esta actividad cobró impulso con el apoyo de Carlos, Príncipe de Gales, que se convirtió en un influyente defensor del diseño urbano tradicional y cuya Prince's Foundation for Building Community ha patrocinado proyectos de arquitectura y urbanismo tradicionales en todo el Reino Unido.
+A partir de 1968, jóvenes arquitectos europeos comenzaron a cuestionar la hegemonía de las propuestas modernistas en arquitectura y urbanismo. Leon Krier y Maurice Culot, junto con François Terlinden, fundaron los Archives d'Architecture Moderne en Bruselas y publicaron textos y contrapropuestas a los planes de reurbanización modernistas. Esta actividad cobró impulso con el apoyo de Carlos, Príncipe de Gales, que se convirtió en un influyente defensor del diseño urbano tradicional y cuya Prince's Foundation for Building Community ha patrocinado proyectos de arquitectura y urbanismo tradicionales en todo el Reino Unido.
 
 ### El Premio Driehaus y el clasicismo académico
 
@@ -65,6 +65,9 @@ Los profesionales de la Nueva Arquitectura Clásica tienden a trabajar bajo la p
 
 Muchos arquitectos de la Nueva Arquitectura Clásica están comprometidos con la sostenibilidad, y argumentan que los edificios duraderos, bien construidos y diseñados con un uso eficiente de los recursos naturales representan un enfoque genuinamente más sostenible que los edificios cuyo carácter formal innovador no se traduce en longevidad. Los edificios clásicos y tradicionales en piedra, ladrillo y madera han demostrado su durabilidad durante siglos; los estándares de eficiencia energética contemporáneos pueden satisfacerse dentro de las envolventes de construcción tradicional mediante sistemas mecánicos modernos sin alterar el carácter exterior del edificio.
 
----
+## Véase también
 
-*citas: [[classical-architecture|arquitectura clásica]], [[neoclassical-architecture|arquitectura neoclásica]], [[contextual-architecture|arquitectura contextual]], [[new-urbanism|nuevo urbanismo]]*
+- [[classical-architecture|arquitectura clásica]]
+- [[neoclassical-architecture|arquitectura neoclásica]]
+- [[contextual-architecture|arquitectura contextual]]
+- [[new-urbanism|nuevo urbanismo]]
