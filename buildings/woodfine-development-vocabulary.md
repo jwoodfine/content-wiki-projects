@@ -11,7 +11,7 @@ status: active
 audience: public
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-26
+last_edited: 2026-09-04
 editor: pointsav-engineering
 short_description: "A curated glossary of proprietary Woodfine direct-hold vocabulary — Development Classes, Prototype, Fixed Floor Plate, Rollout Program, and related terms — distinct from generic AEC industry terminology."
 paired_with: buildings/woodfine-development-vocabulary.es.md
@@ -34,7 +34,7 @@ Where a term already has a dedicated wiki article, this glossary gives a one-lin
 
 **Development Site.** A specific parcel of land identified — and, where acquired, held — for a Woodfine deployment. A Development Site becomes a Qualified Investment only once it satisfies Woodfine's co-location, Campus Design, and permitting criteria in full (see [[site-selection-terminology|Site selection terminology]]), and is evaluated within the bounded [[development-regions|Development Region]] that governs its jurisdiction and market-data scope.
 
-**Direct-Hold Solution.** The top level of Woodfine's development taxonomy, one level above Development Classes. The direct-hold portfolio is organized into three solution families: Woodfine Professional Centres (which groups the four Development Classes sited by Power Centre proximity — Professional Centres, Suburban Office, Retail Select, and Tech Industrial), Woodfine Vertical Warehouses, and Woodfine Parking Structures (the latter two each standing alone, sited outside the Power Centre proximity model). See [[about-development-classes|Development classes]] for how the six classes map to siting criteria.
+**Direct-Hold Solution.** The top level of Woodfine's development taxonomy, one level above Development Classes. There are four Direct-Hold Solutions, one per jurisdiction — Canada, the United States, Spain, and Mexico — each a separate legal vehicle that invests across all six Development Classes within its jurisdiction, rather than a vehicle dedicated to a single class. See [[about-development-classes|Development classes]] for how the six classes map to siting criteria.
 
 **Fixed Floor Plate.** The standardized, immutable structural footprint used across every deployment within a prototype class. Full definition: [[fixed-floor-plates|Fixed floor plates]].
 

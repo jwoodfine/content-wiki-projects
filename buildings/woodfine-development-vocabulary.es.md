@@ -11,7 +11,7 @@ status: active
 audience: public
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-26
+last_edited: 2026-09-04
 editor: pointsav-engineering
 short_description: "Un glosario curado del vocabulario propio de tenencia directa de Woodfine — Clases de Desarrollo, Prototipo, Placa de Piso Fija, Programa de Expansión y términos relacionados — distinto de la terminología genérica de la industria AEC."
 paired_with: buildings/woodfine-development-vocabulary.md
@@ -34,7 +34,7 @@ Cuando un término ya cuenta con un artículo dedicado en la wiki, este glosario
 
 **Sitio de Desarrollo.** Una parcela de terreno específica identificada — y, cuando se adquiere, retenida — para un desarrollo de Woodfine. Un Sitio de Desarrollo se convierte en una Inversión Calificada solo cuando satisface plenamente los criterios de co-localización, Diseño Campus y permisos de Woodfine (véase [[site-selection-terminology|Terminología de selección de sitios]]), y se evalúa dentro de la Región de Desarrollo delimitada que rige su jurisdicción y alcance de datos de mercado (véase [[development-regions|Regiones de desarrollo]]).
 
-**Solución de Tenencia Directa.** El nivel superior de la taxonomía de desarrollo de Woodfine, un escalón por encima de las Clases de Desarrollo. El portafolio de tenencia directa se organiza en tres familias de solución: Woodfine Centros Profesionales (que agrupa las cuatro Clases de Desarrollo ubicadas por proximidad al Power Centre — Centros Profesionales, Oficinas Suburbanas, Retail Select e Industrial Tecnológico), Woodfine Almacenes Verticales y Woodfine Estructuras de Estacionamiento (estas dos últimas cada una independiente, ubicadas fuera del modelo de proximidad al Power Centre). Véase [[about-development-classes|Clases de desarrollo]] para conocer cómo las seis clases se relacionan con los criterios de ubicación.
+**Solución de Tenencia Directa.** El nivel superior de la taxonomía de desarrollo de Woodfine, un escalón por encima de las Clases de Desarrollo. Existen cuatro Soluciones de Tenencia Directa, una por jurisdicción — Canadá, Estados Unidos, España y México —, cada una un vehículo legal separado que invierte en las seis Clases de Desarrollo dentro de su jurisdicción, en lugar de un vehículo dedicado a una sola clase. Véase [[about-development-classes|Clases de desarrollo]] para conocer cómo las seis clases se relacionan con los criterios de ubicación.
 
 **Placa de Piso Fija.** La huella estructural estandarizada e inmutable utilizada en cada desarrollo dentro de una clase de prototipo. Definición completa: [[fixed-floor-plates|Placas de piso fijas]].
 
