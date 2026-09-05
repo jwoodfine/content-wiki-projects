@@ -9,8 +9,9 @@ content_type: topic
 quality: complete
 short_description: "Passive tracking register holding qualified co-location sites removed from the active pipeline for adjacent land unavailability, kept scored with documented re-entry criteria."
 status: stable
+audience: customer-woodfine
 bcsc_class: current-fact
-last_edited: 2026-08-24
+last_edited: 2026-09-04
 editor: pointsav-engineering
 language_protocol: PROSE-TOPIC
 source_refs:
@@ -24,16 +25,6 @@ The **Development Site Monitoring Register** holds Primary Target locations that
 ## Why land availability is a separate gate
 
 A Primary Target that clears a qualifying tier — Local, District, or Regional, per the [[geographic-co-location-methodology|current tier system]] — has demonstrated the co-location and catchment conditions that Woodfine requires. A Fringe cluster does not qualify. The tier verifies that the commercial environment is correct for a Woodfine Building.
-
-**Correction (2026-08-02), resolved (2026-08-24):** this section previously cited
-a fabricated "T1 Valid ≥ 150" scoring threshold from a deprecated points-based
-system (retired platform-wide 2026-05-16; see [[gis-cluster-scoring-glossary]]).
-The register's actual re-entry test — a site must remain above the disqualifying
-floor — is now stated directly against the current tier system: any tier other
-than Fringe qualifies. This restates the register's original intent (a site
-qualifies once it clears the lowest bar the tier system sets, not a specific
-score) without asserting a score-to-tier mapping that does not exist in the
-current pipeline.
 
 Adjacent land availability is a separate condition. A site can have the correct co-location configuration and the correct demographic profile, but lack a parcel adjacent to the Primary Target that is available for acquisition at the time of assessment. This is particularly common in [[about-regional-markets-system|Regional Markets]] where the [[power-centres|Power Centre]] footprint has been fully developed and surrounding parcels are occupied by existing buildings whose owners are not current sellers.
 
@@ -58,3 +49,11 @@ Sites that satisfy both conditions proceed to the Transaction Summary Report pre
 ## Relationship to pipeline counts
 
 Required development counts for each Direct-Hold Solution — 26 sites for Canada, 52 for the United States, 26 for Mexico — are based on active pipeline sites only. Monitoring Register sites are not counted toward the required development total. The 2:1 minimum shortlist ratio applies to active pipeline sites; the Monitoring Register is a reserve of future pipeline candidates, not a component of the current shortlist calculation.
+
+## See also
+
+- [[geographic-co-location-methodology]] — the current tier system a site must clear to qualify
+- [[gis-cluster-scoring-glossary]] — tier definitions referenced in the re-entry test
+- [[about-regional-markets-system]] — the market context in which land-availability gaps arise
+- [[power-centres]] — the Power Centre footprint context for adjacent-land assessment
+- [[transaction-summary-report-protocol]] — the stage a site advances to upon re-entry

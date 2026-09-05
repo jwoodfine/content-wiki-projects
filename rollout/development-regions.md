@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-25
+last_edited: 2026-09-04
 editor: pointsav-engineering
 short_description: "Geographic and jurisdictional zones segmenting market data, regulatory context, and site-selection scope for co-location evaluation and compliance."
 paired_with: development-regions.es.md
@@ -48,7 +48,7 @@ The development-regions model is intended to support expansion beyond Canada as 
 
 ## See also
 
-- the country-by-country rollout programme within which regional deployment decisions are made
+- [[rollout-index|Development Program]] — the country-by-country rollout programme within which regional deployment decisions are made
 - [[about-regional-markets-system|Regional Markets Intelligence System]] — the qualification methodology behind the market-data scope
 - [[atlas-top-400-north-america|Top 400 Regional Markets — North America]]
 - [[atlas-top-400-europe|Top 400 Regional Markets — Europe]]

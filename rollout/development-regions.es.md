@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-25
+last_edited: 2026-09-04
 editor: pointsav-engineering
 short_description: "Zonas geográficas y jurisdiccionales que segmentan datos de mercado, contexto regulatorio y alcance de selección de sitios para la evaluación de coubicación y cumplimiento."
 paired_with: development-regions.md
@@ -40,9 +40,15 @@ Cada región de desarrollo se define mediante tres componentes:
 
 Las definiciones de regiones de desarrollo son el marco dentro del cual opera la puntuación de selección de sitios. Cuando se inicia un proceso de selección de sitio, se especifica una región de desarrollo; la puntuación busca dentro del límite geográfico de esa región y devuelve una lista clasificada de candidatos delimitada a esa región.
 
+Las regiones de desarrollo son definiciones estables que cambian con poca frecuencia — cuando entra en vigor un nuevo marco regulatorio, cuando la cobertura se amplía a una nueva geografía, o cuando cambia un límite jurisdiccional. La puntuación de selección de sitios es el consumidor en tiempo de ejecución de esas definiciones.
+
+## Expansión planificada
+
+El modelo de regiones de desarrollo está diseñado para admitir una expansión más allá de Canadá a medida que el programa crece. Las nuevas regiones se incorporan mediante un proceso gobernado: el alcance jurisdiccional, el límite geográfico y el alcance de datos de mercado deben declararse por separado antes de que la región se utilice en cualquier decisión de despliegue. Las regiones en definición se indican como planificadas hasta que los tres componentes estén formalmente especificados.
+
 ## Véase también
 
-- el programa de expansión país por país dentro del cual se toman las decisiones de despliegue regional
+- [[rollout-index|Programa de Desarrollo]] — el programa de expansión país por país dentro del cual se toman las decisiones de despliegue regional
 - [[about-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]] — la metodología de calificación detrás del alcance de datos de mercado
 - [[atlas-top-400-north-america|Top 400 Mercados Regionales — América del Norte]]
 - [[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]]

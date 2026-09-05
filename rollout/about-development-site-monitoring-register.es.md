@@ -9,8 +9,9 @@ content_type: topic
 quality: complete
 short_description: "Registro de seguimiento pasivo que conserva sitios de co-ubicación calificados retirados del pipeline activo por falta de terreno adyacente, puntuados y con criterios de re-entrada."
 status: stable
+audience: customer-woodfine
 bcsc_class: current-fact
-last_edited: 2026-08-24
+last_edited: 2026-09-04
 editor: pointsav-engineering
 language_protocol: TRANSLATE-ES
 source_refs:
@@ -24,13 +25,6 @@ El **Registro de Monitoreo de Sitios de Desarrollo** mantiene las ubicaciones de
 ## Por qué la disponibilidad de terreno es una puerta separada
 
 Un Objetivo Primario que supera un nivel calificante — Local, Distrital o Regional, según el [[geographic-co-location-methodology|sistema de niveles actual]] — ha demostrado las condiciones de co-ubicación y captación que Woodfine requiere. Un clúster Marginal no califica. El nivel verifica que el entorno comercial es correcto para un Woodfine Building.
-
-**Corrección (2026-08-24):** esta sección citaba anteriormente un umbral de
-puntuación fabricado ("T1 Valid ≥ 150") de un sistema de puntos ya retirado en
-toda la plataforma el 16 de mayo de 2026 (véase [[gis-cluster-scoring-glossary]]).
-La prueba real de re-entrada del registro — que un sitio se mantenga por encima
-del umbral descalificante — se expresa ahora directamente contra el sistema de
-niveles actual: cualquier nivel distinto de Marginal califica.
 
 La disponibilidad de terreno adyacente es una condición separada. Un sitio puede tener la configuración de co-ubicación correcta y el perfil demográfico correcto, pero carecer de una parcela adyacente al Objetivo Primario disponible para adquisición en el momento de la evaluación. Esto es particularmente común en los [[about-regional-markets-system|Mercados Regionales]] donde la huella del [[power-centres|Power Centre]] ha sido completamente desarrollada y las parcelas circundantes están ocupadas por edificios existentes cuyos propietarios no son vendedores actuales.
 
@@ -55,3 +49,11 @@ Los sitios que satisfacen ambas condiciones proceden a la preparación del Infor
 ## Relación con los conteos del pipeline
 
 Los conteos de desarrollo requeridos para cada Direct-Hold Solution — 26 sitios para Canadá, 52 para Estados Unidos, 26 para México — se basan únicamente en sitios del pipeline activo. Los sitios del Registro de Monitoreo no se contabilizan para el total de desarrollo requerido. La proporción mínima de preselección de 2:1 se aplica a los sitios del pipeline activo; el Registro de Monitoreo es una reserva de candidatos futuros del pipeline, no un componente del cálculo actual de la preselección.
+
+## Consulte también
+
+- [[geographic-co-location-methodology]] — el sistema de niveles actual que un sitio debe superar para calificar
+- [[gis-cluster-scoring-glossary]] — las definiciones de nivel referenciadas en la prueba de re-entrada
+- [[about-regional-markets-system]] — el contexto de mercado en el que surgen las brechas de disponibilidad de terreno
+- [[power-centres]] — el contexto de la huella del Power Centre para la evaluación de terreno adyacente
+- [[transaction-summary-report-protocol]] — la etapa a la que avanza un sitio tras su re-entrada
