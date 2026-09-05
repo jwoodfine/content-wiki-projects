@@ -76,7 +76,9 @@ Nueve índices de Mercado Regional por país filtran las tablas continentales de
 
 ## Perfiles de Mercado
 
-Existen hoy 41 páginas de perfil de mercado individual (pares EN+ES), cada una con contexto de población y economía procedente de Wikipedia.
+Existen hoy 66 páginas de perfil de mercado individual (pares EN+ES), cada una con contexto de población y economía procedente de Wikipedia.
+
+*Corrección (2026-09-05):* esta cifra decía antes 41 — una cifra desactualizada que quedó tras añadir los conjuntos de perfiles de Grecia (7), Croacia (9) y Noruega (9) (25 páginas) a la lista Auto-generada de abajo sin incorporarlas nunca a esta cifra ni al reparto verificado/solo-referencia/retirado inmediatamente debajo. La cifra de 66 es el total actual y correcto. El reparto en tres partes que sigue (16 verificadas / 16 solo-referencia / 9 retiradas, que aún suma 41) todavía no se ha extendido para cubrir las 25 páginas recién contabilizadas — señalado para una futura revisión, no resuelto aquí.
 
 **Entradas verificadas del TOP400 (16):** composición de clústeres de co-ubicación vigente
 según el conjunto de datos del 2026-08-07. No se publica posición ni puntuación para ninguna
@@ -159,7 +161,32 @@ referencia / 9 retiradas (41 en total).
 - [[gb-eng-warrington]] — Mercado Regional en Europa — suburbio de Wigan; 1 clúster de nivel District y 1 de nivel Local.
 - [[gb-eng-york]] — Mercado Regional en Europa — suburbio de Leeds; 1 clúster de nivel District y 2 de nivel Local.
 - [[gb-sct-inverness]] — Capital de las Tierras Altas escocesas, muy fuera de distancia de cercanías de Edimburgo o Glasgow — fuera del conjunto de calificación Top-400 actual.
+- [[gr-attica-elefsina]] — Mercado Regional de Europa — punto de referencia metropolitano Atenas, 17,9 km; 1 clúster de nivel Regional.
+- [[gr-attica-gerakas]] — Mercado Regional de Europa — punto de referencia metropolitano Atenas, 12,3 km; 1 clúster de nivel Regional.
+- [[gr-corfu-kanali]] — Mercado Regional de Europa — punto de referencia metropolitano Patras, 219,8 km; 1 clúster de nivel Regional.
+- [[gr-crete-chania]] — Mercado Regional de Europa — punto de referencia metropolitano Heraclión, 103,3 km; 1 clúster de nivel Local.
+- [[gr-evros-alexandroupolis]] — Mercado Regional de Europa — punto de referencia metropolitano Plovdiv (Bulgaria), 171,9 km; 1 clúster de nivel District y 1 de nivel Local.
+- [[gr-magnesia-volos]] — Mercado Regional de Europa — punto de referencia metropolitano Tesalónica, 141,3 km; 1 clúster de nivel Regional.
+- [[gr-messenia-kalamata]] — Mercado Regional de Europa — punto de referencia metropolitano Patras, 138,4 km; 1 clúster de nivel Local.
+- [[hr-central-croatia-sisak]] — Mercado Regional de Europa — punto de referencia metropolitano Graz (Austria), 189,2 km; 1 clúster de nivel Regional.
+- [[hr-central-croatia-zagreb]] — Mercado Regional de Europa — punto de referencia metropolitano Graz (Austria), 147,4 km; 4 clústeres de nivel Regional y 1 de nivel Distrito.
+- [[hr-dalmatia-sibenik]] — Mercado Regional de Europa — punto de referencia metropolitano Ancona (Italia), 213,8 km; 1 clúster de nivel Regional.
+- [[hr-dalmatia-split]] — Mercado Regional de Europa — punto de referencia metropolitano Ancona (Italia), 256,0 km; 1 clúster de nivel Regional y 1 de nivel Local.
+- [[hr-dalmatia-zadar]] — Mercado Regional de Europa — punto de referencia metropolitano Ancona (Italia), 179,1 km; 1 clúster de nivel Regional.
+- [[hr-istria-pula-pola]] — Mercado Regional de Europa — punto de referencia metropolitano Trieste (Italia), 86,3 km; 1 clúster de nivel Regional.
+- [[hr-northern-croatia-varazdin]] — Mercado Regional de Europa — punto de referencia metropolitano Graz (Austria), 111,2 km; 1 clúster de nivel Regional.
+- [[hr-posavina-slavonski-brod]] — Mercado Regional de Europa — punto de referencia metropolitano Timișoara (Rumanía), 255,8 km; 1 clúster de nivel Regional y 1 de nivel Distrito.
+- [[hr-slavonia-osijek]] — Mercado Regional de Europa — punto de referencia metropolitano Timișoara (Rumanía), 199,0 km; 1 clúster de nivel Regional y 1 de nivel Local.
 - [[nl-breda]] — Mercado Regional en Europa — suburbio de Róterdam; 1 clúster de nivel Regional y 1 de nivel Local.
+- [[no-agder-arendal]] — Mercado Regional de Europa — punto de referencia metropolitano Aalborg (Dinamarca), 173,0 km; 1 clúster de co-ubicación de nivel Regional.
+- [[no-akershus-ullensaker]] — Mercado Regional de Europa — punto de referencia metropolitano Oslo, 34,6 km; 1 clúster de co-ubicación de nivel Regional.
+- [[no-buskerud-drammen]] — Mercado Regional de Europa — punto de referencia metropolitano Oslo, 39,7 km; 1 clúster de nivel Regional y 2 de nivel Local.
+- [[no-innlandet-elverum]] — Mercado Regional de Europa — punto de referencia metropolitano Oslo, 116,8 km; 1 clúster de co-ubicación de nivel Regional.
+- [[no-innlandet-ringsaker]] — Mercado Regional de Europa — punto de referencia metropolitano Oslo, 106,8 km; 1 clúster de nivel Distrito y 1 de nivel Local.
+- [[no-nordland-bodo]] — Mercado Regional de Europa — punto de referencia metropolitano Trondheim, 466,6 km; 1 clúster de co-ubicación de nivel Regional.
+- [[no-nordland-rana]] — Mercado Regional de Europa — punto de referencia metropolitano Trondheim, 365,6 km; 1 clúster de co-ubicación de nivel Regional.
+- [[no-ostfold-moss]] — Mercado Regional de Europa — punto de referencia metropolitano Oslo, 55,1 km; 1 clúster de co-ubicación de nivel Regional.
+- [[no-trondelag-steinkjer]] — Mercado Regional de Europa — punto de referencia metropolitano Trondheim, 84,1 km; 1 clúster de co-ubicación de nivel Regional.
 - [[pl-bielsko-biala]] — Mercado Regional en Europa — suburbio de Katowice, 48 km; 2 clústeres de nivel Regional con ancla cívica confirmada.
 - [[se-jarfalla]] — Mercado Regional en Europa — suburbio de Estocolmo; 1 clúster de nivel Regional.
 - [[us-az-tempe]] — Mercado Regional en América del Norte — suburbio de Phoenix; 1 clúster de nivel Regional y 2 de nivel Local.
