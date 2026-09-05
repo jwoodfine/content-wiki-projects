@@ -10,7 +10,7 @@ quality: complete
 short_description: "Glosario de la taxonomía de anclas, las definiciones de nivel (Regional, Distrital, Local, Marginal), las compuertas de calificación y la convención de radio del sistema de puntuación de co-ubicación geográfica de Woodfine."
 status: stable
 bcsc_class: current-fact
-last_edited: 2026-08-24
+last_edited: 2026-09-04
 editor: pointsav-engineering
 language_protocol: TRANSLATE-ES
 source_refs:
@@ -24,7 +24,7 @@ Estos términos aparecen en los informes del conjunto de datos de co-ubicación,
 
 ## Taxonomía de anclas
 
-Cada clúster puntuado se forma alrededor de una tienda de una de cuatro clases de ancla. Las anclas de **Hipermercado** son cadenas de mercancía general como Walmart, Target, Mercadona y Tesco. Las anclas de **Estilo de Vida** son minoristas de hogar y decoración a gran formato; IKEA es la única cadena en esta clase. Las anclas de **Ferretería** son cadenas de mejoras para el hogar como Home Depot, Lowe's y Leroy Merlin. Las anclas de **Almacén** son clubes de almacén por membresía como Costco, Sam's Club y Makro. La composición de un clúster — qué clases de ancla se co-ubican en un nodo — es el primer insumo para la asignación de nivel. El mapeo completo de cadenas a familias se documenta en la [[retail-brand-family-taxonomy|taxonomía de familias de marcas minoristas]].
+Cada clúster puntuado se forma alrededor de una tienda de una de cuatro clases de ancla. Las anclas de **Hipermercado** son cadenas de mercancía general como Walmart Supercenter, Target y Carrefour Hypermarket. Las anclas de **Estilo de Vida** son minoristas de hogar y decoración a gran formato; IKEA es la única cadena en esta clase. Las anclas de **Ferretería** son cadenas de mejoras para el hogar como Home Depot, Lowe's y Leroy Merlin. Las anclas de **Almacén** son clubes de almacén por membresía como Costco, Sam's Club y Makro. La composición de un clúster — qué clases de ancla se co-ubican en un nodo — es el primer insumo para la asignación de nivel. El mapeo completo de cadenas a familias se documenta en la [[retail-brand-family-taxonomy|taxonomía de familias de marcas minoristas]].
 
 ## Definiciones de nivel
 
@@ -36,8 +36,8 @@ Un clúster obtiene un nivel al superar todas las compuertas requeridas para ese
 
 ## Convención de radio
 
-Los clústeres se comparan por superposición usando un disco de radio fijo de 3,0 km centrado en cada clúster. Dos clústeres compiten por el mismo nodo cuando la superposición entre sus discos — medida como intersección sobre unión — supera el límite de la compuerta de no-superposición; el clúster más débil queda entonces por debajo del nivel que su composición habría obtenido de otro modo. Esta convención de radio única reemplazó un esquema anterior de umbrales de proximidad separados de 1,0 km y 5,0 km; ese esquema anterior no se aplica a ningún nivel actual.
+Los clústeres se comparan por superposición usando un disco de radio fijo centrado en cada clúster. Dos clústeres compiten por el mismo nodo cuando la superposición entre sus discos supera el límite de la compuerta de no-superposición; el clúster más débil queda entonces por debajo del nivel que su composición habría obtenido de otro modo. Esta convención de radio única reemplazó un esquema anterior de umbrales de proximidad separados y más amplios; ese esquema anterior no se aplica a ningún nivel actual. El radio exacto es un parámetro de la plataforma, publicado en gis.woodfinegroup.com y no se reproduce aquí.
 
 ## Métricas de salida del conjunto de datos
 
-**Descriptor de composición** — Las clases de ancla presentes en un clúster, mostradas como una etiqueta en lenguaje sencillo como "Hipermercado + Ferretería + Almacén." **Rango de captación** — La posición percentil de un clúster por población dentro de su propio país; un clúster en el 10% superior a nivel nacional supera la compuerta de captación más estricta. **Clúster puntuado** — Cualquier nodo geo-localizado que ha sido evaluado contra la taxonomía de anclas y al que se le ha asignado un nivel. El término aparece en los informes de cobertura GIS para describir el conteo total de nodos evaluados en una geografía dada.
+**Descriptor de composición** — Las clases de ancla presentes en un clúster, mostradas como una etiqueta en lenguaje sencillo como "Hipermercado + Ferretería + Almacén." **Rango de captación** — La posición percentil de un clúster por población dentro de su propio país; un clúster que figura entre los más altos a nivel nacional supera la compuerta de captación más estricta. **Clúster puntuado** — Cualquier nodo geo-localizado que ha sido evaluado contra la taxonomía de anclas y al que se le ha asignado un nivel. El término aparece en los informes de cobertura GIS para describir el conteo total de nodos evaluados en una geografía dada.

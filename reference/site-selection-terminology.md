@@ -9,8 +9,9 @@ content_type: topic
 quality: complete
 short_description: "Glossary of Woodfine site selection and development terms, including Qualified Investment, Power Centre, Campus Design, and the Primary–Tertiary target tiers."
 status: stable
+audience: customer-woodfine
 bcsc_class: current-fact
-last_edited: 2026-08-24
+last_edited: 2026-09-04
 editor: pointsav-engineering
 language_protocol: PROSE-TOPIC
 source_refs:

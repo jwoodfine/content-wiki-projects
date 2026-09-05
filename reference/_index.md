@@ -19,6 +19,12 @@ paired_with: _index.es.md
 
 Glossary and Reference covers the terminology and standard definitions used across this wiki, in plain words.
 
+<!-- START-HERE-HIGHLIGHT: engine reads this block to render the single "start here" card (reuses the existing cluster-card--start-here component). Do not add more than one. -->
+
+**Start here:** [[wiki-structure|How This Wiki Is Organized]]
+
+<!-- END-START-HERE-HIGHLIGHT -->
+
 ## Glossaries
 
 [[site-selection-terminology|Site Selection Terminology]] defines the vocabulary of choosing where to build — Qualified Investment, Power Centre, Campus Design, and the Primary–Tertiary target tiers. [[gis-cluster-scoring-glossary|The Cluster Scoring Glossary]] defines the anchor taxonomy, tier definitions (Regional, District, Local, Fringe), and radius convention behind the geographic co-location scoring system described in [[markets|Regional Markets]] and [[site-selection-index|Site Selection]].

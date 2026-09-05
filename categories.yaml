@@ -65,9 +65,10 @@ categories:
   - id: industry
     name: "Market Position"
     scope: >-
-      How the market works: rents and building income, values and
-      capitalization rates, market cycles, interest rates, and the
-      structure of the private market.
+      Woodfine's own structural policies in the Regional Markets: the
+      construction and take-out financing capital gap the Direct-Hold
+      Solutions are designed to address, and the deliberate under-building
+      discipline that preserves pricing power.
     audience: "Analyst, banker, investor"
     order: 6
 
@@ -101,7 +102,8 @@ categories:
     name: "Glossary and Reference"
     scope: >-
       Terminology and standard definitions for buildings, markets, and
-      geographic analysis, in plain words.
+      geographic analysis, in plain words, plus a reader's map to how this
+      wiki itself is organized.
     audience: "All readers"
     order: 10
 

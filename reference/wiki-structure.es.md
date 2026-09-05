@@ -30,7 +30,7 @@ definido enlaza con el glosario.
 
 ## Los edificios
 
-**Edificios** describe las seis [[about-development-classes|clases de desarrollo]] — Professional
+**Clases de Desarrollo** describe las seis [[about-development-classes|clases de desarrollo]] — Professional
 Centres (de tres a cinco plantas), Suburban Office (de seis a quince
 plantas), Retail Select (una sola planta), Tech Industrial y las previstas
 Parking Structures y Vertical Warehouses — cada una diseñada según un

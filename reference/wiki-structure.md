@@ -28,7 +28,7 @@ the glossary.
 
 ## The buildings
 
-**Buildings** describes the six [[about-development-classes|development classes]] — Professional
+**Development Classes** describes the six [[about-development-classes|development classes]] — Professional
 Centres (three to five storeys), Suburban Office (six to fifteen
 storeys), Retail Select (single storey), Tech Industrial, and the
 planned Parking Structures and Vertical Warehouses — each designed to a

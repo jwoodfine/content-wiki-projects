@@ -10,7 +10,7 @@ quality: complete
 short_description: "Glossary of the anchor taxonomy, tier definitions (Regional, District, Local, Fringe), predicate gates, and radius convention used in the Woodfine geographic co-location scoring system."
 status: stable
 bcsc_class: current-fact
-last_edited: 2026-08-24
+last_edited: 2026-09-04
 editor: pointsav-engineering
 language_protocol: PROSE-TOPIC
 source_refs:
@@ -24,7 +24,7 @@ These terms appear in co-location dataset reports, GIS coverage communications, 
 
 ## Anchor taxonomy
 
-Every scored cluster forms around a store from one of four anchor classes. **Hypermarket** anchors are general-merchandise chains such as Walmart, Target, Mercadona, and Tesco. **Lifestyle** anchors are large-format home-and-furnishings retailers; IKEA is the only chain in this class. **Hardware** anchors are home-improvement chains such as Home Depot, Lowe's, and Leroy Merlin. **Warehouse** anchors are membership warehouse clubs such as Costco, Sam's Club, and Makro. A cluster's composition — which anchor classes co-locate at one node — is the first input to tier assignment. The full chain-to-family mapping is documented in the [[retail-brand-family-taxonomy|retail brand family taxonomy]].
+Every scored cluster forms around a store from one of four anchor classes. **Hypermarket** anchors are general-merchandise chains such as Walmart Supercenter, Target, and Carrefour Hypermarket. **Lifestyle** anchors are large-format home-and-furnishings retailers; IKEA is the only chain in this class. **Hardware** anchors are home-improvement chains such as Home Depot, Lowe's, and Leroy Merlin. **Warehouse** anchors are membership warehouse clubs such as Costco, Sam's Club, and Makro. A cluster's composition — which anchor classes co-locate at one node — is the first input to tier assignment. The full chain-to-family mapping is documented in the [[retail-brand-family-taxonomy|retail brand family taxonomy]].
 
 ## Tier definitions
 
@@ -36,8 +36,8 @@ A cluster earns a tier by clearing every required gate for that tier, not by acc
 
 ## Radius convention
 
-Clusters are compared for overlap using a fixed 3.0 km radius disk centred on each cluster. Two clusters compete for the same node when the overlap between their disks — measured as intersection over union — exceeds the non-overlap gate's limit; the weaker cluster is then held below the tier its composition would otherwise earn. This single radius convention replaced an earlier scheme of separate 1.0 km and 5.0 km proximity thresholds; the earlier scheme does not apply to any current tier.
+Clusters are compared for overlap using a fixed-radius disk centred on each cluster. Two clusters compete for the same node when the overlap between their disks exceeds the non-overlap gate's limit; the weaker cluster is then held below the tier its composition would otherwise earn. This single radius convention replaced an earlier scheme of separate, wider proximity thresholds; the earlier scheme does not apply to any current tier. The exact radius is a platform parameter, published at gis.woodfinegroup.com rather than restated here.
 
 ## Dataset output metrics
 
-**Composition descriptor** — The anchor classes present at a cluster, shown as a plain-language label such as "Hypermarket + Hardware + Warehouse." **Catchment rank** — A cluster's percentile position by population within its own country; a cluster in the top 10% nationally clears the strictest catchment gate. **Scored cluster** — Any geo-located node that has been evaluated against the anchor taxonomy and assigned a tier. The term appears in GIS coverage reports to describe the total count of evaluated nodes in a given geography.
+**Composition descriptor** — The anchor classes present at a cluster, shown as a plain-language label such as "Hypermarket + Hardware + Warehouse." **Catchment rank** — A cluster's percentile position by population within its own country; a cluster ranking among the highest nationally clears the strictest catchment gate. **Scored cluster** — Any geo-located node that has been evaluated against the anchor taxonomy and assigned a tier. The term appears in GIS coverage reports to describe the total count of evaluated nodes in a given geography.

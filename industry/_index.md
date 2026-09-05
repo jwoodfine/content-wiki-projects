@@ -19,6 +19,12 @@ paired_with: _index.es.md
 
 This category does not cover general commercial real estate market economics — no rents and income, no capitalization rates, no interest-rate cycles. What remains are two of Woodfine's own structural policies in the Regional Markets, each responding to a real market condition rather than commenting on the market generally.
 
+<!-- START-HERE-HIGHLIGHT: engine reads this block to render the single "start here" card (reuses the existing cluster-card--start-here component). Do not add more than one. -->
+
+**Start here:** [[regional-market-capital-gap|The Regional Market Capital Gap]]
+
+<!-- END-START-HERE-HIGHLIGHT -->
+
 ## Woodfine's Structural Policies
 
 [[regional-market-capital-gap|The Regional Market Capital Gap]] documents a structural shortfall in construction and take-out financing in Regional Markets, despite Metro-comparable incomes — the gap Woodfine's Direct-Hold Solutions are designed to address. [[under-building-supply-discipline|Under-Building and Supply Discipline]] is Woodfine's deliberate policy of developing less leasable area than identified Regional Market demand, producing full occupancy, documented waiting lists, and preserved pricing power.

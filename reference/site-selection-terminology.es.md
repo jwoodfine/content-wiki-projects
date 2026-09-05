@@ -9,8 +9,9 @@ content_type: topic
 quality: complete
 short_description: "Glosario de los términos de selección de sitios y desarrollo de Woodfine, incluyendo Inversión Calificada, Power Centre, Diseño Campus y los objetivos Primario a Terciario."
 status: stable
+audience: customer-woodfine
 bcsc_class: current-fact
-last_edited: 2026-08-24
+last_edited: 2026-09-04
 editor: pointsav-engineering
 language_protocol: TRANSLATE-ES
 source_refs:
