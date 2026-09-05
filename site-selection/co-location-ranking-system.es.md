@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-26
+last_edited: 2026-09-04
 editor: editorial
 es_status: complete
 short_description: "La mecánica determinista detrás de la clasificación de clústeres en la plataforma de co-ubicación — ejes de percentil relativos al país, la prueba de superposición entre clústeres vecinos y el orden de desempate aplicado dentro de un nivel."
@@ -22,15 +22,15 @@ La [[co-location-methodology|metodología de co-ubicación]] de Woodfine asigna 
 
 ## Clasificación relativa al país
 
-El nivel de un clúster depende de su posición frente a todos los demás clústeres de su propio país, no frente a un umbral global fijo. Cada clúster se clasifica frente a sus pares nacionales en ocho medidas: población de captación primaria y secundaria, y gasto primario y secundario en las categorías de alimentación, ferretería y venta al por mayor. Clasificar dentro de cada país, en lugar de contra un único umbral global, preserva la estructura de un mercado más pequeño: un clúster de importancia nacional en un país pequeño se evalúa frente a su propio campo nacional, sin quedar eclipsado por la escala de uno más grande. El cálculo del percentil en sí está previsto para publicarse en gis.woodfinegroup.com.
+El nivel de un clúster depende de su posición frente a todos los demás clústeres de su propio país, no frente a un umbral global fijo. Cada clúster se clasifica frente a sus pares nacionales según medidas de población de captación y de gasto de los consumidores. Clasificar dentro de cada país, en lugar de contra un único umbral global, preserva la estructura de un mercado más pequeño: un clúster de importancia nacional en un país pequeño se evalúa frente a su propio campo nacional, sin quedar eclipsado por la escala de uno más grande. Los ejes de percentil y el cálculo que los sustenta están previstos para publicarse en gis.woodfinegroup.com.
 
-Dos zonas de demanda alimentan los ejes de población y gasto: una zona primaria dentro de 35 km del clúster y una zona secundaria entre 35 km y 150 km, según la [[od-catchment-methodology|metodología de bandas de distancia]]. Las estimaciones de gasto se basan en encuestas nacionales de gasto de los hogares aplicadas a la misma cuadrícula de población.
+La captación se mide en dos bandas de distancia — una zona primaria dentro de 35 km del clúster y una zona secundaria entre 35 km y 150 km —, según la [[od-catchment-methodology|metodología de bandas de distancia]]. Las estimaciones de gasto se basan en encuestas nacionales de gasto de los hogares.
 
 Estos umbrales son intencionalmente amplios. El sistema está diseñado para separar los clústeres de importancia nacional de los nodos locales, no para clasificar con precisión los clústeres entre sí dentro de un mismo nivel.
 
 ## La prueba de superposición
 
-Un clúster solo se acredita para su nivel cuando no está dominado por un vecino más fuerte cercano. La superposición entre clústeres vecinos se mide mediante una prueba geométrica publicada sobre un radio fijo alrededor de cada clúster: cuanto más cerca están dos clústeres, mayor es la superposición medida, y los clústeres suficientemente separados se consideran espacialmente independientes. Un clúster que se superpone sustancialmente con uno más fuerte se mantiene por debajo del nivel que su composición y captación alcanzarían por sí solas. Regional lleva el límite de superposición más estricto de todos los niveles, según las [[catchment-ranking-methodology-v3|definiciones de compuertas]]. La medida de superposición y su radio están previstos para publicarse en gis.woodfinegroup.com.
+Un clúster solo se acredita para su nivel cuando no está dominado por un vecino más fuerte cercano. La superposición entre clústeres vecinos se mide mediante una prueba geométrica sobre un radio fijo alrededor de cada clúster: cuanto más cerca están dos clústeres, mayor es la superposición medida, y los clústeres suficientemente separados se consideran espacialmente independientes. Un clúster que se superpone sustancialmente con uno más fuerte se mantiene por debajo del nivel que su composición y captación alcanzarían por sí solas. Regional lleva el límite de superposición más estricto de todos los niveles, según las [[catchment-ranking-methodology-v3|definiciones de compuertas]]. La medida de superposición y su radio están previstos para publicarse en gis.woodfinegroup.com.
 
 ## Orden dentro de un nivel
 
@@ -49,7 +49,6 @@ Datos de mapa y localización © [colaboradores de OpenStreetMap](https://www.op
 ## Referencias
 
 - [Gran superficie](https://es.wikipedia.org/wiki/Gran_superficie) — Wikipedia, consultado 2026-06-14
-- [DBSCAN](https://es.wikipedia.org/wiki/DBSCAN) — Wikipedia, consultado 2026-06-14
 
 ---
 

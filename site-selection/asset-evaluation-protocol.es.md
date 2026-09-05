@@ -2,7 +2,7 @@
 schema: foundry-doc-v1
 title: "Protocolo de Evaluación de Activos"
 slug: asset-evaluation-protocol
-short_description: "Cómo la matriz de clasificación por co-ubicación orienta la selección de activos comerciales de Woodfine: la puntuación por niveles como criterio de entrada, el análisis GIS independiente como método de verificación."
+short_description: "Cómo la matriz de clasificación por co-ubicación orienta la selección de activos comerciales de Woodfine: la clasificación por niveles como criterio de entrada, la puntuación determinista sobre datos públicos de ubicación como método de verificación."
 category: site-selection
 index_group: before-land-is-bought
 type: reference
@@ -12,7 +12,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-26
+last_edited: 2026-09-04
 editor: pointsav-engineering
 paired_with: site-selection/asset-evaluation-protocol.md
 cites: []
@@ -23,7 +23,7 @@ El proceso de adquisición de activos de Woodfine comienza con la matriz de clas
 ## Puntos clave
 
 - La puntuación por niveles es un filtro de entrada binario: un emplazamiento cumple la clasificación mínima y avanza a la evaluación de capital, o no lo hace; no se hacen excepciones por otras características del emplazamiento.
-- La matriz de clasificación evalúa tres capas de anclas (Objetivo Principal, operadores secundarios, infraestructura cívica terciaria) dentro de radios de influencia definidos, lo que produce una clasificación de nivel reproducible y verificable mediante análisis GIS independiente.
+- La matriz de clasificación evalúa tres capas de anclas (Objetivo Principal, operadores secundarios, infraestructura cívica terciaria) dentro de radios de influencia definidos, y produce una clasificación de nivel que se apoya en datos públicos de ubicación, no en una visión de mercado.
 - Superar el umbral de nivel es condición necesaria, pero no suficiente, para la adquisición; en la fase de evaluación de capital sigue un análisis específico del activo que abarca su estado, la estructura del arrendamiento, la titularidad y el servicio de la deuda.
 
 ## La puntuación por niveles como criterio de entrada
@@ -38,15 +38,15 @@ La matriz evalúa tres capas de presencia de anclas dentro de radios de influenc
 
 **Ancla de Objetivo Principal.** Un Walmart Supercentre en mercados norteamericanos, o IKEA en mercados europeos, dentro del área comercial primaria del emplazamiento. El ancla de Objetivo Principal es el factor de ponderación más significativo de la matriz. Un emplazamiento sin un ancla de Objetivo Principal comprometida no puede alcanzar una clasificación de nivel suficiente para entrar en la evaluación de capital.
 
-**Anclas secundarias.** Operadores de grandes superficies de mejoras del hogar y clubes de mayoristas dentro de 3 km. Cada ancla secundaria confirmada dentro del radio contribuye a la puntuación por niveles. El número y la proximidad de las anclas secundarias distinguen un emplazamiento de nivel 4 de uno de nivel 3 dentro del mismo área comercial primaria.
+**Anclas secundarias.** Operadores de grandes superficies de mejoras del hogar y clubes de mayoristas situados dentro del radio de captación secundario del emplazamiento. Cada ancla secundaria confirmada dentro de ese radio contribuye a la puntuación por niveles. El número y la proximidad de las anclas secundarias son lo que separa clasificaciones de nivel contiguas dentro de la misma área comercial primaria.
 
-**Infraestructura cívica terciaria.** Hospitales e instituciones de educación superior dentro de 5 km. Las anclas cívicas generan un tráfico consistente y resistente a las recesiones que complementa el tráfico impulsado por el comercio minorista. Su presencia en el radio de influencia contribuye a la puntuación por niveles, pero no sustituye a la presencia de anclas minoristas.
+**Infraestructura cívica terciaria.** Hospitales e instituciones de educación superior situados dentro de un radio de captación cívico más amplio. Las anclas cívicas generan un tráfico consistente y resistente a las recesiones que complementa el tráfico impulsado por el comercio minorista. Su presencia en el área de captación contribuye a la puntuación por niveles, pero no sustituye a la presencia de anclas minoristas.
 
-La puntuación combinada de las tres capas produce una clasificación de nivel del 1 al 5. El umbral mínimo actual de Woodfine para la evaluación de capital es una clasificación de nivel 3.
+La valoración combinada de las tres capas produce una única clasificación de nivel. El nivel mínimo para la evaluación de capital se fija a nivel de plataforma y se aplica de manera uniforme a todos los emplazamientos candidatos.
 
 ## Verificación independiente
 
-La matriz es reproducible mediante análisis GIS independiente utilizando datos públicos de ubicación de minoristas y coordenadas de instalaciones cívicas. La puntuación de un emplazamiento no depende de la evaluación interna de Woodfine sobre las condiciones del mercado; depende de la presencia o ausencia de operadores e instalaciones específicos dentro de radios definidos. Un analista que aplique la misma matriz a los mismos datos debería llegar a la misma clasificación para un emplazamiento dado.
+La matriz opera sobre datos públicos de ubicación de minoristas y coordenadas de instalaciones cívicas. Sus insumos son hechos observables sobre el terreno —qué operadores y qué instalaciones cívicas se encuentran dentro de los radios definidos por la plataforma—, no una previsión sobre hacia dónde se dirige un mercado. La clasificación de un emplazamiento no depende de la evaluación interna de Woodfine sobre las condiciones del mercado, y dos analistas que apliquen los mismos criterios a los mismos datos llegan a la misma clasificación.
 
 Esta reproducibilidad no es accidental; es un requisito de diseño. Si el criterio de entrada dependiera de un juicio que solo Woodfine pudiera emitir, el filtro no funcionaría como un estándar objetivo.
 
@@ -64,7 +64,7 @@ La evaluación de capital produce una recomendación de inversión; la puntuaci�
 
 ## La conclusión
 
-El Protocolo de Evaluación de Activos disciplina el embudo de adquisición al imponer un filtro de entrada objetivo y reproducible antes de que comience cualquier análisis de capital. La puntuación por niveles elimina el origen de operaciones impulsado por la defensa de un emplazamiento preferido: si un emplazamiento no califica de forma independiente según la matriz de co-ubicación, la evaluación no continúa. Una vez que un emplazamiento supera el umbral, se aplica el análisis de capital convencional — el estado de la propiedad, la estructura del arrendamiento, la titularidad y la capacidad de servicio de la deuda se evalúan por sus propios méritos. Ni la fase de calificación ni la fase de evaluación de capital pueden sustituir a la otra; ambas son necesarias antes de que Woodfine se comprometa con una adquisición.
+El Protocolo de Evaluación de Activos disciplina el embudo de adquisición al imponer un filtro de entrada objetivo antes de que comience cualquier análisis de capital. La puntuación por niveles elimina el origen de operaciones impulsado por la defensa de un emplazamiento preferido: si un emplazamiento no califica de forma independiente según la matriz de co-ubicación, la evaluación no continúa. Una vez que un emplazamiento supera el umbral, se aplica el análisis de capital convencional — el estado de la propiedad, la estructura del arrendamiento, la titularidad y la capacidad de servicio de la deuda se evalúan por sus propios méritos. Ni la fase de calificación ni la fase de evaluación de capital pueden sustituir a la otra; ambas son necesarias antes de que Woodfine se comprometa con una adquisición.
 
 ## Véase también
 

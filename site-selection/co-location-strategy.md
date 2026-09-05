@@ -13,7 +13,7 @@ bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 keynote: true
 keynote_section: "Co-Location Methodology"
-last_edited: 2026-08-26
+last_edited: 2026-09-04
 editor: pointsav-engineering
 short_description: "The strategy of positioning professional centres adjacent to national retail anchors to transpose retail resilience onto office demand."
 paired_with: site-selection/co-location-strategy.es.md
@@ -25,13 +25,13 @@ The strategy inverts the conventional market-sentiment approach to office site s
 
 ## The proximity requirement
 
-A professional centre qualifies for co-location deployment when it is located within 1.0 kilometre of a [[power-centres|power centre]] — a retail hub anchored by multiple big-box national retailers. This threshold reflects pedestrian and light-vehicle catchment: the professional building must be accessible within the retail draw area without a separate destination trip.
+A professional centre qualifies for co-location deployment when it sits within the platform's defined proximity radius of a [[power-centres|power centre]] — a retail hub anchored by multiple big-box national retailers. The radius reflects pedestrian and light-vehicle catchment: the professional building must be accessible within the retail draw area without a separate destination trip.
 
-Retail Select deployments operate within the same 1.0-kilometre radius. Tech Industrial deployments extend to 4.0 kilometres to accommodate last-mile logistics operations, where the retail adjacency requirement is for supply-chain proximity rather than foot traffic.
+Proximity criteria vary by development class. Retail Select deployments apply the same radius as Professional Centres. Tech Industrial deployments apply a materially wider one, because the adjacency requirement there is supply-chain proximity for last-mile logistics rather than foot traffic.
 
 ## The retail independence criterion
 
-The co-location framework is built on the independence of the retail site-selection process. Each national retailer — a warehouse club, a home-improvement superstore, a general merchandise chain — runs its own capital-allocation analysis before committing to a site. When three or more independent operators have committed capital within 1.0 to 3.0 kilometres of one another, their convergence constitutes objective corroboration of demand. No single analyst view or market forecast carries the same evidentiary weight.
+The co-location framework is built on the independence of the retail site-selection process. Each national retailer — a warehouse club, a home-improvement superstore, a general merchandise chain — runs its own capital-allocation analysis before committing to a site. When three or more independent operators have committed capital within a defined catchment radius of one another, their convergence constitutes objective corroboration of demand. No single analyst view or market forecast carries the same evidentiary weight.
 
 This independence criterion is formalized in the [[co-location-methodology|co-location methodology]] and operationalized through the [[co-location-ranking-system|ranking system]].
 

@@ -12,7 +12,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-26
+last_edited: 2026-09-04
 editor: editorial
 es_status: complete
 short_description: "Análisis geográfico sistemático que identifica y clasifica sitios minoristas donde las categorías de gran formato convergen dentro de radios de captación definidos."
@@ -36,40 +36,19 @@ El sistema de inteligencia de co-ubicación identifica y clasifica esos nodos me
 
 ## Cobertura geográfica y escala
 
-A partir de la ejecución de procesamiento completa más reciente (2026-08-06), la plataforma evalúa clústeres de co-ubicación en 24 países de Norteamérica y Europa, proporcionando una visión transfronteriza de la densidad minorista y la defensibilidad comercial. La cobertura por país se amplía a medida que se incorporan nuevos datos de cadenas; la plataforma SIG en vivo siempre refleja la cobertura actual, y la tabla siguiente es una instantánea fechada verificada contra esa misma ejecución.
+La plataforma evalúa clústeres de co-ubicación en mercados minoristas de Norteamérica y Europa, ofreciendo una visión transfronteriza de la densidad minorista y la defensibilidad comercial. La cobertura se amplía a medida que se incorporan nuevos datos de cadenas, de modo que la plataforma SIG en vivo — y no este artículo — es la declaración autorizada de qué países y qué operadores ancla están actualmente en alcance. Una instantánea de wiki sobre la cobertura queda desactualizada entre ciclos de actualización de datos; la plataforma no.
 
-| Región | Países | Operadores ancla |
-|--------|--------|-----------------|
-| Estados Unidos | US | Walmart, Target, IKEA, The Home Depot, Costco |
-| Canadá | CA | Walmart, IKEA, Real Canadian Superstore |
-| México | MX | Walmart, IKEA, The Home Depot |
-| España | ES | IKEA, Carrefour, Alcampo, E.Leclerc |
-| Italia | IT | IKEA, Carrefour, Ipercoop, Bennet |
-| Francia | FR | Carrefour, Auchan, IKEA, Leroy Merlin, Costco |
-| Alemania | DE | Kaufland, IKEA, OBI, Hornbach |
-| Reino Unido | GB | Tesco, Sainsbury's, IKEA, B&Q |
-| Países Bajos | NL | Albert Heijn XL, IKEA, Praxis |
-| Austria | AT | Interspar, IKEA, Hornbach |
-| Portugal | PT | Continente, Auchan, IKEA, Leroy Merlin |
-| Grecia | GR | IKEA, Sklavenitis, Praktiker |
-| Polonia | PL | IKEA, Carrefour, E.Leclerc, Auchan |
-| Chequia | CZ | Kaufland, IKEA, OBI |
-| Hungría | HU | Tesco, Auchan, IKEA, OBI |
-| Eslovaquia | SK | Kaufland, IKEA, OBI |
-| Rumania | RO | Carrefour, IKEA, Dedeman |
-| Bulgaria | BG | Kaufland, IKEA, Praktiker |
-| Croacia | HR | Kaufland, Interspar, Super Konzum, Bauhaus |
-| Países Nórdicos | SE · NO · DK · FI · IS | IKEA, Bilka, Prisma, K-Citymarket, OBS Coop |
+Los operadores ancla se asignan a cuatro clases canónicas — hipermercado, lifestyle, ferretería y club de almacén — de modo que una cadena regional de cualquier mercado cubierto se evalúa en las mismas condiciones que su equivalente norteamericana. Esa correspondencia es lo que hace que la comparación transfronteriza sea significativa y no meramente nominal, y las asignaciones de cadena a clase se documentan en [[retail-brand-family-taxonomy|la taxonomía de familias de marcas minoristas]].
 
 ## Fundamentos de datos
 
 La plataforma integra tres fuentes de datos primarias para garantizar un análisis espacial de alta fidelidad:
 
-1.  **Datos de ubicación de negocios (Operadores minoristas):** Procedentes de los colaboradores de OpenStreetMap, filtrados por identificadores canónicos de marcas en Wikidata para garantizar una correspondencia coherente de familias de marcas entre fronteras. A 2 de mayo de 2026, el conjunto de datos contiene más de 31.219 ubicaciones minoristas individuales de más de 60 cadenas.
-2.  **Datos de lugares (Infraestructura cívica):** Registros de hospitales y centros médicos procedentes del conjunto de datos Places de la Overture Maps Foundation (publicación del 15 de abril de 2026). Esta capa terciaria proporciona el contexto cívico requerido para las compuertas de los niveles Regional y Distrital.
-3.  **Datos de transporte (Apoyo logístico):** Registros de instalaciones de aviación de la Overture Maps Foundation, conservados para futuras dimensiones de puntuación terciaria.
+1.  **Datos de ubicación de negocios (operadores minoristas):** Procedentes de los colaboradores de OpenStreetMap, filtrados por identificadores canónicos de marcas en Wikidata para garantizar una correspondencia coherente de familias de marcas entre fronteras. El conjunto de datos abarca decenas de miles de ubicaciones minoristas individuales de decenas de cadenas, y se actualiza de forma continua a medida que se incorporan nuevos datos de cadenas.
+2.  **Datos de lugares (infraestructura cívica):** Registros de hospitales y centros médicos procedentes del conjunto de datos Places de la Overture Maps Foundation. Esta capa terciaria proporciona el contexto cívico requerido para las compuertas de los niveles Regional y Distrital.
+3.  **Datos de transporte (apoyo logístico):** Registros de instalaciones de aviación de la Overture Maps Foundation, conservados para dimensiones de puntuación terciaria que la plataforma podría incorporar en el futuro.
 
-*Los supuestos materiales para los recuentos del conjunto de datos actual incluyen la disponibilidad continua de los datos de OpenStreetMap y de la Overture Maps Foundation bajo sus respectivas licencias (ODbL y CDLA Permissive 2.0). [osm-odbl] [overture-maps-cdla-2-0]*
+*Los supuestos materiales para el conjunto de datos incluyen la disponibilidad continua de los datos de OpenStreetMap y de la Overture Maps Foundation bajo sus respectivas licencias (ODbL y CDLA Permissive 2.0). [osm-odbl] [overture-maps-cdla-2-0]*
 
 ## Índice de sitios y clasificación por niveles
 
@@ -79,18 +58,19 @@ Los recuentos de sitios actuales por nivel y país se publican en vivo en la pla
 
 ## Superficie interactiva
 
-La plataforma del Sistema de Información Geográfica (SIG) representa el índice de sitios por niveles como un mapa interactivo en [gis.woodfinegroup.com](https://gis.woodfinegroup.com). La interfaz admite el filtrado en tiempo real por nivel de clúster y radio de captación (1 km, 2 km o 3 km).
+La plataforma del Sistema de Información Geográfica (SIG) representa el índice de sitios por niveles como un mapa interactivo en [gis.woodfinegroup.com](https://gis.woodfinegroup.com). La interfaz admite el filtrado en tiempo real por nivel de clúster y por radio de captación.
 
-La plataforma se actualiza cuando se incorporan nuevos datos de cadenas o cuando se recalibra la asignación de niveles. Todos los recuentos del conjunto de datos y los identificadores de versión se muestran en la cabecera de la plataforma para garantizar la transparencia operativa.
+La plataforma se actualiza cuando se incorporan nuevos datos de cadenas o cuando se recalibra la asignación de niveles. Todos los recuentos del conjunto de datos y los identificadores de versión se muestran en la cabecera de la plataforma, de modo que las cifras actuales están siempre disponibles en la fuente.
 
 ## Procedencia
-- **Verificación:** La cobertura por país ha sido verificada contra el conjunto de datos de clústeres en vivo de la plataforma SIG y su ejecución de procesamiento completa más reciente, al 2026-08-06.
+- **Verificación:** La cobertura por país y el alcance de operadores ancla se verifican contra el conjunto de datos de clústeres en vivo de la plataforma SIG, en lugar de repetirse aquí.
 - **Declaración prospectiva:** Los objetivos de expansión de datos terciarios europeos son resultados previstos, etiquetados conforme a [ni-51-102].
 
 ## Ver también
-*   [[co-location-methodology]]
-*   [[co-location-ranking-system]]
-*   [[co-location-tier-system]]
+
+- [[co-location-methodology]]
+- [[co-location-ranking-system]]
+- [[co-location-tier-system]]
 
 ## Referencias
 

@@ -13,7 +13,7 @@ bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
 keynote: true
 keynote_section: "Co-Location Methodology"
-last_edited: 2026-08-26
+last_edited: 2026-09-04
 editor: pointsav-engineering
 short_description: "La estrategia de posicionar centros profesionales junto a anclas minoristas nacionales para trasladar la resiliencia minorista a la demanda de oficinas."
 paired_with: site-selection/co-location-strategy.md
@@ -25,13 +25,13 @@ La estrategia invierte el enfoque convencional de selección de sitios para ofic
 
 ## El requisito de proximidad
 
-Un centro profesional califica para la estrategia de co-localización cuando se ubica dentro de 1,0 kilómetro de un [[power-centres|Power Centre]] — un polo comercial anclado por múltiples minoristas nacionales de gran formato. Este umbral refleja el radio de captación peatonal y vehicular ligero: el edificio profesional debe ser accesible dentro del área de atracción del minorista sin requerir un viaje de destino independiente.
+Un centro profesional califica para la estrategia de co-localización cuando se ubica dentro del radio de proximidad definido por la plataforma respecto de un [[power-centres|Power Centre]] — un polo comercial anclado por múltiples minoristas nacionales de gran formato. Ese radio refleja el área de captación peatonal y vehicular ligera: el edificio profesional debe ser accesible dentro del área de atracción del minorista sin requerir un viaje de destino independiente.
 
-Los desarrollos Retail Select operan dentro del mismo radio de 1,0 kilómetro. Los desarrollos Tech Industrial se extienden hasta 4,0 kilómetros para acomodar operaciones logísticas de última milla, donde la adyacencia al polo comercial responde a la proximidad de la cadena de suministro más que al flujo peatonal.
+Los criterios de proximidad varían según la clase de desarrollo. Los desarrollos Retail Select aplican el mismo radio que los Centros Profesionales. Los desarrollos Tech Industrial aplican uno sensiblemente más amplio, porque allí el requisito de adyacencia responde a la proximidad de la cadena de suministro para la logística de última milla, no al flujo peatonal.
 
 ## El criterio de independencia minorista
 
-El marco de co-localización se sustenta en la independencia del proceso de selección de sitios de cada minorista. Cada uno — un club de almacén, una ferretería de gran superficie, una cadena de mercancía general — realiza su propio análisis de asignación de capital antes de comprometerse con un sitio. Cuando tres o más operadores independientes han comprometido capital dentro de un radio de 1,0 a 3,0 kilómetros entre sí, su convergencia constituye una corroboración objetiva de la demanda, con mayor peso evidencial que cualquier pronóstico o análisis individual.
+El marco de co-localización se sustenta en la independencia del proceso de selección de sitios de cada minorista. Cada uno — un club de almacén, una ferretería de gran superficie, una cadena de mercancía general — realiza su propio análisis de asignación de capital antes de comprometerse con un sitio. Cuando tres o más operadores independientes han comprometido capital dentro de un radio de captación definido entre sí, su convergencia constituye una corroboración objetiva de la demanda, con mayor peso evidencial que cualquier pronóstico o análisis individual.
 
 Este criterio de independencia se formaliza en la [[co-location-methodology|metodología de co-localización]] y se operacionaliza a través del [[co-location-ranking-system|sistema de clasificación]].
 

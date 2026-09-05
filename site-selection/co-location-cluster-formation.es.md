@@ -12,12 +12,12 @@ audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
 short_description: "Paso del flujo que convierte cada tienda ancla calificada en una agrupación candidata de co-ubicación; las candidatas superpuestas en una misma área de comercio se resuelven mediante deduplicación antes de agregar los datos para el ranking."
-last_edited: 2026-06-17
+last_edited: 2026-09-04
 editor: pointsav-engineering
 paired_with: site-selection/co-location-cluster-formation.md
 ---
 
-La formación de agrupaciones es el paso del flujo del [[co-location-methodology|índice de co-ubicación]] que convierte las tiendas ancla calificadas en agrupaciones candidatas. Cada tienda [[co-location-anchors|ancla]] calificada — cada hipermercado, superstore de mejoras para el hogar y club de almacén que ha comprometido capital de forma independiente dentro de 1,0 a 3,0 km de las demás — genera una agrupación candidata centrada en las coordenadas de esa tienda.
+La formación de agrupaciones es el paso del flujo del [[co-location-methodology|índice de co-ubicación]] que convierte las tiendas ancla calificadas en agrupaciones candidatas. Cada tienda [[co-location-anchors|ancla]] calificada — cada hipermercado, superstore de mejoras para el hogar y club de almacén que ha comprometido capital de forma independiente dentro de un radio de adyacencia definido respecto a las demás — genera una agrupación candidata centrada en las coordenadas de esa tienda. El radio de adyacencia es un parámetro de plataforma expresado como un rango de distancia acotado, no un criterio analítico caso por caso; eso es lo que hace que el paso sea determinista y reproducible entre ejecuciones de procesamiento.
 
 Dado que cada ancla produce su propia candidata, una sola zona comercial con varias anclas adyacentes produce varias agrupaciones superpuestas que describen la misma área de comercio. Esas superposiciones se resuelven más adelante mediante el paso de [[cluster-deduplication-threshold|deduplicación]] antes de que las entradas del área de comercio se agreguen para el [[co-location-ranking-system|sistema de clasificación]].
 

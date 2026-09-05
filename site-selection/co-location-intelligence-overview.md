@@ -12,7 +12,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-26
+last_edited: 2026-09-04
 editor: pointsav-engineering
 short_description: "Systematic geographic analysis identifying and classifying retail sites where large-format categories converge within defined catchment radii."
 paired_with: site-selection/co-location-intelligence-overview.es.md
@@ -35,40 +35,19 @@ The co-location intelligence system identifies and classifies those nodes using 
 
 ## Geographic coverage and scale
 
-As of the most recent full processing run (2026-08-06), the platform evaluates co-location clusters across 24 countries spanning North America and Europe, providing a cross-border view of retail density and commercial defensibility. Country coverage expands as new chain data is ingested; the live GIS platform always reflects current coverage, and the table below is a dated snapshot verified against that same run.
+The platform evaluates co-location clusters across North American and European retail markets, giving a cross-border view of retail density and commercial defensibility. Coverage expands as new chain data is ingested, so the live GIS platform — not this article — is the authoritative statement of which countries and which anchor operators are currently in scope. A wiki snapshot of coverage goes stale between data-refresh cycles; the platform does not.
 
-| Region | Countries | Anchor operators |
-|--------|-----------|-----------------|
-| United States | US | Walmart, Target, IKEA, The Home Depot, Costco |
-| Canada | CA | Walmart, IKEA, Real Canadian Superstore |
-| Mexico | MX | Walmart, IKEA, The Home Depot |
-| Spain | ES | IKEA, Carrefour, Alcampo, E.Leclerc |
-| Italy | IT | IKEA, Carrefour, Ipercoop, Bennet |
-| France | FR | Carrefour, Auchan, IKEA, Leroy Merlin, Costco |
-| Germany | DE | Kaufland, IKEA, OBI, Hornbach |
-| United Kingdom | GB | Tesco, Sainsbury's, IKEA, B&Q |
-| Netherlands | NL | Albert Heijn XL, IKEA, Praxis |
-| Austria | AT | Interspar, IKEA, Hornbach |
-| Portugal | PT | Continente, Auchan, IKEA, Leroy Merlin |
-| Greece | GR | IKEA, Sklavenitis, Praktiker |
-| Poland | PL | IKEA, Carrefour, E.Leclerc, Auchan |
-| Czechia | CZ | Kaufland, IKEA, OBI |
-| Hungary | HU | Tesco, Auchan, IKEA, OBI |
-| Slovakia | SK | Kaufland, IKEA, OBI |
-| Romania | RO | Carrefour, IKEA, Dedeman |
-| Bulgaria | BG | Kaufland, IKEA, Praktiker |
-| Croatia | HR | Kaufland, Interspar, Super Konzum, Bauhaus |
-| Nordics | SE · NO · DK · FI · IS | IKEA, Bilka, Prisma, K-Citymarket, OBS Coop |
+Anchor operators are mapped onto four canonical classes — hypermarket, lifestyle, hardware, and warehouse — so that a regional chain in any covered market is evaluated on the same footing as its North American equivalent. That mapping is what makes cross-border comparison meaningful rather than nominal, and the chain-to-class assignments are documented in [[retail-brand-family-taxonomy|the retail brand family taxonomy]].
 
 ## Data foundations
 
 The platform integrates three primary data sources to ensure high-fidelity spatial analysis:
 
-1.  **Business location data (Retail Operators):** Sourced from OpenStreetMap contributors, filtered by canonical brand Wikidata identifiers to ensure consistent brand-family matching across borders. As of 2 May 2026, the dataset contains 31,219+ individual retail locations across 60+ chains.
-2.  **Place data (Civic Infrastructure):** Hospital and medical center records sourced from the Overture Maps Foundation Places dataset (2026-04-15 release). This tertiary layer provides the civic context required for the Regional and District tier gates.
-3.  **Transportation data (Logistics Support):** Aviation facility records from Overture Maps Foundation, retained for future tertiary scoring dimensions.
+1.  **Business location data (retail operators):** Sourced from OpenStreetMap contributors, filtered by canonical brand Wikidata identifiers to ensure consistent brand-family matching across borders. The dataset spans tens of thousands of individual retail locations across dozens of chains, and is refreshed on an ongoing basis as new chain data is ingested.
+2.  **Place data (civic infrastructure):** Hospital and medical centre records sourced from the Overture Maps Foundation Places dataset. This tertiary layer provides the civic context required for the Regional and District tier gates.
+3.  **Transportation data (logistics support):** Aviation facility records from Overture Maps Foundation, retained for tertiary scoring dimensions the platform may add in future.
 
-*Material assumptions for current dataset counts include the continued availability of OpenStreetMap and Overture Maps Foundation data under their respective licenses (ODbL and CDLA Permissive 2.0). [osm-odbl] [overture-maps-cdla-2-0]*
+*Material assumptions for the dataset include the continued availability of OpenStreetMap and Overture Maps Foundation data under their respective licenses (ODbL and CDLA Permissive 2.0). [osm-odbl] [overture-maps-cdla-2-0]*
 
 ## Site index and tier classification
 
@@ -78,18 +57,19 @@ Current site counts by tier and country are published live on the GIS platform r
 
 ## Interactive surface
 
-The Geographic Information System (GIS) platform renders the tiered site index as an interactive map at [gis.woodfinegroup.com](https://gis.woodfinegroup.com). The interface supports real-time filtering by cluster tier and catchment radius (1 km, 2 km, or 3 km).
+The Geographic Information System (GIS) platform renders the tiered site index as an interactive map at [gis.woodfinegroup.com](https://gis.woodfinegroup.com). The interface supports real-time filtering by cluster tier and by catchment radius.
 
-The platform is updated when new chain data is ingested or when tier assignment is recalibrated. All dataset counts and version identifiers are displayed in the platform header to ensure operational transparency.
+The platform is updated when new chain data is ingested or when tier assignment is recalibrated. All dataset counts and version identifiers are displayed in the platform header, so the current figures are always available at source.
 
 ## Provenance
-- **Verification:** Country coverage verified against the GIS platform's live cluster dataset and its most recent full processing run, as of 2026-08-06.
+- **Verification:** Country coverage and anchor-operator scope are verified against the GIS platform's live cluster dataset rather than restated here.
 - **Forward-looking disclosure:** European tertiary data expansion targets are intended outcomes, labeled per [ni-51-102].
 
 ## See also
-*   [[co-location-methodology]]
-*   [[co-location-ranking-system]]
-*   [[co-location-tier-system]]
+
+- [[co-location-methodology]]
+- [[co-location-ranking-system]]
+- [[co-location-tier-system]]
 
 ## References
 
