@@ -48,7 +48,7 @@ Site Selection covers the strategy and investment thesis behind "near Power Cent
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: anchors-and-tenants -->
 - [[power-centres]] — Retail hubs anchored by multiple big-box national retailers, serving as the primary site-selection anchors for Woodfine co-location deployments.
 - [[co-location-anchors]] — Large-format national retailers whose verified presence within defined proximity thresholds is the binary qualifying criterion for commercial node inclusion.
-- [[co-location-target-hierarchy]] — Three-tier target classification in Woodfine's co-location dataset — Primary (Walmart Supercentre), Secondary (Home Depot, Costco), Tertiary (universities, medical centres).
+- [[co-location-target-hierarchy]] — The signals the co-location dataset looks for and the role each plays — a hypermarket anchor, category-dominant co-anchors, and civic institutions — and why the current tier system requires each one independently rather than summing them into a score.
 - [[co-location-tier-nomenclature]] — The four tier labels — Regional, District, Local, Fringe — visible on the co-location map are named after the International Council of Shopping Centres retail property hierarchy, though only "Regional" is a genuine ICSC term; District, Local, and Fringe are the platform's own naming choices. Introduced together with the current predicate-gate scoring system in May 2026.
 - [[national-tenants]] — Revenue-driving professional occupiers — academic, medical, and civic — whose institutional identity anchors building credibility and stabilizes the mix-of-use tenant composition.
 - [[retail-brand-family-taxonomy]] — Every retail location on the co-location map carries a brand family classification that determines how the location is displayed and, for some families, whether it contributes to cluster scoring. The taxonomy was designed around the anchor types used in the co-location methodology while remaining extensible to the full range of ingested operators.
@@ -61,10 +61,10 @@ Site Selection covers the strategy and investment thesis behind "near Power Cent
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: site-scoring-and-trade-areas -->
 - [[co-location-cluster-formation]] — The pipeline step that converts each qualifying anchor store into a candidate co-location cluster; overlapping candidates from a single trade area are resolved by deduplication before ranking inputs are aggregated.
-- [[cluster-deduplication-threshold]] — The co-location index pipeline deduplicates overlapping clusters that represent the same commercial zone using a fixed, tightly-set proximity threshold, retaining the cluster with the higher secondary operator count. An earlier, substantially wider threshold was found to suppress legitimately distinct commercial nodes in dense suburban corridors.
-- [[co-location-ranking-system]] — The deterministic mechanics behind cluster ranking on the co-location platform — country-relative percentile axes, the overlap test between neighbouring clusters, and the tiebreak order applied within a tier.
+- [[cluster-deduplication-threshold]] — The co-location index pipeline deduplicates overlapping clusters that represent the same commercial zone using a fixed, tightly-set proximity threshold, retaining the cluster with the higher secondary operator count.
+- [[co-location-ranking-system]] — The deterministic mechanics behind cluster ranking on the co-location platform — country-relative percentile ranking, the overlap test between neighbouring clusters, and the tiebreak order applied within a tier.
 - [[co-location-tiering-scoring]] — Tier scoring for co-location clusters — what the T1–T3 composition tiers measure, what they explicitly do not claim, and why a headline cluster count is a model output rather than a measurement.
-- [[catchment-ranking-methodology-v3]] — The V3 tier-assignment methodology assigns each co-location cluster to one of four tiers using binary predicate gates — composition, national catchment rank, civic classification, and spatial overlap — replacing the prior composite-score system (May 2026).
+- [[catchment-ranking-methodology-v3]] — The current predicate-gate system that assigns each co-location cluster to one of four tiers — Regional, District, Local, Fringe — using anchor composition, national catchment rank, civic infrastructure, and spatial independence, introduced May 2026 to replace an earlier composite-score model.
 - [[geographic-co-location-methodology]] — Predicate-gate tier system scoring retail co-location clusters by anchor composition, catchment rank, and civic presence to rank development sites by anchor strength.
 - [[od-catchment-methodology]] — Each co-location cluster is assigned two straight-line distance bands — a primary zone within 35 km and a secondary zone from 35 km to 150 km — that determine the population and spend attributed to it.
 - [[trade-area-methodology]] — Honest labelling of demand geography — why straight-line distance bands are never called catchments, and the planned move to isochrones and observed origins.
@@ -76,7 +76,7 @@ Site Selection covers the strategy and investment thesis behind "near Power Cent
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: before-land-is-bought -->
 - [[zoning-acquisition-rules]] — Pre-purchase entitlement verification: every parcel is acquired against either a permitted use or an evidenced, achievable rezoning path, with an active development timeline and no speculative land banking.
-- [[asset-evaluation-protocol]] — How the co-location ranking matrix drives Woodfine's commercial asset acquisition targeting: tier score as the entry criterion, independent GIS analysis as the verification method.
+- [[asset-evaluation-protocol]] — How the co-location ranking matrix drives Woodfine's commercial asset acquisition targeting: the tier classification as the entry criterion, deterministic scoring on public location data as the verification method.
 <!-- END AUTO-GENERATED -->
 
 ## See also

@@ -30,7 +30,7 @@ Mapas y Datos abarca los datos espaciales detrás del análisis: de dónde provi
 [[gis-data-overview|Resumen de Datos]] es el punto de entrada — una orientación a los clústeres de inteligencia de localización, los niveles de co-ubicación y el canal de mosaicos que convierte los datos espaciales en bruto en un mapa puntuado. [[trade-area-data-sources|Las Fuentes de Datos de Área de Influencia]] y [[spend-population-provenance|la Procedencia de Población y Gasto]] documentan el origen de cada estimación de población y gasto detrás de un área de influencia.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: data-overview-and-sources -->
-- [[gis-data-overview]] — Orientación a las capas de datos de la plataforma: clústeres de inteligencia de ubicación, niveles de co-ubicación y el pipeline de teselas SIG.
+- [[gis-data-overview]] — Orientación a las capas de datos espaciales que sustentan el mapa de selección de emplazamientos: las entradas de puntos de interés, población y gasto, la clasificación de cuatro niveles por compuertas de predicado que alimentan, y dónde se documenta cada una en detalle.
 - [[trade-area-data-sources]] — Las estimaciones de población de WorldPop 2026 y los proxies de gasto per cápita anuales de encuestas nacionales de hogares sustentan las estadísticas de área de influencia para cada cluster de co-ubicación.
 - [[spend-population-provenance]] — Cadena de procedencia de las estimaciones de población y gasto — rásteres WorldPop, agregación H3 y multiplicadores per cápita, con sus debilidades declaradas.
 <!-- END AUTO-GENERATED -->

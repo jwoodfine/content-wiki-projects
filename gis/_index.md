@@ -30,7 +30,7 @@ Maps and Data covers the spatial data behind the analysis: where it comes from, 
 [[gis-data-overview|Data Overview]] is the entry point — an orientation to the location intelligence clusters, co-location tiers, and the tile pipeline that turns raw spatial data into a scored map. [[trade-area-data-sources|Trade Area Data Sources]] and [[spend-population-provenance|Spend and Population Provenance]] document where the population and spend estimates behind every trade area figure originate.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: data-overview-and-sources -->
-- [[gis-data-overview]] — An orientation to the platform's data layers: location intelligence clusters, co-location tiers, and the GIS tile pipeline.
+- [[gis-data-overview]] — An orientation to the spatial data layers behind the site-selection map: the point-of-interest, population, and spend inputs, the four-tier predicate-gate scoring they feed, and where each is documented in full.
 - [[trade-area-data-sources]] — Population estimates from WorldPop 2026 and annual per-capita spend proxies from national household surveys underpin the trade area statistics for each co-location cluster.
 - [[spend-population-provenance]] — Provenance chain behind catchment population and spend estimates — WorldPop rasters, H3 aggregation, and per-capita multipliers, with their stated weaknesses.
 <!-- END AUTO-GENERATED -->
