@@ -11,9 +11,9 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-26
+last_edited: 2026-09-04
 editor: pointsav-engineering
-short_description: "La metodología V3 asigna cada clúster de co-localización a uno de cuatro niveles mediante compuertas de predicado binarias — composición, rango de captación nacional, clasificación cívica e independencia espacial — sustituyendo el sistema previo de puntuación compuesta (mayo de 2026)."
+short_description: "El sistema vigente de compuertas predicativas que asigna cada clúster de co-ubicación a uno de cuatro niveles — Regional, Distrital, Local, Marginal — mediante composición de anclas, posición nacional de captación, infraestructura cívica e independencia espacial, introducido en mayo de 2026 para reemplazar un modelo anterior de puntuación compuesta."
 paired_with: site-selection/catchment-ranking-methodology-v3.md
 cites:
   - osm-odbl
@@ -26,7 +26,7 @@ El sistema de niveles de [[co-location-methodology|co-localización]] asigna cad
 
 ## Por qué las compuertas de predicado reemplazan las puntuaciones compuestas
 
-El sistema V2 anterior asignaba niveles sumando una puntuación base, un bono por recuento, un bono por diversidad, un término de profundidad cívica y una penalización por superposición. La puntuación resultante era internamente coherente, pero difícil de explicar: un clúster podía alcanzar el Nivel 2 mediante un bono por diversidad elevado, aun cuando le faltara la captación de población y la infraestructura cívica que el nivel pretendía señalar.
+El sistema anterior asignaba niveles combinando varias señales ponderadas en una única puntuación compuesta. El resultado era internamente coherente, pero difícil de explicar: un clúster podía alcanzar un nivel superior gracias a una sola señal favorable, aun cuando le faltara la captación de población y la infraestructura cívica que el nivel pretendía señalar.
 
 Las compuertas binarias hacen que los criterios de calificación sean explícitos e individualmente verificables. Un clúster Regional debe tener alcance poblacional a escala nacional, una composición de ancla específica, acceso hospitalario regional e independencia espacial respecto a clústeres más fuertes. Ninguno de estos requisitos se satisface mediante un indicador sustituto.
 
@@ -37,39 +37,43 @@ La captación de población se calcula mediante una cuadrícula geográfica de r
 - **Zona primaria**: todas las celdas de la cuadrícula dentro de 35 km del ancla del clúster
 - **Zona secundaria**: todas las celdas de la cuadrícula entre 35 km y 150 km del ancla del clúster
 
-Los totales de población provienen de los datos de población en cuadrícula WorldPop 2026, agregados a la misma cuadrícula usada para el análisis de captación (véase [[trade-area-data-sources|fuentes de datos de áreas comerciales]]). Los clústeres se clasifican dentro de su país ISO en ocho ejes: población primaria, población secundaria, gasto primario en víveres, gasto secundario en víveres, gasto primario en ferretería, gasto secundario en ferretería, gasto primario en mayoreo y gasto secundario en mayoreo.
+Los totales de población provienen de un conjunto de datos de población en cuadrícula publicado bajo licencia abierta, agregado a la misma cuadrícula usada para el análisis de captación (véase [[trade-area-data-sources|fuentes de datos de áreas comerciales]]). Cada clúster se clasifica después frente a los demás clústeres de su propio país ISO en dos familias de medidas — alcance poblacional y gasto de consumo por categoría —, cada una tomada sobre ambas zonas.
 
 El rango se expresa como una fracción percentil dentro del país del clúster: un valor más bajo indica un mayor alcance relativo. Esto permite comparar países con recuentos totales de clústeres muy distintos en una escala común.
 
+Las medidas de gasto son estimaciones modeladas, no transacciones observadas: se derivan aplicando patrones publicados de gasto de los hogares per cápita a la cuadrícula de población y estratificando el resultado por categoría minorista.
+
 ## Definición de las compuertas de nivel
+
+Las clases de ancla mencionadas a continuación — Hipermercado, Almacén, Ferretería y Estilo de Vida — se definen en la [[retail-brand-family-taxonomy|taxonomía de familias de marcas minoristas]].
 
 ### Nivel 1 — Regional
 
 Un clúster califica como Regional si se cumplen las cinco condiciones siguientes:
 
-1. **Composición**: El clúster contiene un ancla de tipo Almacén (Costco, Sam's Club, Makro o equivalente) y un ancla de tipo Hipermercado (Walmart, Target, Mercadona, Tesco, Sainsbury's o equivalente); o contiene un ancla de tipo Estilo de Vida (IKEA) y un ancla de tipo Hipermercado.
+1. **Composición**: El clúster combina un ancla de tipo Hipermercado con un ancla de tipo Almacén o de tipo Estilo de Vida.
 2. **Captación primaria**: El rango de población primaria del clúster dentro de su país debe estar entre los más altos del país — la barra de captación primaria más exigente de todos los niveles.
-3. **Captación secundaria**: El rango de población secundaria del clúster dentro de su país también debe estar muy por encima de la mediana del país, aunque esta barra es más laxa que la de captación primaria.
-4. **Cívico — hospital regional**: Al menos un hospital clasificado como "regional" está presente dentro de un anillo cívico de proximidad definido alrededor del ancla del clúster.
-5. **Independencia espacial**: La superposición entre el disco de área comercial de este clúster y el disco equivalente de cualquier clúster del mismo país con mayor rango de población primaria debe mantenerse baja — Regional exige la barra de independencia más estricta de todos los niveles.
+3. **Captación secundaria**: El rango de población secundaria del clúster dentro de su país también debe situarse muy por encima de la mediana del país, aunque esta barra es más laxa que la de captación primaria.
+4. **Cívico — hospital regional**: Hay un hospital que atiende a una captación regional dentro de un anillo cívico de proximidad definido alrededor del ancla del clúster.
+5. **Independencia espacial**: El área comercial de este clúster no debe superponerse de forma sustancial con la de ningún clúster del mismo país con mayor rango de población primaria — Regional exige la barra de independencia más estricta de todos los niveles.
 
 ### Nivel 2 — Distrital
 
 Un clúster califica como Distrital si se cumplen las cinco condiciones siguientes:
 
-1. **Composición**: El clúster contiene un ancla de tipo Hipermercado y un ancla de tipo Ferretería (Home Depot, Lowe's, Leroy Merlin o equivalente) o un ancla de tipo Almacén.
+1. **Composición**: El clúster contiene un ancla de tipo Hipermercado junto con un ancla de tipo Ferretería o de tipo Almacén.
 2. **Captación primaria**: El rango de población primaria del clúster dentro de su país debe superar una barra sustancialmente más baja que la de Regional, aunque sigue estando muy por encima de la mediana del país.
-3. **Alcance de gasto**: El rango del clúster dentro de su país en al menos uno de los ejes — gasto en víveres, ferretería o mayoreo — también debe superar esa misma barra.
-4. **Cívico — hospital presente**: Al menos un hospital clasificado como "regional" o "distrital" está presente dentro del anillo cívico de proximidad.
-5. **Independencia espacial**: Se permite que la superposición entre el disco de área comercial de este clúster y el disco equivalente de cualquier clúster Regional del mismo país sea algo mayor que el límite del nivel Regional, aunque sigue estando acotada.
+3. **Alcance de gasto**: El rango del clúster dentro de su país en al menos una categoría de gasto también debe superar esa misma barra.
+4. **Cívico — hospital presente**: Hay un hospital que atiende al menos a una captación de nivel distrital dentro del anillo cívico de proximidad.
+5. **Independencia espacial**: Se permite que la superposición entre el área comercial de este clúster y la de cualquier clúster Regional del mismo país sea mayor que el límite del nivel Regional, aunque sigue estando acotada.
 
 ### Nivel 3 — Local
 
 Un clúster califica como Local si se cumplen las tres condiciones siguientes:
 
-1. **Composición**: El clúster contiene un ancla de tipo Ferretería o Almacén.
+1. **Composición**: El clúster contiene un ancla de tipo Ferretería o de tipo Almacén.
 2. **Captación primaria**: El rango de población primaria del clúster dentro de su país debe estar en la mediana del país o por encima de ella.
-3. **Cívico — cualquier hospital**: Al menos un hospital de cualquier clasificación está presente dentro del anillo cívico de proximidad.
+3. **Cívico — cualquier hospital**: Hay un hospital de cualquier tipo dentro del anillo cívico de proximidad.
 
 ### Nivel 4 — Marginal
 
@@ -77,11 +81,17 @@ Un clúster que no califica para los niveles Regional, Distrital o Local se clas
 
 ## Medición de la superposición
 
-La compuerta de independencia espacial mide la superposición entre los discos de área comercial de dos clústeres, cada uno trazado con un radio fijo constante en todos los niveles, mediante un cálculo geométrico estándar de intersección sobre unión (IoU) — el área compartida por ambos discos, en relación con su área combinada. Dos clústeres cuyos centroides están lo bastante separados como para que sus discos ya no se superpongan se consideran totalmente independientes (IoU = 0); a medida que los discos se superponen más, el IoU aumenta, y el nivel del clúster más débil se limita en consecuencia.
+La compuerta de independencia espacial compara las áreas comerciales de dos clústeres, cada una representada como un disco de radio fijo constante en todos los niveles, y mide en qué grado ambas se superponen. Los clústeres lo bastante separados como para que sus áreas comerciales no se crucen se consideran totalmente independientes. A medida que la superposición crece, el nivel del clúster más débil se limita en consecuencia.
+
+## Clasificación cívica
+
+La presencia hospitalaria se deriva de datos cartográficos abiertos y se gradúa según la escala de captación que atiende cada instalación. Las instalaciones que atienden a una población regional amplia satisfacen las compuertas cívicas superiores; las instalaciones locales pequeñas satisfacen únicamente la compuerta de nivel Local. La graduación funciona como un indicador de la profundidad de la infraestructura pública que respalda a un clúster, no como una medida clínica o de capacidad.
 
 ## Resumen de umbrales
 
 Las barras de captación y de gasto se vuelven más exigentes al pasar de Local a Regional, y el margen de independencia espacial se estrecha en consecuencia — los clústeres Regional enfrentan tanto la barra de captación más alta como el límite de superposición más estricto, mientras que los clústeres Local enfrentan la barra de captación más baja y ninguna compuerta explícita de superposición. El radio del anillo cívico y el radio del disco de independencia espacial se mantienen cada uno constante en todos los niveles.
+
+Los umbrales son deliberadamente gruesos — están diseñados para distinguir clústeres de relevancia nacional de nodos locales, no para clasificar con finura dentro de un mismo nivel. Se prevé un refinamiento en una actualización futura, a medida que se disponga de datos de captación adicionales.
 
 ## Referencias
 
@@ -92,3 +102,4 @@ Las barras de captación y de gasto se vuelven más exigentes al pasar de Local 
 - [[co-location-tier-nomenclature]]
 - [[co-location-methodology]]
 - [[co-location-ranking-system]]
+- [[retail-brand-family-taxonomy]]

@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-26
+last_edited: 2026-09-04
 editor: pointsav-engineering
 short_description: "The four tier labels — Regional, District, Local, Fringe — visible on the co-location map are named after the International Council of Shopping Centres retail property hierarchy, though only \"Regional\" is a genuine ICSC term; District, Local, and Fringe are the platform's own naming choices. Introduced together with the current predicate-gate scoring system in May 2026."
 paired_with: site-selection/co-location-tier-nomenclature.es.md
@@ -26,9 +26,9 @@ The [[co-location-methodology|co-location index]] assigns each cluster to one of
 
 | Tier | Name | Description |
 |---|---|---|
-| 1 | **Regional** | A nationally significant co-location node. Contains both a hypermarket-format anchor and a warehouse club or lifestyle anchor, is in the top decile of its country by primary catchment population, and has a regionally classified hospital within the civic ring. The highest tier. |
-| 2 | **District** | A sub-regional trade-area node. Contains a hypermarket and a hardware or warehouse anchor, is in the top quartile of its country by primary catchment population, and has hospital access within the civic ring. |
-| 3 | **Local** | A hardware or wholesale hub with community-level civic support. Contains at least one hardware or warehouse anchor, is in the top half of its country by primary catchment population, and has any hospital within the civic ring. |
+| 1 | **Regional** | A nationally significant co-location node. Contains both a hypermarket-format anchor and a warehouse club or lifestyle anchor, ranks among the highest in its country by primary catchment population, and has a regionally classified hospital within the civic ring. The highest tier. |
+| 2 | **District** | A sub-regional trade-area node. Contains a hypermarket and a hardware or warehouse anchor, ranks well above its country's median by primary catchment population, and has hospital access within the civic ring. |
+| 3 | **Local** | A hardware or wholesale hub with community-level civic support. Contains at least one hardware or warehouse anchor, ranks at or above its country's median by primary catchment population, and has any hospital within the civic ring. |
 | 4 | **Fringe** | Below threshold on one or more required gates. A commercial cluster with retail co-tenancy but insufficient catchment reach, composition, or civic support to qualify for Local or above. |
 
 ## Composition Chips
@@ -37,11 +37,11 @@ Each cluster carries a composition descriptor displayed below the tier badge. Th
 
 ## Naming History
 
-The tier labels have been renamed twice since the platform launched.
+The tier labels have been renamed twice since the platform launched, both times in May 2026. The first rename replaced the platform's original code-style labels with plain-English names. The second replaced those with the ICSC hierarchy now in use.
 
-**First rename (May 2026):** The original numeric labels (T3 Full Complement, T2 Retail Anchor, T0 Commercial Node, and variants) were replaced with plain-English nouns: Prime, Strong (Retail), Strong (Bulk), Strong (Hub), Core (Hyper), Core (Hardware), Core (Wholesale), Emerging. This resolved two readability failures: "+" ambiguity in compound descriptors, and the cognitive cost of mapping a tier number to a quality rank.
+The retired label sets are not reproduced here. No current cluster carries one, and a reader who encounters an old label is looking at a stale export rather than at anything the map produces today.
 
-**Second rename (May 2026):** The plain-English labels were replaced with the ICSC hierarchy: Regional, District, Local, Fringe. The motivation was alignment with an internationally recognised nomenclature that carries meaning without requiring platform-specific context. A planner who opens the map without reading documentation knows what "Regional" means; "Prime" required learning.
+Two readability failures drove the first change: compound composition descriptors were ambiguous, and a tier code told the reader nothing about rank without a lookup. The second change traded a platform-specific vocabulary for an internationally recognised one. A planner who opens the map without reading any documentation already knows what "Regional" means; the earlier names had to be learned.
 
 The platform's tier names borrow from the ICSC shopping-center hierarchy but are not identical to it. The real ICSC hierarchy is Neighborhood/Community/Regional/Super Regional; only "Regional" is a genuine ICSC term. "District," "Local," and "Fringe" are the platform's own naming choices, not ICSC terms.
 
@@ -49,9 +49,9 @@ The Spanish-language equivalents are: Regional, Distrital, Local, Marginal.
 
 ## What Changed and What Did Not
 
-The second rename coincided with a change in how tiers are assigned. Previously, tiers were assigned by a composite score combining a base score with count, diversity, civic-depth, and overlap-penalty bonuses. Under the current system, tiers are assigned by binary gates: composition + national catchment rank + civic classification + spatial overlap limit. The gate definitions are described in the [[catchment-ranking-methodology-v3|catchment ranking methodology]] document.
+The second rename coincided with a change in how tiers are assigned. Previously, tiers were assigned by a composite score that combined a base score with count, diversity, civic-depth, and overlap-penalty terms. Under the current system, tiers are assigned by binary gates: composition, national catchment rank, civic classification, and spatial overlap limit, each tested on its own. The gate definitions are described in the [[catchment-ranking-methodology-v3|catchment ranking methodology]] document.
 
-The tier names changed from the plain-English labels to the ICSC labels. The tier assignment method changed from score-threshold to predicate-gate. Both changes shipped together.
+So two things changed at once, and it is worth separating them. The tier *names* changed to the ICSC labels. The tier *assignment method* changed from a score threshold to a predicate gate. Both shipped together, which is why a cluster's tier may have moved at the same time as its label.
 
 ## Reading Tier Colours on the Map
 

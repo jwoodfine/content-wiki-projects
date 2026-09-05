@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-26
+last_edited: 2026-09-04
 editor: pointsav-engineering
 short_description: "Cada clúster de co-ubicación recibe dos bandas de distancia en línea recta — una zona primaria de 35 km y una secundaria de 35 a 150 km — que determinan la población y el gasto que se le atribuyen."
 paired_with: site-selection/od-catchment-methodology.md
@@ -25,19 +25,19 @@ La plataforma de [[co-location-methodology|co-ubicación]] de Woodfine asigna a 
 
 **Zona secundaria (35–150 km):** el área entre 35 km y 150 km en línea recta del centroide del clúster. Esta zona captura la atracción regional más amplia, incluyendo compradores ocasionales y desplazamientos interregionales.
 
-El límite primario de 35 km es un parámetro provisional basado en convenciones establecidas de geografía minorista. Está sujeto a refinamiento cuando se disponga de datos empíricos de origen-destino. El límite exterior de 150 km se alinea con el radio de recopilación de datos de la plataforma, garantizando que cada ubicación que contribuye a las zonas de un clúster haya sido ingestada y verificada.
+El límite primario es un parámetro provisional basado en convenciones establecidas de geografía minorista. Está sujeto a refinamiento cuando se disponga de datos empíricos de origen-destino. El límite exterior se alinea con el alcance de recopilación de datos de la propia plataforma, de modo que toda ubicación que contribuye a las zonas de un clúster ya ha sido ingestada y verificada.
 
-La pertenencia a una zona se resuelve sobre la rejilla espacial mundial de la plataforma, de modo que las cifras de zona son directamente comparables entre clústeres de cualquier país. La especificación completa de la rejilla y la regla de pertenencia están previstas para publicarse en gis.woodfinegroup.com.
+La pertenencia a una zona se resuelve igual en todos los mercados, de modo que las cifras de zona son directamente comparables entre clústeres de cualquier país.
 
 ## Método de distancia
 
-Todas las distancias son distancias terrestres en línea recta; no se utiliza enrutamiento por tiempo de conducción en esta etapa. Una banda de 35 km significa por tanto lo mismo en todos los mercados — urbanos o rurales, de América del Norte o de Europa — lo que hace posible la comparación entre clústeres antes de que lleguen datos de origen observado. La accesibilidad por la red vial es una mejora prevista, descrita en [[trade-area-methodology]]. El cálculo de distancia en sí está previsto para publicarse en gis.woodfinegroup.com.
+Todas las distancias son distancias terrestres en línea recta; no se utiliza enrutamiento por tiempo de conducción en esta etapa. Una banda de 35 km significa por tanto lo mismo en todos los mercados — urbanos o rurales, de América del Norte o de Europa — lo que hace posible la comparación entre clústeres antes de que lleguen datos de origen observado. La accesibilidad por la red vial es una mejora prevista, descrita en [[trade-area-methodology]].
 
 ## Perspectivas HOME y AWAY
 
 La plataforma distingue dos perspectivas sobre la población de cada zona.
 
-**HOME:** recuentos de población derivados de datos residenciales (WorldPop 2026). Representa dónde vive la gente dentro de cada zona. Esta es la vista predeterminada y está completamente implementada.
+**HOME:** recuentos de población derivados de datos publicados de población residencial. Representa dónde vive la gente dentro de cada zona. Esta es la vista predeterminada y está completamente implementada.
 
 **AWAY:** recuentos de población que representan la población diurna o laboral. La distribución del lugar de trabajo difiere de la residencial — concentrada en distritos comerciales y centros de empleo en lugar de dispersa en áreas residenciales. Esta perspectiva está prevista; la fuente de datos está pendiente.
 
@@ -49,7 +49,7 @@ Una sola ubicación puede pertenecer a las zonas de múltiples clústeres de co-
 
 La pertenencia a una zona es la base para:
 
-- Agregación de población (datos censales por zona)
+- Agregación de población (datos publicados de población por zona)
 - Agregación de gasto (gasto en alimentación, bricolaje y mayorista por zona)
 - Clasificación competitiva entre clústeres (véase [[catchment-ranking-methodology-v3]])
 

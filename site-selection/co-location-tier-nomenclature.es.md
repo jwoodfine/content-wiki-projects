@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-26
+last_edited: 2026-09-04
 editor: pointsav-engineering
 short_description: "Las cuatro etiquetas de nivel — Regional, Distrital, Local, Marginal — visibles en el mapa de co-localización toman su nombre de la jerarquía de propiedades comerciales del Consejo Internacional de Centros Comerciales (ICSC), aunque solo \"Regional\" es un término ICSC genuino; Distrital, Local y Marginal son nombres propios de la plataforma. Introducidas junto con el sistema actual de puntuación por compuertas predicativas en mayo de 2026."
 paired_with: site-selection/co-location-tier-nomenclature.md
@@ -26,9 +26,9 @@ El [[co-location-methodology|índice de co-localización]] asigna cada clúster 
 
 | Nivel | Nombre | Descripción |
 |---|---|---|
-| 1 | **Regional** | Un nodo de co-localización de importancia nacional. Contiene tanto un ancla de tipo hipermercado como un club de almacén o ancla de estilo de vida, se encuentra en el decil superior de su país por captación de población primaria y tiene un hospital clasificado como regional dentro del anillo cívico. El nivel más alto. |
-| 2 | **Distrital** | Un nodo de área comercial subregional. Contiene un hipermercado y un ancla de ferretería o almacén, está en el cuartil superior de su país por captación de población primaria y tiene acceso hospitalario dentro del anillo cívico. |
-| 3 | **Local** | Un hub de ferretería o mayoreo con apoyo cívico a nivel comunitario. Contiene al menos un ancla de tipo ferretería o almacén, está en la mitad superior de su país por captación de población primaria y tiene algún hospital dentro del anillo cívico. |
+| 1 | **Regional** | Un nodo de co-localización de importancia nacional. Contiene tanto un ancla de tipo hipermercado como un club de almacén o ancla de estilo de vida, figura entre los más altos de su país por captación de población primaria y tiene un hospital clasificado como regional dentro del anillo cívico. El nivel más alto. |
+| 2 | **Distrital** | Un nodo de área comercial subregional. Contiene un hipermercado y un ancla de ferretería o almacén, se sitúa muy por encima de la mediana de su país por captación de población primaria y tiene acceso hospitalario dentro del anillo cívico. |
+| 3 | **Local** | Un hub de ferretería o mayoreo con apoyo cívico a nivel comunitario. Contiene al menos un ancla de tipo ferretería o almacén, alcanza al menos la mediana de su país por captación de población primaria y tiene algún hospital dentro del anillo cívico. |
 | 4 | **Marginal** | Por debajo del umbral en una o más compuertas requeridas. Un clúster comercial con co-tenencia minorista pero con captación insuficiente, composición inadecuada o apoyo cívico insuficiente para calificar para Local o superior. |
 
 ## Descriptores de composición
@@ -37,13 +37,19 @@ Cada clúster lleva un descriptor de composición que se muestra debajo de la in
 
 ## Historia de la nomenclatura
 
-Las etiquetas de nivel han sido renombradas dos veces desde el lanzamiento de la plataforma.
+Las etiquetas de nivel han sido renombradas dos veces desde el lanzamiento de la plataforma, ambas en mayo de 2026. El primer renombramiento sustituyó las etiquetas originales de estilo código por nombres en lenguaje sencillo. El segundo sustituyó aquellos por la jerarquía ICSC que está hoy en uso.
 
-**Primer renombramiento (mayo de 2026):** Las etiquetas numéricas originales (T3 Complemento Total, T2 Ancla Minorista, T0 Nodo Comercial, entre otras) fueron reemplazadas por sustantivos en lenguaje sencillo: Prime, Strong (Retail), Strong (Bulk), Strong (Hub), Core (Hyper), Core (Hardware), Core (Wholesale), Emerging. Esto resolvió dos problemas de legibilidad: la ambigüedad del "+" en los descriptores compuestos y el esfuerzo cognitivo de mapear un número de nivel a un rango de calidad.
+Los conjuntos de etiquetas retirados no se reproducen aquí. Ningún clúster actual lleva ninguno de ellos, y quien encuentre una etiqueta antigua está viendo una exportación obsoleta, no algo que el mapa produzca hoy.
 
-**Segundo renombramiento (mayo de 2026):** Las etiquetas del primer renombramiento fueron reemplazadas por la jerarquía ICSC: Regional, Distrital, Local, Marginal. La motivación fue la alineación con una nomenclatura internacionalmente reconocida que lleva significado sin requerir contexto específico de la plataforma.
+Dos problemas de legibilidad motivaron el primer cambio: la ambigüedad de los descriptores de composición compuestos y el hecho de que un código de nivel no decía nada sobre el rango sin consultar una tabla. El segundo cambio sustituyó un vocabulario propio de la plataforma por uno reconocido internacionalmente. Un planificador que abre el mapa sin leer documentación ya sabe qué significa "Regional"; los nombres anteriores había que aprenderlos.
 
 Los nombres de la plataforma toman como referencia la jerarquía ICSC de centros comerciales, pero no son idénticos a ella. La jerarquía ICSC real es Neighborhood/Community/Regional/Super Regional; solo "Regional" es un término ICSC genuino. "Distrital", "Local" y "Marginal" son nombres propios de la plataforma, no términos ICSC.
+
+## Qué cambió y qué no
+
+El segundo renombramiento coincidió con un cambio en la forma de asignar los niveles. Antes, los niveles se asignaban mediante una puntuación compuesta que combinaba una puntuación base con términos de recuento, diversidad, profundidad cívica y penalización por solapamiento. Bajo el sistema actual los niveles se asignan mediante compuertas binarias: composición, clasificación nacional de captación, clasificación cívica y límite de solapamiento espacial, cada una comprobada por separado. Las definiciones de las compuertas se describen en el documento de [[catchment-ranking-methodology-v3|metodología de clasificación de captación]].
+
+Cambiaron por tanto dos cosas a la vez, y conviene separarlas. Cambiaron los *nombres* de los niveles, que pasaron a las etiquetas ICSC. Cambió el *método de asignación*, que pasó de un umbral de puntuación a una compuerta predicativa. Ambos cambios se publicaron juntos, y por eso el nivel de un clúster pudo moverse al mismo tiempo que su etiqueta.
 
 ## Lectura de los colores de nivel en el mapa
 

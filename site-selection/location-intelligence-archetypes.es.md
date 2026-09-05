@@ -12,7 +12,7 @@ audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
 language: es
-last_edited: 2026-08-26
+last_edited: 2026-09-04
 editor: pointsav-engineering
 short_description: "Tres arquetipos de co-localización — Centros Comerciales (PRO), Franja Urbana (VWH) y Área de Acceso (PKS) — que identifican patrones de agrupación comercial diferenciados en 17 países de Norteamérica y Europa."
 paired_with: site-selection/location-intelligence-archetypes.md
@@ -46,47 +46,51 @@ alimentación.
 Los clústeres PRO representan co-localizaciones comerciales ancladas en
 alimentación, asignadas a uno de cuatro niveles mediante una prueba de
 predicados: cada nivel exige que se cumplan todas las condiciones listadas,
-no una puntuación aditiva frente a un umbral.
+no una puntuación aditiva frente a un umbral. Las definiciones de las
+compuertas se exponen íntegramente en la
+[[catchment-ranking-methodology-v3|metodología de clasificación de captación]],
+que es el enunciado canónico de la lógica de niveles; lo que sigue resume
+qué distingue a cada nivel.
 
 ### Definiciones de nivel
 
-**Nivel 1 — Regional:** El clúster contiene (Mayorista Y Hipermercado) o
-(Estilo de Vida Y Hipermercado); se ubica en el 10% superior de su país por
-población de captación primaria y en el 20% superior por captación
-secundaria; cuenta con al menos un hospital de clasificación regional
-dentro del anillo terciario; y no está dominado por un clúster más fuerte
-dentro de un radio de disco de 3,0 km.
+**Nivel 1 — Regional:** Un ancla de tipo Hipermercado combinada con un ancla
+Mayorista o de Estilo de Vida; población de captación entre las más altas de
+su país tanto en la zona primaria como en la secundaria; un hospital que
+atiende a una captación regional dentro del anillo cívico; y ausencia de
+superposición sustancial de área comercial con un clúster más fuerte.
 
-**Nivel 2 — Distrito:** El clúster contiene un Hipermercado más Ferretería o
-Mayorista; se ubica en el cuartil superior de su país por población de
-captación primaria, y en el cuartil superior en al menos un eje de gasto
-(alimentación, ferretería o mayorista); cuenta con al menos un hospital
-regional o distrital dentro del anillo terciario.
+**Nivel 2 — Distrito:** Un ancla de tipo Hipermercado más un ancla de
+Ferretería o Mayorista; población de captación alta pero inferior a la
+Regional, acompañada de un alcance comparable en al menos una categoría de
+gasto; un hospital que atiende al menos a una captación de nivel distrital
+dentro del anillo cívico.
 
-**Nivel 3 — Local:** El clúster contiene Ferretería o Mayorista; se ubica en
-la mitad superior de su país por población de captación primaria; cuenta con
-al menos un hospital de cualquier clasificación dentro del anillo terciario.
+**Nivel 3 — Local:** Un ancla de Ferretería o Mayorista; población de
+captación en la mediana de su país o por encima de ella; un hospital de
+cualquier tipo dentro del anillo cívico.
 
 **Nivel 4 — Marginal:** Todos los clústeres que no superan las pruebas de
 Nivel 1, 2 o 3.
 
-Clases de ancla: ALPHA_HYPERMARKET (alimentación de gran formato — Walmart,
-Target, Carrefour, Kaufland, Tesco y otras cadenas nacionales), ALPHA_LIFESTYLE
-(IKEA), ALPHA_HARDWARE (Home Depot, Lowe's, Leroy Merlin y similares) y
-ALPHA_WAREHOUSE (Costco, Sam's Club y similares). Los formatos de
-alimentación de proximidad (Lidl, Aldi) se excluyen deliberadamente — su
-densidad produciría clústeres falsos positivos por debajo de cualquier
-umbral útil.
+Las clases de ancla — Hipermercado (alimentación de gran formato), Estilo de
+Vida, Ferretería y Mayorista — se definen en la
+[[retail-brand-family-taxonomy|taxonomía de familias de marcas minoristas]].
+Los formatos de alimentación de proximidad se excluyen deliberadamente: su
+densidad generaría clústeres falsos positivos en lugar de una convergencia
+real de anclas.
 
-### Conjunto de datos actual
+### Forma y cobertura del conjunto de datos
 
-Según el último recuento de niveles publicado, el conjunto de datos de
-producción abarca 157 clústeres de Nivel 1, 1.462 de Nivel 2, 2.081 de
-Nivel 3 y 6.513 de Nivel 4 — 10.213 en total tras la deduplicación — en
-siete países principales (Estados Unidos, México, España, Alemania, Canadá,
-Francia y Gran Bretaña) más otros mercados aún no desglosados
-individualmente. Los límites de nivel se reajustan periódicamente a medida
-que cambia la cobertura de cadenas ancla y la huella minorista subyacente.
+El conjunto de datos de producción está fuertemente sesgado hacia los niveles
+inferiores. Los clústeres Marginales superan en número a los tres niveles
+calificados combinados, cada nivel sucesivo hacia abajo es sensiblemente
+mayor que el anterior, y los clústeres Regionales son una fracción pequeña
+del total. La cobertura abarca siete países principales — Estados Unidos,
+México, España, Alemania, Canadá, Francia y Gran Bretaña — más otros mercados
+aún no desglosados individualmente. Los límites de nivel se reajustan
+periódicamente a medida que cambia la cobertura de cadenas ancla y la huella
+minorista subyacente.
 
 ---
 
@@ -136,11 +140,10 @@ clúster PRO.
 
 ### Estado de producción
 
-La clasificación de Franja Urbana es de calidad productiva. Se perfilaron establecimientos de
-ferretería como anclas proxy, y la agrupación de suministro industrial se
-validó frente a datos de anclas de ferretería reservados para validación,
-con un umbral de aceptación interno para la calidad del clúster que la
-compilación de producción supera.
+La clasificación de Franja Urbana es de calidad productiva. Los
+establecimientos de ferretería sirven como ancla proxy perfilada, y la
+agrupación de suministro industrial se validó antes de que la clasificación
+pasara a producción.
 
 El conjunto de datos abarca miles de clústeres en los 17 países cubiertos,
 con la concentración más alta en Estados Unidos y una cobertura significativa
@@ -154,10 +157,10 @@ nivel Emergente/Reducido. Esa distribución con predominio de T3 es esperada
 distribuidor de construcción y recambios es una combinación legítimamente
 poco frecuente.
 
-Un indicador de control de calidad señala los clústeres que se encuentran
-lo bastante cerca de un hipermercado de alimentación como para considerarse
-parques comerciales de uso mixto — co-localizaciones VWH válidas que también
-incluyen comercio de alimentación.
+Algunos clústeres de Franja Urbana se encuentran lo bastante cerca de un
+hipermercado de alimentación como para funcionar como parques comerciales de
+uso mixto — co-localizaciones VWH válidas que también incluyen comercio de
+alimentación.
 
 ---
 
@@ -208,14 +211,14 @@ población por debajo de un umbral mínimo viable; sin servicio directo al
 
 ### Estado de producción
 
-La clasificación de Área de Acceso es de calidad productiva. Los registros de aparcamiento
-disuasorio son el ancla geográfica principal — puntos de transición
-coche→tránsito distribuidos de forma independiente de la geometría de la
-red ferroviaria. Los modos de transporte son señales de enriquecimiento; la
-presencia de alquiler de vehículos y hoteles define la madurez comercial.
-Las categorías de modo de transporte relacionadas se agrupan antes de
-asignar el nivel, para evitar que modos relacionados infle artificialmente
-una señal aparente de multimodalidad.
+La clasificación de Área de Acceso es de calidad productiva. Los registros de
+aparcamiento disuasorio son el ancla geográfica principal — puntos de
+transición coche→tránsito distribuidos de forma independiente de la geometría
+de la red ferroviaria. Los modos de transporte son señales de
+enriquecimiento; la presencia de alquiler de vehículos y hoteles define la
+madurez comercial. Las categorías de modo de transporte relacionadas se
+agrupan antes de asignar el nivel, para evitar que modos relacionados inflen
+artificialmente una señal aparente de multimodalidad.
 
 Los clústeres se distribuyen entre tres niveles. Un nivel de Hub regional
 combina acceso multimodal con un ecosistema comercial completo. Un nivel de
@@ -224,21 +227,25 @@ Un nivel más amplio de Nodo de tránsito es aquel donde el tránsito está
 presente pero la oportunidad comercial aún está por confirmarse.
 
 El enriquecimiento comercial se apoya en las principales cadenas de alquiler
-de vehículos y hoteles activas en cada mercado, incorporadas y reflejadas en
-la compilación de producción.
+de vehículos y hoteles activas en cada mercado, reflejadas en el conjunto de
+datos actual.
 
 ### Filtro de grandes hubs
 
 Los aeropuertos adyacentes a un gran clúster minorista PRO se excluyen como
-probables grandes hubs comerciales. Los grandes aeropuertos generan su propia
-gravedad minorista y no exhiben el patrón de estacionamiento y tránsito. El
-filtro excluye correctamente hubs como LAX, JFK, LHR y CDG.
+probables grandes hubs comerciales. Los grandes aeropuertos internacionales
+generan su propia gravedad minorista y no exhiben el patrón de estacionamiento
+y tránsito que el arquetipo busca identificar; el filtro de adyacencia los
+excluye.
 
-### Mejoras futuras
+### Mejoras previstas
 
-- Datos de pasajeros aeroportuarios (CAPA o IATA) para sustituir el proxy de
+Lo siguiente está previsto, no es capacidad actual:
+
+- Datos de pasajeros aeroportuarios, destinados a sustituir el proxy de
   adyacencia actual por un clasificador basado directamente en el tráfico
-- Directorio de operadores de estacionamiento: Q-Park, APCOA, NCP, Indigo/Vinci (UE); SP+ (EE. UU.)
+- Un directorio de operadores de estacionamiento que cubra a los principales
+  operadores activos en cada mercado
 
 ---
 
@@ -253,8 +260,10 @@ conforme a la definición de Área de Acceso anterior.
 
 ## Véase también
 
-- [[co-location-methodology|Metodología de co-ubicación]] — la puntuación de composición de anclas que impulsa la asignación de niveles PRO
+- [[catchment-ranking-methodology-v3|Metodología de clasificación de captación]] — el enunciado canónico de las compuertas de nivel PRO
+- [[co-location-methodology|Metodología de co-ubicación]] — la prueba de composición de anclas que impulsa la asignación de niveles PRO
 - [[co-location-ranking-system|Sistema de clasificación de co-ubicación]] — el índice de densidad comercial de cinco rangos que clasifica los clústeres PRO
+- [[retail-brand-family-taxonomy|Taxonomía de familias de marcas minoristas]] — las clases de ancla referenciadas en todo el artículo
 - [[about-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]] — el conjunto de 400 mercados construido sobre datos de clústeres PRO
 - [[atlas-top-400-north-america|Top 400 Mercados Regionales — Norteamérica]] — conjunto calificado de mercados PRO suburbano-regionales en NA
 - [[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]] — conjunto calificado de mercados PRO suburbano-regionales en EU

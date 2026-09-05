@@ -12,7 +12,7 @@ audience: vendor-public
 bcsc_class: public-disclosure-safe
 language_protocol: PROSE-TOPIC
 language: en
-last_edited: 2026-08-26
+last_edited: 2026-09-04
 editor: pointsav-engineering
 paired_with: site-selection/retail-centres.es.md
 short_description: "Retail Centres (PRO) are neighbourhood commercial centres anchored by grocery, pharmacy, bank, and casual dining — one of three Location Intelligence co-location archetypes, and the base map product for the site-selection dataset."
@@ -37,36 +37,41 @@ Consumer traffic at a Retail Centre is steady and broadly distributed across the
 
 ## Tier classification
 
-PRO clusters are graded at three scales. The pipeline groups anchor-category retail locations that fall within a defined span distance, then assigns each group to a tier based on anchor composition.
+PRO clusters are graded at four scales — **T1 Regional**, **T2 District**, **T3 Local**, and **T4 Fringe**.
 
-**T1 — Regional:** A cluster containing a grocery hypermarket and a hardware retailer, plus at least one of a price club, lifestyle retailer, or electronics retailer. Alternatively: four or more anchor-category retailers in a tight cluster (span ≤ 1 km), or three or more anchors in any tight cluster. These are the largest centres, drawing from a regional catchment.
+A cluster's tier is assigned by predicate gate, not by an accumulated score. Every condition listed for a tier must pass, and a strong reading on one condition does not offset a failure on another. Four condition families apply in combination:
 
-**T2 — District:** A cluster containing a grocery hypermarket and a hardware retailer, with a span no greater than 2.5 km. The district centre serves a defined neighbourhood with a complete everyday-needs mix.
+- **Composition** — which of the four anchor classes are present: hypermarket, lifestyle, hardware, and warehouse
+- **Catchment rank** — where the cluster's trade-area population and spend rank against other clusters in the same country, drawn from the zones described in [[od-catchment-methodology|the distance-band methodology]]
+- **Civic presence** — whether a hospital of the required classification sits within the cluster's civic ring
+- **Spatial independence** — for the upper tiers, whether the cluster is substantially overlapped by a stronger cluster in the same country
 
-**T3 — Local:** All remaining anchor pairs that do not qualify for T1 or T2. Smaller local centres with partial anchor composition.
+**T1 — Regional:** the largest centres, drawing from a regional catchment. A hypermarket anchor combines with a warehouse or lifestyle anchor; the cluster ranks among the highest in its country by catchment population; a regionally classified hospital is present; and the cluster is spatially independent of stronger neighbours. This is the tightest bar on every condition.
 
-The T1/T2/T3 tier labels used here are shared with the other Location Intelligence archetypes.
+**T2 — District:** a district centre serving a defined neighbourhood with a complete everyday-needs mix. A hypermarket anchor combines with a hardware or warehouse anchor; the cluster's catchment and spend ranks sit well above its country's median; and hospital access is present within the civic ring. Every bar is looser than Regional, but each is still a bar.
 
-## Production dataset
+**T3 — Local:** a smaller local centre with partial anchor composition. A hardware or warehouse anchor is present, catchment rank reaches at least the country median, and any hospital classification satisfies the civic condition.
 
-Retail Centres (PRO) form the foundation of the site-selection dataset, covering 17 display countries across North America and Europe.
+**T4 — Fringe:** clusters that clear none of the higher gates. A Fringe cluster may still show real retail co-tenancy; what it lacks is catchment reach, anchor composition, or civic support at the level a higher tier requires.
 
-| Tier | Clusters | Countries |
-|------|----------|-----------|
-| T1 | 1,746 | 17 |
-| T2 | 2,726 | 17 |
-| T3 | 2,021 | 17 |
-| **Total** | **6,493** | |
+Span still matters, but as a clustering input rather than as the qualification test. Anchor-category retail locations are grouped into one candidate cluster only when they fall within a defined span of each other, so span determines what counts as a single cluster before any gate is tested. It does not, on its own, set the tier. The span conventions are platform parameters, re-tuned between rebuilds as anchor-chain coverage changes, and are not published here.
 
-The T2 span boundary was set to 2.5 km in the most recent rebuild, tightening the district-scale boundary relative to earlier phases. The three-letter archetype codes were ratified on 1 June 2026.
+The full gate definitions are maintained in [[catchment-ranking-methodology-v3|the catchment ranking methodology]]; the tier labels themselves are defined in [[co-location-tier-nomenclature|tier nomenclature]]. The T1–T4 tier labels used here are shared with the other Location Intelligence archetypes.
+
+## Coverage
+
+Retail Centres (PRO) form the foundation of the site-selection dataset, covering 17 display countries across North America and Europe. The three-letter archetype codes were ratified on 1 June 2026.
+
+Cluster counts by tier are a moving figure. They change with each rebuild as anchor-chain coverage and the underlying retail footprint change, and tier boundaries are periodically re-tuned in response. Current counts are therefore not restated here.
 
 ## Why PRO is the base map
 
-Retail Centres anchor the entire Location Intelligence dataset because grocery-anchored co-location is the most stable and widely distributed commercial pattern. Almost every populated catchment has a grocery anchor; the centre that forms around it is a reliable proxy for residential commercial gravity. The Urban Fringe and Commuter archetypes are defined partly in relation to PRO clusters — Urban Fringe sites are identified by the *absence* of grocery anchors, and Commuter sites reference the nearest T1/T2 Retail Centre as the [[about-regional-markets-system|regional market]] generating their parking demand.
+Retail Centres anchor the entire Location Intelligence dataset because grocery-anchored co-location is the most stable and widely distributed commercial pattern. Almost every populated catchment has a grocery anchor; the centre that forms around it is a reliable proxy for residential commercial gravity. The Urban Fringe and Commuter archetypes are defined partly in relation to PRO clusters — Urban Fringe sites are identified by the *absence* of grocery anchors, and Commuter sites reference the nearest T1 or T2 Retail Centre as the [[about-regional-markets-system|regional market]] generating their parking demand.
 
 ## See also
 
 - [[location-intelligence-archetypes]] — the full PRO/VWH/PKS co-location archetype overview
+- [[catchment-ranking-methodology-v3]] — the tier gate definitions in full
 
 ## Data Sources
 

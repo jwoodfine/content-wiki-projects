@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-26
+last_edited: 2026-09-04
 editor: pointsav-engineering
 short_description: "Each co-location cluster is assigned two straight-line distance bands — a primary zone within 35 km and a secondary zone from 35 km to 150 km — that determine the population and spend attributed to it."
 paired_with: site-selection/od-catchment-methodology.es.md
@@ -25,21 +25,21 @@ The Woodfine [[co-location-methodology|co-location]] platform assigns each clust
 
 **Secondary zone (35–150 km):** the area between 35 km and 150 km straight-line distance of the cluster centroid. This zone captures the wider regional draw, including occasional shoppers and cross-regional trips.
 
-The 35 km primary boundary is a provisional parameter based on established retail geography conventions. It is subject to refinement once empirical origin-destination data becomes available. The 150 km outer boundary aligns with the platform's data collection radius, ensuring that every location contributing to a cluster's zones has been ingested and verified.
+The primary boundary is a provisional parameter based on established retail geography conventions. It is subject to refinement once empirical origin-destination data becomes available. The outer boundary aligns with the platform's own data-collection reach, so every location contributing to a cluster's zones has already been ingested and verified.
 
-Zone membership is resolved on the platform's worldwide spatial grid, so zone figures compare directly between clusters in any country. The full grid specification and membership rule are planned for publication at gis.woodfinegroup.com.
+Zone membership is resolved the same way in every market, so zone figures compare directly between clusters in any country.
 
 ## Distance method
 
-All distances are straight-line ground distances; no drive-time routing is used at this stage. A 35 km band therefore means the same thing in every market — urban or rural, North American or European — which is what makes cross-cluster comparison possible before observed origin data arrives. Reachability along the road network is a planned improvement, described in [[trade-area-methodology]]. The distance computation itself is planned for publication at gis.woodfinegroup.com.
+All distances are straight-line ground distances; no drive-time routing is used at this stage. A 35 km band therefore means the same thing in every market — urban or rural, North American or European — which is what makes cross-cluster comparison possible before observed origin data arrives. Reachability along the road network is a planned improvement, described in [[trade-area-methodology]].
 
 ## HOME and AWAY perspectives
 
 The platform distinguishes two perspectives on zone population.
 
-**HOME:** Population counts derived from residential data (WorldPop 2026). Represents where people live within each zone. This is the default view and is fully implemented.
+**HOME:** population counts derived from published residential population data. Represents where people live within each zone. This is the default view and is fully implemented.
 
-**AWAY:** Population counts representing daytime or workplace population. Workplace distribution differs from residential distribution — concentrated in commercial districts and employment centres rather than dispersed across residential areas. The AWAY perspective is planned; the data source is pending.
+**AWAY:** population counts representing daytime or workplace population. Workplace distribution differs from residential distribution — concentrated in commercial districts and employment centres rather than dispersed across residential areas. The AWAY perspective is planned; the data source is pending.
 
 ## One place, multiple clusters
 
@@ -49,7 +49,7 @@ A single location may fall within the zones of multiple co-location clusters. Th
 
 Zone membership is the basis for:
 
-- Population aggregation (census-derived population by zone)
+- Population aggregation (published population data by zone)
 - Spend aggregation (grocery, hardware, wholesale spend by zone)
 - Cross-cluster competitive ranking (see [[catchment-ranking-methodology-v3]])
 

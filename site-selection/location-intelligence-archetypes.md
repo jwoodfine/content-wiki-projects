@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-26
+last_edited: 2026-09-04
 editor: pointsav-engineering
 short_description: "Three co-location archetypes — Retail Centres (PRO), Urban Fringe (VWH), and Commuter (PKS) — identifying distinct commercial clustering patterns across 17 countries in North America and Europe."
 paired_with: site-selection/location-intelligence-archetypes.es.md
@@ -43,43 +43,47 @@ not captured by grocery-anchored clustering.
 
 PRO clusters represent grocery-anchored commercial co-locations, assigned to
 one of four tiers by a predicate-gate test — each tier requires every listed
-condition to pass, not an additive score against a threshold.
+condition to pass, not an additive score against a threshold. The gate
+definitions are set out in full in the
+[[catchment-ranking-methodology-v3|catchment ranking methodology]], which is
+the canonical statement of the tier logic; what follows summarises what
+distinguishes each tier.
 
 ### Tier definitions
 
-**Tier 1 — Regional:** Cluster contains (Warehouse AND Hypermarket) or
-(Lifestyle AND Hypermarket); ranks in the top 10% of its country by primary
-catchment population and top 20% by secondary catchment population; has at
-least one regionally classified hospital within the tertiary ring; and is not
-dominated by a stronger cluster within a 3.0 km disk radius.
+**Tier 1 — Regional:** A Hypermarket anchor paired with a Warehouse or
+Lifestyle anchor; catchment population among the highest in its country in
+both the primary and secondary zones; a hospital serving a regional catchment
+within the civic ring; and no substantial trade-area overlap with a stronger
+cluster.
 
-**Tier 2 — District:** Cluster contains a Hypermarket plus Hardware or
-Warehouse; ranks in the top quartile of its country by primary catchment
-population, and in the top quartile on at least one spend axis (grocery,
-hardware, or wholesale); has at least one regional or district hospital
-within the tertiary ring.
+**Tier 2 — District:** A Hypermarket anchor plus a Hardware or Warehouse
+anchor; strong but sub-Regional catchment population, matched by comparable
+reach on at least one spend category; a hospital serving at least a
+district-level catchment within the civic ring.
 
-**Tier 3 — Local:** Cluster contains Hardware or Warehouse; ranks in the top
-half of its country by primary catchment population; has at least one
-hospital of any classification within the tertiary ring.
+**Tier 3 — Local:** A Hardware or Warehouse anchor; catchment population at
+or above the country median; a hospital of any kind within the civic ring.
 
 **Tier 4 — Fringe:** All clusters that do not pass the Tier 1, 2, or 3 gates.
 
-Anchor classes: ALPHA_HYPERMARKET (large-format grocery — Walmart, Target,
-Carrefour, Kaufland, Tesco, and other national chains), ALPHA_LIFESTYLE
-(IKEA), ALPHA_HARDWARE (Home Depot, Lowe's, Leroy Merlin, and similar), and
-ALPHA_WAREHOUSE (Costco, Sam's Club, and similar). Neighbourhood grocery
-formats (Lidl, Aldi) are deliberately excluded — their density would produce
-false-positive clusters below any useful threshold.
+The anchor classes — Hypermarket (large-format grocery), Lifestyle, Hardware,
+and Warehouse — are defined in the
+[[retail-brand-family-taxonomy|retail brand-family taxonomy]].
+Neighbourhood-format grocery chains are deliberately excluded: their density
+would generate false-positive clusters rather than genuine anchor
+convergence.
 
-### Current dataset
+### Dataset shape and coverage
 
-As of the most recent published tier count, the production dataset spans
-157 Tier 1, 1,462 Tier 2, 2,081 Tier 3, and 6,513 Tier 4 clusters — 10,213
-total after deduplication — across seven headline countries (United States,
-Mexico, Spain, Germany, Canada, France, and Great Britain) plus additional
-markets not yet broken out individually. Tier boundaries are periodically
-re-tuned as anchor-chain coverage and the underlying retail footprint change.
+The production dataset is heavily weighted toward the lower tiers. Fringe
+clusters outnumber the three qualifying tiers combined, each successive tier
+down is materially larger than the one above it, and Regional clusters are a
+small fraction of the total. Coverage spans seven headline countries — the
+United States, Mexico, Spain, Germany, Canada, France, and Great Britain —
+plus additional markets not yet broken out individually. Tier boundaries are
+periodically re-tuned as anchor-chain coverage and the underlying retail
+footprint change.
 
 ---
 
@@ -125,10 +129,9 @@ heritage conservation zone; location inside a PRO cluster.
 
 ### Production status
 
-Urban Fringe classification is production-grade. Hardware stores were profiled as
-proxy anchors, and the trade-supply clustering was validated against
-held-out hardware-anchor data, with an internally set acceptance threshold
-for cluster quality that the production build clears.
+Urban Fringe classification is production-grade. Hardware retailers serve as
+the profiled proxy anchor, and the trade-supply clustering was validated
+before the classification was promoted to production.
 
 The dataset spans thousands of clusters across the 17 display countries,
 concentrated most heavily in the United States with meaningful coverage
@@ -141,9 +144,9 @@ T3-heavy distribution is expected — a full trade hub combining MRO, tool
 rental, builders merchant, and auto parts is a legitimately rare
 combination.
 
-A quality-control flag marks clusters that sit close enough to a grocery
-hypermarket to be considered dual-use commercial parks — valid VWH
-co-locations that also include grocery retail.
+Some VWH clusters sit close enough to a grocery hypermarket to function as
+dual-use commercial parks — valid VWH co-locations that also include grocery
+retail.
 
 ---
 
@@ -204,21 +207,24 @@ tier combines transit with at least one commercial signal. A larger Transit
 Node tier is where transit is present but commercial opportunity remains to
 be proven out.
 
-Commercial enrichment draws on major car rental and hotel chains active in
-each market, ingested and reflected in the production build.
+Commercial enrichment draws on the major car rental and hotel chains active
+in each market, reflected in the current dataset.
 
 ### Major hub filter
 
 Airports adjacent to a major PRO retail cluster are excluded as likely major
-commercial hubs. Major airports generate their own retail gravity and do not
-exhibit the park-and-transit pattern. The filter correctly removes hubs such
-as LAX, JFK, LHR, and CDG.
+commercial hubs. The largest international airports generate their own retail
+gravity and do not exhibit the park-and-transit pattern the archetype is
+built to find; the adjacency filter removes them.
 
-### Future enhancements
+### Planned enhancements
 
-- Airport passenger volume data (CAPA or IATA) to replace the current
+The following are planned, not current capability:
+
+- Airport passenger-volume data, intended to replace the current
   adjacency-based hub proxy with a direct traffic-based classifier
-- Parking operator directory: Q-Park, APCOA, NCP, Indigo/Vinci (EU); SP+ (US)
+- A parking-operator directory covering the major operators active in each
+  market
 
 ---
 
@@ -236,8 +242,10 @@ Map and location data © [OpenStreetMap contributors](https://www.openstreetmap.
 
 ## See also
 
-- [[co-location-methodology|Co-location Methodology]] — the anchor-composition scoring that drives PRO tier assignment
+- [[catchment-ranking-methodology-v3|Catchment Ranking Methodology]] — the canonical statement of the PRO tier gates
+- [[co-location-methodology|Co-location Methodology]] — the anchor-composition test that drives PRO tier assignment
 - [[co-location-ranking-system|Co-location Ranking System]] — the five-rank commercial density index that ranks PRO clusters
+- [[retail-brand-family-taxonomy|Retail Brand-Family Taxonomy]] — the anchor classes referenced throughout
 - [[about-regional-markets-system|Regional Markets Intelligence System]] — the 400-market set built on PRO cluster data
 - [[atlas-top-400-north-america|Top 400 Regional Markets — North America]] — qualifying set of suburban-regional PRO markets in NA
 - [[atlas-top-400-europe|Top 400 Regional Markets — Europe]] — qualifying set of suburban-regional PRO markets in EU

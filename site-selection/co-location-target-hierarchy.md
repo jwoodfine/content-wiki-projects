@@ -7,10 +7,11 @@ index_group: anchors-and-tenants
 type: topic
 content_type: topic
 quality: complete
-short_description: "Three-tier target classification in Woodfine's co-location dataset — Primary (Walmart Supercentre), Secondary (Home Depot, Costco), Tertiary (universities, medical centres)."
+short_description: "The signals the co-location dataset looks for and the role each plays — a hypermarket anchor, category-dominant co-anchors, and civic institutions — and why the current tier system requires each one independently rather than summing them into a score."
 status: stable
+audience: customer-woodfine
 bcsc_class: current-fact
-last_edited: 2026-07-11
+last_edited: 2026-09-04
 editor: pointsav-engineering
 language_protocol: PROSE-TOPIC
 source_refs:
@@ -19,54 +20,80 @@ paired_with: co-location-target-hierarchy.es.md
 cites: []
 ---
 
-The **Co-Location Target Hierarchy** is the three-tier classification system that structures Woodfine's geographic co-location dataset. Each tier assigns a category of retail operator or institutional employer to the role it plays in validating a potential Development Site. The hierarchy reflects the observed sequencing of commercial development in [[about-regional-markets-system|Regional Markets]]: Primary Targets anchor the retail node, Secondary Targets follow the Primary, and Tertiary Targets confirm that an institutional demand base for professional services tenancy is present in the geography.
+No single strong signal qualifies a development site. A hypermarket with exceptional sales does not make a site on its own; neither does a hospital, nor a warehouse club. The **co-location target hierarchy** names the distinct commercial and institutional signals Woodfine's co-location dataset looks for, and the role each one plays in validating a geography. Since May 2026 those signals are tested as separate conditions that must each pass. They are not summed into a single score in which a strong reading on one offsets a weak reading on another.
 
-## Primary Target: Walmart Supercentre
+The hierarchy reflects the observed sequencing of commercial development in [[about-regional-markets-system|Regional Markets]]. A hypermarket anchor establishes the node. Category-dominant co-anchors follow it. Civic institutions confirm that an institutional employment base is present in the surrounding geography. Each stage supplies a different piece of evidence, and none of them substitutes for another.
 
-The Primary Target in the Woodfine dataset is the Walmart Supercentre format. A Walmart Supercentre is a large-format combined grocery and general merchandise store. It is not simply the largest format in the Walmart chain — it is the format that Walmart deploys in markets where it has validated sufficient consumer demand to justify a combined grocery and general merchandise investment at full institutional scale.
+## Target roles are not cluster tiers
 
-### Infrastructure sequencing role
+Two vocabularies meet in this subject, and confusing them is the most common misreading.
 
-The Walmart Supercentre serves as the Primary Target because of its role in establishing commercial infrastructure for a Regional Market. When Walmart commits to building a Supercentre in a geography, it simultaneously installs the road access improvements, utility connections, and site preparation that other commercial operators need to follow. Home Depot and Costco, as a matter of observed site selection behavior, do not typically precede Walmart in a given market — they follow after Walmart has validated and prepared the commercial node.
+**Target roles** — primary, secondary, tertiary — describe what the platform looks for and why it looks for it. **Cluster tiers** — Regional, District, Local, and Fringe — describe what a cluster was found to be once every condition has been tested. A cluster in which all three target roles are present can still fall to the lowest tier if its catchment reach is inadequate.
 
-### Sales per square foot as ranking metric
+The tier labels and what they mean are set out in [[co-location-tier-nomenclature|tier nomenclature]]. The conditions a cluster must clear to earn each tier are set out in [[catchment-ranking-methodology-v3|the catchment ranking methodology]]. This article covers the inputs to those conditions, not the conditions themselves.
 
-The sales per square foot figure for each Walmart Supercentre in the dataset is the primary ranking metric for individual Primary Target entries. Sales per square foot is a direct proxy for consumer demand intensity: a Supercentre with high sales per square foot operates in a trade area where consumer purchasing volume is concentrated, confirming that the commercial node is performing above the threshold required to attract the Secondary Targets.
+## Primary target — the hypermarket anchor
 
-## Secondary Targets: Home Depot and Costco Wholesale
+The primary target is the large-format combined grocery and general merchandise store. It is not simply the largest format a chain operates. It is the format an operator deploys only where it has validated consumer demand sufficient to justify a combined grocery and general merchandise investment at full institutional scale.
 
-The two Secondary Targets are The Home Depot and Costco Wholesale. Both are large-format category-dominant retailers that validate specific segments of consumer and commercial demand.
+### Infrastructure sequencing
 
-### Home Depot and the trade contractor base
+The hypermarket serves as the primary target because of what it builds. When an operator commits to a hypermarket in a geography, it installs the road access improvements, utility connections, and site preparation that other commercial operators need in order to follow. Hardware and warehouse-club operators do not, as a matter of observed site-selection behaviour, typically precede the hypermarket into a market. They arrive after it has validated and prepared the commercial node.
 
-**Home Depot** operates large-format home improvement stores targeting both residential consumers and trade contractors. Its presence in a Regional Market confirms that the geography supports a trade contractor base — electricians, plumbers, general contractors, and renovation specialists — that serves both residential and commercial construction activity. For Woodfine's development purposes, the presence of a Home Depot indicates a Regional Market with active construction supply chain activity, which correlates with commercial real estate development readiness.
+In the dataset the primary target is also the seed record: a candidate cluster is identified from a hypermarket-class anchor and described outward from it. The four anchor classes the composition condition recognises — hypermarket, lifestyle, hardware, and warehouse — are defined in [[retail-brand-family-taxonomy|the retail brand family taxonomy]].
 
-### Costco as an income and household screen
+### Sales per square foot ranks; it does not qualify
 
-**Costco Wholesale** operates membership warehouse stores targeting consumers with the purchasing capacity and household scale to justify annual membership fees. The Costco membership threshold acts as an implicit income and household-size screen: markets where Costco operates profitably are markets where consumer disposable income meets or exceeds the threshold for discretionary warehouse purchasing. For Woodfine, the presence of a Costco confirms the income profile of the surrounding trade area at a level consistent with the demographic characteristics of the target tenant base for Professional Centres.
+Sales per square foot for each hypermarket entry is the primary ranking metric for individual primary-target records. It is a direct proxy for consumer demand intensity: a store with high sales per square foot operates in a trade area where purchasing volume is concentrated.
 
-### Co-occurrence threshold at 1.0 km
+It carries no weight in whether a cluster clears a tier condition. It enters later, in the [[co-location-ranking-system|ranking step]] that orders already-qualified clusters into a site shortlist. Keeping the two apart matters. A top-ranked hypermarket in a geography that fails a catchment or civic condition still does not produce a qualified cluster.
 
-Secondary Targets receive a 1.0 km co-occurrence threshold because their presence at this distance from the Primary Target indicates shared site infrastructure, not coincidental proximity. Home Depot and Costco in a distinct location 1.5 km away from a Walmart Supercentre may reflect independent commercial development rather than a co-anchored [[power-centres|power centre]]. Within 1.0 km, the physical proximity confirms that the operators share a commercial node.
+## Secondary targets — the co-anchors
 
-## Tertiary Targets: Universities and Medical Centres
+Secondary targets are the category-dominant operators that follow the hypermarket into a node. Each validates a different segment of consumer and commercial demand.
 
-The two Tertiary Target categories are post-secondary educational institutions (universities and colleges) and major medical centres. Both generate sustained, institutionally-anchored demand for professional services tenancy in the surrounding geography.
+**Hardware** anchors — large-format home improvement retailers serving both residential consumers and trade contractors — confirm that a geography supports a trade contractor base. Electricians, plumbers, general contractors, and renovation specialists serve both residential and commercial construction. Their presence indicates a Regional Market with an active construction supply chain, which correlates with readiness for commercial real estate development.
 
-### Universities and colleges as demand sources
+**Warehouse** anchors — membership warehouse clubs — act as an implicit income and household-size screen. A membership fee is a threshold: markets where a club operates profitably are markets where consumer disposable income supports discretionary warehouse purchasing. Their presence confirms a trade-area income profile consistent with the tenant base Professional Centres are built for.
 
-**Universities and colleges** are employers of administrative, research, clinical, and facilities staff who require professional services — legal, accounting, financial advisory, medical, and dental — in the vicinity of their daily work location. They also attract the graduate and professional student populations who enter the professional services economy in the surrounding Regional Market. A post-secondary institution within 5.0 km of a power centre node is a confirmed source of professional tenancy demand that is not dependent on the retail anchor's own commercial performance.
+**Lifestyle** anchors — the large-format home and furnishings format — are recognised in the same co-anchor role, and appear in the composition condition for the highest tier alongside a hypermarket.
 
-### Major medical centres as institutional anchors
+### Proximity means a shared node, not a shared market
 
-**Major medical centres** — large hospitals and integrated health complexes — are among the most stable institutional employers in any Regional Market. Medical centre campuses attract affiliated physician practices, specialist clinics, diagnostic imaging operators, and pharmaceutical retailers that require dedicated leaseholds. The density of healthcare-related professional tenancy associated with a major medical centre makes it a reliable predictor of demand for the Professional Centres building type.
+A co-anchor counts toward composition only when it is close enough to the primary target to be sharing the same commercial node — the same access roads, the same servicing, the same parcel assembly. A hardware store several kilometres away may reflect independent commercial development rather than a co-anchored [[power-centres|power centre]]. Physical proximity is what distinguishes the two.
 
-### Tertiary threshold at 5.0 km
+The distance conventions that draw that line are engineering parameters of the platform, re-tuned between rebuilds as anchor-chain coverage changes. They are not published here.
 
-The 5.0 km threshold for Tertiary co-occurrence reflects the fact that Tertiary Targets anchor a geography, not a single commercial node. A university or hospital draws a professional catchment from the wider Regional Market, not just from the power centre parcel. Five kilometres in a Regional Market driving environment corresponds to a short commute — within the practical tolerance of professional tenants who may work at the medical centre but seek dental, legal, or financial services within a few minutes of their workplace.
+## Tertiary targets — civic institutions
 
-## Hierarchy Sequencing and Market Validation
+Tertiary targets are institutional employers that generate sustained demand for professional services tenancy in the surrounding geography, independent of the retail node's own commercial performance.
 
-The hierarchy is designed to capture the sequential validation logic that institutional commercial operators apply in Regional Markets. A geography that supports a Walmart Supercentre with high sales per square foot has already demonstrated consumer purchasing volume. A geography where Home Depot and Costco have followed Walmart has demonstrated that three independent institutional retailers found the same market conditions attractive under their respective site selection criteria. A geography where a university or medical centre is also present within 5.0 km has further demonstrated that the market supports institutional employment at a scale that generates professional services demand independent of the retail node.
+**Major medical centres** — large hospitals and integrated health complexes — are among the most stable institutional employers in any Regional Market. A medical centre campus attracts affiliated physician practices, specialist clinics, diagnostic imaging operators, and pharmaceutical retailers, all of which require dedicated leaseholds. That density of healthcare-related professional tenancy makes a medical centre a reliable predictor of demand for the Professional Centres building type.
 
-Each tier adds an independent validation signal that is not correlated with the others. Walmart validates consumer volume. Home Depot and Costco validate purchasing capacity and trade activity. Universities and medical centres validate professional tenancy demand. The [[geographic-co-location-methodology|Five-Degree Cluster system]] aggregates these independent signals into a composite score.
+Hospitals are classified by role — major general hospitals with emergency departments, secondary hospitals and specialist centres, and general practice or walk-in clinics. The civic condition tightens moving up the tiers: the highest tier requires a regionally classified hospital, and clinic-grade facilities do not satisfy the conditions for the upper tiers.
+
+**Universities and colleges** employ administrative, research, clinical, and facilities staff who require legal, accounting, financial advisory, medical, and dental services near their daily work location. They also produce the graduate and professional populations who enter the professional services economy of the surrounding market. University and college locations are captured in the same civic layer as hospitals and inform the demand case for professional tenancy. In the current tier definitions they do not, on their own, satisfy a civic condition — the civic gates test hospital classification.
+
+### The civic ring is wider than the node
+
+A civic institution anchors a geography rather than a parcel. A hospital draws its professional catchment from the wider Regional Market, not from the power centre site. The civic condition is therefore tested over a wider ring than the composition condition, on the reasoning that a professional tenant may work at the medical centre and still seek dental, legal, or financial services within a short drive of it. That ring is a platform parameter and is not published here.
+
+## Why these are conditions, not a score
+
+Each role supplies evidence the others cannot. A hypermarket validates consumer volume. Hardware and warehouse co-anchors validate trade activity and household purchasing capacity. A regionally classified hospital validates institutional employment that does not depend on retail performance at all.
+
+Because the signals are independent, they are not interchangeable — and a system that adds them together implicitly treats them as though they were. That is the reasoning behind the change made in May 2026. Until then the platform assigned tiers on a points-based scale that summed composition, count, diversity, civic depth, and an overlap penalty into a single number. A cluster could reach a high tier on a strong reading of one term while lacking the catchment reach or civic infrastructure that tier was meant to signal.
+
+Under the current system each condition is tested on its own, and a cluster earns a tier only when every condition for that tier passes. Partial strength does not accumulate. The retired scale and its numeric labels no longer describe any current cluster.
+
+## What the hierarchy does not determine
+
+The target hierarchy is one input among several. Two further conditions sit outside it entirely: a cluster's catchment rank against other clusters in its own country, derived from the zones described in [[od-catchment-methodology|the distance-band methodology]], and its spatial independence from stronger nearby clusters.
+
+It is also not a demographic profile. The co-location output records the community, its population, and the primary target's sales performance and ranking. Demographic profiling is a separate analytical step, addressed by the [[optimum-mosaic-demographic-profiling|Optimum Mosaic methodology]].
+
+## See also
+
+- [[geographic-co-location-methodology]]
+- [[catchment-ranking-methodology-v3]]
+- [[co-location-anchors]]
