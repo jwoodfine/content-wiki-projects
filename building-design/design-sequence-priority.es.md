@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-24
+last_edited: 2026-09-04
 editor: pointsav-engineering
 short_description: "El orden fijo de colaboración detrás de cada paquete de diseño de Woodfine: primero el Plan de Arrendamiento, luego Servicios del Edificio, y por último Estructural — cada disciplina diseñando sobre una capa previa ya completada en lugar de negociar en paralelo."
 paired_with: building-design/design-sequence-priority.md
@@ -25,7 +25,7 @@ Woodfine secuencia a sus colaboradores de diseño en un orden fijo: primero el P
 
 ## Qué reemplaza
 
-El orden reemplaza una práctica anterior de involucrar a Estructural o a Servicios del Edificio antes de fijar el Plan de Arrendamiento. Esa práctica cedía ante la disciplina que estuviera contratada primero, o ante la "conveniencia de diseño" que una cuadrícula estructural lineal le ofrece a un Colaborador Estructural sin importar lo que los espacios realmente necesitaran. La falla fue directa. La propia experiencia de Woodfine muestra que esto salió mal en aproximadamente la mitad de los proyectos anteriores, donde la participación junto con los diseñadores de un inquilino en los Planos Maestros llegó solo después de que el edificio ya estaba construido. Para entonces era demasiado tarde para cambiar lo que esos Planos Maestros podrían haber significado para el diseño del edificio en sí, no solo para el espacio individual en acondicionamiento.
+El orden reemplaza una práctica anterior de involucrar a Estructural o a Servicios del Edificio antes de fijar el Plan de Arrendamiento. Esa práctica cedía ante la disciplina que estuviera contratada primero, o ante la "conveniencia de diseño" que una cuadrícula estructural lineal le ofrece a un Colaborador Estructural sin importar lo que los espacios realmente necesitaran. La falla es directa, y común en el desarrollo comercial. Los diseñadores de un inquilino participan en los Planos Maestros solo después de que el edificio ya está construido. Para entonces, esos Planos Maestros solo pueden dar forma al acondicionamiento de un espacio arrendable individual; lo que podrían haber significado para el diseño del edificio en sí ya está fijado. Corregirlo en esa etapa exige reconstruir, no volver a dibujar. Por esa razón la secuencia se fija de antemano, en lugar de negociarse proyecto por proyecto.
 
 ## Por qué el arrendamiento fija los términos, no al revés
 

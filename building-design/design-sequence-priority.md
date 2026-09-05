@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-24
+last_edited: 2026-09-04
 editor: pointsav-engineering
 short_description: "The fixed collaboration order behind every Woodfine design package — the Leasing Plan first, then Building Services, then Structural — each discipline designing against a completed prior layer instead of in parallel."
 paired_with: building-design/design-sequence-priority.es.md
@@ -25,7 +25,7 @@ Woodfine sequences its design collaborators in a fixed order — Leasing Plan fi
 
 ## What it replaces
 
-The order replaces an earlier practice of engaging Structural or Building Services before the Leasing Plan was settled. That practice deferred to whichever discipline happened to be under contract first, or to the "convenience of design" a linear structural grid offers a Structural Collaborator regardless of what the leaseholds actually needed. The failure mode was direct. Woodfine's own experience shows this went wrong in roughly half of past projects, where involvement with a tenant's designers on the Key Plans came only after the building was already built. By then it was too late to change what the Key Plans could have meant for the design of the building itself, not just for the individual leasehold being fitted out.
+The order replaces an earlier practice of engaging Structural or Building Services before the Leasing Plan was settled. That practice deferred to whichever discipline happened to be under contract first, or to the "convenience of design" a linear structural grid offers a Structural Collaborator regardless of what the leaseholds actually needed. The failure mode is direct, and common across commercial development. A tenant's designers first engage with the Key Plans only after the building is already built. By then the Key Plans can shape the fit-out of one leasehold and nothing more; what they could have meant for the design of the building itself is already fixed. Correcting that at this stage means rebuilding rather than redrawing. The sequence is fixed in advance for exactly that reason, rather than negotiated project by project.
 
 ## Why leasing sets the terms, not the reverse
 
