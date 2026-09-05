@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-26
+last_edited: 2026-09-04
 editor: pointsav-engineering
 short_description: "Population estimates from WorldPop 2026 and annual per-capita spend proxies from national household surveys underpin the trade area statistics for each co-location cluster."
 paired_with: gis/trade-area-data-sources.es.md
@@ -53,11 +53,13 @@ Spend estimates are synthesised by applying **annual per-capita expenditure mult
 | Austria | €3,000 | €950 | €1,000 | EUR |
 | Portugal | €2,400 | €600 | €700 | EUR |
 | Greece | €2,200 | €500 | €600 | EUR |
-| Denmark | €3,500 | €1,200 | €1,100 | EUR |
-| Iceland | €4,000 | €1,500 | €1,500 | EUR |
+| Denmark | €3,500\* | €1,200\* | €1,100\* | DKK\* |
+| Iceland | €4,000\* | €1,500\* | €1,500\* | ISK\* |
 | Poland | PLN 8,000 | PLN 2,000 | PLN 2,500 | PLN |
 
 Multipliers are expressed in local currency. Cross-country spend comparisons require foreign-exchange normalisation, which is not applied in the current pipeline. Rankings are most meaningful within a single country or within the eurozone.
+
+\* Denmark and Iceland are not eurozone members; their multipliers are shown here still denominated in euros pending re-derivation in DKK and ISK, and are not yet comparable to the eurozone figures above them.
 
 ### Retail categories
 

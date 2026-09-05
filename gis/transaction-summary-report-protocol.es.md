@@ -9,8 +9,9 @@ content_type: topic
 quality: complete
 short_description: "Protocolo que lleva los candidatos a Sitio de Desarrollo de la puntuación geográfica a la revisión del Director Independiente mediante el Informe de Resumen de Transacción."
 status: stable
+audience: customer-woodfine
 bcsc_class: current-fact
-last_edited: 2026-07-31
+last_edited: 2026-09-04
 editor: pointsav-engineering
 language_protocol: TRANSLATE-ES
 source_refs:
@@ -58,3 +59,9 @@ La evaluación del cronograma de permisos es realizada por los profesionales inm
 Los Objetivos Primarios bien clasificados con terreno disponible y cronogramas de producción aceptables se presentan a los Directores Independientes del Socio General para su aprobación. La función de aprobación del Consejo es una puerta de gobernanza, no un sustituto del análisis técnico — el Informe de Resumen de Transacción proporciona el fundamento analítico; el Consejo aplica el estándar fiduciario.
 
 La revisión del Consejo considera: si el sitio candidato cumple los criterios de Inversión Calificada; si el perfil demográfico es consistente con el punto de referencia del Mosaico Óptimo dentro de una tolerancia aceptable; si el cronograma de permisos es compatible con el calendario de financiamiento; y si los términos de adquisición son consistentes con los parámetros de la sociedad. Los sitios que reciben la aprobación del Consejo avanzan a la fase de adquisición y desarrollo. Los sitios que son rechazados se devuelven al registro de monitoreo o se eliminan de la cartera de proyectos.
+
+## Consulte también
+
+- [[optimum-mosaic-demographic-profiling]] — el punto de referencia demográfico contra el que se compara cada sitio candidato
+- [[about-development-site-monitoring-register]] — dónde se conservan los sitios sin terreno adyacente disponible
+- [[geographic-co-location-methodology]] — el paso de puntuación que produce la preselección que avanza este protocolo

@@ -9,8 +9,9 @@ content_type: topic
 quality: complete
 short_description: "Site-approval protocol advancing shortlisted Development Site candidates from geographic scoring to Independent Director review via the Transaction Summary Report."
 status: stable
+audience: customer-woodfine
 bcsc_class: current-fact
-last_edited: 2026-07-11
+last_edited: 2026-09-04
 editor: pointsav-engineering
 language_protocol: PROSE-TOPIC
 source_refs:
@@ -58,3 +59,9 @@ The permitting timeline evaluation is conducted by the real estate professionals
 Highly ranked Primary Target sites with available land and acceptable production timelines are presented to the Independent Directors of the General Partner for approval. The Board's approval function is a governance gate, not a substitution for the technical analysis — the Transaction Summary Report provides the analytical foundation; the Board applies the fiduciary standard.
 
 The Board's review considers: whether the candidate site meets the Qualified Investment criteria; whether the demographic profile is consistent with the Optimum Mosaic benchmark within an acceptable tolerance; whether the permitting timeline is compatible with the financing schedule; and whether the acquisition terms are consistent with the partnership's parameters. Sites that receive Board approval advance to the acquisition and development phase. Sites that are declined are returned to the monitoring register or removed from the pipeline.
+
+## See also
+
+- [[optimum-mosaic-demographic-profiling]] — the demographic benchmark compared against each candidate site
+- [[about-development-site-monitoring-register]] — where sites without available adjacent land are held
+- [[geographic-co-location-methodology]] — the scoring step that produces the shortlist this protocol advances

@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-25
+last_edited: 2026-09-04
 editor: pointsav-engineering
 short_description: "Cadena de procedencia de las estimaciones de población y gasto — rásteres WorldPop, agregación H3 y multiplicadores per cápita, con sus debilidades declaradas."
 paired_with: gis/spend-population-provenance.md
@@ -124,11 +124,13 @@ entradas del Paso 3 y no están normalizados por tipo de cambio.
 | Austria | €3.000 | €950 | €1.000 | EUR |
 | Portugal | €2.400 | €600 | €700 | EUR |
 | Grecia | €2.200 | €500 | €600 | EUR |
-| Dinamarca | €3.500 | €1.200 | €1.100 | EUR |
-| Islandia | €4.000 | €1.500 | €1.500 | EUR |
+| Dinamarca | €3.500\* | €1.200\* | €1.100\* | DKK\* |
+| Islandia | €4.000\* | €1.500\* | €1.500\* | ISK\* |
 | Polonia | PLN 8.000 | PLN 2.000 | PLN 2.500 | PLN |
 
 **Nota de moneda.** Dado que los multiplicadores están en moneda local y no están normalizados por tipo de cambio, las comparaciones de gasto entre países no son directamente significativas.
+
+\* Dinamarca e Islandia no son miembros de la eurozona; sus multiplicadores se muestran aquí todavía denominados en euros, pendientes de re-derivarse en DKK e ISK, y no son comparables aún con las cifras de la eurozona anteriores.
 
 ## Cómo leer una cifra de gasto o población
 
@@ -162,5 +164,4 @@ gis.woodfinegroup.com.
 
 - [[trade-area-methodology]] — cómo se define el polígono sobre el cual se suman la población y el gasto
 - [[co-location-tiering-scoring]] — cómo la cifra de gasto alimenta el puntaje de fortaleza planeado
-- el resumen a nivel de asentamiento que agrega cifras a nivel de clúster
-- la capa de orquestación que ejecuta la canalización de gasto y población
+- [[trade-area-data-sources]] — las fuentes de datos de población y gasto y la tabla de multiplicadores per cápita

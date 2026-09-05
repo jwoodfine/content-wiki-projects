@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-08-25
+last_edited: 2026-09-04
 editor: pointsav-engineering
 short_description: "Provenance chain behind catchment population and spend estimates — WorldPop rasters, H3 aggregation, and per-capita multipliers, with their stated weaknesses."
 paired_with: gis/spend-population-provenance.es.md
@@ -126,11 +126,13 @@ Multipliers are annual per-capita expenditure proxies expressed in local currenc
 | Austria | €3,000 | €950 | €1,000 | EUR |
 | Portugal | €2,400 | €600 | €700 | EUR |
 | Greece | €2,200 | €500 | €600 | EUR |
-| Denmark | €3,500 | €1,200 | €1,100 | EUR |
-| Iceland | €4,000 | €1,500 | €1,500 | EUR |
+| Denmark | €3,500\* | €1,200\* | €1,100\* | DKK\* |
+| Iceland | €4,000\* | €1,500\* | €1,500\* | ISK\* |
 | Poland | PLN 8,000 | PLN 2,000 | PLN 2,500 | PLN |
 
 **Currency note.** Because multipliers are in local currency and are not FX-normalised, cross-country spend comparisons are not directly meaningful. Rankings are most defensible within a single country or within the eurozone.
+
+\* Denmark and Iceland are not eurozone members; their multipliers are shown here still denominated in euros pending re-derivation in DKK and ISK, and are not yet comparable to the eurozone figures above them.
 
 ## How to read a spend or population figure
 
@@ -162,5 +164,4 @@ All forward-looking items above are stated as planned or intended; they describe
 
 - [[trade-area-methodology]] — how the polygon over which population and spend are summed is defined
 - [[co-location-tiering-scoring]] — how the spend figure feeds the planned strength score
-- the settlement-level rollup that aggregates cluster-level figures
-- the orchestration layer that runs the spend and population pipeline
+- [[trade-area-data-sources]] — the population and spend data sources and per-capita multiplier table

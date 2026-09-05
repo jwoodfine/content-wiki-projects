@@ -11,7 +11,7 @@ status: active
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-08-26
+last_edited: 2026-09-04
 editor: pointsav-engineering
 short_description: "Las estimaciones de población de WorldPop 2026 y los proxies de gasto per cápita anuales de encuestas nacionales de hogares sustentan las estadísticas de área de influencia para cada cluster de co-ubicación."
 paired_with: gis/trade-area-data-sources.md
@@ -49,11 +49,13 @@ Las estimaciones de gasto se sintetizan aplicando **multiplicadores de gasto per
 | Austria | €3.000 | €950 | €1.000 | EUR |
 | Portugal | €2.400 | €600 | €700 | EUR |
 | Grecia | €2.200 | €500 | €600 | EUR |
-| Dinamarca | €3.500 | €1.200 | €1.100 | EUR |
-| Islandia | €4.000 | €1.500 | €1.500 | EUR |
+| Dinamarca | €3.500\* | €1.200\* | €1.100\* | DKK\* |
+| Islandia | €4.000\* | €1.500\* | €1.500\* | ISK\* |
 | Polonia | PLN 8.000 | PLN 2.000 | PLN 2.500 | PLN |
 
 Los multiplicadores se expresan en moneda local. Las comparaciones de gasto entre países requieren normalización cambiaria, que no se aplica en la versión actual del proceso. Las clasificaciones son más significativas dentro de un mismo país o dentro de la eurozona.
+
+\* Dinamarca e Islandia no son miembros de la eurozona; sus multiplicadores se muestran aquí todavía denominados en euros, pendientes de re-derivarse en DKK e ISK, y no son comparables aún con las cifras de la eurozona anteriores.
 
 ## Agregación por área de influencia
 
