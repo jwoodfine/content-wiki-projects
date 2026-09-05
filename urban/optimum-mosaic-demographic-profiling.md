@@ -7,10 +7,11 @@ index_group: demographic-and-parking-standards
 type: topic
 content_type: topic
 quality: complete
+audience: customer-woodfine
 short_description: "Demographic methodology deriving the Optimum Mosaic — Woodfine's target consumer signature — from the highest sales-per-square-foot Walmart Supercentre trade areas."
 status: stable
 bcsc_class: current-fact
-last_edited: 2026-07-11
+last_edited: 2026-09-04
 editor: pointsav-engineering
 language_protocol: PROSE-TOPIC
 source_refs:
