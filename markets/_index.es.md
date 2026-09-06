@@ -46,7 +46,9 @@ Mercados Regionales abarca dónde miramos. Esta categoría reúne el conjunto de
 
 ## Índices de Co-ubicación por País
 
-Dos índices de co-ubicación por país siguen siendo páginas independientes — [[atlas-co-location-index-mexico|México]] y [[atlas-co-location-index-nordics|los Países Nórdicos]] — porque ninguno tiene una página de mercados de país junto a la que situarse. Los otros cinco se fusionaron en sus páginas de país el 2026-09-05 y se leen allí: [[atlas-united-states|Estados Unidos]], [[atlas-canada|Canadá]], [[atlas-spain|España]], [[atlas-italy|Italia]] y [[atlas-poland|Polonia]], cada uno bajo una sección Red de anclas de co-ubicación. Cada índice clasifica la convergencia de anclas nombradas nodo por nodo dentro de su propio país y aporta los datos de clúster subyacentes sobre los que se construyen los conjuntos continentales.
+Dos índices de co-ubicación por país siguen siendo páginas independientes — [[atlas-co-location-index-mexico|México]] y [[atlas-co-location-index-nordics|los Países Nórdicos]]. Los otros cinco se fusionaron en sus páginas de país el 2026-09-05 y se leen allí: [[atlas-united-states|Estados Unidos]], [[atlas-canada|Canadá]], [[atlas-spain|España]], [[atlas-italy|Italia]] y [[atlas-poland|Polonia]], cada uno bajo una sección Red de anclas de co-ubicación. Cada índice clasifica la convergencia de anclas nombradas nodo por nodo dentro de su propio país y aporta los datos de clúster subyacentes sobre los que se construyen los conjuntos continentales.
+
+*Nota (06-09-2026):* estos dos índices se mantenían independientes porque ninguno tenía una página de mercados de país junto a la que situarse. Esa razón ya no se sostiene — [[atlas-mexico|México]], [[atlas-sweden|Suecia]], [[atlas-denmark|Dinamarca]], [[atlas-finland|Finlandia]] y [[atlas-norway|Noruega]] cuentan ya con página de país. Si conviene fusionarlos como se hizo con los otros cinco es una decisión de contenido aparte, no tomada aquí.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: co-location-indices-by-country -->
 - [[atlas-co-location-index-mexico]] — Índice de los principales nodos de convergencia comercial en México, identificando sitios donde las anclas Walmart Supercentre se agrupan con Home Depot, Costco e infraestructura cívica.
@@ -55,17 +57,26 @@ Dos índices de co-ubicación por país siguen siendo páginas independientes �
 
 ## Top 400 de Mercados por País
 
-Nueve índices de Mercado Regional por país filtran las tablas continentales del Top 400 hasta las entradas de un solo país: [[atlas-canada|Canadá]], [[atlas-united-states|Estados Unidos]], [[atlas-united-kingdom|Reino Unido]], [[atlas-spain|España]], [[atlas-italy|Italia]], [[atlas-poland|Polonia]], [[atlas-greece|Grecia]], [[atlas-croatia|Croacia]] y [[atlas-norway|Noruega]].
+Dieciocho índices de Mercado Regional por país filtran las tablas continentales del Top 400 hasta las entradas de un solo país: [[atlas-canada|Canadá]], [[atlas-united-states|Estados Unidos]], [[atlas-mexico|México]], [[atlas-united-kingdom|Reino Unido]], [[atlas-spain|España]], [[atlas-italy|Italia]], [[atlas-poland|Polonia]], [[atlas-sweden|Suecia]], [[atlas-czechia|Chequia]], [[atlas-finland|Finlandia]], [[atlas-hungary|Hungría]], [[atlas-slovakia|Eslovaquia]], [[atlas-romania|Rumanía]], [[atlas-bulgaria|Bulgaria]], [[atlas-denmark|Dinamarca]], [[atlas-greece|Grecia]], [[atlas-croatia|Croacia]] y [[atlas-norway|Noruega]].
 
-El conjunto de datos confirmado 2026-08-07 abarca dieciocho países en total, de modo que nueve no tienen aún página propia: Suecia, Chequia, Finlandia, Hungría, Eslovaquia, Rumanía, Bulgaria y Dinamarca en Europa, y México en América del Norte. Seis de las nueve páginas existentes — Canadá, Estados Unidos, Reino Unido, España, Italia y Polonia — mantienen todavía sus tablas anteriores a la reconstrucción y así lo indican al inicio de cada página. Grecia, Croacia y Noruega están actualizadas.
+El conjunto de datos confirmado 2026-08-07 abarca dieciocho países y, desde el 06-09-2026, todos tienen página propia. Nueve se añadieron ese día — Suecia, Chequia, Finlandia, Hungría, Eslovaquia, Rumanía, Bulgaria y Dinamarca en Europa, y México en América del Norte — y las seis páginas que aún conservaban tablas anteriores a la reconstrucción (Canadá, Estados Unidos, Reino Unido, España, Italia y Polonia) se reconstruyeron frente al conjunto de datos confirmado en el mismo pase. Las dieciocho están ahora actualizadas.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: top-400-markets-by-country -->
-- [[atlas-canada]] — Índice de mercados inmobiliarios comerciales regionales canadienses que cumplen las puertas de composición de co-ubicación.
-- [[atlas-united-states]] — Índice de mercados inmobiliarios comerciales regionales de EE.UU. que cumplen las puertas de composición de co-ubicación en todas las grandes regiones censales.
-- [[atlas-united-kingdom]] — Índice de mercados inmobiliarios comerciales regionales del Reino Unido fuera de Londres y el Sudeste.
-- [[atlas-spain]] — Índice de mercados inmobiliarios comerciales regionales españoles que cumplen las puertas de composición de co-ubicación.
-- [[atlas-italy]] — Índice de las 21 entradas italianas en el conjunto Top 400 Mercados Regionales — Europa, filtrado de la tabla continental con agrupaciones por referencia metropolitana.
-- [[atlas-poland]] — Índice de las 16 entradas polacas en el conjunto Top 400 Mercados Regionales — Europa, filtrado de la tabla continental con agrupaciones por referencia metropolitana.
+- [[atlas-canada]] — Índice de los 56 Mercados Regionales de Canadá que cumplen las puertas de composición de co-ubicación bajo el conjunto de datos del 07-08-2026.
+- [[atlas-united-states]] — Índice de los 298 Mercados Regionales de Estados Unidos que cumplen las puertas de composición de co-ubicación bajo el conjunto de datos del 07-08-2026.
+- [[atlas-mexico]] — Índice de los 46 Mercados Regionales de México que cumplen las puertas de composición de co-ubicación bajo el conjunto de datos del 07-08-2026.
+- [[atlas-united-kingdom]] — Índice de los 55 Mercados Regionales del Reino Unido que cumplen las puertas de composición de co-ubicación bajo el conjunto de datos del 07-08-2026.
+- [[atlas-spain]] — Índice de los 55 Mercados Regionales de España que cumplen las puertas de composición de co-ubicación bajo el conjunto de datos del 07-08-2026.
+- [[atlas-italy]] — Índice de los 62 Mercados Regionales de Italia que cumplen las puertas de composición de co-ubicación bajo el conjunto de datos del 07-08-2026.
+- [[atlas-poland]] — Índice de los 55 Mercados Regionales de Polonia que cumplen las puertas de composición de co-ubicación bajo el conjunto de datos del 07-08-2026.
+- [[atlas-sweden]] — Índice de los 32 Mercados Regionales de Suecia que cumplen las puertas de composición de co-ubicación bajo el conjunto de datos del 07-08-2026.
+- [[atlas-czechia]] — Índice de los 27 Mercados Regionales de Chequia que cumplen las puertas de composición de co-ubicación bajo el conjunto de datos del 07-08-2026.
+- [[atlas-finland]] — Índice de los 19 Mercados Regionales de Finlandia que cumplen las puertas de composición de co-ubicación bajo el conjunto de datos del 07-08-2026.
+- [[atlas-hungary]] — Índice de los 19 Mercados Regionales de Hungría que cumplen las puertas de composición de co-ubicación bajo el conjunto de datos del 07-08-2026.
+- [[atlas-slovakia]] — Índice de los 16 Mercados Regionales de Eslovaquia que cumplen las puertas de composición de co-ubicación bajo el conjunto de datos del 07-08-2026.
+- [[atlas-romania]] — Índice de los 13 Mercados Regionales de Rumanía que cumplen las puertas de composición de co-ubicación bajo el conjunto de datos del 07-08-2026.
+- [[atlas-bulgaria]] — Índice de los 11 Mercados Regionales de Bulgaria que cumplen las puertas de composición de co-ubicación bajo el conjunto de datos del 07-08-2026.
+- [[atlas-denmark]] — Índice de los 11 Mercados Regionales de Dinamarca que cumplen las puertas de composición de co-ubicación bajo el conjunto de datos del 07-08-2026.
 - [[atlas-greece]] — Índice de los siete Mercados Regionales de Grecia que cumplen las puertas de composición de co-ubicación bajo el conjunto de datos del 07-08-2026.
 - [[atlas-croatia]] — Índice de los nueve Mercados Regionales de Croacia que cumplen las puertas de composición de co-ubicación bajo el conjunto de datos del 07-08-2026.
 - [[atlas-norway]] — Índice de los nueve Mercados Regionales de Noruega que cumplen las puertas de composición de co-ubicación bajo el conjunto de datos del 07-08-2026.
@@ -76,9 +87,11 @@ El conjunto de datos confirmado 2026-08-07 abarca dieciocho países en total, de
 Las páginas de índice por país son la vía de entrada a los perfiles. Cada página `atlas-`
 lista los mercados de su propio país en una sola tabla, con el punto de referencia
 metropolitano y la composición de clústeres de cada entrada: [[atlas-canada|Canadá]],
-[[atlas-united-states|Estados Unidos]], [[atlas-united-kingdom|Reino Unido]],
-[[atlas-spain|España]], [[atlas-italy|Italia]], [[atlas-poland|Polonia]],
-[[atlas-greece|Grecia]], [[atlas-croatia|Croacia]] y [[atlas-norway|Noruega]]. Esta página ya
+[[atlas-united-states|Estados Unidos]], [[atlas-mexico|México]], [[atlas-united-kingdom|Reino Unido]],
+[[atlas-spain|España]], [[atlas-italy|Italia]], [[atlas-poland|Polonia]], [[atlas-sweden|Suecia]],
+[[atlas-czechia|Chequia]], [[atlas-finland|Finlandia]], [[atlas-hungary|Hungría]],
+[[atlas-slovakia|Eslovaquia]], [[atlas-romania|Rumanía]], [[atlas-bulgaria|Bulgaria]],
+[[atlas-denmark|Dinamarca]], [[atlas-greece|Grecia]], [[atlas-croatia|Croacia]] y [[atlas-norway|Noruega]]. Esta página ya
 no enumera todos los perfiles; lo hacen las tablas por país, que además llevan el detalle a
 nivel de mercado que una enumeración aquí no puede ofrecer. Detrás de esas tablas, los
 perfiles se agrupan en cinco conjuntos regionales — América del Norte, el Reino Unido, los
@@ -95,6 +108,15 @@ reparto verificadas / solo-referencia de abajo sigue cubriendo únicamente los 3
 para los que se escribió originalmente — los conjuntos de Grecia (7), Croacia (9) y Noruega
 (9) añadidos desde entonces no se han incorporado. Señalado para una futura revisión, no
 resuelto aquí.
+
+*Corrección (06-09-2026):* al reconstruir las tablas por país frente al conjunto de datos
+confirmado, el reparto de abajo resultó estar desactualizado en cuanto a pertenencia, no solo en
+cobertura. De las 16 entradas listadas como «verificadas del TOP400», cinco ya no figuran en el
+conjunto confirmado — Torrance (CA), Provo (UT), Kenner (LA), Eagan (MN) y Northampton. Y seis
+listadas abajo como «solo referencia» sí figuran ahora — Lethbridge, Kelowna, Barrie–Innisfil,
+Regina, Burgos y Fort Collins. Reordenar las dos listas exige actualizar también lo que cada
+página de perfil afirma sobre sí misma, de modo que queda señalado aquí y no resuelto en este
+pase.
 
 **Entradas verificadas del TOP400 (16):** composición de clústeres de co-ubicación vigente
 según el conjunto de datos del 2026-08-07. No se publica posición ni puntuación para ninguna

@@ -36,12 +36,12 @@ country counts, cluster counts, and reference distances below all come from the 
 
 ## Country breakouts
 
-Two of the three countries have a dedicated country page today:
-[[atlas-united-states|United States]] and [[atlas-canada|Canada]]. Each lists that country's own
-entries with the metropolitan reference point and cluster composition for every market. Mexico's 46
-entries appear in the Country Breakdown table below; a dedicated Mexican market page is pending. The
-separate [[atlas-co-location-index-mexico|Mexico co-location index]] covers the underlying anchor
-network but is not a filtered view of this set.
+All three countries have a dedicated country page as of 2026-09-06:
+[[atlas-united-states|United States]], [[atlas-canada|Canada]], and [[atlas-mexico|Mexico]]. Each
+lists that country's own entries with the metropolitan reference point and cluster composition for
+every market. The Mexico page was added on 2026-09-06, closing the last gap in country coverage for
+this set. The separate [[atlas-co-location-index-mexico|Mexico co-location index]] covers the
+underlying anchor network but is not a filtered view of this set.
 
 This page carries the continental summary. It does not repeat the four hundred individual entries,
 which are read a country at a time on the pages above.
@@ -125,7 +125,7 @@ markets in each country cleared a composition gate before the 400-market cap was
 |---|---|---|---|---|---|---|
 | [[atlas-united-states|United States]] | 298 | 916 | 348 | 59 | 79 | 75 km |
 | [[atlas-canada|Canada]] | 56 | 112 | 77 | 13 | 17 | 90 km |
-| Mexico | 46 | 93 | 54 | 3 | 58 | 152 km |
+| [[atlas-mexico|Mexico]] | 46 | 93 | 54 | 3 | 58 | 152 km |
 | **Total** | **400** | **1,121** | **479** | **75** | **154** | — |
 
 The United States publishes 298 of 916 qualifying markets — under a third of its pool, the deepest

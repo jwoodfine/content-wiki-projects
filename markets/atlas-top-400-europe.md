@@ -37,13 +37,15 @@ and reference distances below all come from the confirmed dataset.
 
 ## Country breakouts
 
-Seven of the fifteen countries have a dedicated country page today:
+All fifteen countries have a dedicated country page as of 2026-09-06:
 [[atlas-italy|Italy]], [[atlas-spain|Spain]], [[atlas-united-kingdom|United Kingdom]],
-[[atlas-poland|Poland]], [[atlas-croatia|Croatia]], [[atlas-norway|Norway]], and
-[[atlas-greece|Greece]]. Each lists that country's own entries with the metropolitan reference
-point and cluster composition for every market. The eight remaining countries — Sweden, Czechia,
-Finland, Hungary, Slovakia, Romania, Bulgaria, and Denmark — appear in the Country Breakdown table
-below; their dedicated pages are pending.
+[[atlas-poland|Poland]], [[atlas-sweden|Sweden]], [[atlas-czechia|Czechia]],
+[[atlas-finland|Finland]], [[atlas-hungary|Hungary]], [[atlas-slovakia|Slovakia]],
+[[atlas-romania|Romania]], [[atlas-bulgaria|Bulgaria]], [[atlas-denmark|Denmark]],
+[[atlas-croatia|Croatia]], [[atlas-norway|Norway]], and [[atlas-greece|Greece]]. Each lists that
+country's own entries with the metropolitan reference point and cluster composition for every
+market. The eight pages added on 2026-09-06 — Sweden, Czechia, Finland, Hungary, Slovakia,
+Romania, Bulgaria, and Denmark — close the last gap in country coverage for this set.
 
 This page carries the continental summary. It does not repeat the four hundred individual entries,
 which are read a country at a time on the pages above.
@@ -126,14 +128,14 @@ markets in each country cleared a composition gate before the 400-market cap was
 | [[atlas-spain|Spain]] | 55 | 79 | 53 | 2 | 13 | 77 km |
 | [[atlas-united-kingdom|United Kingdom]] | 55 | 161 | 58 | 9 | 24 | 37 km |
 | [[atlas-poland|Poland]] | 55 | 75 | 60 | 3 | 5 | 70 km |
-| Sweden | 32 | 39 | 32 | 6 | 4 | 136 km |
-| Czechia | 27 | 45 | 21 | 1 | 14 | 64 km |
-| Finland | 19 | 21 | 18 | 3 | 4 | 141 km |
-| Hungary | 19 | 19 | 19 | 0 | 4 | 95 km |
-| Slovakia | 16 | 24 | 13 | 0 | 6 | 84 km |
-| Romania | 13 | 15 | 11 | 2 | 2 | 100 km |
-| Bulgaria | 11 | 11 | 11 | 0 | 0 | 79 km |
-| Denmark | 11 | 26 | 11 | 4 | 0 | 57 km |
+| [[atlas-sweden|Sweden]] | 32 | 39 | 32 | 6 | 4 | 136 km |
+| [[atlas-czechia|Czechia]] | 27 | 45 | 21 | 1 | 14 | 64 km |
+| [[atlas-finland|Finland]] | 19 | 21 | 18 | 3 | 4 | 141 km |
+| [[atlas-hungary|Hungary]] | 19 | 19 | 19 | 0 | 4 | 95 km |
+| [[atlas-slovakia|Slovakia]] | 16 | 24 | 13 | 0 | 6 | 84 km |
+| [[atlas-romania|Romania]] | 13 | 15 | 11 | 2 | 2 | 100 km |
+| [[atlas-bulgaria|Bulgaria]] | 11 | 11 | 11 | 0 | 0 | 79 km |
+| [[atlas-denmark|Denmark]] | 11 | 26 | 11 | 4 | 0 | 57 km |
 | [[atlas-croatia|Croatia]] | 9 | 11 | 12 | 2 | 2 | 189 km |
 | [[atlas-norway|Norway]] | 9 | 9 | 8 | 1 | 3 | 107 km |
 | [[atlas-greece|Greece]] | 7 | 7 | 4 | 1 | 3 | 138 km |

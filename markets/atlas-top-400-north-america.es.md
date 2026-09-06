@@ -38,10 +38,11 @@ referencia que figuran a continuación proceden del conjunto de datos confirmado
 
 ## Desgloses por país
 
-Dos de los tres países cuentan hoy con una página dedicada: [[atlas-united-states|Estados Unidos]] y
-[[atlas-canada|Canadá]]. Cada una enumera las entradas de su propio país con el punto de referencia
-metropolitano y la composición de clústeres de cada mercado. Las 46 entradas de México figuran en la
-tabla de Desglose por País más abajo; su página dedicada está pendiente. El
+Los tres países cuentan con una página dedicada desde el 06-09-2026:
+[[atlas-united-states|Estados Unidos]], [[atlas-canada|Canadá]] y [[atlas-mexico|México]]. Cada una
+enumera las entradas de su propio país con el punto de referencia metropolitano y la composición de
+clústeres de cada mercado. La página de México se añadió el 06-09-2026 y cierra la última laguna de
+cobertura por país de este conjunto. El
 [[atlas-co-location-index-mexico|índice de co-localización de México]] cubre la red de anclas
 subyacente, pero no es una vista filtrada de este conjunto.
 
@@ -132,7 +133,7 @@ límite de 400.
 |---|---|---|---|---|---|---|
 | [[atlas-united-states|Estados Unidos]] | 298 | 916 | 348 | 59 | 79 | 75 km |
 | [[atlas-canada|Canadá]] | 56 | 112 | 77 | 13 | 17 | 90 km |
-| México | 46 | 93 | 54 | 3 | 58 | 152 km |
+| [[atlas-mexico|México]] | 46 | 93 | 54 | 3 | 58 | 152 km |
 | **Total** | **400** | **1.121** | **479** | **75** | **154** | — |
 
 Estados Unidos publica 298 de 916 mercados calificados — menos de un tercio de su conjunto, la

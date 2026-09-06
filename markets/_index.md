@@ -46,7 +46,9 @@ Regional Markets covers where we look. This category holds the covered market se
 
 ## Co-Location Indices by Country
 
-Two country-level co-location indices remain as standalone pages — [[atlas-co-location-index-mexico|Mexico]] and [[atlas-co-location-index-nordics|the Nordics]] — because neither has a country market page to sit beside. The other five were merged into their country pages on 2026-09-05 and are read there: [[atlas-united-states|United States]], [[atlas-canada|Canada]], [[atlas-spain|Spain]], [[atlas-italy|Italy]], and [[atlas-poland|Poland]], each under a Co-location anchor network section. Every index ranks named-anchor convergence node by node within its own country and supplies the underlying cluster data the continental sets are built from.
+Two country-level co-location indices remain as standalone pages — [[atlas-co-location-index-mexico|Mexico]] and [[atlas-co-location-index-nordics|the Nordics]]. The other five were merged into their country pages on 2026-09-05 and are read there: [[atlas-united-states|United States]], [[atlas-canada|Canada]], [[atlas-spain|Spain]], [[atlas-italy|Italy]], and [[atlas-poland|Poland]], each under a Co-location anchor network section. Every index ranks named-anchor convergence node by node within its own country and supplies the underlying cluster data the continental sets are built from.
+
+*Note (2026-09-06):* these two were previously kept standalone because neither had a country market page to sit beside. That rationale no longer holds — [[atlas-mexico|Mexico]], [[atlas-sweden|Sweden]], [[atlas-denmark|Denmark]], [[atlas-finland|Finland]], and [[atlas-norway|Norway]] all have country pages now. Whether to merge these two the way the other five were merged is a separate content decision, not taken here.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: co-location-indices-by-country -->
 - [[atlas-co-location-index-mexico]] — Index of commercial convergence nodes in Mexico, identifying sites where Walmart Supercentre anchors cluster with Home Depot, Costco, and civic infrastructure.
@@ -55,17 +57,26 @@ Two country-level co-location indices remain as standalone pages — [[atlas-co-
 
 ## Top 400 Markets by Country
 
-Nine country-level Regional Market indices filter the continental Top 400 tables down to a single country's entries: [[atlas-canada|Canada]], [[atlas-united-states|United States]], [[atlas-united-kingdom|United Kingdom]], [[atlas-spain|Spain]], [[atlas-italy|Italy]], [[atlas-poland|Poland]], [[atlas-greece|Greece]], [[atlas-croatia|Croatia]], and [[atlas-norway|Norway]].
+Eighteen country-level Regional Market indices filter the continental Top 400 tables down to a single country's entries: [[atlas-canada|Canada]], [[atlas-united-states|United States]], [[atlas-mexico|Mexico]], [[atlas-united-kingdom|United Kingdom]], [[atlas-spain|Spain]], [[atlas-italy|Italy]], [[atlas-poland|Poland]], [[atlas-sweden|Sweden]], [[atlas-czechia|Czechia]], [[atlas-finland|Finland]], [[atlas-hungary|Hungary]], [[atlas-slovakia|Slovakia]], [[atlas-romania|Romania]], [[atlas-bulgaria|Bulgaria]], [[atlas-denmark|Denmark]], [[atlas-greece|Greece]], [[atlas-croatia|Croatia]], and [[atlas-norway|Norway]].
 
-The confirmed 2026-08-07 dataset covers eighteen countries in total, so nine have no country page yet: Sweden, Czechia, Finland, Hungary, Slovakia, Romania, Bulgaria, and Denmark in Europe, and Mexico in North America. Six of the nine pages that do exist — Canada, the United States, the United Kingdom, Spain, Italy, and Poland — still carry their pre-rebuild tables and each says so at the top of the page. Greece, Croatia, and Norway are current.
+The confirmed 2026-08-07 dataset covers eighteen countries, and as of 2026-09-06 every one has a country page. Nine were added that day — Sweden, Czechia, Finland, Hungary, Slovakia, Romania, Bulgaria, and Denmark in Europe, and Mexico in North America — and the six pages that still carried pre-rebuild tables (Canada, the United States, the United Kingdom, Spain, Italy, and Poland) were rebuilt against the confirmed dataset in the same pass. All eighteen are now current.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: top-400-markets-by-country -->
-- [[atlas-canada]] — Index of Canadian regional commercial real estate markets meeting the co-location composition gates.
-- [[atlas-united-states]] — Index of US regional commercial real estate markets meeting the co-location composition gates across all major census regions.
-- [[atlas-united-kingdom]] — Index of UK regional commercial real estate markets meeting the co-location composition gates outside London and the South East.
-- [[atlas-spain]] — Index of Spanish regional commercial real estate markets meeting the co-location composition gates.
-- [[atlas-italy]] — Index of the 21 Italian entries in the Top 400 Regional Markets — Europe set, filtered from the continental table with metro-reference groupings.
-- [[atlas-poland]] — Index of the 16 Polish entries in the Top 400 Regional Markets — Europe set, filtered from the continental table with metro-reference groupings.
+- [[atlas-canada]] — Index of Canada's 56 Regional Markets meeting the co-location composition gates under the 2026-08-07 dataset.
+- [[atlas-united-states]] — Index of the 298 United States Regional Markets meeting the co-location composition gates under the 2026-08-07 dataset.
+- [[atlas-mexico]] — Index of Mexico's 46 Regional Markets meeting the co-location composition gates under the 2026-08-07 dataset.
+- [[atlas-united-kingdom]] — Index of the United Kingdom's 55 Regional Markets meeting the co-location composition gates under the 2026-08-07 dataset.
+- [[atlas-spain]] — Index of Spain's 55 Regional Markets meeting the co-location composition gates under the 2026-08-07 dataset.
+- [[atlas-italy]] — Index of Italy's 62 Regional Markets meeting the co-location composition gates under the 2026-08-07 dataset.
+- [[atlas-poland]] — Index of Poland's 55 Regional Markets meeting the co-location composition gates under the 2026-08-07 dataset.
+- [[atlas-sweden]] — Index of Sweden's 32 Regional Markets meeting the co-location composition gates under the 2026-08-07 dataset.
+- [[atlas-czechia]] — Index of Czechia's 27 Regional Markets meeting the co-location composition gates under the 2026-08-07 dataset.
+- [[atlas-finland]] — Index of Finland's 19 Regional Markets meeting the co-location composition gates under the 2026-08-07 dataset.
+- [[atlas-hungary]] — Index of Hungary's 19 Regional Markets meeting the co-location composition gates under the 2026-08-07 dataset.
+- [[atlas-slovakia]] — Index of Slovakia's 16 Regional Markets meeting the co-location composition gates under the 2026-08-07 dataset.
+- [[atlas-romania]] — Index of Romania's 13 Regional Markets meeting the co-location composition gates under the 2026-08-07 dataset.
+- [[atlas-bulgaria]] — Index of Bulgaria's 11 Regional Markets meeting the co-location composition gates under the 2026-08-07 dataset.
+- [[atlas-denmark]] — Index of Denmark's 11 Regional Markets meeting the co-location composition gates under the 2026-08-07 dataset.
 - [[atlas-greece]] — Index of Greece's seven Regional Markets meeting the co-location composition gates under the 2026-08-07 dataset.
 - [[atlas-croatia]] — Index of Croatia's nine Regional Markets meeting the co-location composition gates under the 2026-08-07 dataset.
 - [[atlas-norway]] — Index of Norway's nine Regional Markets meeting the co-location composition gates under the 2026-08-07 dataset.
@@ -75,10 +86,7 @@ The confirmed 2026-08-07 dataset covers eighteen countries in total, so nine hav
 
 The country index pages are the way into the profiles. Each `atlas-` page lists its own
 country's markets in a single table, with the metropolitan reference point and cluster
-composition for every entry: [[atlas-canada|Canada]], [[atlas-united-states|United States]],
-[[atlas-united-kingdom|United Kingdom]], [[atlas-spain|Spain]], [[atlas-italy|Italy]],
-[[atlas-poland|Poland]], [[atlas-greece|Greece]], [[atlas-croatia|Croatia]], and
-[[atlas-norway|Norway]]. This page no longer enumerates every profile; the country tables do,
+composition for every entry: [[atlas-canada|Canada]], [[atlas-united-states|United States]], [[atlas-mexico|Mexico]], [[atlas-united-kingdom|United Kingdom]], [[atlas-spain|Spain]], [[atlas-italy|Italy]], [[atlas-poland|Poland]], [[atlas-sweden|Sweden]], [[atlas-czechia|Czechia]], [[atlas-finland|Finland]], [[atlas-hungary|Hungary]], [[atlas-slovakia|Slovakia]], [[atlas-romania|Romania]], [[atlas-bulgaria|Bulgaria]], [[atlas-denmark|Denmark]], [[atlas-greece|Greece]], [[atlas-croatia|Croatia]], and [[atlas-norway|Norway]]. This page no longer enumerates every profile; the country tables do,
 and they carry the market-level detail an enumeration here cannot. Behind those tables the
 profiles are grouped into five regional sets — North America, the United Kingdom, the
 Nordics, the Adriatic and Greece, and Iberia and Central Europe — so the collection can be
@@ -93,6 +101,13 @@ earlier correction the same day replaced a stale 41. The verified / reference-on
 below still covers only the 32 profiles it was originally written against — the Greek (7),
 Croatian (9), and Norwegian (9) sets added since have not been folded into it. Flagged for a
 future pass, not resolved here.
+
+*Correction (2026-09-06):* rebuilding the country tables against the confirmed dataset showed the
+split below is stale on membership, not just on coverage. Of the 16 entries listed as verified
+TOP400, five are no longer in the confirmed set — Torrance, CA; Provo, UT; Kenner, LA; Eagan, MN;
+and Northampton. Six listed below as reference-only are now in it — Lethbridge, Kelowna,
+Barrie–Innisfil, Regina, Burgos, and Fort Collins. Re-sorting the two lists also means updating
+what each profile page says about itself, so it is flagged here rather than resolved in this pass.
 
 **Verified TOP400 entries (16):** co-location cluster composition current as of the 2026-08-07 dataset. No rank or score is published for any entry; list order below is alphabetical by profile slug, not ordinal.
 
