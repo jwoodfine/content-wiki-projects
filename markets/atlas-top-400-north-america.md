@@ -143,7 +143,7 @@ discloses which method applied.
 
 Co-location data is drawn from OpenStreetMap (ODbL licence) filtered by Wikidata chain identifiers,
 supplemented by civic-anchor records from the Overture Maps Foundation Places dataset (CDLA
-Permissive 2.0). Cluster boundaries are computed by a two-pass DBSCAN algorithm.
+Permissive 2.0). Cluster boundaries are computed in two passes over the anchor locations.
 
 The published set is a curated editorial selection derived from the live Regional Markets layer. It
 does not replace or alter that layer, which remains unranked and uncurated at its full qualifying

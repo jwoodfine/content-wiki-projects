@@ -28,19 +28,19 @@ A cluster earns its tier by clearing a set of predicate gates — pass-or-fail t
 
 **Composition.** Every cluster forms around a [[co-location-anchors|primary anchor]] from one of four classes: Hypermarket (general-merchandise chains such as Walmart, Target, Mercadona, and Tesco), Lifestyle (large-format home retailers — IKEA is the sole chain in this class), Hardware (home-improvement chains such as Home Depot, Lowe's, and Leroy Merlin), and Warehouse (membership clubs such as Costco, Sam's Club, and Makro). The classes present at one node determine which tier a cluster can reach.
 
-**Catchment rank.** A cluster's population percentile is calculated within its own country. A node in the top decile nationally clears a stricter gate than one in the top half.
+**Catchment rank.** A cluster's population is ranked against others in its own country, so a node is judged against national conditions rather than a single cross-border yardstick. Higher tiers require a higher national standing.
 
 **Civic presence.** A qualifying hospital must sit within the cluster's civic ring. Regional and District require a regionally or district-classified hospital; Local accepts any hospital classification.
 
-**Non-overlap.** Clusters within 3.0 km of one another are compared by intersection-over-union. A cluster dominated by a stronger neighbour is held below the tier its composition would otherwise earn.
+**Non-overlap.** Neighbouring clusters that substantially overlap are compared against each other. A cluster dominated by a stronger neighbour is held below the tier its composition would otherwise earn, so that one trading location is not counted twice.
 
 ## The four tiers
 
 | Tier | What it requires |
 |---|---|
-| **Regional** | A hypermarket paired with a warehouse or lifestyle anchor, top-decile catchment population nationally, and a regional hospital within the civic ring. The highest tier. |
-| **District** | A hypermarket paired with hardware or warehouse, top-quartile catchment population, and hospital access within the civic ring. |
-| **Local** | A hardware or warehouse anchor, top-half catchment population, and any hospital within the civic ring. |
+| **Regional** | A hypermarket paired with a warehouse or lifestyle anchor, catchment population in the highest national band, and a regional hospital within the civic ring. The highest tier. |
+| **District** | A hypermarket paired with hardware or warehouse, catchment population in a high national band, and hospital access within the civic ring. |
+| **Local** | A hardware or warehouse anchor, catchment population above the national midpoint, and any hospital within the civic ring. |
 | **Fringe** | Retail co-tenancy is present, but catchment reach, composition, or civic support falls short of Local. |
 
 ## Application across North America and Europe

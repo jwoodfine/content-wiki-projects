@@ -181,8 +181,8 @@ kilómetro cuadrado sea comparable.
 Los datos de co-localización provienen de OpenStreetMap (licencia ODbL) filtrados por identificadores
 de cadena de Wikidata, complementados con registros de anclas cívicas del conjunto de datos de
 Lugares de la Overture Maps Foundation (CDLA Permissive 2.0). Los límites municipales provienen del
-GISCO LAU 2021 de Eurostat. Los límites de clúster se calculan mediante un algoritmo DBSCAN de dos
-pasadas.
+GISCO LAU 2021 de Eurostat. Los límites de clúster se calculan en dos
+pasadas sobre las ubicaciones de las anclas.
 
 El conjunto publicado es una selección editorial curada derivada de la capa viva de Mercados
 Regionales. No sustituye ni altera esa capa, que permanece sin clasificar ni curar en su recuento

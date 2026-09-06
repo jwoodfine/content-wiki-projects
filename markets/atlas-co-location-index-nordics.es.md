@@ -24,7 +24,7 @@ El Índice de Co-ubicación de los Países Nórdicos evalúa los nodos comercial
 
 ## Red de Anclas
 
-IKEA mantiene aproximadamente 55 tiendas en la región nórdica: Suecia (~20), Dinamarca (~8), Noruega (~8), Finlandia (~7) e Islandia (~1). Los operadores secundarios varían según el país: Bauhaus DIY opera en Suecia, Dinamarca, Noruega y Finlandia; Biltema y Jula cubren Suecia y Noruega; Stark opera en Dinamarca. Los sistemas de salud y universidad nórdicos concentran su infraestructura en capitales y principales ciudades universitarias — Estocolmo, Gotemburgo, Malmö, Copenhague, Aarhus, Oslo, Bergen, Helsinki y Tampere cuentan cada una con importantes sistemas hospitalarios y universidades de investigación dentro de las mismas áreas de captación urbanas que las tiendas IKEA.
+IKEA opera alrededor de veinte tiendas en Suecia, ocho en Dinamarca y otras ocho en Noruega, siete en Finlandia y una en Islandia. Los operadores secundarios varían según el país: Bauhaus DIY opera en Suecia, Dinamarca, Noruega y Finlandia; Biltema y Jula cubren Suecia y Noruega; Stark opera en Dinamarca. Los sistemas de salud y universidad nórdicos concentran su infraestructura en capitales y principales ciudades universitarias — Estocolmo, Gotemburgo, Malmö, Copenhague, Aarhus, Oslo, Bergen, Helsinki y Tampere cuentan cada una con importantes sistemas hospitalarios y universidades de investigación dentro de las mismas áreas de captación urbanas que las tiendas IKEA.
 
 ## Características del Mercado Nórdico
 

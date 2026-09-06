@@ -28,19 +28,19 @@ Un clúster obtiene su nivel al superar un conjunto de compuertas predicativas �
 
 **Composición.** Cada clúster se forma alrededor de un [[co-location-anchors|ancla principal]] de una de cuatro clases: Hipermercado (cadenas de mercancía general como Walmart, Target, Mercadona y Tesco), Estilo de Vida (minoristas de gran formato para el hogar — IKEA es la única cadena de esta clase), Ferretería (cadenas de mejoras para el hogar como Home Depot, Lowe's y Leroy Merlin) y Almacén (clubes de membresía como Costco, Sam's Club y Makro). Las clases presentes en un nodo determinan qué nivel puede alcanzar un clúster.
 
-**Rango de captación.** El percentil de población de un clúster se calcula dentro de su propio país. Un nodo en el decil superior nacional supera una compuerta más estricta que uno en la mitad superior.
+**Rango de captación.** La población de un clúster se clasifica frente a la de otros de su propio país, de modo que un nodo se juzga según las condiciones nacionales y no con un único criterio transfronterizo. Los niveles superiores exigen una posición nacional más alta.
 
 **Presencia cívica.** Un hospital calificado debe encontrarse dentro del anillo cívico del clúster. Regional y Distrital requieren un hospital clasificado como regional o distrital; Local acepta cualquier clasificación hospitalaria.
 
-**No superposición.** Los clústeres a menos de 3,0 km entre sí se comparan mediante intersección sobre unión. Un clúster dominado por un vecino más fuerte se mantiene por debajo del nivel que su composición alcanzaría por sí sola.
+**No superposición.** Los clústeres vecinos que se solapan de forma sustancial se comparan entre sí. Un clúster dominado por un vecino más fuerte se mantiene por debajo del nivel que su composición alcanzaría por sí sola, de modo que una misma localización comercial no se cuente dos veces.
 
 ## Los cuatro niveles
 
 | Nivel | Qué requiere |
 |---|---|
-| **Regional** | Un hipermercado combinado con un ancla de almacén o de estilo de vida, población de captación en el decil superior nacional, y un hospital regional dentro del anillo cívico. El nivel más alto. |
-| **Distrital** | Un hipermercado combinado con ferretería o almacén, población de captación en el cuartil superior, y acceso hospitalario dentro del anillo cívico. |
-| **Local** | Un ancla de ferretería o almacén, población de captación en la mitad superior, y cualquier hospital dentro del anillo cívico. |
+| **Regional** | Un hipermercado combinado con un ancla de almacén o de estilo de vida, población de captación en la banda nacional más alta, y un hospital regional dentro del anillo cívico. El nivel más alto. |
+| **Distrital** | Un hipermercado combinado con ferretería o almacén, población de captación en una banda nacional alta, y acceso hospitalario dentro del anillo cívico. |
+| **Local** | Un ancla de ferretería o almacén, población de captación por encima del punto medio nacional, y cualquier hospital dentro del anillo cívico. |
 | **Marginal** | Existe co-ubicación comercial, pero el alcance de captación, la composición o el respaldo cívico no alcanzan el nivel Local. |
 
 ## Aplicación en América del Norte y Europa
