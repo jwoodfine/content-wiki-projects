@@ -12,7 +12,7 @@ index_scope: markets
 status: active
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
-last_edited: 2026-09-04
+last_edited: 2026-09-06
 editor: editorial
 paired_with: markets/_index.md
 ---
@@ -37,11 +37,11 @@ Mercados Regionales abarca dónde miramos. Esta categoría reúne el conjunto de
 
 ## El Top 400 de Mercados
 
-[[atlas-top-400-north-america|El Top 400 — Norteamérica]] y [[atlas-top-400-europe|el Top 400 — Europa]] son los dos conjuntos calificados: cuatrocientos mercados suburbanos de cinturón de desplazamiento diario por continente que cumplen las condiciones de composición de anclas de co-localización. No se publica posición ni puntuación para ningún mercado en ninguno de los dos conjuntos.
+[[atlas-top-400-north-america|El Top 400 — Norteamérica]] y [[atlas-top-400-europe|el Top 400 — Europa]] son los dos conjuntos calificados: cuatrocientos mercados por continente que cumplen las condiciones de composición de anclas de co-localización. Europa extrae sus cuatrocientos de un conjunto calificado de 650 en quince países; América del Norte extrae los suyos de un conjunto de 1.121 en tres. No se publica posición ni puntuación para ningún mercado en ninguno de los dos conjuntos. Ambas páginas se reconstruyeron el 2026-09-06 con el conjunto de datos confirmado 2026-08-07.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: the-top-400-markets -->
-- [[atlas-top-400-north-america]] — Conjunto de los 400 Mercados Regionales suburbanos calificados en América del Norte. No se publica posición ni puntuación; Plano, TX es una entrada (suburbio de Dallas).
-- [[atlas-top-400-europe]] — Conjunto de 399 Mercados Regionales distintos verificados en Europa a lo largo de 400 posiciones en la lista (una posición vacante en espera de una entrada número 400 genuina), bajo la metodología suburbano-regional corregida. No se publica posición ni puntuación; Chemnitz es una entrada (suburbio de Dresden, 64 km).
+- [[atlas-top-400-north-america]] — Los 400 Mercados Regionales norteamericanos publicados a partir de un conjunto calificado de 1.121 bajo el conjunto de datos 2026-08-07 — 298 de Estados Unidos, 56 de Canadá, 46 de México. No se publica posición ni puntuación.
+- [[atlas-top-400-europe]] — Los 400 Mercados Regionales europeos publicados a partir de un conjunto calificado de 650 bajo el conjunto de datos 2026-08-07, en quince países. No se publica posición ni puntuación; las tablas por país contienen el detalle a nivel de mercado.
 <!-- END AUTO-GENERATED -->
 
 ## Índices de Co-ubicación por País
@@ -56,6 +56,8 @@ Dos índices de co-ubicación por país siguen siendo páginas independientes �
 ## Top 400 de Mercados por País
 
 Nueve índices de Mercado Regional por país filtran las tablas continentales del Top 400 hasta las entradas de un solo país: [[atlas-canada|Canadá]], [[atlas-united-states|Estados Unidos]], [[atlas-united-kingdom|Reino Unido]], [[atlas-spain|España]], [[atlas-italy|Italia]], [[atlas-poland|Polonia]], [[atlas-greece|Grecia]], [[atlas-croatia|Croacia]] y [[atlas-norway|Noruega]].
+
+El conjunto de datos confirmado 2026-08-07 abarca dieciocho países en total, de modo que nueve no tienen aún página propia: Suecia, Chequia, Finlandia, Hungría, Eslovaquia, Rumanía, Bulgaria y Dinamarca en Europa, y México en América del Norte. Seis de las nueve páginas existentes — Canadá, Estados Unidos, Reino Unido, España, Italia y Polonia — mantienen todavía sus tablas anteriores a la reconstrucción y así lo indican al inicio de cada página. Grecia, Croacia y Noruega están actualizadas.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: top-400-markets-by-country -->
 - [[atlas-canada]] — Índice de mercados inmobiliarios comerciales regionales canadienses que cumplen las puertas de composición de co-ubicación.

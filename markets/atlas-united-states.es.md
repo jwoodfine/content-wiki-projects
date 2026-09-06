@@ -12,11 +12,13 @@ audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
 keynote: false
-last_edited: 2026-08-26
+last_edited: 2026-09-06
 editor: woodfine-editorial
 short_description: "Índice de mercados inmobiliarios comerciales regionales de EE.UU. que cumplen las puertas de composición de co-ubicación en todas las grandes regiones censales."
 paired_with: markets/atlas-united-states.md
 ---
+
+**Reconstrucción pendiente (2026-09-06).** La tabla de mercados y los recuentos de esta página aún reflejan la selección anterior a la reconstrucción. Bajo el conjunto de datos confirmado 2026-08-07, ya publicado en [[atlas-top-400-north-america|Top 400 Mercados Regionales — América del Norte]], Estados Unidos publica 298 Mercados Regionales. Reconstruir esta tabla por país es una tarea aparte y delimitada — la discrepancia queda señalada aquí, no resuelta.
 
 El **índice de mercados regionales de Estados Unidos** enumera las ciudades y áreas
 estadísticas metropolitanas de EE.UU. fuera de los distritos centrales de negocios de las

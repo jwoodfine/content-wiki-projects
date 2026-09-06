@@ -12,11 +12,13 @@ audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 keynote: false
-last_edited: 2026-08-26
+last_edited: 2026-09-06
 editor: woodfine-editorial
 short_description: "Index of Canadian regional commercial real estate markets meeting the co-location composition gates."
 paired_with: markets/atlas-canada.es.md
 ---
+
+**Pending rebuild (2026-09-06).** The market table and counts on this page still reflect the pre-rebuild selection. Under the confirmed 2026-08-07 dataset, now live on [[atlas-top-400-north-america|Top 400 Regional Markets — North America]], Canada publishes 56 Regional Markets. Rebuilding this country table is a separate, scoped task — the discrepancy is flagged here, not resolved.
 
 The **Canada regional market index** lists Canadian cities and metropolitan areas that meet
 the population, disposable income, and retail infrastructure thresholds established by the

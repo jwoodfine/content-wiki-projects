@@ -12,11 +12,13 @@ audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 keynote: false
-last_edited: 2026-08-26
+last_edited: 2026-09-06
 editor: woodfine-editorial
 short_description: "Index of Spanish regional commercial real estate markets meeting the co-location composition gates."
 paired_with: markets/atlas-spain.es.md
 ---
+
+**Pending rebuild (2026-09-06).** The market table and counts on this page still reflect the pre-rebuild selection. Under the confirmed 2026-08-07 dataset, now live on [[atlas-top-400-europe|Top 400 Regional Markets — Europe]], Spain publishes 55 Regional Markets. Rebuilding this country table is a separate, scoped task — the discrepancy is flagged here, not resolved.
 
 The **Spain regional market index** lists Spanish cities and provincial capitals outside the
 primary Madrid and Barcelona metropolitan areas that meet the population, income, and retail

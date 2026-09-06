@@ -12,11 +12,13 @@ audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
 keynote: false
-last_edited: 2026-08-25
+last_edited: 2026-09-06
 editor: editorial
 short_description: "Índice de las 16 entradas polacas en el conjunto Top 400 Mercados Regionales — Europa, filtrado de la tabla continental con agrupaciones por referencia metropolitana."
 paired_with: markets/atlas-poland.md
 ---
+
+**Reconstrucción pendiente (2026-09-06).** La tabla de mercados y los recuentos de esta página aún reflejan la selección anterior a la reconstrucción. Bajo el conjunto de datos confirmado 2026-08-07, ya publicado en [[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]], Polonia publica 55 Mercados Regionales. Reconstruir esta tabla por país es una tarea aparte y delimitada — la discrepancia queda señalada aquí, no resuelta.
 
 El **índice de Mercados Regionales de Polonia** enumera las 16 entradas polacas en el conjunto [[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]]. Cada entrada es un suburbio con nombre propio o municipio satélite situado entre 15 y 80 kilómetros de un punto de referencia metropolitano polaco importante que contiene al menos un clúster de co-localización minorista, calificado bajo el [[about-regional-markets-system|marco de mercado regional de co-localización]]. Esta página es una vista filtrada y específica de Polonia de esa tabla continental — no un conjunto de datos independiente —, de modo que cada entrada y conteo de nivel a continuación coincide exactamente con la tabla continental y se actualiza automáticamente si esa tabla se corrige. No se publica posición ni puntuación para ningún mercado.
 

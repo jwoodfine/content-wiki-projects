@@ -12,11 +12,13 @@ audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
 keynote: false
-last_edited: 2026-08-25
+last_edited: 2026-09-06
 editor: woodfine-editorial
 short_description: "Índice de mercados inmobiliarios comerciales regionales del Reino Unido fuera de Londres y el Sudeste."
 paired_with: markets/atlas-united-kingdom.md
 ---
+
+**Reconstrucción pendiente (2026-09-06).** La tabla de mercados y los recuentos de esta página aún reflejan la selección anterior a la reconstrucción. Bajo el conjunto de datos confirmado 2026-08-07, ya publicado en [[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]], el Reino Unido publica 55 Mercados Regionales. Reconstruir esta tabla por país es una tarea aparte y delimitada — la discrepancia queda señalada aquí, no resuelta.
 
 El **índice de mercados regionales del Reino Unido** enumera las ciudades y poblaciones del
 Reino Unido fuera de Londres y el Sudeste en sentido amplio que cumplen los umbrales de

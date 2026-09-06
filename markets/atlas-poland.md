@@ -12,11 +12,13 @@ audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 keynote: false
-last_edited: 2026-08-25
+last_edited: 2026-09-06
 editor: editorial
 short_description: "Index of the 16 Polish entries in the Top 400 Regional Markets — Europe set, filtered from the continental table with metro-reference groupings."
 paired_with: markets/atlas-poland.es.md
 ---
+
+**Pending rebuild (2026-09-06).** The market table and counts on this page still reflect the pre-rebuild selection. Under the confirmed 2026-08-07 dataset, now live on [[atlas-top-400-europe|Top 400 Regional Markets — Europe]], Poland publishes 55 Regional Markets. Rebuilding this country table is a separate, scoped task — the discrepancy is flagged here, not resolved.
 
 The **Poland regional market index** lists the 16 Polish entries in the [[atlas-top-400-europe|Top 400 Regional Markets — Europe]] set. Each entry is a named suburb or satellite municipality between 15 and 80 kilometres of a major Polish metropolitan reference point that contains at least one retail co-location cluster, qualified under the [[about-regional-markets-system|co-location regional market framework]]. This page is a filtered, Poland-specific view of that continental table — not a separate dataset — so every entry and tier count below matches the continental table exactly and updates automatically if that table is corrected. No rank or score is published for any market.
 

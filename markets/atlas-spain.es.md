@@ -12,11 +12,13 @@ audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: TRANSLATE-ES
 keynote: false
-last_edited: 2026-08-26
+last_edited: 2026-09-06
 editor: woodfine-editorial
 short_description: "Índice de mercados inmobiliarios comerciales regionales españoles que cumplen las puertas de composición de co-ubicación."
 paired_with: markets/atlas-spain.md
 ---
+
+**Reconstrucción pendiente (2026-09-06).** La tabla de mercados y los recuentos de esta página aún reflejan la selección anterior a la reconstrucción. Bajo el conjunto de datos confirmado 2026-08-07, ya publicado en [[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]], España publica 55 Mercados Regionales. Reconstruir esta tabla por país es una tarea aparte y delimitada — la discrepancia queda señalada aquí, no resuelta.
 
 El **índice de mercados regionales de España** enumera las ciudades y capitales de provincia
 españolas fuera de las áreas metropolitanas primarias de Madrid y Barcelona que cumplen los

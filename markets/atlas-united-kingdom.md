@@ -12,11 +12,13 @@ audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
 keynote: false
-last_edited: 2026-08-26
+last_edited: 2026-09-06
 editor: woodfine-editorial
 short_description: "Index of UK regional commercial real estate markets meeting the co-location composition gates outside London and the South East."
 paired_with: markets/atlas-united-kingdom.es.md
 ---
+
+**Pending rebuild (2026-09-06).** The market table and counts on this page still reflect the pre-rebuild selection. Under the confirmed 2026-08-07 dataset, now live on [[atlas-top-400-europe|Top 400 Regional Markets — Europe]], the United Kingdom publishes 55 Regional Markets. Rebuilding this country table is a separate, scoped task — the discrepancy is flagged here, not resolved.
 
 The **United Kingdom regional market index** lists UK cities and towns outside London and
 the wider South East. Each meets the population, income, and retail infrastructure thresholds

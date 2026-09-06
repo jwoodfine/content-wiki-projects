@@ -12,7 +12,7 @@ index_scope: markets
 status: active
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC
-last_edited: 2026-09-04
+last_edited: 2026-09-06
 editor: editorial
 paired_with: _index.es.md
 ---
@@ -37,11 +37,11 @@ Regional Markets covers where we look. This category holds the covered market se
 
 ## The Top 400 Markets
 
-[[atlas-top-400-north-america|The Top 400 — North America]] and [[atlas-top-400-europe|the Top 400 — Europe]] are the two qualifying sets: four hundred suburban commuter-belt markets per continent that meet the co-location anchor-composition gates. No rank or score is published for any market in either set.
+[[atlas-top-400-north-america|The Top 400 — North America]] and [[atlas-top-400-europe|the Top 400 — Europe]] are the two qualifying sets: four hundred markets per continent that meet the co-location anchor-composition gates. Europe draws its four hundred from a 650-market qualifying pool across fifteen countries; North America draws its four hundred from a pool of 1,121 across three. No rank or score is published for any market in either set. Both pages were rebuilt on 2026-09-06 against the confirmed 2026-08-07 dataset.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: the-top-400-markets -->
-- [[atlas-top-400-north-america]] — Set of the 400 qualifying North American suburban Regional Markets. No rank or score is published; Plano, TX is one entry (suburb of Dallas).
-- [[atlas-top-400-europe]] — Set of 399 verified distinct European Regional Markets across 400 list positions (one position vacant pending a genuine 400th entry) under the corrected suburban-regional methodology. No rank or score is published; Chemnitz is one entry (suburb of Dresden, 64 km).
+- [[atlas-top-400-north-america]] — The 400 North American Regional Markets published from a 1,121-market qualifying pool under the 2026-08-07 dataset — 298 United States, 56 Canadian, 46 Mexican. No rank or score is published.
+- [[atlas-top-400-europe]] — The 400 European Regional Markets published from a 650-market qualifying pool under the 2026-08-07 dataset, across fifteen countries. No rank or score is published; country tables carry the market-level detail.
 <!-- END AUTO-GENERATED -->
 
 ## Co-Location Indices by Country
@@ -56,6 +56,8 @@ Two country-level co-location indices remain as standalone pages — [[atlas-co-
 ## Top 400 Markets by Country
 
 Nine country-level Regional Market indices filter the continental Top 400 tables down to a single country's entries: [[atlas-canada|Canada]], [[atlas-united-states|United States]], [[atlas-united-kingdom|United Kingdom]], [[atlas-spain|Spain]], [[atlas-italy|Italy]], [[atlas-poland|Poland]], [[atlas-greece|Greece]], [[atlas-croatia|Croatia]], and [[atlas-norway|Norway]].
+
+The confirmed 2026-08-07 dataset covers eighteen countries in total, so nine have no country page yet: Sweden, Czechia, Finland, Hungary, Slovakia, Romania, Bulgaria, and Denmark in Europe, and Mexico in North America. Six of the nine pages that do exist — Canada, the United States, the United Kingdom, Spain, Italy, and Poland — still carry their pre-rebuild tables and each says so at the top of the page. Greece, Croatia, and Norway are current.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: top-400-markets-by-country -->
 - [[atlas-canada]] — Index of Canadian regional commercial real estate markets meeting the co-location composition gates.
