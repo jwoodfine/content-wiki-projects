@@ -5,7 +5,7 @@ title: "Tempe Regional Market"
 language: en
 language_protocol: PROSE-TOPIC
 category: markets
-index_group: market-profiles
+index_group: north-american-market-profiles
 type: reference
 content_type: topic
 quality: stub

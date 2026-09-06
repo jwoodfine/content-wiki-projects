@@ -5,7 +5,7 @@ slug: es-pv-vitoria-gasteiz
 language: en
 language_protocol: PROSE-TOPIC
 category: markets
-index_group: market-profiles
+index_group: iberian-and-central-european-market-profiles
 type: topic
 content_type: topic
 quality: stub

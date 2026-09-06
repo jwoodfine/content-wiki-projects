@@ -5,7 +5,7 @@ slug: gr-corfu-kanali
 language: es
 language_protocol: TRANSLATE-ES
 category: markets
-index_group: market-profiles
+index_group: adriatic-and-greek-market-profiles
 type: reference
 content_type: topic
 quality: stub

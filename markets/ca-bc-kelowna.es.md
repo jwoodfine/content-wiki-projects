@@ -5,7 +5,7 @@ slug: ca-bc-kelowna
 language: es
 language_protocol: TRANSLATE-ES
 category: markets
-index_group: market-profiles
+index_group: north-american-market-profiles
 type: topic
 content_type: topic
 quality: stub

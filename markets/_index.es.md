@@ -83,7 +83,10 @@ metropolitano y la composición de clústeres de cada entrada: [[atlas-canada|Ca
 [[atlas-spain|España]], [[atlas-italy|Italia]], [[atlas-poland|Polonia]],
 [[atlas-greece|Grecia]], [[atlas-croatia|Croacia]] y [[atlas-norway|Noruega]]. Esta página ya
 no enumera todos los perfiles; lo hacen las tablas por país, que además llevan el detalle a
-nivel de mercado que una enumeración aquí no puede ofrecer.
+nivel de mercado que una enumeración aquí no puede ofrecer. Detrás de esas tablas, los
+perfiles se agrupan en cinco conjuntos regionales — América del Norte, el Reino Unido, los
+países nórdicos, el Adriático y Grecia, e Iberia y Europa Central — de modo que la colección
+pueda leerse por regiones a medida que crece la cobertura.
 
 Existen hoy 57 páginas de perfil de mercado individual (pares EN+ES), cada una con contexto
 de población y economía procedente de Wikipedia.

@@ -82,7 +82,10 @@ composition for every entry: [[atlas-canada|Canada]], [[atlas-united-states|Unit
 [[atlas-united-kingdom|United Kingdom]], [[atlas-spain|Spain]], [[atlas-italy|Italy]],
 [[atlas-poland|Poland]], [[atlas-greece|Greece]], [[atlas-croatia|Croatia]], and
 [[atlas-norway|Norway]]. This page no longer enumerates every profile; the country tables do,
-and they carry the market-level detail an enumeration here cannot.
+and they carry the market-level detail an enumeration here cannot. Behind those tables the
+profiles are grouped into five regional sets — North America, the United Kingdom, the
+Nordics, the Adriatic and Greece, and Iberia and Central Europe — so the collection can be
+read a region at a time as coverage grows.
 
 57 individual market profile pages exist today (EN+ES pairs), each with population and
 economic context sourced from Wikipedia.
