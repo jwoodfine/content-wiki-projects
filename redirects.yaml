@@ -36,7 +36,7 @@ redirects:
     to: /wiki/boma-standard
 
   - from: /co-location/regional-markets
-    to: /wiki/about-regional-markets
+    to: /wiki/about-regional-markets-system
 
   # Batch C1 Part 2 — comms/ -> news/ (directory rename, slug unchanged).
   # 2026-08-25: news/ category retracted entirely (operator directive — no "news"
@@ -298,7 +298,7 @@ redirects:
     to: /wiki/atlas-canada
 
   - from: /markets/germany-markets
-    to: /wiki/atlas-germany
+    to: /category/markets
 
   - from: /markets/spain-markets
     to: /wiki/atlas-spain
@@ -368,13 +368,13 @@ redirects:
   # place name). 26 already-in-markets/ profiles rename in place; 6 flat-root
   # `topic-rm-*` profiles move into markets/ with the same grammar.
   - from: /markets/augsburg
-    to: /wiki/de-by-augsburg
+    to: /category/markets
 
   - from: /markets/barrie-innisfil
     to: /wiki/ca-on-barrie-innisfil
 
   - from: /markets/bielefeld
-    to: /wiki/de-nw-bielefeld
+    to: /category/markets
 
   - from: /markets/burgos
     to: /wiki/es-cl-burgos
@@ -383,7 +383,7 @@ redirects:
     to: /wiki/gb-eng-chester
 
   - from: /markets/erfurt
-    to: /wiki/de-th-erfurt
+    to: /category/markets
 
   - from: /markets/fort-collins
     to: /wiki/us-co-fort-collins
@@ -395,7 +395,7 @@ redirects:
     to: /wiki/gb-sct-inverness
 
   - from: /markets/kaiserslautern
-    to: /wiki/de-rp-kaiserslautern
+    to: /category/markets
 
   - from: /markets/kelowna
     to: /wiki/ca-bc-kelowna
@@ -425,7 +425,7 @@ redirects:
     to: /wiki/us-wa-spokane
 
   - from: /markets/ulm
-    to: /wiki/de-bw-ulm
+    to: /category/markets
 
   - from: /markets/valladolid
     to: /wiki/es-cl-valladolid
@@ -446,13 +446,13 @@ redirects:
     to: /wiki/us-co-colorado-springs
 
   - from: /topic-rm-krefeld-de
-    to: /wiki/de-nw-krefeld
+    to: /category/markets
 
   - from: /topic-rm-mississauga-on
     to: /wiki/ca-on-mississauga
 
   - from: /topic-rm-nurnberg-de
-    to: /wiki/de-by-nurnberg
+    to: /category/markets
 
   - from: /topic-rm-plano-tx
     to: /wiki/us-tx-plano
@@ -569,3 +569,36 @@ redirects:
   # merged into the canonical four-tier predicate-gate article and the source archived.
   - from: /co-location-tiering-scoring
     to: /wiki/catchment-ranking-methodology-v3
+
+  # Archival, 2026-09-05: the markets category's "Superseded and Retired" shelf is retired.
+  # The one superseded framework article, the three retired country indices (France, Germany,
+  # Netherlands -- deliberately excluded from the current Regional Markets methodology, locked
+  # 2026-06-30), and the nine retired profiles in those countries move to markets/.archive/.
+  # The superseded framework article redirects to its current successor; the rest, which have
+  # no successor page, redirect to the category landing page.
+  - from: /about-regional-markets
+    to: /wiki/about-regional-markets-system
+  - from: /atlas-france
+    to: /category/markets
+  - from: /atlas-germany
+    to: /category/markets
+  - from: /atlas-netherlands
+    to: /category/markets
+  - from: /de-bw-ulm
+    to: /category/markets
+  - from: /de-by-augsburg
+    to: /category/markets
+  - from: /de-by-nurnberg
+    to: /category/markets
+  - from: /de-nw-bielefeld
+    to: /category/markets
+  - from: /de-nw-krefeld
+    to: /category/markets
+  - from: /de-rp-kaiserslautern
+    to: /category/markets
+  - from: /de-th-erfurt
+    to: /category/markets
+  - from: /fr-chambery
+    to: /category/markets
+  - from: /nl-breda
+    to: /category/markets

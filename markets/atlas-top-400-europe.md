@@ -26,7 +26,7 @@ The list identifies commercial markets in the suburban ring of major European ci
 
 ## Country breakouts
 
-Seven countries have enough entries to warrant their own dedicated market page: [[atlas-germany|Germany]] (124 markets), [[atlas-france|France]] (102), [[atlas-united-kingdom|United Kingdom]] (81), [[atlas-spain|Spain]] (22), [[atlas-italy|Italy]] (21), [[atlas-poland|Poland]] (16), and [[atlas-netherlands|Netherlands]] (14). Austria, Denmark, Sweden, and Portugal (7, 5, 4, and 3 markets respectively) stay in the Country Breakdown table below and the full market table — a dedicated page isn't warranted at those counts.
+Seven countries have enough entries to warrant their own dedicated market page: Germany (124 markets), France (102), [[atlas-united-kingdom|United Kingdom]] (81), [[atlas-spain|Spain]] (22), [[atlas-italy|Italy]] (21), [[atlas-poland|Poland]] (16), and Netherlands (14). Austria, Denmark, Sweden, and Portugal (7, 5, 4, and 3 markets respectively) stay in the Country Breakdown table below and the full market table — a dedicated page isn't warranted at those counts.
 
 ## Definition and Scope
 
@@ -63,8 +63,8 @@ A sample of twenty-five European Regional Markets is listed below, with the metr
 | Chemnitz, Stadt | DE | Dresden | 64 | 3 | 0 | 0 | Yes |
 | Ingolstadt | DE | Regensburg | 56 | 2 | 0 | 1 | Yes |
 | Dessau-Roßlau, Stadt | DE | Halle | 44 | 2 | 0 | 0 | Yes |
-| [[de-rp-kaiserslautern|Kaiserslautern, Stadt]] | DE | Mannheim | 54 | 2 | 0 | 0 | Yes |
-| [[de-nw-krefeld|Krefeld, Stadt]] | DE | Düsseldorf | 19 | 2 | 0 | 0 | Yes |
+| Kaiserslautern, Stadt | DE | Mannheim | 54 | 2 | 0 | 0 | Yes |
+| Krefeld, Stadt | DE | Düsseldorf | 19 | 2 | 0 | 0 | Yes |
 | [[pl-bielsko-biala|Bielsko-Biała]] | PL | Katowice | 48 | 2 | 0 | 0 | Yes |
 | Zwickau, Stadt | DE | Leipzig | 69 | 1 | 1 | 1 | Yes |
 | Radom | PL | Kielce | 69 | 1 | 1 | 1 | Yes |
@@ -104,7 +104,7 @@ A sample of twenty-five European Regional Markets is listed below, with the metr
 | Hillingdon | GB | London | 1 | 0 | 1 |
 | Derby | GB | Nottingham | 1 | 0 | 1 |
 | [[gb-eng-chester|Cheshire West and Chester]] | GB | Wigan | 1 | 0 | 1 |
-| [[fr-chambery|Chambéry]] | FR | Grenoble | 1 | 0 | 1 |
+| Chambéry | FR | Grenoble | 1 | 0 | 1 |
 | Albi | FR | Toulouse | 1 | 0 | 1 |
 | Cambrai | FR | Valenciennes | 1 | 0 | 1 |
 | Osny | FR | Paris | 1 | 0 | 1 |
@@ -384,7 +384,7 @@ A sample of twenty-five European Regional Markets is listed below, with the metr
 
 | Market | Country | Suburb of | T1 | T2 | T3 |
 |--------|---------|-----------|----|----|----|
-| [[nl-breda|Breda]] | NL | Rotterdam | 1 | 0 | 1 |
+| Breda | NL | Rotterdam | 1 | 0 | 1 |
 | Liverpool | GB | Wigan | 0 | 0 | 3 |
 | Osnabrück, Stadt | DE | Bielefeld | 0 | 0 | 3 |
 | Havering | GB | London | 0 | 1 | 1 |
@@ -524,13 +524,13 @@ markets across the remaining 399 filled positions.
 
 | Country | Count | Notes |
 |---------|-------|-------|
-| [[atlas-germany|Germany (DE)]] | 124 | Polycentric urban system; Rhine-Ruhr, Rhine-Neckar, and Saxon-Thuringian corridors dominant |
-| [[atlas-france|France (FR)]] | 102 | Île-de-France and provincial city rings; Le Havre metro generates notable cluster density |
+| Germany (DE) | 124 | Polycentric urban system; Rhine-Ruhr, Rhine-Neckar, and Saxon-Thuringian corridors dominant |
+| France (FR) | 102 | Île-de-France and provincial city rings; Le Havre metro generates notable cluster density |
 | [[atlas-united-kingdom|United Kingdom (GB)]] | 81 | London commuter belt, Midlands, and Scottish Central Belt |
 | [[atlas-spain|Spain (ES)]] | 22 | Madrid and Barcelona suburban rings; OSM coverage thinner outside these cores |
 | [[atlas-italy|Italy (IT)]] | 21 | Po Valley suburban municipalities; Turin and Milan rings |
 | [[atlas-poland|Poland (PL)]] | 16 | Upper Silesian Industrial Region suburbs; Katowice and Łódź rings |
-| [[atlas-netherlands|Netherlands (NL)]] | 14 | Randstad outer suburban ring; Rotterdam and Amsterdam commuter municipalities |
+| Netherlands (NL) | 14 | Randstad outer suburban ring; Rotterdam and Amsterdam commuter municipalities |
 | Austria (AT) | 7 | Vienna suburban ring |
 | Denmark (DK) | 5 | Copenhagen and Aarhus suburban municipalities |
 | Sweden (SE) | 4 | Stockholm suburban ring |

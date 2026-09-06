@@ -7,7 +7,10 @@ index_group: superseded-and-retired
 type: topic
 content_type: topic
 quality: pre-build
-status: superseded
+status: archived
+archived: 2026-09-05
+archived_reason: "Superseded article, archived 2026-09-05: predates the current co-location Regional Markets system and carries a definition of Regional Market that contradicts the framework now in use. It had been left live under a Superseded and Retired shelf on the category index; that shelf is retired with this pass and the article moves to the archive, with its slug redirected to the current framework article."
+superseded_by: about-regional-markets-system
 superseded_by: about-regional-markets-system
 audience: customer-woodfine
 bcsc_class: current-fact

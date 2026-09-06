@@ -9,7 +9,10 @@ index_group: market-profiles
 type: reference
 content_type: topic
 quality: stub
-status: retired
+status: archived
+archived: 2026-09-05
+archived_reason: "Retired market profile, archived 2026-09-05: retired 2026-08-17 because Germany is deliberately excluded from the current Regional Markets methodology (locked 2026-06-30), so this profile describes no market in the current Top 400 or reference-only sets. It had been left live under a Superseded and Retired shelf on the category index; that shelf is retired with this pass and the page moves to the archive."
+superseded_by: none
 audience: customer-woodfine
 bcsc_class: current-fact
 short_description: "European Regional Market — suburb of Mannheim, 54 km; 2 Regional-tier co-location clusters with a confirmed civic anchor."

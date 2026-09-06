@@ -76,9 +76,23 @@ Nine country-level Regional Market indices filter the continental Top 400 tables
 
 ## Market Profiles
 
-66 individual market profile pages exist today (EN+ES pairs), each with population and economic context sourced from Wikipedia.
+The country index pages are the way into the profiles. Each `atlas-` page lists its own
+country's markets in a single table, with the metropolitan reference point and cluster
+composition for every entry: [[atlas-canada|Canada]], [[atlas-united-states|United States]],
+[[atlas-united-kingdom|United Kingdom]], [[atlas-spain|Spain]], [[atlas-italy|Italy]],
+[[atlas-poland|Poland]], [[atlas-greece|Greece]], [[atlas-croatia|Croatia]], and
+[[atlas-norway|Norway]]. This page no longer enumerates every profile; the country tables do,
+and they carry the market-level detail an enumeration here cannot.
 
-*Correction (2026-09-05):* this count previously read 41 — a stale figure left behind when the Greek (7), Croatian (9), and Norwegian (9) profile sets (25 pages) were added to the Auto-generated list below but never folded into this count or into the verified/reference-only/retired split immediately below. The 66 figure is the current, accurate total. The three-way split that follows (16 verified / 16 reference-only / 9 retired, still summing to 41) has not yet been extended to cover the 25 newly counted pages — flagged for a future pass, not resolved here.
+57 individual market profile pages exist today (EN+ES pairs), each with population and
+economic context sourced from Wikipedia.
+
+*Correction (2026-09-05):* this count read 66 before the nine German, French, and Dutch
+profiles retired 2026-08-17 were archived on 2026-09-05; 57 is the current live total. An
+earlier correction the same day replaced a stale 41. The verified / reference-only split
+below still covers only the 32 profiles it was originally written against — the Greek (7),
+Croatian (9), and Norwegian (9) sets added since have not been folded into it. Flagged for a
+future pass, not resolved here.
 
 **Verified TOP400 entries (16):** co-location cluster composition current as of the 2026-08-07 dataset. No rank or score is published for any entry; list order below is alphabetical by profile slug, not ordinal.
 
@@ -115,97 +129,12 @@ North America: [[ca-ab-lethbridge|Lethbridge]], [[ca-bc-kelowna|Kelowna]], [[ca-
 Europe: [[es-ar-zaragoza-secondary|Zaragoza]], [[es-cl-burgos|Burgos]], [[es-cl-valladolid|Valladolid]],
 [[es-nc-pamplona|Pamplona]], [[es-pv-vitoria-gasteiz|Vitoria-Gasteiz]], [[gb-sct-inverness|Inverness]].
 
-**Retired (2026-08-17), not part of the current TOP400 or reference-only counts above (9):**
-seven German city profiles plus Chambéry (France) and Breda (Netherlands) — those three
-countries are deliberately excluded from the current Regional Markets methodology (locked
-2026-06-30). The pages remain available for historical reference; the Auto-generated list
-below includes them, each labelled retired, for completeness — none are cited as TOP400 or
-reference-only entries above.
-
-*Correction (2026-08-24):* the count split above was previously mislabelled 20 verified /
-21 reference-only. The current, accurate split against the live 2026-08-07 dataset and the
-2026-08-17 retirements is 16 verified / 16 reference-only / 9 retired (41 total).
-
-<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: market-profiles -->
-- [[ca-ab-lethbridge]] — Southern Alberta market, 215 km from Calgary — outside the current Top-400 qualifying band.
-- [[ca-bc-kelowna]] — Okanagan Valley market, 390 km from Vancouver — outside the current Top-400 qualifying band.
-- [[ca-nb-moncton]] — Maritime Canada's commercial hub — outside the current Top-400 qualifying band (no single dominant major metro core in the region).
-- [[ca-on-barrie-innisfil]] — Central Ontario market, 90 km from Toronto — just outside the current Top-400 qualifying band's 80 km outer edge.
-- [[ca-on-mississauga]] — North American Regional Market — suburb of Toronto, 24.9 km; 2 Regional-tier, 1 District-tier, and 2 Local-tier co-location clusters.
-- [[ca-sk-regina]] — Saskatchewan's provincial capital — outside the current Top-400 qualifying band (no nearby major metro core).
-- [[de-bw-ulm]] — Baden-Württemberg city functioning as a metro-core reference point for surrounding suburban markets — not itself part of the Top-400 qualifying band.
-- [[de-by-augsburg]] — Bavarian city functioning as a metro-core reference point for surrounding suburban markets — not itself part of the Top-400 qualifying band.
-- [[de-by-nurnberg]] — Bavarian metro-core reference point for surrounding suburban markets — not itself part of the Top-400 qualifying band.
-- [[de-nw-bielefeld]] — North Rhine-Westphalia city functioning as a metro-core reference point for surrounding suburban markets — not itself part of the Top-400 qualifying band.
-- [[de-nw-krefeld]] — European Regional Market — suburb of Düsseldorf, 19.4 km; 2 Regional-tier co-location clusters.
-- [[de-rp-kaiserslautern]] — European Regional Market — suburb of Mannheim, 54 km; 2 Regional-tier co-location clusters with a confirmed civic anchor.
-- [[de-th-erfurt]] — Thuringia's state capital — outside the current Top-400 qualifying band (no nearby major metro core).
-- [[es-ar-zaragoza-secondary]] — Aragon's regional capital, roughly 300 km from Madrid, Barcelona, and Valencia alike — outside the current Top-400 qualifying band.
-- [[es-cl-burgos]] — Castile and León city, 244 km from Madrid — outside the current Top-400 qualifying band.
-- [[es-cl-valladolid]] — Castile and León's largest city, 235 km from Madrid — outside the current Top-400 qualifying band.
-- [[es-nc-pamplona]] — Navarre's regional capital, 117 km from Bilbao — outside the current Top-400 qualifying band.
-- [[es-pv-vitoria-gasteiz]] — Basque Country capital — outside the current Top-400 qualifying band (no nearby major metro core in the dataset).
-- [[fr-chambery]] — European Regional Market — suburb of Grenoble; 1 Regional-tier and 1 Local-tier co-location cluster.
-- [[gb-eng-cherwell]] — European Regional Market — suburb of Oxford; 2 Local-tier co-location clusters.
-- [[gb-eng-chester]] — Cheshire heritage city, 30-40 miles from Liverpool — not currently included as a Top-400 entry despite sitting within the suburban-regional distance band.
-- [[gb-eng-northampton]] — European Regional Market — suburb of Coventry; 2 Local-tier co-location clusters.
-- [[gb-eng-warrington]] — European Regional Market — suburb of Wigan; 1 District-tier and 1 Local-tier co-location cluster.
-- [[gb-eng-york]] — European Regional Market — suburb of Leeds; 1 District-tier and 2 Local-tier co-location clusters.
-- [[gb-sct-inverness]] — Scottish Highlands capital, well beyond commuting distance of Edinburgh or Glasgow — outside the current Top-400 qualifying band.
-- [[gr-attica-elefsina]] — European Regional Market — Athens metropolitan reference point, 17.9 km; 1 Regional-tier co-location cluster.
-- [[gr-attica-gerakas]] — European Regional Market — Athens metropolitan reference point, 12.3 km; 1 Regional-tier co-location cluster.
-- [[gr-corfu-kanali]] — European Regional Market — Patras metropolitan reference point, 219.8 km; 1 Regional-tier co-location cluster.
-- [[gr-crete-chania]] — European Regional Market — Heraklion metropolitan reference point, 103.3 km; 1 Local-tier co-location cluster.
-- [[gr-evros-alexandroupolis]] — European Regional Market — Plovdiv (Bulgaria) metropolitan reference point, 171.9 km; 1 District-tier and 1 Local-tier co-location cluster.
-- [[gr-magnesia-volos]] — European Regional Market — Thessaloniki metropolitan reference point, 141.3 km; 1 Regional-tier co-location cluster.
-- [[gr-messenia-kalamata]] — European Regional Market — Patras metropolitan reference point, 138.4 km; 1 Local-tier co-location cluster.
-- [[hr-central-croatia-sisak]] — European Regional Market — Graz (Austria) metropolitan reference point, 189.2 km; 1 Regional-tier co-location cluster.
-- [[hr-central-croatia-zagreb]] — European Regional Market — Graz (Austria) metropolitan reference point, 147.4 km; 4 Regional-tier and 1 District-tier co-location clusters.
-- [[hr-dalmatia-sibenik]] — European Regional Market — Ancona (Italy) metropolitan reference point, 213.8 km; 1 Regional-tier co-location cluster.
-- [[hr-dalmatia-split]] — European Regional Market — Ancona (Italy) metropolitan reference point, 256.0 km; 1 Regional-tier and 1 Local-tier co-location cluster.
-- [[hr-dalmatia-zadar]] — European Regional Market — Ancona (Italy) metropolitan reference point, 179.1 km; 1 Regional-tier co-location cluster.
-- [[hr-istria-pula-pola]] — European Regional Market — Trieste (Italy) metropolitan reference point, 86.3 km; 1 Regional-tier co-location cluster.
-- [[hr-northern-croatia-varazdin]] — European Regional Market — Graz (Austria) metropolitan reference point, 111.2 km; 1 Regional-tier co-location cluster.
-- [[hr-posavina-slavonski-brod]] — European Regional Market — Timișoara (Romania) metropolitan reference point, 255.8 km; 1 Regional-tier and 1 District-tier co-location cluster.
-- [[hr-slavonia-osijek]] — European Regional Market — Timișoara (Romania) metropolitan reference point, 199.0 km; 1 Regional-tier and 1 Local-tier co-location cluster.
-- [[nl-breda]] — European Regional Market — suburb of Rotterdam; 1 Regional-tier and 1 Local-tier co-location cluster.
-- [[no-agder-arendal]] — European Regional Market — Aalborg (Denmark) metropolitan reference point, 173.0 km; 1 Regional-tier co-location cluster.
-- [[no-akershus-ullensaker]] — European Regional Market — Oslo metropolitan reference point, 34.6 km; 1 Regional-tier co-location cluster.
-- [[no-buskerud-drammen]] — European Regional Market — Oslo metropolitan reference point, 39.7 km; 1 Regional-tier and 2 Local-tier co-location clusters.
-- [[no-innlandet-elverum]] — European Regional Market — Oslo metropolitan reference point, 116.8 km; 1 Regional-tier co-location cluster.
-- [[no-innlandet-ringsaker]] — European Regional Market — Oslo metropolitan reference point, 106.8 km; 1 District-tier and 1 Local-tier co-location cluster.
-- [[no-nordland-bodo]] — European Regional Market — Trondheim metropolitan reference point, 466.6 km; 1 Regional-tier co-location cluster.
-- [[no-nordland-rana]] — European Regional Market — Trondheim metropolitan reference point, 365.6 km; 1 Regional-tier co-location cluster.
-- [[no-ostfold-moss]] — European Regional Market — Oslo metropolitan reference point, 55.1 km; 1 Regional-tier co-location cluster.
-- [[no-trondelag-steinkjer]] — European Regional Market — Trondheim metropolitan reference point, 84.1 km; 1 Regional-tier co-location cluster.
-- [[pl-bielsko-biala]] — European Regional Market — suburb of Katowice, 48 km; 2 Regional-tier co-location clusters with a confirmed civic anchor.
-- [[se-jarfalla]] — European Regional Market — suburb of Stockholm; 1 Regional-tier co-location cluster.
-- [[us-az-tempe]] — North American Regional Market — suburb of Phoenix; 1 Regional-tier and 2 Local-tier co-location clusters.
-- [[us-ca-torrance]] — North American Regional Market — suburb of Los Angeles; 1 Regional-tier co-location cluster.
-- [[us-co-colorado-springs]] — Colorado metro-core reference point for a surrounding suburban market — not itself part of the Top-400 qualifying band.
-- [[us-co-fort-collins]] — Northern Colorado market, 60 miles from Denver — outside the current Top-400 qualifying band.
-- [[us-ks-wichita]] — Kansas's largest city, well beyond commuting distance of any major metro — outside the current Top-400 qualifying band.
-- [[us-la-kenner]] — North American Regional Market — suburb of New Orleans; 1 District-tier and 1 Local-tier co-location cluster.
-- [[us-mn-eagan]] — North American Regional Market — suburb of Minneapolis; 1 Regional-tier co-location cluster.
-- [[us-sc-greenville-spartanburg]] — South Carolina Upstate metro-core reference point for surrounding suburban markets — not itself part of the Top-400 qualifying band.
-- [[us-tx-frisco]] — North American Regional Market — suburb of Dallas, 44 km; 3 Regional-tier and 1 District-tier co-location clusters with a confirmed civic anchor.
-- [[us-tx-plano]] — North American Regional Market — suburb of Dallas, 28.1 km; 3 Regional-tier, 2 District-tier, and 1 Local-tier co-location cluster.
-- [[us-ut-provo-orem]] — North American Regional Market — suburb of Salt Lake City; 1 Regional-tier co-location cluster.
-- [[us-wa-spokane]] — Eastern Washington's second-largest city, 280 miles from Seattle — outside the current Top-400 qualifying band.
-- [[us-wi-madison]] — Wisconsin's capital and second-largest city, 77 miles from Milwaukee — outside the current Top-400 qualifying band.
-<!-- END AUTO-GENERATED -->
-
-## Superseded and Retired
-
-Two "Regional Markets" articles predate the current co-location system: [[about-regional-markets|Regional Markets]] and the Regional Market Matrix (archived) describe an earlier 8-market direct-hold matrix with a definition of "Regional Market" that directly contradicts the system now in use; both are marked status: superseded. Three country index pages — [[atlas-france|France]], [[atlas-germany|Germany]], and [[atlas-netherlands|Netherlands]] — are marked status: retired, since those countries are deliberately excluded from the current Regional Markets methodology (locked 2026-06-30). All five remain available for historical reference only.
-
-<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: superseded-and-retired -->
-- [[about-regional-markets]] — SUPERSEDED (2026-07-10) — see about-regional-markets-system for the current framework. Prior definition described a narrower, standalone-city investment matrix (50k-300k population, explicitly not metro suburbs), pre-dating the 18-country suburban co-location system now in use.
-- **the Regional Market Matrix** — SUPERSEDED (2026-07-10), archived — see about-regional-markets-system for the current framework. Prior definition described MCorp's 8-target-market direct-hold matrix, pre-dating the 18-country suburban co-location system now in use.
-- [[atlas-france]] — RETIRED (2026-08-17) — France is deliberately excluded from the current Regional Markets methodology (locked 2026-06-30). The content below is historical and does not appear in the current Top 400 set.
-- [[atlas-germany]] — RETIRED (2026-08-17) — Germany is deliberately excluded from the current Regional Markets methodology (locked 2026-06-30). The content below is historical and does not appear in the current Top 400 set.
-- [[atlas-netherlands]] — RETIRED (2026-08-17) — Netherlands is deliberately excluded from the current Regional Markets methodology (locked 2026-06-30). The content below is historical and does not appear in the current Top 400 set.
-<!-- END AUTO-GENERATED -->
+**Archived (2026-09-05):** the seven German city profiles, Chambéry (France), and Breda
+(Netherlands) — retired 2026-08-17 because those three countries are deliberately excluded
+from the current Regional Markets methodology (locked 2026-06-30) — were archived on
+2026-09-05, together with the three country index pages and the superseded framework article
+that had shared a Superseded and Retired shelf on this page. Their slugs redirect to this
+category.
 
 ## See also
 

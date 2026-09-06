@@ -25,7 +25,7 @@ La lista identifica mercados comerciales en el anillo suburbano de las principal
 
 ## Desgloses por país
 
-Siete países cuentan con suficientes entradas para justificar su propia página de mercado dedicada: [[atlas-germany|Alemania]] (124 mercados), [[atlas-france|Francia]] (102), [[atlas-united-kingdom|Reino Unido]] (81), [[atlas-spain|España]] (22), [[atlas-italy|Italia]] (21), [[atlas-poland|Polonia]] (16) y [[atlas-netherlands|Países Bajos]] (14). Austria, Dinamarca, Suecia y Portugal (7, 5, 4 y 3 mercados respectivamente) permanecen en la tabla de Desglose por País más abajo y en la tabla completa de mercados — ese número no justifica una página dedicada.
+Siete países cuentan con suficientes entradas para justificar su propia página de mercado dedicada: Alemania (124 mercados), Francia (102), [[atlas-united-kingdom|Reino Unido]] (81), [[atlas-spain|España]] (22), [[atlas-italy|Italia]] (21), [[atlas-poland|Polonia]] (16) y Países Bajos (14). Austria, Dinamarca, Suecia y Portugal (7, 5, 4 y 3 mercados respectivamente) permanecen en la tabla de Desglose por País más abajo y en la tabla completa de mercados — ese número no justifica una página dedicada.
 
 ## Definición y Alcance
 
@@ -58,8 +58,8 @@ A continuación se presenta una muestra de veinticinco Mercados Regionales europ
 | Chemnitz, Stadt | DE | Dresden | 64 | 3 | 0 | 0 | Sí |
 | Ingolstadt | DE | Regensburg | 56 | 2 | 0 | 1 | Sí |
 | Dessau-Roßlau, Stadt | DE | Halle | 44 | 2 | 0 | 0 | Sí |
-| [[de-rp-kaiserslautern|Kaiserslautern, Stadt]] | DE | Mannheim | 54 | 2 | 0 | 0 | Sí |
-| [[de-nw-krefeld|Krefeld, Stadt]] | DE | Düsseldorf | 19 | 2 | 0 | 0 | Sí |
+| Kaiserslautern, Stadt | DE | Mannheim | 54 | 2 | 0 | 0 | Sí |
+| Krefeld, Stadt | DE | Düsseldorf | 19 | 2 | 0 | 0 | Sí |
 | [[pl-bielsko-biala|Bielsko-Biała]] | PL | Katowice | 48 | 2 | 0 | 0 | Sí |
 | Zwickau, Stadt | DE | Leipzig | 69 | 1 | 1 | 1 | Sí |
 | Radom | PL | Kielce | 69 | 1 | 1 | 1 | Sí |
@@ -99,7 +99,7 @@ A continuación se presenta una muestra de veinticinco Mercados Regionales europ
 | Hillingdon | GB | London | 1 | 0 | 1 |
 | Derby | GB | Nottingham | 1 | 0 | 1 |
 | [[gb-eng-chester|Cheshire West and Chester]] | GB | Wigan | 1 | 0 | 1 |
-| [[fr-chambery|Chambéry]] | FR | Grenoble | 1 | 0 | 1 |
+| Chambéry | FR | Grenoble | 1 | 0 | 1 |
 | Albi | FR | Toulouse | 1 | 0 | 1 |
 | Cambrai | FR | Valenciennes | 1 | 0 | 1 |
 | Osny | FR | Paris | 1 | 0 | 1 |
@@ -379,7 +379,7 @@ A continuación se presenta una muestra de veinticinco Mercados Regionales europ
 
 | Mercado | País | Suburbio de | T1 | T2 | T3 |
 |---------|------|-------------|----|----|----|
-| [[nl-breda|Breda]] | NL | Rotterdam | 1 | 0 | 1 |
+| Breda | NL | Rotterdam | 1 | 0 | 1 |
 | Liverpool | GB | Wigan | 0 | 0 | 3 |
 | Osnabrück, Stadt | DE | Bielefeld | 0 | 0 | 3 |
 | Havering | GB | London | 0 | 1 | 1 |
@@ -519,13 +519,13 @@ refleja 399 mercados distintos verificados en las 399 posiciones ocupadas restan
 
 | País | Cantidad | Notas |
 |------|----------|-------|
-| [[atlas-germany|Alemania (DE)]] | 124 | Sistema urbano policéntrico; corredores del Rin-Ruhr, Rin-Neckar y Sajonia-Turingia dominantes |
-| [[atlas-france|Francia (FR)]] | 102 | Île-de-France y anillos de ciudades provinciales; la metrópoli de Le Havre genera notable densidad de clústeres |
+| Alemania (DE) | 124 | Sistema urbano policéntrico; corredores del Rin-Ruhr, Rin-Neckar y Sajonia-Turingia dominantes |
+| Francia (FR) | 102 | Île-de-France y anillos de ciudades provinciales; la metrópoli de Le Havre genera notable densidad de clústeres |
 | [[atlas-united-kingdom|Reino Unido (GB)]] | 81 | Cinturón de conmutación de Londres, Midlands y Cinturón Central escocés |
 | [[atlas-spain|España (ES)]] | 22 | Anillos suburbanos de Madrid y Barcelona; cobertura de OSM más escasa fuera de estos núcleos |
 | [[atlas-italy|Italia (IT)]] | 21 | Municipios suburbanos del Valle del Po; anillos de Turín y Milán |
 | [[atlas-poland|Polonia (PL)]] | 16 | Suburbios de la Región Industrial de la Alta Silesia; anillos de Katowice y Łódź |
-| [[atlas-netherlands|Países Bajos (NL)]] | 14 | Anillo suburbano exterior de la Randstad; municipios de conmutación de Róterdam y Ámsterdam |
+| Países Bajos (NL) | 14 | Anillo suburbano exterior de la Randstad; municipios de conmutación de Róterdam y Ámsterdam |
 | Austria (AT) | 7 | Anillo suburbano de Viena |
 | Dinamarca (DK) | 5 | Municipios suburbanos de Copenhague y Aarhus |
 | Suecia (SE) | 4 | Anillo suburbano de Estocolmo |

@@ -76,9 +76,25 @@ Nueve índices de Mercado Regional por país filtran las tablas continentales de
 
 ## Perfiles de Mercado
 
-Existen hoy 66 páginas de perfil de mercado individual (pares EN+ES), cada una con contexto de población y economía procedente de Wikipedia.
+Las páginas de índice por país son la vía de entrada a los perfiles. Cada página `atlas-`
+lista los mercados de su propio país en una sola tabla, con el punto de referencia
+metropolitano y la composición de clústeres de cada entrada: [[atlas-canada|Canadá]],
+[[atlas-united-states|Estados Unidos]], [[atlas-united-kingdom|Reino Unido]],
+[[atlas-spain|España]], [[atlas-italy|Italia]], [[atlas-poland|Polonia]],
+[[atlas-greece|Grecia]], [[atlas-croatia|Croacia]] y [[atlas-norway|Noruega]]. Esta página ya
+no enumera todos los perfiles; lo hacen las tablas por país, que además llevan el detalle a
+nivel de mercado que una enumeración aquí no puede ofrecer.
 
-*Corrección (2026-09-05):* esta cifra decía antes 41 — una cifra desactualizada que quedó tras añadir los conjuntos de perfiles de Grecia (7), Croacia (9) y Noruega (9) (25 páginas) a la lista Auto-generada de abajo sin incorporarlas nunca a esta cifra ni al reparto verificado/solo-referencia/retirado inmediatamente debajo. La cifra de 66 es el total actual y correcto. El reparto en tres partes que sigue (16 verificadas / 16 solo-referencia / 9 retiradas, que aún suma 41) todavía no se ha extendido para cubrir las 25 páginas recién contabilizadas — señalado para una futura revisión, no resuelto aquí.
+Existen hoy 57 páginas de perfil de mercado individual (pares EN+ES), cada una con contexto
+de población y economía procedente de Wikipedia.
+
+*Corrección (2026-09-05):* esta cifra decía 66 antes de que los nueve perfiles alemanes,
+francés y neerlandés retirados el 2026-08-17 se archivaran el 2026-09-05; 57 es el total
+vigente. Una corrección anterior del mismo día sustituyó una cifra desactualizada de 41. El
+reparto verificadas / solo-referencia de abajo sigue cubriendo únicamente los 32 perfiles
+para los que se escribió originalmente — los conjuntos de Grecia (7), Croacia (9) y Noruega
+(9) añadidos desde entonces no se han incorporado. Señalado para una futura revisión, no
+resuelto aquí.
 
 **Entradas verificadas del TOP400 (16):** composición de clústeres de co-ubicación vigente
 según el conjunto de datos del 2026-08-07. No se publica posición ni puntuación para ninguna
@@ -123,98 +139,12 @@ América del Norte: [[ca-ab-lethbridge|Lethbridge]], [[ca-bc-kelowna|Kelowna]], 
 Europa: [[es-ar-zaragoza-secondary|Zaragoza]], [[es-cl-burgos|Burgos]], [[es-cl-valladolid|Valladolid]],
 [[es-nc-pamplona|Pamplona]], [[es-pv-vitoria-gasteiz|Vitoria-Gasteiz]], [[gb-sct-inverness|Inverness]].
 
-**Retirados (2026-08-17), fuera de las cuentas TOP400 o de referencia anteriores (9):**
-siete perfiles de ciudades alemanas más Chambéry (Francia) y Breda (Países Bajos) — esos tres
-países están deliberadamente excluidos de la metodología vigente de Mercados Regionales
-(fijada el 2026-06-30). Las páginas permanecen disponibles para referencia histórica; la lista
-generada automáticamente más abajo las incluye, cada una etiquetada como retirada, por
-completitud — ninguna se cita como entrada TOP400 o de referencia arriba.
-
-*Corrección (2026-08-24):* el reparto de cifras anterior estaba etiquetado incorrectamente
-como 20 verificadas / 21 solo de referencia. El reparto correcto y vigente frente al conjunto
-de datos activo del 2026-08-07 y los retiros del 2026-08-17 es 16 verificadas / 16 solo de
-referencia / 9 retiradas (41 en total).
-
-<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: market-profiles -->
-- [[ca-ab-lethbridge]] — Mercado del sur de Alberta, a 215 km de Calgary — fuera del conjunto de calificación Top-400 actual.
-- [[ca-bc-kelowna]] — Mercado del valle de Okanagan, a 390 km de Vancouver — fuera del conjunto de calificación Top-400 actual.
-- [[ca-nb-moncton]] — Centro comercial de la Canadá marítima — fuera del conjunto de calificación Top-400 actual (sin núcleo metropolitano dominante cercano).
-- [[ca-on-barrie-innisfil]] — Mercado del centro de Ontario, a 90 km de Toronto — justo fuera de la banda de 80 km del conjunto de calificación Top-400 actual.
-- [[ca-on-mississauga]] — Mercado Regional de América del Norte — suburbio de Toronto, 24,9 km; 2 clústeres de Nivel Regional, 1 de Nivel Distrito y 2 de Nivel Local.
-- [[ca-sk-regina]] — Capital provincial de Saskatchewan — fuera del conjunto de calificación Top-400 actual (sin núcleo metropolitano cercano).
-- [[de-bw-ulm]] — Ciudad de Baden-Württemberg que funciona como punto de referencia metropolitano para los mercados suburbanos circundantes — no está en el conjunto de calificación Top-400.
-- [[de-by-augsburg]] — Ciudad bávara que funciona como punto de referencia metropolitano para los mercados suburbanos circundantes — no está en el conjunto de calificación Top-400.
-- [[de-by-nurnberg]] — Punto de referencia metropolitano bávaro para los mercados suburbanos circundantes — no está en el conjunto de calificación Top-400.
-- [[de-nw-bielefeld]] — Ciudad de Renania del Norte-Westfalia que funciona como punto de referencia metropolitano para los mercados suburbanos circundantes — no está en el conjunto de calificación Top-400.
-- [[de-nw-krefeld]] — Mercado Regional europeo — suburbio de Düsseldorf, 19,4 km; 2 clústeres de co-localización de Nivel Regional.
-- [[de-rp-kaiserslautern]] — Mercado Regional en Europa — suburbio de Mannheim, 54 km; 2 clústeres de nivel Regional con ancla cívica confirmada.
-- [[de-th-erfurt]] — Capital estatal de Turingia — fuera del conjunto de calificación Top-400 actual (sin núcleo metropolitano cercano).
-- [[es-ar-zaragoza-secondary]] — Capital regional de Aragón, a unos 300 km tanto de Madrid como de Barcelona y Valencia — fuera del conjunto de calificación Top-400 actual.
-- [[es-cl-burgos]] — Ciudad de Castilla y León, a 244 km de Madrid — fuera del conjunto de calificación Top-400 actual.
-- [[es-cl-valladolid]] — La ciudad más grande de Castilla y León, a 235 km de Madrid — fuera del conjunto de calificación Top-400 actual.
-- [[es-nc-pamplona]] — Capital regional de Navarra, a 117 km de Bilbao — fuera del conjunto de calificación Top-400 actual.
-- [[es-pv-vitoria-gasteiz]] — Capital del País Vasco — fuera del conjunto de calificación Top-400 actual (sin núcleo metropolitano cercano en el conjunto de datos).
-- [[fr-chambery]] — Mercado Regional europeo — suburbio de Grenoble; 1 clúster de Nivel Regional y 1 de Nivel Local.
-- [[gb-eng-cherwell]] — Mercado Regional europeo — suburbio de Oxford; 2 clústeres de Nivel Local.
-- [[gb-eng-chester]] — Ciudad histórica de Cheshire, a 30-40 millas de Liverpool — no es actualmente una entrada Top-400 pese a situarse dentro de la banda de distancia suburbano-regional.
-- [[gb-eng-northampton]] — Mercado Regional en Europa — suburbio de Coventry; 2 clústeres de nivel Local.
-- [[gb-eng-warrington]] — Mercado Regional en Europa — suburbio de Wigan; 1 clúster de nivel District y 1 de nivel Local.
-- [[gb-eng-york]] — Mercado Regional en Europa — suburbio de Leeds; 1 clúster de nivel District y 2 de nivel Local.
-- [[gb-sct-inverness]] — Capital de las Tierras Altas escocesas, muy fuera de distancia de cercanías de Edimburgo o Glasgow — fuera del conjunto de calificación Top-400 actual.
-- [[gr-attica-elefsina]] — Mercado Regional de Europa — punto de referencia metropolitano Atenas, 17,9 km; 1 clúster de nivel Regional.
-- [[gr-attica-gerakas]] — Mercado Regional de Europa — punto de referencia metropolitano Atenas, 12,3 km; 1 clúster de nivel Regional.
-- [[gr-corfu-kanali]] — Mercado Regional de Europa — punto de referencia metropolitano Patras, 219,8 km; 1 clúster de nivel Regional.
-- [[gr-crete-chania]] — Mercado Regional de Europa — punto de referencia metropolitano Heraclión, 103,3 km; 1 clúster de nivel Local.
-- [[gr-evros-alexandroupolis]] — Mercado Regional de Europa — punto de referencia metropolitano Plovdiv (Bulgaria), 171,9 km; 1 clúster de nivel District y 1 de nivel Local.
-- [[gr-magnesia-volos]] — Mercado Regional de Europa — punto de referencia metropolitano Tesalónica, 141,3 km; 1 clúster de nivel Regional.
-- [[gr-messenia-kalamata]] — Mercado Regional de Europa — punto de referencia metropolitano Patras, 138,4 km; 1 clúster de nivel Local.
-- [[hr-central-croatia-sisak]] — Mercado Regional de Europa — punto de referencia metropolitano Graz (Austria), 189,2 km; 1 clúster de nivel Regional.
-- [[hr-central-croatia-zagreb]] — Mercado Regional de Europa — punto de referencia metropolitano Graz (Austria), 147,4 km; 4 clústeres de nivel Regional y 1 de nivel Distrito.
-- [[hr-dalmatia-sibenik]] — Mercado Regional de Europa — punto de referencia metropolitano Ancona (Italia), 213,8 km; 1 clúster de nivel Regional.
-- [[hr-dalmatia-split]] — Mercado Regional de Europa — punto de referencia metropolitano Ancona (Italia), 256,0 km; 1 clúster de nivel Regional y 1 de nivel Local.
-- [[hr-dalmatia-zadar]] — Mercado Regional de Europa — punto de referencia metropolitano Ancona (Italia), 179,1 km; 1 clúster de nivel Regional.
-- [[hr-istria-pula-pola]] — Mercado Regional de Europa — punto de referencia metropolitano Trieste (Italia), 86,3 km; 1 clúster de nivel Regional.
-- [[hr-northern-croatia-varazdin]] — Mercado Regional de Europa — punto de referencia metropolitano Graz (Austria), 111,2 km; 1 clúster de nivel Regional.
-- [[hr-posavina-slavonski-brod]] — Mercado Regional de Europa — punto de referencia metropolitano Timișoara (Rumanía), 255,8 km; 1 clúster de nivel Regional y 1 de nivel Distrito.
-- [[hr-slavonia-osijek]] — Mercado Regional de Europa — punto de referencia metropolitano Timișoara (Rumanía), 199,0 km; 1 clúster de nivel Regional y 1 de nivel Local.
-- [[nl-breda]] — Mercado Regional en Europa — suburbio de Róterdam; 1 clúster de nivel Regional y 1 de nivel Local.
-- [[no-agder-arendal]] — Mercado Regional de Europa — punto de referencia metropolitano Aalborg (Dinamarca), 173,0 km; 1 clúster de co-ubicación de nivel Regional.
-- [[no-akershus-ullensaker]] — Mercado Regional de Europa — punto de referencia metropolitano Oslo, 34,6 km; 1 clúster de co-ubicación de nivel Regional.
-- [[no-buskerud-drammen]] — Mercado Regional de Europa — punto de referencia metropolitano Oslo, 39,7 km; 1 clúster de nivel Regional y 2 de nivel Local.
-- [[no-innlandet-elverum]] — Mercado Regional de Europa — punto de referencia metropolitano Oslo, 116,8 km; 1 clúster de co-ubicación de nivel Regional.
-- [[no-innlandet-ringsaker]] — Mercado Regional de Europa — punto de referencia metropolitano Oslo, 106,8 km; 1 clúster de nivel Distrito y 1 de nivel Local.
-- [[no-nordland-bodo]] — Mercado Regional de Europa — punto de referencia metropolitano Trondheim, 466,6 km; 1 clúster de co-ubicación de nivel Regional.
-- [[no-nordland-rana]] — Mercado Regional de Europa — punto de referencia metropolitano Trondheim, 365,6 km; 1 clúster de co-ubicación de nivel Regional.
-- [[no-ostfold-moss]] — Mercado Regional de Europa — punto de referencia metropolitano Oslo, 55,1 km; 1 clúster de co-ubicación de nivel Regional.
-- [[no-trondelag-steinkjer]] — Mercado Regional de Europa — punto de referencia metropolitano Trondheim, 84,1 km; 1 clúster de co-ubicación de nivel Regional.
-- [[pl-bielsko-biala]] — Mercado Regional en Europa — suburbio de Katowice, 48 km; 2 clústeres de nivel Regional con ancla cívica confirmada.
-- [[se-jarfalla]] — Mercado Regional en Europa — suburbio de Estocolmo; 1 clúster de nivel Regional.
-- [[us-az-tempe]] — Mercado Regional en América del Norte — suburbio de Phoenix; 1 clúster de nivel Regional y 2 de nivel Local.
-- [[us-ca-torrance]] — Mercado Regional de América del Norte — suburbio de Los Ángeles; 1 clúster de co-localización de Nivel Regional.
-- [[us-co-colorado-springs]] — Punto de referencia metropolitano de Colorado para un mercado suburbano circundante — no está en el conjunto de calificación Top-400.
-- [[us-co-fort-collins]] — Mercado del norte de Colorado, a 60 millas de Denver — fuera del conjunto de calificación Top-400 actual.
-- [[us-ks-wichita]] — La ciudad más grande de Kansas, muy fuera de distancia de cercanías de cualquier metrópoli importante — fuera del conjunto de calificación Top-400 actual.
-- [[us-la-kenner]] — Mercado Regional en América del Norte — suburbio de Nueva Orleans; 1 clúster de nivel District y 1 de nivel Local.
-- [[us-mn-eagan]] — Mercado Regional en América del Norte — suburbio de Minneapolis; 1 clúster de nivel Regional.
-- [[us-sc-greenville-spartanburg]] — Punto de referencia metropolitano de la región Upstate de Carolina del Sur para los mercados suburbanos circundantes — no está en el conjunto de calificación Top-400.
-- [[us-tx-frisco]] — Mercado Regional en América del Norte — suburbio de Dallas, 44 km; 3 clústeres de nivel Regional y 1 de nivel District con ancla cívica confirmada.
-- [[us-tx-plano]] — Mercado Regional de América del Norte — suburbio de Dallas, 28,1 km; 3 clústeres de Nivel Regional, 2 de Nivel Distrito y 1 de Nivel Local.
-- [[us-ut-provo-orem]] — Mercado Regional en América del Norte — suburbio de Salt Lake City; 1 clúster de nivel Regional.
-- [[us-wa-spokane]] — Segunda ciudad más grande del este de Washington, a 280 millas de Seattle — fuera del conjunto de calificación Top-400 actual.
-- [[us-wi-madison]] — Capital y segunda ciudad más grande de Wisconsin, a 77 millas de Milwaukee — fuera del conjunto de calificación Top-400 actual.
-<!-- END AUTO-GENERATED -->
-
-## Sustituidos y Retirados
-
-Dos artículos de "Mercados Regionales" preceden al sistema actual de co-ubicación: [[about-regional-markets|Mercados Regionales]] y la Matriz de Mercado Regional (archivada) describen una matriz de tenencia directa de 8 mercados anterior, con una definición de "Mercado Regional" que contradice directamente el sistema actualmente en uso; ambos están marcados status: superseded. Tres índices por país — [[atlas-france|Francia]], [[atlas-germany|Alemania]] y [[atlas-netherlands|Países Bajos]] — están marcados status: retired, dado que esos países están deliberadamente excluidos de la metodología vigente de Mercados Regionales (fijada el 2026-06-30). Los cinco permanecen disponibles únicamente como referencia histórica.
-
-<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: superseded-and-retired -->
-- [[about-regional-markets]] — SUSTITUIDO (2026-07-10) — véase about-regional-markets-system para el marco actual. La definición anterior describía una matriz de inversión de ciudades independientes más estrecha (población de 50.000-300.000, explícitamente no suburbios metropolitanos), previa al sistema actual de co-ubicación suburbana de 18 países.
-- **la Matriz de Mercado Regional** — SUSTITUIDO (2026-07-10), archivado — véase about-regional-markets-system para el marco actual. La definición anterior describía la matriz de tenencia directa de 8 mercados objetivo de MCorp, previa al sistema actual de co-ubicación suburbana de 18 países.
-- [[atlas-france]] — RETIRADO (2026-08-17) — Francia está excluida deliberadamente de la metodología vigente de Mercados Regionales (fijada el 2026-06-30). El contenido siguiente es histórico y no forma parte del conjunto Top 400 vigente.
-- [[atlas-germany]] — RETIRADO (2026-08-17) — Alemania está excluida deliberadamente de la metodología vigente de Mercados Regionales (fijada el 2026-06-30). El contenido siguiente es histórico y no forma parte del conjunto Top 400 vigente.
-- [[atlas-netherlands]] — RETIRADO (2026-08-17) — Países Bajos está excluido deliberadamente de la metodología vigente de Mercados Regionales (fijada el 2026-06-30). El contenido siguiente es histórico y no forma parte del conjunto Top 400 vigente.
-<!-- END AUTO-GENERATED -->
+**Archivados (2026-09-05):** los siete perfiles de ciudades alemanas, Chambéry (Francia) y
+Breda (Países Bajos) — retirados el 2026-08-17 porque esos tres países están deliberadamente
+excluidos de la metodología vigente de Mercados Regionales (fijada el 2026-06-30) — se
+archivaron el 2026-09-05, junto con los tres índices por país y el artículo de marco
+sustituido que compartían con ellos un apartado de Sustituidos y Retirados en esta página.
+Sus slugs redirigen a esta categoría.
 
 ## Véase también
 
