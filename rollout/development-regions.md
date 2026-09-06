@@ -48,7 +48,7 @@ The development-regions model is intended to support expansion beyond Canada as 
 
 ## See also
 
-- [[rollout-index|Development Program]] — the country-by-country rollout programme within which regional deployment decisions are made
+- [[rollout-index|Planned Development Program]] — the country-by-country rollout programme within which regional deployment decisions are made
 - [[about-regional-markets-system|Regional Markets Intelligence System]] — the qualification methodology behind the market-data scope
 - [[atlas-top-400-north-america|Top 400 Regional Markets — North America]]
 - [[atlas-top-400-europe|Top 400 Regional Markets — Europe]]

@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Posición de Mercado"
+title: "Condiciones de Oferta y Capital"
 slug: industry-index
 category: industry
 type: topic

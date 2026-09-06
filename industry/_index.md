@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Market Position"
+title: "Supply and Capital Conditions"
 slug: industry-index
 category: industry
 type: topic

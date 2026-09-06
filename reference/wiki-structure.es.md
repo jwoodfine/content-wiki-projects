@@ -57,7 +57,7 @@ pruebas que un sitio debe superar antes de comprar el terreno.
 los índices por país y por nivel, y una página de perfil para cada mercado
 — una colección en crecimiento, un artículo por lugar.
 
-**Programa de desarrollo** es dónde está previsto construir a
+**Programa de desarrollo previsto** es dónde está previsto construir a
 continuación: el programa país por país que se pretende llevar a cabo en
 Canadá, los Estados Unidos, España y México, y los registros que siguen a
 los sitios candidatos a lo largo de la cartera. Es un plan, no una
@@ -66,7 +66,7 @@ cambiar.
 
 ## El contexto
 
-**Posición de mercado** cubre dos políticas de
+**Condiciones de oferta y capital** cubre dos políticas de
 mercado propias y deliberadas de la empresa: la brecha de capital
 regional que las Soluciones de Tenencia Directa están diseñadas para
 abordar, y la disciplina de construir por debajo de la demanda que

@@ -51,7 +51,7 @@ pass before land is bought.
 country and tier indices, and a profile page for every market — a
 growing collection, one article per place.
 
-**Development Program** is where building is planned next: the intended
+**Planned Development Program** is where building is planned next: the intended
 country-by-country programme across Canada, the United States, Spain,
 and Mexico, and the registers that track candidate sites through the
 pipeline. It is a plan, not a promise: locations, counts, and timing
@@ -59,7 +59,7 @@ are targets and may change.
 
 ## The context
 
-**Market Position** covers two of the company's own
+**Supply and Capital Conditions** covers two of the company's own
 deliberate market policies: the regional capital gap the Direct-Hold
 Solutions are designed to address, and the under-building discipline
 that preserves pricing power.

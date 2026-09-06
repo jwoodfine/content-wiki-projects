@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Development Program"
+title: "Planned Development Program"
 slug: rollout-index
 category: rollout
 type: topic
@@ -17,7 +17,7 @@ editor: pointsav-engineering
 paired_with: _index.es.md
 ---
 
-Development Program covers where building is planned next: the intended, country-by-country programme, and the registers that track candidate sites through the pipeline. Locations, counts, and timing described here are targets and may change as the programme develops.
+Planned Development Program covers where building is planned next: the intended, country-by-country programme, and the registers that track candidate sites through the pipeline. Locations, counts, and timing described here are targets and may change as the programme develops.
 
 <!-- START-HERE-HIGHLIGHT: engine reads this block to render the single "start here" card (reuses the existing cluster-card--start-here component). Do not add more than one. -->
 

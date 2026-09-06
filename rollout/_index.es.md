@@ -1,6 +1,6 @@
 ---
 schema: foundry-doc-v1
-title: "Programa de Desarrollo"
+title: "Programa de Desarrollo Previsto"
 slug: rollout-index
 category: rollout
 type: topic
@@ -17,7 +17,7 @@ editor: pointsav-engineering
 paired_with: rollout/_index.md
 ---
 
-Programa de Desarrollo abarca dónde se planea construir a continuación: el programa previsto, país por país, y los registros que siguen a los sitios candidatos a través del proceso. Las ubicaciones, cifras y plazos descritos aquí son objetivos y pueden cambiar a medida que el programa avanza.
+Programa de Desarrollo Previsto abarca dónde se planea construir a continuación: el programa previsto, país por país, y los registros que siguen a los sitios candidatos a través del proceso. Las ubicaciones, cifras y plazos descritos aquí son objetivos y pueden cambiar a medida que el programa avanza.
 
 <!-- START-HERE-HIGHLIGHT: engine reads this block to render the single "start here" card (reuses the existing cluster-card--start-here component). Do not add more than one. -->
 

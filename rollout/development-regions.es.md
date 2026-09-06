@@ -48,7 +48,7 @@ El modelo de regiones de desarrollo está diseñado para admitir una expansión 
 
 ## Véase también
 
-- [[rollout-index|Programa de Desarrollo]] — el programa de expansión país por país dentro del cual se toman las decisiones de despliegue regional
+- [[rollout-index|Programa de Desarrollo Previsto]] — el programa de expansión país por país dentro del cual se toman las decisiones de despliegue regional
 - [[about-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]] — la metodología de calificación detrás del alcance de datos de mercado
 - [[atlas-top-400-north-america|Top 400 Mercados Regionales — América del Norte]]
 - [[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]]

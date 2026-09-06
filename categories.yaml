@@ -52,7 +52,7 @@ categories:
     order: 4
 
   - id: rollout
-    name: "Development Program"
+    name: "Planned Development Program"
     scope: >-
       Where building is planned next: the intended country-by-country
       programme across Canada, the United States, Spain, and Mexico, its
@@ -63,7 +63,7 @@ categories:
     order: 5
 
   - id: industry
-    name: "Market Position"
+    name: "Supply and Capital Conditions"
     scope: >-
       Woodfine's own structural policies in the Regional Markets: the
       construction and take-out financing capital gap the Direct-Hold

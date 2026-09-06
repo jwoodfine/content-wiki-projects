@@ -34,6 +34,6 @@ El estado del programa de Canadá es planificado. Este artículo no afirma recue
 
 ## Véase también
 
-- [[rollout-index|Programa de Desarrollo]] — el marco país por país en el que se inserta este artículo
+- [[rollout-index|Programa de Desarrollo Previsto]] — el marco país por país en el que se inserta este artículo
 - [[development-regions|Regiones de desarrollo]] — cómo se definen las zonas geográficas y jurisdiccionales
 - [[about-development-site-monitoring-register|Registro de Monitoreo de Sitios de Desarrollo]] — cómo se da seguimiento a los sitios candidatos
