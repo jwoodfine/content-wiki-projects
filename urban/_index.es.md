@@ -6,7 +6,7 @@ category: urban
 type: topic
 content_type: topic
 quality: complete
-short_description: "Las fuerzas a escala urbana detrás de la demanda: commuters, la periferia urbana, la demografía y el estacionamiento, y los arquetipos y estándares de co-ubicación que impulsan."
+short_description: "Las fuerzas a escala urbana detrás de la demanda: las señales demográficas que califican a un Mercado Regional, y los estándares de estacionamiento que debe cumplir cada sitio."
 index_type: thematic
 index_scope: urban
 status: active
@@ -17,22 +17,13 @@ editor: pointsav-engineering
 paired_with: urban/_index.md
 ---
 
-Demanda y Demografía abarca las fuerzas a escala urbana detrás de la demanda: los arquetipos de co-ubicación a los que puede pertenecer un sitio, y los estándares demográficos y de estacionamiento que se derivan de ellos.
+Demanda y Demografía abarca las fuerzas a escala urbana detrás de la demanda: las señales demográficas que distinguen un mercado calificado de una comunidad de servicio local, y los estándares de estacionamiento que se derivan de ellas.
 
 <!-- START-HERE-HIGHLIGHT: engine reads this block to render the single "start here" card (reuses the existing cluster-card--start-here component). Do not add more than one. -->
 
-**Comience aquí:** [[commuter|Commuter (PKS)]]
+**Comience aquí:** [[regional-market-demographic-threshold|El Umbral Demográfico de Mercado Regional]]
 
 <!-- END-START-HERE-HIGHLIGHT -->
-
-## Cinturones de Cercanías y la Periferia Urbana
-
-[[commuter|Commuter (PKS)]] y [[urban-fringe|Periferia Urbana (VWH)]] son dos de los tres arquetipos de co-ubicación de Inteligencia de Ubicación: sitios adyacentes al transporte con estacionamiento significativo, y actividad minorista de gran formato y distribución-industrial en la periferia metropolitana, respectivamente. El tercer arquetipo, Centros Comerciales de Barrio (PRO), se cubre en [[site-selection-index|Selección de Sitios]].
-
-<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: commuter-belts-and-the-urban-fringe -->
-- [[commuter]] — Los clústeres de Viajero Habitual (PKS) identifican sitios comerciales adyacentes al tránsito con aparcamiento significativo — cercanías, intercambiadores de tránsito, aparcamientos de disuasión y comercio de salida de autopista — uno de los tres arquetipos de co-localización de Inteligencia de Localización.
-- [[urban-fringe]] — Los clústeres de Periferia Urbana (VWH) identifican el comercio minorista de gran formato y la actividad de distribución e industrial en la periferia urbana — grandes superficies, mejora del hogar y logística — uno de los tres arquetipos de co-localización de Inteligencia de Localización.
-<!-- END AUTO-GENERATED -->
 
 ## Estándares Demográficos y de Estacionamiento
 

@@ -2,7 +2,7 @@
 schema: foundry-doc-v1
 title: "Viajero Habitual (PKS)"
 slug: commuter
-category: urban
+category: site-selection
 index_group: commuter-belts-and-the-urban-fringe
 type: concept
 content_type: topic
@@ -14,7 +14,7 @@ language_protocol: TRANSLATE-ES
 language: es
 last_edited: 2026-06-20
 editor: pointsav-engineering
-paired_with: urban/commuter.md
+paired_with: site-selection/commuter.md
 short_description: "Los clústeres de Viajero Habitual (PKS) identifican sitios comerciales adyacentes al tránsito con aparcamiento significativo — cercanías, intercambiadores de tránsito, aparcamientos de disuasión y comercio de salida de autopista — uno de los tres arquetipos de co-localización de Inteligencia de Localización."
 cites: []
 ---

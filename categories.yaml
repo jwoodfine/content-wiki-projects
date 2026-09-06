@@ -75,8 +75,9 @@ categories:
   - id: urban
     name: "Demand and Demographics"
     scope: >-
-      The city-scale forces behind demand: commuters, the urban fringe,
-      demographics, and parking.
+      The city-scale forces behind demand: the demographic signals that
+      qualify a Regional Market, and the parking standards every site
+      must meet.
     audience: "Development-market firms; AEC professionals"
     order: 7
 

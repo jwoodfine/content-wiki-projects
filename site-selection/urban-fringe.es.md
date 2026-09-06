@@ -2,7 +2,7 @@
 schema: foundry-doc-v1
 title: "Periferia Urbana (VWH)"
 slug: urban-fringe
-category: urban
+category: site-selection
 index_group: commuter-belts-and-the-urban-fringe
 type: concept
 content_type: topic
@@ -14,7 +14,7 @@ language_protocol: TRANSLATE-ES
 language: es
 last_edited: 2026-08-26
 editor: pointsav-engineering
-paired_with: urban/urban-fringe.md
+paired_with: site-selection/urban-fringe.md
 short_description: "Los clústeres de Periferia Urbana (VWH) identifican el comercio minorista de gran formato y la actividad de distribución e industrial en la periferia urbana — grandes superficies, mejora del hogar y logística — uno de los tres arquetipos de co-localización de Inteligencia de Localización."
 cites: []
 ---

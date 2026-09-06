@@ -73,8 +73,8 @@ abordar, y la disciplina de construir por debajo de la demanda que
 preserva el poder de fijación de precios.
 
 **Demanda y demografía** trata las fuerzas a escala urbana que hay
-detrás de la demanda: los desplazamientos al trabajo, la periferia urbana,
-la demografía y el aparcamiento.
+detrás de la demanda: las señales demográficas que califican a un Mercado
+Regional y los estándares de aparcamiento que debe cumplir cada sitio.
 
 ## Glosario y referencia
 

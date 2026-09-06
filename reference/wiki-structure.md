@@ -65,7 +65,8 @@ Solutions are designed to address, and the under-building discipline
 that preserves pricing power.
 
 **Demand and Demographics** covers the city-scale forces behind demand:
-commuters, the urban fringe, demographics, and parking.
+the demographic signals that qualify a Regional Market, and the parking
+standards every site must meet.
 
 **Maps and Data** documents the spatial data behind the analysis:
 sources, coverage, and methods.

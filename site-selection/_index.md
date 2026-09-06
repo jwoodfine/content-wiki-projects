@@ -55,6 +55,15 @@ Site Selection covers the strategy and investment thesis behind "near Power Cent
 - [[retail-centres]] — Retail Centres (PRO) are neighbourhood commercial centres anchored by grocery, pharmacy, bank, and casual dining — one of three Location Intelligence co-location archetypes, and the base map product for the site-selection dataset.
 <!-- END AUTO-GENERATED -->
 
+## Commuter Belts and the Urban Fringe
+
+[[commuter|Commuter (PKS)]] and [[urban-fringe|Urban Fringe (VWH)]] are two of the three Location Intelligence co-location archetypes: transit-adjacent sites with significant parking, and large-format retail and distribution-industrial activity on the metropolitan periphery, respectively. The third archetype is [[retail-centres|Retail Centres (PRO)]], covered under Anchors and Tenants above.
+
+<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: commuter-belts-and-the-urban-fringe -->
+- [[commuter]] — Commuter (PKS) clusters identify transit-adjacent commercial sites with significant parking — commuter rail, transit hubs, park-and-ride, and highway-exit commercial — one of three Location Intelligence co-location archetypes.
+- [[urban-fringe]] — Urban Fringe (VWH) clusters identify large-format retail and distribution-industrial activity on the urban periphery — big-box hardware, home improvement, and logistics — one of three Location Intelligence co-location archetypes.
+<!-- END AUTO-GENERATED -->
+
 ## Site Scoring and Trade Areas
 
 [[co-location-cluster-formation|Cluster Formation]] and [[cluster-deduplication-threshold|the Deduplication Threshold]] describe how a qualifying anchor becomes a candidate cluster and how overlapping candidates are resolved. [[co-location-ranking-system|The Ranking System]], [[co-location-tiering-scoring|Tiering and Scoring]], and [[catchment-ranking-methodology-v3|the V3 Catchment Ranking Methodology]] set out the deterministic scoring algorithm and its current binary-predicate tier engine. [[geographic-co-location-methodology|Geographic Co-Location Methodology]] covers the continental-scale cluster framework behind the method. [[od-catchment-methodology|Distance-Band Methodology]] and [[trade-area-methodology|Trade-Area Methodology]] define the primary and secondary trade areas — and the honest limits of straight-line distance-band measurement — that scoring runs against.

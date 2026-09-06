@@ -55,6 +55,15 @@ Selección de Sitios abarca la estrategia y la tesis de inversión detrás de "c
 - [[retail-centres]] — Los Centros Comerciales de Barrio (PRO) son centros comerciales de proximidad anclados por supermercado, farmacia, banca y restauración informal — uno de los tres arquetipos de co-localización de Inteligencia de Localización y el producto cartográfico base del conjunto de datos de selección de sitios.
 <!-- END AUTO-GENERATED -->
 
+## Cinturones de Cercanías y la Periferia Urbana
+
+[[commuter|Commuter (PKS)]] y [[urban-fringe|Periferia Urbana (VWH)]] son dos de los tres arquetipos de co-ubicación de Inteligencia de Ubicación: sitios adyacentes al transporte con estacionamiento significativo, y actividad minorista de gran formato y distribución-industrial en la periferia metropolitana, respectivamente. El tercer arquetipo es [[retail-centres|Centros Comerciales de Barrio (PRO)]], cubierto en Anclas e Inquilinos más arriba.
+
+<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: commuter-belts-and-the-urban-fringe -->
+- [[commuter]] — Los clústeres de Viajero Habitual (PKS) identifican sitios comerciales adyacentes al tránsito con aparcamiento significativo — cercanías, intercambiadores de tránsito, aparcamientos de disuasión y comercio de salida de autopista — uno de los tres arquetipos de co-localización de Inteligencia de Localización.
+- [[urban-fringe]] — Los clústeres de Periferia Urbana (VWH) identifican el comercio minorista de gran formato y la actividad de distribución e industrial en la periferia urbana — grandes superficies, mejora del hogar y logística — uno de los tres arquetipos de co-localización de Inteligencia de Localización.
+<!-- END AUTO-GENERATED -->
+
 ## Puntuación de Sitios y Áreas de Influencia
 
 [[co-location-cluster-formation|La Formación de Agrupaciones]] y [[cluster-deduplication-threshold|el Umbral de Deduplicación]] describen cómo un ancla calificada se convierte en una agrupación candidata y cómo se resuelven las candidatas superpuestas. [[co-location-ranking-system|El Sistema de Clasificación]], [[co-location-tiering-scoring|Niveles y Puntuación]] y [[catchment-ranking-methodology-v3|la Metodología de Clasificación de Captación V3]] exponen el algoritmo de puntuación determinista y su motor actual de niveles por predicados binarios. [[geographic-co-location-methodology|La Metodología de Co-Ubicación Geográfica]] cubre el marco de análisis de clústeres a escala continental detrás del método. [[od-catchment-methodology|La Metodología de Bandas de Distancia]] y [[trade-area-methodology|la Metodología de Área de Atracción]] definen las áreas de influencia primaria y secundaria — y los límites honestos de la medición por distancia en línea recta — contra las que se puntúa.

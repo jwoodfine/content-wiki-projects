@@ -6,7 +6,7 @@ category: urban
 type: topic
 content_type: topic
 quality: complete
-short_description: "The city-scale forces behind demand: commuters, the urban fringe, demographics, and parking, and the co-location archetypes and standards they drive."
+short_description: "The city-scale forces behind demand: the demographic signals that qualify a Regional Market, and the parking standards every site must meet."
 index_type: thematic
 index_scope: urban
 status: active
@@ -17,22 +17,13 @@ editor: pointsav-engineering
 paired_with: _index.es.md
 ---
 
-Demand and Demographics covers the city-scale forces behind demand: the co-location archetypes a site can belong to, and the demographic and parking standards that follow from them.
+Demand and Demographics covers the city-scale forces behind demand: the demographic signals that separate a qualifying market from a local-serving community, and the parking standards that follow from them.
 
 <!-- START-HERE-HIGHLIGHT: engine reads this block to render the single "start here" card (reuses the existing cluster-card--start-here component). Do not add more than one. -->
 
-**Start here:** [[commuter|Commuter (PKS)]]
+**Start here:** [[regional-market-demographic-threshold|The Regional Market Demographic Threshold]]
 
 <!-- END-START-HERE-HIGHLIGHT -->
-
-## Commuter Belts and the Urban Fringe
-
-[[commuter|Commuter (PKS)]] and [[urban-fringe|Urban Fringe (VWH)]] are two of the three Location Intelligence co-location archetypes: transit-adjacent sites with significant parking, and large-format retail and distribution-industrial activity on the metropolitan periphery, respectively. The third archetype, Retail Centres (PRO), is covered in [[site-selection-index|Site Selection]].
-
-<!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: commuter-belts-and-the-urban-fringe -->
-- [[commuter]] — Commuter (PKS) clusters identify transit-adjacent commercial sites with significant parking — commuter rail, transit hubs, park-and-ride, and highway-exit commercial — one of three Location Intelligence co-location archetypes.
-- [[urban-fringe]] — Urban Fringe (VWH) clusters identify large-format retail and distribution-industrial activity on the urban periphery — big-box hardware, home improvement, and logistics — one of three Location Intelligence co-location archetypes.
-<!-- END AUTO-GENERATED -->
 
 ## Demographic and Parking Standards
 
