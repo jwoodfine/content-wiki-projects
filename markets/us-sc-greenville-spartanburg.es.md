@@ -38,8 +38,8 @@ Reedy (2004) y el puente peatonal colgante Liberty Bridge (2004).
 Spartanburg, a unas 30 millas al noreste de Greenville, tenía 38.732 habitantes en el censo
 de 2020 en 20,37 millas cuadradas, situada aproximadamente a 80 millas al oeste de Charlotte.
 La ciudad se beneficia sustancialmente de la planta de fabricación de BMW en la cercana
-localidad de Greer — la única planta de fabricación completa de la empresa en América del
-Norte —, que empleaba a unas 8.800 personas en febrero de 2017. La salud domina el empleo
+localidad de Greer — la única planta de fabricación completa de la empresa en Estados Unidos y
+la mayor del mundo por volumen —, que empleaba a unas 8.800 personas en febrero de 2017. La salud domina el empleo
 local, encabezada por Spartanburg Regional (9.648 puestos), junto con el gobierno del
 condado, el distrito escolar, Wofford College y la sede corporativa de Denny's. Al igual que
 Greenville, la economía de Spartanburg se centraba históricamente en la manufactura textil

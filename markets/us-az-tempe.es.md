@@ -27,7 +27,7 @@ denso y urbanizado que el de un Mercado Regional suburbano típico.
 
 Según Wikipedia (consultado el 10 de julio de 2026), Tempe registró una población de 180.587
 habitantes en el censo de 2020 en un área de 39,94 millas cuadradas, ubicada
-aproximadamente a 2 millas al noroeste del Aeropuerto Internacional Sky Harbor de Phoenix y
+aproximadamente a 2 millas al sureste del Aeropuerto Internacional Sky Harbor de Phoenix y
 limítrofe con Mesa al este y Phoenix al oeste. La Universidad Estatal de Arizona es el
 principal empleador con 8.010 empleados, seguida de State Farm Insurance (6.550) y Freedom
 Financial Network (2.300); la ciudad también alberga las sedes corporativas de DriveTime,

@@ -26,7 +26,7 @@ en cada mercado pero sobre la que no califica.
 
 Según Wikipedia (consultado el 10 de julio de 2026), Burgos tenía 176.551 habitantes a fecha
 de 2024 en 107,06 kilómetros cuadrados (área metropolitana aproximadamente 200.000), situada
-244 km al sur de Madrid, en la región de Castilla y León, a una altitud de 865 metros. Burgos
+244 km al norte de Madrid, en la región de Castilla y León, a una altitud de 865 metros. Burgos
 se encuentra entre las ciudades más prósperas de España, con un PIB superior a la media
 nacional; la economía combina manufactura, agricultura y servicios. Entre los principales
 empleadores se encuentran Grupo Antolin (componentes automotrices) y las operaciones

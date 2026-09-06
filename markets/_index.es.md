@@ -48,7 +48,7 @@ Mercados Regionales abarca dónde miramos. Esta categoría reúne el conjunto de
 
 Dos índices de co-ubicación por país siguen siendo páginas independientes — [[atlas-co-location-index-mexico|México]] y [[atlas-co-location-index-nordics|los Países Nórdicos]]. Los otros cinco se fusionaron en sus páginas de país el 2026-09-05 y se leen allí: [[atlas-united-states|Estados Unidos]], [[atlas-canada|Canadá]], [[atlas-spain|España]], [[atlas-italy|Italia]] y [[atlas-poland|Polonia]], cada uno bajo una sección Red de anclas de co-ubicación. Cada índice clasifica la convergencia de anclas nombradas nodo por nodo dentro de su propio país y aporta los datos de clúster subyacentes sobre los que se construyen los conjuntos continentales.
 
-*Nota (06-09-2026):* estos dos índices se mantenían independientes porque ninguno tenía una página de mercados de país junto a la que situarse. Esa razón ya no se sostiene — [[atlas-mexico|México]], [[atlas-sweden|Suecia]], [[atlas-denmark|Dinamarca]], [[atlas-finland|Finlandia]] y [[atlas-norway|Noruega]] cuentan ya con página de país. Si conviene fusionarlos como se hizo con los otros cinco es una decisión de contenido aparte, no tomada aquí.
+Ambos cuentan ya con páginas de país a su lado — [[atlas-mexico|México]] y, para los nórdicos, [[atlas-sweden|Suecia]], [[atlas-denmark|Dinamarca]], [[atlas-finland|Finlandia]] y [[atlas-norway|Noruega]]. Si se fusionan como se hizo con los otros cinco sigue abierto.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: co-location-indices-by-country -->
 - [[atlas-co-location-index-mexico]] — Índice de los principales nodos de convergencia comercial en México, identificando sitios donde las anclas Walmart Supercentre se agrupan con Home Depot, Costco e infraestructura cívica.
@@ -59,7 +59,7 @@ Dos índices de co-ubicación por país siguen siendo páginas independientes �
 
 Dieciocho índices de Mercado Regional por país filtran las tablas continentales del Top 400 hasta las entradas de un solo país: [[atlas-canada|Canadá]], [[atlas-united-states|Estados Unidos]], [[atlas-mexico|México]], [[atlas-united-kingdom|Reino Unido]], [[atlas-spain|España]], [[atlas-italy|Italia]], [[atlas-poland|Polonia]], [[atlas-sweden|Suecia]], [[atlas-czechia|Chequia]], [[atlas-finland|Finlandia]], [[atlas-hungary|Hungría]], [[atlas-slovakia|Eslovaquia]], [[atlas-romania|Rumanía]], [[atlas-bulgaria|Bulgaria]], [[atlas-denmark|Dinamarca]], [[atlas-greece|Grecia]], [[atlas-croatia|Croacia]] y [[atlas-norway|Noruega]].
 
-El conjunto de datos confirmado 2026-08-07 abarca dieciocho países y, desde el 06-09-2026, todos tienen página propia. Nueve se añadieron ese día — Suecia, Chequia, Finlandia, Hungría, Eslovaquia, Rumanía, Bulgaria y Dinamarca en Europa, y México en América del Norte — y las seis páginas que aún conservaban tablas anteriores a la reconstrucción (Canadá, Estados Unidos, Reino Unido, España, Italia y Polonia) se reconstruyeron frente al conjunto de datos confirmado en el mismo pase. Las dieciocho están ahora actualizadas.
+El conjunto de datos confirmado 2026-08-07 abarca dieciocho países y todos tienen página propia. La tabla de cada página se construye a partir de ese conjunto de datos, de modo que los recuentos de esta página, de las páginas por país y de las dos tablas continentales concuerdan entre sí.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: top-400-markets-by-country -->
 - [[atlas-canada]] — Índice de los 56 Mercados Regionales de Canadá que cumplen las puertas de composición de co-ubicación bajo el conjunto de datos del 07-08-2026.
@@ -101,33 +101,22 @@ pueda leerse por regiones a medida que crece la cobertura.
 Existen hoy 57 páginas de perfil de mercado individual (pares EN+ES), cada una con contexto
 de población y economía procedente de Wikipedia.
 
-*Corrección (2026-09-05):* esta cifra decía 66 antes de que los nueve perfiles alemanes,
-francés y neerlandés retirados el 2026-08-17 se archivaran el 2026-09-05; 57 es el total
-vigente. Una corrección anterior del mismo día sustituyó una cifra desactualizada de 41. El
-reparto verificadas / solo-referencia de abajo sigue cubriendo únicamente los 32 perfiles
-para los que se escribió originalmente — los conjuntos de Grecia (7), Croacia (9) y Noruega
-(9) añadidos desde entonces no se han incorporado. Señalado para una futura revisión, no
-resuelto aquí.
+**Las dos listas de abajo están en proceso de conciliación y no deben leerse como vigentes.**
+Se elaboraron sobre 32 de los 57 perfiles y no se han rehecho desde que se adoptó el conjunto de
+datos confirmado 2026-08-07: cinco entradas listadas como verificadas ya no figuran en ese
+conjunto, seis listadas como solo-referencia sí figuran ahora, y los perfiles griegos, croatas y
+noruegos añadidos desde entonces no aparecen en ninguna de las dos. **Las tablas por país son la
+vista autorizada de lo que está publicado**; cada página de perfil declara su propia posición.
+Las listas se conservan porque la distinción que trazan es editorialmente real, pero su
+ordenación se está rehaciendo.
 
-*Corrección (06-09-2026):* al reconstruir las tablas por país frente al conjunto de datos
-confirmado, el reparto de abajo resultó estar desactualizado en cuanto a pertenencia, no solo en
-cobertura. De las 16 entradas listadas como «verificadas del TOP400», cinco ya no figuran en el
-conjunto confirmado — Torrance (CA), Provo (UT), Kenner (LA), Eagan (MN) y Northampton. Y seis
-listadas abajo como «solo referencia» sí figuran ahora — Lethbridge, Kelowna, Barrie–Innisfil,
-Regina, Burgos y Fort Collins. Reordenar las dos listas exige actualizar también lo que cada
-página de perfil afirma sobre sí misma, de modo que queda señalado aquí y no resuelto en este
-pase.
+**Entradas verificadas del TOP400:** no se publica posición ni puntuación para ninguna
+entrada; el orden de la lista es alfabético por slug de perfil, no ordinal.
 
-**Entradas verificadas del TOP400 (16):** composición de clústeres de co-ubicación vigente
-según el conjunto de datos del 2026-08-07. No se publica posición ni puntuación para ninguna
-entrada; el orden de la lista abajo es alfabético por slug de perfil, no ordinal.
-
-**Nota:** [[us-sc-greenville-spartanburg|Spartanburg, SC]] aparece en la tabla del Top 400 de América del
-Norte enlazada desde este perfil, pero la propia página de perfil describe Spartanburg como
-un punto de referencia metropolitano en lugar de una entrada suburbana calificada. Se trata
-de una inconsistencia preexistente en los datos subyacentes, no resuelta por esta edición —
-señalada para una futura revisión de conciliación de datos en lugar de corregida
-unilateralmente aquí.
+[[us-sc-greenville-spartanburg|Spartanburg, SC]] es una inconsistencia conocida de los datos de
+origen: aparece en la tabla del Top 400 de América del Norte mientras que la página de perfil
+describe Spartanburg como punto de referencia metropolitano y no como entrada calificada. La
+cuestión corresponde al conjunto de datos, no a esta página.
 
 | Mercado | Continente |
 |---|---|
@@ -148,10 +137,10 @@ unilateralmente aquí.
 | [[pl-bielsko-biala|Bielsko-Biała]] | Europa |
 | [[gb-eng-chester|Cheshire West and Chester]] | Europa |
 
-**Perfiles de referencia únicamente (16)** — lugares reales que actualmente no forman parte
-del conjunto TOP400: o bien puntos de referencia metropolitanos para otras entradas, o
-mercados independientes fuera de la banda suburbana de 15–80 km. Cada página de perfil lo
-declara explícitamente en lugar de presentar un mercado fuera del conjunto como si
+**Perfiles de referencia únicamente** — lugares reales registrados como no pertenecientes
+actualmente al conjunto TOP400: o bien puntos de referencia metropolitanos frente a los que se
+miden otras entradas, o mercados que no calificaron por composición de anclas. Cada página de
+perfil declara su propia posición en lugar de presentar un mercado fuera del conjunto como si
 estuviera incluido.
 
 América del Norte: [[ca-ab-lethbridge|Lethbridge]], [[ca-bc-kelowna|Kelowna]], [[ca-nb-moncton|Moncton]],
@@ -161,11 +150,9 @@ América del Norte: [[ca-ab-lethbridge|Lethbridge]], [[ca-bc-kelowna|Kelowna]], 
 Europa: [[es-ar-zaragoza-secondary|Zaragoza]], [[es-cl-burgos|Burgos]], [[es-cl-valladolid|Valladolid]],
 [[es-nc-pamplona|Pamplona]], [[es-pv-vitoria-gasteiz|Vitoria-Gasteiz]], [[gb-sct-inverness|Inverness]].
 
-**Archivados (2026-09-05):** los siete perfiles de ciudades alemanas, Chambéry (Francia) y
-Breda (Países Bajos) — retirados el 2026-08-17 porque esos tres países están deliberadamente
-excluidos de la metodología vigente de Mercados Regionales (fijada el 2026-06-30) — se
-archivaron el 2026-09-05, junto con los tres índices por país y el artículo de marco
-sustituido que compartían con ellos un apartado de Sustituidos y Retirados en esta página.
+**Archivados:** los siete perfiles de ciudades alemanas, Chambéry (Francia) y Breda (Países
+Bajos), junto con sus tres índices por país. Alemania, Francia y los Países Bajos quedan fuera de
+la metodología vigente de Mercados Regionales, de modo que esos mercados ya no están cubiertos.
 Sus slugs redirigen a esta categoría.
 
 ## Véase también

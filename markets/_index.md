@@ -48,7 +48,7 @@ Regional Markets covers where we look. This category holds the covered market se
 
 Two country-level co-location indices remain as standalone pages — [[atlas-co-location-index-mexico|Mexico]] and [[atlas-co-location-index-nordics|the Nordics]]. The other five were merged into their country pages on 2026-09-05 and are read there: [[atlas-united-states|United States]], [[atlas-canada|Canada]], [[atlas-spain|Spain]], [[atlas-italy|Italy]], and [[atlas-poland|Poland]], each under a Co-location anchor network section. Every index ranks named-anchor convergence node by node within its own country and supplies the underlying cluster data the continental sets are built from.
 
-*Note (2026-09-06):* these two were previously kept standalone because neither had a country market page to sit beside. That rationale no longer holds — [[atlas-mexico|Mexico]], [[atlas-sweden|Sweden]], [[atlas-denmark|Denmark]], [[atlas-finland|Finland]], and [[atlas-norway|Norway]] all have country pages now. Whether to merge these two the way the other five were merged is a separate content decision, not taken here.
+Both now have country pages alongside them — [[atlas-mexico|Mexico]], and for the Nordics [[atlas-sweden|Sweden]], [[atlas-denmark|Denmark]], [[atlas-finland|Finland]], and [[atlas-norway|Norway]]. Whether they are folded in the way the other five were remains open.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: co-location-indices-by-country -->
 - [[atlas-co-location-index-mexico]] — Index of commercial convergence nodes in Mexico, identifying sites where Walmart Supercentre anchors cluster with Home Depot, Costco, and civic infrastructure.
@@ -59,7 +59,7 @@ Two country-level co-location indices remain as standalone pages — [[atlas-co-
 
 Eighteen country-level Regional Market indices filter the continental Top 400 tables down to a single country's entries: [[atlas-canada|Canada]], [[atlas-united-states|United States]], [[atlas-mexico|Mexico]], [[atlas-united-kingdom|United Kingdom]], [[atlas-spain|Spain]], [[atlas-italy|Italy]], [[atlas-poland|Poland]], [[atlas-sweden|Sweden]], [[atlas-czechia|Czechia]], [[atlas-finland|Finland]], [[atlas-hungary|Hungary]], [[atlas-slovakia|Slovakia]], [[atlas-romania|Romania]], [[atlas-bulgaria|Bulgaria]], [[atlas-denmark|Denmark]], [[atlas-greece|Greece]], [[atlas-croatia|Croatia]], and [[atlas-norway|Norway]].
 
-The confirmed 2026-08-07 dataset covers eighteen countries, and as of 2026-09-06 every one has a country page. Nine were added that day — Sweden, Czechia, Finland, Hungary, Slovakia, Romania, Bulgaria, and Denmark in Europe, and Mexico in North America — and the six pages that still carried pre-rebuild tables (Canada, the United States, the United Kingdom, Spain, Italy, and Poland) were rebuilt against the confirmed dataset in the same pass. All eighteen are now current.
+The confirmed 2026-08-07 dataset covers eighteen countries, and every one has a country page. Each page's table is built from that dataset, so the counts here, on the country pages, and on the two continental tables reconcile.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: top-400-markets-by-country -->
 - [[atlas-canada]] — Index of Canada's 56 Regional Markets meeting the co-location composition gates under the 2026-08-07 dataset.
@@ -95,23 +95,17 @@ read a region at a time as coverage grows.
 57 individual market profile pages exist today (EN+ES pairs), each with population and
 economic context sourced from Wikipedia.
 
-*Correction (2026-09-05):* this count read 66 before the nine German, French, and Dutch
-profiles retired 2026-08-17 were archived on 2026-09-05; 57 is the current live total. An
-earlier correction the same day replaced a stale 41. The verified / reference-only split
-below still covers only the 32 profiles it was originally written against — the Greek (7),
-Croatian (9), and Norwegian (9) sets added since have not been folded into it. Flagged for a
-future pass, not resolved here.
+**The two lists below are under reconciliation and should not be read as current.** They were
+drawn up against 32 of the 57 profiles and have not been rebuilt since the confirmed 2026-08-07
+dataset was adopted: five entries listed as verified are no longer in that dataset, six listed as
+reference-only now are, and the Greek, Croatian, and Norwegian profiles added since appear in
+neither list. **The country tables are the authoritative view of what is published**; each
+profile page states its own position. The lists are kept here because the distinction they draw
+is a real editorial one, but the sorting is being redone.
 
-*Correction (2026-09-06):* rebuilding the country tables against the confirmed dataset showed the
-split below is stale on membership, not just on coverage. Of the 16 entries listed as verified
-TOP400, five are no longer in the confirmed set — Torrance, CA; Provo, UT; Kenner, LA; Eagan, MN;
-and Northampton. Six listed below as reference-only are now in it — Lethbridge, Kelowna,
-Barrie–Innisfil, Regina, Burgos, and Fort Collins. Re-sorting the two lists also means updating
-what each profile page says about itself, so it is flagged here rather than resolved in this pass.
+**Verified TOP400 entries:** no rank or score is published for any entry; list order is alphabetical by profile slug, not ordinal.
 
-**Verified TOP400 entries (16):** co-location cluster composition current as of the 2026-08-07 dataset. No rank or score is published for any entry; list order below is alphabetical by profile slug, not ordinal.
-
-**Note:** [[us-sc-greenville-spartanburg|Spartanburg, SC]] appears in the North American Top 400 table linked from this profile, but the profile page itself describes Spartanburg as a metro-core reference point rather than a ranked suburban entry. This is a pre-existing inconsistency in the underlying data, not resolved by this edit — flagged for a future data-reconciliation pass rather than corrected unilaterally here.
+[[us-sc-greenville-spartanburg|Spartanburg, SC]] is a known inconsistency in the source data: it appears in the North American Top 400 table while the profile page describes Spartanburg as a metropolitan reference point rather than a ranked entry. The question sits with the dataset, not this page.
 
 | Market | Continent |
 |---|---|
@@ -132,9 +126,9 @@ what each profile page says about itself, so it is flagged here rather than reso
 | [[pl-bielsko-biala|Bielsko-Biała]] | Europe |
 | [[gb-eng-chester|Cheshire West and Chester]] | Europe |
 
-**Reference-only profiles (16)** — real places that are not currently part of the TOP400 set: either
-metro-core reference points for other entries, or standalone markets outside the
-15–80 km suburban band. Each profile page says so explicitly rather than presenting a
+**Reference-only profiles** — real places recorded as not currently part of the TOP400 set: either
+metropolitan reference points that other entries are measured against, or markets that did not
+qualify on anchor composition. Each profile page states its own position rather than presenting a
 market outside the set as if it were included.
 
 North America: [[ca-ab-lethbridge|Lethbridge]], [[ca-bc-kelowna|Kelowna]], [[ca-nb-moncton|Moncton]],
@@ -144,12 +138,9 @@ North America: [[ca-ab-lethbridge|Lethbridge]], [[ca-bc-kelowna|Kelowna]], [[ca-
 Europe: [[es-ar-zaragoza-secondary|Zaragoza]], [[es-cl-burgos|Burgos]], [[es-cl-valladolid|Valladolid]],
 [[es-nc-pamplona|Pamplona]], [[es-pv-vitoria-gasteiz|Vitoria-Gasteiz]], [[gb-sct-inverness|Inverness]].
 
-**Archived (2026-09-05):** the seven German city profiles, Chambéry (France), and Breda
-(Netherlands) — retired 2026-08-17 because those three countries are deliberately excluded
-from the current Regional Markets methodology (locked 2026-06-30) — were archived on
-2026-09-05, together with the three country index pages and the superseded framework article
-that had shared a Superseded and Retired shelf on this page. Their slugs redirect to this
-category.
+**Archived:** the seven German city profiles, Chambéry (France), and Breda (Netherlands), together
+with their three country index pages. Germany, France, and the Netherlands are outside the current
+Regional Markets methodology, so these markets are no longer covered. Their slugs redirect here.
 
 ## See also
 
