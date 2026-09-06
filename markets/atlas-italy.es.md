@@ -54,8 +54,32 @@ Asti (suburbio de Turín) es el único mercado italiano de Nivel 1 con ancla cí
 | Villesse | Trieste | — | 1 | 0 | 0 | — |
 | Casamassima | Bari | — | 1 | 0 | 0 | — |
 
+## Red de anclas de co-ubicación
+
+El Índice de Co-ubicación de Italia evalúa los nodos comerciales de la península italiana según la [[co-location-methodology]] y el [[co-location-ranking-system|sistema de clasificación determinista]]. Los sitios se evalúan donde IKEA opera como [[co-location-anchors|ancla]] Objetivo Primario, frente a operadores secundarios (Leroy Merlin, Makro) e infraestructura cívica terciaria dentro de los radios de captación definidos. Italia es uno de los cuatro mercados cubiertos en el [[co-location-tier-system|sistema de niveles de co-ubicación]].
+
+### Red de Anclas
+
+IKEA opera aproximadamente 22 tiendas en Italia. Las concentraciones más importantes se encuentran en el área de Milán (Corsico, Carugate, Cinisello Balsamo), Roma (Porta di Roma), Turín (Collegno), Florencia (Sesto Fiorentino), Génova, Bolonia y Nápoles. Anclas secundarias presentes en los mismos mercados metropolitanos: Leroy Merlin (~40 ubicaciones en Italia) y Makro (~50 locales de Metro Cash & Carry). Las 67 universidades estatales de Italia y los principales sistemas hospitalarios (Gemelli, Niguarda, Policlinico di Milano, Careggi, y los sistemas Policlinico de Turín y Florencia) proporcionan infraestructura terciaria en las mismas zonas metropolitanas.
+
+### Patrón de Convergencia Típico
+
+Los nodos italianos de nivel Distrital se concentran en zonas comerciales periurbanas en torno a las cinco grandes áreas metropolitanas. El nodo calificado típico combina una tienda IKEA con un Leroy Merlin o Makro dentro del radio de captación secundario, con acceso hospitalario dentro del anillo cívico; un campus universitario suele estar presente cerca, pero no constituye por sí mismo una condición de compuerta. Esta agrupación refleja el patrón de desarrollo comercial italiano: el comercio de gran formato se ha concentrado en los corredores de circunvalación de los centros de población, co-ubicado con infraestructura cívica que precedió al desarrollo minorista.
+
+### Distrital — nodos de grado institucional
+
+Un nodo de nivel Distrital combina el ancla principal IKEA con un ancla secundaria de ferretería o almacén — Leroy Merlin y Makro son los operadores que con más frecuencia satisfacen esta compuerta —, población de captación en el cuartil superior, y acceso hospitalario dentro del anillo cívico. Estos sitios representan los entornos comerciales más consistentemente validados que identifica actualmente el conjunto de datos de Italia.
+
+*El índice de sitios para Italia, clasificado bajo el sistema actual de niveles, está disponible en [gis.woodfinegroup.com](https://gis.woodfinegroup.com).*
+
+### Procedencia
+- **Verificación:** Datos de la red de anclas obtenidos de registros de OpenStreetMap a mayo de 2026.
+
 ## Véase también
 
 - [[atlas-top-400-europe]] — el conjunto europeo completo que esta página filtra
 - [[about-regional-markets-system]] — la metodología de co-localización y los criterios de selección de mercado
 - [[co-location-intelligence-overview]] — cómo este índice alimenta las decisiones de selección de sitios
+- [[co-location-tier-system]]
+- [[co-location-methodology]]
+- [[co-location-ranking-system]]

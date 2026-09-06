@@ -46,15 +46,10 @@ Regional Markets covers where we look. This category holds the covered market se
 
 ## Co-Location Indices by Country
 
-Seven country-level co-location indices supply the underlying cluster data the continental rankings are built from, each ranking named-anchor convergence node by node within its own country: [[atlas-co-location-index-us|United States]], [[atlas-co-location-index-canada|Canada]], [[atlas-co-location-index-mexico|Mexico]], [[atlas-co-location-index-spain|Spain]], [[atlas-co-location-index-italy|Italy]], [[atlas-co-location-index-poland|Poland]], and [[atlas-co-location-index-nordics|the Nordics]].
+Two country-level co-location indices remain as standalone pages — [[atlas-co-location-index-mexico|Mexico]] and [[atlas-co-location-index-nordics|the Nordics]] — because neither has a country market page to sit beside. The other five were merged into their country pages on 2026-09-05 and are read there: [[atlas-united-states|United States]], [[atlas-canada|Canada]], [[atlas-spain|Spain]], [[atlas-italy|Italy]], and [[atlas-poland|Poland]], each under a Co-location anchor network section. Every index ranks named-anchor convergence node by node within its own country and supplies the underlying cluster data the continental sets are built from.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: co-location-indices-by-country -->
-- [[atlas-co-location-index-us]] — Index of co-location nodes in the United States, evaluated by the named-anchor methodology across Walmart Supercentre anchor locations.
-- [[atlas-co-location-index-canada]] — Index of high-value co-location nodes in Canada, evaluating Walmart Supercentre anchor sites by proximity to Costco, Home Depot, and civic infrastructure.
 - [[atlas-co-location-index-mexico]] — Index of commercial convergence nodes in Mexico, identifying sites where Walmart Supercentre anchors cluster with Home Depot, Costco, and civic infrastructure.
-- [[atlas-co-location-index-spain]] — Index of co-location nodes across Spain, anchored by IKEA with secondary validation from Leroy Merlin and Makro within the Iberian Peninsula.
-- [[atlas-co-location-index-italy]] — Index of institutional-grade co-location nodes in Italy, centered on IKEA anchor locations with secondary convergence from Leroy Merlin and Makro.
-- [[atlas-co-location-index-poland]] — Index of high-growth commercial convergence nodes in Poland, where IKEA anchors cluster with Makro, Leroy Merlin, Auchan, and civic infrastructure.
 - [[atlas-co-location-index-nordics]] — Index of commercial convergence sites across Sweden, Norway, Denmark, Finland, and Iceland, anchored by IKEA with Nordic secondary operators.
 <!-- END AUTO-GENERATED -->
 

@@ -473,8 +473,19 @@ sin comentario.
 | Auburn Hills, MI | Detroit | — | 1 | 0 | 0 | — |
 | Eastvale, CA | Riverside | — | 1 | 0 | 0 | — |
 
+## Red de anclas de co-ubicación
+
+El Índice de Co-ubicación de los Estados Unidos evalúa los nodos comerciales del mercado estadounidense según la [[co-location-methodology]] y operacionalizado por el [[co-location-ranking-system|sistema de clasificación determinista]]. Los sitios se evalúan donde Walmart Supercentre opera como [[co-location-anchors|ancla]] Objetivo Primario, frente a operadores secundarios (Home Depot, Costco) e infraestructura cívica terciaria dentro de los radios de captación definidos. Estados Unidos es uno de los tres mercados cubiertos en el [[co-location-tier-system|sistema de niveles de co-ubicación]].
+
+### Regional — el nivel más alto
+
+Un sitio de nivel Regional supera las mismas compuertas predicativas que cualquier clúster Regional en toda la plataforma: un ancla de formato hipermercado (Walmart Supercentre) combinada con un ancla de almacén o de estilo de vida, población de captación en el decil superior nacional, y un hospital clasificado como regional dentro del anillo cívico. Home Depot y Costco son las anclas secundarias que con más frecuencia satisfacen la compuerta de composición junto a Walmart Supercentre. Regional es el nivel más escaso del conjunto de datos estadounidense; los recuentos actuales se publican en vivo en la plataforma GIS en lugar de repetirse aquí.
+
 ## Véase también
 
 - [[atlas-top-400-north-america]] — el conjunto norteamericano completo que esta página filtra
 - [[about-regional-markets-system]] — la metodología de co-ubicación y los criterios de selección de
   mercados
+- [[co-location-tier-system]]
+- [[co-location-methodology]]
+- [[co-location-ranking-system]]

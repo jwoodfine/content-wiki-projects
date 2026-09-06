@@ -46,15 +46,10 @@ Mercados Regionales abarca dónde miramos. Esta categoría reúne el conjunto de
 
 ## Índices de Co-ubicación por País
 
-Siete índices de co-ubicación por país aportan los datos de clúster subyacentes sobre los que se construyen las clasificaciones continentales, cada uno clasificando la convergencia de anclas nombradas nodo por nodo dentro de su propio país: [[atlas-co-location-index-us|Estados Unidos]], [[atlas-co-location-index-canada|Canadá]], [[atlas-co-location-index-mexico|México]], [[atlas-co-location-index-spain|España]], [[atlas-co-location-index-italy|Italia]], [[atlas-co-location-index-poland|Polonia]] y [[atlas-co-location-index-nordics|los Países Nórdicos]].
+Dos índices de co-ubicación por país siguen siendo páginas independientes — [[atlas-co-location-index-mexico|México]] y [[atlas-co-location-index-nordics|los Países Nórdicos]] — porque ninguno tiene una página de mercados de país junto a la que situarse. Los otros cinco se fusionaron en sus páginas de país el 2026-09-05 y se leen allí: [[atlas-united-states|Estados Unidos]], [[atlas-canada|Canadá]], [[atlas-spain|España]], [[atlas-italy|Italia]] y [[atlas-poland|Polonia]], cada uno bajo una sección Red de anclas de co-ubicación. Cada índice clasifica la convergencia de anclas nombradas nodo por nodo dentro de su propio país y aporta los datos de clúster subyacentes sobre los que se construyen los conjuntos continentales.
 
 <!-- AUTO-GENERATED MEMBERSHIP: DO NOT EDIT BELOW — regenerate from index_group: co-location-indices-by-country -->
-- [[atlas-co-location-index-us]] — Índice de los principales nodos de co-ubicación en Estados Unidos, evaluado por la metodología de ancla nombrada en ubicaciones ancla Walmart Supercentre.
-- [[atlas-co-location-index-canada]] — Índice de nodos de co-ubicación de alto valor en Canadá, evaluando sitios ancla Walmart Supercentre por proximidad a Costco, Home Depot e infraestructura cívica.
 - [[atlas-co-location-index-mexico]] — Índice de los principales nodos de convergencia comercial en México, identificando sitios donde las anclas Walmart Supercentre se agrupan con Home Depot, Costco e infraestructura cívica.
-- [[atlas-co-location-index-spain]] — Índice de nodos de co-ubicación en España, anclados por IKEA con validación secundaria de Leroy Merlin y Makro en la Península Ibérica.
-- [[atlas-co-location-index-italy]] — Índice de nodos de co-ubicación de grado institucional en Italia, centrado en ubicaciones ancla IKEA con convergencia secundaria de Leroy Merlin y Makro.
-- [[atlas-co-location-index-poland]] — Índice de nodos de convergencia comercial de alto crecimiento en Polonia, donde las anclas IKEA se agrupan con Makro, Leroy Merlin, Auchan e infraestructura cívica.
 - [[atlas-co-location-index-nordics]] — Índice de sitios de convergencia comercial en Suecia, Noruega, Dinamarca, Finlandia e Islandia, anclados por IKEA con operadores secundarios nórdicos.
 <!-- END AUTO-GENERATED -->
 

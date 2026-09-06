@@ -472,7 +472,18 @@ own correction, not silently dropped or silently kept without comment.
 | Auburn Hills, MI | Detroit | — | 1 | 0 | 0 | — |
 | Eastvale, CA | Riverside | — | 1 | 0 | 0 | — |
 
+## Co-location anchor network
+
+The United States Co-location Index evaluates 3,500+ Walmart Supercentre [[co-location-anchors|anchor]] locations for the independent convergence of secondary commercial operators (Home Depot, Costco) and tertiary civic infrastructure within defined catchment radii, following the [[co-location-methodology]] and operationalised by the [[co-location-ranking-system|deterministic ranking system]]. The United States is one of three markets covered in the [[co-location-tier-system|co-location tier system]]. The index identifies the highest-tier nodes — sites where multiple independent capital commitments by retailers and civic institutions confirm the trade area's commercial strength. The full index is available at [gis.woodfinegroup.com](https://gis.woodfinegroup.com).
+
+### Regional — the highest tier
+
+A Regional-tier site clears the same predicate gates as any Regional cluster platform-wide: a hypermarket-format anchor (Walmart Supercentre) paired with a warehouse or lifestyle anchor, top-decile catchment population nationally, and a regionally classified hospital within the civic ring. Home Depot and Costco are the most common secondary anchors satisfying the composition gate alongside Walmart Supercentre. Regional is the rarest tier in the United States dataset; current counts are published live on the GIS platform rather than restated here.
+
 ## See also
 
 - [[atlas-top-400-north-america]] — the full North American market set this page filters
 - [[about-regional-markets-system]] — the co-location methodology and market selection criteria
+- [[co-location-tier-system]]
+- [[co-location-methodology]]
+- [[co-location-ranking-system]]

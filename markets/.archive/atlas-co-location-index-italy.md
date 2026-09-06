@@ -7,7 +7,10 @@ index_group: co-location-indices-by-country
 type: topic
 content_type: topic
 quality: complete
-status: active
+status: archived
+archived: 2026-09-05
+archived_reason: "Consolidated 2026-09-05: this country co-location index duplicated the country page it sat beside. Its anchor-network, convergence-pattern, tier, and provenance content was merged into atlas-italy as a Co-location anchor network section, so Italy now carries both the Top 400 market table and the co-location index in one page. Nothing was dropped in the merge except the duplicated methodology See-also list and licence footer."
+superseded_by: atlas-italy
 audience: customer-woodfine
 bcsc_class: current-fact
 language_protocol: PROSE-TOPIC

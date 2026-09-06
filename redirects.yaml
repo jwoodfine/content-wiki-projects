@@ -343,10 +343,10 @@ redirects:
     to: /wiki/co-location-tier-system
 
   - from: /topic-co-location-index-canada
-    to: /wiki/atlas-co-location-index-canada
+    to: /wiki/atlas-canada
 
   - from: /topic-co-location-index-italy
-    to: /wiki/atlas-co-location-index-italy
+    to: /wiki/atlas-italy
 
   - from: /topic-co-location-index-mexico
     to: /wiki/atlas-co-location-index-mexico
@@ -355,13 +355,13 @@ redirects:
     to: /wiki/atlas-co-location-index-nordics
 
   - from: /topic-co-location-index-poland
-    to: /wiki/atlas-co-location-index-poland
+    to: /wiki/atlas-poland
 
   - from: /topic-co-location-index-spain
-    to: /wiki/atlas-co-location-index-spain
+    to: /wiki/atlas-spain
 
   - from: /topic-co-location-index-us
-    to: /wiki/atlas-co-location-index-us
+    to: /wiki/atlas-united-states
 
   # Batch C3b — markets place-profile band. Place-slug grammar `<cc>-<sub>-<place>`
   # (ISO 3166-1 alpha-2 country + ISO 3166-2 first-order subdivision + kebab-case
@@ -602,3 +602,19 @@ redirects:
     to: /category/markets
   - from: /nl-breda
     to: /category/markets
+
+  # Consolidation, 2026-09-05: five of the seven country co-location indices duplicated the
+  # country page beside them. Each one's anchor-network, convergence, tier, and provenance
+  # content was merged into its country page as a "Co-location anchor network" section and
+  # the index archived. Mexico and the Nordics are unaffected -- neither has a country page
+  # to merge into, so both remain live.
+  - from: /atlas-co-location-index-canada
+    to: /wiki/atlas-canada
+  - from: /atlas-co-location-index-us
+    to: /wiki/atlas-united-states
+  - from: /atlas-co-location-index-spain
+    to: /wiki/atlas-spain
+  - from: /atlas-co-location-index-italy
+    to: /wiki/atlas-italy
+  - from: /atlas-co-location-index-poland
+    to: /wiki/atlas-poland

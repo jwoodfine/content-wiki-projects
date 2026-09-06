@@ -49,13 +49,13 @@ The tier system applies identically on both continents; only the anchor network 
 
 | Market | Primary anchor | Detailed index |
 |---|---|---|
-| United States | Walmart Supercentre | [[atlas-co-location-index-us]] |
-| Canada | Walmart Supercentre | [[atlas-co-location-index-canada]] |
+| United States | Walmart Supercentre | [[atlas-united-states]] |
+| Canada | Walmart Supercentre | [[atlas-canada]] |
 | Mexico | Walmart Supercentre | [[atlas-co-location-index-mexico]] |
-| Spain | IKEA | [[atlas-co-location-index-spain]] |
+| Spain | IKEA | [[atlas-spain]] |
 | Nordics | IKEA | [[atlas-co-location-index-nordics]] |
-| Italy | IKEA | [[atlas-co-location-index-italy]] |
-| Poland | IKEA | [[atlas-co-location-index-poland]] |
+| Italy | IKEA | [[atlas-italy]] |
+| Poland | IKEA | [[atlas-poland]] |
 
 Current tier counts by country are published live on the GIS platform rather than restated here; a wiki snapshot goes stale between data-refresh cycles, while the platform updates on every processing run.
 

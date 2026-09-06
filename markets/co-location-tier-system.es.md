@@ -49,13 +49,13 @@ El sistema de niveles se aplica de forma idéntica en ambos continentes; solo ca
 
 | Mercado | Ancla principal | Índice detallado |
 |---|---|---|
-| Estados Unidos | Walmart Supercentre | [[atlas-co-location-index-us]] |
-| Canadá | Walmart Supercentre | [[atlas-co-location-index-canada]] |
+| Estados Unidos | Walmart Supercentre | [[atlas-united-states]] |
+| Canadá | Walmart Supercentre | [[atlas-canada]] |
 | México | Walmart Supercentre | [[atlas-co-location-index-mexico]] |
-| España | IKEA | [[atlas-co-location-index-spain]] |
+| España | IKEA | [[atlas-spain]] |
 | Países Nórdicos | IKEA | [[atlas-co-location-index-nordics]] |
-| Italia | IKEA | [[atlas-co-location-index-italy]] |
-| Polonia | IKEA | [[atlas-co-location-index-poland]] |
+| Italia | IKEA | [[atlas-italy]] |
+| Polonia | IKEA | [[atlas-poland]] |
 
 Los recuentos de nivel actuales por país se publican en vivo en la plataforma GIS en lugar de repetirse aquí; una instantánea de wiki queda desactualizada entre ciclos de actualización de datos, mientras que la plataforma se actualiza en cada ejecución de procesamiento.
 

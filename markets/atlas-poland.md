@@ -49,8 +49,32 @@ Bielsko-Biała (suburb of Katowice) is Poland's only entry with two Tier 1 clust
 | Poczesna | Katowice | — | 1 | 0 | 0 | — |
 | Rumia | Gdańsk | — | 1 | 0 | 0 | — |
 
+## Co-location anchor network
+
+The Poland Co-location Index evaluates commercial nodes across the Polish market using the [[co-location-methodology]] and the [[co-location-ranking-system|deterministic ranking system]]. Sites are evaluated where IKEA operates as the Primary Target [[co-location-anchors|anchor]], against secondary operators (Makro, Leroy Merlin) and tertiary civic infrastructure within defined catchment radii. Poland is one of the four markets covered in the [[co-location-tier-system|co-location tier system]].
+
+### Anchor Network
+
+IKEA operates approximately 12 stores in Poland, with locations in Warsaw (two stores), Kraków, Wrocław, Gdańsk, Poznań, Łódź, Katowice, Lublin, Bydgoszcz, Białystok, and Szczecin. Secondary anchors are densely distributed: Leroy Merlin (~60 locations), Makro (~40 Metro Cash & Carry locations), Castorama (~80 locations), and OBI (~50 locations). Poland's 24 major public universities and voivodeship capital hospitals provide tertiary infrastructure in the same cities as IKEA operations.
+
+### Central European convergence density
+
+Poland's retail expansion through the 2010s and 2020s produced high-density co-location convergence, particularly in mid-sized cities (population 200,000–600,000) where a single commercial zone accommodates multiple large-format anchors. Cities such as Wrocław, Poznań, Gdańsk, and Kraków combine IKEA presence with secondary anchor density and strong tertiary civic infrastructure, producing reliable District-tier conditions.
+
+### District — high-validation commercial nodes
+
+A District-tier node in Poland pairs the IKEA primary anchor with a hardware or warehouse secondary — Leroy Merlin, Makro, Castorama, and OBI are the operators that most often satisfy this gate — top-quartile catchment population, and hospital access within the civic ring. The convergence of operators across categories confirms the site's commercial standing.
+
+*The site index for Poland, classified under the current tier system, is available at [gis.woodfinegroup.com](https://gis.woodfinegroup.com).*
+
+### Provenance
+- **Verification:** Anchor network data sourced from OpenStreetMap records as of May 2026.
+
 ## See also
 
 - [[atlas-top-400-europe]] — the full European market set this page filters
 - [[about-regional-markets-system]] — the co-location methodology and market selection criteria
 - [[co-location-intelligence-overview]] — how this index feeds site-selection decisions
+- [[co-location-tier-system]]
+- [[co-location-methodology]]
+- [[co-location-ranking-system]]
