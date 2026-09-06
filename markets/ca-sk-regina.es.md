@@ -12,15 +12,15 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Capital provincial de Saskatchewan — fuera del conjunto de calificación Top-400 actual (sin núcleo metropolitano cercano)."
+short_description: "Capital provincial de Saskatchewan, que funciona como centro comercial propio y no como satélite de un metro mayor."
 paired_with: markets/ca-sk-regina.md
 last_edited: 2026-08-26
 editor: editorial
 ---
 
-Regina, la capital de Saskatchewan, no aparece actualmente en la lista Top-400 de Mercados
-Regionales de América del Norte — las praderas canadienses no la sitúan dentro de la banda
-suburbano-regional de 15 a 80 km de ningún núcleo metropolitano importante.
+Regina, la capital de Saskatchewan, figura en el conjunto de datos confirmado de Mercados
+Regionales de 2026-08-07. Funciona como su propio centro comercial provincial y no como
+satélite de ningún núcleo metropolitano importante.
 
 ## Descripción general
 
@@ -38,11 +38,12 @@ comunidades filipina, india y china.
 
 ## Posición en el Mercado Regional
 
-Regina no aparece actualmente en la lista
-[[atlas-top-400-north-america|Top 400 Mercados Regionales — América del Norte]]. Esto no es
-un defecto de datos; las praderas canadienses no sitúan a Regina dentro de la banda
-suburbano-regional de 15 a 80 km de [[about-regional-markets-system|el sistema de calificación de co-ubicación]] respecto a ningún núcleo metropolitano importante — funciona como su propio
-centro comercial provincial.
+Regina no aparece en el índice [[atlas-top-400-north-america|Top 400 Mercados Regionales —
+América del Norte]] tal como está listado hoy en esta wiki, pero sí figura entre los Mercados
+Regionales publicados de Canadá en el conjunto de datos confirmado de 2026-08-07. Ese listado se
+está reconciliando con el conjunto de datos. Regina funciona como su propio centro comercial
+provincial; [[about-regional-markets-system|el sistema de calificación de co-ubicación]]
+selecciona por composición de anclas, no por distancia a un núcleo metropolitano.
 
 ## Véase también
 

@@ -12,15 +12,16 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Mercado del valle de Okanagan, a 390 km de Vancouver — fuera del conjunto de calificación Top-400 actual."
+short_description: "Mercado del valle de Okanagan, a 390 km de Vancouver — el centro comercial del interior de Columbia Británica."
 paired_with: markets/ca-bc-kelowna.md
 last_edited: 2026-08-26
 editor: editorial
 ---
 
-Kelowna, el centro comercial del valle de Okanagan en Columbia Británica, no aparece
-actualmente en la lista Top-400 de Mercados Regionales de América del Norte — a 390
-kilómetros de Vancouver se sitúa muy fuera de la banda suburbano-regional de 15 a 80 km que aplica la calificación.
+Kelowna, el centro comercial del valle de Okanagan en Columbia Británica, figura en el conjunto
+de datos confirmado de Mercados Regionales de 2026-08-07. A 390 kilómetros de Vancouver funciona
+de forma independiente y no como satélite — una distancia que el marco registra pero sobre la
+que no califica.
 
 ## Descripción general
 
@@ -38,12 +39,11 @@ general.
 
 ## Posición en el Mercado Regional
 
-Kelowna no aparece actualmente en la lista
-[[atlas-top-400-north-america|Top 400 Mercados Regionales — América del Norte]] — su
-distancia respecto a Vancouver la sitúa fuera de la banda suburbano-regional de 15 a 80 km
-que aplica la calificación. Esto no es un defecto de datos; refleja la clasificación del
-mercado como independiente-secundario en lugar de suburbano-regional según la propia
-taxonomía de [[about-regional-markets-system|el sistema de calificación de co-ubicación]].
+Kelowna figura entre los Mercados Regionales publicados de Canadá en el conjunto de datos
+confirmado de 2026-08-07. Su inclusión en el índice de Mercados Regionales de esta wiki se está
+reconciliando con ese conjunto de datos y no se reproduce aquí. La distancia respecto a
+Vancouver se registra como contexto descriptivo; [[about-regional-markets-system|el sistema de
+calificación de co-ubicación]] selecciona por composición de anclas, no por distancia.
 
 ## Véase también
 

@@ -12,15 +12,15 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Capital regional de Navarra, a 117 km de Bilbao — fuera del conjunto de calificación Top-400 actual."
+short_description: "Capital regional de Navarra, a 117 km de Bilbao — no figura entre los mercados publicados en el conjunto Top-400 actual."
 paired_with: markets/es-nc-pamplona.md
 last_edited: 2026-08-26
 editor: editorial
 ---
 
 Pamplona no aparece actualmente en la lista Top-400 de Mercados Regionales de Europa — su
-metrópoli más cercana, Bilbao, se encuentra a 117 kilómetros, más allá del límite exterior de
-80 km de la banda suburbano-regional que aplica la calificación.
+metrópoli más cercana, Bilbao, se encuentra a 117 kilómetros, lo que la deja como capital
+regional por derecho propio y no como satélite de una metrópolis mayor.
 
 ## Descripción general
 
@@ -42,9 +42,9 @@ la población a fecha de 2024.
 
 Pamplona no aparece actualmente en la lista [[atlas-top-400-europe|Top 400 Mercados
 Regionales — Europa]]. Esto no es un defecto de datos; a 117 km de Bilbao, su metrópoli más
-cercana, Pamplona queda fuera de la banda suburbano-regional de 15 a 80 km de
-[[about-regional-markets-system|el sistema de calificación de co-ubicación]], clasificándola
-como independiente-secundaria.
+cercana, Pamplona no figura entre los mercados publicados bajo el conjunto de datos confirmado
+de 2026-08-07. [[about-regional-markets-system|El sistema de calificación de co-ubicación]]
+selecciona por composición de anclas; la distancia se registra solo como contexto descriptivo.
 
 ## Véase también
 

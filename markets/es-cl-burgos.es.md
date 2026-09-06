@@ -12,14 +12,15 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Ciudad de Castilla y León, a 244 km de Madrid — fuera del conjunto de calificación Top-400 actual."
+short_description: "Ciudad de Castilla y León, a 244 km de Madrid — un centro regional por derecho propio."
 paired_with: markets/es-cl-burgos.md
 last_edited: 2026-08-26
 editor: editorial
 ---
 
-Burgos no aparece actualmente en la lista Top-400 de Mercados Regionales de Europa — a 244
-kilómetros de Madrid se sitúa muy fuera de la banda suburbano-regional de 15 a 80 km que aplica la calificación.
+Burgos figura en el conjunto de datos confirmado de Mercados Regionales de 2026-08-07. A 244
+kilómetros de Madrid funciona como centro regional propio — una distancia que el marco registra
+en cada mercado pero sobre la que no califica.
 
 ## Descripción general
 
@@ -40,11 +41,11 @@ Colombia, Rumanía y Ecuador.
 
 ## Posición en el Mercado Regional
 
-Burgos no aparece actualmente en la lista [[atlas-top-400-europe|Top 400 Mercados Regionales
-— Europa]]. Esto no es un defecto de datos; su distancia de 244 km respecto a Madrid la
-sitúa fuera de la banda suburbano-regional de 15 a 80 km de
-[[about-regional-markets-system|el sistema de calificación de co-ubicación]], clasificándola
-como independiente-secundaria.
+Burgos figura entre los Mercados Regionales publicados de España en el conjunto de datos
+confirmado de 2026-08-07. Su inclusión en el índice de Mercados Regionales de esta wiki se está
+reconciliando con ese conjunto de datos y no se reproduce aquí. La distancia respecto a Madrid
+se registra como contexto descriptivo; [[about-regional-markets-system|el sistema de
+calificación de co-ubicación]] selecciona por composición de anclas, no por distancia.
 
 ## Véase también
 

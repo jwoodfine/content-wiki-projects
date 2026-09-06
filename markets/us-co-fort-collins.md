@@ -12,15 +12,15 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Northern Colorado market, 60 miles from Denver — outside the current Top-400 qualifying band."
+short_description: "Northern Colorado market, 60 miles from Denver, beyond the immediate commuter belt."
 paired_with: markets/us-co-fort-collins.es.md
 last_edited: 2026-08-26
 editor: editorial
 ---
 
-Fort Collins does not currently appear in the North American Top-400 Regional Markets list.
-At roughly 60 miles (97 km) from Denver it sits outside the 80 km outer edge of the
-suburban-regional band the qualification applies.
+Fort Collins is carried in the confirmed 2026-08-07 Regional Markets dataset. It sits roughly
+60 miles (97 km) from Denver, beyond the immediate commuter belt — a distance the framework
+records against each market but does not qualify on.
 
 ## Overview
 
@@ -38,11 +38,11 @@ character with a relatively young population profile shaped by CSU enrollment.
 
 ## Regional Market Standing
 
-Fort Collins does not currently appear in the [[atlas-top-400-north-america|Top 400 Regional
-Markets — North America]] list. This is not a data defect; at roughly 60 miles (97 km) from
-Denver, it falls outside the 80 km outer boundary of
-[[about-regional-markets-system|the co-location qualification system's]] suburban-regional band.
-This classifies it as standalone-secondary.
+Fort Collins is carried among the United States' published Regional Markets in the confirmed
+2026-08-07 dataset. Its listing in this wiki's Regional Markets index is being reconciled
+against that dataset and is not restated here. The roughly 60 miles (97 km) to Denver is
+recorded as descriptive context; [[about-regional-markets-system|the co-location qualification
+system]] selects on anchor composition, not on distance.
 
 ## See Also
 

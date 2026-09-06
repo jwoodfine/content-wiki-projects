@@ -12,7 +12,7 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Scottish Highlands capital, well beyond commuting distance of Edinburgh or Glasgow — outside the current Top-400 qualifying band."
+short_description: "Scottish Highlands capital, well beyond commuting distance of Edinburgh or Glasgow — not among the markets published in the current Top-400 set."
 paired_with: markets/gb-sct-inverness.es.md
 last_edited: 2026-08-26
 editor: editorial
@@ -20,7 +20,7 @@ editor: editorial
 
 Inverness, the northernmost city in the United Kingdom, does not currently appear in the
 European Top-400 Regional Markets list. Its distance from Edinburgh and Glasgow, the
-nearest major metros, is far beyond the 80 km outer edge of the suburban-regional band
+nearest major metros, leaves it serving the Highlands as its own regional centre
 applied for qualification.
 
 ## Overview
@@ -41,9 +41,10 @@ the happiest place to live in the United Kingdom in 2024.
 ## Regional Market Standing
 
 Inverness does not currently appear in the [[atlas-top-400-europe|Top 400 Regional Markets —
-Europe]] list. This is not a data defect; its distance from Edinburgh and Glasgow places it
-well outside [[about-regional-markets-system|the co-location qualification system's]] 15–80 km
-suburban-regional band, classifying it as standalone-secondary.
+Europe]] list. This is not a data defect; the market is not among those published under the
+confirmed 2026-08-07 dataset. Inverness serves the Highlands as its own regional centre, and
+[[about-regional-markets-system|the co-location qualification system]] selects on anchor
+composition rather than on distance from Edinburgh or Glasgow.
 
 ## See Also
 

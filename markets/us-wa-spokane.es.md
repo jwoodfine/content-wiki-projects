@@ -12,15 +12,14 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Segunda ciudad más grande del este de Washington, a 280 millas de Seattle — fuera del conjunto de calificación Top-400 actual."
+short_description: "Segunda ciudad más grande del este de Washington, a 280 millas de Seattle — no figura entre los mercados publicados en el conjunto Top-400 actual."
 paired_with: markets/us-wa-spokane.md
 last_edited: 2026-08-26
 editor: editorial
 ---
 
 Spokane no aparece actualmente en la lista Top-400 de Mercados Regionales de América del
-Norte — a 280 millas de Seattle se sitúa muy fuera del límite exterior de 80 km de la banda
-suburbano-regional que aplica la calificación.
+Norte — a 280 millas de Seattle ancla el Noroeste Interior como centro regional propio.
 
 ## Descripción general
 
@@ -42,9 +41,9 @@ asiático consolidadas, particularmente en el barrio de Hillyard.
 
 Spokane no aparece actualmente en la lista [[atlas-top-400-north-america|Top 400 Mercados
 Regionales — América del Norte]]. Esto no es un defecto de datos; su distancia de 280 millas
-respecto a Seattle la sitúa muy fuera de la banda suburbano-regional de 15 a 80 km de
-[[about-regional-markets-system|el sistema de calificación de co-ubicación]], clasificándola
-como independiente-secundaria.
+respecto a Seattle se registra solo como contexto descriptivo; el mercado no figura entre los
+publicados bajo el conjunto de datos confirmado de 2026-08-07, que
+[[about-regional-markets-system|selecciona por composición de anclas]].
 
 ## Véase también
 

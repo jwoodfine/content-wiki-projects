@@ -12,15 +12,15 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "La ciudad más grande de Castilla y León, a 235 km de Madrid — fuera del conjunto de calificación Top-400 actual."
+short_description: "La ciudad más grande de Castilla y León, a 235 km de Madrid — no figura entre los mercados publicados en el conjunto Top-400 actual."
 paired_with: markets/es-cl-valladolid.md
 last_edited: 2026-08-26
 editor: editorial
 ---
 
 Valladolid no aparece actualmente en la lista Top-400 de Mercados Regionales de Europa — a
-unos 235 kilómetros de Madrid se sitúa muy fuera de la banda suburbano-regional de 15 a 80 km
-que aplica la calificación.
+unos 235 kilómetros de Madrid funciona como centro regional propio y no como satélite de un
+núcleo metropolitano importante.
 
 ## Descripción general
 
@@ -42,9 +42,9 @@ localidades cercanas debido a los altos precios en el propio municipio.
 
 Valladolid no aparece actualmente en la lista [[atlas-top-400-europe|Top 400 Mercados
 Regionales — Europa]]. Esto no es un defecto de datos; su distancia de unos 235 km respecto a
-Madrid la sitúa fuera de la banda suburbano-regional de 15 a 80 km de
-[[about-regional-markets-system|el sistema de calificación de co-ubicación]], clasificándola
-como independiente-secundaria.
+Madrid se registra solo como contexto descriptivo; el mercado no figura entre los publicados
+bajo el conjunto de datos confirmado de 2026-08-07, que
+[[about-regional-markets-system|selecciona por composición de anclas]] y no por distancia.
 
 ## Véase también
 

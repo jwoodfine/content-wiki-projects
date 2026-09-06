@@ -12,16 +12,16 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Southern Alberta market, 215 km from Calgary — outside the current Top-400 qualifying band."
+short_description: "Southern Alberta's commercial and industrial centre, 215 km from Calgary — a regional centre in its own right."
 paired_with: markets/ca-ab-lethbridge.es.md
 last_edited: 2026-08-26
 editor: editorial
 ---
 
-Lethbridge, southern Alberta's commercial and industrial centre, does not currently appear in
-the North American Top-400 Regional Markets list. At 215 kilometres from Calgary it sits well
-outside the 15–80 km suburban-regional band the qualification applies, making it a standalone-secondary
-market rather than a suburb of a major metro core.
+Lethbridge, southern Alberta's commercial and industrial centre, is carried in the confirmed
+2026-08-07 Regional Markets dataset. At 215 kilometres from Calgary it functions as its own
+regional commercial centre rather than a suburb of a major metro core — a distance the
+framework records against each market but does not qualify on.
 
 ## Overview
 
@@ -38,11 +38,11 @@ city.
 
 ## Regional Market Standing
 
-Lethbridge does not currently appear in the [[atlas-top-400-north-america|Top 400 Regional
-Markets — North America]] list. Its distance from Calgary places it outside the 15–80 km
-suburban-regional band the qualification applies. This is not a data defect; it reflects the market's
-classification as standalone-secondary rather than suburban-regional under
-[[about-regional-markets-system|the co-location qualification system's]] own taxonomy.
+Lethbridge is carried among Canada's published Regional Markets in the confirmed 2026-08-07
+dataset. Its listing in this wiki's Regional Markets index is being reconciled against that
+dataset and is not restated here. Distance from Calgary is recorded as descriptive context;
+[[about-regional-markets-system|the co-location qualification system]] selects on anchor
+composition, not on distance.
 
 ## See Also
 

@@ -18,22 +18,18 @@ last_edited: 2026-08-26
 editor: editorial
 ---
 
-Chester, a historic Cheshire city near the Welsh border, does not currently appear in the
-European Top-400 Regional Markets list. Notably, unlike the other markets in this stub
-group, its distance from Liverpool (roughly 30 to 40 miles, or 48–64 km) falls within the
-15–80 km suburban-regional band the qualification otherwise applies — suggesting a build-coverage
-gap rather than a distance exclusion.
+Chester, a historic Cheshire city near the Welsh border, does not currently appear under its
+own name in the European Top-400 Regional Markets list. It sits close to Liverpool — roughly 17
+to 19 miles by road — so its absence is a question about how the market is bounded and named in
+the source build, not about distance.
 
 ## Overview
 
 According to Wikipedia (accessed 2026-07-10), Chester's built-up area had 92,760 residents at
 the 2021 census (138,875 for the official city area including charter trustee wards). It is
-situated approximately 30 to 40 miles northwest of Liverpool via the M53 motorway.
+situated roughly 17 to 19 miles southwest of Liverpool via the M53 motorway.
 
-**Correction (2026-08-02):** Chester–Liverpool is roughly 17–19 miles via the M53,
-not 30–40 miles — the article's own km conversion (48–64 km) compounds rather than
-catches the error. The underlying argument (Chester falls within the 15–80 km
-suburban-regional band) still holds once corrected. **Flagged, not resolved.** The
+The
 service sector dominates the economy — tourism, retail, public administration, and financial
 services — with employers including Bank of America, NFU Mutual, Lloyds Bank, Virgin Money,
 and Quilter, alongside the University of Chester and Countess of Chester Hospital. The nearby
@@ -45,12 +41,8 @@ Cheshire Oaks Designer Outlet and Broughton Retail Park nearby. The Storyhouse a
 
 ## Regional Market Standing
 
-Chester does not currently appear in the [[atlas-top-400-europe|Top 400 Regional Markets —
-Europe]] list, though its distance from Liverpool sits within
-[[about-regional-markets-system|the co-location qualification system's]] own 15–80 km
-suburban-regional band — unlike the standalone-secondary and metro-core markets elsewhere in
-this stub group. This more plausibly reflects a gap in the current OSM-derived build than a
-deliberate exclusion. The administrative unit "Cheshire West and Chester" does appear in the
+Chester does not currently appear under its own name in the [[atlas-top-400-europe|Top 400
+Regional Markets — Europe]] list. The administrative unit "Cheshire West and Chester" does appear in the
 Top-400 set (suburb of Wigan), but that entry covers a different administrative boundary
 than the city of Chester itself. This article does not assert they are the same market
 without further verification.

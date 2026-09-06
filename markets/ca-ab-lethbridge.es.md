@@ -12,16 +12,16 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Mercado del sur de Alberta, a 215 km de Calgary — fuera del conjunto de calificación Top-400 actual."
+short_description: "Mercado del sur de Alberta, a 215 km de Calgary — un centro regional por derecho propio."
 paired_with: markets/ca-ab-lethbridge.md
 last_edited: 2026-08-26
 editor: editorial
 ---
 
-Lethbridge, el centro comercial e industrial del sur de Alberta, no aparece actualmente en la
-lista Top-400 de Mercados Regionales de América del Norte — a 215 kilómetros de Calgary se
-sitúa fuera de la banda suburbano-regional de 15 a 80 km que aplica la calificación, lo que
-la convierte en un mercado independiente-secundario en lugar de un suburbio de un núcleo
+Lethbridge, el centro comercial e industrial del sur de Alberta, figura en el conjunto de datos
+confirmado de Mercados Regionales de 2026-08-07. A 215 kilómetros de Calgary funciona como su
+propio centro comercial regional — una distancia que el marco registra en cada mercado pero
+sobre la que no califica, en lugar de un suburbio de un núcleo
 metropolitano importante.
 
 ## Descripción general
@@ -40,12 +40,11 @@ mayor número de días de viento fuerte de cualquier ciudad canadiense.
 
 ## Posición en el Mercado Regional
 
-Lethbridge no aparece actualmente en la lista
-[[atlas-top-400-north-america|Top 400 Mercados Regionales — América del Norte]] — su
-distancia respecto a Calgary la sitúa fuera de la banda suburbano-regional de 15 a 80 km que
-aplica la calificación. Esto no es un defecto de datos; refleja la clasificación del mercado
-como independiente-secundario en lugar de suburbano-regional según la propia taxonomía de
-[[about-regional-markets-system|el sistema de calificación de co-ubicación]].
+Lethbridge figura entre los Mercados Regionales publicados de Canadá en el conjunto de datos
+confirmado de 2026-08-07. Su inclusión en el índice de Mercados Regionales de esta wiki se está
+reconciliando con ese conjunto de datos y no se reproduce aquí. La distancia respecto a Calgary
+se registra como contexto descriptivo; [[about-regional-markets-system|el sistema de
+calificación de co-ubicación]] selecciona por composición de anclas, no por distancia.
 
 ## Véase también
 

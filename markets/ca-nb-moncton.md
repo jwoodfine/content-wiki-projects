@@ -12,7 +12,7 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Maritime Canada's commercial hub — outside the current Top-400 qualifying band (no single dominant major metro core in the region)."
+short_description: "Maritime Canada's commercial hub — not among the markets published in the current Top-400 set."
 paired_with: markets/ca-nb-moncton.es.md
 last_edited: 2026-08-26
 editor: editorial
@@ -38,12 +38,10 @@ and retail centres such as Champlain Place and Wheeler Park Power Centre.
 
 ## Regional Market Standing
 
-Moncton does not currently appear in the [[atlas-top-400-north-america|Top 400 Regional
-Markets — North America]] list. This is not a data defect; Maritime Canada does not
-have a single dominant major-metro core against which
-[[about-regional-markets-system|the co-location qualification system's]] 15–80 km suburban-regional
-distance filter would apply. Moncton functions as its own regional commercial centre rather
-than a suburb of a larger metro.
+Moncton is not among the markets published for North America under the confirmed 2026-08-07
+dataset. This is not a data defect. Moncton functions as its own regional commercial centre
+rather than a suburb of a larger metro, and [[about-regional-markets-system|the co-location
+qualification system]] selects on anchor composition rather than on proximity to a metro core.
 
 ## See Also
 

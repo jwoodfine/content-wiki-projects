@@ -12,7 +12,7 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Capital del País Vasco — fuera del conjunto de calificación Top-400 actual (sin núcleo metropolitano cercano en el conjunto de datos)."
+short_description: "Capital del País Vasco — no figura entre los mercados publicados en el conjunto Top-400 actual."
 paired_with: markets/es-pv-vitoria-gasteiz.md
 last_edited: 2026-08-26
 editor: editorial

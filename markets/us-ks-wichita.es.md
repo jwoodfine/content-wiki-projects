@@ -12,15 +12,16 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "La ciudad más grande de Kansas, muy fuera de distancia de cercanías de cualquier metrópoli importante — fuera del conjunto de calificación Top-400 actual."
+short_description: "La ciudad más grande de Kansas, muy lejos de cualquier metrópoli importante — no figura entre los mercados publicados en el conjunto Top-400 actual."
 paired_with: markets/us-ks-wichita.md
 last_edited: 2026-08-26
 editor: editorial
 ---
 
 Wichita, históricamente la "Capital Aérea del Mundo", no aparece actualmente en la lista
-Top-400 de Mercados Regionales de América del Norte — sus metrópolis más cercanas están muy
-por encima del límite exterior de 80 km de la banda suburbano-regional que aplica la calificación.
+Top-400 de Mercados Regionales de América del Norte — sus metrópolis más cercanas están a
+varias horas de distancia, lo que la deja como centro comercial del centro-sur de Kansas por
+derecho propio.
 
 ## Descripción general
 
@@ -40,8 +41,9 @@ Old Town.
 
 Wichita no aparece actualmente en la lista [[atlas-top-400-north-america|Top 400 Mercados
 Regionales — América del Norte]]. Esto no es un defecto de datos; su distancia respecto a
-Oklahoma City y Kansas City la sitúa muy fuera de la banda suburbano-regional de 15 a 80 km de
-[[about-regional-markets-system|el sistema de calificación de co-ubicación]], clasificándola
+Oklahoma City y Kansas City se registra solo como contexto descriptivo; el mercado no figura
+entre los publicados bajo el conjunto de datos confirmado de 2026-08-07, que
+[[about-regional-markets-system|selecciona por composición de anclas]], en lugar de clasificarla
 como independiente-secundaria — conforme a la decisión operativa del 4 de julio de 2026 de
 que el perfil de Región de Desarrollo de Wichita, fuera de la lista Top-400, es un patrón
 esperado y aceptable.

@@ -12,7 +12,7 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Basque Country capital — outside the current Top-400 qualifying band (no nearby major metro core in the dataset)."
+short_description: "Basque Country capital — not among the markets published in the current Top-400 set."
 paired_with: markets/es-pv-vitoria-gasteiz.es.md
 last_edited: 2026-08-26
 editor: editorial

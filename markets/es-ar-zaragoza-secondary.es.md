@@ -12,7 +12,7 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Capital regional de Aragón, a unos 300 km tanto de Madrid como de Barcelona y Valencia — fuera del conjunto de calificación Top-400 actual."
+short_description: "Capital regional de Aragón, a unos 300 km tanto de Madrid como de Barcelona y Valencia — no figura entre los mercados publicados en el conjunto Top-400 actual."
 paired_with: markets/es-ar-zaragoza-secondary.md
 last_edited: 2026-08-26
 editor: editorial
@@ -20,9 +20,8 @@ editor: editorial
 
 Zaragoza, la cuarta ciudad más poblada de España, no aparece actualmente en la lista Top-400
 de Mercados Regionales de Europa — su posición aproximadamente equidistante entre Madrid,
-Barcelona, Valencia y Bilbao (todas a unos 300 km) la sitúa muy fuera de la banda
-suburbano-regional de 15 a 80 km que aplica la calificación para cualquier núcleo
-metropolitano concreto.
+Barcelona, Valencia y Bilbao (todas a unos 300 km) la deja como capital regional por derecho
+propio y no como satélite de ningún núcleo metropolitano concreto.
 
 ## Descripción general
 
@@ -42,10 +41,11 @@ alberga a más de la mitad de la población de Aragón.
 
 Zaragoza no aparece actualmente en la lista [[atlas-top-400-europe|Top 400 Mercados
 Regionales — Europa]]. Esto no es un defecto de datos; la distancia de la ciudad de
-aproximadamente 300 km respecto a cada metrópoli española importante la sitúa fuera de la
-banda suburbano-regional de 15 a 80 km de
-[[about-regional-markets-system|el sistema de calificación de co-ubicación]] — funciona como su
-propia capital regional en lugar de como suburbio de una metrópolis mayor.
+aproximadamente 300 km respecto a cada metrópoli española importante se registra solo como
+contexto descriptivo; el mercado no figura entre los publicados bajo el conjunto de datos
+confirmado de 2026-08-07, que [[about-regional-markets-system|selecciona por composición de
+anclas]]. Zaragoza funciona como su propia capital regional en lugar de como suburbio de una
+metrópolis mayor.
 
 ## Véase también
 

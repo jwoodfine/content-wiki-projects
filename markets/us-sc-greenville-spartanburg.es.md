@@ -12,7 +12,7 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Punto de referencia metropolitano de la región Upstate de Carolina del Sur para los mercados suburbanos circundantes — no está en el conjunto de calificación Top-400."
+short_description: "Punto de referencia metropolitano de la región Upstate de Carolina del Sur para los mercados suburbanos circundantes — no es en sí una entrada Top-400 publicada."
 paired_with: markets/us-sc-greenville-spartanburg.md
 last_edited: 2026-08-26
 editor: editorial
@@ -50,10 +50,8 @@ antes de diversificarse hacia la salud, la educación y los servicios corporativ
 Greenville no aparece como entrada en la lista
 [[atlas-top-400-north-america|Top 400 Mercados Regionales — América del Norte]]. Esto no es
 un defecto de datos: en la versión actual, "Greenville SC" es el punto de referencia
-metropolitano de otras dos entradas suburbanas (Spartanburg y Asheville), conforme a la
-propia taxonomía de
-[[about-regional-markets-system|el sistema de calificación de co-ubicación]], que excluye los
-núcleos metropolitanos del conjunto de calificación suburbano-regional.
+metropolitano de otras dos entradas (Spartanburg y Asheville). Un mercado registrado en ese
+papel de referencia no se publica a su vez como entrada independiente bajo su propio nombre.
 
 ## Véase también
 

@@ -12,7 +12,7 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Capital de las Tierras Altas escocesas, muy fuera de distancia de cercanías de Edimburgo o Glasgow — fuera del conjunto de calificación Top-400 actual."
+short_description: "Capital de las Tierras Altas escocesas, muy lejos de Edimburgo o Glasgow — no figura entre los mercados publicados en el conjunto Top-400 actual."
 paired_with: markets/gb-sct-inverness.md
 last_edited: 2026-08-26
 editor: editorial
@@ -20,8 +20,7 @@ editor: editorial
 
 Inverness, la ciudad más septentrional del Reino Unido, no aparece actualmente en la lista
 Top-400 de Mercados Regionales de Europa — su distancia respecto a Edimburgo y Glasgow, las
-metrópolis más cercanas, está muy por encima del límite exterior de 80 km de la banda
-suburbano-regional que aplica la calificación.
+metrópolis más cercanas, la deja sirviendo a las Tierras Altas como centro regional propio.
 
 ## Descripción general
 
@@ -44,9 +43,9 @@ adicionales. Inverness fue calificada como el lugar más feliz para vivir en el 
 
 Inverness no aparece actualmente en la lista [[atlas-top-400-europe|Top 400 Mercados
 Regionales — Europa]]. Esto no es un defecto de datos; su distancia respecto a Edimburgo y
-Glasgow la sitúa muy fuera de la banda suburbano-regional de 15 a 80 km de
-[[about-regional-markets-system|el sistema de calificación de co-ubicación]], clasificándola
-como independiente-secundaria.
+Glasgow se registra solo como contexto descriptivo; el mercado no figura entre los publicados
+bajo el conjunto de datos confirmado de 2026-08-07, que
+[[about-regional-markets-system|selecciona por composición de anclas]].
 
 ## Véase también
 

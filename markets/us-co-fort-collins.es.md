@@ -12,15 +12,15 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Mercado del norte de Colorado, a 60 millas de Denver — fuera del conjunto de calificación Top-400 actual."
+short_description: "Mercado del norte de Colorado, a 60 millas de Denver, más allá del cinturón inmediato de desplazamiento diario."
 paired_with: markets/us-co-fort-collins.md
 last_edited: 2026-08-26
 editor: editorial
 ---
 
-Fort Collins no aparece actualmente en la lista Top-400 de Mercados Regionales de América del
-Norte — a unas 60 millas (97 km) de Denver se sitúa fuera del límite exterior de 80 km de la
-banda suburbano-regional que aplica la calificación.
+Fort Collins figura en el conjunto de datos confirmado de Mercados Regionales de 2026-08-07. Se
+sitúa a unas 60 millas (97 km) de Denver, más allá del cinturón inmediato de desplazamiento
+diario — una distancia que el marco registra pero sobre la que no califica.
 
 ## Descripción general
 
@@ -40,11 +40,12 @@ perfil de población relativamente joven influido por la matrícula de la CSU.
 
 ## Posición en el Mercado Regional
 
-Fort Collins no aparece actualmente en la lista [[atlas-top-400-north-america|Top 400
-Mercados Regionales — América del Norte]]. Esto no es un defecto de datos; a unas 60 millas
-(97 km) de Denver, queda fuera del límite exterior de 80 km de la banda suburbano-regional de
-[[about-regional-markets-system|el sistema de calificación de co-ubicación]], clasificándola
-como independiente-secundaria.
+Fort Collins figura entre los Mercados Regionales publicados de Estados Unidos en el conjunto
+de datos confirmado de 2026-08-07. Su inclusión en el índice de Mercados Regionales de esta wiki
+se está reconciliando con ese conjunto de datos y no se reproduce aquí. Las aproximadamente 60
+millas (97 km) hasta Denver se registran como contexto descriptivo;
+[[about-regional-markets-system|el sistema de calificación de co-ubicación]] selecciona por
+composición de anclas, no por distancia.
 
 ## Véase también
 

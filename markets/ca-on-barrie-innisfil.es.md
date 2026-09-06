@@ -12,15 +12,16 @@ quality: stub
 status: active
 audience: customer-woodfine
 bcsc_class: current-fact
-short_description: "Mercado del centro de Ontario, a 90 km de Toronto — justo fuera de la banda de 80 km del conjunto de calificación Top-400 actual."
+short_description: "Mercado del centro de Ontario, a 90 km de Toronto, en el borde exterior del cinturón de desplazamiento diario."
 paired_with: markets/ca-on-barrie-innisfil.md
 last_edited: 2026-08-26
 editor: editorial
 ---
 
-Barrie, junto con la vecina Innisfil, no aparece actualmente en la lista Top-400 de Mercados
-Regionales de América del Norte — a unos 90 kilómetros de Toronto se sitúa justo más allá del
-límite exterior de 80 km de la banda suburbano-regional que aplica la calificación.
+Barrie, junto con la vecina Innisfil, figura en el conjunto de datos confirmado de Mercados
+Regionales de 2026-08-07. Se sitúa a unos 90 kilómetros de Toronto, en el borde exterior del
+cinturón de desplazamiento diario — una distancia que el marco registra pero sobre la que no
+califica.
 
 ## Descripción general
 
@@ -39,12 +40,11 @@ Innisfil en 2010.
 
 ## Posición en el Mercado Regional
 
-Barrie–Innisfil no aparece actualmente en la lista
-[[atlas-top-400-north-america|Top 400 Mercados Regionales — América del Norte]]. Esto no es
-un defecto de datos; a unos 90 km de Toronto, el mercado queda justo fuera del límite
-exterior de 80 km de la banda suburbano-regional de
-[[about-regional-markets-system|el sistema de calificación de co-ubicación]], situándolo en la
-categoría independiente-secundaria.
+Barrie–Innisfil figura entre los Mercados Regionales publicados de Canadá en el conjunto de
+datos confirmado de 2026-08-07. Su inclusión en el índice de Mercados Regionales de esta wiki se
+está reconciliando con ese conjunto de datos y no se reproduce aquí. Los aproximadamente 90 km
+hasta Toronto se registran como contexto descriptivo; [[about-regional-markets-system|el sistema
+de calificación de co-ubicación]] selecciona por composición de anclas, no por distancia.
 
 ## Véase también
 
