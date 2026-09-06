@@ -20,13 +20,13 @@ editor: editorial
 
 The Regional Markets Intelligence System is a continental-scale geographic analysis framework that identifies suburban retail markets — named suburbs and satellite municipalities lying within commuting distance of major metropolitan centres — defined by the convergence of large-format retail anchors, civic infrastructure, and demographic catchment.
 
-The research addresses a gap in institutional commercial real estate analysis. Major research organisations, including Oxford Economics, CBRE, and Colliers International, produce extensive coverage of primary metro markets: London, Paris, New York, Chicago, Dallas, Toronto, and their immediate urban cores. The suburban ring — the belt of named municipalities 15 to 80 kilometres from a major metro centre — is systematically underanalysed by institutional research. This is where large-format retail, hospital systems, and university campuses co-locate in patterns that function as leading indicators of demographic and economic activity at the sub-metropolitan scale. The Regional Markets dataset is the analytical surface for that suburban ring.
+The research addresses a gap in institutional commercial real estate analysis. Established research coverage concentrates on primary metro markets — London, Paris, New York, Chicago, Dallas, Toronto, and their immediate urban cores. The belt of named municipalities beyond those cores is analysed far less consistently. This is where large-format retail, hospital systems, and university campuses co-locate in patterns that function as leading indicators of demographic and economic activity at the sub-metropolitan scale. The Regional Markets dataset is the analytical surface for that belt.
 
-The current dataset spans 7,567 co-location clusters across 24 countries in North America and Europe, classified into three compositional tiers (T1, T2, T3) and aggregated into 4,436 named Regional Markets. The Top 400 is the flagship published output of this system: a curated, editorially-selected subset of roughly 400 markets for each continent. Selection method below.
+The current dataset spans several thousand co-location clusters across 24 countries in North America and Europe, classified into three compositional tiers (T1, T2, T3) and aggregated into named Regional Markets. The Top 400 is the flagship published output of this system: a curated, editorially-selected subset of roughly 400 markets for each continent. Selection method below.
 
 ## Dataset Scope
 
-The current build covers 7,567 co-location clusters across 24 countries on two continents.
+The current build covers several thousand co-location clusters across 24 countries on two continents.
 
 | Region | Countries |
 |---|---|
@@ -36,19 +36,19 @@ The current build covers 7,567 co-location clusters across 24 countries on two c
 | Europe — central | Poland, United Kingdom, Czechia, Hungary, Slovakia |
 | Europe — southeast | Bulgaria, Croatia, Romania |
 
-Cluster counts by tier: **T1 = 1,746** (Regional anchors), **T2 = 2,726** (District anchors), **T3 = 2,021** (Local anchors). The build pipeline draws on four primary data sources.
+Clusters are counted by tier — Regional, District, and Local anchors — on the GIS platform rather than restated here, because a wiki snapshot goes stale between processing runs. The build pipeline draws on four primary data sources.
 
 ### Primary data sources
 
 **OpenStreetMap (ODbL licence).** Retail chain locations filtered by Wikidata QID via the Overpass API. The current ingest covers more than sixty chains spanning hypermarkets, hardware superstores, warehouse clubs, electronics retailers, sporting-goods stores, and pharmacies.
 
-**Overture Maps Foundation (CDLA Permissive 2.0).** Civic anchor locations extracted from the Places dataset using the `taxonomy.primary` field. Current coverage includes 27,833 medical and 28,846 higher-education records across the 24 countries.
+**Overture Maps Foundation (CDLA Permissive 2.0).** Civic anchor locations extracted from the Places dataset, covering medical and higher-education sites across the 24 countries.
 
 **Kontur Population 2023 (CC BY 4.0).** A global H3 resolution-8 population hex grid covering all 24 countries; aggregated to H3 resolution-7 (≈1.22 km² per cell) for catchment calculations.
 
 **WorldPop 100-metre raster (2026 release, CC BY 4.0).** Used in combination with per-country spend multipliers from BLS (United States), Statistics Canada, and Eurostat household budget surveys to model grocery, hardware, and wholesale spend potential at the catchment level.
 
-The clustering methodology is a two-pass DBSCAN: a first pass identifies hypermarket and full-anchor cores, a second pass adds peripheral hardware and warehouse-club anchors within a span constraint.
+Clusters are formed in two passes: the first identifies hypermarket and full-anchor cores, the second adds peripheral hardware and warehouse-club anchors that fall within the cluster's span.
 
 ## Co-location Tier System
 
@@ -64,51 +64,43 @@ The tier rule is compositional rather than count-based. A site with four co-loca
 
 ### Span ranking and anchor categories
 
-**Geometric span ranking within tiers.** Within each tier, clusters are ordered by `span_km` — the diameter of the smallest enclosing circle that contains all member anchors. Compact clusters (`span_km` below 2.5) rank ahead of dispersed clusters. A cap is applied to prevent the algorithm from extending an arterial corridor into a single notional cluster.
+**Geometric span ranking within tiers.** Within each tier, clusters are ordered by span — the diameter of the smallest circle containing all member anchors. Compact clusters rank ahead of dispersed ones, because anchors within walking or short-driving distance of each other represent a genuinely shared trade position. An upper limit prevents a long arterial corridor being treated as one cluster.
 
 **Anchor categories.** Six anchor categories are recognised in the current build: `hypermarket`, `hardware`, `warehouse_club`, `electronics`, `sporting_goods`, and `pharmacy`. Hypermarket, hardware, and warehouse-club are weighted as tier-determining; electronics, sporting-goods, and pharmacy are recognised as supporting anchors and contribute to the descriptive fields but do not alter tier classification.
 
 ## Regional Markets
 
-A Regional Market is a named municipality or equivalent administrative unit that contains one or more co-location clusters and lies within commuting distance of a major metropolitan centre. Three settlement types are distinguished:
+A Regional Market is a named municipality or equivalent administrative unit that contains one or more co-location clusters. Each market records the metropolitan centre it is measured against and its straight-line distance from that centre.
 
-| Type | Distance from major metro | Top 400 status |
-|---|---|---|
-| **Metro-core** | < 15 km | Excluded from Top 400 (covered by institutional metro-market research) |
-| **Suburban-regional** | 15–80 km | Included in the Top 400 (the research gap) |
-| **Standalone-secondary** | > 80 km | Excluded from Top 400 (separate analysis category) |
+**Distance is recorded, not gated.** It describes where a market sits; it does not decide whether the market qualifies. Across the published set, recorded distances run from roughly 12 to nearly 700 kilometres, with a median near 80. Markets close enough to read as extensions of a metro core and markets several hundred kilometres from any major centre both appear in the published set, because both can carry the anchor composition the framework selects on.
 
-### Suburban-regional band and coherence constraint
+Two settlement relationships are distinguished descriptively. Most markets are satellites, recorded against the metropolitan centre they relate to. A smaller group are standalone regional centres — places that function independently rather than as satellites, and that are published on the same terms as any other qualifying market.
 
-The suburban-regional type is the Top 400 pool. Markets closer than 15 km from a major metro centroid are treated as extensions of the metro core. Markets further than 80 km from any major metro centroid are standalone secondary cities that function independently rather than as satellites; they are tracked separately and do not appear in the Top 400. A geographic coherence constraint excludes name-collision aggregations: any settlement whose constituent clusters span more than 200 km is excluded as an administrative artefact rather than a functioning market.
-
-**Total count: 4,436 Regional Markets** (all three types combined). Of these, **2,327 are in North America** and **2,109 are in Europe**.
+A geographic coherence rule excludes name-collision aggregations: a settlement whose constituent clusters are scattered far too widely to form one trading location is treated as an administrative artefact rather than a functioning market.
 
 ## Top 400 Qualification Method
 
-The Top 400 Regional Markets list is a curated set of suburban-regional settlements, not a numeric ranking. The set is produced separately for North America and Europe, yielding two lists of 400 markets each, ordered alphabetically rather than by any score. No rank or score field is published for any market. The suburban-regional classification (15–80 km, described above) is a pre-filter: every market in the set is already in the correct proximity band.
+What puts a market in the Top 400 is the composition of retail anchors that have already converged on it. The set is produced separately for North America and Europe, yielding two lists of 400 markets each, ordered alphabetically rather than by any score. No rank or score field is published for any market.
 
-### Qualification gates
+### Qualification
 
-A market qualifies for the Top 400 by clearing one of three compositional gates, applied to its co-location clusters:
+A market qualifies on the mix of independent anchor categories present across its co-location clusters — the same compositional logic behind the tier system, applied at market rather than cluster level. A market isolated from other qualifying markets is assessed on the same compositional basis, so that a genuine regional centre is not excluded for having no qualifying neighbours. The specific gate predicates are platform logic and are not restated here.
 
-1. **Main gate.** A hypermarket anchor plus at least two of: hardware, price club, lifestyle, electronics, or sport.
-2. **Narrower gate.** A hypermarket anchor plus a hardware anchor only, present across at least two distinct clusters.
-3. **Isolated-market gate.** The same narrower gate (hypermarket plus hardware, across at least two distinct clusters), applied to markets that are geographically isolated from other qualifying markets.
+Each continent's 400 are drawn from a larger qualifying pool: 650 markets across fifteen countries in Europe, and 1,121 across three in North America. Where the qualifying pool exceeds 400, the markets with the strongest anchor composition are published. Per-country counts are a result of that cutoff, not a quota set in advance.
 
 A composite score exists internally to support selection but is not published and is not a market-facing ranking. It has no bearing on how a market is described in this wiki.
 
-No metro-distance multiplier is applied. Under a previous iteration of the methodology, a distance bonus inadvertently caused standalone secondary cities to outrank genuine suburbs of major metros. The current design separates classification from selection: the 15–80 km filter determines whether a market is eligible for the suburban-regional pool; anchor composition determines whether it qualifies.
+**No metro-distance term participates in selection.** Under a previous iteration of the methodology, a distance bonus inadvertently caused standalone secondary cities to outrank genuine suburbs of major metros. That term was removed. Distance is now recorded against each market as descriptive context, and anchor composition alone determines whether a market qualifies. Population and consumer-spend figures are likewise descriptive and do not participate in selection.
 
 The full lists are published separately: see [[atlas-top-400-north-america|Top 400 Regional Markets — North America]] and [[atlas-top-400-europe|Top 400 Regional Markets — Europe]].
 
 ## Civic Infrastructure Layer
 
-The civic infrastructure layer adds medical and higher-education anchor presence to the cluster member data. The source is the Overture Maps Foundation Places dataset, queried for the `healthcare` and `higher_education` primary categories.
+The civic infrastructure layer adds medical and higher-education anchor presence to the cluster member data. The source is the Overture Maps Foundation Places dataset.
 
-**Coverage.** 27,833 medical records and 28,846 higher-education records across the 24 countries.
+**Coverage.** Tens of thousands of medical and higher-education records across the 24 countries. Current counts are published live on the GIS platform.
 
-**Encoding.** Civic presence is encoded as a binary flag per cluster: if any cluster member is classified as medical or higher-education, the cluster carries `civic = True`. The Regional Market inherits the civic flag from any constituent cluster. The civic flag is a descriptive dataset field, not a public ranking input.
+**Encoding.** Civic presence is recorded as a simple yes or no per cluster: a cluster carries it if any member site is medical or higher-education, and a Regional Market inherits it from any of its clusters. It is a descriptive field, not a public ranking input.
 
 The civic layer is conceptually distinct from the retail layer. A hospital adjacent to a hypermarket-and-hardware cluster does not turn T2 into T1 — the tier classification is anchor-composition only. The civic flag operates orthogonally as a market-quality signal.
 
@@ -155,7 +147,7 @@ Work planned or intended for the next iterations of the system.
 
 **Climate and hazard layer completion.** The seismic peak-ground-acceleration layer and the flood-hazard layer are scheduled for build in May–June 2026. Once delivered, every Regional Market will carry a complete envelope record covering climate zone, ecoregion, seismic design category, and flood-zone designation.
 
-**OLS regression on span_km.** A cluster-level ordinary-least-squares regression of `span_km` against catchment population density, modelled spend, and mobility-derived activity is in preparation. Country fixed effects and an urban-core versus peri-urban interaction term are intended.
+**Regression on cluster span.** A cluster-level regression of geometric span against catchment population density, modelled spend, and mobility-derived activity is in preparation, intended to test how tightly anchor clustering tracks underlying demand.
 
 **Per-market article surfaces.** Dedicated wiki articles for each of the 400 Regional Markets in the Top-400 list are planned. The articles are intended to combine the data fields described here with locally-resolved narrative drawn from public sources.
 

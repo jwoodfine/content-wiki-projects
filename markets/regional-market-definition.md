@@ -90,7 +90,6 @@ Every count below is reported with the rule that produced it. Figures are as of 
 | Published RM objects (gateway, 2026-05-30 build) | Permissive rule (≥1 co-location), unchanged | 4,436 (2026-05-30 build, 18 countries — see [[about-regional-markets-system|Regional Markets Intelligence System]]) | Coverage; grown by dataset expansion, not by a floor change |
 | Published RM objects (gateway, most recent full processing run) | Permissive rule (≥1 co-location), unchanged | 12,689 (2026-08-06 build, 24 countries) | Coverage; grown by dataset expansion, not by a floor change |
 | Top-400 co-locations (per region) | Composition gates (internal score, not published) | 400 NA + 400 EU | Qualifying candidate sites, not a ranked list; adopted per the recommendation above |
-| NA co-locations (DBSCAN) | eps/minPts/IoU — sensitive | 226–476 across parameter sweep | Cluster count (descriptive) |
 
 Two honesty notes belong in the platform's documentation alongside this table:
 

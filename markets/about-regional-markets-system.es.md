@@ -20,9 +20,9 @@ editor: editorial
 
 El Sistema de Inteligencia de Mercados Regionales es un marco de análisis geográfico de escala continental que identifica mercados minoristas suburbanos — municipios y suburbios con nombre propio situados a distancia de desplazamiento diario de los principales centros metropolitanos — definidos por la convergencia de grandes anclas minoristas, infraestructura cívica y captación demográfica.
 
-La investigación aborda una brecha en el análisis institucional de bienes raíces comerciales. Las principales organizaciones de investigación, incluidas Oxford Economics, CBRE y Colliers International, producen cobertura extensa de los mercados metropolitanos primarios: Londres, París, Nueva York, Chicago, Dallas, Toronto y sus núcleos urbanos inmediatos. El anillo suburbano — el cinturón de municipios con nombre propio situados de 15 a 80 kilómetros de un centro metropolitano importante — está sistemáticamente subanali­zado por la investigación institucional. Es precisamente aquí donde los grandes formatos minoristas, los sistemas hospitalarios y los campus universitarios se co-localizan en patrones que funcionan como indicadores anticipados de actividad demográfica y económica a escala sub-metropolitana. El conjunto de datos de Mercados Regionales es la superficie analítica para ese anillo suburbano.
+La investigación aborda una brecha en el análisis institucional de bienes raíces comerciales. La cobertura de investigación establecida se concentra en los mercados metropolitanos primarios: Londres, París, Nueva York, Chicago, Dallas, Toronto y sus núcleos urbanos inmediatos. El cinturón de municipios con nombre propio situados más allá de esos núcleos se analiza con mucha menos constancia. Es precisamente aquí donde los grandes formatos minoristas, los sistemas hospitalarios y los campus universitarios se co-localizan en patrones que funcionan como indicadores anticipados de actividad demográfica y económica a escala sub-metropolitana. El conjunto de datos de Mercados Regionales es la superficie analítica para ese cinturón.
 
-El conjunto de datos actual abarca 7.567 clústeres de co-localización en 24 países de América del Norte y Europa, clasificados en tres niveles de composición (T1, T2, T3) y agregados en 4.436 Mercados Regionales con nombre propio. El Top 400 es el producto publicado insignia de este sistema: un subconjunto curado y seleccionado editorialmente de aproximadamente 400 mercados por continente. Método de selección más abajo.
+El conjunto de datos actual abarca varios miles de clústeres de co-localización en 24 países de América del Norte y Europa, clasificados en tres niveles de composición (T1, T2, T3) y agregados en Mercados Regionales con nombre propio. El Top 400 es el producto publicado insignia de este sistema: un subconjunto curado y seleccionado editorialmente de aproximadamente 400 mercados por continente. Método de selección más abajo.
 
 ## Alcance del Conjunto de Datos
 
@@ -36,19 +36,19 @@ La construcción actual cubre 7.567 clústeres de co-localización en 24 países
 | Europa — central | Polonia, Reino Unido, Chequia, Hungría, Eslovaquia |
 | Europa — sureste | Bulgaria, Croacia, Rumanía |
 
-Recuentos de clústeres por nivel: **T1 = 1.746** (Anclas regionales), **T2 = 2.726** (Anclas de distrito), **T3 = 2.021** (Anclas locales). El proceso de construcción utiliza cuatro fuentes de datos primarias.
+Los recuentos de clústeres por nivel — anclas regionales, de distrito y locales — se publican en la plataforma GIS y no se reproducen aquí, porque una instantánea en el wiki queda obsoleta entre ejecuciones de procesamiento. El proceso de construcción utiliza cuatro fuentes de datos primarias.
 
 ### Fuentes de datos primarias
 
 **OpenStreetMap (licencia ODbL).** Ubicaciones de cadenas minoristas filtradas por QID de Wikidata mediante la API de Overpass. La ingestión actual cubre más de sesenta cadenas que abarcan hipermercados, grandes almacenes de ferretería, clubes de precio, tiendas de electrónica, artículos deportivos y farmacias.
 
-**Overture Maps Foundation (CDLA Permissive 2.0).** Ubicaciones de anclas cívicas extraídas del conjunto de datos de Lugares usando el campo `taxonomy.primary`. La cobertura actual incluye 27.833 registros médicos y 28.846 de educación superior en los 24 países.
+**Overture Maps Foundation (CDLA Permissive 2.0).** Ubicaciones de anclas cívicas extraídas del conjunto de datos de Lugares, que cubre sitios médicos y de educación superior en los 24 países.
 
 **Kontur Population 2023 (CC BY 4.0).** Una cuadrícula global de población H3 de resolución 8 que cubre los 24 países; agregada a resolución H3-7 (≈1,22 km² por celda) para los cálculos de captación.
 
 **WorldPop a 100 metros (edición 2026, CC BY 4.0).** Se utiliza en combinación con multiplicadores de gasto por país de BLS (Estados Unidos), Statistics Canada y encuestas de presupuesto familiar de Eurostat para modelar el potencial de gasto en alimentación, ferretería y mayoristas a nivel de captación.
 
-La metodología de clusterización es un DBSCAN de dos pasadas: una primera pasada identifica los núcleos de hipermercados y anclas completas; una segunda pasada añade las anclas periféricas de ferretería y club de precio dentro de una restricción de extensión.
+Los clústeres se forman en dos pasadas: la primera identifica los núcleos de hipermercados y anclas completas; la segunda añade las anclas periféricas de ferretería y club de precio que caen dentro de la extensión del clúster.
 
 ## Sistema de Niveles de Co-localización
 
@@ -64,49 +64,41 @@ La regla de nivel es composicional, no basada en conteo. Un sitio con cuatro hip
 
 ### Clasificación por extensión y categorías de anclas
 
-**Clasificación por extensión geométrica dentro de los niveles.** Dentro de cada nivel, los clústeres se ordenan por `span_km` — el diámetro del círculo envolvente mínimo que contiene todas las anclas miembro. Los clústeres compactos (`span_km` inferior a 2,5) se clasifican antes que los dispersos.
+**Clasificación por extensión geométrica dentro de los niveles.** Dentro de cada nivel, los clústeres se ordenan por extensión — el diámetro del círculo mínimo que contiene todas las anclas miembro. Los clústeres compactos se clasifican antes que los dispersos, porque unas anclas situadas a corta distancia entre sí ocupan una posición comercial genuinamente compartida. Un límite superior impide que un corredor arterial largo se trate como un solo clúster.
 
 **Categorías de anclas.** Se reconocen seis categorías de anclas en la construcción actual: `hipermercado`, `ferretería`, `club de precio`, `electrónica`, `artículos deportivos` y `farmacia`. Hipermercado, ferretería y club de precio tienen peso determinante para el nivel; electrónica, artículos deportivos y farmacia se reconocen como anclas de apoyo.
 
 ## Mercados Regionales
 
-Un Mercado Regional es un municipio o unidad administrativa equivalente con nombre propio que contiene uno o más clústeres de co-localización y se encuentra a distancia de desplazamiento diario de un centro metropolitano importante. Se distinguen tres tipos de asentamiento:
+Un Mercado Regional es un municipio o unidad administrativa equivalente con nombre propio que contiene uno o más clústeres de co-localización. Cada mercado registra el centro metropolitano frente al cual se mide y su distancia en línea recta desde ese centro.
 
-| Tipo | Distancia del metro principal | Estado en el Top 400 |
-|---|---|---|
-| **Núcleo metropolitano** | < 15 km | Excluido del Top 400 (cubierto por la investigación institucional de mercados metropolitanos) |
-| **Suburbano-regional** | 15–80 km | Incluido en el Top 400 (la brecha de investigación) |
-| **Secundario independiente** | > 80 km | Excluido del Top 400 (categoría de análisis separada) |
+**La distancia se registra, no condiciona.** Describe dónde se sitúa un mercado; no decide si califica. En el conjunto publicado, las distancias registradas van de unos 12 a casi 700 kilómetros, con una mediana cercana a los 80. Tanto los mercados lo bastante próximos como para leerse como extensiones de un núcleo metropolitano como los situados a varios cientos de kilómetros de cualquier centro importante figuran en el conjunto publicado, porque ambos pueden presentar la composición de anclas sobre la que selecciona el marco.
 
-### Banda suburbana-regional del Top 400
+Se distinguen dos relaciones de asentamiento, con carácter descriptivo. La mayoría de los mercados son satélites, registrados frente al centro metropolitano con el que se relacionan. Un grupo menor son centros regionales independientes — lugares que funcionan por sí mismos en lugar de como satélites, y que se publican en los mismos términos que cualquier otro mercado calificado.
 
-El tipo suburbano-regional es el grupo del Top 400. Los mercados a menos de 15 km del centroide de un metro principal se tratan como extensiones del núcleo metropolitano. Los mercados a más de 80 km de cualquier centroide de metro principal son ciudades secundarias que funcionan de forma independiente.
-
-**Recuento total: 4.436 Mercados Regionales** (los tres tipos combinados). De estos, **2.327 están en América del Norte** y **2.109 en Europa**.
+Una regla de coherencia geográfica excluye las agregaciones por coincidencia de nombre: un asentamiento cuyos clústeres constituyentes están demasiado dispersos para formar una sola localización comercial se trata como un artefacto administrativo y no como un mercado en funcionamiento.
 
 ## Método de calificación para el Top 400
 
-La lista del Top 400 Mercados Regionales es un conjunto curado de asentamientos suburbano-regionales, no una clasificación numérica. La lista se produce por separado para América del Norte y Europa, generando dos listas de 400 mercados cada una, ordenadas alfabéticamente y no por puntuación. Ningún campo de posición o puntuación se publica para ningún mercado.
+Lo que sitúa a un mercado en el Top 400 es la composición de anclas minoristas que ya han convergido en él. La lista se produce por separado para América del Norte y Europa, generando dos listas de 400 mercados cada una, ordenadas alfabéticamente y no por puntuación. Ningún campo de posición o puntuación se publica para ningún mercado.
 
-### Criterios de calificación
+### Calificación
 
-Un mercado califica para el Top 400 al superar una de tres condiciones de composición aplicadas a sus clústeres de co-localización:
+Un mercado califica por la mezcla de categorías de ancla independientes presentes en sus clústeres de co-localización — la misma lógica de composición que sustenta el sistema de niveles, aplicada a escala de mercado y no de clúster. Un mercado aislado de otros mercados calificados se evalúa sobre la misma base de composición, de modo que un centro regional genuino no quede excluido por no tener vecinos calificados. Los criterios concretos son lógica de la plataforma y no se reproducen aquí.
 
-1. **Condición principal.** Un ancla de hipermercado más al menos dos de: ferretería, club de precio, estilo de vida, electrónica o artículos deportivos.
-2. **Condición restringida.** Un ancla de hipermercado más un ancla de ferretería únicamente, presentes en al menos dos clústeres distintos.
-3. **Condición para mercados aislados.** La misma condición restringida (hipermercado más ferretería, en al menos dos clústeres distintos), aplicada a mercados geográficamente aislados de otros mercados calificados.
+Los 400 de cada continente se extraen de un grupo calificado mayor: 650 mercados en quince países en Europa y 1.121 en tres países en América del Norte. Cuando el grupo calificado supera los 400, se publican los mercados con la composición de anclas más sólida. Los recuentos por país son un resultado de ese corte, no una cuota fijada de antemano.
 
 Existe una puntuación compuesta de uso interno para apoyar la selección, pero no se publica y no constituye una clasificación de cara al público. No influye en cómo se describe un mercado en esta wiki.
 
-No se aplica ningún multiplicador de distancia al metro principal. Bajo una iteración anterior de la metodología, una bonificación por distancia hacía que ciudades secundarias independientes superaran a suburbios genuinos de metros principales. El diseño actual separa la clasificación de la selección: el filtro de 15–80 km determina si un mercado es elegible para el grupo suburbano-regional; la composición de anclas determina si califica.
+**Ningún término de distancia al metro participa en la selección.** Bajo una iteración anterior de la metodología, una bonificación por distancia hacía que ciudades secundarias independientes superaran a suburbios genuinos de metros principales. Ese término se eliminó. La distancia se registra ahora en cada mercado como contexto descriptivo, y solo la composición de anclas determina si un mercado califica. Las cifras de población y de gasto de consumo son igualmente descriptivas y no participan en la selección.
 
 Las listas completas se publican por separado: véase [[atlas-top-400-north-america|Top 400 Mercados Regionales — América del Norte]] y [[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]].
 
 ## Capa de Infraestructura Cívica
 
-La capa de infraestructura cívica añade la presencia de anclas médicas y de educación superior a los datos de los miembros del clúster. La fuente es el conjunto de datos de Lugares de la Overture Maps Foundation, consultado para las categorías primarias de `salud` y `educación superior`.
+La capa de infraestructura cívica añade la presencia de anclas médicas y de educación superior a los datos de los miembros del clúster. La fuente es el conjunto de datos de Lugares de la Overture Maps Foundation.
 
-**Cobertura.** 27.833 registros médicos y 28.846 de educación superior en los 24 países.
+**Cobertura.** Decenas de miles de registros médicos y de educación superior en los 24 países. Los recuentos actuales se publican en la plataforma GIS.
 
 **Codificación.** La presencia cívica se codifica como un indicador binario por clúster. El Mercado Regional hereda el indicador cívico de cualquier clúster constituyente.
 
@@ -149,7 +141,7 @@ Trabajo planificado o previsto para las próximas iteraciones del sistema.
 
 **Finalización de la capa climática y de riesgos.** La capa de aceleración pico del suelo sísmica y la capa de riesgo de inundación están previstas para su construcción en mayo–junio de 2026. Una vez entregadas, cada Mercado Regional contará con un registro de envolvente completo que cubrirá zona climática, ecorregión, categoría de diseño sísmico y designación de zona de inundación.
 
-**Regresión OLS sobre span_km.** Una regresión por mínimos cuadrados ordinarios a nivel de clúster de `span_km` frente a la densidad de población de captación, el gasto modelado y la actividad derivada de la movilidad está en preparación. Se contemplan efectos fijos por país y un término de interacción entre núcleo urbano y área peri-urbana.
+**Regresión sobre la extensión del clúster.** Una regresión a nivel de clúster de la extensión geométrica frente a la densidad de población de captación, el gasto modelado y la actividad derivada de la movilidad está en preparación, destinada a comprobar hasta qué punto la concentración de anclas sigue a la demanda subyacente.
 
 **Artículos por mercado.** Artículos wiki dedicados a cada uno de los 400 Mercados Regionales de la lista Top-400 están previstos. Los artículos tienen como objetivo combinar los campos de datos aquí descritos con narrativa de resolución local basada en fuentes públicas.
 
