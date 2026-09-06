@@ -93,6 +93,42 @@ Las barras de captación y de gasto se vuelven más exigentes al pasar de Local 
 
 Los umbrales son deliberadamente gruesos — están diseñados para distinguir clústeres de relevancia nacional de nodos locales, no para clasificar con finura dentro de un mismo nivel. Se prevé un refinamiento en una actualización futura, a medida que se disponga de datos de captación adicionales.
 
+## Sensibilidad: el conteo de clústeres es una salida del modelo, no una medición
+
+La agrupación es un procedimiento descriptivo. Divide las ubicaciones minoristas observadas bajo un modelo de densidad elegido; no recupera un número verdadero e independiente del ajuste que exista en el mundo. El número devuelto se mueve materialmente cuando los ajustes se mueven dentro de un rango defendible.
+
+Los barridos de parámetros realizados durante el desarrollo demuestran esto directamente: en el rango razonable probado, el conteo de clústeres norteamericanos varía en más del doble, sin ningún cambio en los datos minoristas subyacentes. Un conteo titular de clústeres es, por tanto, una cifra producida bajo una parametrización elegida. Toda presentación de un conteo de clústeres indica los parámetros que lo produjeron — un conteo sin cualificar invita al lector a tratar una elección de modelado como un hecho observado.
+
+## El puntaje de fortaleza planeado
+
+Las compuertas de nivel clasifican un clúster; no miden cuánto mercado comanda. Un **puntaje de fortaleza** por clúster separado está destinado a responder esa segunda pregunta. Las dos dimensiones se informan una al lado de la otra una vez que estén disponibles; nunca se colapsan en un solo color o un solo número.
+
+### Principios de diseño
+
+El puntaje de fortaleza previsto es explicable, no opaco. Es una combinación transparente de factores nombrados, cada uno de los cuales puede mostrarse en el cuadro de mando del clúster con su propio valor y su contribución al total. Sin ponderaciones de aprendizaje automático ni términos de interacción ocultos. Un revisor debe poder reconstruir el puntaje a partir de los factores mostrados.
+
+### Conjunto de variables propuesto
+
+Tres cantidades del lado de la demanda que las capas de datos ya admiten:
+
+1. **Población alcanzada** — población de la cuenca e hogares, de las estimaciones de población WorldPop 2026. Este es el tamaño del mercado direccionable.
+2. **Gasto capturado** — gasto minorista anual estimado en la cuenca, derivado de la población y proxies de gasto per cápita publicados por agencias estadísticas nacionales. Lleva las advertencias de estimación documentadas en [[spend-population-provenance]].
+3. **Accesibilidad** — qué tan accesible es la cuenca, expresada mediante demanda de origen-destino observada donde los datos de movilidad de un país lo permiten, y una aproximación por banda de distancia en los demás casos. Cuál de las dos sustenta cada clúster se divulga en el propio clúster, de modo que un sitio con movilidad observada y uno aproximado nunca se clasifican en el mismo grupo sin que el lector lo sepa.
+
+### Ponderaciones: una cuestión abierta
+
+Cómo se combinan estos tres factores en un solo número es una cuestión abierta que este artículo deliberadamente no resuelve. Tres formas candidatas están sobre la mesa: una suma normalizada de peso igual, una clasificación lexicográfica y ponderaciones ajustables por el operador. Hasta que se ratifique la ponderación, el cuadro de mando muestra los valores de los factores individualmente para que cualquier compuesto mostrado siempre sea descomponible.
+
+### Qué está destinado a mostrar el cuadro de mando
+
+Para cada clúster seleccionado, el panel de detalle planeado presenta, como mínimo:
+
+- El nivel del clúster y su definición en lenguaje sencillo.
+- La población e informe de hogares de la cuenca, con la vigencia indicada.
+- El gasto anual estimado, explícitamente enmarcado como una estimación modelada.
+- La lista de cadenas co-ubicadas que impulsan la composición.
+- El puntaje de fortaleza (cuando esté construido) con sus principales factores, la contribución de cada uno, y si su cifra de accesibilidad es observada o aproximada.
+
 ## Referencias
 
 *Los datos de ubicación de hospitales, universidades y minoristas usados para derivar los radios de captación de clústeres provienen de colaboradores de OpenStreetMap y están licenciados bajo la Licencia de Base de Datos Abierta (ODbL). Datos de OpenStreetMap © colaboradores de OpenStreetMap.*
@@ -103,3 +139,5 @@ Los umbrales son deliberadamente gruesos — están diseñados para distinguir c
 - [[co-location-methodology]]
 - [[co-location-ranking-system]]
 - [[retail-brand-family-taxonomy]]
+- [[trade-area-methodology]] — derivación de la cuenca y la migración desde bandas de distancia hacia áreas de atracción observadas
+- [[spend-population-provenance]] — la cadena de estimación para el factor de gasto en el puntaje de fortaleza

@@ -93,12 +93,50 @@ The catchment and spend bars tighten moving from Local up through Regional, and 
 
 Thresholds are intentionally coarse — designed to distinguish nationally significant clusters from local nodes, not to finely rank within a tier. Refinement is planned for a future update as additional catchment data becomes available.
 
+## Sensitivity: the cluster count is a model output, not a measurement
+
+Clustering is a descriptive procedure. It partitions the retailer locations observed under a chosen density model; it does not recover a true, setting-independent number of clusters that exists in the world. The number returned moves materially when the settings move within a defensible range.
+
+Parameter sweeps conducted during development demonstrate this directly: across the reasonable range tested, the North American cluster count varies by more than a factor of two, with no change whatsoever to the underlying retailer data. A headline cluster count is therefore a figure produced under one chosen parameterisation. Any presentation of a cluster count states the parameters that produced it — an unqualified count invites a reader to treat a modelling choice as an observed fact.
+
+## The planned strength score
+
+The tier gates classify a cluster; they do not measure how much market it commands. A separate per-cluster **strength score** is intended to answer that second question. The two dimensions are reported side by side once available; they are never collapsed into a single colour or a single number.
+
+### Design principles
+
+The intended strength score is explainable, not opaque. It is a transparent combination of named drivers, each of which can be shown in the cluster scorecard with its own value and its contribution to the total. No machine-learned weights and no hidden interaction terms. A reviewer must be able to reconstruct the score from the displayed drivers.
+
+### Proposed driver set
+
+Three demand-side quantities the data layers already support:
+
+1. **Population reached** — catchment population and households, from the WorldPop 2026 population estimates. This is the size of the addressable market.
+2. **Spend captured** — estimated annual retail spend in the catchment, derived from population and per-capita spend proxies published by national statistical agencies. This carries the estimation caveats documented in the [[spend-population-provenance]] article and must be displayed with that framing.
+3. **Accessibility** — how reachable the catchment is, expressed through observed origin-destination demand where a country's mobility data supports it, and a distance-band approximation elsewhere. Which of the two a cluster rests on is disclosed on the cluster itself, so an observed-mobility site and an approximated site are never ranked in one pool without the reader knowing.
+
+### Weights: an open question
+
+How these three drivers combine into a single number is an open question that this article deliberately does not resolve. Three candidate forms are on the table: an equal-weight normalised sum, a lexicographic ranking, and operator-tunable weights. Until the weighting is ratified, the scorecard displays driver values individually so any composite shown is always decomposable. A composite score with undisclosed weights would reintroduce exactly the credibility problem that the tier-label revision exists to remove.
+
+### What the scorecard is intended to show
+
+For each clicked cluster the planned detail panel presents, at minimum:
+
+- The cluster's tier and its plain-language definition.
+- Catchment population and households, with vintage noted.
+- Estimated annual spend, explicitly framed as a modelled estimate.
+- The list of co-located chains driving the composition.
+- The strength score (when built) with its top drivers, each driver's contribution, and whether its accessibility figure is observed or approximated.
+
 ## See Also
 
 - [[co-location-tier-nomenclature]]
 - [[co-location-methodology]]
 - [[co-location-ranking-system]]
 - [[retail-brand-family-taxonomy]]
+- [[trade-area-methodology]] — catchment derivation, geodesic computation, and the migration from distance bands toward observed trade areas
+- [[spend-population-provenance]] — the estimation chain for the spend driver in the strength score
 
 ## References
 

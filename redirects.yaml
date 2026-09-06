@@ -562,3 +562,10 @@ redirects:
     to: /category/building-design
   - from: /vernacular-architecture
     to: /category/building-design
+
+  # Reconciliation, 2026-09-05: co-location-tiering-scoring documented the points-based
+  # T1/T2/T3 compositional scale retired 2026-05-16, which describes no current cluster.
+  # Its two unique passages (cluster-count sensitivity, the planned strength score) were
+  # merged into the canonical four-tier predicate-gate article and the source archived.
+  - from: /co-location-tiering-scoring
+    to: /wiki/catchment-ranking-methodology-v3

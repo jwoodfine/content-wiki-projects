@@ -80,11 +80,10 @@ El Mercado Metro es un contenedor contextual más grueso: un área metropolitana
 | Objetos RM publicados (gateway, compilación 2026-05-30) | Regla permisiva (≥1 co-ubicación), sin cambios | 4.436 (compilación 2026-05-30, 18 países — véase [[about-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]]) | Cobertura; crecida por expansión de datos, no por un cambio de umbral |
 | Objetos RM publicados (gateway, ejecución de procesamiento más reciente) | Regla permisiva (≥1 co-ubicación), sin cambios | 12.689 (compilación 2026-08-06, 24 países) | Cobertura; crecida por expansión de datos, no por un cambio de umbral |
 | Top-400 co-ubicaciones (por región) | Condiciones de composición (puntuación interna, no publicada) | 400 NA + 400 UE | Sitios candidatos calificados, no una lista clasificada; adoptada según la recomendación anterior |
-| Co-ubicaciones NA (DBSCAN) | eps/minPts/IoU — sensible | 226–476 en el barrido de parámetros | Conteo de clústeres (descriptivo) |
 
 ## Véase también
 
 - [[about-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]] — el conjunto de datos completo, el sistema de niveles y el método de calificación de los que parten las definiciones de este artículo
-- [[co-location-tiering-scoring]] — cómo se calculan los niveles y el puntaje de fortaleza planeado para cada co-ubicación dentro de un Mercado Regional
+- [[catchment-ranking-methodology-v3]] — cómo se calculan los niveles y el puntaje de fortaleza planeado para cada co-ubicación dentro de un Mercado Regional
 - [[trade-area-methodology]] — cómo se define el área de atracción para cada co-ubicación
 - [[spend-population-provenance]] — la cadena de estimación para las cifras de población y gasto
