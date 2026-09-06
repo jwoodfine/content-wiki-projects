@@ -14,47 +14,126 @@ language_protocol: TRANSLATE-ES
 keynote: false
 last_edited: 2026-09-06
 editor: editorial
-short_description: "Índice de las 21 entradas italianas en el conjunto Top 400 Mercados Regionales — Europa, filtrado de la tabla continental con agrupaciones por referencia metropolitana."
+short_description: "Índice de los 62 Mercados Regionales de Italia que cumplen las puertas de composición de co-ubicación bajo el conjunto de datos del 07-08-2026."
 paired_with: markets/atlas-italy.md
 ---
 
-**Reconstrucción pendiente (2026-09-06).** La tabla de mercados y los recuentos de esta página aún reflejan la selección anterior a la reconstrucción. Bajo el conjunto de datos confirmado 2026-08-07, ya publicado en [[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]], Italia publica 62 Mercados Regionales. Reconstruir esta tabla por país es una tarea aparte y delimitada — la discrepancia queda señalada aquí, no resuelta.
+**Reconstruida (06-09-2026).** Esta página se reconstruyó frente al conjunto de datos confirmado
+del 07-08-2026, la misma generación ahora vigente en
+[[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]]. La versión anterior listaba 21
+entradas italianas de una selección superada; el recuento confirmado es de 62. Cada mercado,
+punto de referencia, distancia y recuento de clústeres a continuación procede de ese conjunto
+de datos.
 
-El **índice de Mercados Regionales de Italia** enumera las 21 entradas italianas en el conjunto [[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]]. Cada entrada es un suburbio con nombre propio o municipio satélite situado entre 15 y 80 kilómetros de un punto de referencia metropolitano italiano importante que contiene al menos un clúster de co-localización minorista, calificado bajo el [[about-regional-markets-system|marco de mercado regional de co-localización]]. Esta página es una vista filtrada y específica de Italia de esa tabla continental — no un conjunto de datos independiente —, de modo que cada entrada y conteo de nivel a continuación coincide exactamente con la tabla continental y se actualiza automáticamente si esa tabla se corrige. No se publica posición ni puntuación para ningún mercado.
+El **índice de mercados regionales de Italia** enumera los 62 mercados de Italia que cumplen
+las puertas de composición del sistema de co-ubicación bajo el conjunto de datos vigente del
+07-08-2026, extraídos de una reserva calificada de 108. Esta página es una vista filtrada,
+específica del país, de la tabla continental — no un conjunto de datos aparte. No se publica
+ninguna clasificación ni puntuación para ningún mercado.
 
-## Agrupaciones metropolitanas
+## Cobertura
 
-Los 21 mercados de Italia se agrupan mayoritariamente en torno a Milán (5 mercados), lo que refleja la densidad del cinturón industrial y minorista suburbano del Valle del Po. Verona (3), Bolonia (2), Roma (2) y Bari (2) forman un segundo nivel. Los mercados restantes son entradas individuales referidas a Turín, Génova, Venecia, Mesina, Nápoles, Florencia y Trieste — lo que le da a Italia la dispersión geográfica más amplia en relación con su número de mercados de las siete páginas de desglose por país de esta lista.
+No se publica ninguna clasificación ni puntuación para ningún mercado de esta tabla. Todos los
+mercados listados a continuación cumplen la puerta de composición de Mercado Regional del marco
+— un ancla de hipermercado combinada con al menos dos de {ferretería, club de precio, estilo de
+vida, electrónica, deporte} entre los clústeres de co-ubicación del mercado. Metodología
+completa: [[about-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]].
 
-## Composición por nivel
+El punto de referencia metropolitano registrado para cada mercado es el núcleo metropolitano
+principal más cercano dentro del conjunto de referencia continental del marco — una medición en
+línea recta (a vuelo de pájaro), no una estimación de tiempo de conducción o de desplazamiento
+diario. Tampoco es una afirmación de que el mercado funcione como suburbio de desplazamiento
+diario de ese núcleo. Los 62 mercados de Italia hacen referencia a 17 núcleos distintos. Milán
+concentra 10 entradas, Florencia y Bolonia siete cada una, Turín cinco, y Ancona, Bari, Mesina,
+Nápoles y Venecia cuatro cada una. Dos puntos de referencia se ubican fuera de Italia:
+Saint-Christophe, en el valle de Aosta, referencia Innsbruck (Austria), y Sassari, en Cerdeña,
+referencia Tolón (Francia), a 343 kilómetros a través del mar Tirreno. La distancia mediana de
+referencia de Italia es de 63 kilómetros, y 45 de sus 62 mercados se ubican a menos de 80
+kilómetros de su punto de referencia. Las dos mayores — Cagliari con 389 kilómetros y Sassari
+con 343 — son ambas sardas y reflejan el conjunto de referencia continental del marco, no
+relación alguna de desplazamiento diario.
 
-Asti (suburbio de Turín) es el único mercado italiano de Nivel 1 con ancla cívica. Dieciocho de los 21 mercados de Italia califican con un único clúster de Nivel 1 sin ancla cívica, la composición más común en todo el conjunto europeo. Lucca y Como califican con una combinación de Nivel 2 + Nivel 3.
+La población de la cuenca de influencia consta para los 62 mercados italianos. Las cifras de
+gasto de consumo constan para 36 de los 62 y faltan en los 26 restantes — una laguna declarada
+en los datos de origen, expuesta con claridad en lugar de presentarse como cero.
+
+## Composición de clústeres
+
+Los 62 mercados suman 96 clústeres de co-ubicación — 57 de Nivel 1, dos de Nivel 2 y 37 de
+Nivel 3. Cincuenta y uno de los 62 cuentan con al menos un clúster de Nivel 1. Diez califican
+únicamente con clústeres de Nivel 3, el mayor número de mercados exclusivamente de Nivel 3 de
+cualquier país del conjunto europeo.
 
 ## Mercados
 
-| Mercado | Suburbio de | km | N1 | N2 | N3 | Cívica |
-|---|---|---|---|---|---|---|
-| Asti | Turín | 45 | 1 | 1 | 0 | Sí |
-| La Spezia | Génova | — | 1 | 0 | 0 | — |
-| Castelletto sopra Ticino | Milán | — | 1 | 0 | 0 | — |
-| Lecco | Milán | — | 1 | 0 | 0 | — |
-| Brescia | Verona | — | 1 | 0 | 0 | — |
-| Cremona | Milán | — | 1 | 0 | 0 | — |
-| Curno | Milán | — | 1 | 0 | 0 | — |
-| Mantova | Verona | — | 1 | 0 | 0 | — |
-| Ravenna | Bolonia | — | 1 | 0 | 0 | — |
-| Padova | Venecia | — | 1 | 0 | 0 | — |
-| Milazzo | Mesina | — | 1 | 0 | 0 | — |
-| Viterbo | Roma | — | 1 | 0 | 0 | — |
-| Molfetta | Bari | — | 1 | 0 | 0 | — |
-| Terni | Roma | — | 1 | 0 | 0 | — |
-| Modena | Bolonia | — | 1 | 0 | 0 | — |
-| Trento | Verona | — | 1 | 0 | 0 | — |
-| Benevento | Nápoles | — | 1 | 0 | 0 | — |
-| Lucca | Florencia | — | 0 | 1 | 1 | — |
-| Como | Milán | — | 0 | 1 | 1 | — |
-| Villesse | Trieste | — | 1 | 0 | 0 | — |
-| Casamassima | Bari | — | 1 | 0 | 0 | — |
+Esta tabla es una vista específica del país sobre el conjunto continental
+[[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]]. No se publica ninguna
+clasificación ni puntuación para ningún mercado.
+
+| Mercado | Referencia metropolitana | km | N1 | N2 | N3 |
+|---|---|---|---|---|---|
+| Rivalta di Torino | Turín | 13,7 | 1 | 0 | 1 |
+| Carugate | Milán | 14,7 | 1 | 0 | 0 |
+| Prato | Florencia | 17,9 | 1 | 0 | 2 |
+| Cerro Maggiore | Milán | 24,2 | 1 | 0 | 0 |
+| Caserta | Nápoles | 24,4 | 1 | 0 | 0 |
+| Empoli | Florencia | 25,8 | 1 | 0 | 0 |
+| Chioggia, Venezia | Venecia | 27,6 | 1 | 0 | 0 |
+| Molfetta | Bari | 28,4 | 1 | 0 | 0 |
+| Cernusco Lombardone | Milán | 30,0 | 1 | 0 | 0 |
+| Padova | Venecia | 31,9 | 1 | 0 | 0 |
+| Mantova | Verona | 33,8 | 1 | 0 | 1 |
+| Milazzo | Mesina | 35,4 | 1 | 0 | 0 |
+| Villesse | Trieste | 36,1 | 1 | 0 | 0 |
+| Modena | Bolonia | 37,8 | 3 | 0 | 0 |
+| Gioia Tauro | Mesina | 39,7 | 1 | 0 | 0 |
+| Montecatini-Terme | Florencia | 40,5 | 1 | 0 | 0 |
+| Curno | Milán | 41,2 | 1 | 0 | 0 |
+| Ferrara | Bolonia | 42,1 | 0 | 1 | 1 |
+| Novara | Milán | 43,7 | 1 | 0 | 2 |
+| Asti | Turín | 44,6 | 1 | 1 | 0 |
+| Faenza | Bolonia | 48,3 | 1 | 0 | 1 |
+| San Vendemiano | Venecia | 51,5 | 1 | 0 | 0 |
+| Benevento | Nápoles | 52,5 | 1 | 0 | 1 |
+| Voghera | Milán | 53,6 | 0 | 0 | 2 |
+| Castelletto sopra Ticino | Milán | 53,7 | 1 | 0 | 0 |
+| Arezzo | Florencia | 59,7 | 1 | 0 | 1 |
+| Biella | Turín | 61,4 | 1 | 0 | 0 |
+| Brescia | Verona | 61,8 | 2 | 0 | 1 |
+| Alessandria | Génova | 62,2 | 0 | 0 | 2 |
+| Reggio nell'Emilia | Bolonia | 62,4 | 0 | 0 | 2 |
+| Piacenza | Milán | 62,9 | 1 | 0 | 1 |
+| Vercelli | Milán | 62,9 | 1 | 0 | 0 |
+| Forlì | Bolonia | 65,2 | 3 | 0 | 0 |
+| San Benedetto del Tronto | Ancona | 66,0 | 1 | 0 | 0 |
+| Tavagnacco | Trieste | 67,0 | 1 | 0 | 1 |
+| Viterbo | Roma | 67,4 | 1 | 0 | 0 |
+| Pisa | Florencia | 68,8 | 0 | 0 | 2 |
+| Pesaro | Ancona | 73,7 | 1 | 0 | 1 |
+| Cremona | Milán | 74,1 | 1 | 0 | 0 |
+| Terni | Roma | 74,3 | 1 | 0 | 0 |
+| Cuneo | Turín | 77,1 | 0 | 0 | 2 |
+| Livorno | Florencia | 78,3 | 1 | 0 | 0 |
+| Saint-Christophe | Turín | 78,4 | 1 | 0 | 0 |
+| Taranto | Bari | 78,4 | 0 | 0 | 2 |
+| Perugia | Ancona | 79,8 | 0 | 0 | 3 |
+| Belluno | Venecia | 81,6 | 0 | 0 | 1 |
+| Parma | Bolonia | 87,4 | 2 | 0 | 1 |
+| Bolzano/Bozen | Innsbruck (Austria) | 87,5 | 1 | 0 | 1 |
+| L'Aquila | Roma | 88,2 | 1 | 0 | 1 |
+| Campobasso | Nápoles | 88,5 | 1 | 0 | 0 |
+| Foggia | Potenza | 92,2 | 1 | 0 | 0 |
+| Savignano sul Rubicone | Bolonia | 94,1 | 1 | 0 | 1 |
+| Brindisi | Bari | 103,2 | 0 | 0 | 1 |
+| Grosseto | Florencia | 111,3 | 0 | 0 | 1 |
+| Catanzaro | Mesina | 118,2 | 1 | 0 | 0 |
+| San Giovanni Teatino | Ancona | 122,3 | 1 | 0 | 0 |
+| Corigliano-Rossano | Potenza | 128,5 | 1 | 0 | 1 |
+| Surbo | Bari | 135,4 | 1 | 0 | 0 |
+| Termoli | Nápoles | 140,1 | 1 | 0 | 0 |
+| Cosenza | Mesina | 143,4 | 1 | 0 | 0 |
+| Sassari | Tolón (Francia) | 342,6 | 1 | 0 | 0 |
+| Cagliari | Palermo | 389,3 | 1 | 0 | 0 |
 
 ## Red de anclas de co-ubicación
 

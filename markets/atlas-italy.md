@@ -14,47 +14,121 @@ language_protocol: PROSE-TOPIC
 keynote: false
 last_edited: 2026-09-06
 editor: editorial
-short_description: "Index of the 21 Italian entries in the Top 400 Regional Markets — Europe set, filtered from the continental table with metro-reference groupings."
+short_description: "Index of Italy's 62 Regional Markets meeting the co-location composition gates under the 2026-08-07 dataset."
 paired_with: markets/atlas-italy.es.md
 ---
 
-**Pending rebuild (2026-09-06).** The market table and counts on this page still reflect the pre-rebuild selection. Under the confirmed 2026-08-07 dataset, now live on [[atlas-top-400-europe|Top 400 Regional Markets — Europe]], Italy publishes 62 Regional Markets. Rebuilding this country table is a separate, scoped task — the discrepancy is flagged here, not resolved.
+**Rebuilt (2026-09-06).** This page was rebuilt against the confirmed 2026-08-07 dataset, the
+same build now live on [[atlas-top-400-europe|Top 400 Regional Markets — Europe]]. The prior
+version listed 21 Italian entries from a superseded selection; the confirmed count is 62. Every
+market, reference point, distance, and cluster count below comes from that dataset.
 
-The **Italy regional market index** lists the 21 Italian entries in the [[atlas-top-400-europe|Top 400 Regional Markets — Europe]] set. Each entry is a named suburb or satellite municipality between 15 and 80 kilometres of a major Italian metropolitan reference point that contains at least one retail co-location cluster, qualified under the [[about-regional-markets-system|co-location regional market framework]]. This page is a filtered, Italy-specific view of that continental table — not a separate dataset — so every entry and tier count below matches the continental table exactly and updates automatically if that table is corrected. No rank or score is published for any market.
+The **Italy regional market index** lists the 62 Italian markets that meet the co-location
+system's composition gates under the current 2026-08-07 dataset. Italy is the largest country
+entry in the European set, drawn from a qualifying pool of 108. This page is a filtered,
+Italy-specific view of the continental table — not a separate dataset. No rank or score is
+published for any market.
 
-## Metropolitan groupings
+## Coverage
 
-Italy's 21 markets cluster most heavily around Milan (5 markets), reflecting the density of the Po Valley's suburban industrial and retail belt. Verona (3), Bologna (2), Rome (2), and Bari (2) form a second tier. The remaining markets are single entries reporting to Turin, Genoa, Venice, Messina, Naples, Florence, and Trieste — giving Italy the widest geographic spread relative to its market count of any of the seven country breakout pages on this list.
+No rank or score is published for any market in this table. Every market below qualifies under
+the framework's Regional Market composition gate — a hypermarket anchor paired with at least
+two of {hardware, price club, lifestyle, electronics, sport} across the market's co-location
+clusters. Full methodology:
+[[about-regional-markets-system|Regional Markets Intelligence System]].
 
-## Tier composition
+The metropolitan reference point recorded for each market is the nearest major metropolitan
+centre in the framework's continental reference set — a straight-line (crow-flies) distance
+measurement, not a drive-time or commuting estimate. It is not a claim that the market
+functions as a commuter suburb of that centre. Italy's 62 markets reference 17 distinct
+centres. Milan carries 10 entries, Florence and Bologna seven each, Turin five, and Ancona,
+Bari, Messina, Naples, and Venice four each. Two reference points sit outside Italy:
+Saint-Christophe, in the Aosta Valley, references Innsbruck, Austria, and Sassari, on Sardinia,
+references Toulon, France, 343 kilometres across the Tyrrhenian Sea. Italy's median reference
+distance is 63 kilometres, and 45 of its 62 markets sit within 80 kilometres of their reference
+point. The two longest — Cagliari at 389 kilometres and Sassari at 343 — are both Sardinian and
+reflect the framework's continental reference set rather than any commuting relationship.
 
-Asti (suburb of Turin) is Italy's only Tier 1 market carrying a civic anchor. Eighteen of Italy's 21 markets qualify on a single Tier 1 cluster with no civic anchor, the most common composition across the entire European set. Lucca and Como qualify on a Tier 2+Tier 3 combination.
+Catchment population is recorded for all 62 Italian markets. Consumer-spend figures are
+recorded for 36 of the 62 and absent for the remaining 26 — a disclosed gap in the underlying
+source data, stated plainly rather than presented as zero.
+
+## Cluster composition
+
+The 62 markets carry 96 co-location clusters between them — 57 Tier 1, two Tier 2, and 37 Tier
+3. Fifty-one of the 62 carry at least one Tier 1 cluster. Ten qualify on Tier 3 clusters alone,
+the highest count of Tier 3-only markets of any country in the European set.
 
 ## Markets
 
-| Market | Suburb of | km | T1 | T2 | T3 | Civic |
-|---|---|---|---|---|---|---|
-| Asti | Turin | 45 | 1 | 1 | 0 | Yes |
-| La Spezia | Genoa | — | 1 | 0 | 0 | — |
-| Castelletto sopra Ticino | Milan | — | 1 | 0 | 0 | — |
-| Lecco | Milan | — | 1 | 0 | 0 | — |
-| Brescia | Verona | — | 1 | 0 | 0 | — |
-| Cremona | Milan | — | 1 | 0 | 0 | — |
-| Curno | Milan | — | 1 | 0 | 0 | — |
-| Mantova | Verona | — | 1 | 0 | 0 | — |
-| Ravenna | Bologna | — | 1 | 0 | 0 | — |
-| Padova | Venice | — | 1 | 0 | 0 | — |
-| Milazzo | Messina | — | 1 | 0 | 0 | — |
-| Viterbo | Rome | — | 1 | 0 | 0 | — |
-| Molfetta | Bari | — | 1 | 0 | 0 | — |
-| Terni | Rome | — | 1 | 0 | 0 | — |
-| Modena | Bologna | — | 1 | 0 | 0 | — |
-| Trento | Verona | — | 1 | 0 | 0 | — |
-| Benevento | Naples | — | 1 | 0 | 0 | — |
-| Lucca | Florence | — | 0 | 1 | 1 | — |
-| Como | Milan | — | 0 | 1 | 1 | — |
-| Villesse | Trieste | — | 1 | 0 | 0 | — |
-| Casamassima | Bari | — | 1 | 0 | 0 | — |
+This table is a country-specific view of the continental
+[[atlas-top-400-europe|Top 400 Regional Markets — Europe]] set. No rank or score is published for
+any market.
+
+| Market | Metropolitan reference | km | T1 | T2 | T3 |
+|---|---|---|---|---|---|
+| Rivalta di Torino | Turin | 13.7 | 1 | 0 | 1 |
+| Carugate | Milan | 14.7 | 1 | 0 | 0 |
+| Prato | Florence | 17.9 | 1 | 0 | 2 |
+| Cerro Maggiore | Milan | 24.2 | 1 | 0 | 0 |
+| Caserta | Naples | 24.4 | 1 | 0 | 0 |
+| Empoli | Florence | 25.8 | 1 | 0 | 0 |
+| Chioggia, Venezia | Venice | 27.6 | 1 | 0 | 0 |
+| Molfetta | Bari | 28.4 | 1 | 0 | 0 |
+| Cernusco Lombardone | Milan | 30.0 | 1 | 0 | 0 |
+| Padova | Venice | 31.9 | 1 | 0 | 0 |
+| Mantova | Verona | 33.8 | 1 | 0 | 1 |
+| Milazzo | Messina | 35.4 | 1 | 0 | 0 |
+| Villesse | Trieste | 36.1 | 1 | 0 | 0 |
+| Modena | Bologna | 37.8 | 3 | 0 | 0 |
+| Gioia Tauro | Messina | 39.7 | 1 | 0 | 0 |
+| Montecatini-Terme | Florence | 40.5 | 1 | 0 | 0 |
+| Curno | Milan | 41.2 | 1 | 0 | 0 |
+| Ferrara | Bologna | 42.1 | 0 | 1 | 1 |
+| Novara | Milan | 43.7 | 1 | 0 | 2 |
+| Asti | Turin | 44.6 | 1 | 1 | 0 |
+| Faenza | Bologna | 48.3 | 1 | 0 | 1 |
+| San Vendemiano | Venice | 51.5 | 1 | 0 | 0 |
+| Benevento | Naples | 52.5 | 1 | 0 | 1 |
+| Voghera | Milan | 53.6 | 0 | 0 | 2 |
+| Castelletto sopra Ticino | Milan | 53.7 | 1 | 0 | 0 |
+| Arezzo | Florence | 59.7 | 1 | 0 | 1 |
+| Biella | Turin | 61.4 | 1 | 0 | 0 |
+| Brescia | Verona | 61.8 | 2 | 0 | 1 |
+| Alessandria | Genoa | 62.2 | 0 | 0 | 2 |
+| Reggio nell'Emilia | Bologna | 62.4 | 0 | 0 | 2 |
+| Piacenza | Milan | 62.9 | 1 | 0 | 1 |
+| Vercelli | Milan | 62.9 | 1 | 0 | 0 |
+| Forlì | Bologna | 65.2 | 3 | 0 | 0 |
+| San Benedetto del Tronto | Ancona | 66.0 | 1 | 0 | 0 |
+| Tavagnacco | Trieste | 67.0 | 1 | 0 | 1 |
+| Viterbo | Rome | 67.4 | 1 | 0 | 0 |
+| Pisa | Florence | 68.8 | 0 | 0 | 2 |
+| Pesaro | Ancona | 73.7 | 1 | 0 | 1 |
+| Cremona | Milan | 74.1 | 1 | 0 | 0 |
+| Terni | Rome | 74.3 | 1 | 0 | 0 |
+| Cuneo | Turin | 77.1 | 0 | 0 | 2 |
+| Livorno | Florence | 78.3 | 1 | 0 | 0 |
+| Saint-Christophe | Turin | 78.4 | 1 | 0 | 0 |
+| Taranto | Bari | 78.4 | 0 | 0 | 2 |
+| Perugia | Ancona | 79.8 | 0 | 0 | 3 |
+| Belluno | Venice | 81.6 | 0 | 0 | 1 |
+| Parma | Bologna | 87.4 | 2 | 0 | 1 |
+| Bolzano/Bozen | Innsbruck (Austria) | 87.5 | 1 | 0 | 1 |
+| L'Aquila | Rome | 88.2 | 1 | 0 | 1 |
+| Campobasso | Naples | 88.5 | 1 | 0 | 0 |
+| Foggia | Potenza | 92.2 | 1 | 0 | 0 |
+| Savignano sul Rubicone | Bologna | 94.1 | 1 | 0 | 1 |
+| Brindisi | Bari | 103.2 | 0 | 0 | 1 |
+| Grosseto | Florence | 111.3 | 0 | 0 | 1 |
+| Catanzaro | Messina | 118.2 | 1 | 0 | 0 |
+| San Giovanni Teatino | Ancona | 122.3 | 1 | 0 | 0 |
+| Corigliano-Rossano | Potenza | 128.5 | 1 | 0 | 1 |
+| Surbo | Bari | 135.4 | 1 | 0 | 0 |
+| Termoli | Naples | 140.1 | 1 | 0 | 0 |
+| Cosenza | Messina | 143.4 | 1 | 0 | 0 |
+| Sassari | Toulon (France) | 342.6 | 1 | 0 | 0 |
+| Cagliari | Palermo | 389.3 | 1 | 0 | 0 |
 
 ## Co-location anchor network
 

@@ -14,103 +14,115 @@ language_protocol: PROSE-TOPIC
 keynote: false
 last_edited: 2026-09-06
 editor: woodfine-editorial
-short_description: "Index of Canadian regional commercial real estate markets meeting the co-location composition gates."
+short_description: "Index of Canada's 56 Regional Markets meeting the co-location composition gates under the 2026-08-07 dataset."
 paired_with: markets/atlas-canada.es.md
 ---
 
-**Pending rebuild (2026-09-06).** The market table and counts on this page still reflect the pre-rebuild selection. Under the confirmed 2026-08-07 dataset, now live on [[atlas-top-400-north-america|Top 400 Regional Markets — North America]], Canada publishes 56 Regional Markets. Rebuilding this country table is a separate, scoped task — the discrepancy is flagged here, not resolved.
+**Rebuilt (2026-09-06).** This page was rebuilt against the confirmed 2026-08-07 dataset, the
+same build now live on
+[[atlas-top-400-north-america|Top 400 Regional Markets — North America]]. The prior version
+listed 23 Canadian entries from a superseded selection; the confirmed count is 56. Every
+market, reference point, distance, and cluster count below comes from that dataset.
 
-The **Canada regional market index** lists Canadian cities and metropolitan areas that meet
-the population, disposable income, and retail infrastructure thresholds established by the
-[[about-regional-markets-system|co-location regional market framework]]. Canada offers a substantial and
-geographically distributed set of qualifying regional markets: the country's population
-distribution produces numerous centres of 50,000 to 500,000 outside the primary Toronto,
-Vancouver, and Montreal metropolitan areas, many with high household disposable income and
-established [[power-centres|power centre]] investment.
+The **Canada regional market index** lists the 56 markets in Canada that meet the co-location
+system's composition gates under the current 2026-08-07 dataset, drawn from a qualifying pool
+of 112. This page is a filtered, country-specific view of the continental table — not a
+separate dataset. No rank or score is published for any market.
 
-## National context
+## Coverage
 
-Canada's commercial real estate market is characterised by strong regional differentiation.
-Alberta and British Columbia markets benefit from elevated household income driven by energy
-and technology employment respectively. Ontario outside the Greater Toronto Area presents a
-dense network of mid-sized cities with established national retail penetration. Quebec's
-secondary markets exhibit income profiles that broadly meet co-location thresholds outside
-the Montreal metro. Atlantic Canadian markets are generally smaller but include several cities
-meeting population and income screens.
+No rank or score is published for any market in this table. Every market below qualifies under
+the framework's Regional Market composition gate — a hypermarket anchor paired with at least
+two of {hardware, price club, lifestyle, electronics, sport} across the market's co-location
+clusters. Full methodology:
+[[about-regional-markets-system|Regional Markets Intelligence System]].
 
-The national retail landscape provides a consistent qualification signal. The presence of Costco,
-Home Depot, Canadian Tire, and Loblaw-affiliated warehouse formats confirms income and demand
-conditions across the regional market set. These anchors have invested independently in
-[[site-selection-terminology|site-selection]] analysis and their presence constitutes third-party corroboration of market
-viability.
+The metropolitan reference point recorded for each market is the nearest major metropolitan
+centre in the framework's continental reference set — a straight-line (crow-flies) distance
+measurement, not a drive-time or commuting estimate. It is not a claim that the market
+functions as a commuter suburb of that centre. Canada's 56 markets reference 13 distinct
+centres — the narrowest reference set in the North American table. Vancouver and Toronto carry
+12 entries each, Montreal seven, and Edmonton six. Three markets reference a centre in the
+United States: Belleville and Kingston, Ontario to Syracuse, New York, and Thunder Bay to Green
+Bay, Wisconsin. Canada's median reference distance is 90 kilometres, with 24 of its 56 markets
+within 80 kilometres of their reference point and 18 beyond 150. The longest is Timmins,
+Ontario at 549 kilometres from Ottawa, a consequence of how sparsely major centres are spaced
+across northern Canada.
 
-## Provincial coverage
+Catchment population and consumer-spend figures are recorded for all 56 Canadian markets, with
+no gaps. They are descriptive context only and take no part in selection.
 
-**Ontario** — the highest market count of any Canadian province. Markets spanning the
-Greater Golden Horseshoe beyond the Toronto metropolitan boundary, Eastern Ontario,
-Southwestern Ontario, and Northern Ontario urban centres.
+## Cluster composition
 
-**Alberta** — markets in the Calgary region outside the primary urban core, the Edmonton
-Capital Region beyond the metro, and mid-sized cities including [[ca-ab-lethbridge|Lethbridge]] and Red Deer.
-
-**British Columbia** — markets in the Okanagan Valley, Vancouver Island outside the Victoria
-CMA, the Fraser Valley, and the Thompson-Nicola region.
-
-**Saskatchewan and Manitoba** — Saskatoon and [[ca-sk-regina|Regina]] as primary qualifying markets; Winnipeg
-regional suburbs meeting power centre and income screens.
-
-**Quebec** — markets in the Quebec City region, Saguenay–Lac-Saint-Jean, Estrie, and
-Laurentides–Lanaudière outside the Montreal metro.
-
-**Atlantic provinces** — [[ca-nb-moncton|Moncton]], Fredericton, Charlottetown, and Sidney/Cape Breton as
-primary qualifying markets; others assessed individually.
-
-**Correction (2026-08-02):** the real community in Cape Breton, Nova Scotia is
-spelled **Sydney**, not "Sidney" — "Sidney" names a different, unrelated real place
-(Sidney, BC, near Victoria on Vancouver Island). **Flagged, not resolved.**
-
-**Correction (2026-07-16):** none of Barrie–Innisfil, Kelowna, Lethbridge, Moncton, or Regina
-— all previously listed above as "primary qualifying markets" or in the removed Sample
-markets table below — actually appear among Canada's 23 verified entries in the
-[[atlas-top-400-north-america|Top 400 Regional Markets — North America]] list. This doesn't
-mean these places aren't real Canadian markets with their own individual profile articles;
-it means they are not currently included in the TOP400 co-location screen specifically. The
-Provincial coverage prose above is left as a qualitative regional description rather than
-rewritten, but should not be read as implying these five named markets are TOP400 entries.
+The 56 markets carry 107 co-location clusters between them — 77 Tier 1, 13 Tier 2, and 17 Tier
+3, an average of 1.91 clusters per market. That is above both the North American average of
+1.77 and the European average of 1.36. Every Canadian market carries at least one Tier 1
+cluster, and none qualifies on Tier 3 clusters alone.
 
 ## Markets
 
-This table is a filtered, Canada-specific view of the continental
-[[atlas-top-400-north-america|Top 400 Regional Markets — North America]] table — not a
-separate dataset — so every entry and tier count matches the continental table
-exactly and updates automatically if that table is corrected. No rank or score is
-published for any market.
+This table is a country-specific view of the continental
+[[atlas-top-400-north-america|Top 400 Regional Markets — North America]] set. No rank or score is published for
+any market.
 
-| Market | Suburb of | km | T1 | T2 | T3 | Civic |
-|---|---|---|---|---|---|---|
-| [[ca-on-mississauga|Mississauga, ON]] | Toronto | 25 | 2 | 1 | 2 | Yes |
-| Brampton | Toronto | 30 | 1 | 3 | 0 | Yes |
-| Surrey | Vancouver | 26 | 1 | 2 | 1 | Yes |
-| Vaughan, Ontario | Toronto | 22 | 1 | 2 | 1 | Yes |
-| Waterloo, ON | Kitchener | 23 | 1 | 2 | 0 | Yes |
-| Markham | Toronto | — | 1 | 0 | 2 | — |
-| Laval | Montreal | — | 1 | 1 | 0 | — |
-| Abbotsford, BC | Vancouver | — | 1 | 1 | 0 | — |
-| Newmarket, ON | Toronto | — | 1 | 0 | 1 | — |
-| Coquitlam, BC | Vancouver | — | 1 | 0 | 0 | — |
-| Pointe-Claire | Montreal | — | 1 | 0 | 0 | — |
-| Bellefeuille, Quebec | Montreal | — | 1 | 0 | 0 | — |
-| Ajax, ON | Toronto | — | 1 | 0 | 0 | — |
-| Port Coquitlam, BC | Vancouver | — | 1 | 0 | 0 | — |
-| Chatham-Kent, ON | Detroit | — | 0 | 2 | 0 | — |
-| Guelph, Ontario | Kitchener | — | 0 | 2 | 0 | — |
-| Richmond Hill, Ontario | Toronto | — | 0 | 1 | 1 | — |
-| Oshawa, ON | Toronto | — | 0 | 1 | 1 | — |
-| Langley District Municipality | Vancouver | — | 1 | 0 | 0 | — |
-| Boisbriand, QC | Montreal | — | 1 | 0 | 0 | — |
-| Nanaimo, BC | Vancouver | — | 1 | 0 | 0 | — |
-| Vaudreuil-Dorion, QC | Montreal | — | 1 | 0 | 0 | — |
-| Okotoks | Calgary | — | 1 | 0 | 0 | — |
+| Market | Metropolitan reference | km | T1 | T2 | T3 |
+|---|---|---|---|---|---|
+| Burlington | Hamilton | 12.9 | 2 | 0 | 1 |
+| Sherwood Park | Edmonton | 13.3 | 2 | 0 | 0 |
+| Saint-Bruno-de-Montarville, QC | Montreal | 14.4 | 1 | 0 | 0 |
+| St. Albert, AB | Edmonton | 14.5 | 1 | 0 | 0 |
+| Laval | Montreal | 15.3 | 1 | 1 | 0 |
+| Pointe-Claire | Montreal | 20.0 | 1 | 0 | 0 |
+| Brantford, ON | Kitchener | 20.6 | 1 | 0 | 0 |
+| Guelph, Ontario | Kitchener | 21.1 | 1 | 1 | 1 |
+| Vaughan, Ontario | Toronto | 21.1 | 3 | 1 | 0 |
+| Coquitlam, BC | Vancouver | 21.5 | 2 | 0 | 0 |
+| Waterloo, ON | Kitchener | 22.8 | 2 | 1 | 0 |
+| Markham | Toronto | 23.1 | 2 | 0 | 1 |
+| [[ca-on-mississauga|Mississauga, ON]] | Toronto | 24.4 | 4 | 1 | 1 |
+| Boisbriand, QC | Montreal | 25.2 | 1 | 0 | 0 |
+| Surrey | Vancouver | 25.9 | 4 | 0 | 1 |
+| Ajax, ON | Toronto | 37.2 | 1 | 0 | 0 |
+| Langley District Municipality | Vancouver | 37.7 | 1 | 0 | 0 |
+| Okotoks | Calgary | 38.6 | 1 | 0 | 0 |
+| Vaudreuil-Dorion, Québec | Montreal | 38.8 | 1 | 0 | 0 |
+| Newmarket, ON | Toronto | 46.2 | 2 | 0 | 0 |
+| Oshawa, ON | Toronto | 50.9 | 2 | 0 | 0 |
+| Orangeville | Toronto | 65.1 | 1 | 0 | 0 |
+| Abbotsford, BC | Vancouver | 65.9 | 2 | 0 | 0 |
+| Nanaimo, British Columbia | Vancouver | 67.0 | 1 | 0 | 0 |
+| [[ca-on-barrie-innisfil|Barrie, ON]] | Toronto | 83.7 | 2 | 0 | 0 |
+| Chilliwack, BC | Vancouver | 85.1 | 1 | 0 | 0 |
+| Cornwall, Ontario | Ottawa | 85.6 | 1 | 0 | 0 |
+| London | Kitchener | 86.6 | 3 | 0 | 4 |
+| Drummondville, Québec | Montreal | 92.5 | 1 | 0 | 0 |
+| Langford | Vancouver | 96.8 | 1 | 0 | 0 |
+| Orillia, ON | Toronto | 107.1 | 1 | 0 | 0 |
+| Peterborough, ON | Toronto | 110.7 | 1 | 0 | 1 |
+| Sherbrooke, Québec | Montreal | 125.4 | 1 | 0 | 0 |
+| Saint John | Moncton | 134.0 | 1 | 1 | 0 |
+| Red Deer, AB | Calgary | 136.1 | 1 | 1 | 0 |
+| Kingston, ON | Syracuse (United States) | 138.6 | 1 | 0 | 0 |
+| Courtenay | Vancouver | 141.7 | 1 | 1 | 1 |
+| Fredericton | Moncton | 145.2 | 1 | 0 | 1 |
+| Belleville, ON | Syracuse (United States) | 162.2 | 1 | 0 | 0 |
+| [[ca-ab-lethbridge|Lethbridge, AB]] | Calgary | 176.1 | 1 | 0 | 1 |
+| Chicoutimi, Québec | Quebec City | 176.8 | 1 | 0 | 0 |
+| Brandon, MB | Winnipeg | 202.2 | 1 | 0 | 1 |
+| Lloydminster | Edmonton | 231.4 | 1 | 1 | 0 |
+| Kamloops, BC | Vancouver | 248.9 | 1 | 0 | 0 |
+| Medicine Hat, AB | Calgary | 268.4 | 1 | 0 | 0 |
+| [[ca-bc-kelowna|Kelowna, BC]] | Vancouver | 274.5 | 1 | 0 | 0 |
+| North Bay | Toronto | 296.8 | 1 | 0 | 1 |
+| Vernon | Vancouver | 298.1 | 1 | 0 | 0 |
+| Greater Sudbury, ON | Toronto | 338.2 | 2 | 0 | 0 |
+| Grande Prairie, AB | Edmonton | 389.5 | 1 | 1 | 0 |
+| Thunder Bay | Green Bay (United States) | 442.3 | 1 | 1 | 0 |
+| Saskatoon | Edmonton | 485.9 | 1 | 1 | 2 |
+| Prince George, BC | Vancouver | 511.2 | 1 | 0 | 0 |
+| Prince Albert, SK | Edmonton | 515.7 | 1 | 0 | 0 |
+| [[ca-sk-regina|Regina, SK]] | Winnipeg | 534.8 | 2 | 1 | 0 |
+| Timmins, Ontario | Ottawa | 549.3 | 1 | 0 | 0 |
 
 ## Co-location anchor network
 

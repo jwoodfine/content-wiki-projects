@@ -14,97 +14,116 @@ language_protocol: TRANSLATE-ES
 keynote: false
 last_edited: 2026-09-06
 editor: woodfine-editorial
-short_description: "Índice de mercados inmobiliarios comerciales regionales españoles que cumplen las puertas de composición de co-ubicación."
+short_description: "Índice de los 55 Mercados Regionales de España que cumplen las puertas de composición de co-ubicación bajo el conjunto de datos del 07-08-2026."
 paired_with: markets/atlas-spain.md
 ---
 
-**Reconstrucción pendiente (2026-09-06).** La tabla de mercados y los recuentos de esta página aún reflejan la selección anterior a la reconstrucción. Bajo el conjunto de datos confirmado 2026-08-07, ya publicado en [[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]], España publica 55 Mercados Regionales. Reconstruir esta tabla por país es una tarea aparte y delimitada — la discrepancia queda señalada aquí, no resuelta.
+**Reconstruida (06-09-2026).** Esta página se reconstruyó frente al conjunto de datos confirmado
+del 07-08-2026, la misma generación ahora vigente en
+[[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]]. La versión anterior listaba un
+conjunto menor de entradas españolas de una selección superada; el recuento confirmado es de
+55. Cada mercado, punto de referencia, distancia y recuento de clústeres a continuación procede
+de ese conjunto de datos.
 
-El **índice de mercados regionales de España** enumera las ciudades y capitales de provincia
-españolas fuera de las áreas metropolitanas primarias de Madrid y Barcelona que cumplen los
-umbrales de población, ingresos e infraestructura comercial establecidos por el [[about-regional-markets-system|marco
-de mercados regionales de co-ubicación]]. La organización territorial de España en diecisiete
-comunidades autónomas, cada una con un centro urbano principal y una red de ciudades
-secundarias, produce un conjunto estructurado de mercados regionales calificados distribuidos
-por la Península Ibérica.
+El **índice de mercados regionales de España** enumera los 55 mercados de España que cumplen
+las puertas de composición del sistema de co-ubicación bajo el conjunto de datos vigente del
+07-08-2026, extraídos de una reserva calificada de 79. Esta página es una vista filtrada,
+específica del país, de la tabla continental — no un conjunto de datos aparte. No se publica
+ninguna clasificación ni puntuación para ningún mercado.
 
-## Contexto nacional
+## Cobertura
 
-El mercado inmobiliario comercial de España presenta una geografía de ingresos distintiva.
-Las comunidades autónomas del norte — País Vasco, Navarra, La Rioja y Aragón — muestran
-ingresos por hogar por encima de la media nacional, coherentes con sólidas bases de exportación
-industrial y agrícola. El corredor mediterráneo desde Cataluña hasta Murcia contiene varios
-mercados regionales calificados con inversión inmobiliaria comercial y minorista establecida.
+No se publica ninguna clasificación ni puntuación para ningún mercado de esta tabla. Todos los
+mercados listados a continuación cumplen la puerta de composición de Mercado Regional del marco
+— un ancla de hipermercado combinada con al menos dos de {ferretería, club de precio, estilo de
+vida, electrónica, deporte} entre los clústeres de co-ubicación del mercado. Metodología
+completa: [[about-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]].
 
-El panorama minorista español está anclado por Mercadona, Leroy Merlin, IKEA y Decathlon,
-con hipermercados Alcampo (Auchan) y Carrefour presentes en la mayoría de las capitales
-provinciales con más de 100.000 habitantes. La penetración de Leroy Merlin — el formato
-principal de bricolaje — es una señal de ingresos y [[power-centres|power centre]] especialmente fiable en los
-mercados regionales españoles.
+El punto de referencia metropolitano registrado para cada mercado es el núcleo metropolitano
+principal más cercano dentro del conjunto de referencia continental del marco — una medición en
+línea recta (a vuelo de pájaro), no una estimación de tiempo de conducción o de desplazamiento
+diario. Tampoco es una afirmación de que el mercado funcione como suburbio de desplazamiento
+diario de ese núcleo. Los 55 mercados de España hacen referencia a 18 núcleos distintos. Madrid
+concentra ocho entradas, Alicante y Barcelona siete cada una, y Bilbao y Valencia cuatro cada
+una. Dos puntos de referencia se ubican fuera de España, ambos en Portugal: Badajoz referencia
+Lisboa y Cáceres referencia Coimbra. La distancia mediana de referencia de España es de 77
+kilómetros, con 29 de sus 55 mercados a menos de 80 kilómetros de su punto de referencia y
+cuatro más allá de 150. La mayor es Melilla, con 209 kilómetros, referenciada a través del mar
+de Alborán hacia Málaga.
 
-## Cobertura por comunidad autónoma
+La población de la cuenca de influencia consta para los 55 mercados españoles. Las cifras de
+gasto de consumo constan para 44 de los 55 y faltan en los 11 restantes — una laguna declarada
+en los datos de origen, expuesta con claridad en lugar de presentarse como cero.
 
-**País Vasco** — [[es-pv-vitoria-gasteiz|Vitoria-Gasteiz]] (capital de Álava) como mercado calificado primario;
-San Sebastián y Bilbao evaluados como mercados adyacentes al primario.
+## Composición de clústeres
 
-**Navarra** — [[es-nc-pamplona|Pamplona]] y el corredor del Valle de Navarra; ingresos sólidos; anclas Leroy
-Merlin y Decathlon confirman la viabilidad del power centre.
-
-**Aragón** — [[es-ar-zaragoza-secondary|Zaragoza]] supera el umbral del mercado primario; las ciudades secundarias Huesca
-y Teruel califican por demanda profesional específica.
-
-**Castilla y León** — [[es-cl-valladolid|Valladolid]], [[es-cl-burgos|Burgos]], León, Salamanca y Ávila como mercados regionales
-calificados primarios; la mayor extensión territorial de cualquier comunidad autónoma con el
-conjunto de mercados más distribuido.
-
-**Comunidad Valenciana** — Alicante, Castellón de la Plana y los municipios satélite de la
-metrópolis de Valencia fuera del núcleo urbano primario de Valencia.
-
-**Andalucía** — Málaga (escala de mercado primario), Almería, Jaén, Huelva como mercados
-secundarios; la calificación por ingresos requiere un análisis cuidadoso.
-
-**Corrección (2026-07-16):** ninguno de Burgos, Pamplona, Valladolid, Vitoria-Gasteiz o
-Zaragoza — todos mencionados anteriormente como mercados primarios calificados o en la
-tabla de Mercados de muestra ahora eliminada — aparece realmente entre las 22 entradas
-verificadas de España en la lista [[atlas-top-400-europe|Top 400 Mercados Regionales —
-Europa]]. Esto no significa que estos lugares no sean mercados españoles reales; significa
-que actualmente no están incluidos en el filtro TOP400 de co-ubicación específicamente.
-El texto de Cobertura por comunidad autónoma anterior se mantiene como descripción regional
-cualitativa en lugar de reescribirse, pero no debe interpretarse como que estos mercados
-mencionados son entradas del TOP400.
+Los 55 mercados suman 68 clústeres de co-ubicación — 53 de Nivel 1, dos de Nivel 2 y 13 de
+Nivel 3. Cincuenta y dos de los 55 cuentan con al menos un clúster de Nivel 1, y tres califican
+únicamente con clústeres de Nivel 3.
 
 ## Mercados
 
-Esta tabla es una vista filtrada y específica de España de la tabla continental
-[[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]] — no un conjunto de datos
-independiente —, de modo que cada entrada y conteo de nivel coincide
-exactamente con la tabla continental y se actualiza automáticamente si esa tabla se
-corrige. No se publica posición ni puntuación para ningún mercado.
+Esta tabla es una vista específica del país sobre el conjunto continental
+[[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]]. No se publica ninguna
+clasificación ni puntuación para ningún mercado.
 
-| Mercado | Suburbio de | km | N1 | N2 | N3 | Cívica |
-|---|---|---|---|---|---|---|
-| Murcia | Alicante | 72 | 1 | 0 | 2 | Sí |
-| Gijón | Oviedo | — | 1 | 0 | 1 | — |
-| San Sebastián de los Reyes | Madrid | — | 1 | 0 | 0 | — |
-| Castelló de la Plana | Valencia | — | 1 | 0 | 0 | — |
-| Las Rozas de Madrid | Madrid | — | 1 | 0 | 0 | — |
-| Gavà | Barcelona | — | 1 | 0 | 0 | — |
-| Badia del Vallès | Barcelona | — | 1 | 0 | 0 | — |
-| Elche | Alicante | — | 1 | 0 | 0 | — |
-| Rivas-Vaciamadrid | Madrid | — | 1 | 0 | 0 | — |
-| Parets del Vallès | Barcelona | — | 1 | 0 | 0 | — |
-| Alcalá de Henares | Madrid | — | 1 | 0 | 0 | — |
-| Getafe | Madrid | — | 1 | 0 | 0 | — |
-| Ferrol | A Coruña | — | 1 | 0 | 0 | — |
-| Talavera de la Reina | Toledo | — | 1 | 0 | 0 | — |
-| Orihuela | Alicante | — | 1 | 0 | 0 | — |
-| Jaén | Granada | — | 1 | 0 | 0 | — |
-| Finestrat | Alicante | — | 1 | 0 | 0 | — |
-| Xàtiva | Valencia | — | 1 | 0 | 0 | — |
-| Fuengirola | Málaga | — | 1 | 0 | 0 | — |
-| Nigrán | Braga | — | 1 | 0 | 0 | — |
-| Jerez de la Frontera | Cádiz | — | 0 | 0 | 2 | — |
-| Torrejón de Ardoz | Madrid | — | 0 | 0 | 2 | — |
+| Mercado | Referencia metropolitana | km | N1 | N2 | N3 |
+|---|---|---|---|---|---|
+| Sant Boi de Llobregat | Barcelona | 12,1 | 1 | 0 | 0 |
+| Alcorcón | Madrid | 15,1 | 1 | 0 | 0 |
+| San Sebastián de los Reyes | Madrid | 16,2 | 1 | 0 | 0 |
+| Rivas-Vaciamadrid | Madrid | 16,4 | 1 | 0 | 0 |
+| Pinto | Madrid | 17,0 | 1 | 0 | 0 |
+| Torrejón de Ardoz | Madrid | 20,2 | 0 | 0 | 2 |
+| Elche | Alicante | 21,7 | 1 | 0 | 0 |
+| Narón | A Coruña | 22,3 | 1 | 0 | 0 |
+| Jerez de la Frontera | Cádiz | 22,4 | 1 | 0 | 1 |
+| Gijón | Oviedo | 23,3 | 1 | 0 | 1 |
+| Durango | Bilbao | 26,4 | 1 | 0 | 0 |
+| Fuengirola | Málaga | 27,4 | 1 | 0 | 0 |
+| Alcalá de Henares | Madrid | 31,0 | 1 | 0 | 0 |
+| Villajoyosa | Alicante | 33,8 | 1 | 0 | 0 |
+| Vilanova i la Geltrú | Barcelona | 40,9 | 1 | 0 | 0 |
+| Cocentaina | Alicante | 41,8 | 1 | 0 | 0 |
+| Palencia | Valladolid | 42,4 | 1 | 0 | 0 |
+| Motril | Granada | 48,9 | 1 | 0 | 0 |
+| Orihuela | Alicante | 50,7 | 1 | 0 | 0 |
+| Santiago de Compostela | A Coruña | 53,7 | 1 | 0 | 1 |
+| Xàtiva | Valencia | 54,3 | 1 | 0 | 0 |
+| Vic | Barcelona | 61,9 | 1 | 0 | 0 |
+| Castelló de la Plana | Valencia | 62,7 | 1 | 0 | 1 |
+| Huesca | Zaragoza | 66,0 | 1 | 0 | 0 |
+| Talavera de la Reina | Toledo | 67,8 | 1 | 0 | 0 |
+| Jaén | Granada | 69,5 | 1 | 0 | 0 |
+| Murcia | Alicante | 70,4 | 1 | 1 | 1 |
+| Santander | Bilbao | 77,4 | 1 | 0 | 0 |
+| Lugo | A Coruña | 78,6 | 1 | 0 | 0 |
+| Girona | Barcelona | 83,5 | 1 | 0 | 0 |
+| Tarragona | Barcelona | 84,6 | 1 | 0 | 0 |
+| Los Barrios | Cádiz | 85,3 | 1 | 0 | 0 |
+| Ávila | Madrid | 86,4 | 1 | 0 | 0 |
+| Castell-Platja d'Aro | Barcelona | 87,0 | 1 | 0 | 0 |
+| León | Oviedo | 88,2 | 1 | 0 | 1 |
+| Cartagena | Alicante | 92,1 | 1 | 0 | 0 |
+| Logroño | Bilbao | 97,8 | 1 | 0 | 1 |
+| Ciudad Real | Toledo | 98,2 | 1 | 0 | 0 |
+| Roquetas de Mar | Granada | 98,2 | 2 | 0 | 0 |
+| Lepe | Sevilla | 108,1 | 1 | 0 | 0 |
+| Salamanca | Valladolid | 109,5 | 1 | 0 | 0 |
+| [[es-cl-burgos|Burgos]] | Valladolid | 115,2 | 1 | 0 | 2 |
+| Aranguren | Bilbao | 117,8 | 1 | 0 | 0 |
+| Figueres | Barcelona | 118,7 | 1 | 0 | 0 |
+| Lleida | Zaragoza | 126,2 | 1 | 1 | 0 |
+| Eivissa | Palma | 127,1 | 1 | 0 | 0 |
+| Vinaròs | Valencia | 130,9 | 1 | 0 | 0 |
+| Lorca | Alicante | 131,3 | 1 | 0 | 0 |
+| Cuenca | Madrid | 137,9 | 1 | 0 | 0 |
+| Albacete | Valencia | 138,9 | 0 | 0 | 1 |
+| Villanueva de la Serena | Córdoba | 149,9 | 1 | 0 | 0 |
+| Tortosa | Zaragoza | 150,9 | 1 | 0 | 0 |
+| Badajoz | Lisboa (Portugal) | 186,6 | 1 | 0 | 0 |
+| Cáceres | Coimbra (Portugal) | 191,3 | 1 | 0 | 0 |
+| Melilla | Málaga | 209,0 | 0 | 0 | 1 |
 
 ## Red de anclas de co-ubicación
 

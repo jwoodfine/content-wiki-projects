@@ -14,466 +14,371 @@ language_protocol: TRANSLATE-ES
 keynote: false
 last_edited: 2026-09-06
 editor: woodfine-editorial
-short_description: "Índice de mercados inmobiliarios comerciales regionales de EE.UU. que cumplen las puertas de composición de co-ubicación en todas las grandes regiones censales."
+short_description: "Índice de los 298 Mercados Regionales de Estados Unidos que cumplen las puertas de composición de co-ubicación bajo el conjunto de datos del 07-08-2026."
 paired_with: markets/atlas-united-states.md
 ---
 
-**Reconstrucción pendiente (2026-09-06).** La tabla de mercados y los recuentos de esta página aún reflejan la selección anterior a la reconstrucción. Bajo el conjunto de datos confirmado 2026-08-07, ya publicado en [[atlas-top-400-north-america|Top 400 Mercados Regionales — América del Norte]], Estados Unidos publica 298 Mercados Regionales. Reconstruir esta tabla por país es una tarea aparte y delimitada — la discrepancia queda señalada aquí, no resuelta.
+**Reconstruida (06-09-2026).** Esta página se reconstruyó frente al conjunto de datos confirmado
+del 07-08-2026, la misma generación ahora vigente en
+[[atlas-top-400-north-america|Top 400 Mercados Regionales — América del Norte]]. La versión
+anterior listaba 369 entradas estadounidenses de una selección superada; el recuento confirmado
+es de 298. Cada mercado, punto de referencia, distancia y recuento de clústeres a continuación
+procede de ese conjunto de datos.
 
-El **índice de mercados regionales de Estados Unidos** enumera las ciudades y áreas
-estadísticas metropolitanas de EE.UU. fuera de los distritos centrales de negocios de las
-grandes metrópolis que cumplen los umbrales de población, ingresos disponibles e
-infraestructura comercial establecidos por el [[about-regional-markets-system|marco de mercados regionales
-de co-ubicación]]. Estados Unidos aporta 369 de los 400 mercados de la lista
-[[atlas-top-400-north-america|Top 400 Mercados Regionales — Norteamérica]] — con diferencia,
-la mayor proporción nacional. El tamaño del país y su geografía económica producen
-cientos de mercados suburbanos en el cinturón de conmutación de 15 a 80 km de las grandes
-áreas metropolitanas, con altos ingresos disponibles e inversión establecida en power
-centres.
+El **índice de mercados regionales de Estados Unidos** enumera los 298 mercados de Estados
+Unidos que cumplen las puertas de composición del sistema de co-ubicación bajo el conjunto de
+datos vigente del 07-08-2026, extraídos de una reserva calificada de 916. Es la reserva más
+profunda de cualquiera de los dos conjuntos continentales: se publica menos de un tercio de los
+mercados que superan una puerta de composición. Esta página es una vista filtrada, específica
+del país, de la tabla continental — no un conjunto de datos aparte. No se publica ninguna
+clasificación ni puntuación para ningún mercado.
 
-## Contexto nacional
+## Cobertura
 
-El mercado inmobiliario comercial regional de Estados Unidos se caracteriza por una
-pronunciada variación regional de ingresos, una profunda penetración minorista nacional y
-un formato de power centre suburbano bien desarrollado que proporciona infraestructura de
-emplazamiento coherente en la mayoría de los mercados calificados. Las señales de calificación primarias — clubes de almacén Costco, tiendas Home Depot y Lowe's, superstores de mercancías
-generales Walmart y Target — están presentes en prácticamente todos los mercados de EE.UU.
-con más de 80.000 habitantes que superan el umbral de ingresos por hogar.
+No se publica ninguna clasificación ni puntuación para ningún mercado de esta tabla. Todos los
+mercados listados a continuación cumplen la puerta de composición de Mercado Regional del marco
+— un ancla de hipermercado combinada con al menos dos de {ferretería, club de precio, estilo de
+vida, electrónica, deporte} entre los clústeres de co-ubicación del mercado. Metodología
+completa: [[about-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]].
+
+El punto de referencia metropolitano registrado para cada mercado es el núcleo metropolitano
+principal más cercano dentro del conjunto de referencia continental del marco — una medición en
+línea recta (a vuelo de pájaro), no una estimación de tiempo de conducción o de desplazamiento
+diario. Tampoco es una afirmación de que el mercado funcione como suburbio de desplazamiento
+diario de ese núcleo. Los 298 mercados de Estados Unidos hacen referencia a 90 núcleos
+distintos. Baltimore concentra 10 entradas, Boston y Minneapolis nueve cada uno, y Nashville
+ocho. Ocho mercados hacen referencia a un núcleo fuera del país: dos hacia Tijuana y uno hacia
+Monterrey en México, y uno hacia cada uno de Calgary, Hamilton, Montreal, Ciudad de Quebec y
+Vancouver en Canadá. La distancia mediana de referencia es de 75 kilómetros, con 158 de los 298
+mercados a menos de 80 kilómetros de su punto de referencia y 68 más allá de 150. El conjunto
+alcanza 47 estados; Alaska, Hawái y Dakota del Sur no aportan ningún mercado publicado.
+
+Las cifras de población de la cuenca de influencia y de gasto de consumo constan para los 298
+mercados estadounidenses, sin lagunas. De ellas, 126 se calculan como unión deduplicada de
+celdas de cuenca entre los clústeres miembros de un mercado y 172 recurren a las cifras del
+clúster miembro más fuerte; cada registro declara qué método se aplicó.
+
+## Composición de clústeres
+
+Los 298 mercados suman 486 clústeres de co-ubicación — 348 de Nivel 1, 59 de Nivel 2 y 79 de
+Nivel 3. La presencia de Nivel 1 es casi universal: 296 de los 298 cuentan con al menos un
+clúster de Nivel 1, y un único mercado califica solo con clústeres de Nivel 3.
 
 ## Cobertura por región censal
 
-**Sur** — la región con mayor contribución. Mercados en el Sureste (corredor I-4 de Florida,
-las Carolinas y ciudades secundarias de Tennessee), la Costa del Golfo y Texas fuera de las
-metrópolis primarias de Dallas-Fort Worth, Houston, San Antonio y Austin.
+Los 298 mercados se reparten entre las cuatro regiones de la Oficina del Censo del siguiente
+modo: 115 en el Sur, 70 en el Oeste, 64 en el Medio Oeste y 49 en el Noreste. La ventaja del
+Sur refleja el número de asentamientos calificados en Texas, Florida, Georgia y Virginia, y no
+una ponderación aplicada durante la selección — el corte continental no aplica presupuesto
+regional ni estatal de ningún tipo. California aporta 30 mercados y Texas 25, los dos mayores
+recuentos estatales del conjunto.
 
-**Medio Oeste** — fuerte representación en Ohio, Indiana, Wisconsin, Iowa, Kansas y Missouri.
-Muchos mercados del Medio Oeste muestran perfiles de ingresos consistentes con la inversión
-minorista nacional a pesar de los ingresos medianos del hogar moderados.
+## Mercados
 
-**Oeste** — mercados en el Oeste Intermontañoso (Utah, Idaho, Montana, Nevada fuera de Las
-Vegas) y el Noroeste del Pacífico fuera de las metrópolis primarias de Seattle–Tacoma y
-Portland.
+Esta tabla es una vista específica del país sobre el conjunto continental
+[[atlas-top-400-north-america|Top 400 Mercados Regionales — América del Norte]]. No se publica ninguna
+clasificación ni puntuación para ningún mercado.
 
-**Noreste** — cobertura específica de mercados fuera del corredor megalopolitano primario
-en el norte de Nueva York, Pensilvania, Connecticut y New Hampshire.
-
-**Corrección (2026-07-16):** de los cinco mercados de muestra mencionados anteriormente,
-solo dos se verifican contra los datos reales del TOP400 a continuación, y solo
-parcialmente. **Greenville–Spartanburg** aparece como "Spartanburg, SC" (suburbio de
-Greenville) — el mercado es real, pero listado bajo el nombre de la
-más pequeña de las dos ciudades emparejadas, no bajo la etiqueta bicéfala usada arriba.
-**Provo–Orem** aparece como "Provo, UT" (suburbio de Salt Lake City) — de
-nuevo real, pero bajo un solo nombre de ciudad en lugar de la etiqueta emparejada. **Fort
-Collins, Madison (WI) y Spokane no aparecen en ninguna de las 369 entradas verificadas de
-EE.UU.** Como en las demás páginas de país, esto no significa que no sean mercados
-reales; significa que actualmente no están incluidos en el filtro TOP400 de
-co-ubicación específicamente. El texto de Cobertura por región censal anterior se
-mantiene como descripción regional cualitativa en lugar de reescribirse, pero no debe
-interpretarse como que estos cinco mercados mencionados son entradas del TOP400 bajo los
-nombres indicados.
-
-## Muestra de 25
-
-Las 369 entradas del TOP400 de Estados Unidos abarcan todo el rango de ingresos y tamaño
-metropolitano del país. A continuación se presenta una muestra de veinticinco mercados
-estadounidenses (EE.UU. no tiene una vía de calificación independiente — esta es una vista filtrada por país del mismo conjunto de 400
-mercados). Es una muestra, no un nivel superior clasificado — el conjunto completo continúa en el Apéndice.
-
-| Mercado | Suburbio de | km | N1 | N2 | N3 | Cívica |
-|---|---|---|---|---|---|---|
-| [[us-tx-plano|Plano, TX]] | Dallas | 28 | 3 | 2 | 1 | Sí |
-| Mesa, AZ | Phoenix | 31 | 2 | 2 | 3 | Sí |
-| [[us-tx-frisco|Frisco, TX]] | Dallas | 44 | 3 | 1 | 0 | Sí |
-| Santa Clarita, CA | Los Angeles | 48 | 2 | 2 | 0 | Sí |
-| Nashua, NH | Boston | 56 | 2 | 2 | 0 | Sí |
-| Warwick, RI | Providence | 19 | 2 | 1 | 1 | Sí |
-| McKinney, TX | Dallas | 46 | 1 | 2 | 2 | Sí |
-| Chesapeake, VA | Virginia Beach | 31 | 2 | 1 | 0 | Sí |
-| Irvine, CA | Riverside | 52 | 2 | 0 | 1 | Sí |
-| Pembroke Pines, FL | Miami | 30 | 1 | 1 | 2 | Sí |
-| Chandler, AZ | Phoenix | 28 | 1 | 1 | 2 | Sí |
-| Niles, IL | Chicago | 29 | 1 | 2 | 0 | Sí |
-| Scottsdale, AZ | Phoenix | 23 | 1 | 2 | 0 | Sí |
-| Clearwater, FL | Tampa | 28 | 2 | 0 | 0 | Sí |
-| Joliet, IL | Chicago | 56 | 2 | 0 | 0 | Sí |
-| Levittown, NY | New York | 33 | 2 | 0 | 0 | Sí |
-| Murrieta, CA | Riverside | 49 | 2 | 0 | 0 | Sí |
-| Corona, CA | Riverside | 21 | 2 | 0 | 0 | Sí |
-| Maple Grove, MN | Minneapolis | 21 | 2 | 0 | 0 | Sí |
-| Danvers, MA | Boston | 23 | 2 | 0 | 0 | Sí |
-| Livonia, MI | Detroit | — | 2 | 0 | 0 | — |
-| Novi, MI | Detroit | — | 2 | 0 | 0 | — |
-| Horsham, PA | Philadelphia | — | 2 | 0 | 0 | — |
-| Buford, GA | Atlanta | — | 1 | 1 | 1 | — |
-| Pearland, TX | Houston | — | 1 | 1 | 1 | — |
-
-## Apéndice: mercados adicionales
-
-Esta tabla es una vista filtrada y específica de Estados Unidos de la tabla continental
-[[atlas-top-400-north-america|Top 400 Mercados Regionales — Norteamérica]] — no un conjunto
-de datos independiente —, de modo que cada entrada y conteo de nivel coincide
-exactamente con la tabla continental y se actualiza automáticamente si esa tabla se
-corrige. No se publica posición ni puntuación para ningún mercado. Las entradas siguen el
-mismo orden que la tabla continental, por lo que esta vista filtrada por EE.UU. omite de
-forma natural las entradas canadienses y mexicanas intercaladas.
-
-**Aviso de anomalía de datos (2026-07-16), no resuelto:** dos de las 369 filas etiquetadas
-`country: US` en la tabla continental se leen como geografía no estadounidense — la entrada
-"Baja California" (un estado mexicano, no un topónimo de EE.UU.), suburbio de Tijuana;
-y la entrada "Sumas, BC" (tanto la referencia "suburbio de" a Vancouver como el sufijo
-"BC" de estilo provincial se leen como canadienses, aunque existe una localidad
-estadounidense real llamada Sumas en el estado de Washington). Ambas se incluyen a
-continuación porque llevan la etiqueta `US` en la tabla fuente y esta página es un filtro
-mecánico de ese campo — no porque la geografía se haya confirmado. Esto se señala para su
-corrección en la propia tabla continental, no se descarta ni se mantiene silenciosamente
-sin comentario.
-
-| Mercado | Suburbio de | km | N1 | N2 | N3 | Cívica |
-|---|---|---|---|---|---|---|
-| Coral Springs, FL | Miami | — | 1 | 1 | 1 | — |
-| Overland Park, KS | Kansas City | — | 1 | 1 | 1 | — |
-| Grand Prairie, TX | Dallas | — | 1 | 1 | 1 | — |
-| Moorestown-Lenola, NJ | Philadelphia | — | 1 | 0 | 2 | — |
-| [[us-az-tempe|Tempe, AZ]] | Phoenix | — | 1 | 0 | 2 | — |
-| Brandon, FL | Tampa | — | 1 | 1 | 0 | — |
-| Huntington Beach, CA | Los Angeles | — | 1 | 1 | 0 | — |
-| Anaheim, CA | Los Angeles | — | 1 | 1 | 0 | — |
-| Stockbridge, GA | Atlanta | — | 1 | 1 | 0 | — |
-| La Habra, CA | Los Angeles | — | 1 | 1 | 0 | — |
-| Brandermill, VA | Richmond | — | 1 | 1 | 0 | — |
-| Irving, TX | Dallas | — | 1 | 1 | 0 | — |
-| Sandy, UT | Salt Lake City | — | 1 | 1 | 0 | — |
-| [[us-sc-greenville-spartanburg|Spartanburg, SC]] | Greenville SC | — | 1 | 1 | 0 | — |
-| The Woodlands, TX | Houston | — | 1 | 1 | 0 | — |
-| Temecula, CA | Riverside | — | 1 | 1 | 0 | — |
-| Denton, TX | Fort Worth | — | 1 | 1 | 0 | — |
-| Appleton, WI | Green Bay | — | 1 | 1 | 0 | — |
-| St. Peters, MO | St. Louis | — | 1 | 1 | 0 | — |
-| Forney, TX | Dallas | — | 1 | 1 | 0 | — |
-| Mount Clemens, MI | Detroit | — | 1 | 1 | 0 | — |
-| Sicklerville, NJ | Philadelphia | — | 1 | 1 | 0 | — |
-| St. Joseph, MO | Kansas City | — | 1 | 1 | 0 | — |
-| Visalia, CA | Fresno | — | 1 | 1 | 0 | — |
-| Lakewood Ranch, FL | Tampa | — | 1 | 1 | 0 | — |
-| Hawthorne, CA | Los Angeles | — | 1 | 1 | 0 | — |
-| Pueblo, CO | Colorado Springs | — | 1 | 1 | 0 | — |
-| Lodi, CA | Stockton | — | 1 | 1 | 0 | — |
-| Victorville, CA | Riverside | — | 1 | 1 | 0 | — |
-| Sandy Springs, GA | Kennesaw | — | 1 | 1 | 0 | — |
-| Gaithersburg, MD | Baltimore | — | 1 | 1 | 0 | — |
-| Olathe, KS | Kansas City | — | 0 | 3 | 0 | — |
-| Johns Creek, GA | Kennesaw | — | 0 | 3 | 0 | — |
-| Commack, NY | New York | — | 2 | 0 | 0 | — |
-| Folsom, CA | Sacramento | — | 1 | 0 | 1 | — |
-| Lone Tree, CO | Denver | — | 1 | 0 | 1 | — |
-| Costa Mesa, CA | Los Angeles | — | 1 | 0 | 1 | — |
-| Garden Grove, CA | Los Angeles | — | 1 | 0 | 1 | — |
-| Slidell, LA | New Orleans | — | 1 | 0 | 1 | — |
-| Hoover, AL | Birmingham | — | 1 | 0 | 1 | — |
-| Murfreesboro, TN | Nashville | — | 1 | 0 | 1 | — |
-| Vacaville, CA | Sacramento | — | 1 | 0 | 1 | — |
-| Davie, FL | Miami | — | 1 | 0 | 1 | — |
-| Palmdale, CA | Los Angeles | — | 1 | 0 | 1 | — |
-| Mechanicsburg, PA | Lancaster | — | 1 | 0 | 1 | — |
-| Newport News, VA | Virginia Beach | — | 1 | 0 | 1 | — |
-| Shakopee, MN | Minneapolis | — | 1 | 0 | 1 | — |
-| Thornton, CO | Denver | — | 1 | 0 | 1 | — |
-| Severn, MD | Baltimore | — | 1 | 0 | 1 | — |
-| Loveland, CO | Denver | — | 1 | 0 | 1 | — |
-| Oceanside, CA | San Diego | — | 1 | 0 | 1 | — |
-| Round Rock, TX | Austin | — | 1 | 0 | 1 | — |
-| Sunrise, FL | Miami | — | 1 | 0 | 1 | — |
-| Niagara Falls, NY | St. Catharines | — | 1 | 0 | 1 | — |
-| The Villages, FL | Orlando | — | 1 | 0 | 1 | — |
-| Burnsville, MN | Minneapolis | — | 1 | 0 | 1 | — |
-| Lakeland, FL | Tampa | — | 1 | 0 | 1 | — |
-| Downey, CA | Los Angeles | — | 1 | 0 | 1 | — |
-| Burbank, CA | Los Angeles | — | 1 | 0 | 1 | — |
-| Lewisville, TX | Dallas | — | 1 | 0 | 1 | — |
-| Methuen Town, MA | Boston | — | 1 | 0 | 1 | — |
-| Southlake, TX | Fort Worth | — | 1 | 0 | 1 | — |
-| Rockwall, TX | Dallas | — | 1 | 0 | 1 | — |
-| Longmont, CO | Denver | — | 1 | 0 | 1 | — |
-| Daytona Beach, FL | Orlando | — | 1 | 0 | 1 | — |
-| Riverview, FL | Tampa | — | 0 | 2 | 1 | — |
-| Asheville, NC | Greenville SC | — | 0 | 2 | 1 | — |
-| Bolingbrook, IL | Chicago | — | 0 | 2 | 1 | — |
-| Baja California | Tijuana | — | 1 | 1 | 0 | — |
-| Goldsboro, NC | Raleigh | — | 1 | 0 | 0 | — |
-| Owasso, OK | Tulsa | — | 1 | 0 | 0 | — |
-| Stratford Downtown, CT | New Haven | — | 1 | 0 | 0 | — |
-| East York, PA | Lancaster | — | 1 | 0 | 0 | — |
-| [[us-ca-torrance|Torrance, CA]] | Los Angeles | — | 1 | 0 | 0 | — |
-| Lincoln Park, NY | Albany | — | 1 | 0 | 0 | — |
-| Bayou Cane, LA | New Orleans | — | 1 | 0 | 0 | — |
-| San Leandro, CA | San Francisco | — | 1 | 0 | 0 | — |
-| Gastonia, NC | Charlotte | — | 1 | 0 | 0 | — |
-| Lake Magdalene, FL | Tampa | — | 1 | 0 | 0 | — |
-| Hialeah, FL | Miami | — | 1 | 0 | 0 | — |
-| Dania Beach, FL | Miami | — | 1 | 0 | 0 | — |
-| Southaven, MS | Memphis | — | 1 | 0 | 0 | — |
-| Rancho Cordova, CA | Sacramento | — | 1 | 0 | 0 | — |
-| Moore, OK | Oklahoma City | — | 1 | 0 | 0 | — |
-| Kannapolis, NC | Charlotte | — | 1 | 0 | 0 | — |
-| Country Club, FL | Miami | — | 1 | 0 | 0 | — |
-| Millville, NJ | Philadelphia | — | 1 | 0 | 0 | — |
-| Cockeysville, MD | Baltimore | — | 1 | 0 | 0 | — |
-| Goodyear, AZ | Phoenix | — | 1 | 0 | 0 | — |
-| Seabrook Beach, NH | Boston | — | 1 | 0 | 0 | — |
-| Glen Carbon, IL | St. Louis | — | 1 | 0 | 0 | — |
-| Florin, CA | Sacramento | — | 1 | 0 | 0 | — |
-| Elk Grove, CA | Sacramento | — | 1 | 0 | 0 | — |
-| Gulfport, MS | Mobile | — | 1 | 0 | 0 | — |
-| Long Beach, CA | Los Angeles | — | 1 | 0 | 0 | — |
-| Signal Hill, CA | Los Angeles | — | 1 | 0 | 0 | — |
-| Orem, UT | Salt Lake City | — | 1 | 0 | 0 | — |
-| McKee City, NJ | Philadelphia | — | 1 | 0 | 0 | — |
-| West Jordan, UT | Salt Lake City | — | 1 | 0 | 0 | — |
-| Milton, GA | Kennesaw | — | 1 | 0 | 0 | — |
-| Kirkwood, MO | St. Louis | — | 1 | 0 | 0 | — |
-| Wescosville, PA | Wilmington DE | — | 1 | 0 | 0 | — |
-| Tukwila, WA | Seattle | — | 1 | 0 | 0 | — |
-| Eden Prairie, MN | Minneapolis | — | 1 | 0 | 0 | — |
-| King of Prussia, PA | Wilmington DE | — | 1 | 0 | 0 | — |
-| Wake Forest, NC | Raleigh | — | 1 | 0 | 0 | — |
-| Dulles Town Center, VA | Baltimore | — | 1 | 0 | 0 | — |
-| New Castle, DE | Wilmington DE | — | 1 | 0 | 0 | — |
-| East Farmingdale, NY | New York | — | 1 | 0 | 0 | — |
-| Hot Springs, AR | Little Rock | — | 1 | 0 | 0 | — |
-| Puyallup, WA | Tacoma | — | 1 | 0 | 0 | — |
-| American Fork, UT | Salt Lake City | — | 1 | 0 | 0 | — |
-| South Valley Stream, NY | New York | — | 1 | 0 | 0 | — |
-| Inwood, NY | New York | — | 1 | 0 | 0 | — |
-| Mason, OH | Cincinnati | — | 1 | 0 | 0 | — |
-| Independence, MO | Kansas City | — | 1 | 0 | 0 | — |
-| Florida City, FL | Miami | — | 1 | 0 | 0 | — |
-| Laguna Niguel, CA | Riverside | — | 1 | 0 | 0 | — |
-| Hybla Valley, VA | Baltimore | — | 1 | 0 | 0 | — |
-| Seven Fields, PA | Pittsburgh | — | 1 | 0 | 0 | — |
-| Clermont, FL | Orlando | — | 1 | 0 | 0 | — |
-| Riverton, UT | Salt Lake City | — | 1 | 0 | 0 | — |
-| Ballenger Creek, MD | Baltimore | — | 1 | 0 | 0 | — |
-| Gilroy, CA | San Jose | — | 1 | 0 | 0 | — |
-| Skokie, IL | Chicago | — | 1 | 0 | 0 | — |
-| Homeacre-Lyndora, PA | Pittsburgh | — | 1 | 0 | 0 | — |
-| Taylor, MI | Detroit | — | 1 | 0 | 0 | — |
-| Wentzville, MO | St. Louis | — | 1 | 0 | 0 | — |
-| Chicopee, MA | Hartford | — | 1 | 0 | 0 | — |
-| Vernon Hills, IL | Chicago | — | 1 | 0 | 0 | — |
-| Humble, TX | Houston | — | 1 | 0 | 0 | — |
-| San Dimas, CA | Los Angeles | — | 1 | 0 | 0 | — |
-| Ames, IA | Des Moines | — | 1 | 0 | 0 | — |
-| Metuchen, NJ | New York | — | 1 | 0 | 0 | — |
-| St. Petersburg, FL | Tampa | — | 1 | 0 | 0 | — |
-| Oakbrook Terrace, IL | Chicago | — | 1 | 0 | 0 | — |
-| Lady Lake, FL | Orlando | — | 1 | 0 | 0 | — |
-| Merced, CA | Modesto | — | 1 | 0 | 0 | — |
-| Maplewood, MN | Minneapolis | — | 1 | 0 | 0 | — |
-| Martinsville, NJ | New York | — | 1 | 0 | 0 | — |
-| Smith Mills, MA | Providence | — | 1 | 0 | 0 | — |
-| Framingham, MA | Boston | — | 1 | 0 | 0 | — |
-| Pittsfield, MA | Albany | — | 1 | 0 | 0 | — |
-| Harris Hill, NY | Buffalo | — | 1 | 0 | 0 | — |
-| Salinas, CA | San Jose | — | 1 | 0 | 0 | — |
-| Castle Rock, CO | Denver | — | 1 | 0 | 0 | — |
-| Norman, OK | Oklahoma City | — | 1 | 0 | 0 | — |
-| Elgin, IL | Chicago | — | 1 | 0 | 0 | — |
-| Uniondale, NY | New York | — | 1 | 0 | 0 | — |
-| Orland Park, IL | Chicago | — | 1 | 0 | 0 | — |
-| Citrus Heights, CA | Sacramento | — | 1 | 0 | 0 | — |
-| Port Orange, FL | Orlando | — | 1 | 0 | 0 | — |
-| Waterford, CT | Hartford | — | 1 | 0 | 0 | — |
-| Duluth, GA | Atlanta | — | 1 | 0 | 0 | — |
-| Wallingford Center, CT | New Haven | — | 1 | 0 | 0 | — |
-| Sumas, BC | Vancouver | — | 1 | 0 | 0 | — |
-| Turlock, CA | Modesto | — | 1 | 0 | 0 | — |
-| Kenilworth, NJ | New York | — | 1 | 0 | 0 | — |
-| Peachtree City, GA | Atlanta | — | 1 | 0 | 0 | — |
-| Lynnwood, WA | Seattle | — | 1 | 0 | 0 | — |
-| The Hammocks, FL | Miami | — | 1 | 0 | 0 | — |
-| Paramus, NJ | New York | — | 1 | 0 | 0 | — |
-| Hasbrouck Heights, NJ | New York | — | 1 | 0 | 0 | — |
-| Douglasville, GA | Kennesaw | — | 1 | 0 | 0 | — |
-| Matthews, NC | Charlotte | — | 1 | 0 | 0 | — |
-| Crystal Lake, IL | Chicago | — | 1 | 0 | 0 | — |
-| Alafaya, FL | Orlando | — | 1 | 0 | 0 | — |
-| Bowie, MD | Baltimore | — | 1 | 0 | 0 | — |
-| Colonial Heights, VA | Richmond | — | 1 | 0 | 0 | — |
-| Flemington, NJ | Philadelphia | — | 1 | 0 | 0 | — |
-| Rohnert Park, CA | San Francisco | — | 1 | 0 | 0 | — |
-| Conroe, TX | Houston | — | 1 | 0 | 0 | — |
-| Pflugerville, TX | Austin | — | 1 | 0 | 0 | — |
-| Cumming, GA | Kennesaw | — | 1 | 0 | 0 | — |
-| Hampton, VA | Virginia Beach | — | 1 | 0 | 0 | — |
-| Snellville, GA | Atlanta | — | 1 | 0 | 0 | — |
-| Easton, MD | Baltimore | — | 1 | 0 | 0 | — |
-| Northlake, IL | Chicago | — | 1 | 0 | 0 | — |
-| Mount Prospect, IL | Chicago | — | 1 | 0 | 0 | — |
-| Gardena, CA | Los Angeles | — | 1 | 0 | 0 | — |
-| Hiram, GA | Kennesaw | — | 1 | 0 | 0 | — |
-| Hanover, PA | Lancaster | — | 1 | 0 | 0 | — |
-| Chamblee, GA | Atlanta | — | 1 | 0 | 0 | — |
-| Maryville, TN | Knoxville | — | 1 | 0 | 0 | — |
-| Leisure Village East, NJ | New York | — | 1 | 0 | 0 | — |
-| Pomona, CA | Riverside | — | 1 | 0 | 0 | — |
-| Layton, UT | Salt Lake City | — | 1 | 0 | 0 | — |
-| Yardville, NJ | Philadelphia | — | 1 | 0 | 0 | — |
-| Jeannette, PA | Pittsburgh | — | 1 | 0 | 0 | — |
-| Willoughby, OH | Cleveland | — | 1 | 0 | 0 | — |
-| Naperville, IL | Chicago | — | 1 | 0 | 0 | — |
-| Menomonee Falls, WI | Milwaukee | — | 1 | 0 | 0 | — |
-| Hickory, NC | Charlotte | — | 1 | 0 | 0 | — |
-| Belton, MO | Kansas City | — | 1 | 0 | 0 | — |
-| Robertsville, NJ | New York | — | 1 | 0 | 0 | — |
-| Riverhead, NY | New Haven | — | 1 | 0 | 0 | — |
-| Denham Springs, LA | Baton Rouge | — | 1 | 0 | 0 | — |
-| Ferguson, MO | St. Louis | — | 1 | 0 | 0 | — |
-| Newport East, RI | Providence | — | 1 | 0 | 0 | — |
-| Coon Rapids, MN | Minneapolis | — | 1 | 0 | 0 | — |
-| Pewaukee, WI | Milwaukee | — | 1 | 0 | 0 | — |
-| West Freehold, NJ | New York | — | 1 | 0 | 0 | — |
-| East Washington, PA | Pittsburgh | — | 1 | 0 | 0 | — |
-| Evergreen Park, IL | Chicago | — | 1 | 0 | 0 | — |
-| Hobart, IN | Chicago | — | 1 | 0 | 0 | — |
-| Hodgkins, IL | Chicago | — | 1 | 0 | 0 | — |
-| Bloomingdale, IL | Chicago | — | 1 | 0 | 0 | — |
-| Mehlville, MO | St. Louis | — | 1 | 0 | 0 | — |
-| Yuba City, CA | Sacramento | — | 1 | 0 | 0 | — |
-| Tracy, CA | Stockton | — | 1 | 0 | 0 | — |
-| Bon Air, VA | Richmond | — | 1 | 0 | 0 | — |
-| Spanish Fork, UT | Salt Lake City | — | 1 | 0 | 0 | — |
-| Newnan, GA | Atlanta | — | 1 | 0 | 0 | — |
-| Simi Valley, CA | Oxnard | — | 1 | 0 | 0 | — |
-| Kokomo, IN | Indianapolis | — | 1 | 0 | 0 | — |
-| McDonough, GA | Atlanta | — | 1 | 0 | 0 | — |
-| Lake Zurich, IL | Chicago | — | 1 | 0 | 0 | — |
-| Fruitville, FL | Tampa | — | 1 | 0 | 0 | — |
-| Seven Corners, VA | Baltimore | — | 1 | 0 | 0 | — |
-| Jericho, NY | New York | — | 1 | 0 | 0 | — |
-| Parole, MD | Baltimore | — | 1 | 0 | 0 | — |
-| Madison Heights, MI | Detroit | — | 1 | 0 | 0 | — |
-| Montgomeryville, PA | Philadelphia | — | 1 | 0 | 0 | — |
-| Brookside, DE | Wilmington DE | — | 1 | 0 | 0 | — |
-| Paxtonia, PA | Lancaster | — | 1 | 0 | 0 | — |
-| Glenview, IL | Chicago | — | 1 | 0 | 0 | — |
-| West Nyack, NY | New York | — | 1 | 0 | 0 | — |
-| Port Chester, NY | New York | — | 1 | 0 | 0 | — |
-| Sevierville, TN | Knoxville | — | 1 | 0 | 0 | — |
-| Goleta, CA | Oxnard | — | 1 | 0 | 0 | — |
-| Woburn, MA | Boston | — | 1 | 0 | 0 | — |
-| San Ramon, CA | San Francisco | — | 1 | 0 | 0 | — |
-| Clifton, NJ | New York | — | 1 | 0 | 0 | — |
-| San Mateo, CA | San Francisco | — | 1 | 0 | 0 | — |
-| Vallejo, CA | San Francisco | — | 1 | 0 | 0 | — |
-| San Bruno, CA | San Francisco | — | 1 | 0 | 0 | — |
-| Issaquah, WA | Seattle | — | 1 | 0 | 0 | — |
-| Mayfield Heights, OH | Cleveland | — | 1 | 0 | 0 | — |
-| Oaks, PA | Wilmington DE | — | 1 | 0 | 0 | — |
-| [[us-ut-provo-orem|Provo, UT]] | Salt Lake City | — | 1 | 0 | 0 | — |
-| Silverdale, WA | Seattle | — | 1 | 0 | 0 | — |
-| Owings Mills, MD | Baltimore | — | 1 | 0 | 0 | — |
-| Whippany, NJ | New York | — | 1 | 0 | 0 | — |
-| Randolph Town, MA | Boston | — | 1 | 0 | 0 | — |
-| Plymouth Meeting, PA | Philadelphia | — | 1 | 0 | 0 | — |
-| Waukesha, WI | Milwaukee | — | 1 | 0 | 0 | — |
-| Gig Harbor, WA | Tacoma | — | 1 | 0 | 0 | — |
-| Nampa, ID | Boise | — | 1 | 0 | 0 | — |
-| Grafton, WI | Milwaukee | — | 1 | 0 | 0 | — |
-| Singac, NJ | New York | — | 1 | 0 | 0 | — |
-| Summerlin South, NV | Las Vegas | — | 1 | 0 | 0 | — |
-| Smyrna, TN | Nashville | — | 1 | 0 | 0 | — |
-| Pontiac, MI | Detroit | — | 1 | 0 | 0 | — |
-| Akron, OH | Cleveland | — | 1 | 0 | 0 | — |
-| Mission Viejo, CA | Riverside | — | 1 | 0 | 0 | — |
-| Pelham Manor, NY | New York | — | 1 | 0 | 0 | — |
-| Dedham, MA | Boston | — | 1 | 0 | 0 | — |
-| Bridgeport, CT | New Haven | — | 1 | 0 | 0 | — |
-| Palo Alto, CA | San Jose | — | 1 | 0 | 0 | — |
-| Edmonds, WA | Seattle | — | 1 | 0 | 0 | — |
-| Edmond, OK | Oklahoma City | — | 0 | 1 | 2 | — |
-| Surprise, AZ | Phoenix | — | 0 | 1 | 2 | — |
-| Escondido, CA | San Diego | — | 0 | 2 | 0 | — |
-| Richardson, TX | Dallas | — | 0 | 2 | 0 | — |
-| Renton, WA | Seattle | — | 0 | 2 | 0 | — |
-| Dublin, CA | San Jose | — | 0 | 2 | 0 | — |
-| Lowell, MA | Boston | — | 0 | 2 | 0 | — |
-| Downers Grove, IL | Chicago | — | 0 | 2 | 0 | — |
-| Brockton, MA | Boston | — | 0 | 2 | 0 | — |
-| Leominster, MA | Worcester | — | 0 | 2 | 0 | — |
-| Arnold, MO | St. Louis | — | 0 | 2 | 0 | — |
-| Fairfield, CA | Sacramento | — | 0 | 2 | 0 | — |
-| Wadsworth, OH | Cleveland | — | 0 | 2 | 0 | — |
-| Jasmine Estates, FL | Tampa | — | 0 | 2 | 0 | — |
-| Hammond, LA | Baton Rouge | — | 0 | 2 | 0 | — |
-| Lorain, OH | Cleveland | — | 0 | 2 | 0 | — |
-| Schererville, IN | Chicago | — | 0 | 2 | 0 | — |
-| Rochester Hills, MI | Detroit | — | 0 | 2 | 0 | — |
-| Kent, WA | Tacoma | — | 0 | 2 | 0 | — |
-| Waldorf, MD | Baltimore | — | 1 | 0 | 1 | — |
-| Carson, CA | Los Angeles | — | 0 | 1 | 1 | — |
-| Winter Haven, FL | Orlando | — | 0 | 1 | 1 | — |
-| Las Cruces, NM | El Paso | — | 0 | 1 | 1 | — |
-| [[us-la-kenner|Kenner, LA]] | New Orleans | — | 0 | 1 | 1 | — |
-| Delray Beach, FL | Miami | — | 0 | 1 | 1 | — |
-| Covina, CA | Los Angeles | — | 0 | 1 | 1 | — |
-| Mentor, OH | Cleveland | — | 0 | 1 | 1 | — |
-| Trussville, AL | Birmingham | — | 0 | 1 | 1 | — |
-| Cedar Park, TX | Austin | — | 0 | 1 | 1 | — |
-| Weymouth Town, MA | Boston | — | 0 | 1 | 1 | — |
-| Withamsville, OH | Cincinnati | — | 0 | 1 | 1 | — |
-| Sugar Land, TX | Houston | — | 0 | 1 | 1 | — |
-| Tuscaloosa, AL | Birmingham | — | 0 | 1 | 1 | — |
-| Garland, TX | Dallas | — | 0 | 1 | 1 | — |
-| Gilbert, AZ | Phoenix | — | 0 | 1 | 1 | — |
-| Short Pump, VA | Richmond | — | 0 | 1 | 1 | — |
-| Pinellas Park, FL | Tampa | — | 0 | 1 | 1 | — |
-| Noblesville, IN | Indianapolis | — | 0 | 1 | 1 | — |
-| Four Corners, FL | Orlando | — | 0 | 1 | 1 | — |
-| Strongsville, OH | Cleveland | — | 0 | 1 | 1 | — |
-| North Miami, FL | Miami | — | 0 | 1 | 1 | — |
-| Allen, TX | Dallas | — | 0 | 1 | 1 | — |
-| Lake Forest, CA | Riverside | — | 0 | 1 | 1 | — |
-| New Braunfels, TX | San Antonio | — | 0 | 1 | 1 | — |
-| Gonzales, LA | Baton Rouge | — | 0 | 1 | 1 | — |
-| West Berlin, NJ | Philadelphia | — | 0 | 1 | 1 | — |
-| Sterling Heights, MI | Detroit | — | 0 | 1 | 1 | — |
-| Upland, CA | Riverside | — | 0 | 1 | 1 | — |
-| Burleson, TX | Fort Worth | — | 0 | 1 | 1 | — |
-| Ballwin, MO | St. Louis | — | 0 | 1 | 1 | — |
-| Tomball, TX | Houston | — | 0 | 1 | 1 | — |
-| Santa Rosa, CA | San Francisco | — | 0 | 1 | 1 | — |
-| Ann Arbor, MI | Detroit | — | 0 | 1 | 1 | — |
-| Monroeville, PA | Pittsburgh | — | 0 | 1 | 1 | — |
-| Pompano Beach, FL | Miami | — | 0 | 1 | 1 | — |
-| Santee, CA | San Diego | — | 1 | 0 | 0 | — |
-| Woodland, CA | Sacramento | — | 1 | 0 | 0 | — |
-| Sequim, WA | Seattle | — | 1 | 0 | 0 | — |
-| Bel Air South, MD | Baltimore | — | 1 | 0 | 0 | — |
-| [[us-mn-eagan|Eagan, MN]] | Minneapolis | — | 1 | 0 | 0 | — |
-| Bradenton, FL | Tampa | — | 1 | 0 | 0 | — |
-| Madison Park, NJ | New York | — | 1 | 0 | 0 | — |
-| Mooresville, NC | Charlotte | — | 1 | 0 | 0 | — |
-| Gurnee, IL | Chicago | — | 1 | 0 | 0 | — |
-| Harwick, PA | Pittsburgh | — | 1 | 0 | 0 | — |
-| Ledgewood, NJ | New York | — | 1 | 0 | 0 | — |
-| Rock Hill, SC | Charlotte | — | 1 | 0 | 0 | — |
-| Watchung, NJ | New York | — | 1 | 0 | 0 | — |
-| Mount Juliet, TN | Nashville | — | 1 | 0 | 0 | — |
-| Bonney Lake, WA | Tacoma | — | 1 | 0 | 0 | — |
-| Westland, MI | Detroit | — | 1 | 0 | 0 | — |
-| Radisson, NY | Syracuse | — | 1 | 0 | 0 | — |
-| Industry, CA | Los Angeles | — | 1 | 0 | 0 | — |
-| Poway, CA | San Diego | — | 1 | 0 | 0 | — |
-| Algonquin, IL | Chicago | — | 1 | 0 | 0 | — |
-| Lake Elsinore, CA | Riverside | — | 1 | 0 | 0 | — |
-| Chesterfield, MO | St. Louis | — | 1 | 0 | 0 | — |
-| South Miami Heights, FL | Miami | — | 1 | 0 | 0 | — |
-| Sherwood Manor, CT | Hartford | — | 1 | 0 | 0 | — |
-| Holbrook, NY | New Haven | — | 1 | 0 | 0 | — |
-| Chaska, MN | Minneapolis | — | 1 | 0 | 0 | — |
-| Nanuet, NY | New York | — | 1 | 0 | 0 | — |
-| Auburn Hills, MI | Detroit | — | 1 | 0 | 0 | — |
-| Eastvale, CA | Riverside | — | 1 | 0 | 0 | — |
+| Mercado | Referencia metropolitana | km | N1 | N2 | N3 |
+|---|---|---|---|---|---|
+| Brentwood, MO | St. Louis | 12,0 | 1 | 0 | 0 |
+| Manchester, CT | Hartford | 12,3 | 1 | 0 | 0 |
+| Blasdell, NY | Buffalo | 12,4 | 1 | 0 | 0 |
+| Attleboro, MA | Providence | 12,6 | 1 | 0 | 0 |
+| Tonawanda Town, NY | Buffalo | 12,9 | 1 | 0 | 0 |
+| Sunnyvale, CA | San Jose | 13,4 | 1 | 0 | 0 |
+| Ankeny, IA | Des Moines | 13,7 | 1 | 0 | 0 |
+| Chula Vista, CA | Tijuana (México) | 13,9 | 3 | 0 | 0 |
+| Rossville, MD | Baltimore | 13,9 | 2 | 0 | 0 |
+| Spring Valley, NV | Las Vegas | 13,9 | 1 | 0 | 2 |
+| San Bernardino, CA | Riverside | 14,3 | 1 | 1 | 0 |
+| West Des Moines, IA | Des Moines | 14,6 | 1 | 0 | 0 |
+| [[us-az-tempe|Tempe, AZ]] | Phoenix | 15,2 | 2 | 0 | 1 |
+| Oakdale, PA | Pittsburgh | 15,3 | 1 | 0 | 0 |
+| Burbank, CA | Los Angeles | 15,4 | 1 | 0 | 1 |
+| Franklin, WI | Milwaukee | 15,4 | 1 | 0 | 1 |
+| Pineville, NC | Charlotte | 15,5 | 1 | 0 | 0 |
+| Florence, KY | Cincinnati | 15,9 | 1 | 0 | 1 |
+| Hoover, AL | Birmingham | 15,9 | 2 | 0 | 1 |
+| Henderson, NV | Las Vegas | 16,5 | 1 | 0 | 1 |
+| Avon, IN | Indianapolis | 16,7 | 1 | 0 | 0 |
+| Alafaya, FL | Orlando | 16,9 | 1 | 0 | 0 |
+| Warrensville Heights, OH | Cleveland | 17,5 | 1 | 0 | 0 |
+| Sandy Springs, GA | Kennesaw | 17,6 | 1 | 0 | 1 |
+| Aurora, CO | Denver | 17,7 | 4 | 1 | 0 |
+| Hawthorne, CA | Los Angeles | 18,4 | 1 | 1 | 0 |
+| Tukwila, WA | Seattle | 18,7 | 1 | 0 | 0 |
+| Moorestown-Lenola, NJ | Filadelfia | 18,8 | 2 | 0 | 1 |
+| Warwick, RI | Providence | 19,1 | 3 | 1 | 0 |
+| Hillsboro, OR | Portland | 19,4 | 1 | 1 | 0 |
+| Hiram, GA | Kennesaw | 19,8 | 1 | 0 | 0 |
+| Plymouth Meeting, PA | Filadelfia | 19,9 | 1 | 0 | 0 |
+| Columbia, MD | Baltimore | 20,4 | 1 | 0 | 0 |
+| Gulfport, MS | Mobile | 20,4 | 1 | 0 | 0 |
+| Norfolk, VA | Virginia Beach | 20,4 | 1 | 0 | 0 |
+| Short Pump, VA | Richmond | 20,8 | 1 | 0 | 1 |
+| Horn Lake, MS | Memphis | 21,0 | 1 | 0 | 0 |
+| Owasso, OK | Tulsa | 21,1 | 1 | 0 | 0 |
+| Maple Grove, MN | Minneapolis | 21,3 | 2 | 0 | 0 |
+| Overland Park, KS | Kansas City | 21,6 | 1 | 1 | 1 |
+| Sandy, UT | Salt Lake City | 21,6 | 1 | 1 | 0 |
+| Carmel, IN | Indianapolis | 22,0 | 2 | 0 | 0 |
+| Issaquah, WA | Seattle | 22,2 | 1 | 0 | 0 |
+| Universal City, TX | San Antonio | 22,2 | 1 | 0 | 0 |
+| Scottsdale, AZ | Phoenix | 22,7 | 1 | 2 | 0 |
+| Maywood, NJ | Nueva York | 23,1 | 1 | 0 | 0 |
+| Hunters Creek, FL | Orlando | 23,2 | 1 | 0 | 1 |
+| King of Prussia, PA | Wilmington DE | 23,2 | 1 | 0 | 0 |
+| Danvers, MA | Boston | 23,4 | 2 | 0 | 0 |
+| Lone Tree, CO | Denver | 23,5 | 1 | 0 | 1 |
+| Pearland, TX | Houston | 23,9 | 1 | 1 | 1 |
+| Mount Juliet, TN | Nashville | 24,0 | 1 | 0 | 0 |
+| Woodland, CA | Sacramento | 24,0 | 1 | 0 | 0 |
+| Franklin, TN | Nashville | 25,1 | 2 | 1 | 0 |
+| Alpharetta, GA | Kennesaw | 25,2 | 1 | 0 | 1 |
+| Lynnwood, WA | Seattle | 25,4 | 1 | 0 | 0 |
+| Coon Rapids, MN | Minneapolis | 25,7 | 1 | 0 | 0 |
+| Gastonia, NC | Charlotte | 25,9 | 1 | 0 | 0 |
+| Mansfield, TX | Fort Worth | 25,9 | 1 | 0 | 0 |
+| Burlington, NC | Greensboro | 26,2 | 1 | 0 | 0 |
+| Horsham, PA | Filadelfia | 26,7 | 2 | 0 | 0 |
+| Concord, NC | Charlotte | 26,8 | 2 | 0 | 0 |
+| Woodbury, MN | Minneapolis | 27,1 | 1 | 0 | 1 |
+| Silverdale, WA | Seattle | 27,2 | 1 | 0 | 0 |
+| Avon, OH | Cleveland | 27,3 | 1 | 0 | 0 |
+| Tracy, CA | Stockton | 27,3 | 1 | 0 | 0 |
+| Glen Carbon, IL | St. Louis | 27,4 | 1 | 0 | 0 |
+| Clearwater, FL | Tampa | 27,7 | 2 | 0 | 0 |
+| Long Beach, CA | Los Angeles | 27,7 | 3 | 0 | 0 |
+| Leominster, MA | Worcester | 28,4 | 1 | 1 | 0 |
+| [[us-tx-plano|Plano, TX]] | Dallas | 28,4 | 3 | 2 | 1 |
+| Southlake, TX | Fort Worth | 28,5 | 1 | 0 | 1 |
+| Framingham, MA | Boston | 28,6 | 1 | 0 | 0 |
+| Livonia, MI | Detroit | 28,8 | 2 | 0 | 0 |
+| Roseville, CA | Sacramento | 28,8 | 2 | 1 | 0 |
+| Round Rock, TX | Austin | 29,0 | 1 | 0 | 1 |
+| Seven Fields, PA | Pittsburgh | 29,0 | 1 | 0 | 0 |
+| Humble, TX | Houston | 30,2 | 1 | 0 | 0 |
+| Chesapeake, VA | Virginia Beach | 30,6 | 2 | 1 | 0 |
+| Mesa, AZ | Phoenix | 30,9 | 2 | 1 | 4 |
+| Bear, DE | Wilmington DE | 31,1 | 1 | 0 | 0 |
+| Sugar Land, TX | Houston | 31,2 | 1 | 0 | 0 |
+| Douglasville, GA | Kennesaw | 31,3 | 1 | 0 | 0 |
+| Nampa, ID | Boise | 31,5 | 1 | 0 | 0 |
+| Folsom, CA | Sacramento | 31,8 | 1 | 0 | 1 |
+| Colonial Heights, VA | Richmond | 32,6 | 1 | 0 | 0 |
+| Florham Park, NJ | Nueva York | 32,7 | 1 | 0 | 0 |
+| Uniondale, NY | Nueva York | 34,1 | 1 | 0 | 0 |
+| Rock Hill, SC | Charlotte | 34,3 | 1 | 0 | 0 |
+| Parole, MD | Baltimore | 34,6 | 1 | 0 | 0 |
+| Orland Park, IL | Chicago | 35,6 | 1 | 0 | 0 |
+| Rockwall, TX | Dallas | 35,9 | 1 | 0 | 1 |
+| Conyers, GA | Atlanta | 37,6 | 1 | 0 | 0 |
+| Fullerton, CA | Los Angeles | 37,7 | 2 | 0 | 0 |
+| Concord, CA | San Francisco | 39,3 | 1 | 0 | 0 |
+| Brentwood, CA | Stockton | 39,6 | 1 | 0 | 0 |
+| Smith Mills, MA | Providence | 39,9 | 1 | 0 | 0 |
+| Live Oak, CA | San Jose | 40,3 | 1 | 0 | 0 |
+| Conway, AR | Little Rock | 40,7 | 1 | 1 | 0 |
+| Mooresville, NC | Charlotte | 40,8 | 1 | 0 | 0 |
+| Danbury, CT | New Haven | 42,4 | 1 | 0 | 0 |
+| Appleton, WI | Green Bay | 42,5 | 1 | 1 | 0 |
+| [[us-sc-greenville-spartanburg|Spartanburg, SC]] | Greenville SC | 43,3 | 1 | 1 | 0 |
+| Vallejo, CA | San Francisco | 43,8 | 1 | 0 | 0 |
+| Florida City, FL | Miami | 43,9 | 1 | 0 | 0 |
+| [[us-tx-frisco|Frisco, TX]] | Dallas | 44,0 | 3 | 1 | 0 |
+| Sunrise, FL | Miami | 44,6 | 1 | 0 | 1 |
+| Methuen Town, NH | Boston | 45,0 | 1 | 0 | 1 |
+| Anderson, SC | Greenville SC | 45,2 | 1 | 1 | 0 |
+| Akron, OH | Cleveland | 46,0 | 1 | 0 | 0 |
+| Riverhead, NY | New Haven | 46,7 | 1 | 0 | 0 |
+| Gilroy, CA | San Jose | 46,8 | 1 | 0 | 0 |
+| Ames, IA | Des Moines | 47,0 | 1 | 0 | 0 |
+| Riverdale, UT | Salt Lake City | 47,4 | 1 | 0 | 0 |
+| Vernon Hills, IL | Chicago | 48,0 | 1 | 0 | 0 |
+| Santa Clarita, CA | Los Angeles | 48,2 | 3 | 1 | 0 |
+| Murrieta, CA | Riverside | 48,9 | 2 | 0 | 0 |
+| Norwalk, CT | New Haven | 49,3 | 1 | 0 | 0 |
+| Saratoga Springs, NY | Albany | 50,0 | 1 | 0 | 0 |
+| Tustin, CA | Riverside | 50,4 | 1 | 0 | 0 |
+| San Marcos, TX | Austin | 50,6 | 1 | 0 | 0 |
+| Lakeland, FL | Tampa | 51,1 | 1 | 0 | 1 |
+| Paxtonia, PA | Lancaster | 51,6 | 1 | 0 | 0 |
+| Pleasant Prairie, WI | Milwaukee | 52,3 | 1 | 0 | 0 |
+| Buford, GA | Atlanta | 52,9 | 1 | 1 | 1 |
+| Mission Viejo, CA | Riverside | 54,7 | 2 | 0 | 0 |
+| Nashua, NH | Boston | 55,8 | 2 | 1 | 1 |
+| Ann Arbor, MI | Detroit | 56,5 | 2 | 0 | 0 |
+| Joliet, IL | Chicago | 56,6 | 2 | 0 | 0 |
+| Coral Springs, FL | Miami | 56,9 | 2 | 0 | 1 |
+| Princeton, NJ | Filadelfia | 56,9 | 1 | 0 | 0 |
+| Merced, CA | Modesto | 57,2 | 1 | 0 | 0 |
+| Millville, NJ | Filadelfia | 59,5 | 1 | 0 | 0 |
+| Palmdale, CA | Los Angeles | 60,7 | 1 | 0 | 1 |
+| Commack, NY | Nueva York | 61,3 | 2 | 0 | 0 |
+| Visalia, CA | Fresno | 61,9 | 1 | 1 | 0 |
+| New London, CT | Hartford | 62,1 | 1 | 0 | 0 |
+| Conroe, TX | Houston | 63,5 | 1 | 0 | 0 |
+| Mechanicsburg, PA | Lancaster | 64,3 | 1 | 0 | 1 |
+| Pueblo, CO | Colorado Springs | 64,8 | 1 | 1 | 0 |
+| Clarksville, TN | Nashville | 66,1 | 1 | 0 | 0 |
+| Hickory, NC | Charlotte | 67,1 | 1 | 0 | 0 |
+| Centerville, OH | Cincinnati | 67,6 | 1 | 0 | 1 |
+| Las Cruces, NM | El Paso | 68,4 | 2 | 0 | 0 |
+| Goleta, CA | Oxnard | 68,5 | 1 | 0 | 0 |
+| Ballenger Creek, MD | Baltimore | 69,2 | 1 | 0 | 0 |
+| McKee City, NJ | Filadelfia | 72,6 | 1 | 0 | 0 |
+| Bellingham, WA | Vancouver (Canadá) | 73,8 | 2 | 0 | 0 |
+| Loveland, CO | Denver | 74,6 | 1 | 0 | 1 |
+| Bayou Cane, LA | Nueva Orleans | 75,8 | 1 | 0 | 0 |
+| Dulles Town Center, VA | Baltimore | 75,9 | 1 | 0 | 0 |
+| Manchester, NH | Boston | 76,5 | 1 | 2 | 0 |
+| Tuscaloosa, AL | Birmingham | 76,7 | 1 | 0 | 1 |
+| Hot Springs, AR | Little Rock | 77,8 | 1 | 0 | 0 |
+| Waldorf, MD | Baltimore | 78,0 | 1 | 0 | 1 |
+| Santa Rosa, CA | San Francisco | 78,4 | 1 | 1 | 0 |
+| Kokomo, IN | Indianapolis | 79,1 | 1 | 0 | 0 |
+| Daytona Beach, FL | Orlando | 79,4 | 1 | 0 | 1 |
+| Lincoln, NE | Omaha | 80,1 | 2 | 1 | 2 |
+| Manahawkin, NJ | Filadelfia | 80,7 | 1 | 0 | 0 |
+| Fredericksburg, VA | Richmond | 81,0 | 1 | 1 | 0 |
+| Portsmouth, NH | Boston | 81,4 | 1 | 0 | 1 |
+| Sandusky, OH | Cleveland | 81,7 | 1 | 0 | 0 |
+| Beavercreek, OH | Cincinnati | 84,0 | 1 | 0 | 0 |
+| Fayetteville, NC | Raleigh | 84,2 | 1 | 2 | 1 |
+| Poland, OH | Pittsburgh | 84,9 | 1 | 0 | 0 |
+| Niles, OH | Cleveland | 85,0 | 1 | 0 | 0 |
+| Santa Fe, NM | Albuquerque | 85,7 | 1 | 0 | 1 |
+| Lafayette, LA | Baton Rouge | 86,2 | 1 | 0 | 2 |
+| Opelika, AL | Montgomery | 87,9 | 1 | 0 | 0 |
+| Scotchtown, NY | Nueva York | 88,2 | 1 | 0 | 0 |
+| Westover, WV | Pittsburgh | 88,7 | 1 | 0 | 0 |
+| [[us-co-fort-collins|Fort Collins, CO]] | Denver | 89,4 | 1 | 1 | 1 |
+| Flint, MI | Detroit | 90,5 | 1 | 0 | 1 |
+| Lafayette, IN | Indianapolis | 91,4 | 2 | 0 | 0 |
+| Palm Desert, CA | Riverside | 92,4 | 1 | 0 | 1 |
+| Bowling Green, KY | Nashville | 92,7 | 1 | 0 | 1 |
+| Potomac Mills, VA | Baltimore | 92,7 | 1 | 0 | 0 |
+| Burlington, WA | Seattle | 94,0 | 1 | 0 | 0 |
+| Janesville, WI | Milwaukee | 94,9 | 1 | 0 | 0 |
+| Oxford, AL | Birmingham | 94,9 | 1 | 0 | 0 |
+| Athens-Clarke County, GA | Atlanta | 95,1 | 1 | 1 | 0 |
+| Ontario, OH | Columbus | 97,2 | 1 | 0 | 0 |
+| Temple, TX | Austin | 97,3 | 2 | 0 | 0 |
+| St. Cloud, MN | Minneapolis | 97,8 | 1 | 0 | 0 |
+| Normal, IL | Springfield IL | 100,7 | 1 | 0 | 0 |
+| Sherman, TX | Dallas | 101,6 | 1 | 0 | 0 |
+| Ocala, FL | Orlando | 101,8 | 1 | 1 | 0 |
+| Concord, NH | Boston | 101,9 | 1 | 0 | 0 |
+| Gainesville, VA | Baltimore | 102,5 | 1 | 1 | 0 |
+| Topeka, KS | Kansas City | 102,6 | 1 | 0 | 0 |
+| Brighton, NY | Buffalo | 104,1 | 1 | 0 | 0 |
+| Watertown, NY | Syracuse | 104,4 | 1 | 0 | 0 |
+| Mankato, MN | Minneapolis | 104,7 | 1 | 0 | 0 |
+| Endwell, NY | Syracuse | 106,4 | 1 | 0 | 0 |
+| Arlington Heights, PA | Nueva York | 109,0 | 1 | 0 | 0 |
+| Port Charlotte, FL | Tampa | 109,1 | 1 | 0 | 0 |
+| California, MD | Baltimore | 110,7 | 1 | 0 | 0 |
+| Logan, UT | Salt Lake City | 110,8 | 1 | 0 | 0 |
+| Augusta-Richmond County, GA | Columbia SC | 111,1 | 1 | 0 | 0 |
+| Sun Prairie, WI | Milwaukee | 111,2 | 1 | 0 | 0 |
+| Grand Forks, ND | Fargo | 114,4 | 1 | 0 | 0 |
+| Terre Haute, IN | Indianapolis | 114,5 | 1 | 0 | 0 |
+| Big Flats, NY | Syracuse | 115,7 | 1 | 0 | 0 |
+| Florence, SC | Columbia SC | 116,7 | 1 | 1 | 0 |
+| Macon-Bibb County, GA | Atlanta | 117,0 | 1 | 1 | 0 |
+| Palm Beach Gardens, FL | Miami | 118,6 | 1 | 0 | 1 |
+| Rockford, IL | Chicago | 119,5 | 1 | 0 | 0 |
+| Mishawaka, IN | Chicago | 121,5 | 1 | 0 | 0 |
+| Lexington-Fayette, KY | Cincinnati | 122,1 | 2 | 0 | 0 |
+| South Burlington, VT | Montreal (Canadá) | 123,0 | 1 | 0 | 0 |
+| Champaign, IL | Springfield IL | 125,4 | 1 | 0 | 0 |
+| Sioux City, IA | Sioux Falls | 126,1 | 0 | 0 | 2 |
+| Prescott, AZ | Phoenix | 127,1 | 1 | 0 | 0 |
+| Chico, CA | Sacramento | 129,6 | 1 | 0 | 0 |
+| Salisbury, MD | Baltimore | 132,9 | 1 | 0 | 0 |
+| Erie, PA | Hamilton (Canadá) | 134,7 | 1 | 0 | 0 |
+| West Vero Corridor, FL | Orlando | 135,4 | 1 | 0 | 0 |
+| Roanoke, VA | Winston-Salem | 136,9 | 1 | 0 | 0 |
+| Santa Maria, CA | Bakersfield | 137,1 | 1 | 0 | 0 |
+| Chattanooga, TN | Kennesaw | 137,2 | 1 | 0 | 2 |
+| Clarksville, IN | Cincinnati | 138,3 | 1 | 0 | 0 |
+| Wilkes-Barre, PA | Lancaster | 138,9 | 1 | 0 | 0 |
+| Johnson City, TN | Knoxville | 143,5 | 1 | 0 | 0 |
+| Waterloo, IA | Des Moines | 143,9 | 1 | 0 | 0 |
+| Eau Claire, WI | Minneapolis | 146,2 | 1 | 0 | 0 |
+| Dothan, AL | Montgomery | 147,9 | 2 | 0 | 0 |
+| Tyler, TX | Dallas | 148,1 | 1 | 0 | 2 |
+| Zilwaukee, MI | Detroit | 148,6 | 1 | 0 | 0 |
+| Beechwood, MI | Milwaukee | 149,7 | 1 | 0 | 0 |
+| San Luis Obispo, CA | Bakersfield | 151,6 | 1 | 0 | 0 |
+| South Portland, ME | Boston | 152,7 | 1 | 0 | 0 |
+| Tupelo, MS | Memphis | 154,4 | 1 | 0 | 0 |
+| Cape Girardeau, MO | St. Louis | 157,5 | 1 | 0 | 0 |
+| Lebanon, NH | Worcester | 157,6 | 1 | 0 | 0 |
+| Victoria, TX | San Antonio | 158,0 | 1 | 0 | 0 |
+| Harrisonburg, VA | Richmond | 158,7 | 1 | 0 | 0 |
+| Indian Hills, NV | Sacramento | 159,8 | 1 | 0 | 0 |
+| Dickson City, PA | Nueva York | 160,5 | 1 | 0 | 0 |
+| Naples, FL | Miami | 164,1 | 1 | 1 | 0 |
+| Florence, AL | Birmingham | 165,0 | 1 | 0 | 0 |
+| Yakima, WA | Tacoma | 166,9 | 1 | 0 | 0 |
+| Coralville, IA | Des Moines | 168,1 | 1 | 0 | 0 |
+| Valdosta, GA | Jacksonville | 168,8 | 1 | 0 | 0 |
+| Joplin, MO | Tulsa | 169,9 | 1 | 0 | 1 |
+| Baxter, MN | Minneapolis | 171,2 | 2 | 0 | 0 |
+| Fort Wayne, IN | Indianapolis | 171,3 | 2 | 2 | 1 |
+| Bristol, TN | Knoxville | 171,8 | 1 | 0 | 1 |
+| Fort Smith, AR | Tulsa | 172,1 | 2 | 0 | 0 |
+| Battle Creek, MI | Detroit | 175,5 | 1 | 0 | 0 |
+| Grandville, MI | Milwaukee | 176,1 | 1 | 0 | 1 |
+| St. George, UT | Las Vegas | 177,1 | 1 | 1 | 0 |
+| Owensboro, KY | Nashville | 177,3 | 1 | 1 | 0 |
+| Reno, NV | Sacramento | 179,0 | 1 | 2 | 1 |
+| Twin Falls, ID | Boise | 180,4 | 1 | 0 | 0 |
+| Lufkin, TX | Houston | 183,4 | 1 | 0 | 0 |
+| Traverse City, MI | Green Bay | 189,3 | 1 | 0 | 0 |
+| Kentwood, MI | Milwaukee | 191,0 | 2 | 0 | 0 |
+| Elizabethtown, KY | Nashville | 191,6 | 1 | 0 | 0 |
+| Bend, OR | Portland | 192,7 | 1 | 0 | 1 |
+| Paducah, KY | Nashville | 193,0 | 1 | 1 | 0 |
+| Bluffton, SC | Columbia SC | 194,8 | 1 | 0 | 0 |
+| Longview, TX | Dallas | 194,8 | 1 | 0 | 0 |
+| Meridian, MS | Pensacola | 195,4 | 1 | 0 | 0 |
+| Lake Charles, LA | Baton Rouge | 196,3 | 0 | 1 | 1 |
+| Flagstaff, AZ | Phoenix | 199,4 | 1 | 0 | 2 |
+| Myrtle Beach, SC | Columbia SC | 200,1 | 1 | 0 | 0 |
+| Onalaska, WI | Minneapolis | 205,1 | 1 | 0 | 0 |
+| Grand Island, NE | Omaha | 208,4 | 1 | 0 | 0 |
+| Corpus Christi, TX | San Antonio | 208,9 | 1 | 1 | 1 |
+| Davenport, IA | Springfield IL | 211,7 | 1 | 0 | 0 |
+| Charleston, WV | Columbus | 212,9 | 1 | 0 | 0 |
+| Evansville, IN | Nashville | 213,4 | 1 | 1 | 0 |
+| McAllen, TX | Monterrey (México) | 216,2 | 3 | 0 | 0 |
+| Texarkana, AR | Little Rock | 219,3 | 1 | 0 | 0 |
+| Duluth, MN | Minneapolis | 220,9 | 1 | 0 | 0 |
+| Yuma, AZ | Tijuana (México) | 225,0 | 1 | 0 | 1 |
+| Abilene, TX | Fort Worth | 227,6 | 1 | 1 | 0 |
+| Panama City, FL | Pensacola | 234,6 | 1 | 0 | 0 |
+| Redding, CA | Sacramento | 234,6 | 1 | 0 | 0 |
+| Augusta, ME | Boston | 241,4 | 2 | 0 | 0 |
+| Tallahassee, FL | Jacksonville | 250,8 | 1 | 1 | 2 |
+| Kennewick, WA | Tacoma | 274,0 | 1 | 1 | 1 |
+| Bossier City, LA | Little Rock | 276,8 | 1 | 0 | 0 |
+| Casper, WY | Rapid City | 280,1 | 1 | 0 | 0 |
+| Shreveport, LA | Dallas | 284,6 | 1 | 2 | 1 |
+| Bangor, ME | Ciudad de Quebec (Canadá) | 291,1 | 1 | 0 | 0 |
+| San Angelo, TX | Austin | 293,5 | 1 | 0 | 0 |
+| Bismarck, ND | Fargo | 303,5 | 1 | 0 | 2 |
+| Kalispell, MT | Calgary (Canadá) | 312,7 | 1 | 0 | 0 |
+| Grand Junction, CO | Denver | 317,7 | 1 | 0 | 0 |
+| Medford, OR | Portland | 350,2 | 1 | 0 | 1 |
+| Odessa, TX | El Paso | 392,4 | 1 | 0 | 0 |
+| Amarillo, TX | Oklahoma City | 397,9 | 1 | 3 | 1 |
+| Missoula, MT | Boise | 400,7 | 1 | 0 | 1 |
+| Lubbock, TX | Fort Worth | 436,3 | 1 | 0 | 0 |
+| Billings, MT | Rapid City | 459,9 | 1 | 0 | 2 |
+| Bozeman, MT | Boise | 468,6 | 1 | 0 | 0 |
 
 ## Red de anclas de co-ubicación
 

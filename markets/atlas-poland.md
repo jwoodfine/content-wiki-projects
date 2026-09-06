@@ -14,42 +14,110 @@ language_protocol: PROSE-TOPIC
 keynote: false
 last_edited: 2026-09-06
 editor: editorial
-short_description: "Index of the 16 Polish entries in the Top 400 Regional Markets — Europe set, filtered from the continental table with metro-reference groupings."
+short_description: "Index of Poland's 55 Regional Markets meeting the co-location composition gates under the 2026-08-07 dataset."
 paired_with: markets/atlas-poland.es.md
 ---
 
-**Pending rebuild (2026-09-06).** The market table and counts on this page still reflect the pre-rebuild selection. Under the confirmed 2026-08-07 dataset, now live on [[atlas-top-400-europe|Top 400 Regional Markets — Europe]], Poland publishes 55 Regional Markets. Rebuilding this country table is a separate, scoped task — the discrepancy is flagged here, not resolved.
+**Rebuilt (2026-09-06).** This page was rebuilt against the confirmed 2026-08-07 dataset, the
+same build now live on [[atlas-top-400-europe|Top 400 Regional Markets — Europe]]. The prior
+version listed 16 Polish entries from a superseded selection; the confirmed count is 55. Every
+market, reference point, distance, and cluster count below comes from that dataset.
 
-The **Poland regional market index** lists the 16 Polish entries in the [[atlas-top-400-europe|Top 400 Regional Markets — Europe]] set. Each entry is a named suburb or satellite municipality between 15 and 80 kilometres of a major Polish metropolitan reference point that contains at least one retail co-location cluster, qualified under the [[about-regional-markets-system|co-location regional market framework]]. This page is a filtered, Poland-specific view of that continental table — not a separate dataset — so every entry and tier count below matches the continental table exactly and updates automatically if that table is corrected. No rank or score is published for any market.
+The **Poland regional market index** lists the 55 markets in Poland that meet the co-location
+system's composition gates under the current 2026-08-07 dataset, drawn from a qualifying pool
+of 75. This page is a filtered, country-specific view of the continental table — not a separate
+dataset. No rank or score is published for any market.
 
-## Metropolitan groupings
+## Coverage
 
-Poland's 16 markets cluster most heavily around Katowice (4 markets), reflecting the density of the Upper Silesian Industrial Region's suburban belt — the same regional cluster that anchors [[pl-bielsko-biala|Bielsko-Biała]]. Kraków (3) and Gdańsk (2) form a second tier. The remaining markets are single entries reporting to Kielce, Bydgoszcz, Łódź, Gliwice, Warsaw, Wrocław, and Łomża.
+No rank or score is published for any market in this table. Every market below qualifies under
+the framework's Regional Market composition gate — a hypermarket anchor paired with at least
+two of {hardware, price club, lifestyle, electronics, sport} across the market's co-location
+clusters. Full methodology:
+[[about-regional-markets-system|Regional Markets Intelligence System]].
 
-## Tier composition
+The metropolitan reference point recorded for each market is the nearest major metropolitan
+centre in the framework's continental reference set — a straight-line (crow-flies) distance
+measurement, not a drive-time or commuting estimate. It is not a claim that the market
+functions as a commuter suburb of that centre. Poland's 55 markets reference 19 distinct
+centres. Kielce carries six entries, Lublin and Wrocław five each, and Bydgoszcz, Gdańsk, and
+Szczecin four each. Four reference points sit outside Poland: two to Dresden, Germany, one to
+Bornholm, Denmark — Koszalin, referenced 128 kilometres across the Baltic — and one to Košice,
+Slovakia. Poland's median reference distance is 70 kilometres, with 35 of its 55 markets within
+80 kilometres of their reference point and one beyond 150.
 
-Bielsko-Biała (suburb of Katowice) is Poland's only entry with two Tier 1 clusters and a civic anchor. Radom (suburb of Kielce) is a rare T1+T2+T3 combination with a civic anchor. Toruń and Częstochowa each combine a Tier 1 and a Tier 2 cluster. Ten of Poland's remaining entries qualify on a single Tier 1 cluster with no civic anchor, and Gdynia and Nowy Sącz qualify on a Tier 2+Tier 3 combination.
+Catchment population and consumer-spend figures are recorded for all 55 Polish markets, with no
+gaps. They are descriptive context only and take no part in selection.
+
+## Cluster composition
+
+The 55 markets carry 68 co-location clusters between them — 60 Tier 1, three Tier 2, and five
+Tier 3. Fifty-three of the 55 carry at least one Tier 1 cluster, and one qualifies on Tier 3
+clusters alone. Poland has the highest Tier 1 cluster count of any European country in the set.
 
 ## Markets
 
-| Market | Suburb of | km | T1 | T2 | T3 | Civic |
-|---|---|---|---|---|---|---|
-| [[pl-bielsko-biala|Bielsko-Biała]] | Katowice | 48 | 2 | 0 | 0 | Yes |
-| Radom | Kielce | 69 | 1 | 1 | 1 | Yes |
-| Toruń | Bydgoszcz | 45 | 1 | 1 | 0 | Yes |
-| Częstochowa | Katowice | — | 1 | 1 | 0 | — |
-| Tarnów | Kraków | — | 1 | 0 | 0 | — |
-| Piotrków Trybunalski | Łódź | — | 1 | 0 | 0 | — |
-| Żory | Gliwice | — | 1 | 0 | 0 | — |
-| Piaseczno | Warsaw | — | 1 | 0 | 0 | — |
-| Tychy | Katowice | — | 1 | 0 | 0 | — |
-| Lubin | Wrocław | — | 1 | 0 | 0 | — |
-| Ostrołęka | Łomża | — | 1 | 0 | 0 | — |
-| Nowy Targ | Kraków | — | 1 | 0 | 0 | — |
-| Gdynia | Gdańsk | — | 0 | 1 | 1 | — |
-| Nowy Sącz | Kraków | — | 0 | 1 | 1 | — |
-| Poczesna | Katowice | — | 1 | 0 | 0 | — |
-| Rumia | Gdańsk | — | 1 | 0 | 0 | — |
+This table is a country-specific view of the continental
+[[atlas-top-400-europe|Top 400 Regional Markets — Europe]] set. No rank or score is published for
+any market.
+
+| Market | Metropolitan reference | km | T1 | T2 | T3 |
+|---|---|---|---|---|---|
+| Pabianice | Łódź | 12.8 | 1 | 0 | 0 |
+| Raszyn | Warsaw | 13.4 | 1 | 0 | 0 |
+| Mikołów | Katowice | 13.7 | 1 | 0 | 0 |
+| Piaseczno | Warsaw | 15.4 | 1 | 0 | 0 |
+| Tarnowskie Góry | Gliwice | 20.8 | 1 | 0 | 0 |
+| Rybnik | Gliwice | 23.5 | 1 | 0 | 0 |
+| Żory | Gliwice | 29.4 | 1 | 0 | 0 |
+| Rumia | Gdańsk | 30.3 | 1 | 0 | 0 |
+| Skarżysko-Kamienna | Kielce | 31.8 | 1 | 0 | 0 |
+| Stargard | Szczecin | 32.7 | 1 | 0 | 0 |
+| Ostrołęka | Łomża | 39.5 | 1 | 0 | 0 |
+| Inowrocław | Bydgoszcz | 39.8 | 1 | 0 | 0 |
+| Toruń | Bydgoszcz | 42.5 | 2 | 0 | 1 |
+| Starogard Gdański | Gdańsk | 44.1 | 1 | 0 | 0 |
+| Puławy | Lublin | 45.9 | 1 | 0 | 0 |
+| Nysa | Opole | 47.1 | 1 | 0 | 0 |
+| [[pl-bielsko-biala|Bielsko-Biała]] | Katowice | 47.5 | 2 | 0 | 0 |
+| Gniezno | Poznań | 48.8 | 0 | 0 | 1 |
+| Elbląg | Gdańsk | 53.5 | 1 | 0 | 0 |
+| Ostrowiec Świętokrzyski | Kielce | 53.8 | 1 | 0 | 0 |
+| Sieradz | Łódź | 53.9 | 1 | 0 | 0 |
+| Świnoujście | Szczecin | 57.8 | 1 | 0 | 0 |
+| Wałbrzych | Wrocław | 62.2 | 1 | 0 | 0 |
+| Chełm, lubelskie | Lublin | 63.9 | 1 | 0 | 0 |
+| Nowy Targ | Kraków | 67.1 | 1 | 0 | 0 |
+| Ełk | Łomża | 68.1 | 1 | 0 | 0 |
+| Radom | Kielce | 68.7 | 2 | 1 | 0 |
+| Chojnice | Bydgoszcz | 70.5 | 1 | 0 | 0 |
+| Mława | Olsztyn | 74.0 | 1 | 0 | 0 |
+| Nowy Sącz | Kraków | 74.0 | 2 | 0 | 0 |
+| Tarnów | Kraków | 75.9 | 1 | 0 | 0 |
+| Zamość | Lublin | 76.7 | 1 | 0 | 0 |
+| Ciechanów | Warsaw | 76.9 | 1 | 0 | 0 |
+| Kłodzko | Wrocław | 78.9 | 1 | 0 | 0 |
+| Augustów | Białystok | 79.6 | 1 | 0 | 0 |
+| Ostrów Wielkopolski | Wrocław | 81.7 | 1 | 0 | 0 |
+| Tarnobrzeg | Kielce | 82.2 | 1 | 0 | 0 |
+| Piła | Poznań | 83.8 | 1 | 0 | 0 |
+| Mielec | Kielce | 86.6 | 1 | 0 | 0 |
+| Włocławek | Bydgoszcz | 87.5 | 1 | 0 | 0 |
+| Gorzów Wielkopolski | Szczecin | 88.3 | 2 | 0 | 0 |
+| Płock | Łódź | 89.4 | 2 | 0 | 0 |
+| Głogów | Wrocław | 89.8 | 1 | 0 | 0 |
+| Zgorzelec | Dresden (Germany) | 90.8 | 1 | 0 | 0 |
+| Jelenia Góra | Wrocław | 92.7 | 1 | 0 | 0 |
+| Biała Podlaska | Lublin | 96.4 | 0 | 1 | 1 |
+| Słupsk | Gdańsk | 106.7 | 2 | 0 | 0 |
+| Kołobrzeg, Zachodniopomorskie | Szczecin | 107.0 | 1 | 0 | 0 |
+| Zielona Góra | Poznań | 109.8 | 1 | 1 | 0 |
+| Suwałki | Białystok | 111.2 | 1 | 0 | 0 |
+| Krosno | Košice (Slovakia) | 116.3 | 1 | 0 | 1 |
+| Żary | Dresden (Germany) | 116.6 | 1 | 0 | 0 |
+| Koszalin | Bornholm (Denmark) | 128.3 | 1 | 0 | 0 |
+| Rzeszów | Kielce | 134.3 | 1 | 0 | 1 |
+| Przemyśl | Lublin | 162.8 | 1 | 0 | 0 |
 
 ## Co-location anchor network
 

@@ -14,155 +14,120 @@ language_protocol: TRANSLATE-ES
 keynote: false
 last_edited: 2026-09-06
 editor: woodfine-editorial
-short_description: "Índice de mercados inmobiliarios comerciales regionales del Reino Unido fuera de Londres y el Sudeste."
+short_description: "Índice de los 55 Mercados Regionales del Reino Unido que cumplen las puertas de composición de co-ubicación bajo el conjunto de datos del 07-08-2026."
 paired_with: markets/atlas-united-kingdom.md
 ---
 
-**Reconstrucción pendiente (2026-09-06).** La tabla de mercados y los recuentos de esta página aún reflejan la selección anterior a la reconstrucción. Bajo el conjunto de datos confirmado 2026-08-07, ya publicado en [[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]], el Reino Unido publica 55 Mercados Regionales. Reconstruir esta tabla por país es una tarea aparte y delimitada — la discrepancia queda señalada aquí, no resuelta.
+**Reconstruida (06-09-2026).** Esta página se reconstruyó frente al conjunto de datos confirmado
+del 07-08-2026, la misma generación ahora vigente en
+[[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]]. La versión anterior listaba un
+conjunto menor de entradas británicas de una selección superada; el recuento confirmado es de
+55. Cada mercado, punto de referencia, distancia y recuento de clústeres a continuación procede
+de ese conjunto de datos.
 
-El **índice de mercados regionales del Reino Unido** enumera las ciudades y poblaciones del
-Reino Unido fuera de Londres y el Sudeste en sentido amplio que cumplen los umbrales de
-población, ingresos e infraestructura comercial establecidos por el [[about-regional-markets-system|marco
-de mercados regionales de co-ubicación]]. El Reino Unido ofrece un conjunto geográficamente
-concentrado pero económicamente diverso de mercados regionales calificados: ciudades de tamaño
-mediano en Inglaterra, Escocia y Gales con bases económicas independientes, infraestructura de
-parques de comercio y demanda profesional anclada por el Servicio Nacional de Salud, las
-instituciones de educación superior y el empleo del sector privado regional.
+El **índice de mercados regionales de el Reino Unido** enumera los 55 mercados de el Reino
+Unido que cumplen las puertas de composición del sistema de co-ubicación bajo el conjunto de
+datos vigente del 07-08-2026, extraídos de una reserva calificada de 161. Esa reserva es la más
+profunda de cualquier país europeo del conjunto: el Reino Unido publica apenas un tercio de los
+mercados que superan una puerta de composición. Esta página es una vista filtrada, específica
+del país, de la tabla continental — no un conjunto de datos aparte. No se publica ninguna
+clasificación ni puntuación para ningún mercado.
 
-## Contexto nacional
+## Cobertura
 
-El mercado inmobiliario comercial regional del Reino Unido ha experimentado cambios
-estructurales significativos desde 2010. La vacancia minorista en las calles comerciales
-tradicionales y la contracción de la oferta de oficinas en los centros de ciudades secundarias
-han creado condiciones en las que la co-ubicación en centros profesionales de nueva planta
-fuera de los núcleos comerciales tradicionales es cada vez más viable.
+No se publica ninguna clasificación ni puntuación para ningún mercado de esta tabla. Todos los
+mercados listados a continuación cumplen la puerta de composición de Mercado Regional del marco
+— un ancla de hipermercado combinada con al menos dos de {ferretería, club de precio, estilo de
+vida, electrónica, deporte} entre los clústeres de co-ubicación del mercado. Metodología
+completa: [[about-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]].
 
-El Servicio Nacional de Salud funciona como un ancla significativa para la demanda profesional
-en los mercados regionales del Reino Unido. El formato de retail park en el Reino Unido — gran
-formato minorista en las afueras de la ciudad que combina alimentación, bricolaje y mercancías
-generales — es el principal análogo del [[power-centres|power centre]].
+El punto de referencia metropolitano registrado para cada mercado es el núcleo metropolitano
+principal más cercano dentro del conjunto de referencia continental del marco — una medición en
+línea recta (a vuelo de pájaro), no una estimación de tiempo de conducción o de desplazamiento
+diario. Tampoco es una afirmación de que el mercado funcione como suburbio de desplazamiento
+diario de ese núcleo. Los 55 mercados del Reino Unido hacen referencia a 23 núcleos distintos,
+la mayor dispersión de puntos de referencia de cualquier país europeo del conjunto. Londres y
+Leeds concentran cinco entradas cada uno, y Birmingham, Swansea y Wigan cuatro cada uno. Ningún
+mercado británico hace referencia a un núcleo fuera del Reino Unido. La distancia mediana de
+referencia es de 37 kilómetros — la más corta de cualquier país de los dos conjuntos
+continentales —, con 45 de los 55 mercados a menos de 80 kilómetros de su punto de referencia y
+ninguno más allá de 150. La mayor es Plymouth, con 137 kilómetros, referenciada a través del
+canal de Bristol hacia Swansea.
 
-## Cobertura por región
+Las cifras de población de la cuenca de influencia y de gasto de consumo constan para los 55
+mercados británicos, sin lagunas. Son contexto descriptivo únicamente y no intervienen en la
+selección.
 
-**Norte de Inglaterra** — mercados en Yorkshire (áreas secundarias de Leeds, alrededores de
-Sheffield, [[gb-eng-york|York]]), el Noroeste más allá del Gran Manchester ([[gb-eng-warrington|Warrington]], Preston, Lancaster),
-el Noreste (áreas secundarias de Newcastle, Sunderland, Durham) y Cumbria.
+## Composición de clústeres
 
-**Midlands** — mercados en las Midlands Occidentales más allá del núcleo primario de
-Birmingham (Coventry, Wolverhampton, Walsall) y las Midlands Orientales (alrededores de
-Leicester, Derby, áreas secundarias de Nottingham, Lincoln, [[gb-eng-northampton|Northampton]]).
-
-**Este de Inglaterra** — mercados secundarios de Cambridge, Norwich, Ipswich, Chelmsford,
-Colchester, Peterborough.
-
-**Gales** — áreas secundarias de Cardiff, Swansea, Newport y los mercados del corredor de
-la A55 en el Norte de Gales.
-
-**Escocia** — áreas secundarias de Edimburgo, mercados secundarios de Glasgow, Aberdeen,
-[[gb-sct-inverness|Inverness]], Perth y Dundee.
-
-**Corrección (2026-07-16):** la mayoría de los mercados de muestra mencionados
-anteriormente sí se verifican contra los datos reales del TOP400 a continuación —
-Northampton, Warrington y York aparecen todos, y Chester aparece bajo su nombre completo
-de autoridad local, Cheshire West and Chester. **Inverness es la única excepción**: no
-aparece entre las 81 entradas verificadas del TOP400 del Reino Unido, pese a mencionarse
-arriba como mercado primario de Escocia. Como en las demás páginas de país, esto no
-significa que Inverness no sea un mercado real — significa que actualmente no está
-incluido en el filtro TOP400 de co-ubicación específicamente.
+Los 55 mercados suman 91 clústeres de co-ubicación — 58 de Nivel 1, nueve de Nivel 2 y 24 de
+Nivel 3. Cincuenta de los 55 cuentan con al menos un clúster de Nivel 1, y uno califica
+únicamente con clústeres de Nivel 3. Los nueve clústeres de Nivel 2 son el mayor número de
+cualquier país europeo del conjunto.
 
 ## Mercados
 
-Esta tabla es una vista filtrada y específica del Reino Unido de la tabla continental
-[[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]] — no un conjunto de datos
-independiente —, de modo que cada entrada y conteo de nivel coincide
-exactamente con la tabla continental y se actualiza automáticamente si esa tabla se
-corrige. No se publica posición ni puntuación para ningún mercado. Las entradas del
-Reino Unido se registran al nivel de autoridad local (p. ej. "Cheshire West and Chester,"
-"East Riding of Yorkshire") en lugar de por nombre de población.
+Esta tabla es una vista específica del país sobre el conjunto continental
+[[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]]. No se publica ninguna
+clasificación ni puntuación para ningún mercado.
 
-| Mercado | Suburbio de | km | N1 | N2 | N3 | Cívica |
-|---|---|---|---|---|---|---|
-| Fife | Edimburgo | 19 | 0 | 3 | 1 | Sí |
-| Milton Keynes | Luton | 27 | 1 | 0 | 2 | Sí |
-| Hertsmere | Londres | 22 | 1 | 1 | 0 | Sí |
-| Wiltshire | Bath | — | 0 | 2 | 2 | — |
-| Cheshire East | Manchester | — | 0 | 3 | 0 | — |
-| Hillingdon | Londres | — | 1 | 0 | 1 | — |
-| Derby | Nottingham | — | 1 | 0 | 1 | — |
-| [[gb-eng-chester|Cheshire West and Chester]] | Wigan | — | 1 | 0 | 1 | — |
-| Durham | Newcastle | — | 0 | 2 | 1 | — |
-| East Riding of Yorkshire | Leeds | — | 0 | 2 | 1 | — |
-| Thurrock | Londres | — | 1 | 0 | 0 | — |
-| Gloucester | Bristol | — | 1 | 0 | 0 | — |
-| Rushmoor | Reading | — | 1 | 0 | 0 | — |
-| Stevenage | Luton | — | 0 | 1 | 2 | — |
-| [[gb-eng-york|York]] | Leeds | — | 0 | 1 | 2 | — |
-| Redbridge | Londres | — | 0 | 2 | 0 | — |
-| Wakefield | Leeds | — | 0 | 2 | 0 | — |
-| Ipswich | Cambridge | — | 0 | 2 | 0 | — |
-| East Hertfordshire | Luton | — | 0 | 2 | 0 | — |
-| North Lincolnshire | Sheffield | — | 0 | 2 | 0 | — |
-| Herefordshire | Birmingham | — | 0 | 2 | 0 | — |
-| Carmarthenshire | Swansea | — | 0 | 2 | 0 | — |
-| Peterborough | Cambridge | — | 0 | 2 | 0 | — |
-| High Peak | Manchester | — | 0 | 2 | 0 | — |
-| Huntingdonshire | Cambridge | — | 0 | 2 | 0 | — |
-| Darlington | Newcastle | — | 0 | 2 | 0 | — |
-| East Staffordshire | Birmingham | — | 0 | 2 | 0 | — |
-| Mid Sussex | Brighton | — | 0 | 2 | 0 | — |
-| Mendip | Bath | — | 0 | 2 | 0 | — |
-| Liverpool | Wigan | — | 0 | 0 | 3 | — |
-| Havering | Londres | — | 0 | 1 | 1 | — |
-| Enfield | Londres | — | 0 | 1 | 1 | — |
-| Sefton | Wigan | — | 0 | 1 | 1 | — |
-| Havant | Southampton | — | 0 | 1 | 1 | — |
-| Stroud | Bristol | — | 0 | 1 | 1 | — |
-| [[gb-eng-warrington|Warrington]] | Wigan | — | 0 | 1 | 1 | — |
-| Newport | Cardiff | — | 0 | 1 | 1 | — |
-| Saint Edmundsbury | Cambridge | — | 0 | 1 | 1 | — |
-| Colchester | Cambridge | — | 0 | 1 | 1 | — |
-| Warwick | Birmingham | — | 0 | 1 | 1 | — |
-| Lincoln | Nottingham | — | 0 | 1 | 1 | — |
-| Cheltenham | Bristol | — | 0 | 1 | 1 | — |
-| Stoke-on-Trent | Manchester | — | 0 | 1 | 1 | — |
-| Stafford | Birmingham | — | 0 | 1 | 1 | — |
-| Chelmsford | Londres | — | 0 | 1 | 1 | — |
-| Mole Valley | Londres | — | 0 | 1 | 1 | — |
-| Swindon | Oxford | — | 0 | 1 | 1 | — |
-| Barnsley | Sheffield | — | 0 | 1 | 1 | — |
-| Taunton Deane | Cardiff | — | 0 | 1 | 1 | — |
-| Perthshire and Kinross | Dundee | — | 0 | 1 | 1 | — |
-| South Somerset | Bath | — | 0 | 1 | 1 | — |
-| Doncaster | Sheffield | — | 0 | 1 | 1 | — |
-| Basingstoke and Deane | Reading | — | 0 | 1 | 1 | — |
-| Spelthorne | Londres | — | 0 | 0 | 2 | — |
-| Bexley | Londres | — | 0 | 0 | 2 | — |
-| Wirral | Wigan | — | 0 | 0 | 2 | — |
-| [[gb-eng-cherwell|Cherwell]] | Oxford | — | 0 | 0 | 2 | — |
-| Kingston upon Hull | Leeds | — | 0 | 0 | 2 | — |
-| Medway | Londres | — | 0 | 0 | 2 | — |
-| Arun | Brighton | — | 0 | 0 | 2 | — |
-| [[gb-eng-northampton|Northampton]] | Coventry | — | 0 | 0 | 2 | — |
-| Eastbourne | Brighton | — | 0 | 0 | 2 | — |
-| Bedford | Luton | — | 0 | 0 | 2 | — |
-| Dartford | Londres | — | 0 | 1 | 0 | — |
-| Pembrokeshire | Swansea | — | 0 | 1 | 0 | — |
-| Wycombe | Reading | — | 0 | 1 | 0 | — |
-| West Oxfordshire | Oxford | — | 0 | 1 | 0 | — |
-| West Berkshire | Reading | — | 0 | 1 | 0 | — |
-| Walsall | Birmingham | — | 0 | 1 | 0 | — |
-| Mansfield | Nottingham | — | 0 | 1 | 0 | — |
-| Ashfield | Nottingham | — | 0 | 1 | 0 | — |
-| Tunbridge Wells | Brighton | — | 0 | 1 | 0 | — |
-| Forest Heath | Cambridge | — | 0 | 1 | 0 | — |
-| Epping Forest | Londres | — | 0 | 1 | 0 | — |
-| Braintree | Cambridge | — | 0 | 1 | 0 | — |
-| Stratford-on-Avon | Birmingham | — | 0 | 1 | 0 | — |
-| West Lindsey | Sheffield | — | 0 | 1 | 0 | — |
-| Cotswold | Bath | — | 0 | 1 | 0 | — |
-| Sevenoaks | Londres | — | 0 | 1 | 0 | — |
-| East Ayrshire | Glasgow | — | 0 | 1 | 0 | — |
-| Cannock Chase | Birmingham | — | 0 | 1 | 0 | — |
+| Mercado | Referencia metropolitana | km | N1 | N2 | N3 |
+|---|---|---|---|---|---|
+| Merton | Londres | 12,5 | 2 | 0 | 0 |
+| Walsall | Birmingham | 12,6 | 1 | 0 | 0 |
+| Greenwich | Londres | 12,7 | 1 | 1 | 0 |
+| Lisburn | Belfast | 13,6 | 1 | 0 | 0 |
+| Wakefield | Leeds | 14,9 | 2 | 0 | 0 |
+| Sutton | Londres | 15,4 | 1 | 0 | 1 |
+| Stevenage | Luton | 15,6 | 1 | 0 | 0 |
+| [[gb-eng-warrington|Warrington]] | Wigan | 16,0 | 1 | 0 | 1 |
+| Hillingdon | Londres | 18,9 | 2 | 0 | 1 |
+| Tamworth | Birmingham | 20,2 | 1 | 0 | 0 |
+| Derby | Nottingham | 22,0 | 1 | 0 | 3 |
+| West Lothian | Edimburgo | 22,1 | 1 | 0 | 0 |
+| Harrogate | Leeds | 22,2 | 0 | 1 | 1 |
+| Rushmoor | Reading | 23,3 | 1 | 0 | 0 |
+| Watford | Luton | 24,3 | 1 | 0 | 0 |
+| Carmarthenshire | Swansea | 25,2 | 2 | 0 | 0 |
+| [[gb-eng-cherwell|Cherwell]] | Oxford | 25,4 | 1 | 1 | 0 |
+| High Peak | Manchester | 25,4 | 0 | 2 | 0 |
+| Liverpool | Wigan | 25,4 | 2 | 0 | 3 |
+| Milton Keynes | Luton | 26,7 | 2 | 0 | 1 |
+| Thurrock | Londres | 29,1 | 1 | 0 | 0 |
+| Perthshire and Kinross | Dundee | 30,6 | 1 | 0 | 0 |
+| Inverclyde | Glasgow | 30,9 | 0 | 1 | 1 |
+| Crawley | Brighton | 33,6 | 1 | 0 | 0 |
+| Lancaster | Preston | 33,7 | 1 | 0 | 0 |
+| [[gb-eng-chester|Cheshire West and Chester]] | Wigan | 35,8 | 2 | 0 | 0 |
+| Guildford | Reading | 36,4 | 1 | 0 | 0 |
+| [[gb-eng-york|York]] | Leeds | 37,4 | 1 | 0 | 1 |
+| Swindon | Oxford | 41,4 | 1 | 0 | 1 |
+| Weymouth and Portland | Bournemouth | 42,3 | 1 | 0 | 0 |
+| Scottish Borders | Edimburgo | 44,3 | 1 | 0 | 0 |
+| Telford and Wrekin | Birmingham | 45,2 | 1 | 0 | 0 |
+| Peterborough | Cambridge | 49,5 | 1 | 0 | 1 |
+| Lincoln | Nottingham | 50,8 | 1 | 0 | 1 |
+| Gloucester | Bristol | 51,6 | 1 | 0 | 0 |
+| Newry and Mourne | Belfast | 53,1 | 1 | 0 | 0 |
+| North Lincolnshire | Sheffield | 58,8 | 0 | 1 | 2 |
+| Cheltenham | Oxford | 59,7 | 1 | 1 | 1 |
+| Wrexham | Wigan | 60,2 | 1 | 0 | 0 |
+| North Devon | Swansea | 61,4 | 1 | 0 | 0 |
+| Herefordshire | Birmingham | 69,1 | 1 | 1 | 0 |
+| Pembrokeshire | Swansea | 73,7 | 1 | 0 | 0 |
+| Boston | Nottingham | 74,6 | 1 | 0 | 0 |
+| Coleraine | Belfast | 75,1 | 1 | 0 | 0 |
+| Kingston upon Hull | Leeds | 78,7 | 2 | 0 | 0 |
+| Carlisle | Newcastle | 84,6 | 0 | 0 | 2 |
+| Exeter | Cardiff | 87,4 | 1 | 0 | 1 |
+| Scarborough | Leeds | 90,4 | 1 | 0 | 0 |
+| Moray | Aberdeen | 91,4 | 1 | 0 | 0 |
+| Norwich | Cambridge | 92,4 | 1 | 0 | 1 |
+| Dumfries and Galloway | Glasgow | 96,6 | 1 | 0 | 0 |
+| Allerdale | Preston | 112,4 | 1 | 0 | 0 |
+| Waveney | Cambridge | 113,3 | 1 | 0 | 0 |
+| Highland | Aberdeen | 132,0 | 1 | 0 | 0 |
+| Plymouth | Swansea | 136,5 | 1 | 0 | 1 |
 
 ## Véase también
 

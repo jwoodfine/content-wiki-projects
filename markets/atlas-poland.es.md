@@ -14,42 +14,117 @@ language_protocol: TRANSLATE-ES
 keynote: false
 last_edited: 2026-09-06
 editor: editorial
-short_description: "Índice de las 16 entradas polacas en el conjunto Top 400 Mercados Regionales — Europa, filtrado de la tabla continental con agrupaciones por referencia metropolitana."
+short_description: "Índice de los 55 Mercados Regionales de Polonia que cumplen las puertas de composición de co-ubicación bajo el conjunto de datos del 07-08-2026."
 paired_with: markets/atlas-poland.md
 ---
 
-**Reconstrucción pendiente (2026-09-06).** La tabla de mercados y los recuentos de esta página aún reflejan la selección anterior a la reconstrucción. Bajo el conjunto de datos confirmado 2026-08-07, ya publicado en [[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]], Polonia publica 55 Mercados Regionales. Reconstruir esta tabla por país es una tarea aparte y delimitada — la discrepancia queda señalada aquí, no resuelta.
+**Reconstruida (06-09-2026).** Esta página se reconstruyó frente al conjunto de datos confirmado
+del 07-08-2026, la misma generación ahora vigente en
+[[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]]. La versión anterior listaba 16
+entradas polacas de una selección superada; el recuento confirmado es de 55. Cada mercado,
+punto de referencia, distancia y recuento de clústeres a continuación procede de ese conjunto
+de datos.
 
-El **índice de Mercados Regionales de Polonia** enumera las 16 entradas polacas en el conjunto [[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]]. Cada entrada es un suburbio con nombre propio o municipio satélite situado entre 15 y 80 kilómetros de un punto de referencia metropolitano polaco importante que contiene al menos un clúster de co-localización minorista, calificado bajo el [[about-regional-markets-system|marco de mercado regional de co-localización]]. Esta página es una vista filtrada y específica de Polonia de esa tabla continental — no un conjunto de datos independiente —, de modo que cada entrada y conteo de nivel a continuación coincide exactamente con la tabla continental y se actualiza automáticamente si esa tabla se corrige. No se publica posición ni puntuación para ningún mercado.
+El **índice de mercados regionales de Polonia** enumera los 55 mercados de Polonia que cumplen
+las puertas de composición del sistema de co-ubicación bajo el conjunto de datos vigente del
+07-08-2026, extraídos de una reserva calificada de 75. Esta página es una vista filtrada,
+específica del país, de la tabla continental — no un conjunto de datos aparte. No se publica
+ninguna clasificación ni puntuación para ningún mercado.
 
-## Agrupaciones metropolitanas
+## Cobertura
 
-Los 16 mercados de Polonia se agrupan mayoritariamente en torno a Katowice (4 mercados), lo que refleja la densidad del cinturón suburbano de la Región Industrial de la Alta Silesia — el mismo clúster regional que sustenta a [[pl-bielsko-biala|Bielsko-Biała]]. Cracovia (3) y Gdańsk (2) forman un segundo nivel. Los mercados restantes son entradas individuales referidas a Kielce, Bydgoszcz, Łódź, Gliwice, Varsovia, Breslavia y Łomża.
+No se publica ninguna clasificación ni puntuación para ningún mercado de esta tabla. Todos los
+mercados listados a continuación cumplen la puerta de composición de Mercado Regional del marco
+— un ancla de hipermercado combinada con al menos dos de {ferretería, club de precio, estilo de
+vida, electrónica, deporte} entre los clústeres de co-ubicación del mercado. Metodología
+completa: [[about-regional-markets-system|Sistema de Inteligencia de Mercados Regionales]].
 
-## Composición por nivel
+El punto de referencia metropolitano registrado para cada mercado es el núcleo metropolitano
+principal más cercano dentro del conjunto de referencia continental del marco — una medición en
+línea recta (a vuelo de pájaro), no una estimación de tiempo de conducción o de desplazamiento
+diario. Tampoco es una afirmación de que el mercado funcione como suburbio de desplazamiento
+diario de ese núcleo. Los 55 mercados de Polonia hacen referencia a 19 núcleos distintos.
+Kielce concentra seis entradas, Lublin y Wrocław cinco cada uno, y Bydgoszcz, Gdańsk y Szczecin
+cuatro cada uno. Cuatro puntos de referencia se ubican fuera de Polonia: dos hacia Dresde
+(Alemania), uno hacia Bornholm (Dinamarca) — Koszalin, referenciada a 128 kilómetros a través
+del Báltico — y uno hacia Košice (Eslovaquia). La distancia mediana de referencia de Polonia es
+de 70 kilómetros, con 35 de sus 55 mercados a menos de 80 kilómetros de su punto de referencia
+y uno más allá de 150.
 
-Bielsko-Biała (suburbio de Katowice) es la única entrada de Polonia con dos clústeres de Nivel 1 y ancla cívica. Radom (suburbio de Kielce) es una combinación poco frecuente de N1+N2+N3 con ancla cívica. Toruń y Częstochowa combinan cada una un clúster de Nivel 1 y uno de Nivel 2. Diez de las entradas restantes de Polonia califican con un único clúster de Nivel 1 sin ancla cívica, y Gdynia y Nowy Sącz califican con una combinación de Nivel 2 + Nivel 3.
+Las cifras de población de la cuenca de influencia y de gasto de consumo constan para los 55
+mercados polacos, sin lagunas. Son contexto descriptivo únicamente y no intervienen en la
+selección.
+
+## Composición de clústeres
+
+Los 55 mercados suman 68 clústeres de co-ubicación — 60 de Nivel 1, tres de Nivel 2 y cinco de
+Nivel 3. Cincuenta y tres de los 55 cuentan con al menos un clúster de Nivel 1, y uno califica
+únicamente con clústeres de Nivel 3. Polonia tiene el mayor recuento de clústeres de Nivel 1 de
+cualquier país europeo del conjunto.
 
 ## Mercados
 
-| Mercado | Suburbio de | km | N1 | N2 | N3 | Cívica |
-|---|---|---|---|---|---|---|
-| [[pl-bielsko-biala|Bielsko-Biała]] | Katowice | 48 | 2 | 0 | 0 | Sí |
-| Radom | Kielce | 69 | 1 | 1 | 1 | Sí |
-| Toruń | Bydgoszcz | 45 | 1 | 1 | 0 | Sí |
-| Częstochowa | Katowice | — | 1 | 1 | 0 | — |
-| Tarnów | Cracovia | — | 1 | 0 | 0 | — |
-| Piotrków Trybunalski | Łódź | — | 1 | 0 | 0 | — |
-| Żory | Gliwice | — | 1 | 0 | 0 | — |
-| Piaseczno | Varsovia | — | 1 | 0 | 0 | — |
-| Tychy | Katowice | — | 1 | 0 | 0 | — |
-| Lubin | Breslavia | — | 1 | 0 | 0 | — |
-| Ostrołęka | Łomża | — | 1 | 0 | 0 | — |
-| Nowy Targ | Cracovia | — | 1 | 0 | 0 | — |
-| Gdynia | Gdańsk | — | 0 | 1 | 1 | — |
-| Nowy Sącz | Cracovia | — | 0 | 1 | 1 | — |
-| Poczesna | Katowice | — | 1 | 0 | 0 | — |
-| Rumia | Gdańsk | — | 1 | 0 | 0 | — |
+Esta tabla es una vista específica del país sobre el conjunto continental
+[[atlas-top-400-europe|Top 400 Mercados Regionales — Europa]]. No se publica ninguna
+clasificación ni puntuación para ningún mercado.
+
+| Mercado | Referencia metropolitana | km | N1 | N2 | N3 |
+|---|---|---|---|---|---|
+| Pabianice | Łódź | 12,8 | 1 | 0 | 0 |
+| Raszyn | Varsovia | 13,4 | 1 | 0 | 0 |
+| Mikołów | Katowice | 13,7 | 1 | 0 | 0 |
+| Piaseczno | Varsovia | 15,4 | 1 | 0 | 0 |
+| Tarnowskie Góry | Gliwice | 20,8 | 1 | 0 | 0 |
+| Rybnik | Gliwice | 23,5 | 1 | 0 | 0 |
+| Żory | Gliwice | 29,4 | 1 | 0 | 0 |
+| Rumia | Gdańsk | 30,3 | 1 | 0 | 0 |
+| Skarżysko-Kamienna | Kielce | 31,8 | 1 | 0 | 0 |
+| Stargard | Szczecin | 32,7 | 1 | 0 | 0 |
+| Ostrołęka | Łomża | 39,5 | 1 | 0 | 0 |
+| Inowrocław | Bydgoszcz | 39,8 | 1 | 0 | 0 |
+| Toruń | Bydgoszcz | 42,5 | 2 | 0 | 1 |
+| Starogard Gdański | Gdańsk | 44,1 | 1 | 0 | 0 |
+| Puławy | Lublin | 45,9 | 1 | 0 | 0 |
+| Nysa | Opole | 47,1 | 1 | 0 | 0 |
+| [[pl-bielsko-biala|Bielsko-Biała]] | Katowice | 47,5 | 2 | 0 | 0 |
+| Gniezno | Poznań | 48,8 | 0 | 0 | 1 |
+| Elbląg | Gdańsk | 53,5 | 1 | 0 | 0 |
+| Ostrowiec Świętokrzyski | Kielce | 53,8 | 1 | 0 | 0 |
+| Sieradz | Łódź | 53,9 | 1 | 0 | 0 |
+| Świnoujście | Szczecin | 57,8 | 1 | 0 | 0 |
+| Wałbrzych | Wrocław | 62,2 | 1 | 0 | 0 |
+| Chełm, lubelskie | Lublin | 63,9 | 1 | 0 | 0 |
+| Nowy Targ | Cracovia | 67,1 | 1 | 0 | 0 |
+| Ełk | Łomża | 68,1 | 1 | 0 | 0 |
+| Radom | Kielce | 68,7 | 2 | 1 | 0 |
+| Chojnice | Bydgoszcz | 70,5 | 1 | 0 | 0 |
+| Mława | Olsztyn | 74,0 | 1 | 0 | 0 |
+| Nowy Sącz | Cracovia | 74,0 | 2 | 0 | 0 |
+| Tarnów | Cracovia | 75,9 | 1 | 0 | 0 |
+| Zamość | Lublin | 76,7 | 1 | 0 | 0 |
+| Ciechanów | Varsovia | 76,9 | 1 | 0 | 0 |
+| Kłodzko | Wrocław | 78,9 | 1 | 0 | 0 |
+| Augustów | Białystok | 79,6 | 1 | 0 | 0 |
+| Ostrów Wielkopolski | Wrocław | 81,7 | 1 | 0 | 0 |
+| Tarnobrzeg | Kielce | 82,2 | 1 | 0 | 0 |
+| Piła | Poznań | 83,8 | 1 | 0 | 0 |
+| Mielec | Kielce | 86,6 | 1 | 0 | 0 |
+| Włocławek | Bydgoszcz | 87,5 | 1 | 0 | 0 |
+| Gorzów Wielkopolski | Szczecin | 88,3 | 2 | 0 | 0 |
+| Płock | Łódź | 89,4 | 2 | 0 | 0 |
+| Głogów | Wrocław | 89,8 | 1 | 0 | 0 |
+| Zgorzelec | Dresde (Alemania) | 90,8 | 1 | 0 | 0 |
+| Jelenia Góra | Wrocław | 92,7 | 1 | 0 | 0 |
+| Biała Podlaska | Lublin | 96,4 | 0 | 1 | 1 |
+| Słupsk | Gdańsk | 106,7 | 2 | 0 | 0 |
+| Kołobrzeg, Zachodniopomorskie | Szczecin | 107,0 | 1 | 0 | 0 |
+| Zielona Góra | Poznań | 109,8 | 1 | 1 | 0 |
+| Suwałki | Białystok | 111,2 | 1 | 0 | 0 |
+| Krosno | Košice (Eslovaquia) | 116,3 | 1 | 0 | 1 |
+| Żary | Dresde (Alemania) | 116,6 | 1 | 0 | 0 |
+| Koszalin | Bornholm (Dinamarca) | 128,3 | 1 | 0 | 0 |
+| Rzeszów | Kielce | 134,3 | 1 | 0 | 1 |
+| Przemyśl | Lublin | 162,8 | 1 | 0 | 0 |
 
 ## Red de anclas de co-ubicación
 

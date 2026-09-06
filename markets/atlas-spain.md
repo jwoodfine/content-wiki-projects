@@ -14,96 +14,113 @@ language_protocol: PROSE-TOPIC
 keynote: false
 last_edited: 2026-09-06
 editor: woodfine-editorial
-short_description: "Index of Spanish regional commercial real estate markets meeting the co-location composition gates."
+short_description: "Index of Spain's 55 Regional Markets meeting the co-location composition gates under the 2026-08-07 dataset."
 paired_with: markets/atlas-spain.es.md
 ---
 
-**Pending rebuild (2026-09-06).** The market table and counts on this page still reflect the pre-rebuild selection. Under the confirmed 2026-08-07 dataset, now live on [[atlas-top-400-europe|Top 400 Regional Markets — Europe]], Spain publishes 55 Regional Markets. Rebuilding this country table is a separate, scoped task — the discrepancy is flagged here, not resolved.
+**Rebuilt (2026-09-06).** This page was rebuilt against the confirmed 2026-08-07 dataset, the
+same build now live on [[atlas-top-400-europe|Top 400 Regional Markets — Europe]]. The prior
+version listed a smaller set of Spanish entries from a superseded selection; the confirmed
+count is 55. Every market, reference point, distance, and cluster count below comes from that
+dataset.
 
-The **Spain regional market index** lists Spanish cities and provincial capitals outside the
-primary Madrid and Barcelona metropolitan areas that meet the population, income, and retail
-infrastructure thresholds established by the [[about-regional-markets-system|co-location regional market
-framework]]. Spain's territorial organisation into seventeen autonomous communities, each with
-a principal urban centre and a network of secondary cities, produces a structured set of
-qualifying regional markets distributed across the Iberian Peninsula.
+The **Spain regional market index** lists the 55 markets in Spain that meet the co-location
+system's composition gates under the current 2026-08-07 dataset, drawn from a qualifying pool
+of 79. This page is a filtered, country-specific view of the continental table — not a separate
+dataset. No rank or score is published for any market.
 
-## National context
+## Coverage
 
-Spain's commercial real estate market presents a distinctive income geography. The northern
-autonomous communities — Basque Country, Navarre, La Rioja, and Aragon — exhibit household
-incomes above the national median consistent with strong industrial and agricultural export
-bases. The Mediterranean corridor from Catalonia through Valencia to Murcia contains several
-qualifying regional markets with established commercial property and retail investment. The
-interior plateau and southern Andalusia offer markets qualified primarily on population rather
-than income, with lower median household income requiring more careful demand analysis.
+No rank or score is published for any market in this table. Every market below qualifies under
+the framework's Regional Market composition gate — a hypermarket anchor paired with at least
+two of {hardware, price club, lifestyle, electronics, sport} across the market's co-location
+clusters. Full methodology:
+[[about-regional-markets-system|Regional Markets Intelligence System]].
 
-The Spanish retail landscape is anchored by Mercadona, Leroy Merlin, IKEA, and Decathlon,
-with Alcampo (Auchan) and Carrefour hypermarkets present in most provincial capitals above
-100,000 population. Leroy Merlin penetration — the primary DIY format — is a particularly
-reliable income and [[power-centres|power centre]] signal in Spanish regional markets.
+The metropolitan reference point recorded for each market is the nearest major metropolitan
+centre in the framework's continental reference set — a straight-line (crow-flies) distance
+measurement, not a drive-time or commuting estimate. It is not a claim that the market
+functions as a commuter suburb of that centre. Spain's 55 markets reference 18 distinct
+centres. Madrid carries eight entries, Alicante and Barcelona seven each, and Bilbao and
+Valencia four each. Two reference points sit outside Spain, both in Portugal: Badajoz
+references Lisbon and Cáceres references Coimbra. Spain's median reference distance is 77
+kilometres, with 29 of its 55 markets within 80 kilometres of their reference point and four
+beyond 150. The longest is Melilla at 209 kilometres, referenced across the Alborán Sea to
+Málaga.
 
-## Coverage by autonomous community
+Catchment population is recorded for all 55 Spanish markets. Consumer-spend figures are
+recorded for 44 of the 55 and absent for the remaining 11 — a disclosed gap in the underlying
+source data, stated plainly rather than presented as zero.
 
-**Basque Country** — [[es-pv-vitoria-gasteiz|Vitoria-Gasteiz]] (capital of Álava) as primary qualifying market;
-San Sebastián and Bilbao assessed as primary-adjacent markets requiring secondary-market
-targeting within the urban region.
+## Cluster composition
 
-**Navarre** — [[es-nc-pamplona|Pamplona]] and the Navarre Valley corridor; strong income; Leroy Merlin
-and Decathlon anchors confirm power centre viability.
-
-**Aragon** — [[es-ar-zaragoza-secondary|Zaragoza]] is large (primary market threshold); secondary cities Huesca and
-Teruel qualify on niche professional demand.
-
-**Castile and León** — [[es-cl-valladolid|Valladolid]], [[es-cl-burgos|Burgos]], León, Salamanca, and Ávila as primary regional
-qualifying markets; the largest land area of any autonomous community with the most
-distributed market set.
-
-**Valencian Community** — Alicante, Castellón de la Plana, and the Valencia metro's
-satellite municipalities as qualifying markets outside the primary Valencia urban core.
-
-**Andalusia** — Málaga (primary-market scale), Almería, Jaén, Huelva as secondary markets;
-income qualification requires careful verification.
-
-**Correction (2026-07-16):** none of Burgos, Pamplona, Valladolid, Vitoria-Gasteiz, or
-Zaragoza — all previously listed above as primary qualifying markets or in the removed
-Sample markets table below — actually appear among Spain's 22 verified entries in the
-[[atlas-top-400-europe|Top 400 Regional Markets — Europe]] list. This doesn't mean these
-places aren't real Spanish markets; it means they are not currently included in the TOP400
-co-location screen specifically. The Coverage by autonomous community prose above is left
-as a qualitative regional description rather than rewritten, but should not be read as
-implying these named markets are TOP400 entries.
+The 55 markets carry 68 co-location clusters between them — 53 Tier 1, two Tier 2, and 13 Tier
+3. Fifty-two of the 55 carry at least one Tier 1 cluster, and three qualify on Tier 3 clusters
+alone.
 
 ## Markets
 
-This table is a filtered, Spain-specific view of the continental
-[[atlas-top-400-europe|Top 400 Regional Markets — Europe]] table — not a separate dataset
-— so every entry and tier count matches the continental table exactly and updates
-automatically if that table is corrected. No rank or score is published for any market.
+This table is a country-specific view of the continental
+[[atlas-top-400-europe|Top 400 Regional Markets — Europe]] set. No rank or score is published for
+any market.
 
-| Market | Suburb of | km | T1 | T2 | T3 | Civic |
-|---|---|---|---|---|---|---|
-| Murcia | Alicante | 72 | 1 | 0 | 2 | Yes |
-| Gijón | Oviedo | — | 1 | 0 | 1 | — |
-| San Sebastián de los Reyes | Madrid | — | 1 | 0 | 0 | — |
-| Castelló de la Plana | Valencia | — | 1 | 0 | 0 | — |
-| Las Rozas de Madrid | Madrid | — | 1 | 0 | 0 | — |
-| Gavà | Barcelona | — | 1 | 0 | 0 | — |
-| Badia del Vallès | Barcelona | — | 1 | 0 | 0 | — |
-| Elche | Alicante | — | 1 | 0 | 0 | — |
-| Rivas-Vaciamadrid | Madrid | — | 1 | 0 | 0 | — |
-| Parets del Vallès | Barcelona | — | 1 | 0 | 0 | — |
-| Alcalá de Henares | Madrid | — | 1 | 0 | 0 | — |
-| Getafe | Madrid | — | 1 | 0 | 0 | — |
-| Ferrol | A Coruña | — | 1 | 0 | 0 | — |
-| Talavera de la Reina | Toledo | — | 1 | 0 | 0 | — |
-| Orihuela | Alicante | — | 1 | 0 | 0 | — |
-| Jaén | Granada | — | 1 | 0 | 0 | — |
-| Finestrat | Alicante | — | 1 | 0 | 0 | — |
-| Xàtiva | Valencia | — | 1 | 0 | 0 | — |
-| Fuengirola | Málaga | — | 1 | 0 | 0 | — |
-| Nigrán | Braga | — | 1 | 0 | 0 | — |
-| Jerez de la Frontera | Cádiz | — | 0 | 0 | 2 | — |
-| Torrejón de Ardoz | Madrid | — | 0 | 0 | 2 | — |
+| Market | Metropolitan reference | km | T1 | T2 | T3 |
+|---|---|---|---|---|---|
+| Sant Boi de Llobregat | Barcelona | 12.1 | 1 | 0 | 0 |
+| Alcorcón | Madrid | 15.1 | 1 | 0 | 0 |
+| San Sebastián de los Reyes | Madrid | 16.2 | 1 | 0 | 0 |
+| Rivas-Vaciamadrid | Madrid | 16.4 | 1 | 0 | 0 |
+| Pinto | Madrid | 17.0 | 1 | 0 | 0 |
+| Torrejón de Ardoz | Madrid | 20.2 | 0 | 0 | 2 |
+| Elche | Alicante | 21.7 | 1 | 0 | 0 |
+| Narón | A Coruña | 22.3 | 1 | 0 | 0 |
+| Jerez de la Frontera | Cádiz | 22.4 | 1 | 0 | 1 |
+| Gijón | Oviedo | 23.3 | 1 | 0 | 1 |
+| Durango | Bilbao | 26.4 | 1 | 0 | 0 |
+| Fuengirola | Málaga | 27.4 | 1 | 0 | 0 |
+| Alcalá de Henares | Madrid | 31.0 | 1 | 0 | 0 |
+| Villajoyosa | Alicante | 33.8 | 1 | 0 | 0 |
+| Vilanova i la Geltrú | Barcelona | 40.9 | 1 | 0 | 0 |
+| Cocentaina | Alicante | 41.8 | 1 | 0 | 0 |
+| Palencia | Valladolid | 42.4 | 1 | 0 | 0 |
+| Motril | Granada | 48.9 | 1 | 0 | 0 |
+| Orihuela | Alicante | 50.7 | 1 | 0 | 0 |
+| Santiago de Compostela | A Coruña | 53.7 | 1 | 0 | 1 |
+| Xàtiva | Valencia | 54.3 | 1 | 0 | 0 |
+| Vic | Barcelona | 61.9 | 1 | 0 | 0 |
+| Castelló de la Plana | Valencia | 62.7 | 1 | 0 | 1 |
+| Huesca | Zaragoza | 66.0 | 1 | 0 | 0 |
+| Talavera de la Reina | Toledo | 67.8 | 1 | 0 | 0 |
+| Jaén | Granada | 69.5 | 1 | 0 | 0 |
+| Murcia | Alicante | 70.4 | 1 | 1 | 1 |
+| Santander | Bilbao | 77.4 | 1 | 0 | 0 |
+| Lugo | A Coruña | 78.6 | 1 | 0 | 0 |
+| Girona | Barcelona | 83.5 | 1 | 0 | 0 |
+| Tarragona | Barcelona | 84.6 | 1 | 0 | 0 |
+| Los Barrios | Cádiz | 85.3 | 1 | 0 | 0 |
+| Ávila | Madrid | 86.4 | 1 | 0 | 0 |
+| Castell-Platja d'Aro | Barcelona | 87.0 | 1 | 0 | 0 |
+| León | Oviedo | 88.2 | 1 | 0 | 1 |
+| Cartagena | Alicante | 92.1 | 1 | 0 | 0 |
+| Logroño | Bilbao | 97.8 | 1 | 0 | 1 |
+| Ciudad Real | Toledo | 98.2 | 1 | 0 | 0 |
+| Roquetas de Mar | Granada | 98.2 | 2 | 0 | 0 |
+| Lepe | Seville | 108.1 | 1 | 0 | 0 |
+| Salamanca | Valladolid | 109.5 | 1 | 0 | 0 |
+| [[es-cl-burgos|Burgos]] | Valladolid | 115.2 | 1 | 0 | 2 |
+| Aranguren | Bilbao | 117.8 | 1 | 0 | 0 |
+| Figueres | Barcelona | 118.7 | 1 | 0 | 0 |
+| Lleida | Zaragoza | 126.2 | 1 | 1 | 0 |
+| Eivissa | Palma | 127.1 | 1 | 0 | 0 |
+| Vinaròs | Valencia | 130.9 | 1 | 0 | 0 |
+| Lorca | Alicante | 131.3 | 1 | 0 | 0 |
+| Cuenca | Madrid | 137.9 | 1 | 0 | 0 |
+| Albacete | Valencia | 138.9 | 0 | 0 | 1 |
+| Villanueva de la Serena | Córdoba | 149.9 | 1 | 0 | 0 |
+| Tortosa | Zaragoza | 150.9 | 1 | 0 | 0 |
+| Badajoz | Lisbon (Portugal) | 186.6 | 1 | 0 | 0 |
+| Cáceres | Coimbra (Portugal) | 191.3 | 1 | 0 | 0 |
+| Melilla | Málaga | 209.0 | 0 | 0 | 1 |
 
 ## Co-location anchor network
 
