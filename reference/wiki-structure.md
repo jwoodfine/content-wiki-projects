@@ -38,9 +38,6 @@ fixed prototype, with the tenants and economics of each class.
 tenant's needs outward, [[fixed-floor-plates|fixed floor plates]], and the [[boma-standard|measurement
 standards]] and certifications the buildings are held to.
 
-**[[architecture-overview|Architectural Styles]]** surveys the design culture the
-buildings stand in, from classical to contemporary movements.
-
 ## The places
 
 **Site Selection** is the method: the retail anchors, the analysis

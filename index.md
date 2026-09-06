@@ -35,8 +35,8 @@ The platform is live at gis.woodfinegroup.com.
 Articles are organized into categories covering the buildings and their design, the
 site-selection method, and the [[markets|regional markets]] it applies to. Further categories
 cover the development program, the commercial real estate market,
-[[urban|urban and demographic context]], [[architecture|architectural styles]], geographic
-data, and reference terminology. The co-location methodology section covers the
+[[urban|urban and demographic context]], geographic data, and reference
+terminology. The co-location methodology section covers the
 [[co-location-strategy|strategy]], [[power-centres|power centre anchors]], [[fixed-floor-plates|floor plate
 standards]], and the [[mix-of-use|mix-of-use]] tenant model in detail.
 

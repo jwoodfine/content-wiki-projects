@@ -516,3 +516,49 @@ redirects:
     to: /wiki/co-location-tier-system
   - from: /markets/atlas-tier-index-europe
     to: /wiki/co-location-tier-system
+
+  # Content-scope retraction, 2026-09-05 (operator-directed, extending the 2026-08-24
+  # ruling to the whole architecture category): general architectural-styles/movements
+  # reference content carries no Woodfine-specific procedure or fact, so it is out of
+  # scope for this wiki. All 19 articles archived and the category retired; indexed in
+  # the live sitemap, redirected to building-design, which carries Woodfine's own design
+  # practice.
+
+  - from: /architecture-overview
+    to: /category/building-design
+  - from: /art-deco
+    to: /category/building-design
+  - from: /baroque-architecture
+    to: /category/building-design
+  - from: /bauhaus
+    to: /category/building-design
+  - from: /built-environment
+    to: /category/building-design
+  - from: /classical-architecture
+    to: /category/building-design
+  - from: /contemporary-architecture
+    to: /category/building-design
+  - from: /contextual-architecture
+    to: /category/building-design
+  - from: /deconstructivism
+    to: /category/building-design
+  - from: /gothic-architecture
+    to: /category/building-design
+  - from: /high-tech-architecture
+    to: /category/building-design
+  - from: /modern-architecture
+    to: /category/building-design
+  - from: /neo-futurism
+    to: /category/building-design
+  - from: /neoclassical-architecture
+    to: /category/building-design
+  - from: /neomodern
+    to: /category/building-design
+  - from: /new-classical-architecture
+    to: /category/building-design
+  - from: /new-urbanism
+    to: /category/building-design
+  - from: /postmodern-architecture
+    to: /category/building-design
+  - from: /vernacular-architecture
+    to: /category/building-design

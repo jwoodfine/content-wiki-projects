@@ -43,10 +43,6 @@ las necesidades del inquilino hacia afuera, [[fixed-floor-plates|plantas de dime
 las [[boma-standard|normas de medición y certificaciones]] a las que se someten los
 edificios, incluida la práctica BIM.
 
-**[[architecture-overview|Estilos arquitectónicos]]** recorre la cultura de diseño en la
-que se enmarcan los edificios, desde los movimientos clásicos hasta los
-contemporáneos.
-
 ## Los lugares
 
 **Selección de sitios** es el método: las anclas comerciales, el

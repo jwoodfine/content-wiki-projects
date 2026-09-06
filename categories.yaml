@@ -81,15 +81,6 @@ categories:
     audience: "Development-market firms; AEC professionals"
     order: 7
 
-  - id: architecture
-    name: "Architectural Styles"
-    scope: >-
-      The design culture the buildings stand in: architectural styles
-      and movements from classical to contemporary, and how they bear on
-      commercial buildings.
-    audience: "Architects; AEC professionals; general readers"
-    order: 8
-
   - id: gis
     name: "Maps and Data"
     scope: >-
