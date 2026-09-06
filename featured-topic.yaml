@@ -6,37 +6,54 @@
 # real-asset desk, sovereign-wealth real estate allocator, regional retail-
 # development banker. Bloomberg/FT register; deal-pipeline framing.
 #
-# Quarterly rotation pool (17 articles in priority order for institutional banker relevance):
+# Every entry below must name a slug that resolves to a LIVE article. An entry whose
+# article is archived, retracted, or superseded is removed from the pool rather than left
+# in place — a pin that cannot resolve renders an empty featured panel.
+#
+# Rotation pool, in priority order for institutional relevance:
 #
 # Q1 — Flagship methodology (3 weeks):
-#   1. co-location-ranking-system          — deterministic site-tier index; scarcity of the highest-tier sites in the current dataset
+#   1. co-location-ranking-system          — country-relative predicate gates, not a composite score
 #   2. co-location-methodology             — Named-Anchor Model; rejects analyst forecasts
-#   3. co-location-intelligence-overview   — 7,567 clusters across 24 countries (NA + Europe)
+#   3. co-location-intelligence-overview   — the four-tier index and what the platform covers
 #
 # Q2 — Governance & risk control (4 weeks):
 #   4. asset-architecture-standard         — concrete-and-steel; eliminates design variance
-#   5. zoning-acquisition-rules            — no land banking; active-development requirement
+#   5. zoning-acquisition-rules            — verified entitlement position; no land banking
 #   6. co-location-anchors                 — national retail credit quality validates adjacent office
 #   7. site-ledger-integration             — immutable daily construction audit trail
 #
-# Q3 — North America regional indices (5 weeks):
-#   8. tier-index-north-america            — highest-tier sites; scarcity baseline
-#   9. co-location-index-us                — screened from 3,500+ nodes; anchor-composition tiering
-#  10. co-location-index-canada            — Grande Prairie, Milton, Dartmouth among the highest-tier sites
-#  11. co-location-index-mexico            — 300+ evaluated; Walmart/Home Depot/Costco convergence
+# Q3 — North America coverage (4 weeks):
+#   8. atlas-top-400-north-america         — the continental table for North America
+#   9. atlas-united-states
+#  10. atlas-canada
+#  11. atlas-mexico
 #
-# Q4 — Europe regional indices (5 weeks):
-#  12. tier-index-europe                   — data-maturity profile across the covered node set
-#  13. co-location-index-spain             — IKEA-anchored; Leroy Merlin + Makro support
-#  14. co-location-index-italy             — a small highest-tier set alongside a broader secondary-cities story
-#  15. co-location-index-nordics           — Bilka, Prisma, K-Citymarket regional variants
-#  16. co-location-index-poland            — central Europe high-growth; post-EU-accession
+# Q4 — Europe coverage (4 weeks):
+#  12. atlas-top-400-europe                — the continental table for Europe
+#  13. atlas-spain
+#  14. atlas-italy
+#  15. atlas-poland
 #
 # Recurring thematic (rotates back at quarter boundaries):
-#  17. regional-market-matrix              — why each Regional Market qualifies; objective current-state criteria
+#  16. about-regional-markets-system       — how a geography qualifies as a Regional Market
+#  17. co-location-tier-system             — Regional, District, Local, Fringe
+#
+# Rebuilt 2026-09-06 (Track-B Phase 5 homepage sweep). The previous pool had not been swept
+# during Track-B: 10 of its 17 entries named articles that no longer exist — the
+# tier-index-* pair and the six co-location-index-* country pages, all replaced by the
+# atlas-* set in the markets restructure, plus regional-market-matrix. Their one-line
+# descriptions also carried the "Tier 5" points-based vocabulary retired platform-wide on
+# 2026-05-16 and pipeline counts ("7,567 clusters", "3,500+ nodes", "300+ evaluated")
+# redacted from the corpus earlier the same day. The live pin itself still used the
+# `topic-` slug prefix retired in the Batch B1 Part 4 migration.
 #
 # Operator advances the pin weekly by editing the slug line below.
 
-slug: topic-co-location-ranking-system
-since: 2026-05-09
-note: Q1 rotation 1 — methodology cornerstone; the deterministic index that converts capital convergence into defensible site tiers
+slug: co-location-ranking-system
+since: 2026-09-06
+note: >-
+  Q1 rotation 1 — methodology cornerstone; the deterministic, country-relative gate model
+  that converts capital convergence into defensible site tiers. Slug corrected 2026-09-06:
+  the pin had read `topic-co-location-ranking-system` since 2026-05-09, a prefix retired in
+  the Batch B1 Part 4 migration. Same article, live slug.

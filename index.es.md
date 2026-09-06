@@ -3,13 +3,13 @@ schema: foundry-doc-v1
 content_type: page
 title: "Woodfine Capital Projects — Plataforma de Inteligencia de Co-ubicación"
 slug: index
-short_description: "Plataforma de inteligencia de coubicación minorista de Woodfine — metodologías espaciales, algoritmos de clasificación, e índices de despliegue regional en América del Norte y Europa, con 7.567 clusters de co-ubicación puntuados en 24 países según la ejecución de procesamiento completa más reciente (2026-08-06)."
+short_description: "El registro de edificios y lugares de Woodfine Capital Projects Inc.: seis clases de desarrollo, el sistema de diseño que las sustenta y el método de selección de sitios construido sobre anclas minoristas establecidas. Los artículos abarcan los mercados regionales de América del Norte y Europa, el programa de desarrollo planificado, y los mapas y datos que respaldan el análisis."
 lang: es
 paired_with: index.md
 category: root
 status: active
 bcsc_class: current-fact
-last_edited: 2026-08-26
+last_edited: 2026-09-06
 editor: pointsav-engineering
 ---
 
@@ -28,18 +28,23 @@ de almacén, las ferreterías de gran superficie y los minoristas de mercancía 
 propios procesos de selección de sitios.
 
 Según la ejecución de procesamiento completa más reciente (2026-08-06), la plataforma de
-inteligencia de co-localización ha evaluado 7.567 clusters en 24 países de América del Norte
-y Europa. Esta enciclopedia es la referencia metodológica para el
+inteligencia de co-localización cubre 24 países de América del Norte y Europa. Los recuentos
+actuales de clústeres se publican en vivo en la plataforma y no se reproducen aquí — una
+instantánea en la enciclopedia queda desactualizada entre ejecuciones. Esta enciclopedia es
+la referencia metodológica para el
 [[co-location-ranking-system|algoritmo de clasificación]], los estándares
 de [[asset-architecture-standard|arquitectura de activos]] y el [[co-location-tier-system|sistema
 de niveles de co-ubicación]] aplicado en América del Norte y Europa.
 La plataforma está disponible en gis.woodfinegroup.com.
 
-Los artículos están organizados en categorías que abarcan los edificios y su diseño, el método
-de selección de sitios y los [[markets|mercados regionales]] a los que se aplica. Otras
-categorías cubren el programa de desarrollo, el mercado inmobiliario comercial, el
-[[urban|contexto urbano y demográfico]], los datos geográficos y la terminología
-de referencia.
+Los artículos están organizados en categorías que abarcan las clases de desarrollo y su
+diseño, el método de selección de sitios y los [[markets|mercados regionales]] a los que se
+aplica. Otras categorías cubren el programa de desarrollo planificado, las condiciones de
+oferta y de capital, la [[urban|demanda y la demografía]], los mapas y datos que respaldan el
+análisis, y el glosario y los términos de referencia. El método en sí se expone en
+[[co-location-strategy|la estrategia de co-localización]], [[power-centres|las anclas de
+power centre]], [[fixed-floor-plates|las plantas de dimensión fija]] y el modelo de inquilinos
+[[mix-of-use|de uso mixto]].
 
 Las declaraciones prospectivas en esta enciclopedia reflejan las intenciones actuales y están
 sujetas a riesgos e incertidumbres; las afirmaciones se formulan con términos como planificado,

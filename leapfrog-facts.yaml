@@ -18,25 +18,36 @@
 # Revised: 2026-08-25 by project-editorial Task — corrected stale cluster/location/
 #   country counts against live project-gis pipeline data (see reference-invariants.yaml
 #   revision of the same date for the verification trail)
+# Rebuilt: 2026-09-06 by project-editorial (Track-B Phase 5 homepage sweep). This panel
+#   had not been swept during Track-B and was the most stale surface on the wiki. Every
+#   `link_slug` still carried the `topic-` prefix retired in the Batch B1 Part 4 migration;
+#   three of the seven named articles no longer exist at all (tier-index-north-america,
+#   tier-index-europe, co-location-index-canada — replaced by the atlas-* set in the
+#   markets restructure); and four of the seven fact texts asserted the "Tier 5"
+#   points-based vocabulary retired platform-wide on 2026-05-16, together with the
+#   specific score values ("3.7% of total anchor locations", "exactly 102 Tier 5 sites",
+#   "0 Tier 5 count") that commit 5e6d9c7 removed wiki-wide as stale and wrong. A seventh
+#   asserted the 7,567-cluster figure redacted from the corpus earlier the same day
+#   (commit 9a3221d) on the grounds that a wiki snapshot goes stale between processing runs.
+#
+#   Kept: the co-location-methodology and site-ledger-integration facts — both texts were
+#   already accurate and free of retired vocabulary; only their slugs needed the prefix
+#   dropped. Added three replacements drawn from live articles, carrying the current
+#   four-tier predicate-gate vocabulary (Regional, District, Local, Fringe) and no
+#   pipeline counts, since counts belong on the GIS platform rather than in a wiki snapshot.
 
 facts:
-  - text: "The platform evaluates 7,567 co-location clusters across 24 countries — the current North American and European retail footprint, as of the most recent full processing run (2026-08-06)."
-    link_slug: topic-co-location-intelligence-overview
+  - text: "Every cluster carries one of four tiers — Regional, District, Local, or Fringe — assigned by a binary predicate gate rather than an accumulated score: a site either clears the anchor-adjacency test or it does not."
+    link_slug: co-location-intelligence-overview
 
-  - text: "Tier 5 sites in North America represent only 3.7% of total anchor locations, well below the 10% calibration threshold that would trigger secondary-radius tightening."
-    link_slug: topic-co-location-ranking-system
-
-  - text: "The North American index identifies exactly 102 Tier 5 sites — locations where a Primary anchor converges with both hardware and warehouse secondary, plus healthcare and higher-education tertiary infrastructure within 3km–5km catchments."
-    link_slug: topic-tier-index-north-america
-
-  - text: "Canadian nodes in Grande Prairie, Milton, and Dartmouth achieve full Tier 5 convergence with explicitly named hospitals and regional colleges as tertiary anchors, making institutional capital deployment defensible at the municipal level."
-    link_slug: topic-co-location-index-canada
+  - text: "A cluster's tier depends on where it stands against every other cluster in its own country, not against a fixed global threshold — a nationally significant cluster in a small market is read against its own national field rather than swamped by a larger one."
+    link_slug: co-location-ranking-system
 
   - text: "The co-location methodology rejects analyst forecasts entirely: every node is validated by the independent capital commitments of named national-format retailers — operators that apply rigorous traffic-count and demographic analysis before any site selection."
-    link_slug: topic-co-location-methodology
+    link_slug: co-location-methodology
 
-  - text: "European Tier 5 sites do not exist in the current dataset — the 0 Tier 5 count reflects data maturity gaps in tertiary healthcare and higher-education infrastructure, not market weakness."
-    link_slug: topic-tier-index-europe
+  - text: "Every parcel is acquired against a verified entitlement position and an active development timeline — speculative land banking is prohibited by the acquisition model, not just by policy."
+    link_slug: zoning-acquisition-rules
 
   - text: "Every Woodfine development site generates an immutable daily construction audit trail — flat-text records that investors and regulators can independently verify, with no database dependency or retrospective rewrites permitted."
-    link_slug: topic-site-ledger-integration
+    link_slug: site-ledger-integration

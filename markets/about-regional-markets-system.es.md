@@ -26,7 +26,7 @@ El conjunto de datos actual abarca varios miles de clústeres de co-localizació
 
 ## Alcance del Conjunto de Datos
 
-La construcción actual cubre 7.567 clústeres de co-localización en 24 países de dos continentes.
+La construcción actual cubre varios miles de clústeres de co-localización en 24 países de dos continentes.
 
 | Región | Países |
 |---|---|

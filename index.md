@@ -3,11 +3,11 @@ schema: foundry-doc-v1
 content_type: page
 title: "Woodfine Capital Projects — Co-location Intelligence Platform"
 slug: index
-short_description: "The buildings-and-places record for Woodfine Capital Projects Inc.: six development classes, the design system behind them, and the site-selection method built on established retail anchors. Articles span regional markets across North America and Europe, the rollout programme, and the maps and data behind the analysis."
+short_description: "The buildings-and-places record for Woodfine Capital Projects Inc.: six development classes, the design system behind them, and the site-selection method built on established retail anchors. Articles span regional markets across North America and Europe, the planned development program, and the maps and data behind the analysis."
 category: root
 status: active
 bcsc_class: current-fact
-last_edited: 2026-08-26
+last_edited: 2026-09-06
 editor: pointsav-engineering
 ---
 
@@ -25,20 +25,21 @@ retail capital — the same objective demand signal used by warehouse clubs, hom
 superstores, and general merchandise chains in their own site-selection processes.
 
 As of the most recent full processing run (2026-08-06), the co-location intelligence platform
-has scored 7,567 clusters across 24 countries spanning North America and Europe. This
+covers 24 countries across North America and Europe. Current cluster counts are published live
+on the platform rather than restated here — a wiki snapshot goes stale between runs. This
 encyclopedia is the methodology reference for
 the [[co-location-ranking-system|ranking algorithm]], [[asset-architecture-standard|asset
 architecture]] standards, and the [[co-location-tier-system|co-location tier system]] applied
 across North America and Europe.
 The platform is live at gis.woodfinegroup.com.
 
-Articles are organized into categories covering the buildings and their design, the
+Articles are organized into categories covering the development classes and their design, the
 site-selection method, and the [[markets|regional markets]] it applies to. Further categories
-cover the development program, the commercial real estate market,
-[[urban|urban and demographic context]], geographic data, and reference
-terminology. The co-location methodology section covers the
-[[co-location-strategy|strategy]], [[power-centres|power centre anchors]], [[fixed-floor-plates|floor plate
-standards]], and the [[mix-of-use|mix-of-use]] tenant model in detail.
+cover the planned development program, supply and capital conditions,
+[[urban|demand and demographics]], the maps and data behind the analysis, and the glossary
+and reference terms. The method itself is set out across
+[[co-location-strategy|the co-location strategy]], [[power-centres|power centre anchors]],
+[[fixed-floor-plates|fixed floor plates]], and the [[mix-of-use|mix-of-use]] tenant model.
 
 Forward-looking statements in this wiki reflect current intentions and are subject to risk and
 uncertainty; statements are framed using planned, intended, or target language per the firm's
