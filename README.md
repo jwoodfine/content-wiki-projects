@@ -62,7 +62,7 @@ For institutional inquiries: **[woodfinegroup.com](https://woodfinegroup.com)**
 
 ---
 
-*© 2026 Woodfine Capital Projects Inc. All rights reserved.*
+*© 2026 Woodfine Capital Projects Inc. Licensed under [Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)](https://creativecommons.org/licenses/by-nd/4.0/); all rights not expressly granted by the license are reserved.*
 
 *→ Versión en español: [README.es.md](./README.es.md)*
 
